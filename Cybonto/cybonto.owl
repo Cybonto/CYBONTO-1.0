@@ -1,0 +1,3429 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#"
+     xml:base="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:ns="http://creativecommons.org/ns#"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:adms="http://www.w3.org/ns/adms#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:vann="http://purl.org/vocab/vann/"
+     xmlns:terms="http://purl.org/dc/terms/"
+     xmlns:cybonto="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#cybonto:"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:ace_lexicon="http://attempto.ifi.uzh.ch/ace_lexicon#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto">
+        <owl:imports rdf:resource="http://ontology.eil.utoronto.ca/organization.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/MF/2020-08-07/MF.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo/2019-08-26/bfo.owl"/>
+        <rdfs:label>cybonto</rdfs:label>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto_person#cybonto:Person"/>
+        <rdfs:label xml:lang="en">has influence on</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000002 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000002">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto_person#cybonto:Person"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000016 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000016">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_0007610 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GO_0007610">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000008"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000020"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#circumstances"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#differential_association"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#mastery_experience"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000008 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000008">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#circumstances"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000012 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000012">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_schemata"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coping_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#experiential_awareness"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#noetic_awareness"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_responsibility"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#propositional_representations"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#threat_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>Emotional arousal/physiological states
+
+Emotional feelings - Protection Motivation Theory
+https://psycnet.apa.org/record/1997-36396-006
+
+Affective reactions - Affective Events Theory
+https://psycnet.apa.org/record/1996-98665-001
+
+Energising functions - Goal Setting Theory
+https://psycnet.apa.org/record/1990-97846-000?cid=SEM_DIR0016&amp;con=13833&amp;pkw=morningstar25252525252525252520direct&amp;elqCampaignId=6282&amp;prd=cloud&amp;cap=research252525252525252520portal&amp;gclid=EAIaIQobChMI9KfZioi33AIVyLTtCh07gw7KEAAYASAAEgLGF_D_BwE</obo:IAO_0000118>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000019 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000019">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_schemata"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#noetic_awareness"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#propositional_representations"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000020 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000020">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>personal and cognitive factors - social cognitive theory</obo:IAO_0000118>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000025 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000025">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#forethought_capability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000033 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000033">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#learning"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_consensus"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000035 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000035">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coping_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#threat_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>verbal persuasion - Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000118>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000037 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000037">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#focus"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#learning"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_consensus"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#persistence"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#relational_schemata"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000041 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000041">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#autonomous_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#intrinsic_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000043 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000043">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000070 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000070">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coping_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#threat_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>Reference point
+Prior experiences - Protection Motivation Theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000118>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000076 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000076">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#autonomous_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_schemata"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#intrinsic_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_consensus"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#persistence"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000202 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000202">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coping_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#threat_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MF_0000203 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/MF_0000203">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coping_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#threat_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/knowledge -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/knowledge">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000033"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#autonomous_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_schemata"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coding"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#intrinsic_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#noetic_awareness"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#propositional_representations"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>+ a reference point (prospect theory)</obo:IAO_0000115>
+        <obo:IAO_0000119>Prospect theory
+https://www.worldscientific.com/doi/abs/10.1142/9789814417358_0006</obo:IAO_0000119>
+        <rdfs:label>knowledge</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#Obsolete_classes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#Obsolete_classes"/>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#Opportunity_for_criminal_acts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#Opportunity_for_criminal_acts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#circumstances"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Differential Association Theory
+https://books.google.com/books?hl=en&amp;lr=&amp;id=wGbhKS3BvqMC&amp;oi=fnd&amp;pg=PA64&amp;ots=ZbeeMcSWki&amp;sig=6dK4vUGp-wI5iM78gdSFWDOvPHY#v=onepage&amp;q&amp;f=false</obo:IAO_0000119>
+        <rdfs:label>opportunity for criminal acts</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#Parent-child_experience -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#Parent-child_experience">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#experience"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>General Theory of Crime
+https://psycnet.apa.org/record/1990-97753-000</obo:IAO_0000119>
+        <rdfs:label>parent-child experience</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#Participant_modeling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#Participant_modeling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#modeling"/>
+        <rdfs:label>participant modeling</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#Pluralistic_ignorance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#Pluralistic_ignorance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#norms"/>
+        <dc:description>The belief of most group members about they themselves being the minorities within the group</dc:description>
+        <dc:source>http://alanberkowitz.com/articles/social%20norms%20approach-short.pdf</dc:source>
+        <rdfs:label>Pluralistic ignorance</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#adaptive_response -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#adaptive_response">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coping_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>a protective, desired response</obo:IAO_0000115>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>adaptive response</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#amotivation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#amotivation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#motivation"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>a reduced sense of motivation and autonomy</obo:IAO_0000115>
+        <obo:IAO_0000119>Self-Determination Theory
+https://psycnet.apa.org/record/2011-21800-020</obo:IAO_0000119>
+        <rdfs:label>amotivation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000008"/>
+        <obo:IAO_0000119>Theory of Planned Behavior
+https://www.sciencedirect.com/science/article/abs/pii/074959789190020T</obo:IAO_0000119>
+        <rdfs:label>appraisal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal_of_self-efficacy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal_of_self-efficacy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Self-Efficacy Theory
+https://psycnet.apa.org/record/1997-08589-000</obo:IAO_0000119>
+        <rdfs:label>appraisal of self-efficacy</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal_of_social_identity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal_of_social_identity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-identity"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-referencing"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#cybonto:Group"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Social Identity Theory
+https://books.google.com/books?hl=en&amp;lr=&amp;id=l2R7DwAAQBAJ&amp;oi=fnd&amp;pg=PA56&amp;dq=Tajfel,+H.+%26+Turner&amp;ots=AA_A7SfUEN&amp;sig=bdmyhKrY4veIzhtd4TQRMTHQYbY#v=onepage&amp;q=Tajfel%2C%20H.%20%26%20Turner&amp;f=false</obo:IAO_0000119>
+        <rdfs:label>appraisal of social identity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#associative_learning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#associative_learning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#autonomous_motivation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#autonomous_motivation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#motivation"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Self-Determination Theory
+https://psycnet.apa.org/record/2011-21800-020</obo:IAO_0000119>
+        <rdfs:label>autonomous motivation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000075"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000008"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#amotivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#autonomous_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#controlled_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#intrinsic_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_behavioral_control"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the ability to follow through with original intention despite competing desires and impulses</obo:IAO_0000115>
+        <obo:IAO_0000118>self-control
+actual behavior control
+self-regulatory ability - social cognitive theory</obo:IAO_0000118>
+        <obo:IAO_0000119>General Theory of Crime
+https://psycnet.apa.org/record/1990-97753-000</obo:IAO_0000119>
+        <rdfs:label>behavior control-ability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_goal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_goal">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Goal Setting Theory
+https://psycnet.apa.org/record/1990-97846-000?cid=SEM_DIR0016&amp;con=13833&amp;pkw=morningstar25252525252525252520direct&amp;elqCampaignId=6282&amp;prd=cloud&amp;cap=research252525252525252520portal&amp;gclid=EAIaIQobChMI9KfZioi33AIVyLTtCh07gw7KEAAYASAAEgLGF_D_BwE</obo:IAO_0000119>
+        <rdfs:label>behavior goal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_belief -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_belief">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000041"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the belief about the likely outcome or other attributes of the behavior</obo:IAO_0000115>
+        <obo:IAO_0000119>Theory of Planned Behaviour
+https://www.sciencedirect.com/science/article/abs/pii/074959789190020T</obo:IAO_0000119>
+        <rdfs:label>behavioral belief</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_schemata -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_schemata">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000070"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Reflective Impulsive Model
+https://journals.sagepub.com/doi/abs/10.1207/s15327957pspr0803_1</obo:IAO_0000119>
+        <rdfs:label>behavioral schemata</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#belief -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#belief">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#cybonto:Group"/>
+        <rdfs:label>belief</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#certainty_effect -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#certainty_effect">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000076"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#decision_weight"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>The intent to overweight outcomes with higher certainty</obo:IAO_0000115>
+        <obo:IAO_0000119>Prospect theory
+https://www.worldscientific.com/doi/abs/10.1142/9789814417358_0006</obo:IAO_0000119>
+        <rdfs:label>certainty effect</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#circumstances -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#circumstances">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#cybonto:Group"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000008"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000020"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#Opportunity_for_criminal_acts"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#extrinsic_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#frustration_of_needs"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#satisfaction_of_needs"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>circumstances was put under Group due to the view that all circumstances involve more than just one person. Note that other people may indirectly involve in the circumstances.
+For example, a thief saw an unlocked motor bike. In this crime-promoting circumstance, someone has to put the unlocked bike there in the first place.</obo:IAO_0000115>
+        <obo:IAO_0000118>environment - Social Cognitive Theory</obo:IAO_0000118>
+        <rdfs:label>circumstances</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coding">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000008"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the process of shorting outcomes to gains or losses</obo:IAO_0000115>
+        <obo:IAO_0000119>Prospect theory
+https://www.worldscientific.com/doi/abs/10.1142/9789814417358_0006</obo:IAO_0000119>
+        <rdfs:label>coding</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#combining -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#combining">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000008"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the process of simplifying prospects by combining those with similar probabilities of certain outcomes and evaluating such prospects as a whole.</obo:IAO_0000115>
+        <obo:IAO_0000119>Prospect theory
+https://www.worldscientific.com/doi/abs/10.1142/9789814417358_0006</obo:IAO_0000119>
+        <rdfs:label>combining</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#comply_effect -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#comply_effect">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000076"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#autonomous_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#extrinsic_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#normative_belief"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#protection_effect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>Message acceptance - Extended Parallel Processing Model</obo:IAO_0000118>
+        <obo:IAO_0000118>identified regulation - Self-Determination Theory</obo:IAO_0000118>
+        <obo:IAO_0000119>Theory of Planned Behaviour
+https://www.sciencedirect.com/science/article/abs/pii/074959789190020T</obo:IAO_0000119>
+        <rdfs:label>comply effect</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#control_belief -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#control_belief">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000041"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_behavioral_control"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the belief about the presence or absence of factors that can facilitate of impede the behavior performance</obo:IAO_0000115>
+        <obo:IAO_0000119>Theory of Planned Behaviour
+https://www.sciencedirect.com/science/article/abs/pii/074959789190020T</obo:IAO_0000119>
+        <rdfs:label>control belief</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#controlled_motivation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#controlled_motivation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#motivation"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>motivation that was due to external forces (something that forced a person to feel, act in a certain way)</obo:IAO_0000115>
+        <obo:IAO_0000119>Self-Determination Theory
+https://psycnet.apa.org/record/2011-21800-020</obo:IAO_0000119>
+        <rdfs:label>controlled motivation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coping_appraisal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coping_appraisal">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#protection_effect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>cognitive evaluation of factors that can affect the ability to cope with a threat</obo:IAO_0000115>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>coping appraisal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#decision_weight -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#decision_weight">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>The impact of the probability on the total value of an assigned prospect</obo:IAO_0000115>
+        <obo:IAO_0000119>Prospect theory
+https://www.worldscientific.com/doi/abs/10.1142/9789814417358_0006</obo:IAO_0000119>
+        <rdfs:label>decision weight</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#descriptive_norm -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#descriptive_norm">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#subjective_norms"/>
+        <obo:IAO_0000115>belief about what is typically done within a CULTURE</obo:IAO_0000115>
+        <obo:IAO_0000119>Focus Theory of Normative Conduct
+https://www.sciencedirect.com/science/article/pii/S0065260108603305</obo:IAO_0000119>
+        <rdfs:label>descriptive norm</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#descriptive_norms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#descriptive_norms">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#norms"/>
+        <obo:IAO_0000119>Social Norms Theory
+http://alanberkowitz.com/articles/social%20norms%20approach-short.pdf</obo:IAO_0000119>
+        <rdfs:label>descriptive norms</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#differential_association -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#differential_association">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000008"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal_of_social_identity"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#circumstances"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#learning"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_consensus"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the experience of a person interacting with others through which they learn values, attitudes, techniques, and motives</obo:IAO_0000115>
+        <obo:IAO_0000119>Differential Association Theory
+https://books.google.com/books?hl=en&amp;lr=&amp;id=wGbhKS3BvqMC&amp;oi=fnd&amp;pg=PA64&amp;ots=ZbeeMcSWki&amp;sig=6dK4vUGp-wI5iM78gdSFWDOvPHY#v=onepage&amp;q&amp;f=false</obo:IAO_0000119>
+        <rdfs:label>differential associating</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#distal_goal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#distal_goal">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+        <obo:IAO_0000119>Goal Setting Theory
+https://psycnet.apa.org/record/1990-97846-000?cid=SEM_DIR0016&amp;con=13833&amp;pkw=morningstar25252525252525252520direct&amp;elqCampaignId=6282&amp;prd=cloud&amp;cap=research252525252525252520portal&amp;gclid=EAIaIQobChMI9KfZioi33AIVyLTtCh07gw7KEAAYASAAEgLGF_D_BwE</obo:IAO_0000119>
+        <rdfs:label>distal goal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#dominance_focus_effect -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#dominance_focus_effect">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000076"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the intention to focus on dominating components for choices</obo:IAO_0000115>
+        <obo:IAO_0000119>Prospect theory
+https://www.worldscientific.com/doi/abs/10.1142/9789814417358_0006</obo:IAO_0000119>
+        <rdfs:label>dominance focus effect</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#emotional_intelligence -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#emotional_intelligence">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000048"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>General Theory of Crime
+https://psycnet.apa.org/record/1990-97753-000</obo:IAO_0000119>
+        <rdfs:label>emotional intelligence</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000008"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000076"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_behavioral_control"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#subjective_norms"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>attitude to the behavior - theory of planned behavior
+comparator - control theory</obo:IAO_0000118>
+        <obo:IAO_0000119>Theory of Planned Behaviour
+https://www.sciencedirect.com/science/article/abs/pii/074959789190020T</obo:IAO_0000119>
+        <rdfs:label>evaluating</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#experience -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#experience">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#circumstances"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coping_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#threat_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>experience</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#experiential_awareness -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#experiential_awareness">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_schemata"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#noetic_awareness"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#propositional_representations"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Reflective Impulsive Model
+https://journals.sagepub.com/doi/abs/10.1207/s15327957pspr0803_1</obo:IAO_0000119>
+        <rdfs:label>experiential awareness</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#exposure -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#exposure">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#cybonto:Asset"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#extrinsic_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>exposure</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#extrinsic_motivation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#extrinsic_motivation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#motivation"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#maladaptive_response"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>motivation arising from consequences that are separated from the behavior itself</obo:IAO_0000115>
+        <obo:IAO_0000119>Self-Determination Theory
+https://psycnet.apa.org/record/2011-21800-020</obo:IAO_0000119>
+        <rdfs:label>extrinsic motivation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#extrinsic_rewards -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#extrinsic_rewards">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#rewards"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#maladaptive_response"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>reinforcers that are external to the object</obo:IAO_0000115>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>extrinsic rewards</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#fear_arousal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#fear_arousal">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#comply_effect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#intrinsic_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_threat_severity"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#protection_effect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>elicitation of fear caused by detection of an imminent threat</obo:IAO_0000115>
+        <obo:IAO_0000118>fear - Extended Parallel Processing Model</obo:IAO_0000118>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>fear arousal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#focus -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#focus">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000075"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#norms"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>directive function - goal setting theory</obo:IAO_0000118>
+        <obo:IAO_0000119>Goal Setting Theory
+https://psycnet.apa.org/record/1990-97846-000?cid=SEM_DIR0016&amp;con=13833&amp;pkw=morningstar25252525252525252520direct&amp;elqCampaignId=6282&amp;prd=cloud&amp;cap=research252525252525252520portal&amp;gclid=EAIaIQobChMI9KfZioi33AIVyLTtCh07gw7KEAAYASAAEgLGF_D_BwE</obo:IAO_0000119>
+        <rdfs:label>focus</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#forethought_capability -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#forethought_capability">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000048"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000008"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000020"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Social Cognitive Theory
+https://www.annualreviews.org/doi/abs/10.1146/annurev.psych.52.1.1</obo:IAO_0000119>
+        <obo:IAO_0000119>the ability to regulate behaviors on the basis of the future
+future oriented</obo:IAO_0000119>
+        <rdfs:label>forethought capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#frustration_of_needs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#frustration_of_needs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#experience"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#amotivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#internalization"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Self-Determination Theory
+https://psycnet.apa.org/record/2011-21800-020</obo:IAO_0000119>
+        <rdfs:label>frustration of needs</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#gains -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#gains">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#generalizing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#generalizing">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000008"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Social Learning Theory
+https://psycnet.apa.org/record/1942-00109-000</obo:IAO_0000119>
+        <rdfs:label>generalizing</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#motivation"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_schemata"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#focus"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#frustration_of_needs"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#generalizing"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_responsibility"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#persistence"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#satisfaction_of_needs"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>needs - Self-Determination Theory
+https://psycnet.apa.org/record/2011-21800-020</obo:IAO_0000118>
+        <obo:IAO_0000119>Goal Setting Theory
+https://psycnet.apa.org/record/1990-97846-000?cid=SEM_DIR0016&amp;con=13833&amp;pkw=morningstar25252525252525252520direct&amp;elqCampaignId=6282&amp;prd=cloud&amp;cap=research252525252525252520portal&amp;gclid=EAIaIQobChMI9KfZioi33AIVyLTtCh07gw7KEAAYASAAEgLGF_D_BwE</obo:IAO_0000119>
+        <rdfs:label>goals</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#group_norms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#group_norms">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#norms"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description>The actual behaviors exhibit by group members</dc:description>
+        <dc:source>Social Norms Theory
+http://alanberkowitz.com/articles/social%20norms%20approach-short.pdf</dc:source>
+        <rdfs:label>group norms</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#impulsive_effect -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#impulsive_effect">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000076"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>act without much thought</obo:IAO_0000115>
+        <obo:IAO_0000119>General Theory of Crime
+https://psycnet.apa.org/record/1990-97753-000</obo:IAO_0000119>
+        <rdfs:label>impulsive effect</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#injunctive_norm -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#injunctive_norm">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#subjective_norms"/>
+        <obo:IAO_0000115>belief about what is typically approved/disapproved within a CULTURE</obo:IAO_0000115>
+        <obo:IAO_0000119>Focus Theory of Normative Conduct
+https://www.sciencedirect.com/science/article/pii/S0065260108603305</obo:IAO_0000119>
+        <rdfs:label>injunctive norm</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#injunctive_norms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#injunctive_norms">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#norms"/>
+        <obo:IAO_0000119>Social Norms Theory
+http://alanberkowitz.com/articles/social%20norms%20approach-short.pdf</obo:IAO_0000119>
+        <rdfs:label>injunctive norms</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#internalization -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#internalization">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000020"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#comply_effect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#controlled_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#extrinsic_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the point where engaging in a particular behavior is congruent with other aspects of one true / integrated self</obo:IAO_0000115>
+        <obo:IAO_0000119>Self-Determination Theory
+https://psycnet.apa.org/record/2011-21800-020</obo:IAO_0000119>
+        <rdfs:label>internalization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#internalized_group_membership -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#internalized_group_membership">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000041"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#differential_association"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Social Identity Theory
+https://books.google.com/books?hl=en&amp;lr=&amp;id=l2R7DwAAQBAJ&amp;oi=fnd&amp;pg=PA56&amp;dq=Tajfel,+H.+%26+Turner&amp;ots=AA_A7SfUEN&amp;sig=bdmyhKrY4veIzhtd4TQRMTHQYbY#v=onepage&amp;q=Tajfel%2C%20H.%20%26%20Turner&amp;f=false</obo:IAO_0000119>
+        <rdfs:label>internalized group membership</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#intrinsic_motivation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#intrinsic_motivation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#motivation"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#maladaptive_response"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>aspects of events that are relevant to self-efficacy and self-control</obo:IAO_0000115>
+        <obo:IAO_0000119>Self-Determination Theory
+https://psycnet.apa.org/record/2011-21800-020</obo:IAO_0000119>
+        <rdfs:label>intrinsic motivation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#intrinsic_rewards -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#intrinsic_rewards">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#rewards"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#maladaptive_response"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>reinforcers that are internal to the subject</obo:IAO_0000115>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>intrinsic rewards</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#isolation_effect -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#isolation_effect">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000076"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the tendency to ignore shared properties and focus on the differences among components in order to simplify choices</obo:IAO_0000115>
+        <obo:IAO_0000119>Prospect theory
+https://www.worldscientific.com/doi/abs/10.1142/9789814417358_0006</obo:IAO_0000119>
+        <rdfs:label>isolation effect</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#learning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#learning">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000020"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_consensus"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Differential Association Theory</obo:IAO_0000119>
+        <rdfs:label>learning</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#learning_goal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#learning_goal">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+        <obo:IAO_0000119>Goal Setting Theory
+https://psycnet.apa.org/record/1990-97846-000?cid=SEM_DIR0016&amp;con=13833&amp;pkw=morningstar25252525252525252520direct&amp;elqCampaignId=6282&amp;prd=cloud&amp;cap=research252525252525252520portal&amp;gclid=EAIaIQobChMI9KfZioi33AIVyLTtCh07gw7KEAAYASAAEgLGF_D_BwE</obo:IAO_0000119>
+        <rdfs:label>learning goal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#live_modeling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#live_modeling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#modeling"/>
+        <rdfs:label>live modeling</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#losses -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#losses">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#maladaptive_response -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#maladaptive_response">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#threat_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>behaviors that are counter-productive</obo:IAO_0000115>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>maladaptive response</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#mastery_experience -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#mastery_experience">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#experience"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the experience to which prior execution of the behavior proved to be successful</obo:IAO_0000115>
+        <obo:IAO_0000118>goal achievement - Goal setting theory</obo:IAO_0000118>
+        <obo:IAO_0000119>Self-Efficacy Theory
+https://psycnet.apa.org/record/1997-08589-000</obo:IAO_0000119>
+        <rdfs:label>mastery experience</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#modeling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#modeling">
+        <rdfs:subClassOf rdf:resource="http://ontology.eil.utoronto.ca/organization.owl#Activity"/>
+        <rdfs:label>modeling</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#motivation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#motivation">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000033"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_schemata"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_consensus"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Self-Determination Theory
+https://psycnet.apa.org/record/2011-21800-020</obo:IAO_0000119>
+        <rdfs:label>motivation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#motor_learning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#motor_learning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#noetic_awareness -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#noetic_awareness">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_schemata"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#experiential_awareness"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Reflective Impulsive Model
+https://journals.sagepub.com/doi/abs/10.1207/s15327957pspr0803_1</obo:IAO_0000119>
+        <rdfs:label>noetic awareness</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#nonassociative_learning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#nonassociative_learning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#normative_belief -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#normative_belief">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000041"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#subjective_norms"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the belief that important individuals or groups will approve or disapprove the behavior</obo:IAO_0000115>
+        <obo:IAO_0000119>Theory of Planned Behaviour
+https://www.sciencedirect.com/science/article/abs/pii/074959789190020T</obo:IAO_0000119>
+        <rdfs:label>normative belief</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#norms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#norms">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#cybonto:Group"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#observational_learning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#observational_learning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#learning"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coping_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#threat_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>learning through observation</obo:IAO_0000115>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>observational learning</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#operant_learning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#operant_learning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#participative_goal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#participative_goal">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+        <obo:IAO_0000119>Goal Setting Theory
+https://psycnet.apa.org/record/1990-97846-000?cid=SEM_DIR0016&amp;con=13833&amp;pkw=morningstar25252525252525252520direct&amp;elqCampaignId=6282&amp;prd=cloud&amp;cap=research252525252525252520portal&amp;gclid=EAIaIQobChMI9KfZioi33AIVyLTtCh07gw7KEAAYASAAEgLGF_D_BwE</obo:IAO_0000119>
+        <rdfs:label>participative goal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_behavioral_control -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_behavioral_control">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000076"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Theory of Planned Behaviour
+https://www.sciencedirect.com/science/article/abs/pii/074959789190020T</obo:IAO_0000119>
+        <obo:IAO_0000119>the perceived ability to perform the behavior</obo:IAO_0000119>
+        <rdfs:label>perceived behavioral control</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_consensus -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_consensus">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the perception that one&apos;s thoughts and actions are more (or less) shared by the majority of the community</obo:IAO_0000115>
+        <obo:IAO_0000118>Favorable/unfavorable definitions of legal codes - Differential Association Theory
+--&gt; a concensus on what laws should/should not adhere to</obo:IAO_0000118>
+        <obo:IAO_0000119>Social Norms Theory
+http://alanberkowitz.com/articles/social%20norms%20approach-short.pdf</obo:IAO_0000119>
+        <rdfs:label>perceived consensus</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_efficacy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_efficacy">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#comply_effect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#fear_arousal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>perception on overal response efficacy (regarding threats for example) involving self-efficacy, response efficacy, perceived threats,...</obo:IAO_0000115>
+        <obo:IAO_0000119>Extended Parallel Processing Model
+https://psycnet.apa.org/record/1993-21102-001</obo:IAO_0000119>
+        <rdfs:label>perceived efficacy</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_responsibility -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_responsibility">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Norm Activation Theory
+https://www.sciencedirect.com/science/article/pii/S0065260108602816</obo:IAO_0000119>
+        <rdfs:label>perceived responsibility</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_threat_severity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_threat_severity">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#fear_arousal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#threat_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>perceived threats - Extended Parallel Processing Model</obo:IAO_0000118>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>perceived threat severity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_uniqueness -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_uniqueness">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#comply_effect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#fear_arousal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the perception that one&apos;s thoughts and behaviors are more (or less) unique than others</obo:IAO_0000115>
+        <obo:IAO_0000118>individual differences - Extended Parallel Processing Model</obo:IAO_0000118>
+        <obo:IAO_0000119>Social Norms Theory
+http://alanberkowitz.com/articles/social%20norms%20approach-short.pdf</obo:IAO_0000119>
+        <rdfs:label>perceived uniqueness</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_vulnerability -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_vulnerability">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_threat_severity"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#threat_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>Perceived susceptibility - Extended Parallel Processing Model</obo:IAO_0000118>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>perceived vulnerability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#persistence -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#persistence">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000075"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#focus"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>commitment - goal setting theory</obo:IAO_0000118>
+        <obo:IAO_0000119>Self-Efficacy Theory
+https://psycnet.apa.org/record/1997-08589-000</obo:IAO_0000119>
+        <rdfs:label>persistence</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#physical_quality -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#physical_quality">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000074"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coping_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#threat_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>biological factors - Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006
+
+physicality - General Theory of Crime
+https://psycnet.apa.org/record/1990-97753-000</obo:IAO_0000118>
+        <rdfs:label>physical quality</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#pluralistic_ignorance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#pluralistic_ignorance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#belief"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Social Norms Theory
+http://alanberkowitz.com/articles/social%20norms%20approach-short.pdf</obo:IAO_0000119>
+        <rdfs:label>pluralistic ignorance</rdfs:label>
+        <rdfs:label>the belief by the majority of the group that others do not think and act like they do (false minority sense)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#possibility_effect -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#possibility_effect">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000076"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the degree to which an outcome is likely to occur</obo:IAO_0000115>
+        <obo:IAO_0000119>Prospect theory
+https://www.worldscientific.com/doi/abs/10.1142/9789814417358_0006</obo:IAO_0000119>
+        <rdfs:label>possibility effect</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#propositional_representations -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#propositional_representations">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_schemata"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#experiential_awareness"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Reflective Impulsive Model
+https://journals.sagepub.com/doi/abs/10.1207/s15327957pspr0803_1</obo:IAO_0000119>
+        <rdfs:label>propositional representations</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000041"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavioral_belief"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coding"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#coping_appraisal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#decision_weight"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#forethought_capability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#persistence"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#subjective_norms"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#subjective_values"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>Contracts that yields certain outcomes with certain probabilities</obo:IAO_0000115>
+        <obo:IAO_0000118>response costs - Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006
+
+outcome expectancies - Self-Efficacy Theory
+https://psycnet.apa.org/record/1997-08589-000
+
+incentives - Self-Efficacy Theory
+https://psycnet.apa.org/record/1997-08589-000
+
+Outcome evaluation - Theory of Planned Behaviour
+https://www.sciencedirect.com/science/article/abs/pii/074959789190020T
+
+Values - Goal Setting Theory
+https://psycnet.apa.org/record/1990-97846-000?cid=SEM_DIR0016&amp;con=13833&amp;pkw=morningstar25252525252525252520direct&amp;elqCampaignId=6282&amp;prd=cloud&amp;cap=research252525252525252520portal&amp;gclid=EAIaIQobChMI9KfZioi33AIVyLTtCh07gw7KEAAYASAAEgLGF_D_BwE
+
+Outcome expectation - Social Cognitive Theory
+https://www.annualreviews.org/doi/abs/10.1146/annurev.psych.52.1.1
+
+Reference value - Control Theory
+https://psycnet.apa.org/record/1982-26944-001</obo:IAO_0000118>
+        <obo:IAO_0000119>Prospect Theory
+https://www.worldscientific.com/doi/abs/10.1142/9789814417358_0006</obo:IAO_0000119>
+        <rdfs:label>prospect</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#protection_effect -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#protection_effect">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000076"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#adaptive_response"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#maladaptive_response"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the effect that focus on behaviors that can protect self</obo:IAO_0000115>
+        <obo:IAO_0000118>protective motivation - extended parallel processing model</obo:IAO_0000118>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>protection effect</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#provincial_norms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#provincial_norms">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#subjective_norms"/>
+        <obo:IAO_0000115>belief about what is typically done within a SPECIFIC ENVIRONMENT</obo:IAO_0000115>
+        <obo:IAO_0000119>Focus Theory of Normative Conduct
+https://www.sciencedirect.com/science/article/pii/S0065260108603305</obo:IAO_0000119>
+        <rdfs:label>provincial norms</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#proximal_goal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#proximal_goal">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+        <obo:IAO_0000119>Goal Setting Theory
+https://psycnet.apa.org/record/1990-97846-000?cid=SEM_DIR0016&amp;con=13833&amp;pkw=morningstar25252525252525252520direct&amp;elqCampaignId=6282&amp;prd=cloud&amp;cap=research252525252525252520portal&amp;gclid=EAIaIQobChMI9KfZioi33AIVyLTtCh07gw7KEAAYASAAEgLGF_D_BwE</obo:IAO_0000119>
+        <rdfs:label>proximal goal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#relational_schemata -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#relational_schemata">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#noetic_awareness"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Reflective Impulsive Model
+https://journals.sagepub.com/doi/abs/10.1207/s15327957pspr0803_1</obo:IAO_0000119>
+        <rdfs:label>relational schemata</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#response_efficacy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#response_efficacy">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000041"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#adaptive_response"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#fear_arousal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the belief about how effective a response would be in responding to something</obo:IAO_0000115>
+        <obo:IAO_0000118>Perceived response efficacy - Extended Parallel Processing Model</obo:IAO_0000118>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>response efficacy</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#rewards -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#rewards">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#cybonto:Asset"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#extrinsic_motivation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#persistence"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>incentives</obo:IAO_0000118>
+        <obo:IAO_0000119>Self-Efficacy Theory
+https://psycnet.apa.org/record/1997-08589-000</obo:IAO_0000119>
+        <rdfs:label>rewards</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#risk-taking_effect -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#risk-taking_effect">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000076"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>General Theory of Crime
+https://psycnet.apa.org/record/1990-97753-000</obo:IAO_0000119>
+        <rdfs:label>risk-taking effect</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#satisfaction_of_needs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#satisfaction_of_needs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#experience"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000041"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000076"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#internalization"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Self-Determination Theory
+https://psycnet.apa.org/record/2011-21800-020</obo:IAO_0000119>
+        <rdfs:label>satisfaction of needs</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#school -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#school">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#socializing_institutions"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>General Theory of Crime
+https://psycnet.apa.org/record/1990-97753-000</obo:IAO_0000119>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#segregating -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#segregating">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000008"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the process of segregating a group of components from others based on their common properties. For example, segregating the riskiest components from other risky components.</obo:IAO_0000115>
+        <obo:IAO_0000119>Prospect theory
+https://www.worldscientific.com/doi/abs/10.1142/9789814417358_0006</obo:IAO_0000119>
+        <rdfs:label>segregating</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000041"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#adaptive_response"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#comply_effect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#fear_arousal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_responsibility"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#perceived_threat_severity"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#persistence"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-reflection_capability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#situational_circumstance"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#social_circumstance"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#temporal_circumstance"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>a belief about whether a person can or cannot successfully perform a response (such as coping)</obo:IAO_0000115>
+        <obo:IAO_0000118>perceived self-efficacy - Extended Parallel Processing Model</obo:IAO_0000118>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>self-efficacy</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-identity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-identity">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000041"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#differential_association"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Social Identity Theory
+https://books.google.com/books?hl=en&amp;lr=&amp;id=l2R7DwAAQBAJ&amp;oi=fnd&amp;pg=PA56&amp;dq=Tajfel,+H.+%26+Turner&amp;ots=AA_A7SfUEN&amp;sig=bdmyhKrY4veIzhtd4TQRMTHQYbY#v=onepage&amp;q=Tajfel%2C%20H.%20%26%20Turner&amp;f=false</obo:IAO_0000119>
+        <rdfs:label>self-identity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-referencing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-referencing">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#social_identity"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Social Identity Theory
+https://books.google.com/books?hl=en&amp;lr=&amp;id=l2R7DwAAQBAJ&amp;oi=fnd&amp;pg=PA56&amp;dq=Tajfel,+H.+%26+Turner&amp;ots=AA_A7SfUEN&amp;sig=bdmyhKrY4veIzhtd4TQRMTHQYbY#v=onepage&amp;q=Tajfel%2C%20H.%20%26%20Turner&amp;f=false</obo:IAO_0000119>
+        <rdfs:label>self-referencing</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-reflection_capability -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-reflection_capability">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000048"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000020"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Social Cognitive Theory
+https://www.annualreviews.org/doi/abs/10.1146/annurev.psych.52.1.1</obo:IAO_0000119>
+        <rdfs:label>self-reflection capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#simplifying -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#simplifying">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000008"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the process of disregarding outcomes with low possibilities (extremely unlikely) and focus on outcomes with higher possibilities</obo:IAO_0000115>
+        <obo:IAO_0000119>Prospect theory
+https://www.worldscientific.com/doi/abs/10.1142/9789814417358_0006</obo:IAO_0000119>
+        <rdfs:label>simplifying</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#situational_circumstance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#situational_circumstance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#circumstances"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal_of_self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Self-Efficacy Theory
+https://psycnet.apa.org/record/1997-08589-000</obo:IAO_0000119>
+        <rdfs:label>situational circumstance</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#social_circumstance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#social_circumstance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#circumstances"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal_of_self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#differential_association"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Self-Efficacy Theory
+https://psycnet.apa.org/record/1997-08589-000</obo:IAO_0000119>
+        <rdfs:label>social circumstance</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#social_competition -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#social_competition">
+        <rdfs:subClassOf rdf:resource="http://ontology.eil.utoronto.ca/organization.owl#Activity"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#differential_association"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Social Identity Theory
+https://books.google.com/books?hl=en&amp;lr=&amp;id=l2R7DwAAQBAJ&amp;oi=fnd&amp;pg=PA56&amp;dq=Tajfel,+H.+%26+Turner&amp;ots=AA_A7SfUEN&amp;sig=bdmyhKrY4veIzhtd4TQRMTHQYbY#v=onepage&amp;q=Tajfel%2C%20H.%20%26%20Turner&amp;f=false</obo:IAO_0000119>
+        <rdfs:label>Social competition</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#social_identity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#social_identity">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000041"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal_of_social_identity"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#differential_association"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#internalized_group_membership"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#social_competition"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Social Identity Theory
+https://books.google.com/books?hl=en&amp;lr=&amp;id=l2R7DwAAQBAJ&amp;oi=fnd&amp;pg=PA56&amp;dq=Tajfel,+H.+%26+Turner&amp;ots=AA_A7SfUEN&amp;sig=bdmyhKrY4veIzhtd4TQRMTHQYbY#v=onepage&amp;q=Tajfel%2C%20H.%20%26%20Turner&amp;f=false</obo:IAO_0000119>
+        <rdfs:label>social identity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#socializing_institutions -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#socializing_institutions">
+        <rdfs:subClassOf rdf:resource="http://ontology.eil.utoronto.ca/organization.owl#Organization"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#differential_association"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>General Theory of Crime
+https://psycnet.apa.org/record/1990-97753-000</obo:IAO_0000119>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#subjective_norms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#subjective_norms">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000041"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000019"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000076"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>belief about what most people in the community believe and do</obo:IAO_0000115>
+        <obo:IAO_0000119>Social Norms Theory
+http://alanberkowitz.com/articles/social%20norms%20approach-short.pdf</obo:IAO_0000119>
+        <rdfs:label>subjective norms</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#subjective_values -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#subjective_values">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#evaluating"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#prospect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>the process at which one tries to evaluate the values of a possible outcome.
+the values can be possitive, negative, or neither.</obo:IAO_0000115>
+        <obo:IAO_0000119>Prospect theory
+https://www.worldscientific.com/doi/abs/10.1142/9789814417358_0006</obo:IAO_0000119>
+        <rdfs:label>subjective values</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#syllogistic_rules -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#syllogistic_rules">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Reflective Impulsive Model
+https://journals.sagepub.com/doi/abs/10.1207/s15327957pspr0803_1</obo:IAO_0000119>
+        <rdfs:label>syllogistic rules</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#symbolic_modeling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#symbolic_modeling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#modeling"/>
+        <rdfs:label>symbolic modeling</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#symbolizing_capability -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#symbolizing_capability">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000048"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000008"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#forethought_capability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Social Cognitive Theory
+https://www.annualreviews.org/doi/abs/10.1146/annurev.psych.52.1.1</obo:IAO_0000119>
+        <rdfs:label>symbolizing capability</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#task -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#task">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#goals"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Goal setting theory
+https://psycnet.apa.org/record/1990-97846-000?cid=SEM_DIR0016&amp;con=13833&amp;pkw=morningstar25252525252525252520direct&amp;elqCampaignId=6282&amp;prd=cloud&amp;cap=research252525252525252520portal&amp;gclid=EAIaIQobChMI9KfZioi33AIVyLTtCh07gw7KEAAYASAAEgLGF_D_BwE</obo:IAO_0000119>
+        <rdfs:label>task</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#techniques -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#techniques">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/knowledge"/>
+        <obo:IAO_0000119>Differential Association Theory
+https://books.google.com/books?hl=en&amp;lr=&amp;id=wGbhKS3BvqMC&amp;oi=fnd&amp;pg=PA64&amp;ots=ZbeeMcSWki&amp;sig=6dK4vUGp-wI5iM78gdSFWDOvPHY#v=onepage&amp;q&amp;f=false</obo:IAO_0000119>
+        <rdfs:label>techniques</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#temporal_circumstance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#temporal_circumstance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#circumstances"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000012"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal_of_self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000119>Self-Efficacy Theory
+https://psycnet.apa.org/record/1997-08589-000</obo:IAO_0000119>
+        <rdfs:label>temporal circumstance</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#threat_appraisal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#threat_appraisal">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#appraisal"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#protection_effect"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>evaluation of overall rewards, susceptibility to threats, and severity of threats</obo:IAO_0000115>
+        <obo:IAO_0000119>Protection motivation theory
+https://psycnet.apa.org/record/1997-36396-006</obo:IAO_0000119>
+        <rdfs:label>threat appraisal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#time-orientation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#time-orientation">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/MF_0000075"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>prioritization between short-term benefits v.s. long-term consequences</obo:IAO_0000115>
+        <obo:IAO_0000119>General Theory of Crime
+https://psycnet.apa.org/record/1990-97753-000</obo:IAO_0000119>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#vicarious_experience -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#vicarious_experience">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#experience"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MF_0000020"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#behavior_control-ability"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#self-efficacy"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115>observing others performing threatening behaviors without expected adverse effects</obo:IAO_0000115>
+        <obo:IAO_0000119>Self-Efficacy Theory
+https://psycnet.apa.org/record/1997-08589-000</obo:IAO_0000119>
+        <rdfs:label>vicarious experience</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#cybonto:Asset -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#cybonto:Asset">
+        <rdfs:label>cybonto:Asset</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#cybonto:Group -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#cybonto:Group">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#differential_association"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#learning"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#has_influence"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/gente/ontologies/2021/3/cybonto#social_identity"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label>cybonto:Group</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/MF/external/NBO_import.owl#"
+     xml:base="http://purl.obolibrary.org/obo/MF/external/NBO_import.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/MF/external/behavior-slim.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000412 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000412">
+        <rdfs:label xml:lang="en">imported from</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#label -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_0002118 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0002118">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GO_0051705"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_0002120 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0002120">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GO_0002118"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_0007610 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0007610"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GO_0051705 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0051705">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GO_0007610"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NBO_0000634 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NBO_0000634">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GO_0002118"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/nbo.owl"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">irritable aggressive behavior</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NBO_0020040 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NBO_0020040">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NBO_0020292"/>
+        <obo:IAO_0000115 xml:lang="en">Active pursuit of fleeing prey.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/nbo.owl"/>
+        <rdfs:label xml:lang="en">chase prey</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NBO_0020045 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NBO_0020045">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NBO_0020292"/>
+        <obo:IAO_0000115 xml:lang="en">Behaviors in which predator forces potential prey to emerge from cover.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/nbo.owl"/>
+        <rdfs:label xml:lang="en">flush prey</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NBO_0020137 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NBO_0020137">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NBO_0020292"/>
+        <obo:IAO_0000115 xml:lang="en">Building of a trap, web, net, or other structure to help ensnare potential food items.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/nbo.owl"/>
+        <rdfs:label xml:lang="en">construct capturing device</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NBO_0020160 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NBO_0020160">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NBO_0020292"/>
+        <obo:IAO_0000115 xml:lang="en">Approach to prey in manner designed to avoid early detection by prey.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/nbo.owl"/>
+        <rdfs:label xml:lang="en">stalk prey</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NBO_0020292 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NBO_0020292">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GO_0002120"/>
+        <obo:IAO_0000115 xml:lang="en">Suite of behaviors involved in securing a prey item once it has been located.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/nbo.owl"/>
+        <rdfs:label xml:lang="en">capturing behaviour</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NBO_0020293 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NBO_0020293">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NBO_0020292"/>
+        <obo:IAO_0000115 xml:lang="en">Behaviors that result in ending flight of prey with successful predation.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/nbo.owl"/>
+        <rdfs:label xml:lang="en">capturing prey</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
