@@ -563,17 +563,89 @@ MATCH (disposition:disposition {name: 'd_disposition'})
 MATCH (arousal:arousal {name: 'd_arousal'})
 create (disposition)-[:INFLUENCES]->(arousal);
 MATCH (behavior:behavior {name: 'd_behavior'})
-MATCH (mentalprocessevaluatinggoalsmasteryexperiencecircumstancesselfefficacydifferentialassociatingcognitiveprocess:mentalprocessevaluatinggoalsmasteryexperiencecircumstancesselfefficacydifferentialassociatingcognitiveprocess {name: 'd_mentalprocessevaluatinggoalsmasteryexperiencecircumstancesselfefficacydifferentialassociatingcognitiveprocess'})
-create (behavior)-[:INFLUENCES]->(mentalprocessevaluatinggoalsmasteryexperiencecircumstancesselfefficacydifferentialassociatingcognitiveprocess);
+MATCH (mentalprocess:mentalprocess {name: 'd_mentalprocess'})
+create (behavior)-[:INFLUENCES]->(mentalprocess);
+MATCH (behavior:behavior {name: 'd_behavior'})
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (behavior)-[:INFLUENCES]->(evaluating);
+MATCH (behavior:behavior {name: 'd_behavior'})
+MATCH (goals:goals {name: 'd_goals'})
+create (behavior)-[:INFLUENCES]->(goals);
+MATCH (behavior:behavior {name: 'd_behavior'})
+MATCH (masteryexperience:masteryexperience {name: 'd_masteryexperience'})
+create (behavior)-[:INFLUENCES]->(masteryexperience);
+MATCH (behavior:behavior {name: 'd_behavior'})
+MATCH (circumstances:circumstances {name: 'd_circumstances'})
+create (behavior)-[:INFLUENCES]->(circumstances);
+MATCH (behavior:behavior {name: 'd_behavior'})
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+create (behavior)-[:INFLUENCES]->(selfefficacy);
+MATCH (behavior:behavior {name: 'd_behavior'})
+MATCH (differentialassociating:differentialassociating {name: 'd_differentialassociating'})
+create (behavior)-[:INFLUENCES]->(differentialassociating);
+MATCH (behavior:behavior {name: 'd_behavior'})
 MATCH (cognitiveprocess:cognitiveprocess {name: 'd_cognitiveprocess'})
-MATCH (behaviorcircumstances:behaviorcircumstances {name: 'd_behaviorcircumstances'})
-create (cognitiveprocess)-[:INFLUENCES]->(behaviorcircumstances);
+create (behavior)-[:INFLUENCES]->(cognitiveprocess);
+MATCH (cognitiveprocess:cognitiveprocess {name: 'd_cognitiveprocess'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (cognitiveprocess)-[:INFLUENCES]->(behavior);
+MATCH (cognitiveprocess:cognitiveprocess {name: 'd_cognitiveprocess'})
+MATCH (circumstances:circumstances {name: 'd_circumstances'})
+create (cognitiveprocess)-[:INFLUENCES]->(circumstances);
 MATCH (arousal:arousal {name: 'd_arousal'})
-MATCH (behaviorperceptionpropositionalrepresentationsexperientialawarenessevaluatingnoeticawarenessbehavioralschematacopingappraisalknowledgeselfefficacythreatappraisalperceivedresponsibility:behaviorperceptionpropositionalrepresentationsexperientialawarenessevaluatingnoeticawarenessbehavioralschematacopingappraisalknowledgeselfefficacythreatappraisalperceivedresponsibility {name: 'd_behaviorperceptionpropositionalrepresentationsexperientialawarenessevaluatingnoeticawarenessbehavioralschematacopingappraisalknowledgeselfefficacythreatappraisalperceivedresponsibility'})
-create (arousal)-[:INFLUENCES]->(behaviorperceptionpropositionalrepresentationsexperientialawarenessevaluatingnoeticawarenessbehavioralschematacopingappraisalknowledgeselfefficacythreatappraisalperceivedresponsibility);
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (arousal)-[:INFLUENCES]->(behavior);
+MATCH (arousal:arousal {name: 'd_arousal'})
 MATCH (perception:perception {name: 'd_perception'})
-MATCH (arousalevaluatingbehavioralschematapropositionalrepresentationsbehaviornoeticawareness:arousalevaluatingbehavioralschematapropositionalrepresentationsbehaviornoeticawareness {name: 'd_arousalevaluatingbehavioralschematapropositionalrepresentationsbehaviornoeticawareness'})
-create (perception)-[:INFLUENCES]->(arousalevaluatingbehavioralschematapropositionalrepresentationsbehaviornoeticawareness);
+create (arousal)-[:INFLUENCES]->(perception);
+MATCH (arousal:arousal {name: 'd_arousal'})
+MATCH (propositionalrepresentations:propositionalrepresentations {name: 'd_propositionalrepresentations'})
+create (arousal)-[:INFLUENCES]->(propositionalrepresentations);
+MATCH (arousal:arousal {name: 'd_arousal'})
+MATCH (experientialawareness:experientialawareness {name: 'd_experientialawareness'})
+create (arousal)-[:INFLUENCES]->(experientialawareness);
+MATCH (arousal:arousal {name: 'd_arousal'})
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (arousal)-[:INFLUENCES]->(evaluating);
+MATCH (arousal:arousal {name: 'd_arousal'})
+MATCH (noeticawareness:noeticawareness {name: 'd_noeticawareness'})
+create (arousal)-[:INFLUENCES]->(noeticawareness);
+MATCH (arousal:arousal {name: 'd_arousal'})
+MATCH (behavioralschemata:behavioralschemata {name: 'd_behavioralschemata'})
+create (arousal)-[:INFLUENCES]->(behavioralschemata);
+MATCH (arousal:arousal {name: 'd_arousal'})
+MATCH (copingappraisal:copingappraisal {name: 'd_copingappraisal'})
+create (arousal)-[:INFLUENCES]->(copingappraisal);
+MATCH (arousal:arousal {name: 'd_arousal'})
+MATCH (knowledge:knowledge {name: 'd_knowledge'})
+create (arousal)-[:INFLUENCES]->(knowledge);
+MATCH (arousal:arousal {name: 'd_arousal'})
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+create (arousal)-[:INFLUENCES]->(selfefficacy);
+MATCH (arousal:arousal {name: 'd_arousal'})
+MATCH (threatappraisal:threatappraisal {name: 'd_threatappraisal'})
+create (arousal)-[:INFLUENCES]->(threatappraisal);
+MATCH (arousal:arousal {name: 'd_arousal'})
+MATCH (perceivedresponsibility:perceivedresponsibility {name: 'd_perceivedresponsibility'})
+create (arousal)-[:INFLUENCES]->(perceivedresponsibility);
+MATCH (perception:perception {name: 'd_perception'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (perception)-[:INFLUENCES]->(arousal);
+MATCH (perception:perception {name: 'd_perception'})
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (perception)-[:INFLUENCES]->(evaluating);
+MATCH (perception:perception {name: 'd_perception'})
+MATCH (behavioralschemata:behavioralschemata {name: 'd_behavioralschemata'})
+create (perception)-[:INFLUENCES]->(behavioralschemata);
+MATCH (perception:perception {name: 'd_perception'})
+MATCH (propositionalrepresentations:propositionalrepresentations {name: 'd_propositionalrepresentations'})
+create (perception)-[:INFLUENCES]->(propositionalrepresentations);
+MATCH (perception:perception {name: 'd_perception'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (perception)-[:INFLUENCES]->(behavior);
+MATCH (perception:perception {name: 'd_perception'})
+MATCH (noeticawareness:noeticawareness {name: 'd_noeticawareness'})
+create (perception)-[:INFLUENCES]->(noeticawareness);
 MATCH (mentalprocess:mentalprocess {name: 'd_mentalprocess'})
 MATCH (behavior:behavior {name: 'd_behavior'})
 create (mentalprocess)-[:INFLUENCES]->(behavior);
@@ -581,35 +653,122 @@ MATCH (intelligence:intelligence {name: 'd_intelligence'})
 MATCH (forethoughtcapability:forethoughtcapability {name: 'd_forethoughtcapability'})
 create (intelligence)-[:INFLUENCES]->(forethoughtcapability);
 MATCH (mentaldisposition:mentaldisposition {name: 'd_mentaldisposition'})
-MATCH (perceivedconsensuslearningarousal:perceivedconsensuslearningarousal {name: 'd_perceivedconsensuslearningarousal'})
-create (mentaldisposition)-[:INFLUENCES]->(perceivedconsensuslearningarousal);
+MATCH (perceivedconsensus:perceivedconsensus {name: 'd_perceivedconsensus'})
+create (mentaldisposition)-[:INFLUENCES]->(perceivedconsensus);
+MATCH (mentaldisposition:mentaldisposition {name: 'd_mentaldisposition'})
+MATCH (learning:learning {name: 'd_learning'})
+create (mentaldisposition)-[:INFLUENCES]->(learning);
+MATCH (mentaldisposition:mentaldisposition {name: 'd_mentaldisposition'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (mentaldisposition)-[:INFLUENCES]->(arousal);
 MATCH (auditoryconsciousness:auditoryconsciousness {name: 'd_auditoryconsciousness'})
-MATCH (copingappraisalthreatappraisalselfefficacy:copingappraisalthreatappraisalselfefficacy {name: 'd_copingappraisalthreatappraisalselfefficacy'})
-create (auditoryconsciousness)-[:INFLUENCES]->(copingappraisalthreatappraisalselfefficacy);
+MATCH (copingappraisal:copingappraisal {name: 'd_copingappraisal'})
+create (auditoryconsciousness)-[:INFLUENCES]->(copingappraisal);
+MATCH (auditoryconsciousness:auditoryconsciousness {name: 'd_auditoryconsciousness'})
+MATCH (threatappraisal:threatappraisal {name: 'd_threatappraisal'})
+create (auditoryconsciousness)-[:INFLUENCES]->(threatappraisal);
+MATCH (auditoryconsciousness:auditoryconsciousness {name: 'd_auditoryconsciousness'})
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+create (auditoryconsciousness)-[:INFLUENCES]->(selfefficacy);
 MATCH (directconsciousness:directconsciousness {name: 'd_directconsciousness'})
-MATCH (relationalschemataselfefficacylearningarousalgoalsperceivedconsensusfocuspersistence:relationalschemataselfefficacylearningarousalgoalsperceivedconsensusfocuspersistence {name: 'd_relationalschemataselfefficacylearningarousalgoalsperceivedconsensusfocuspersistence'})
-create (directconsciousness)-[:INFLUENCES]->(relationalschemataselfefficacylearningarousalgoalsperceivedconsensusfocuspersistence);
+MATCH (relationalschemata:relationalschemata {name: 'd_relationalschemata'})
+create (directconsciousness)-[:INFLUENCES]->(relationalschemata);
+MATCH (directconsciousness:directconsciousness {name: 'd_directconsciousness'})
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+create (directconsciousness)-[:INFLUENCES]->(selfefficacy);
+MATCH (directconsciousness:directconsciousness {name: 'd_directconsciousness'})
+MATCH (learning:learning {name: 'd_learning'})
+create (directconsciousness)-[:INFLUENCES]->(learning);
+MATCH (directconsciousness:directconsciousness {name: 'd_directconsciousness'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (directconsciousness)-[:INFLUENCES]->(arousal);
+MATCH (directconsciousness:directconsciousness {name: 'd_directconsciousness'})
+MATCH (goals:goals {name: 'd_goals'})
+create (directconsciousness)-[:INFLUENCES]->(goals);
+MATCH (directconsciousness:directconsciousness {name: 'd_directconsciousness'})
+MATCH (perceivedconsensus:perceivedconsensus {name: 'd_perceivedconsensus'})
+create (directconsciousness)-[:INFLUENCES]->(perceivedconsensus);
+MATCH (directconsciousness:directconsciousness {name: 'd_directconsciousness'})
+MATCH (focus:focus {name: 'd_focus'})
+create (directconsciousness)-[:INFLUENCES]->(focus);
+MATCH (directconsciousness:directconsciousness {name: 'd_directconsciousness'})
+MATCH (persistence:persistence {name: 'd_persistence'})
+create (directconsciousness)-[:INFLUENCES]->(persistence);
 MATCH (belief:belief {name: 'd_belief'})
-MATCH (autonomousmotivationintrinsicmotivation:autonomousmotivationintrinsicmotivation {name: 'd_autonomousmotivationintrinsicmotivation'})
-create (belief)-[:INFLUENCES]->(autonomousmotivationintrinsicmotivation);
+MATCH (autonomousmotivation:autonomousmotivation {name: 'd_autonomousmotivation'})
+create (belief)-[:INFLUENCES]->(autonomousmotivation);
+MATCH (belief:belief {name: 'd_belief'})
+MATCH (intrinsicmotivation:intrinsicmotivation {name: 'd_intrinsicmotivation'})
+create (belief)-[:INFLUENCES]->(intrinsicmotivation);
 MATCH (capability:capability {name: 'd_capability'})
-MATCH (goalsbehavior:goalsbehavior {name: 'd_goalsbehavior'})
-create (capability)-[:INFLUENCES]->(goalsbehavior);
+MATCH (goals:goals {name: 'd_goals'})
+create (capability)-[:INFLUENCES]->(goals);
+MATCH (capability:capability {name: 'd_capability'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (capability)-[:INFLUENCES]->(behavior);
 MATCH (memory:memory {name: 'd_memory'})
-MATCH (evaluatingthreatappraisalcopingappraisal:evaluatingthreatappraisalcopingappraisal {name: 'd_evaluatingthreatappraisalcopingappraisal'})
-create (memory)-[:INFLUENCES]->(evaluatingthreatappraisalcopingappraisal);
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (memory)-[:INFLUENCES]->(evaluating);
+MATCH (memory:memory {name: 'd_memory'})
+MATCH (threatappraisal:threatappraisal {name: 'd_threatappraisal'})
+create (memory)-[:INFLUENCES]->(threatappraisal);
+MATCH (memory:memory {name: 'd_memory'})
+MATCH (copingappraisal:copingappraisal {name: 'd_copingappraisal'})
+create (memory)-[:INFLUENCES]->(copingappraisal);
 MATCH (intentionalmodality:intentionalmodality {name: 'd_intentionalmodality'})
-MATCH (persistenceintrinsicmotivationbehaviorautonomousmotivationbehavioralschemataperceivedconsensus:persistenceintrinsicmotivationbehaviorautonomousmotivationbehavioralschemataperceivedconsensus {name: 'd_persistenceintrinsicmotivationbehaviorautonomousmotivationbehavioralschemataperceivedconsensus'})
-create (intentionalmodality)-[:INFLUENCES]->(persistenceintrinsicmotivationbehaviorautonomousmotivationbehavioralschemataperceivedconsensus);
+MATCH (persistence:persistence {name: 'd_persistence'})
+create (intentionalmodality)-[:INFLUENCES]->(persistence);
+MATCH (intentionalmodality:intentionalmodality {name: 'd_intentionalmodality'})
+MATCH (intrinsicmotivation:intrinsicmotivation {name: 'd_intrinsicmotivation'})
+create (intentionalmodality)-[:INFLUENCES]->(intrinsicmotivation);
+MATCH (intentionalmodality:intentionalmodality {name: 'd_intentionalmodality'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (intentionalmodality)-[:INFLUENCES]->(behavior);
+MATCH (intentionalmodality:intentionalmodality {name: 'd_intentionalmodality'})
+MATCH (autonomousmotivation:autonomousmotivation {name: 'd_autonomousmotivation'})
+create (intentionalmodality)-[:INFLUENCES]->(autonomousmotivation);
+MATCH (intentionalmodality:intentionalmodality {name: 'd_intentionalmodality'})
+MATCH (behavioralschemata:behavioralschemata {name: 'd_behavioralschemata'})
+create (intentionalmodality)-[:INFLUENCES]->(behavioralschemata);
+MATCH (intentionalmodality:intentionalmodality {name: 'd_intentionalmodality'})
+MATCH (perceivedconsensus:perceivedconsensus {name: 'd_perceivedconsensus'})
+create (intentionalmodality)-[:INFLUENCES]->(perceivedconsensus);
 MATCH (personality:personality {name: 'd_personality'})
-MATCH (threatappraisalcopingappraisal:threatappraisalcopingappraisal {name: 'd_threatappraisalcopingappraisal'})
-create (personality)-[:INFLUENCES]->(threatappraisalcopingappraisal);
+MATCH (threatappraisal:threatappraisal {name: 'd_threatappraisal'})
+create (personality)-[:INFLUENCES]->(threatappraisal);
+MATCH (personality:personality {name: 'd_personality'})
+MATCH (copingappraisal:copingappraisal {name: 'd_copingappraisal'})
+create (personality)-[:INFLUENCES]->(copingappraisal);
 MATCH (personalitytrait:personalitytrait {name: 'd_personalitytrait'})
-MATCH (threatappraisalcopingappraisal:threatappraisalcopingappraisal {name: 'd_threatappraisalcopingappraisal'})
-create (personalitytrait)-[:INFLUENCES]->(threatappraisalcopingappraisal);
+MATCH (threatappraisal:threatappraisal {name: 'd_threatappraisal'})
+create (personalitytrait)-[:INFLUENCES]->(threatappraisal);
+MATCH (personalitytrait:personalitytrait {name: 'd_personalitytrait'})
+MATCH (copingappraisal:copingappraisal {name: 'd_copingappraisal'})
+create (personalitytrait)-[:INFLUENCES]->(copingappraisal);
 MATCH (knowledge:knowledge {name: 'd_knowledge'})
-MATCH (propositionalrepresentationsbehaviorcodingarousalbehavioralschemataintrinsicmotivationautonomousmotivationnoeticawareness:propositionalrepresentationsbehaviorcodingarousalbehavioralschemataintrinsicmotivationautonomousmotivationnoeticawareness {name: 'd_propositionalrepresentationsbehaviorcodingarousalbehavioralschemataintrinsicmotivationautonomousmotivationnoeticawareness'})
-create (knowledge)-[:INFLUENCES]->(propositionalrepresentationsbehaviorcodingarousalbehavioralschemataintrinsicmotivationautonomousmotivationnoeticawareness);
+MATCH (propositionalrepresentations:propositionalrepresentations {name: 'd_propositionalrepresentations'})
+create (knowledge)-[:INFLUENCES]->(propositionalrepresentations);
+MATCH (knowledge:knowledge {name: 'd_knowledge'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (knowledge)-[:INFLUENCES]->(behavior);
+MATCH (knowledge:knowledge {name: 'd_knowledge'})
+MATCH (coding:coding {name: 'd_coding'})
+create (knowledge)-[:INFLUENCES]->(coding);
+MATCH (knowledge:knowledge {name: 'd_knowledge'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (knowledge)-[:INFLUENCES]->(arousal);
+MATCH (knowledge:knowledge {name: 'd_knowledge'})
+MATCH (behavioralschemata:behavioralschemata {name: 'd_behavioralschemata'})
+create (knowledge)-[:INFLUENCES]->(behavioralschemata);
+MATCH (knowledge:knowledge {name: 'd_knowledge'})
+MATCH (intrinsicmotivation:intrinsicmotivation {name: 'd_intrinsicmotivation'})
+create (knowledge)-[:INFLUENCES]->(intrinsicmotivation);
+MATCH (knowledge:knowledge {name: 'd_knowledge'})
+MATCH (autonomousmotivation:autonomousmotivation {name: 'd_autonomousmotivation'})
+create (knowledge)-[:INFLUENCES]->(autonomousmotivation);
+MATCH (knowledge:knowledge {name: 'd_knowledge'})
+MATCH (noeticawareness:noeticawareness {name: 'd_noeticawareness'})
+create (knowledge)-[:INFLUENCES]->(noeticawareness);
 MATCH (opportunityforcriminalacts:opportunityforcriminalacts {name: 'd_opportunityforcriminalacts'})
 MATCH (behavior:behavior {name: 'd_behavior'})
 create (opportunityforcriminalacts)-[:INFLUENCES]->(behavior);
@@ -626,14 +785,47 @@ MATCH (appraisalofselfefficacy:appraisalofselfefficacy {name: 'd_appraisalofself
 MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
 create (appraisalofselfefficacy)-[:INFLUENCES]->(selfefficacy);
 MATCH (appraisalofsocialidentity:appraisalofsocialidentity {name: 'd_appraisalofsocialidentity'})
-MATCH (selfreferencingcybontogroupselfidentity:selfreferencingcybontogroupselfidentity {name: 'd_selfreferencingcybontogroupselfidentity'})
-create (appraisalofsocialidentity)-[:INFLUENCES]->(selfreferencingcybontogroupselfidentity);
+MATCH (selfreferencing:selfreferencing {name: 'd_selfreferencing'})
+create (appraisalofsocialidentity)-[:INFLUENCES]->(selfreferencing);
+MATCH (appraisalofsocialidentity:appraisalofsocialidentity {name: 'd_appraisalofsocialidentity'})
+MATCH (cybontogroup:cybontogroup {name: 'd_cybontogroup'})
+create (appraisalofsocialidentity)-[:INFLUENCES]->(cybontogroup);
+MATCH (appraisalofsocialidentity:appraisalofsocialidentity {name: 'd_appraisalofsocialidentity'})
+MATCH (selfidentity:selfidentity {name: 'd_selfidentity'})
+create (appraisalofsocialidentity)-[:INFLUENCES]->(selfidentity);
 MATCH (autonomousmotivation:autonomousmotivation {name: 'd_autonomousmotivation'})
 MATCH (behavior:behavior {name: 'd_behavior'})
 create (autonomousmotivation)-[:INFLUENCES]->(behavior);
 MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
-MATCH (autonomousmotivationbehaviorselfefficacyintrinsicmotivationamotivationbehaviorcontrolabilitycontrolledmotivationperceivedbehavioralcontrolcognitiveprocessgoals:autonomousmotivationbehaviorselfefficacyintrinsicmotivationamotivationbehaviorcontrolabilitycontrolledmotivationperceivedbehavioralcontrolcognitiveprocessgoals {name: 'd_autonomousmotivationbehaviorselfefficacyintrinsicmotivationamotivationbehaviorcontrolabilitycontrolledmotivationperceivedbehavioralcontrolcognitiveprocessgoals'})
-create (behaviorcontrolability)-[:INFLUENCES]->(autonomousmotivationbehaviorselfefficacyintrinsicmotivationamotivationbehaviorcontrolabilitycontrolledmotivationperceivedbehavioralcontrolcognitiveprocessgoals);
+MATCH (autonomousmotivation:autonomousmotivation {name: 'd_autonomousmotivation'})
+create (behaviorcontrolability)-[:INFLUENCES]->(autonomousmotivation);
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (behaviorcontrolability)-[:INFLUENCES]->(behavior);
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+create (behaviorcontrolability)-[:INFLUENCES]->(selfefficacy);
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+MATCH (intrinsicmotivation:intrinsicmotivation {name: 'd_intrinsicmotivation'})
+create (behaviorcontrolability)-[:INFLUENCES]->(intrinsicmotivation);
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+MATCH (amotivation:amotivation {name: 'd_amotivation'})
+create (behaviorcontrolability)-[:INFLUENCES]->(amotivation);
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+create (behaviorcontrolability)-[:INFLUENCES]->(behaviorcontrolability);
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+MATCH (controlledmotivation:controlledmotivation {name: 'd_controlledmotivation'})
+create (behaviorcontrolability)-[:INFLUENCES]->(controlledmotivation);
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+MATCH (perceivedbehavioralcontrol:perceivedbehavioralcontrol {name: 'd_perceivedbehavioralcontrol'})
+create (behaviorcontrolability)-[:INFLUENCES]->(perceivedbehavioralcontrol);
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+MATCH (cognitiveprocess:cognitiveprocess {name: 'd_cognitiveprocess'})
+create (behaviorcontrolability)-[:INFLUENCES]->(cognitiveprocess);
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+MATCH (goals:goals {name: 'd_goals'})
+create (behaviorcontrolability)-[:INFLUENCES]->(goals);
 MATCH (behaviorgoal:behaviorgoal {name: 'd_behaviorgoal'})
 MATCH (prospect:prospect {name: 'd_prospect'})
 create (behaviorgoal)-[:INFLUENCES]->(prospect);
@@ -647,17 +839,56 @@ MATCH (certaintyeffect:certaintyeffect {name: 'd_certaintyeffect'})
 MATCH (decisionweight:decisionweight {name: 'd_decisionweight'})
 create (certaintyeffect)-[:INFLUENCES]->(decisionweight);
 MATCH (circumstances:circumstances {name: 'd_circumstances'})
-MATCH (goalsarousalmentalprocesssatisfactionofneedsbehaviorfrustrationofneedsopportunityforcriminalactsextrinsicmotivationcognitiveprocessperception:goalsarousalmentalprocesssatisfactionofneedsbehaviorfrustrationofneedsopportunityforcriminalactsextrinsicmotivationcognitiveprocessperception {name: 'd_goalsarousalmentalprocesssatisfactionofneedsbehaviorfrustrationofneedsopportunityforcriminalactsextrinsicmotivationcognitiveprocessperception'})
-create (circumstances)-[:INFLUENCES]->(goalsarousalmentalprocesssatisfactionofneedsbehaviorfrustrationofneedsopportunityforcriminalactsextrinsicmotivationcognitiveprocessperception);
+MATCH (goals:goals {name: 'd_goals'})
+create (circumstances)-[:INFLUENCES]->(goals);
+MATCH (circumstances:circumstances {name: 'd_circumstances'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (circumstances)-[:INFLUENCES]->(arousal);
+MATCH (circumstances:circumstances {name: 'd_circumstances'})
+MATCH (mentalprocess:mentalprocess {name: 'd_mentalprocess'})
+create (circumstances)-[:INFLUENCES]->(mentalprocess);
+MATCH (circumstances:circumstances {name: 'd_circumstances'})
+MATCH (satisfactionofneeds:satisfactionofneeds {name: 'd_satisfactionofneeds'})
+create (circumstances)-[:INFLUENCES]->(satisfactionofneeds);
+MATCH (circumstances:circumstances {name: 'd_circumstances'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (circumstances)-[:INFLUENCES]->(behavior);
+MATCH (circumstances:circumstances {name: 'd_circumstances'})
+MATCH (frustrationofneeds:frustrationofneeds {name: 'd_frustrationofneeds'})
+create (circumstances)-[:INFLUENCES]->(frustrationofneeds);
+MATCH (circumstances:circumstances {name: 'd_circumstances'})
+MATCH (opportunityforcriminalacts:opportunityforcriminalacts {name: 'd_opportunityforcriminalacts'})
+create (circumstances)-[:INFLUENCES]->(opportunityforcriminalacts);
+MATCH (circumstances:circumstances {name: 'd_circumstances'})
+MATCH (extrinsicmotivation:extrinsicmotivation {name: 'd_extrinsicmotivation'})
+create (circumstances)-[:INFLUENCES]->(extrinsicmotivation);
+MATCH (circumstances:circumstances {name: 'd_circumstances'})
+MATCH (cognitiveprocess:cognitiveprocess {name: 'd_cognitiveprocess'})
+create (circumstances)-[:INFLUENCES]->(cognitiveprocess);
+MATCH (circumstances:circumstances {name: 'd_circumstances'})
+MATCH (perception:perception {name: 'd_perception'})
+create (circumstances)-[:INFLUENCES]->(perception);
 MATCH (coding:coding {name: 'd_coding'})
 MATCH (prospect:prospect {name: 'd_prospect'})
 create (coding)-[:INFLUENCES]->(prospect);
 MATCH (combining:combining {name: 'd_combining'})
-MATCH (evaluatingprospect:evaluatingprospect {name: 'd_evaluatingprospect'})
-create (combining)-[:INFLUENCES]->(evaluatingprospect);
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (combining)-[:INFLUENCES]->(evaluating);
+MATCH (combining:combining {name: 'd_combining'})
+MATCH (prospect:prospect {name: 'd_prospect'})
+create (combining)-[:INFLUENCES]->(prospect);
 MATCH (complyeffect:complyeffect {name: 'd_complyeffect'})
-MATCH (normativebeliefprotectioneffectextrinsicmotivationautonomousmotivation:normativebeliefprotectioneffectextrinsicmotivationautonomousmotivation {name: 'd_normativebeliefprotectioneffectextrinsicmotivationautonomousmotivation'})
-create (complyeffect)-[:INFLUENCES]->(normativebeliefprotectioneffectextrinsicmotivationautonomousmotivation);
+MATCH (normativebelief:normativebelief {name: 'd_normativebelief'})
+create (complyeffect)-[:INFLUENCES]->(normativebelief);
+MATCH (complyeffect:complyeffect {name: 'd_complyeffect'})
+MATCH (protectioneffect:protectioneffect {name: 'd_protectioneffect'})
+create (complyeffect)-[:INFLUENCES]->(protectioneffect);
+MATCH (complyeffect:complyeffect {name: 'd_complyeffect'})
+MATCH (extrinsicmotivation:extrinsicmotivation {name: 'd_extrinsicmotivation'})
+create (complyeffect)-[:INFLUENCES]->(extrinsicmotivation);
+MATCH (complyeffect:complyeffect {name: 'd_complyeffect'})
+MATCH (autonomousmotivation:autonomousmotivation {name: 'd_autonomousmotivation'})
+create (complyeffect)-[:INFLUENCES]->(autonomousmotivation);
 MATCH (controlbelief:controlbelief {name: 'd_controlbelief'})
 MATCH (perceivedbehavioralcontrol:perceivedbehavioralcontrol {name: 'd_perceivedbehavioralcontrol'})
 create (controlbelief)-[:INFLUENCES]->(perceivedbehavioralcontrol);
@@ -668,53 +899,152 @@ MATCH (copingappraisal:copingappraisal {name: 'd_copingappraisal'})
 MATCH (protectioneffect:protectioneffect {name: 'd_protectioneffect'})
 create (copingappraisal)-[:INFLUENCES]->(protectioneffect);
 MATCH (decisionweight:decisionweight {name: 'd_decisionweight'})
-MATCH (prospectbehavior:prospectbehavior {name: 'd_prospectbehavior'})
-create (decisionweight)-[:INFLUENCES]->(prospectbehavior);
+MATCH (prospect:prospect {name: 'd_prospect'})
+create (decisionweight)-[:INFLUENCES]->(prospect);
+MATCH (decisionweight:decisionweight {name: 'd_decisionweight'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (decisionweight)-[:INFLUENCES]->(behavior);
 MATCH (differentialassociating:differentialassociating {name: 'd_differentialassociating'})
-MATCH (circumstancesperceivedconsensusappraisalofsocialidentitylearning:circumstancesperceivedconsensusappraisalofsocialidentitylearning {name: 'd_circumstancesperceivedconsensusappraisalofsocialidentitylearning'})
-create (differentialassociating)-[:INFLUENCES]->(circumstancesperceivedconsensusappraisalofsocialidentitylearning);
+MATCH (circumstances:circumstances {name: 'd_circumstances'})
+create (differentialassociating)-[:INFLUENCES]->(circumstances);
+MATCH (differentialassociating:differentialassociating {name: 'd_differentialassociating'})
+MATCH (perceivedconsensus:perceivedconsensus {name: 'd_perceivedconsensus'})
+create (differentialassociating)-[:INFLUENCES]->(perceivedconsensus);
+MATCH (differentialassociating:differentialassociating {name: 'd_differentialassociating'})
+MATCH (appraisalofsocialidentity:appraisalofsocialidentity {name: 'd_appraisalofsocialidentity'})
+create (differentialassociating)-[:INFLUENCES]->(appraisalofsocialidentity);
+MATCH (differentialassociating:differentialassociating {name: 'd_differentialassociating'})
+MATCH (learning:learning {name: 'd_learning'})
+create (differentialassociating)-[:INFLUENCES]->(learning);
 MATCH (dominancefocuseffect:dominancefocuseffect {name: 'd_dominancefocuseffect'})
-MATCH (evaluatingprospect:evaluatingprospect {name: 'd_evaluatingprospect'})
-create (dominancefocuseffect)-[:INFLUENCES]->(evaluatingprospect);
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (dominancefocuseffect)-[:INFLUENCES]->(evaluating);
+MATCH (dominancefocuseffect:dominancefocuseffect {name: 'd_dominancefocuseffect'})
+MATCH (prospect:prospect {name: 'd_prospect'})
+create (dominancefocuseffect)-[:INFLUENCES]->(prospect);
 MATCH (emotionalintelligence:emotionalintelligence {name: 'd_emotionalintelligence'})
 MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
 create (emotionalintelligence)-[:INFLUENCES]->(behaviorcontrolability);
 MATCH (evaluating:evaluating {name: 'd_evaluating'})
-MATCH (arousalintentionalmodalityprospectsubjectivenormsperceivedbehavioralcontrolbehavior:arousalintentionalmodalityprospectsubjectivenormsperceivedbehavioralcontrolbehavior {name: 'd_arousalintentionalmodalityprospectsubjectivenormsperceivedbehavioralcontrolbehavior'})
-create (evaluating)-[:INFLUENCES]->(arousalintentionalmodalityprospectsubjectivenormsperceivedbehavioralcontrolbehavior);
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (evaluating)-[:INFLUENCES]->(arousal);
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+MATCH (intentionalmodality:intentionalmodality {name: 'd_intentionalmodality'})
+create (evaluating)-[:INFLUENCES]->(intentionalmodality);
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+MATCH (prospect:prospect {name: 'd_prospect'})
+create (evaluating)-[:INFLUENCES]->(prospect);
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+MATCH (subjectivenorms:subjectivenorms {name: 'd_subjectivenorms'})
+create (evaluating)-[:INFLUENCES]->(subjectivenorms);
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+MATCH (perceivedbehavioralcontrol:perceivedbehavioralcontrol {name: 'd_perceivedbehavioralcontrol'})
+create (evaluating)-[:INFLUENCES]->(perceivedbehavioralcontrol);
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (evaluating)-[:INFLUENCES]->(behavior);
 MATCH (experience:experience {name: 'd_experience'})
-MATCH (copingappraisalthreatappraisalcircumstances:copingappraisalthreatappraisalcircumstances {name: 'd_copingappraisalthreatappraisalcircumstances'})
-create (experience)-[:INFLUENCES]->(copingappraisalthreatappraisalcircumstances);
+MATCH (copingappraisal:copingappraisal {name: 'd_copingappraisal'})
+create (experience)-[:INFLUENCES]->(copingappraisal);
+MATCH (experience:experience {name: 'd_experience'})
+MATCH (threatappraisal:threatappraisal {name: 'd_threatappraisal'})
+create (experience)-[:INFLUENCES]->(threatappraisal);
+MATCH (experience:experience {name: 'd_experience'})
+MATCH (circumstances:circumstances {name: 'd_circumstances'})
+create (experience)-[:INFLUENCES]->(circumstances);
 MATCH (experientialawareness:experientialawareness {name: 'd_experientialawareness'})
-MATCH (propositionalrepresentationsnoeticawarenessbehavioralschemataarousal:propositionalrepresentationsnoeticawarenessbehavioralschemataarousal {name: 'd_propositionalrepresentationsnoeticawarenessbehavioralschemataarousal'})
-create (experientialawareness)-[:INFLUENCES]->(propositionalrepresentationsnoeticawarenessbehavioralschemataarousal);
+MATCH (propositionalrepresentations:propositionalrepresentations {name: 'd_propositionalrepresentations'})
+create (experientialawareness)-[:INFLUENCES]->(propositionalrepresentations);
+MATCH (experientialawareness:experientialawareness {name: 'd_experientialawareness'})
+MATCH (noeticawareness:noeticawareness {name: 'd_noeticawareness'})
+create (experientialawareness)-[:INFLUENCES]->(noeticawareness);
+MATCH (experientialawareness:experientialawareness {name: 'd_experientialawareness'})
+MATCH (behavioralschemata:behavioralschemata {name: 'd_behavioralschemata'})
+create (experientialawareness)-[:INFLUENCES]->(behavioralschemata);
+MATCH (experientialawareness:experientialawareness {name: 'd_experientialawareness'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (experientialawareness)-[:INFLUENCES]->(arousal);
 MATCH (exposure:exposure {name: 'd_exposure'})
 MATCH (extrinsicmotivation:extrinsicmotivation {name: 'd_extrinsicmotivation'})
 create (exposure)-[:INFLUENCES]->(extrinsicmotivation);
 MATCH (extrinsicmotivation:extrinsicmotivation {name: 'd_extrinsicmotivation'})
-MATCH (goalsmaladaptiveresponseevaluating:goalsmaladaptiveresponseevaluating {name: 'd_goalsmaladaptiveresponseevaluating'})
-create (extrinsicmotivation)-[:INFLUENCES]->(goalsmaladaptiveresponseevaluating);
+MATCH (goals:goals {name: 'd_goals'})
+create (extrinsicmotivation)-[:INFLUENCES]->(goals);
+MATCH (extrinsicmotivation:extrinsicmotivation {name: 'd_extrinsicmotivation'})
+MATCH (maladaptiveresponse:maladaptiveresponse {name: 'd_maladaptiveresponse'})
+create (extrinsicmotivation)-[:INFLUENCES]->(maladaptiveresponse);
+MATCH (extrinsicmotivation:extrinsicmotivation {name: 'd_extrinsicmotivation'})
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (extrinsicmotivation)-[:INFLUENCES]->(evaluating);
 MATCH (extrinsicrewards:extrinsicrewards {name: 'd_extrinsicrewards'})
 MATCH (maladaptiveresponse:maladaptiveresponse {name: 'd_maladaptiveresponse'})
 create (extrinsicrewards)-[:INFLUENCES]->(maladaptiveresponse);
 MATCH (feararousal:feararousal {name: 'd_feararousal'})
-MATCH (intrinsicmotivationperceivedthreatseveritycomplyeffectprotectioneffect:intrinsicmotivationperceivedthreatseveritycomplyeffectprotectioneffect {name: 'd_intrinsicmotivationperceivedthreatseveritycomplyeffectprotectioneffect'})
-create (feararousal)-[:INFLUENCES]->(intrinsicmotivationperceivedthreatseveritycomplyeffectprotectioneffect);
+MATCH (intrinsicmotivation:intrinsicmotivation {name: 'd_intrinsicmotivation'})
+create (feararousal)-[:INFLUENCES]->(intrinsicmotivation);
+MATCH (feararousal:feararousal {name: 'd_feararousal'})
+MATCH (perceivedthreatseverity:perceivedthreatseverity {name: 'd_perceivedthreatseverity'})
+create (feararousal)-[:INFLUENCES]->(perceivedthreatseverity);
+MATCH (feararousal:feararousal {name: 'd_feararousal'})
+MATCH (complyeffect:complyeffect {name: 'd_complyeffect'})
+create (feararousal)-[:INFLUENCES]->(complyeffect);
+MATCH (feararousal:feararousal {name: 'd_feararousal'})
+MATCH (protectioneffect:protectioneffect {name: 'd_protectioneffect'})
+create (feararousal)-[:INFLUENCES]->(protectioneffect);
 MATCH (focus:focus {name: 'd_focus'})
-MATCH (behaviornorms:behaviornorms {name: 'd_behaviornorms'})
-create (focus)-[:INFLUENCES]->(behaviornorms);
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (focus)-[:INFLUENCES]->(behavior);
+MATCH (focus:focus {name: 'd_focus'})
+MATCH (norms:norms {name: 'd_norms'})
+create (focus)-[:INFLUENCES]->(norms);
 MATCH (forethoughtcapability:forethoughtcapability {name: 'd_forethoughtcapability'})
-MATCH (mentalprocesscognitiveprocess:mentalprocesscognitiveprocess {name: 'd_mentalprocesscognitiveprocess'})
-create (forethoughtcapability)-[:INFLUENCES]->(mentalprocesscognitiveprocess);
+MATCH (mentalprocess:mentalprocess {name: 'd_mentalprocess'})
+create (forethoughtcapability)-[:INFLUENCES]->(mentalprocess);
+MATCH (forethoughtcapability:forethoughtcapability {name: 'd_forethoughtcapability'})
+MATCH (cognitiveprocess:cognitiveprocess {name: 'd_cognitiveprocess'})
+create (forethoughtcapability)-[:INFLUENCES]->(cognitiveprocess);
 MATCH (frustrationofneeds:frustrationofneeds {name: 'd_frustrationofneeds'})
-MATCH (behaviorcontrolabilityinternalizationamotivation:behaviorcontrolabilityinternalizationamotivation {name: 'd_behaviorcontrolabilityinternalizationamotivation'})
-create (frustrationofneeds)-[:INFLUENCES]->(behaviorcontrolabilityinternalizationamotivation);
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+create (frustrationofneeds)-[:INFLUENCES]->(behaviorcontrolability);
+MATCH (frustrationofneeds:frustrationofneeds {name: 'd_frustrationofneeds'})
+MATCH (internalization:internalization {name: 'd_internalization'})
+create (frustrationofneeds)-[:INFLUENCES]->(internalization);
+MATCH (frustrationofneeds:frustrationofneeds {name: 'd_frustrationofneeds'})
+MATCH (amotivation:amotivation {name: 'd_amotivation'})
+create (frustrationofneeds)-[:INFLUENCES]->(amotivation);
 MATCH (generalizing:generalizing {name: 'd_generalizing'})
 MATCH (behavior:behavior {name: 'd_behavior'})
 create (generalizing)-[:INFLUENCES]->(behavior);
 MATCH (goals:goals {name: 'd_goals'})
-MATCH (frustrationofneedsbehaviorgeneralizingpersistencefocusknowledgesatisfactionofneedsbehavioralschemataperceivedresponsibilityarousal:frustrationofneedsbehaviorgeneralizingpersistencefocusknowledgesatisfactionofneedsbehavioralschemataperceivedresponsibilityarousal {name: 'd_frustrationofneedsbehaviorgeneralizingpersistencefocusknowledgesatisfactionofneedsbehavioralschemataperceivedresponsibilityarousal'})
-create (goals)-[:INFLUENCES]->(frustrationofneedsbehaviorgeneralizingpersistencefocusknowledgesatisfactionofneedsbehavioralschemataperceivedresponsibilityarousal);
+MATCH (frustrationofneeds:frustrationofneeds {name: 'd_frustrationofneeds'})
+create (goals)-[:INFLUENCES]->(frustrationofneeds);
+MATCH (goals:goals {name: 'd_goals'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (goals)-[:INFLUENCES]->(behavior);
+MATCH (goals:goals {name: 'd_goals'})
+MATCH (generalizing:generalizing {name: 'd_generalizing'})
+create (goals)-[:INFLUENCES]->(generalizing);
+MATCH (goals:goals {name: 'd_goals'})
+MATCH (persistence:persistence {name: 'd_persistence'})
+create (goals)-[:INFLUENCES]->(persistence);
+MATCH (goals:goals {name: 'd_goals'})
+MATCH (focus:focus {name: 'd_focus'})
+create (goals)-[:INFLUENCES]->(focus);
+MATCH (goals:goals {name: 'd_goals'})
+MATCH (knowledge:knowledge {name: 'd_knowledge'})
+create (goals)-[:INFLUENCES]->(knowledge);
+MATCH (goals:goals {name: 'd_goals'})
+MATCH (satisfactionofneeds:satisfactionofneeds {name: 'd_satisfactionofneeds'})
+create (goals)-[:INFLUENCES]->(satisfactionofneeds);
+MATCH (goals:goals {name: 'd_goals'})
+MATCH (behavioralschemata:behavioralschemata {name: 'd_behavioralschemata'})
+create (goals)-[:INFLUENCES]->(behavioralschemata);
+MATCH (goals:goals {name: 'd_goals'})
+MATCH (perceivedresponsibility:perceivedresponsibility {name: 'd_perceivedresponsibility'})
+create (goals)-[:INFLUENCES]->(perceivedresponsibility);
+MATCH (goals:goals {name: 'd_goals'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (goals)-[:INFLUENCES]->(arousal);
 MATCH (groupnorms:groupnorms {name: 'd_groupnorms'})
 MATCH (perception:perception {name: 'd_perception'})
 create (groupnorms)-[:INFLUENCES]->(perception);
@@ -722,20 +1052,41 @@ MATCH (impulsiveeffect:impulsiveeffect {name: 'd_impulsiveeffect'})
 MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
 create (impulsiveeffect)-[:INFLUENCES]->(behaviorcontrolability);
 MATCH (internalization:internalization {name: 'd_internalization'})
-MATCH (complyeffectbehaviorcontrolabilityextrinsicmotivationcontrolledmotivation:complyeffectbehaviorcontrolabilityextrinsicmotivationcontrolledmotivation {name: 'd_complyeffectbehaviorcontrolabilityextrinsicmotivationcontrolledmotivation'})
-create (internalization)-[:INFLUENCES]->(complyeffectbehaviorcontrolabilityextrinsicmotivationcontrolledmotivation);
+MATCH (complyeffect:complyeffect {name: 'd_complyeffect'})
+create (internalization)-[:INFLUENCES]->(complyeffect);
+MATCH (internalization:internalization {name: 'd_internalization'})
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+create (internalization)-[:INFLUENCES]->(behaviorcontrolability);
+MATCH (internalization:internalization {name: 'd_internalization'})
+MATCH (extrinsicmotivation:extrinsicmotivation {name: 'd_extrinsicmotivation'})
+create (internalization)-[:INFLUENCES]->(extrinsicmotivation);
+MATCH (internalization:internalization {name: 'd_internalization'})
+MATCH (controlledmotivation:controlledmotivation {name: 'd_controlledmotivation'})
+create (internalization)-[:INFLUENCES]->(controlledmotivation);
 MATCH (internalizedgroupmembership:internalizedgroupmembership {name: 'd_internalizedgroupmembership'})
 MATCH (differentialassociating:differentialassociating {name: 'd_differentialassociating'})
 create (internalizedgroupmembership)-[:INFLUENCES]->(differentialassociating);
 MATCH (intrinsicmotivation:intrinsicmotivation {name: 'd_intrinsicmotivation'})
-MATCH (goalsbehaviormaladaptiveresponseevaluating:goalsbehaviormaladaptiveresponseevaluating {name: 'd_goalsbehaviormaladaptiveresponseevaluating'})
-create (intrinsicmotivation)-[:INFLUENCES]->(goalsbehaviormaladaptiveresponseevaluating);
+MATCH (goals:goals {name: 'd_goals'})
+create (intrinsicmotivation)-[:INFLUENCES]->(goals);
+MATCH (intrinsicmotivation:intrinsicmotivation {name: 'd_intrinsicmotivation'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (intrinsicmotivation)-[:INFLUENCES]->(behavior);
+MATCH (intrinsicmotivation:intrinsicmotivation {name: 'd_intrinsicmotivation'})
+MATCH (maladaptiveresponse:maladaptiveresponse {name: 'd_maladaptiveresponse'})
+create (intrinsicmotivation)-[:INFLUENCES]->(maladaptiveresponse);
+MATCH (intrinsicmotivation:intrinsicmotivation {name: 'd_intrinsicmotivation'})
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (intrinsicmotivation)-[:INFLUENCES]->(evaluating);
 MATCH (intrinsicrewards:intrinsicrewards {name: 'd_intrinsicrewards'})
 MATCH (maladaptiveresponse:maladaptiveresponse {name: 'd_maladaptiveresponse'})
 create (intrinsicrewards)-[:INFLUENCES]->(maladaptiveresponse);
 MATCH (isolationeffect:isolationeffect {name: 'd_isolationeffect'})
-MATCH (evaluatingprospect:evaluatingprospect {name: 'd_evaluatingprospect'})
-create (isolationeffect)-[:INFLUENCES]->(evaluatingprospect);
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (isolationeffect)-[:INFLUENCES]->(evaluating);
+MATCH (isolationeffect:isolationeffect {name: 'd_isolationeffect'})
+MATCH (prospect:prospect {name: 'd_prospect'})
+create (isolationeffect)-[:INFLUENCES]->(prospect);
 MATCH (learning:learning {name: 'd_learning'})
 MATCH (perceivedconsensus:perceivedconsensus {name: 'd_perceivedconsensus'})
 create (learning)-[:INFLUENCES]->(perceivedconsensus);
@@ -746,86 +1097,296 @@ MATCH (masteryexperience:masteryexperience {name: 'd_masteryexperience'})
 MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
 create (masteryexperience)-[:INFLUENCES]->(selfefficacy);
 MATCH (motivation:motivation {name: 'd_motivation'})
-MATCH (behavioralschemataperceivedconsensusbehavior:behavioralschemataperceivedconsensusbehavior {name: 'd_behavioralschemataperceivedconsensusbehavior'})
-create (motivation)-[:INFLUENCES]->(behavioralschemataperceivedconsensusbehavior);
+MATCH (behavioralschemata:behavioralschemata {name: 'd_behavioralschemata'})
+create (motivation)-[:INFLUENCES]->(behavioralschemata);
+MATCH (motivation:motivation {name: 'd_motivation'})
+MATCH (perceivedconsensus:perceivedconsensus {name: 'd_perceivedconsensus'})
+create (motivation)-[:INFLUENCES]->(perceivedconsensus);
+MATCH (motivation:motivation {name: 'd_motivation'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (motivation)-[:INFLUENCES]->(behavior);
 MATCH (noeticawareness:noeticawareness {name: 'd_noeticawareness'})
-MATCH (behavioralschemataarousalknowledgeexperientialawarenessperception:behavioralschemataarousalknowledgeexperientialawarenessperception {name: 'd_behavioralschemataarousalknowledgeexperientialawarenessperception'})
-create (noeticawareness)-[:INFLUENCES]->(behavioralschemataarousalknowledgeexperientialawarenessperception);
+MATCH (behavioralschemata:behavioralschemata {name: 'd_behavioralschemata'})
+create (noeticawareness)-[:INFLUENCES]->(behavioralschemata);
+MATCH (noeticawareness:noeticawareness {name: 'd_noeticawareness'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (noeticawareness)-[:INFLUENCES]->(arousal);
+MATCH (noeticawareness:noeticawareness {name: 'd_noeticawareness'})
+MATCH (knowledge:knowledge {name: 'd_knowledge'})
+create (noeticawareness)-[:INFLUENCES]->(knowledge);
+MATCH (noeticawareness:noeticawareness {name: 'd_noeticawareness'})
+MATCH (experientialawareness:experientialawareness {name: 'd_experientialawareness'})
+create (noeticawareness)-[:INFLUENCES]->(experientialawareness);
+MATCH (noeticawareness:noeticawareness {name: 'd_noeticawareness'})
+MATCH (perception:perception {name: 'd_perception'})
+create (noeticawareness)-[:INFLUENCES]->(perception);
 MATCH (normativebelief:normativebelief {name: 'd_normativebelief'})
-MATCH (prospectsubjectivenorms:prospectsubjectivenorms {name: 'd_prospectsubjectivenorms'})
-create (normativebelief)-[:INFLUENCES]->(prospectsubjectivenorms);
+MATCH (prospect:prospect {name: 'd_prospect'})
+create (normativebelief)-[:INFLUENCES]->(prospect);
+MATCH (normativebelief:normativebelief {name: 'd_normativebelief'})
+MATCH (subjectivenorms:subjectivenorms {name: 'd_subjectivenorms'})
+create (normativebelief)-[:INFLUENCES]->(subjectivenorms);
 MATCH (norms:norms {name: 'd_norms'})
 MATCH (perception:perception {name: 'd_perception'})
 create (norms)-[:INFLUENCES]->(perception);
 MATCH (observationallearning:observationallearning {name: 'd_observationallearning'})
-MATCH (behaviorthreatappraisalcopingappraisal:behaviorthreatappraisalcopingappraisal {name: 'd_behaviorthreatappraisalcopingappraisal'})
-create (observationallearning)-[:INFLUENCES]->(behaviorthreatappraisalcopingappraisal);
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (observationallearning)-[:INFLUENCES]->(behavior);
+MATCH (observationallearning:observationallearning {name: 'd_observationallearning'})
+MATCH (threatappraisal:threatappraisal {name: 'd_threatappraisal'})
+create (observationallearning)-[:INFLUENCES]->(threatappraisal);
+MATCH (observationallearning:observationallearning {name: 'd_observationallearning'})
+MATCH (copingappraisal:copingappraisal {name: 'd_copingappraisal'})
+create (observationallearning)-[:INFLUENCES]->(copingappraisal);
 MATCH (perceivedbehavioralcontrol:perceivedbehavioralcontrol {name: 'd_perceivedbehavioralcontrol'})
-MATCH (intentionalmodalitybehaviorevaluating:intentionalmodalitybehaviorevaluating {name: 'd_intentionalmodalitybehaviorevaluating'})
-create (perceivedbehavioralcontrol)-[:INFLUENCES]->(intentionalmodalitybehaviorevaluating);
+MATCH (intentionalmodality:intentionalmodality {name: 'd_intentionalmodality'})
+create (perceivedbehavioralcontrol)-[:INFLUENCES]->(intentionalmodality);
+MATCH (perceivedbehavioralcontrol:perceivedbehavioralcontrol {name: 'd_perceivedbehavioralcontrol'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (perceivedbehavioralcontrol)-[:INFLUENCES]->(behavior);
+MATCH (perceivedbehavioralcontrol:perceivedbehavioralcontrol {name: 'd_perceivedbehavioralcontrol'})
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (perceivedbehavioralcontrol)-[:INFLUENCES]->(evaluating);
 MATCH (perceivedconsensus:perceivedconsensus {name: 'd_perceivedconsensus'})
-MATCH (behaviorperception:behaviorperception {name: 'd_behaviorperception'})
-create (perceivedconsensus)-[:INFLUENCES]->(behaviorperception);
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (perceivedconsensus)-[:INFLUENCES]->(behavior);
+MATCH (perceivedconsensus:perceivedconsensus {name: 'd_perceivedconsensus'})
+MATCH (perception:perception {name: 'd_perception'})
+create (perceivedconsensus)-[:INFLUENCES]->(perception);
 MATCH (perceivedefficacy:perceivedefficacy {name: 'd_perceivedefficacy'})
-MATCH (feararousalcomplyeffect:feararousalcomplyeffect {name: 'd_feararousalcomplyeffect'})
-create (perceivedefficacy)-[:INFLUENCES]->(feararousalcomplyeffect);
+MATCH (feararousal:feararousal {name: 'd_feararousal'})
+create (perceivedefficacy)-[:INFLUENCES]->(feararousal);
+MATCH (perceivedefficacy:perceivedefficacy {name: 'd_perceivedefficacy'})
+MATCH (complyeffect:complyeffect {name: 'd_complyeffect'})
+create (perceivedefficacy)-[:INFLUENCES]->(complyeffect);
 MATCH (perceivedresponsibility:perceivedresponsibility {name: 'd_perceivedresponsibility'})
 MATCH (evaluating:evaluating {name: 'd_evaluating'})
 create (perceivedresponsibility)-[:INFLUENCES]->(evaluating);
 MATCH (perceivedthreatseverity:perceivedthreatseverity {name: 'd_perceivedthreatseverity'})
-MATCH (selfefficacythreatappraisalperceivedefficacyfeararousal:selfefficacythreatappraisalperceivedefficacyfeararousal {name: 'd_selfefficacythreatappraisalperceivedefficacyfeararousal'})
-create (perceivedthreatseverity)-[:INFLUENCES]->(selfefficacythreatappraisalperceivedefficacyfeararousal);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+create (perceivedthreatseverity)-[:INFLUENCES]->(selfefficacy);
+MATCH (perceivedthreatseverity:perceivedthreatseverity {name: 'd_perceivedthreatseverity'})
+MATCH (threatappraisal:threatappraisal {name: 'd_threatappraisal'})
+create (perceivedthreatseverity)-[:INFLUENCES]->(threatappraisal);
+MATCH (perceivedthreatseverity:perceivedthreatseverity {name: 'd_perceivedthreatseverity'})
+MATCH (perceivedefficacy:perceivedefficacy {name: 'd_perceivedefficacy'})
+create (perceivedthreatseverity)-[:INFLUENCES]->(perceivedefficacy);
+MATCH (perceivedthreatseverity:perceivedthreatseverity {name: 'd_perceivedthreatseverity'})
+MATCH (feararousal:feararousal {name: 'd_feararousal'})
+create (perceivedthreatseverity)-[:INFLUENCES]->(feararousal);
 MATCH (perceiveduniqueness:perceiveduniqueness {name: 'd_perceiveduniqueness'})
-MATCH (behaviorfeararousalperceptioncomplyeffect:behaviorfeararousalperceptioncomplyeffect {name: 'd_behaviorfeararousalperceptioncomplyeffect'})
-create (perceiveduniqueness)-[:INFLUENCES]->(behaviorfeararousalperceptioncomplyeffect);
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (perceiveduniqueness)-[:INFLUENCES]->(behavior);
+MATCH (perceiveduniqueness:perceiveduniqueness {name: 'd_perceiveduniqueness'})
+MATCH (feararousal:feararousal {name: 'd_feararousal'})
+create (perceiveduniqueness)-[:INFLUENCES]->(feararousal);
+MATCH (perceiveduniqueness:perceiveduniqueness {name: 'd_perceiveduniqueness'})
+MATCH (perception:perception {name: 'd_perception'})
+create (perceiveduniqueness)-[:INFLUENCES]->(perception);
+MATCH (perceiveduniqueness:perceiveduniqueness {name: 'd_perceiveduniqueness'})
+MATCH (complyeffect:complyeffect {name: 'd_complyeffect'})
+create (perceiveduniqueness)-[:INFLUENCES]->(complyeffect);
 MATCH (perceivedvulnerability:perceivedvulnerability {name: 'd_perceivedvulnerability'})
-MATCH (threatappraisalperceivedthreatseverity:threatappraisalperceivedthreatseverity {name: 'd_threatappraisalperceivedthreatseverity'})
-create (perceivedvulnerability)-[:INFLUENCES]->(threatappraisalperceivedthreatseverity);
+MATCH (threatappraisal:threatappraisal {name: 'd_threatappraisal'})
+create (perceivedvulnerability)-[:INFLUENCES]->(threatappraisal);
+MATCH (perceivedvulnerability:perceivedvulnerability {name: 'd_perceivedvulnerability'})
+MATCH (perceivedthreatseverity:perceivedthreatseverity {name: 'd_perceivedthreatseverity'})
+create (perceivedvulnerability)-[:INFLUENCES]->(perceivedthreatseverity);
 MATCH (persistence:persistence {name: 'd_persistence'})
-MATCH (arousalknowledgefocusbehavior:arousalknowledgefocusbehavior {name: 'd_arousalknowledgefocusbehavior'})
-create (persistence)-[:INFLUENCES]->(arousalknowledgefocusbehavior);
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (persistence)-[:INFLUENCES]->(arousal);
+MATCH (persistence:persistence {name: 'd_persistence'})
+MATCH (knowledge:knowledge {name: 'd_knowledge'})
+create (persistence)-[:INFLUENCES]->(knowledge);
+MATCH (persistence:persistence {name: 'd_persistence'})
+MATCH (focus:focus {name: 'd_focus'})
+create (persistence)-[:INFLUENCES]->(focus);
+MATCH (persistence:persistence {name: 'd_persistence'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (persistence)-[:INFLUENCES]->(behavior);
 MATCH (physicalquality:physicalquality {name: 'd_physicalquality'})
-MATCH (threatappraisalcopingappraisalbehaviorcontrolability:threatappraisalcopingappraisalbehaviorcontrolability {name: 'd_threatappraisalcopingappraisalbehaviorcontrolability'})
-create (physicalquality)-[:INFLUENCES]->(threatappraisalcopingappraisalbehaviorcontrolability);
+MATCH (threatappraisal:threatappraisal {name: 'd_threatappraisal'})
+create (physicalquality)-[:INFLUENCES]->(threatappraisal);
+MATCH (physicalquality:physicalquality {name: 'd_physicalquality'})
+MATCH (copingappraisal:copingappraisal {name: 'd_copingappraisal'})
+create (physicalquality)-[:INFLUENCES]->(copingappraisal);
+MATCH (physicalquality:physicalquality {name: 'd_physicalquality'})
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+create (physicalquality)-[:INFLUENCES]->(behaviorcontrolability);
 MATCH (pluralisticignorance:pluralisticignorance {name: 'd_pluralisticignorance'})
 MATCH (perception:perception {name: 'd_perception'})
 create (pluralisticignorance)-[:INFLUENCES]->(perception);
 MATCH (possibilityeffect:possibilityeffect {name: 'd_possibilityeffect'})
-MATCH (evaluatingprospect:evaluatingprospect {name: 'd_evaluatingprospect'})
-create (possibilityeffect)-[:INFLUENCES]->(evaluatingprospect);
-MATCH (propositionalrepresentations:propositionalrepresentations {name: 'd_propositionalrepresentations'})
-MATCH (perceptionexperientialawarenessbehavioralschemataarousalknowledge:perceptionexperientialawarenessbehavioralschemataarousalknowledge {name: 'd_perceptionexperientialawarenessbehavioralschemataarousalknowledge'})
-create (propositionalrepresentations)-[:INFLUENCES]->(perceptionexperientialawarenessbehavioralschemataarousalknowledge);
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (possibilityeffect)-[:INFLUENCES]->(evaluating);
+MATCH (possibilityeffect:possibilityeffect {name: 'd_possibilityeffect'})
 MATCH (prospect:prospect {name: 'd_prospect'})
-MATCH (copingappraisalsubjectivevaluesforethoughtcapabilitybehavioralbeliefbehaviorcontrolabilitypersistencebehaviorgoalssubjectivenormsdecisionweightevaluatingarousalcoding:copingappraisalsubjectivevaluesforethoughtcapabilitybehavioralbeliefbehaviorcontrolabilitypersistencebehaviorgoalssubjectivenormsdecisionweightevaluatingarousalcoding {name: 'd_copingappraisalsubjectivevaluesforethoughtcapabilitybehavioralbeliefbehaviorcontrolabilitypersistencebehaviorgoalssubjectivenormsdecisionweightevaluatingarousalcoding'})
-create (prospect)-[:INFLUENCES]->(copingappraisalsubjectivevaluesforethoughtcapabilitybehavioralbeliefbehaviorcontrolabilitypersistencebehaviorgoalssubjectivenormsdecisionweightevaluatingarousalcoding);
+create (possibilityeffect)-[:INFLUENCES]->(prospect);
+MATCH (propositionalrepresentations:propositionalrepresentations {name: 'd_propositionalrepresentations'})
+MATCH (perception:perception {name: 'd_perception'})
+create (propositionalrepresentations)-[:INFLUENCES]->(perception);
+MATCH (propositionalrepresentations:propositionalrepresentations {name: 'd_propositionalrepresentations'})
+MATCH (experientialawareness:experientialawareness {name: 'd_experientialawareness'})
+create (propositionalrepresentations)-[:INFLUENCES]->(experientialawareness);
+MATCH (propositionalrepresentations:propositionalrepresentations {name: 'd_propositionalrepresentations'})
+MATCH (behavioralschemata:behavioralschemata {name: 'd_behavioralschemata'})
+create (propositionalrepresentations)-[:INFLUENCES]->(behavioralschemata);
+MATCH (propositionalrepresentations:propositionalrepresentations {name: 'd_propositionalrepresentations'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (propositionalrepresentations)-[:INFLUENCES]->(arousal);
+MATCH (propositionalrepresentations:propositionalrepresentations {name: 'd_propositionalrepresentations'})
+MATCH (knowledge:knowledge {name: 'd_knowledge'})
+create (propositionalrepresentations)-[:INFLUENCES]->(knowledge);
+MATCH (prospect:prospect {name: 'd_prospect'})
+MATCH (copingappraisal:copingappraisal {name: 'd_copingappraisal'})
+create (prospect)-[:INFLUENCES]->(copingappraisal);
+MATCH (prospect:prospect {name: 'd_prospect'})
+MATCH (subjectivevalues:subjectivevalues {name: 'd_subjectivevalues'})
+create (prospect)-[:INFLUENCES]->(subjectivevalues);
+MATCH (prospect:prospect {name: 'd_prospect'})
+MATCH (forethoughtcapability:forethoughtcapability {name: 'd_forethoughtcapability'})
+create (prospect)-[:INFLUENCES]->(forethoughtcapability);
+MATCH (prospect:prospect {name: 'd_prospect'})
+MATCH (behavioralbelief:behavioralbelief {name: 'd_behavioralbelief'})
+create (prospect)-[:INFLUENCES]->(behavioralbelief);
+MATCH (prospect:prospect {name: 'd_prospect'})
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+create (prospect)-[:INFLUENCES]->(behaviorcontrolability);
+MATCH (prospect:prospect {name: 'd_prospect'})
+MATCH (persistence:persistence {name: 'd_persistence'})
+create (prospect)-[:INFLUENCES]->(persistence);
+MATCH (prospect:prospect {name: 'd_prospect'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (prospect)-[:INFLUENCES]->(behavior);
+MATCH (prospect:prospect {name: 'd_prospect'})
+MATCH (goals:goals {name: 'd_goals'})
+create (prospect)-[:INFLUENCES]->(goals);
+MATCH (prospect:prospect {name: 'd_prospect'})
+MATCH (subjectivenorms:subjectivenorms {name: 'd_subjectivenorms'})
+create (prospect)-[:INFLUENCES]->(subjectivenorms);
+MATCH (prospect:prospect {name: 'd_prospect'})
+MATCH (decisionweight:decisionweight {name: 'd_decisionweight'})
+create (prospect)-[:INFLUENCES]->(decisionweight);
+MATCH (prospect:prospect {name: 'd_prospect'})
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (prospect)-[:INFLUENCES]->(evaluating);
+MATCH (prospect:prospect {name: 'd_prospect'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (prospect)-[:INFLUENCES]->(arousal);
+MATCH (prospect:prospect {name: 'd_prospect'})
+MATCH (coding:coding {name: 'd_coding'})
+create (prospect)-[:INFLUENCES]->(coding);
 MATCH (protectioneffect:protectioneffect {name: 'd_protectioneffect'})
-MATCH (maladaptiveresponsebehavioradaptiveresponse:maladaptiveresponsebehavioradaptiveresponse {name: 'd_maladaptiveresponsebehavioradaptiveresponse'})
-create (protectioneffect)-[:INFLUENCES]->(maladaptiveresponsebehavioradaptiveresponse);
+MATCH (maladaptiveresponse:maladaptiveresponse {name: 'd_maladaptiveresponse'})
+create (protectioneffect)-[:INFLUENCES]->(maladaptiveresponse);
+MATCH (protectioneffect:protectioneffect {name: 'd_protectioneffect'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (protectioneffect)-[:INFLUENCES]->(behavior);
+MATCH (protectioneffect:protectioneffect {name: 'd_protectioneffect'})
+MATCH (adaptiveresponse:adaptiveresponse {name: 'd_adaptiveresponse'})
+create (protectioneffect)-[:INFLUENCES]->(adaptiveresponse);
 MATCH (relationalschemata:relationalschemata {name: 'd_relationalschemata'})
 MATCH (noeticawareness:noeticawareness {name: 'd_noeticawareness'})
 create (relationalschemata)-[:INFLUENCES]->(noeticawareness);
 MATCH (responseefficacy:responseefficacy {name: 'd_responseefficacy'})
-MATCH (feararousalperceivedefficacyadaptiveresponse:feararousalperceivedefficacyadaptiveresponse {name: 'd_feararousalperceivedefficacyadaptiveresponse'})
-create (responseefficacy)-[:INFLUENCES]->(feararousalperceivedefficacyadaptiveresponse);
+MATCH (feararousal:feararousal {name: 'd_feararousal'})
+create (responseefficacy)-[:INFLUENCES]->(feararousal);
+MATCH (responseefficacy:responseefficacy {name: 'd_responseefficacy'})
+MATCH (perceivedefficacy:perceivedefficacy {name: 'd_perceivedefficacy'})
+create (responseefficacy)-[:INFLUENCES]->(perceivedefficacy);
+MATCH (responseefficacy:responseefficacy {name: 'd_responseefficacy'})
+MATCH (adaptiveresponse:adaptiveresponse {name: 'd_adaptiveresponse'})
+create (responseefficacy)-[:INFLUENCES]->(adaptiveresponse);
 MATCH (rewards:rewards {name: 'd_rewards'})
-MATCH (goalspersistenceextrinsicmotivationselfefficacybehavior:goalspersistenceextrinsicmotivationselfefficacybehavior {name: 'd_goalspersistenceextrinsicmotivationselfefficacybehavior'})
-create (rewards)-[:INFLUENCES]->(goalspersistenceextrinsicmotivationselfefficacybehavior);
+MATCH (goals:goals {name: 'd_goals'})
+create (rewards)-[:INFLUENCES]->(goals);
+MATCH (rewards:rewards {name: 'd_rewards'})
+MATCH (persistence:persistence {name: 'd_persistence'})
+create (rewards)-[:INFLUENCES]->(persistence);
+MATCH (rewards:rewards {name: 'd_rewards'})
+MATCH (extrinsicmotivation:extrinsicmotivation {name: 'd_extrinsicmotivation'})
+create (rewards)-[:INFLUENCES]->(extrinsicmotivation);
+MATCH (rewards:rewards {name: 'd_rewards'})
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+create (rewards)-[:INFLUENCES]->(selfefficacy);
+MATCH (rewards:rewards {name: 'd_rewards'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (rewards)-[:INFLUENCES]->(behavior);
 MATCH (risktakingeffect:risktakingeffect {name: 'd_risktakingeffect'})
 MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
 create (risktakingeffect)-[:INFLUENCES]->(behaviorcontrolability);
 MATCH (satisfactionofneeds:satisfactionofneeds {name: 'd_satisfactionofneeds'})
-MATCH (intentionalmodalitybeliefinternalizationknowledgebehaviorcontrolability:intentionalmodalitybeliefinternalizationknowledgebehaviorcontrolability {name: 'd_intentionalmodalitybeliefinternalizationknowledgebehaviorcontrolability'})
-create (satisfactionofneeds)-[:INFLUENCES]->(intentionalmodalitybeliefinternalizationknowledgebehaviorcontrolability);
+MATCH (intentionalmodality:intentionalmodality {name: 'd_intentionalmodality'})
+create (satisfactionofneeds)-[:INFLUENCES]->(intentionalmodality);
+MATCH (satisfactionofneeds:satisfactionofneeds {name: 'd_satisfactionofneeds'})
+MATCH (belief:belief {name: 'd_belief'})
+create (satisfactionofneeds)-[:INFLUENCES]->(belief);
+MATCH (satisfactionofneeds:satisfactionofneeds {name: 'd_satisfactionofneeds'})
+MATCH (internalization:internalization {name: 'd_internalization'})
+create (satisfactionofneeds)-[:INFLUENCES]->(internalization);
+MATCH (satisfactionofneeds:satisfactionofneeds {name: 'd_satisfactionofneeds'})
+MATCH (knowledge:knowledge {name: 'd_knowledge'})
+create (satisfactionofneeds)-[:INFLUENCES]->(knowledge);
+MATCH (satisfactionofneeds:satisfactionofneeds {name: 'd_satisfactionofneeds'})
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+create (satisfactionofneeds)-[:INFLUENCES]->(behaviorcontrolability);
 MATCH (school:school {name: 'd_school'})
 MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
 create (school)-[:INFLUENCES]->(behaviorcontrolability);
 MATCH (segregating:segregating {name: 'd_segregating'})
-MATCH (prospectbehaviorevaluating:prospectbehaviorevaluating {name: 'd_prospectbehaviorevaluating'})
-create (segregating)-[:INFLUENCES]->(prospectbehaviorevaluating);
+MATCH (prospect:prospect {name: 'd_prospect'})
+create (segregating)-[:INFLUENCES]->(prospect);
+MATCH (segregating:segregating {name: 'd_segregating'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (segregating)-[:INFLUENCES]->(behavior);
+MATCH (segregating:segregating {name: 'd_segregating'})
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (segregating)-[:INFLUENCES]->(evaluating);
 MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
-MATCH (situationalcircumstancebehaviorperceivedthreatseverityperceivedefficacyprospectfeararousalarousalsocialcircumstanceadaptiveresponsecomplyeffectselfreflectioncapabilitypersistencegoalsperceivedresponsibilitytemporalcircumstance:situationalcircumstancebehaviorperceivedthreatseverityperceivedefficacyprospectfeararousalarousalsocialcircumstanceadaptiveresponsecomplyeffectselfreflectioncapabilitypersistencegoalsperceivedresponsibilitytemporalcircumstance {name: 'd_situationalcircumstancebehaviorperceivedthreatseverityperceivedefficacyprospectfeararousalarousalsocialcircumstanceadaptiveresponsecomplyeffectselfreflectioncapabilitypersistencegoalsperceivedresponsibilitytemporalcircumstance'})
-create (selfefficacy)-[:INFLUENCES]->(situationalcircumstancebehaviorperceivedthreatseverityperceivedefficacyprospectfeararousalarousalsocialcircumstanceadaptiveresponsecomplyeffectselfreflectioncapabilitypersistencegoalsperceivedresponsibilitytemporalcircumstance);
+MATCH (situationalcircumstance:situationalcircumstance {name: 'd_situationalcircumstance'})
+create (selfefficacy)-[:INFLUENCES]->(situationalcircumstance);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (selfefficacy)-[:INFLUENCES]->(behavior);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (perceivedthreatseverity:perceivedthreatseverity {name: 'd_perceivedthreatseverity'})
+create (selfefficacy)-[:INFLUENCES]->(perceivedthreatseverity);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (perceivedefficacy:perceivedefficacy {name: 'd_perceivedefficacy'})
+create (selfefficacy)-[:INFLUENCES]->(perceivedefficacy);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (prospect:prospect {name: 'd_prospect'})
+create (selfefficacy)-[:INFLUENCES]->(prospect);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (feararousal:feararousal {name: 'd_feararousal'})
+create (selfefficacy)-[:INFLUENCES]->(feararousal);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (selfefficacy)-[:INFLUENCES]->(arousal);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (socialcircumstance:socialcircumstance {name: 'd_socialcircumstance'})
+create (selfefficacy)-[:INFLUENCES]->(socialcircumstance);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (adaptiveresponse:adaptiveresponse {name: 'd_adaptiveresponse'})
+create (selfefficacy)-[:INFLUENCES]->(adaptiveresponse);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (complyeffect:complyeffect {name: 'd_complyeffect'})
+create (selfefficacy)-[:INFLUENCES]->(complyeffect);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (selfreflectioncapability:selfreflectioncapability {name: 'd_selfreflectioncapability'})
+create (selfefficacy)-[:INFLUENCES]->(selfreflectioncapability);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (persistence:persistence {name: 'd_persistence'})
+create (selfefficacy)-[:INFLUENCES]->(persistence);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (goals:goals {name: 'd_goals'})
+create (selfefficacy)-[:INFLUENCES]->(goals);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (perceivedresponsibility:perceivedresponsibility {name: 'd_perceivedresponsibility'})
+create (selfefficacy)-[:INFLUENCES]->(perceivedresponsibility);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+MATCH (temporalcircumstance:temporalcircumstance {name: 'd_temporalcircumstance'})
+create (selfefficacy)-[:INFLUENCES]->(temporalcircumstance);
 MATCH (selfidentity:selfidentity {name: 'd_selfidentity'})
 MATCH (differentialassociating:differentialassociating {name: 'd_differentialassociating'})
 create (selfidentity)-[:INFLUENCES]->(differentialassociating);
@@ -836,41 +1397,92 @@ MATCH (selfreflectioncapability:selfreflectioncapability {name: 'd_selfreflectio
 MATCH (mentalprocess:mentalprocess {name: 'd_mentalprocess'})
 create (selfreflectioncapability)-[:INFLUENCES]->(mentalprocess);
 MATCH (simplifying:simplifying {name: 'd_simplifying'})
-MATCH (prospectevaluating:prospectevaluating {name: 'd_prospectevaluating'})
-create (simplifying)-[:INFLUENCES]->(prospectevaluating);
+MATCH (prospect:prospect {name: 'd_prospect'})
+create (simplifying)-[:INFLUENCES]->(prospect);
+MATCH (simplifying:simplifying {name: 'd_simplifying'})
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (simplifying)-[:INFLUENCES]->(evaluating);
 MATCH (situationalcircumstance:situationalcircumstance {name: 'd_situationalcircumstance'})
-MATCH (selfefficacyappraisalofselfefficacyarousal:selfefficacyappraisalofselfefficacyarousal {name: 'd_selfefficacyappraisalofselfefficacyarousal'})
-create (situationalcircumstance)-[:INFLUENCES]->(selfefficacyappraisalofselfefficacyarousal);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+create (situationalcircumstance)-[:INFLUENCES]->(selfefficacy);
+MATCH (situationalcircumstance:situationalcircumstance {name: 'd_situationalcircumstance'})
+MATCH (appraisalofselfefficacy:appraisalofselfefficacy {name: 'd_appraisalofselfefficacy'})
+create (situationalcircumstance)-[:INFLUENCES]->(appraisalofselfefficacy);
+MATCH (situationalcircumstance:situationalcircumstance {name: 'd_situationalcircumstance'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (situationalcircumstance)-[:INFLUENCES]->(arousal);
 MATCH (socialcircumstance:socialcircumstance {name: 'd_socialcircumstance'})
-MATCH (goalsarousalselfefficacydifferentialassociatingappraisalofselfefficacy:goalsarousalselfefficacydifferentialassociatingappraisalofselfefficacy {name: 'd_goalsarousalselfefficacydifferentialassociatingappraisalofselfefficacy'})
-create (socialcircumstance)-[:INFLUENCES]->(goalsarousalselfefficacydifferentialassociatingappraisalofselfefficacy);
+MATCH (goals:goals {name: 'd_goals'})
+create (socialcircumstance)-[:INFLUENCES]->(goals);
+MATCH (socialcircumstance:socialcircumstance {name: 'd_socialcircumstance'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (socialcircumstance)-[:INFLUENCES]->(arousal);
+MATCH (socialcircumstance:socialcircumstance {name: 'd_socialcircumstance'})
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+create (socialcircumstance)-[:INFLUENCES]->(selfefficacy);
+MATCH (socialcircumstance:socialcircumstance {name: 'd_socialcircumstance'})
+MATCH (differentialassociating:differentialassociating {name: 'd_differentialassociating'})
+create (socialcircumstance)-[:INFLUENCES]->(differentialassociating);
+MATCH (socialcircumstance:socialcircumstance {name: 'd_socialcircumstance'})
+MATCH (appraisalofselfefficacy:appraisalofselfefficacy {name: 'd_appraisalofselfefficacy'})
+create (socialcircumstance)-[:INFLUENCES]->(appraisalofselfefficacy);
 MATCH (socialcompetition:socialcompetition {name: 'd_socialcompetition'})
 MATCH (differentialassociating:differentialassociating {name: 'd_differentialassociating'})
 create (socialcompetition)-[:INFLUENCES]->(differentialassociating);
 MATCH (socialidentity:socialidentity {name: 'd_socialidentity'})
-MATCH (internalizedgroupmembershipsocialcompetitiondifferentialassociatingappraisalofsocialidentity:internalizedgroupmembershipsocialcompetitiondifferentialassociatingappraisalofsocialidentity {name: 'd_internalizedgroupmembershipsocialcompetitiondifferentialassociatingappraisalofsocialidentity'})
-create (socialidentity)-[:INFLUENCES]->(internalizedgroupmembershipsocialcompetitiondifferentialassociatingappraisalofsocialidentity);
+MATCH (internalizedgroupmembership:internalizedgroupmembership {name: 'd_internalizedgroupmembership'})
+create (socialidentity)-[:INFLUENCES]->(internalizedgroupmembership);
+MATCH (socialidentity:socialidentity {name: 'd_socialidentity'})
+MATCH (socialcompetition:socialcompetition {name: 'd_socialcompetition'})
+create (socialidentity)-[:INFLUENCES]->(socialcompetition);
+MATCH (socialidentity:socialidentity {name: 'd_socialidentity'})
+MATCH (differentialassociating:differentialassociating {name: 'd_differentialassociating'})
+create (socialidentity)-[:INFLUENCES]->(differentialassociating);
+MATCH (socialidentity:socialidentity {name: 'd_socialidentity'})
+MATCH (appraisalofsocialidentity:appraisalofsocialidentity {name: 'd_appraisalofsocialidentity'})
+create (socialidentity)-[:INFLUENCES]->(appraisalofsocialidentity);
 MATCH (socializinginstitutions:socializinginstitutions {name: 'd_socializinginstitutions'})
 MATCH (differentialassociating:differentialassociating {name: 'd_differentialassociating'})
 create (socializinginstitutions)-[:INFLUENCES]->(differentialassociating);
 MATCH (subjectivenorms:subjectivenorms {name: 'd_subjectivenorms'})
-MATCH (perceptionintentionalmodalityevaluatingbehavior:perceptionintentionalmodalityevaluatingbehavior {name: 'd_perceptionintentionalmodalityevaluatingbehavior'})
-create (subjectivenorms)-[:INFLUENCES]->(perceptionintentionalmodalityevaluatingbehavior);
+MATCH (perception:perception {name: 'd_perception'})
+create (subjectivenorms)-[:INFLUENCES]->(perception);
+MATCH (subjectivenorms:subjectivenorms {name: 'd_subjectivenorms'})
+MATCH (intentionalmodality:intentionalmodality {name: 'd_intentionalmodality'})
+create (subjectivenorms)-[:INFLUENCES]->(intentionalmodality);
+MATCH (subjectivenorms:subjectivenorms {name: 'd_subjectivenorms'})
+MATCH (evaluating:evaluating {name: 'd_evaluating'})
+create (subjectivenorms)-[:INFLUENCES]->(evaluating);
+MATCH (subjectivenorms:subjectivenorms {name: 'd_subjectivenorms'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (subjectivenorms)-[:INFLUENCES]->(behavior);
 MATCH (subjectivevalues:subjectivevalues {name: 'd_subjectivevalues'})
-MATCH (prospectbehavior:prospectbehavior {name: 'd_prospectbehavior'})
-create (subjectivevalues)-[:INFLUENCES]->(prospectbehavior);
+MATCH (prospect:prospect {name: 'd_prospect'})
+create (subjectivevalues)-[:INFLUENCES]->(prospect);
+MATCH (subjectivevalues:subjectivevalues {name: 'd_subjectivevalues'})
+MATCH (behavior:behavior {name: 'd_behavior'})
+create (subjectivevalues)-[:INFLUENCES]->(behavior);
 MATCH (syllogisticrules:syllogisticrules {name: 'd_syllogisticrules'})
 MATCH (behavior:behavior {name: 'd_behavior'})
 create (syllogisticrules)-[:INFLUENCES]->(behavior);
 MATCH (symbolizingcapability:symbolizingcapability {name: 'd_symbolizingcapability'})
-MATCH (cognitiveprocessforethoughtcapability:cognitiveprocessforethoughtcapability {name: 'd_cognitiveprocessforethoughtcapability'})
-create (symbolizingcapability)-[:INFLUENCES]->(cognitiveprocessforethoughtcapability);
+MATCH (cognitiveprocess:cognitiveprocess {name: 'd_cognitiveprocess'})
+create (symbolizingcapability)-[:INFLUENCES]->(cognitiveprocess);
+MATCH (symbolizingcapability:symbolizingcapability {name: 'd_symbolizingcapability'})
+MATCH (forethoughtcapability:forethoughtcapability {name: 'd_forethoughtcapability'})
+create (symbolizingcapability)-[:INFLUENCES]->(forethoughtcapability);
 MATCH (task:task {name: 'd_task'})
 MATCH (knowledge:knowledge {name: 'd_knowledge'})
 create (task)-[:INFLUENCES]->(knowledge);
 MATCH (temporalcircumstance:temporalcircumstance {name: 'd_temporalcircumstance'})
-MATCH (selfefficacyappraisalofselfefficacyarousal:selfefficacyappraisalofselfefficacyarousal {name: 'd_selfefficacyappraisalofselfefficacyarousal'})
-create (temporalcircumstance)-[:INFLUENCES]->(selfefficacyappraisalofselfefficacyarousal);
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+create (temporalcircumstance)-[:INFLUENCES]->(selfefficacy);
+MATCH (temporalcircumstance:temporalcircumstance {name: 'd_temporalcircumstance'})
+MATCH (appraisalofselfefficacy:appraisalofselfefficacy {name: 'd_appraisalofselfefficacy'})
+create (temporalcircumstance)-[:INFLUENCES]->(appraisalofselfefficacy);
+MATCH (temporalcircumstance:temporalcircumstance {name: 'd_temporalcircumstance'})
+MATCH (arousal:arousal {name: 'd_arousal'})
+create (temporalcircumstance)-[:INFLUENCES]->(arousal);
 MATCH (threatappraisal:threatappraisal {name: 'd_threatappraisal'})
 MATCH (protectioneffect:protectioneffect {name: 'd_protectioneffect'})
 create (threatappraisal)-[:INFLUENCES]->(protectioneffect);
@@ -878,8 +1490,20 @@ MATCH (timeorientation:timeorientation {name: 'd_timeorientation'})
 MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
 create (timeorientation)-[:INFLUENCES]->(behaviorcontrolability);
 MATCH (vicariousexperience:vicariousexperience {name: 'd_vicariousexperience'})
-MATCH (mentalprocessbehaviorcontrolabilityselfefficacy:mentalprocessbehaviorcontrolabilityselfefficacy {name: 'd_mentalprocessbehaviorcontrolabilityselfefficacy'})
-create (vicariousexperience)-[:INFLUENCES]->(mentalprocessbehaviorcontrolabilityselfefficacy);
+MATCH (mentalprocess:mentalprocess {name: 'd_mentalprocess'})
+create (vicariousexperience)-[:INFLUENCES]->(mentalprocess);
+MATCH (vicariousexperience:vicariousexperience {name: 'd_vicariousexperience'})
+MATCH (behaviorcontrolability:behaviorcontrolability {name: 'd_behaviorcontrolability'})
+create (vicariousexperience)-[:INFLUENCES]->(behaviorcontrolability);
+MATCH (vicariousexperience:vicariousexperience {name: 'd_vicariousexperience'})
+MATCH (selfefficacy:selfefficacy {name: 'd_selfefficacy'})
+create (vicariousexperience)-[:INFLUENCES]->(selfefficacy);
 MATCH (cybontogroup:cybontogroup {name: 'd_cybontogroup'})
-MATCH (learningdifferentialassociatingsocialidentity:learningdifferentialassociatingsocialidentity {name: 'd_learningdifferentialassociatingsocialidentity'})
-create (cybontogroup)-[:INFLUENCES]->(learningdifferentialassociatingsocialidentity);
+MATCH (learning:learning {name: 'd_learning'})
+create (cybontogroup)-[:INFLUENCES]->(learning);
+MATCH (cybontogroup:cybontogroup {name: 'd_cybontogroup'})
+MATCH (differentialassociating:differentialassociating {name: 'd_differentialassociating'})
+create (cybontogroup)-[:INFLUENCES]->(differentialassociating);
+MATCH (cybontogroup:cybontogroup {name: 'd_cybontogroup'})
+MATCH (socialidentity:socialidentity {name: 'd_socialidentity'})
+create (cybontogroup)-[:INFLUENCES]->(socialidentity);
