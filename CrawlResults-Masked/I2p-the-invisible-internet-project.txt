@@ -1,0 +1,164 @@
+    @. 
+ -     
+  
+  
+@. 
+isolation_effect 
+    source             .           ,  .      history     ,        physical_quality           .   ,      ,   ,     . ,                      .                      . ,      ,       . ,         .   ,               protection_effect             . 
+. ,   history 
+    ()            .        ,     perceived_vulnerability    .          .        source,                .        ,               .     ,                 isolation_effect  .  ,         , ,          []. 
+           .         ,                 . 
+ 
+ :      ,    []. 
+ 
+ :        []. 
+ 
+ :    []. 
+   
+  @. 
+ 
+ :     []. 
+ 
+ :      $  ,        []. 
+ 
+ :      ,   [Organization]       []. 
+ 
+ :        participant_modeling []. 
+.   
+         .                   [].                     ,     .          ,           .              ,                 .                       .    . 
+.     
+      protection_effect    ,        ,      personality .           []. 
+      .         .                  ,                  [].        .                 .          ,       .             (     ),       .   isolation_effect      ,         combining   ()       .         
+================
+    ,     possibility_effect  . 
+ .        
+(  []). 
+.   
+         ,          .        ,      :                            . 
+         ()    .    ()          ( []) .             participant_modeling  []. 
+        .      ,      .   : 
+ 
+ perceived_uniqueness []; 
+ 
+ techniques (   ) []; 
+ 
+    []; 
+ 
+    ( ) []; 
+ 
+     []. 
+       .               .   
+       syllogistic_rules            ,          . 
+     ,             ,    .          . 
+       .   : 
+ 
+    (   perceived_uniqueness) []; 
+ 
+          (   ) []; 
+ 
+     []. 
+   ,   : 
+ 
+   (    ,       ) []; 
+ 
+   :         []; 
+ 
+   :    ,     []; 
+ 
+     ,         []. 
+         ,               .          ,        .          ,        ,         ,    . 
+ .       []. 
+================
+ .           
+ []. 
+.  
+      protection_effect ,      .         .        /.         ( []).     /                 []. 
+     " ",       .       " "           ().        .      ,          (         ).        ,    " "   ,                  .      perceived_vulnerability     ()     .            intelligence  ( ): 
+ 
+   :               
+ 
+   :             
+    ,         ,       perceived_vulnerability     []. 
+ .         
+ []. 
+.    
+         .  ,              . ,                   . 
+.    
+         ,            .       . 
+                 ,                   .     " "           . ,   ,         combining    .    belief        ,                      .                  .             . ,           . 
+.    
+          
+   .     
+  ,     
+      . 
+ 
+          ,  . [] 
+ 
+        .                . [] 
+ 
+                 personality . 
+ 
+              ,   (       )      . 
+ 
+    .        task    ,            ()   ,      ,           . 
+================
+.  
+           
+    ,    
+   .     . 
+  [].  []      
+       
+     ,    
+ []. 
+ 
+  combining     segregating   ,     ( belief)  .  ,      ,  , protection_effect              []. 
+ 
+    experiential_awareness ,  ;   extrinsic_rewards   []. 
+ 
+      .            combining     . ,         ,    []. 
+.   
+                ,  ,   ,  ,   (),    ()    . 
+..   
+  protection_effect      ,   ,                .       intrinsic_rewards  protection_effect    [].              ,       ;    . 
+..  () 
+          .         ,          . ,     ,                .                 (). .                techniques   [].   ,            . 
+. personality  
+    personality ,   belief            .         
+    personality   . 
+..     
+           [],             .        possibility_effect   protection_effect       ,                          .         . 
+..  
+      protection_effect     ,       .            ,     ,      segregating    [].                    ,     intrinsic_rewards     protection_effect. ,        . 
+.   
+           .      .        ,  .     ,              .     segregating ,     protection_effect     . 
+                 .   personality      .   ,            .   . 
+.                ,      : 
+://...:// 
+    ,   .               . 
+   techniques   ,       (.     ).                   . 
+.   .         ,      .           .       techniques   .; .  . ,    intelligence        techniques        .       .      [authority ],       , 
+================
+    . 
+          ,  combining   techniques   protection_effect   techniques       .  combining       combining      techniques . 
+.    
+    ( ,     :)  combining      : 
+.=.. 
+ .   techniques    ..    techniques  .      . techniques   ,      . 
+.   .  
+  . []  combining  .    .                      . 
+    combining             .       .    techniques              . techniques.     participant_modeling      , participant_modeling   techniques (!). 
+.  arousal 
+           perceived_vulnerability        .                   physical_quality.        ,          personality  .     personality  ,         ,        . 
+ 
+. , ., , .,  , .    .  .  ,    ,     (), . . , .    :       .    (). 
+. , .  è, . :         .   ,  (), . 
+. . techniques . ://.//. 
+.    . ://./ .    : . ./// 
+.    : . ://.//// 
+.    : . ://.// 
+.    : . ://.// 
+.    :   . .//// 
+.    :  . ://.//// .    : /  . ://./// 
+.   : :    |    . ://.///. 
+. , .., , .,  , .   .  . ,  (),  
+================

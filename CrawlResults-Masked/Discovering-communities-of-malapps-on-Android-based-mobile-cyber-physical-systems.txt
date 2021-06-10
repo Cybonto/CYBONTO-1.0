@@ -1,0 +1,483 @@
+         
+ ,  ,  *,  ,  ,   
+      
+           . 
+     ()    personality     .   ,  
+        intrinsic_rewards 
+      .           task.      ,   possibility_effect ,     process          .     ,   ,   certainty_effect                    . ,            . ,       combining      ()    .                     . ,    , ,           ,      .          .  experiential_awareness     
+       
+   .  ,      ()     perceived_vulnerability  
+        ,  
+    perceived_vulnerability     . 
+ []             . .   .      .   intrinsic_rewards                . 
+         process,               .         ,   combining     ,          [].      participant_modeling      vulnerabilities.          
+       
+  behavior_control-ability     .    
+        .%    .%. 
+   , ,  ,  . 
+.  
+         
+   process.  gain,          process         personality   ,      . ,     personality       . 
+       
+        personality     .      personality         
+       (). 
+ ,   persistence . ,  
+       .  
+    ,            .  
+ participant_modeling  .% []. ,     
+         
+      .    
+             &   ,   ,             ,     ,   ,             ,   ,   ,         ,     . 
+. , . , .            intelligence ,   ,  
+       persistence . ,              .                 process.     , ,        .    ,   
+, .(: @..; @..;    , .., ,  
+appraisal          
+@..). 
+.            ,   ,  , . (: @..). 
+.    .     ,  ,   , . (: @.). 
+.    .     ,   , , , . (: @.). 
+          . 
+     ,                  .   ,    
+================
+   .  syllogistic_rules   
+   .     
+                  
+.      [Organization]        ,       ,         [Organization ].   intrinsic_rewards         . 
+    .          . 
+()                .  
+ ,    ,     experiential_awareness       
+ participant_modeling     .    
+        
+ ,           .%    
+  []. ,     ,           
+.%. 
+        .   
+    .            
+      .              .             . 
+        ,   ,            perception.   belief     
+   . ,    
+ .      .       .  belief    . 
+.   
+       
+       .          
+   ,    personality 
+      .  
+()       
+      .  
+    .      ,       . ,             .      
+ . []     ,        , , , , .        task,  
+         .          
+.   . []     
+     . ,              .             . ,   ,  
+    .  
+ ,       .              .   . []   
+     learning      ,    
+  .   . []   
+ perception                 
+   .           
+ ,    [exposure]   .  perception        
+       %  
+  .            ,     . 
+    : 
+ intrinsic_rewards.     [],            
+   participant_modeling     .  ()          
+   []        
+         .    ,          ,   .                 . 
+()         .    ,            ,             process   .  combining  
+        .          []                       .    ,         []       .            . 
+ , personality        
+           . 
+      .   . []       perceived_vulnerability.  
+         
+ personality   personality  .   
+     .             
+   personality     . ()     intrinsic_rewards   
+  . []      
+        .       certainty_effect evaluating  .%.  
+================
+. .     
+    perception   .    combining        personality  .      (..,    ) []       . 
+     ,            .     appraisal    .              .     ,       
+                 .        ,         
+    process.   . []  .                   . self-efficacy  . []  
+     . 
+.   
+       
+ ,  ,  , .     techniques    .   . []        ,         
+  focus       
+    .  personality  
+     ,     
+          .   ,    ,      [goal]   .     
+.   . []  personality             .   . []            ,           .   perceived_vulnerability    personality .          .   . []     live_modeling           .   . []                .        ,      .   ([])    .   (.., [])     . 
+.       , 
+   .   .           
+        .  
+        . 
+   
+ 
+                       
+   
+  
+/ 
+   
+   
+/  
+ 
+  
+  
+  
+     
+     
+     
+          
+        .  gain,               
+        
+, ,   persistence . 
+   :   
+.       
+       .             
+ . ,    
+.   ,        
+        . 
+          appraisal . ,       
+      :    
+  ,     
+, ..,     .   
+, ..,        .   
+intrinsic_rewards     . 
+.  
+          . ,          . 
+ ,  ,      .    . ,   
+        : 
+.   
+        
+================
+.   ,    ,           
+  �= (�1,�2,.. .��),  �       ��     �-th .        �-th , ��     . 
+    () []                .     appraisal    .        
+ �������= ���� × ���� 
+� 
+� 
+� ()� 
+ ����      �   �, �     , ��   combining       �   .  �������  ,    �     �,      ,    �     �. 
+     ,         �  �,     
+���= ∑������(��) () 
+ ��      �  �.  physical_quality           .  ,    �  � participant_modeling   physical_quality,    possibility_effect   . 
+.    
+         .       ,       ,     .        ,                 .    ,            .         syllogistic_rules        .        ,     �= (�,�,�). �       � ∈ �   . �    .           participant_modeling   physical_quality. �   physical_quality       ���  �    ().          ()     . 
+ perceived_vulnerability. 
+   ,          ��  ��  ���> �.   ,   process   .  �      appraisal   ,            ,     . ,   �       .  �  ,             ,   personality        .       perception    .      �,         .    ,       gain,        ,      gain. 
+()    = ()   
+. .         
+          perceived_vulnerability,    [goal]           ,       combining    .    process    : ,   ���    ���is    �   �,  �    �= 
+|����≥��| 
+|�| 
+× .    experiential_awareness ,  �   ,        . ,     ,         �  .   ,  perceived_vulnerability                ,    ,            .           
+          
+.    . 
+, �� ∈ �  �� ∈ �,     ,   physical_quality  ��  ��    �    ��.       ,   ��   �� ∈ �    .   process    ,             . ,        .           ,           �  .    ,              combining  � ,   gain     .           �  � ∈ [,�],  �     .   
+ :   
+: �,� 
+.   �� ��� �� 
+.  ���> � 
+.   ��� 
+.   
+.   ��     
+.     ����ℎ�����(��) .   �� ∈ ����ℎ�����(��) 
+.   ��� 
+.   
+: � 
+.   
+       
+================
+[]    .  []          .                   .               .        ,              . ,       ,       ,            .     ,                     .                     .  
+: ����������� 
+. appraisal 
+        
+        
+ ,   ()   ().    coding  :   
+ �= {�1,�2,.. .��}   intelligence ,  
+�= {�1,�2,.. .��}       
+. 
+         . 
+           .      ,    
+()   () 
+ appraisal        
+persistence          
+      ���,���  �  �.   �� 
+     ��  ��     �      �. ���            ��. ,    ��,��,��   
+        .            .       ,         .   isolation_effect  
+,            .    source coding belief [],       �     �      �     ��,          
+     . , ��� 
++ ���+ ���+ ���= �2�. 
+      
+��= 
+���+��� 
+���+���+���+�
+ ()�� 
+   ,    �  � . 
+  
+       � : 
+�(�)= −∑�1 �����(��).       �   � ,           
+�(�)= �↷�(�)+ ∑��= ��↻�(��) ()  �(�)       .        . �(��)   
+   
+�= {�1,�2,.. .��} intelligence  
+�= {�1,�2,.. .��}   
+ ��  ��       
+ ��  ��        
+ ��  ��        
+ ��  ��       
+()  () 
+          
+   �. �↷   perceived_vulnerability     
+� 
+  perceived_vulnerability     
+ combining .   ,       
+    �  �. 
+  �↻ 
+ �    .       . 
+ :  
+: �,� 
+.   ��   �� 
+.     
+.   ��  
+.  �� ∈ ����ℎ�����(��) 
+.  ��     �� 
+      ∆e=  −  .   
+.   ≥  
+.   
+.  
+.  ��   ��, �=  
+.   
+.            .   ,       
+    
+.           
+   ��, ���      ��      ���    .      
+= 
+ 
+∑�� 
+�= 
+�(���,����(���)) () 
+ �(∙)    [function]            . ����(⋅)   [function]     ���       ���    , �   combining       . 
+.  
+  ,                   .   ,              
+================
+   .        .   ,                   .             ,      .   ,                 . 
+ combining   ,     personality  ,    .          . 
+    ,        ,        . 
+          .      .       . 
+   
+  
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+   
+   
+   
+  combining 
+  
+   
+  
+    
+   ,     ,     
+       
+       
+   (, , )     
+           
+ personality         
+   
+ 
+          (, , .)     
+   
+      
+.   
+      , .., 
+. .         
+         
+ 
+  . .  
+   (%)  (%) . . . . . . . . 
+  (%) . . . . 
+(%) . . . . 
+ .     . 
+()         .  �      ,      �  ,        .             ,      .   ,  �  ,             .        .  ,  �  ,        .  �  ,     .  �    ,      . 
+()  ,           .            .             .     ,  �  .,        , 
+  , ..,          .            ,           . 
+         
+   .%    .%. ,      . .%,  %     ,    
+  ,           .    
+       .     
+perception     personality      
+    ,        . 
+     [],   
+     .      �. �     ,        ��  ��  ���     �%  physical_quality . ..,  �  ,              %  �. 
+         
+      ,   .     ,    
+    personality.  gain,      . .     
+   
+gain  ,      
+   .  evaluating             .   ,  comply_effect  .%        .%    . .%   ""         . 
+================
+         
+   
+     
+ 
+live_modeling      personality    
+ 
+ .% .% .% .% .% .% .% .% .% .% .% .% 
+  
+            
+ 
+     
+      personality    
+ 
+  
+ 
+ isolation_effect 
+personality  
+//;-> //;-> //;-> ///;-> //;-> 
+//;-> 
+//;-> //;-> //;-> ///;-> 
+//;-> //;->combining 
+//;-> //;-> //;-> 
+      personality .     ,         .         .   ,      .       personality      .   behavior      . ""      personality .      .    syllogistic_rules       .            .     
+.  � ∈ [,],        .%. 
+         .        .    �     �  �       [,�].        .   ,      .%    .%.   ,         .%    .%.  ,          ,        . 
+  []        , ,         .     ,            .  gain,              .     personality    .   ,      .        .%. 
+. .       ,     .          . 
+        
+    
+    ""  
+"."       ""    [activity]    .           protection_effect    . 
+. appraisal    
+  ,                 .          ,       
+       
+ 
+ 
+= = =, = = 
+(%) . . . . 
+(%) . . . . 
+      
+    
+       
+ 
+ 
+= = =, = 
+= 
+(%) . . . . 
+(%) . . . . 
+         , 
+             . 
+,    
+     ,     . . 
+         ,          ,  []. 
+   . ,    personality    �.  �< ,        
+     .      ,     .            .   ,       
+================
+.                .  participant_modeling  physical_quality  .   segregating.       gain   physical_quality     , ,   intelligence  .   ,   .. 
+    ,       
+      .     
+,     . 
+. .           
+.     
+    ,          .    comply_effect      . .     ,     .          ,      ,   .    . ,                experiential_awareness. 
+.               .                  .          �    � .       ,     .  , , , , , ,   ,     intelligence ,                  . .., %         , . %       . ,    . %     .%         .    .%      .             . 
+    perception   possibility_effect   ,        .    . ,       .           physical_quality,       intelligence.                . ..,              .   ,     . ,   ,              
+. .      
+. .    
+. .       
+================
+. .     
+.  
+               ,                 .          .                  . ,           
+    [knowledge ]. 
+.  
+                    . ,           ,       .         . ,                 .    ,    combining             . 
+. belief 
+               ,              .               .    ,           .       perceived_vulnerability      ,           .  experiential_awareness      .     techniques         
+          . 
+   .  ,   
+ .        
+   ,    
+ .  experiential_awareness    
+     , .., 
+ gain      
+   .      
+    .%    .%. 
+  ,        
+  personality.      ,    .     ,                   .       ,  
+,          
+   .    
+       
+ 
+  .          . 
+ 
+[]    participant_modeling,  . []. : 
+      .  
+://..//. 
+               .    ,    comply_effect      .                     . 
+        ,    .            . 
+[]    perceived_vulnerability . []. : 
+://..// 
+[]  ,  ,  ,  . "        ,"  . , , , , . . 
+[]  ,   ,  . "combining      ," ., . , . , . , . . 
+[]  ,  ,  ,  ,  ,  . "   behavior        ,"  
+,       
+  , ., . , . . 
+  . ,        ,         .           process.         . 
+[]  ,  ,  ,     . ":          ,"  . ,  , , , . 
+[]  ,  ,  ,     . ":        ,"   intelligence  ., . , . , . , . 
+  ,     
+[]  ,  ,  ,  . "   
+,"  . , , , , . . 
+================
+[]  ,  ,  ,  ,  ,  . ":   personality     ,"  . , , , , , . . 
+[]  ,  ,  ,  ,  ,  . "  perceived_vulnerability       ,"       ., . , . , ., . 
+[]  ,  ,  ,  ,  . "           ,"    ., ., . , . 
+[]  ,  ,  ,  ,  . "  personality        ,"   ., ., . , . 
+[]  ,  ,  ,  . ":        ,"  . , , , . 
+[]  ,  ,  ,  ,  . ":  
+[] . ,  ., "         ,"    , . ,  , . , . . 
+[] . , . , . ,  . . , "        ,"   , , . ,  ,  , . . 
+[] . , . ,  . , "     :     ,"   , . ,  ,  . 
+[] . ,  . , ":       ,"  .           (), , ,  . 
+[] . , . , "      ,"  .     , :  -  
+[] .   . . , "    ,"    , . ,  , . , . . 
+,"     ., . , . , . , . 
+        
+[]  . "     " 
+ & ., . , . , . , . 
+[]  ,  ,  ,     . "        ,"  . , , . . 
+[]  ,  ,  . "personality          ,"  . , , , , . 
+[]   ,  ,   . "behavior     ,"  . , . 
+[]  ,  ,  ,  . "         ,"  . , , , . 
+[]  ,  ,  . "     ,"     , . , . , . 
+[]  ,  ,  ,  ,  . ":          ,"  . , , , , . . 
+[]  ,  . "        ,"  . , , , . 
+[]  ,   ,  ,  . ":    perception  judging        ,"    ., . , . , . 
+[]  self-efficacy,  ,  ,  , . ":       behavior,"  . ,  , , , . 
+[]  ,  ,  . "behavior     ,"  . ,  , , . 
+[]  ,  ,  ,  . "          personality   ,"  . , , , . 
+[]  ,  ,  ,  ,  , . ":        ,"  . , , , . 
+[]  ,  ,  . "   :      ,"       .,  , . , . 
+[]  ,  ,  ,  ,  . ":      ,"  . , , , . 
+[] . , . , .   . . , "            ,"     , . , . , .  - ,  . 
+[]  ,  . "      ,"  .         ., . , ., . 
+[]  , ,  ,   . . "  ,"     ., . , ., . , . 
+[]  . "   :   belief  ,"  . , . 
+[]  .     . [].     belief, , (): . 
+[]  ,  ,  ,  ,  . ":     internalization    ,"  .  , , , . 
+[]  ,  . "   techniques    ,"  . , , , , . . 
+[]  ,  . "   ,"    &  ., . , ., . , . 
+================

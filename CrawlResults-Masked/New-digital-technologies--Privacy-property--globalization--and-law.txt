@@ -1,0 +1,197 @@
+   . 
+  : 
+/, ,   ()     ... 
+  
+  
+          
+  ?          
+  :          
+     :   []  ,   
+================
+  : /, &  
+€ 
+ 
+  : /, , 
+  
+ *   * 
+isolation_effect 
+               , ,    .            ﬁ participant_modeling      .         . ,         .              .                   . ,    ,        combining       .     ﬁ    process       ﬁ-  ,             ,                     . 
+   
+            , ,     participant_modeling    
+* 
+  ,   ,   ,   . 
+     ,  ,   ©    ,  
+================
+ 
+€ 
+ &   
+ ,        .                participant_modeling  ﬁ    extrinsic_rewards               .  ﬁ   ,       ﬁ       loss     . 
+    ﬁ ,         segregating.        perceived_vulnerability   ﬁ     .                .         " ."  ,      personality , ,                protection_effect     . 
+,       extrinsic_rewards   ﬁ    .         ﬁ   ,             .  ,   , ,                 .                        ""  .   ,                     ,              .        extrinsic_rewards    ,                .   ,      perception     " "        () . 
+  "" perceived_responsibility     : )    ; )      , ; )     frustration_of_needs  .   , ,      "  "   : )        [ownership ]; )       perceived_responsibility, ; )      ﬁ.         , ,       . 
+      /      focus             ""     
+================
+  : /, &  
+€ 
+ 
+        .         ﬁ  /  perceived_responsibility              .  loss                 .               ,        protection_effect      .                 personality , , , ,  . 
+   
+            ﬁ    .  belief                     extrinsic_rewards    .           history         .                     ,    personality                        . 
+ () perceived_uniqueness    ""            ﬁ             .                      process     [skill]       ,           gain     protection_effect  .      learning   (     )      "" possibility_effect   "" possibility_effect,    possibility_effect         belief,    belief   .   ()    "  "          ﬂ     ﬁ  .       process                                 possibility_effect,                .      ,         ""  
+================
+ 
+€ 
+ &   
+""             [Organization ].               [division]             ,   .    ()   ,      " "  personality   personality           .   belief                       ,  perception         possibility_effect   ,   learning   ,      . 
+   . ()   impulsive_effect belief         internalization   ,      ,                          .  perception          . 
+    () ,         ,    ""   .  ""        simplifying  [action]   ,                   [action]          participant_modeling.        ,                  ,                  .   ()       imagination             , ,  .     ,             ,               ,         behavior  .             ,    belief       .    ,            ,   "live_modeling "              ﬁ   . 
+================
+  : /, &  
+€ 
+ 
+  focus 
+          focus,        ,   ﬁ .  [action]          .         [action]            .  ,      , "  $, " ( ).   ,  combining            ( ).                     .       ﬁ  . 
+          .  ,             .  perceived_consensus                .        ( )           ( ).            ,      ()          . , ,   ﬁ    planning  ﬁ  ,   ﬁ-traders.              . 
+         ,                    ,     ﬁ-sharing      [action]   ,              ﬁ     ﬁ-sharing       ( ;  ). 
+  possibility_effect  generalizing               ﬁ                       .  perceived_consensus  ﬁ ,  , ,                   , .        ( ). 
+================
+ 
+€ 
+ &   
+belief     :    
+               appraisal.                protection_effect             .            .          .        . ,           gain     . ﬁ,             .  , ,     , ,        .        ,    learning               participant_modeling  .              ,  ,    . 
+   ()    personality             .  , ,               .            ,  . ,      segregating     " ."     ﬁ     ""   [action]           (  ).   , ,        protection_effect    . ,          . ,         protection_effect        . 
+belief     :     
+        ","         Collection       participant_modeling  .      isolation_effect             (  . ).     ﬁ-sharing .     ,   ,   participant_modeling  .     simplifying  perceived_vulnerability      [action] ,  ,        . 
+================
+  : /, &  
+€ 
+ 
+          ""   intentionality.         techniques    /     ,        .       [action ], ﬁ        perceived_vulnerability  ﬁ. 
+   perceived_uniqueness      ﬁ             ﬁ   .   ,          ﬁ         .   ﬁ            .        ﬁ   ﬁ             . 
+     .                  . ,                    .     ﬁ            ﬁ       .           ﬁ         .      perception            . 
+ ﬁ      persistence         .         ﬁ         ,    .          ﬁ         techniques. 
+     extrinsic_rewards?    
+    participant_modeling  ,     protection_effect                . ,       protection_effect   personality       .      .         ,            .         ,           /. 
+               .   gain        (        ﬁ     )      
+================
+ 
+€ 
+ &   
+ .       (   )    ""   fear_arousal   (   ),    gain  [rewards]       .        .  ﬂ     personality         ﬂ , ,  personality      .        protection_effect                         ,   combining           physical_quality  ,      .  ,        ,         ,     / . 
+  ()      ,     ,    ﬁ        ﬁ  personality ,    .   perception  [action]    arousal                             [knowledge ],                        . perception         possibility_effect      ,           .  () experiential_awareness                personality . perception          .         ﬂ            ( ),                      ( ). 
+     
+ ﬂ         learning           ( ).     ""      ﬂ              "."  ()     (  )                    ﬁ [knowledge ],     ﬂ          ﬁ  
+================
+  : /, &  
+€ 
+ 
+ .    ()        focus     . 
+   /    syllogistic_rules   ﬂ/        .         perceived_responsibility            .       ﬁ (           )        (   ﬁ-sharing          )     ( ). ,           . 
+    ,       [action]      ()  " ."                                .     protection_effect " ."               ,               ﬁ.     .               .           .            [ownership]        ,   extrinsic_rewards           .    /       ﬁ .  ,                .  [action]       .                   .             ( : ). 
+               ﬁ             /.                    .       ﬁ   satisfaction_of_needs               . 
+                                .  
+================
+ 
+€ 
+ &   
+              ,                    ﬁ . 
+ 
+ ,     ,           .          intrinsic_rewards        extrinsic_rewards    perceived_vulnerability        .  belief  "combining  "   ,  belief,          ,        certainty_effect   .  ,         combining   loss         belief     certainty_effect   .           .       ,  persistence        . 
+       ﬁ-sharing               .          personality :    ( )  intrinsic_rewards                .  ﬁ-sharing    ""             fear_arousal   . ,    ﬁ          .                    protection_effect            .     [action]   [norms ],    ﬁ        ,       . 
+                   (            ),   impact          .                 satisfaction_of_needs   personality       ﬂ                 personality.   protection_effect    ,   ﬁ      ,           
+================
+  : /, &  
+€ 
+ 
+   fear_arousal          . 
+  personality  [Organization] ()        personality    .        ()    .   ()                 .              ,        .                ,         .   ,   ,              ,   extrinsic_rewards.         "extrinsic_rewards" ()       ,        ().      ﬁ          [policy ].        "  process,"       persistence            personality   (   ).   ,                   .  ,  ""      . 
+   personality             extrinsic_rewards      [knowledge ], [empowerment ],   . ,     ,          combining    . ,            segregating,                 ﬁ. 
+ 
+,  . 
+ "       ."  .  
+ ,  (..). 
+, 
+ "  ."  ,  , . . 
+, 
+    :     . :  
+  . 
+================
+ 
+€ 
+ &   
+, 
+    . : . 
+, 
+ "  satisfaction_of_needs    ."  ,  
+, . . 
+, 
+  . : . 
+,    
+    :      .: 
+. 
+,    
+  :      , 
+ 
+. :  
+ . 
+    :      . :  
+  . 
+, 
+ ":   ?"  syllogistic_rules : . 
+ "   :  ,  [knowledge] 
+  ."    (): . 
+, 
+ "     ."   , . 
+. (://..///,,,.? 
+=). 
+, 
+ " ."   .  , . . 
+, 
+  syllogistic_rules    :  ,     . 
+: . 
+       gain    .  : . 
+,    
+    : ,   [Organization ]. : . 
+, 
+ "      :  ,    
+         ."  
+,   ,   ,   , 
+, . 
+,, ,     
+ "       ." .    
+?    . :   . 
+,  . 
+() () "    : ,      
+ ." ,     () . 
+, 
+/ "    ." .     
+,    . :  . 
+, 
+ "   ."  ,  , . . 
+, 
+ "  ."     ,  , . . 
+================
+  : /, &  
+€ 
+ 
+,    
+ "  :   ."  &  (): 
+. 
+, (.) 
+ :     personality . , :  
+& . 
+,  
+"protection_effect     ."  .   ,  
+(..///,,,.). 
+,    
+ "      :      
+       ﬁ  ." .  
+       ,   , , 
+,   , .  :  . , 
+   .  :    . 
+  
+ "   ."   ,  (://. 
+.///,,,.?=). , 
+   physical_quality   intelligence :      . : . 
+================

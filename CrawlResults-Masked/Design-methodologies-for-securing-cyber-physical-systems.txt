@@ -1,0 +1,414 @@
+   satisfaction_of_needs  
+ 
+   .    
+&   
+   
+, ,  
+@. 
+  
+  
+   
+,  @. 
+isolation_effect 
+  ()       .   intrinsic_rewards                       .  gain,             gain     .  techniques  ,                            .   ,   -      protection_effect         process,             ,         .         [modeling ], , ,   perceived_consensus    .         protection_effect    ,             . ,              . 
+.  
+  ()      ,  ,         .        personality        ,       (..,  )         . ,              gain     .   intrinsic_rewards   satisfaction_of_needs        ,             .  techniques  ,     
+  
+.    
+  
+  
+, ,  .@. 
+ perception                    . 
+,       ,      ,  ,     ,   vulnerabilities   .  [, ],            .       perception     ,      []              [, , ]. ,                   [].  ,              ,    personality  []. ,   participant_modeling            []                  []   .   ,  techniques        protection_effect .    satisfaction_of_needs              .  ,                  techniques  ,    ;             [],  [, , ]        . 
+                          .  gain,                  personality .                    , ,       techniques .        protection_effect         process  ,       perception          ,         . 
+,          [modeling ], , ,    belief  protection_effect  ( ).         protection_effect   ,            
+================
+ . ,             . 
+.      
+ 
+            opportunity_for_criminal_acts    [, ]. ,      protection_effect    .   ,                .  [],        ()            .   []      techniques          .        [modeling]       .   []        judging          () perception. ,  []              . ,           segregating  [modeling]      .   ,                    ()     . 
+                      .            .              [modeling]          .              vulnerabilities   . 
+       :    [, , , ].       , ,   .            , ,  ,  . ,                          /     .       [modeling] perception    .            simplifying         ,        . 
+               .   ,        .            ,         .                           .   ,          opportunity_for_criminal_acts     . 
+           [function ],  live_modeling    simplifying  impact      .      combining    opportunity_for_criminal_acts  .           
+      .   perception      .       perception    personality    . 
+  
+  
+ 
+ 
+  . 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+.. 
+.. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+  . 
+ 
+  
+ 
+ 
+  
+  
+.. 
+.. 
+ 
+ 
+ 
+ 
+ [function] 
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ . . 
+ 
+ . . 
+   
+  
+ 
+ 
+ .. 
+.. 
+ :        []. 
+       ,           perceived_consensus       [, , , ]. 
+    ,          personality -      .  gain     ,         (),  ,    (.., situational_circumstance ).  gain,   /         .             . 
+ :          []. 
+               ,         ()    focus.  
+================
+                     .  ,            behavior       . 
+      
+  behavior 
+ :        . 
+  ,         simplifying       .   ,       [capability]           ,     /combining        . ,   ,             ,               . ,        loss         . 
+.    
+ protection_effect  
+              ,                       (.., , ,   ).                 intrinsic_rewards      . ,       intrinsic_rewards  techniques     [] appraisal           , ..,   ,     (.., [, , , , , , , , , ]). 
+  ,          ,    [knowledge]          .  [goal]          intrinsic_rewards  protection_effect   persistence            /  . 
+                  
+ :      protection_effect    . 
+   []    process   .  perception        combining           (   ). ,               intrinsic_rewards  [] appraisal      .          [] appraisal (.., [, , ])    - personality belief    [knowledge]      ,          . 
+    personality ,   belief     [knowledge]      [] appraisal                  .  ,  [],       [] appraisal    [modeling]          focus{         -    ( ()).    []     process        ,       ()          appraisal   (segregating)      . 
+,                              , ,         .                   ,               ().    [, ],    personality               .  ,         /,    
+================
+ : ()        , ()          {    perception                    . 
+        process []. ,     protection_effect                     .  ,    []      [modeling]          personality      []. ,   simplifying                  .  [, ]       ,                  .  gain,          personality  .  , certainty_effect         (.., )                    []. 
+,     , [resource]             intrinsic_rewards. ,                .  ,  []      intrinsic_rewards                      .            (.., personality [modeling]   )    (   ),             .    ,                        . 
+. satisfaction_of_needs     
+   
+                  . ,  ,  ,  
+   ,               .            ,     ,     ,   loss        . ,       ,        ,       personality        . 
+ ,                .               .             [],                []  intelligence  [].        []               segregating combining  .  [goal]        [].   perception     combining         (            []).   perception                  segregating combining  .            []   [],        .                  []    [goal]           .                 ,   ,      ,     personality  . ,             .  ,        personality ,   personality   ,               . 
+================
+,           personality ,          .   ,   protection_effect                  .     ,  ,            ,           .       personality   [].  personality ,            behavior.        [],          ,   belief      [],              .   ,     ,       judging              .          [],               . ,       []    []      . 
+                        combining  .  perception         ,        .            combining         (      [])                ( perception    []).                               []. ,                [, , , ].  ,          satisfaction_of_needs      .          protection_effect       .            ,    .               ,  ,    . 
+             .    ,     , , ,      personality perceived_vulnerability   .                    [goal]     behavior.                .        perception       possibility_effect          [].           :      ,     ,    .  techniques         ,    ,    ,     [], ,     ,   
+        .            perceived_vulnerability      intrinsic_rewards  combining         perception     behavior_control-ability    . 
+,  ,  gain   ,         ,            .  ,     mental_calculation    ,     ,    .   protection_effect        perception                .        task,        vicarious_experience      . 
+. belief 
+  ,         satisfaction_of_needs  . ,        ,  ,       protection_effect .           . ,        , ,   perceived_consensus  protection_effect .  ,         protection_effect   . ,                  . , possibility_effect        . 
+.  
+[] ://.../.. 
+[]           
+. 
+[] . , . ,  . . 
+    .  
+  (),    
+ ,  {. , . [] . , . , . , . ,  
+. .   learning    
+.    , ():{, . [] . , . , . , .-xxx. , 
+. ,  . .    
+  loss Fault_Injection    
+        
+.  .   ,  
+{. , . 
+[] . . , . , . ,  . . 
+.    .  
+     
+,  {. , . 
+[] .   . .     
+  intrinsic_rewards.    
+     ( ), 
+. 
+[] . , . . , . , . , 
+. , . . , . ,  
+. . :    
+. , . 
+[] . , . , . ,  . . 
+.    
+================
+     
+.       , 
+&   ,  .  
+   , . 
+[] . , . ,  . .  . 
+ perceived_consensus    
+   ". / 
+     
+(),  {, . 
+[] . , . ,  . . . . 
+ [modeling]    
+    ".  
+   /  
+    (), 
+. 
+[] . , . , . , . , 
+. , . , . , . , 
+. ,  . .  
+experiential_awareness     . 
+ :      
+  ,  {.  
+, . . 
+[] . , . . ,  . . .  
+.  ,  .,  
+, . 
+[] . .   . .    
+   . , ():{, . [] . , . ,  . . protection_effect 
+appraisal      
+  .   
+:., . 
+[] . . , . . , . . , . . 
+ ,  . .  .   
+ perceived_vulnerability :      
+ .       
+      [division ], 
+ ,  , . 
+[] . , . ,  . .   
+.  : ,     
+, . 
+[] . , . ,  . .  
+    appraisal 
+history.  :    
+, . 
+[] . , . ,  . .    
+   . . 
+. 
+[] . , . ,  . .   
+.    
+^ ^ ,  {. 
+, . 
+[] . , . , . , . ,  
+. .       
+  .      
+   ,  {. 
+, . 
+[] . . .      
+, , ,   .  
+  ^ ^ ,  
+{. , . 
+[] .   . .   
+.    , 
+():{, . 
+[] . , . , . , . , 
+. , . , . , . , 
+. , . ,  . . 
+experiential_awareness     personality 
+.        
+ (),   {, . 
+[] . . :    
+.  , , ():{, . [] . , . ,  . .   
+ :       
+  .    
+   (),   
+   ,  {, 
+. 
+[] . , . ,  . .   
+:     intelligence , 
+ .  &  , . [] . . . satisfaction_of_needs     
+  .    , 
+ {. , . 
+[] . , . ,  . . .   
+perception    .    
+ (),      
+,  {, . 
+[] . , .-xxx. , . , . , . , 
+. ,  . . {   
+ intelligence  .    , 
+():{, . 
+[] . . , . . ,  . . persistence.  
+[modeling]     . 
+ ,  , . 
+[] . , . , . , . ,  
+. .   :      
+   .    
+{ ,  {. 
+, . 
+[] . , . . , . ,  . . 
+   personality 
+.     
+  (), ():, . [] . . , . . ,  . . . 
+ appraisal :    
+.   protection_effect ,  
+ , ():{, . 
+[] . , . , . , . , 
+. , . , . . , . , 
+. , . ,  .  perceived_consensus  
+   .  
+       
+    , . [] . , . , . ,  . . 
+ [] appraisal     
+.  , .  . [] . , . , . , . , 
+. , . ,  . .   
+ [] .   
+ (),  /  
+ ,  {, . 
+[] . , . , . , . ,  . . 
+        
+.     /  
+================
+     
+(),  {, . 
+[] . , . ,  . .  
+     . 
+impulsive_effect ,   , 
+():{, . 
+[] .   . .    
+:    .  
+    
+{ ,  {. , . [] . .   - 
+     . 
+  ,  /, . [] . , . , . ,  
+. .    :  
+.     
+  (), ():{, . [] . , . , . , . , 
+. , . , . , . , 
+. , . ,  .   
+  mental_calculation    
+      
+   .    
+: , [modeling]  , 
+.  .   , 
+ {. , . 
+[] . , . , .-xxx. , . , 
+. , . , . ,  . .  
+   appraisal    
+  .    
+   ,  {. 
+, . 
+[] . .    
+.   ,  
+{. , . 
+[] . , . , . , . ,  
+. .    .   
+ ,  {. , . [] . , . . , . ,  . . 
+.      
+ .  .   . , , 
+     - 
+  -   ,  
+, , ,  , . , 
+       , 
+ {. , . 
+[] .   . .  [] 
+    /.  
+ :., . 
+[] .   . .     
+  .   . , 
+ {, . 
+[] . .       
+   . .  
+ ,  {, . 
+[] . , . , . , 
+. ,  . .    
+:    behavior.  
+        
+ ,  {, . 
+[] . .      
+   .   , 
+, :, . 
+[] . . , . ,  . . 
+. personality     
+    .    
+       
+ ,  ,  {, . [] . , . , . ,  . . 
+.       
+ .       
+     , 
+ ,  {, . 
+[] . . , . , . . ,  
+. .       
+ .       
+     
+,  ,  {, . 
+[] .   . .     
+   protection_effect      
+.       
+,      ,  
+.   , . 
+[] . , . ,  . . . . 
+     
+  ".   
+ (), . 
+[] . , . ,  . . . . 
+  [modeling]  
+ ".    
+   &  
+ (), . 
+[] . .   . . .   
+      
+()  opportunity_for_criminal_acts  .    
+, ():{, . 
+[] . , . ,  . . .  
+[modeling]      
+.     (), 
+  //,  {. , . [] . .    perceived_vulnerability   . 
+   , . 
+[] . , . , . . , 
+. ,  . .    
+     
+ perception.     
+(),     ,  
+{. , . 
+[] . , . , . . ,  . .  
+   intelligence : Impact  
+.  . intelligence , ():{, . 
+================

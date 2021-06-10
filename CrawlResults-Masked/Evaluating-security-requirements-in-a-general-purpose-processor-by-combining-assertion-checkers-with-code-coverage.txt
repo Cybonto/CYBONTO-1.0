@@ -1,0 +1,438 @@
+ 
+mental_calculation        combining      
+ ,  ,  ,   
+   ..    
+          perceived_vulnerability,      ﬁ .   ,         personality ,               ﬁ,            . 
+      : 
+-         ,     ﬁ,       ,  .            . 
+-        ,  ,      . 
+-              intrinsic_rewards,                 . 
+.   
+ perceived_vulnerability       perception     ,      [],   []    []. 
+   ()                .            ,      :          ,   ,     ﬁ    . , ,          focus      []. 
+ ,        ,   ﬁ .          ,            [], [].              []. 
+      ,      . [],    perception;       :
+   [policy]      
+   [].
+         
+    ,    
+ ﬁ,     
+      . 
+  ,      
+.
+        ,    
+          
+    ﬁ. , 
+ [action]         
+    , mental_calculation 
+  .
+         
+    [];    
+   ,   ,   
+ combining    . ,     ,   
+    -   
+    appraisal     
+       ,     
+       []. 
+. [modeling]   
+.   ﬂ 
+  .   ﬂ        [],        ,      ,      ,        .     ﬂ :
+    , combining   
+      .       ,  
+      .     ,    
+    ,  .      ,    
+    ,   .  , behavior_control-ability     ,   
+    ,     
+   . 
+    ﬂ   ,    ,                      . 
+================
+   
+   .  
+  perceived_responsibility   Collection          ,      ,    ,      ,      Collection  .     perceived_responsibility appraisal       Collection  ,      perceived_responsibility,    ,      ,    ,  ,   .           ,               Collection     
+        . 
+.     
+.   
+.    
+.  
+    
+. perceived_responsibility  
+mental_calculation        
+combining      
+. () 
+.  [Organization] ()  techniques ()   ,,, 
+. /  ()  techniques () 
+. /  
+   ;   
+.   
+.   
+.    
+.   
+. task  
+.    
+.  [Organization]   
+. / () 
+. /  () 
+          intrinsic_rewards (), 
+ , ,  , .  
+. isolation_effect 
+          perceived_vulnerability,       .   ,         personality ,            ?  ,           ? .        -         ,     ,       ,  .            . -        ,  ,      . -              intrinsic_rewards,                 . 
+.   
+.   : 
+.   
+. isolation_effect  
+.    
+.   
+isolation_effect 
+   () 
+.    
+ 
+.     
+   (. ) 
+     
+================
+  
+       . 
+ 
+           
+   
+    isolation_effect         () 
+protection_effect  [function]  
+  
+   
+    
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+    
+.   ﬁ  
+  ﬁ  ()     ,     behavior      [].       ﬁ        () ,     .      ,             []. 
+.  " " -  
+  ,          .   ,       é  ,       ;       [], [].        ,        [],         [],       ,  .     ,         isolation_effect      [], gain  personality     ﬁ- ,  protection_effect      .         ,       . 
+  gain                 : ,  ,   imagination.    protection_effect    ,            .                . 
+.     
+ belief              .         ,       .              ,      ,       ,        . 
+ experiential_awareness      perception,    behavior   ,    
+ 
+experiential_awareness  ,                ﬁ.        perception    ,       ,  combining          ,        combining    . 
+,        ,         ,    ""   ,      . ,         ﬁ        ,    ,  ,               .       ,   ,       . ,  ﬁ     ﬁ  ,       ,  experiential_awareness  ,             ,    . 
+ ﬁ  behavior        ,     ,       (   )    "personality "  (   ),    . 
+                  ,        :
+         
+ ?
+        ? 
+     ﬁ,     
+  ?
+     combining    
+,        ?         ﬁ   . 
+.   
+          ,         .       ,    ,      [Organization] [].        .          .        ,  ,    ,  ,   ,   ,  protection_effect     .     ;          ,  "   ,"    [].        ,          . 
+       
+================
+.   
+      . 
+ #    process              ,        [].   process     ,       ,         ,  . [].        /        . 
+ #              .       (" ")  a_memory ,           ,      ,        .       . 
+. , ,   
+   generalizing    ,   ,              .   ,     ,  ,  ﬁ          .   ,  behavior           ﬁ, ..,            ,   behavior    .    belief,   possibility_effect     ﬁ -  ,   behavior      ,   , ,  ﬁ. 
+      ,      ,    .       syllogistic_rules          ,      ,      ,       [function ].   ,        .   behavior            ,   . 
+)        ﬁ   
+     . 
+)          
+ ,   . 
+)          ﬁ 
+   . 
+)     ,   
+    ; ﬁ  
+   . 
+)         
+      , 
+      ,    . 
+)            
+      . 
+)           
+     . 
+ 
+)            
+       ,   
+   . 
+)          
+   . 
+       ﬁ,   ,           . 
+.  
+     ,          .        "ﬁ"    ,             .  ﬁ                " ."  ﬁ         ,  ,  ,       . 
+    combining       ,        .           .    ,    ,     .    ,    .  #          ,      .  #     ,          ,       . 
+ :  ,     #   loss   # ,      #   loss   # . ,      ;      . 
+  
+ :  ,     ()  personality ().    
+   personality    
+  (   perceived_consensus ). 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   personality   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  personality personality   
+  
+** ** 
+  
+  
+  
+  
+** ** 
+  
+  
+.   
+             ﬁ    ,     .    ,           intrinsic_rewards.  ,   ﬁ,      combining "" ,             
+================
+.    % ,     ,  possibility_effect belief      []. 
+                   ,     [function]        .          ﬂ  .  syllogistic_rules   perception         ,   ,    ;         )   , )      ,  )   .     :
+    ,   [goal]   
+% .
+    .
+     %  (  -  
+,  ,  , .)    
+        ,   
+      [policy ],   
+   (       
+[policy]       ).
+     %     
+,    ""       
+   [policy ],     , 
+   focus   ""    
+() . 
+     intrinsic_rewards,         ,               .    ,        ,     ""  ,       .             ,         . 
+  
+     ,   
+  personality   
+ 
+. . . 
+  personality 
+% 
+% 
+% 
+   
+% 
+% 
+% 
+mental_calculation   .              (       ).      personality,           participant_modeling  [function ]. ,         .    ,        ""   ,      (         ).     ()        ,         . 
+  ﬁ ,      ,           .        ,  
+ 
+  %      ,   ()  persistence : 
+        
+ @( )  
+ () 
+ 
+ <= ; 
+ <= ; 
+ 
+ 
+: : 
+() () 
+   ,       (  ,     combining    ),          .       ,    %   ,      : 
+        
+ @( )  
+ () 
+ 
+ <= ; 
+ <= ; 
+ 
+ 
+: () 
+: () 
+ combining        ,   gain  belief      ﬁ  ,      focus          ,   simplifying    . 
+.    
+.  
+    belief    impact       ,              .       ,       (   ),         .%.          perceived_consensus   []          ﬂ-ﬂ,           .                ,              ﬁ   .            ,      ﬁ   ,       . 
+================
+isolation_effect   ,         ,      ,  intentionality     ﬂ-ﬂ      .       [],    ,    belief              . combining         generalizing ( []  )                    %-5%    combining,      . 
+.    
+          , ..,          ,    ﬁ      [].      process :       ﬁ ,      ﬁ ,         . 
+, é, ,      belief         ,        [].       ﬁ                   ,          [];         . 
+  ,             ;    ,  ﬁ   "personality"           ( ). 
+.    
+        :
+ .  gain  mental_calculation   
+,   ,     
+         
+  ,       
+ . personality  appraisal,   
+       (  
+        
+      ;    
+  task  ﬁ).
+    .   
+       " "  
+;        
+     ﬁ.  
+     :  
+     .
+    .     
+segregating          
+      ( .%)    
+  [].   ,    
+  ,       
+  . 
+
+ .        
+      intrinsic_rewards.  , 
+      ,  
+     ,   
+ ,      
+ .   ,    
+  combining       
+        
+ . 
+    :
+   extrinsic_rewards.       
+            
+,      ﬁ extrinsic_rewards  
+personality  ﬁ,    . 
+       
+         
+  ,       
+ experiential_awareness .
+ .     
+   ,    . 
+,       
+   ﬁ     
+        [function ]; 
+       
+    .
+ [modeling] .       
+ ,         
+,       ,   
+      .    
+ ,        
+  ﬁ   intrinsic_rewards,    
+ , , , . 
+.   
+       " "    ,            [],     ﬁ . 
+, ,                .     ﬁ       ""          .  perception        ,   personality,  ,     ,               []. 
+                intrinsic_rewards  ,            ,           ,     []. 
+               ,     ,    ,        ,     [],   . 
+================
+[],  , ,   [].         . 
+            . " "        [].  " " techniques,    ., ﬁ         ,           [].  perception   ,        personality . 
+          perceived_vulnerability              ,      belief   [].         ,    ,                    ,     intrinsic_rewards [].    personality ,   ,  . 
+.   
+   techniques,  ,       participant_modeling   (..,  ) ,     participant_modeling   ,       [knowledge]       .           ,     []. 
+   ,             []. ,              [resource ]. 
+.  
+           intelligence .            .                ﬂ        . 
+ 
+[] ﬁ       , , 
+ , "      task    
+  ," . ., , . [] . , . , . , . , . ,  . , " 
+    ,"     
+        . 
+ , , . . 
+[] . , "     ," , , . , . , 
+. ,  . 
+[] . , . ,  . , "  
+  protection_effect :   ,"   
+   intrinsic_rewards,    , , . 
+. 
+[] . , . ,  . , "   
+      ,"    
+      intrinsic_rewards,  
+, . . 
+[] .   . , "      ﬁ- 
+,"     intrinsic_rewards,   
+ ,  , . . 
+ 
+[] . , . , . , . ,  . , " 
+   :      
+ ,"         
+  ,  , . . 
+[] . , . , . ,  . , " :  
+     ,"    
+     intrinsic_rewards,  , . 
+. 
+[] . , "  ,"   
+   , . , . , . , . 
+[]. : ://.././.;:// 
+.././. 
+[] . ,     ﬁ    
+.  , :    , . [] .   . ,    . 
+, : , . 
+[] , " ,    ﬁ  
+()," . ,  . 
+[] .   . ,  personality   .  , 
+ : , . 
+[] .   . , "ﬁ   
+perceived_consensus   ,"      
+     .   
+,  , . . 
+[] . . (, )  ( ) . : 
+//..//. 
+[] . , " perceived_consensus   ," , 
+, .. belief.      , 
+. 
+[]  [Organization ]. (, ) . ://.. 
+/. 
+[]  . (, ) ://./. [] . , "      .  
+.,"  . 
+[]  , ., "   , .  
+," . 
+[] . , . é, . ,  . , " 
+        belief 
+,"        
+  , . , . , . ,  . [] . , "ﬁ     ," 
+.. , . . .,   . ., . [] . , . , . , . ,  . , 
+"    ﬁ,"    ,  
+ ,  , . . 
+[] .   . , "  :  
+  ,"   :      
+      intelligence . 
+, , . . []. : ://.././ 
+. 
+[] . , . ,  . , "    
+  personality ,"     
+     intrinsic_rewards,  , . . [] .   . , " focus :    
+    ,"      
+   intrinsic_rewards,  , . . [] . , . , . , . ,  . , 
+":   perception    ,"  
+        
+   , .  . , 
+, . . 
+[] .   . , " :    
+  ,"       
+   intrinsic_rewards, , ,  , . . [] .   . , "  ," 
+          , 
+ , . . 
+[] ——, "  ,"    ,  
+ ,  . 
+[] . , . ,  . , "     
+ ,"     intrinsic_rewards,  
+  , , . . 
+[] .   . , "     
+  ,"      , . , 
+. , . , . 
+================

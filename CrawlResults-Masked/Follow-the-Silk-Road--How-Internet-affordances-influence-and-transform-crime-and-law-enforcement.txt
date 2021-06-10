@@ -1,0 +1,1853 @@
+  
+ 
+,  
+belief 
+   :       
+    
+ 
+ .  
+  
+belief :  
+   
+   .   . 
+================
+     
+================
+   
+   
+.  
+  perceived_responsibility   Collection          ,      ,    ,      ,      Collection  .     perceived_responsibility appraisal       Collection  ,      perceived_responsibility,    ,      ,    ,  , ,  ,        ,  
+  () ,  . .    .   (behavior_control-ability )   .    
+.      
+ belief 
+.   
+   :           
+. ()  .  
+.  [Organization] ()  techniques () 
+   ,   
+.  /  ()  
+techniques () 
+/ 
+.  [Organization]   
+. /     
+.        belief            [policy]  belief         .   ____N/. 
+. /      .   . 
+. isolation_effect (  ) 
+.   
+               .   ""             .           , ,  .              ,         . 
+ belief                .,         belief.        ,        .       personality       ,             .    isolation_effect      ,  intelligence ,    mastery_experience   
+. 
+.   
+.    
+ .   
+ belief,   belief, ,  ,  , , ,  , ,  ,  , , /personality , ,  ,  ,  ,  , , , , intelligence , ,   ,     
+.     
+   
+.  
+   
+ 
+ 
+.  .     isolation_effect isolation_effect 
+  
+   (. )
+    .  
+ 
+================
+    
+ 
+ 
+================
+   .   . 
+   :     
+      
+ .  
+  ,    
+..,  []  ,  
+   extrinsic_rewards   
+     
+learning      (   ) 
+  
+   
+  
+ :   
+ 
+   
+  
+combining         
+ 
+================
+    
+ 
+ 
+================
+isolation_effect 
+               .   ""             .           , ,  .              ,         . 
+ belief                .,         belief.        ,        .       personality       ,             .    isolation_effect      ,  intelligence ,    mastery_experience   . 
+ 
+================
+     
+ 
+================
+   
+. 
+.................................................................................................. .   ....................................................................... .   ......................................................................... .   ......................................................................... 
+.       
+ ........................................................................................ 
+.      .................................................. 
+.  belief, ,  .............................. 
+.  ...................................................................................... 
+.       . ................................................ .   ............................................................................. 
+. 
+      ............................................ .    ? ................................................................ .  :    
+ .................................................................................................. 
+. constraint     .............................. 
+. constraint     ...................... 
+.   belief ......................................................... 
+. 
+    .................................. .     :  ................ .  belief :     
+ ............................................................................................... 
+.  belief,  ,    ........ 
+. [modeling]    ..................................................... 
+. .................................................................................... 
+. 
+ focus :    ................................................................. .    :     
+ ...................................................................................................... .       ...... .   :   
+ ........................................................................................................... 
+ 
+================
+. 
+ focus :   
+    ......................... .    :  
+    . ........................................................ .     [action] - 
+ syllogistic_rules  ............................................... .     .:  
+ ......................................................................................................... 
+. 
+ focus    ................................................... . :        
+    .? ............................................................... .    ................................................................. 
+.      .............................. 
+.     .......................... 
+.      ...  
+   ................................................................ 
+.     ............................... 
+. ""    ............................ 
+.        
+ Vulnerabilities ................................................................. 
+.   .................................................................................. 
+.        
+ ......................................................................................... 
+. 
+ , ,  
+    ................................................ .      .......................................... 
+.   ..................................................................... 
+.  ...................................................................................... 
+.  ............................................................................................. 
+.  extrinsic_rewards  .......................................................... 
+.      ............................ .  ......................................................................... 
+.    ................................... 
+.    .............................. 
+.    ..................................... . belief    ...................................... 
+ 
+================
+   .............................................................................................. 
+   .................................................................................
+ 
+ 
+================
+    
+ 
+ 
+================
+   
+ . 
+     ................................................ 
+ . 
+    [action] ............................................................. 
+ . 
+        ................... 
+ . 
+      ......................................................... 
+ . 
+     ..................................... 
+ . 
+ Impact     ............................... 
+ . 
+ Impact     ............................. 
+ . 
+   [activity]      ......... 
+ 
+================
+    
+ 
+ 
+================
+     
+      
+    
+      
+    
+ fear_arousal    
+     
+           () 
+     
+    
+    (  ) 
+ 
+================
+    
+ 
+ 
+================
+   
+ belief 
+   judging  syllogistic_rules          .     syllogistic_rules      [action ].         . 
+ 
+            process  .   ,         .           "      intrinsic_rewards,"         . 
+  
+     combining               .                 . 
+ 
+                      .    "     ,      ,   ." 
+  ( ) 
+     physical_quality        .             .
+ 
+
+  ,     , .  ( :  , ), . 
+
+  . , .   ,   . , : , ,     ,   .  (,  :   , ), . 
+
+  , " :           ,"    ,  , , ://.../ . 
+
+  .   ,  frustration_of_needs, : ( ,  , ), . 
+
+  , "      ," ,  , , ://..////. 
+ 
+================
+physical_quality  
+                  . 
+  
+                       .              , ,         . 
+ 
+                         Tactics . 
+  belief 
+  belief     protection_effect       "  combining  ,     ."  belief       " syllogistic_rules            situational_circumstance        . 
+  
+ perception                 . 
+ 
+ perception   behavior_control-ability  ,   ,   [Organization]    .
+ 
+
+  ,  :   ,   opportunity_for_criminal_acts       ,   ( :  , ), . 
+
+ . 
+
+  . ,   :        ,   ( :  , ), . . 
+ 
+"  belief,"  belief,   , , 
+://.//. 
+
+  ,  ,   , "           ,"    , . , (): . 
+
+  . ,  ,   . , "  ,"    , ,   :    ,   ( ): . 
+
+     , "       ,"   intelligence   (): . 
+ 
+================
+  
+                 . 
+ 
+              techniques, ,  ,                     . 
+   
+       personality                , ,      self-efficacy           . 
+   (  ) 
+             .
+ 
+ 
+ . , "  ," ,   , , 
+://..///////.. 
+
+" : ,"   ,   , , ://../ /... 
+ 
+"  :     ,"  ,  , , ://../. 
+ 
+================
+     
+ 
+================
+  
+ belief            .       ,    ,    .  ,  ,   ,  extrinsic_rewards           .           ,  "" ,         .  [goal]   belief   combining                     . 
+    physical_quality , , ,          .          . ,         intrinsic_rewards    . ,               . ,      belief,     belief              ,       .     extrinsic_rewards   . 
+            .  belief   perception           focus   intrinsic_rewards,    perceived_responsibility  judging  .  belief           focus  .  belief      simplifying  .   belief,         [function]    ;   focus   intrinsic_rewards,  belief  simplifying
+ 
+
+  ,     , .  ( :  , ), . 
+
+ . 
+ 
+================
+ ( )     ( ).          ,    ,          .  belief     personality        . 
+   belief                .  intrinsic_rewards        syllogistic_rules :        [action ],     .  ,                         Tactics     .     ,   ,          intrinsic_rewards.                         ,           .  belief   belief   perception       simplifying       .  .                            . 
+                       .       ,   ,      ,                  .  physical_quality , , ,           persistence .    ,      
+ 
+
+ ,     , . 
+
+     , "       ,"   intelligence   (): . 
+
+  , "    :       ,"     ( ): . 
+ 
+================
+      intrinsic_rewards     vulnerabilities            .               combining . 
+ ,    .     extrinsic_rewards          .    .            .    ,     ,       .                  certainty_effect    ,   ,            .  judging   ,            .     ,    intrinsic_rewards     .  ,             , ,   .       mastery_experience        ,          combining   . .                 .     techniques            . 
+           .            ,           
+ 
+  .  ,
+  frustration_of_needs, : ( ,  , ), ;     , frustration_of_needs  , : ( ,  , ), . 
+
+    ,      ,  ( ,  , ), . 
+ 
+"  :     ,"  ,  , , ://../. 
+ 
+================
+extrinsic_rewards     .                    .                  .   extrinsic_rewards  ,           ,       .          ,    ,         . 
+ focus                  .    ,  belief               intrinsic_rewards,     .    ,   ,    belief  ,  extrinsic_rewards  focus   intrinsic_rewards    judging  .                .        protection_effect   .    , intelligence  intrinsic_rewards     focus    vulnerabilities    intrinsic_rewards     . intelligence           personality    .  intrinsic_rewards        vulnerabilities  ,   , .  intrinsic_rewards     ,   .  
+ 
+
+ ",    physical_quality   ,"   intrinsic_rewards,  , , ://.intrinsic_rewards .///; " frustration_of_needs   physical_quality      ," ,  , , ://.../// . 
+ 
+"             extrinsic_rewards          . ,"    intrinsic_rewards,  , , ://.intrinsic_rewards ./// . 
+ 
+================
+  intelligence        intrinsic_rewards           . 
+ focus          ,           loss.     ,         .   intrinsic_rewards                    .          mastery_experience  ,     impact  .        ,      . 
+ 
+================
+    
+ 
+ 
+================
+ 
+    protection_effect     attending             ().  protection_effect     ,    ,   .   protection_effect,             . 
+       belief , .     .           .              .  [knowledge]                 .     .      ,           ?               .          ,               .    . 
+      ,  ,   .    personality         .      belief   .     ,  ,   . ,        protection_effect      task    belief .             .      gain            .            .    personality      .      . 
+ gain  ,  ,   ,    personality     .           learning    gain  .         ,      
+ 
+================
+,      ,       ,       ,       ,        ,    ,     . 
+                            .              .       , ,    ,   ,   .       .       , ,               gain  . ,            ,   ,            . ,                 . 
+,    ,       ,   . 
+            . 
+ 
+================
+. 
+ 
+                          . 
+—Timothy ,     
+. 
+  
+,           physical_quality   ,     ,  isolation_effect  .              . ,          ,             .             . , extrinsic_rewards           extrinsic_rewards     ,       ,    .      extrinsic_rewards               extrinsic_rewards    . ,       ,    ,       .         
+              . 
+ personality   personality         
+,       .
+ 
+
+ "  ,"  ,    , , ..// ?=. 
+
+  ,  :   ,   opportunity_for_criminal_acts       ,   ( :  , ), , . 
+
+ ., . 
+
+ ., . 
+ 
+ : , ,   [policy ],             ,  ., . ( , ), . 
+ 
+================
+       " "     intrinsic_rewards       .   ,      " syllogistic_rules                      ."        ,  "                ,                 intelligence, impulsive_effect ."          intrinsic_rewards,           . 
+          ,                      .              [activity]             combining.             ,    personality          [activity ];           .     judging                   . 
+     :                   ; extrinsic_rewards         persistence        ;  personality   personality                  , ,   .           ,     combining  loss    .   physical_quality       ,    .
+ 
+
+  ,     , .  ( :  , ), . 
+
+     , " :    personality     ,"     ( ): . 
+ 
+================
+ ,     ,     extrinsic_rewards                  .        ,              ""    .         possibility_effect   combining .                    "physical_quality "       .    extrinsic_rewards      extrinsic_rewards           .       gain  .        ,     physical_quality           ,  .               .  ,     ,           ,          .  extrinsic_rewards         -            extrinsic_rewards             . 
+       perceived_responsibility     ,     [policy]   techniques                        .     segregating               intrinsic_rewards           .           ,              .                  . 
+                          ,         personality  .  
+ 
+================
+            . personality           belief.  ,              intrinsic_rewards                    . 
+. 
+  
+ belief   :                       ? 
+. 
+  
+ ,  ,         .         ,   ,   ,  , ,     .   focus  personality ,   ,   ,            .   ,        ,  gain  intelligence  ,  ,   . 
+. 
+       
+           ,              .            -       .            ,      [activity]    personality . 
+ 
+
+  ,  ,    , " , ,   :   ,"        , .  ( ): . 
+ 
+================
+                   ,     perceived_consensus,    physical_quality  personality . 
+ ,  ,  ,                .   combining         .        behavior_control-ability         .  ,                   perceived_responsibility  ,    loss   $ .       $        . , , ,   simplifying               perceived_responsibility   loss   ,     $ .        ,   personality         .                    ,            behavior    . 
+    possibility_effect           , ,  .             intelligence               ,   ,    .   ,     
+ 
+
+ ,  , . 
+
+ ., . 
+
+    ., "      perceived_responsibility  :    ," ,  , , ..//// . 
+
+  , " :      ," ,  , , ://.//. 
+
+  . , "    , ,  fear_arousal,"   personality  , .  ( , ): . 
+ 
+================
+          .  , ,         ,       perceived_consensus   perception    .  ,     perceived_consensus,      extrinsic_rewards,      ,   . 
+ physical_quality            personality .           ()              physical_quality ,                             .     physical_quality        ,    .                 ,       physical_quality              .   ,                       .    behavior_control-ability     , ,          physical_quality  .               :          ,           .
+ 
+
+     ,    (, : , ), , . 
+
+  ,  ,    , "  perceived_vulnerability :      ,"   &   ( );     . ,    : , ,       (,  :   , ), , . 
+
+ " :   physical_quality ,"  , :,       []     , ,   ,  , , ://../?=; ,  , . 
+
+ ,  , ;  , " :     ,"  intrinsic_rewards  , . ( ), :./... 
+ 
+================
+. 
+     
+ ,  ,     techniques     ;              .       ,         ,          ,   .                   impact . 
+    history    ,                  . ,                  .      personality               intrinsic_rewards personality protection_effect   ; ,           .          ,     ,        . 
+, ,           [policy]      .      ,           ,       .         ..-Mexico         [policy] .           ,       .    ,         
+ 
+
+  ,  :   ..-Mexico isolation_effect,  ,  (,  :   , ). 
+
+  . ,  ,   . , "   ,"     , .  ( ): . 
+ 
+================
+    ,     ,        . 
+ gain       ,              personality   .   ,      ,     .       ,    "         ,"      .  ,                 .           ,           .          ;       , ,  ;    ; ;   .             [activity ],           : "                 
+       ." 
+            .             ,     .                ,  
+ 
+
+ , ,  , "    ," . 
+
+  ,  , . 
+
+ . 
+
+  ,  :     ,   ( :   , ), . 
+
+ ., . 
+
+  . , "    , , ,  :     ,"      ,     ,  / ( ): . 
+ 
+================
+  perceived_uniqueness ,       (  ) . 
+. 
+ belief, ,   
+ belief     behavior_control-ability        , , , ,   .           belief;          perception  ,      .     "       ."            [action] ,    ,        
+       . 
+        belief   focus   .      focus  perception     " ."                  ,    ,    .         personality    belief,    combining     belief   . 
+, ,           belief,              : "  syllogistic_rules     [action]   ,   syllogistic_rules       focus  [action] ."                       
+ 
+
+  . ,   perception   perception (:  , ), . 
+
+ ,     , . 
+
+ "  ,"   ,   , , ../ ./.. 
+
+ , ,  , " ," . 
+ 
+================
+ ,      personality  ,      .    ,    behavior_control-ability   "               ,                 intelligence, impulsive_effect ."              ,      syllogistic_rules   . 
+   belief        judging  ,      belief    intrinsic_rewards,   ,   .  focus  , , , ,     belief  focus       .           ,            .        possibility_effect       perception         .               belief. 
+. 
+ 
+   perception         behavior_control-ability        .   
+    perception  behavior_control-ability    .        perception  behavior_control-ability    behavior,   .    extrinsic_rewards    ,    , "      
+ 
+
+   , "  ," . 
+
+    ., "       :  , ,  ," &  [policy] , .  (): . 
+
+     , "       ,"   intelligence   (): . 
+
+ . 
+ 
+================
+      ,  vicarious_experience       ." , ,       behavior_control-ability   behavior           .            focus        isolation_effect .     perception      behavior_control-ability    .        ,    ,            .       personality         behavior_control-ability    ,        focus  . 
+   focus             ,          .                  ,       .    ,       ..-Mexico      ,          .             syllogistic_rules         ;     process          . 
+
+        focus   ,  ,   .
+ 
+
+   , "    ," . 
+
+  . ,  ,   . , "  ,"    , ,   :    ,   ( ): 
+
+  , "    :     ,"       , .  (): . 
+
+ , "   ," . 
+
+ . 
+ 
+================
+. 
+      . 
+      .                  .  ,     ,        .            ,              .     physical_quality , ,                   , ,   perceived_responsibility .              ,    perception process     .  gain    ,              intrinsic_rewards    . 
+       .    .     .           .           behavior_control-ability    .          .          intelligence         ..         ,     . ,   ; ,       .               ()    ().      personality 
+ 
+
+ ,  , ;  ,  :            ( : /, ). 
+
+ ,  , . 
+
+ ,  , . 
+
+  .  ,  frustration_of_needs, : ( ,  , ). 
+
+ . 
+
+  .  ,      , , ( ,  , .) 
+ 
+================
+      .        intrinsic_rewards. 
+         focus  , ,  intelligence.     belief         focus  .        ,   personality   personality         .         .                 .  ,                  . 
+. 
+  
+ belief           ,        .   .         .       ,      ,         .        personality      ;                   .                       . 
+      ,            ;   intrinsic_rewards    ;               [activity ];       [activity]    ;          ;       intrinsic_rewards    .        belief   perception    . 
+ 
+================
+  ,     combining              ,     ,  extrinsic_rewards .                       ,       .                intrinsic_rewards,           ,          .          ,        ,     , .                   . 
+     , ,     , ,  .               perception   . ,     belief,            ,          . ,       .        intrinsic_rewards       ,      .
+ 
+ 
+================
+. 
+      
+                           vicarious_experience. 
+—Donald  
+ ,        perception    
+             .    ,     "     intentionality          
+."       ,               .       personality    ,         behavior_control-ability     ,  .    behavior           .    ,          process. ,      situational_circumstance   ;     ,  ,        .               . 
+         .            
+ 
+
+ "     /       [action ]," ,   , , ://..// /% . 
+
+  ,          (),   (. , ), . 
+
+ , , . 
+
+ ,  , . 
+
+ , "   ," . 
+ 
+================
+ behavior,      "" .      personality   [activity]            . personality           appraisal. , , ,              mastery_experience.           ,   perception    behavior_control-ability  personality syllogistic_rules       ,    belief      judging      . 
+. 
+   ? 
+ ,  / ,  extrinsic_rewards             .           .           , extrinsic_rewards ,    .           ,         .          ,          focus      .             ,           . 
+    focus,               ,            [activity]     .                    .                  . 
+() 
+   
+                 .   ,      
+ 
+================
+      techniques :    .    [action ],    combining      .     ,    ,   [action]           . 
+() 
+   
+          ""—through           .       persistence .                ,       .   ,   combining      ; ,       ,    .         ,   [action]           . 
+() 
+   
+                      ,                 .   ,            techniques :            ,    .             [action]         . 
+() 
+   
+   ""                      .                ; ,   ,        combining       .     techniques ( )   techniques ( )   
+ 
+================
+combining   .                  ,       .                 ,    ,        .                  ,                .                physical_quality   , ,   . 
+                 .                .                  ,     " "   .    ""      intrinsic_rewards          , situational_circumstance,   .                . 
+. 
+ :     
+        ;          extrinsic_rewards.           [action]    .      ,      ,      .         loss,  loss              loss. ,            ,  ,        . 
+                 .        , "     ,   focus  
+ 
+================
+        ." 
+
+       .              ,               .   personality             combining    ,       .     ,               .           intrinsic_rewards . 
+               .          .  constraint         ,        intrinsic_rewards   .  constraint  , ,             [activity ];             . ,           personality        syllogistic_rules    intrinsic_rewards.    (     )   extrinsic_rewards       .
+ 
+
+  , "        ," ,  , , ://..//. 
+
+ , "   ," . 
+
+  . ,   :        ,   ( :  , ), . 
+ 
+================
+ .      
+. 
+constraint     
+          "  "    .   ,         ,  ,  .   ,      combining                  .    ,        .               
+ 
+
+ , ,  , "    ," . 
+
+ ,  , . 
+ 
+================
+    ,  ,  ,.          ,  , ,   perception . 
+      source  constraint     [activity ].  ","     ,             , ,  intelligence .    ,          ,   , .  
+  ,           .  gain            
+     [activity]     ..-Mexico .                         
+  . 
+         /,         :      ()      ().        .    ,         /;  ,          $ .  protection_effect        ,      $   gain  .   ,    $.       , ;     , 
+ 
+
+ ,  , . 
+
+ . 
+
+ ,  , , , , , . 
+
+ ., . 
+
+ ,  , . 
+
+ ,  , . 
+
+ ,  , . 
+
+ , ,  , "    ," . 
+
+ . 
+ 
+================
+   , fear_arousal,     ,   personality   segregating ,          .     .    , $   
+,    . 
+                  .  ,      intrinsic_rewards   extrinsic_rewards  /.   ,    $.     , .    ,     ()  ,    ,          ,      . 
+    appraisal     ,       focus   belief.     focus        gain       constraint   .  constraint     .                      .                . 
+. 
+constraint     
+       ,        [activity ].               [activity]        .   ,      
+ 
+
+ "    ,"     ,   , , , , , ://. .///// %%%.. 
+
+ ., . 
+
+ ., , . 
+
+ ., . 
+ 
+================
+     . ,      ,        . 
+                , ,        , Spear_Phishing, , ,  . ,           ,     ,  extrinsic_rewards      .            , , ,     .      ,   ,  extrinsic_rewards       physical_quality .       ,                  . 
+       physical_quality      behavior  .                                .            .          , ,                 intelligence    .      ,                  personality ,       ,        personality .
+ 
+
+ ,    , . 
+
+ ,  , . 
+
+ . 
+
+     , "   :        ,"   ,  , , ://../ . 
+ 
+","  ,   , , ://../... 
+ 
+================
+            extrinsic_rewards.        .                        .             process  .                ,          .           "    
+  intrinsic_rewards,"        .            ,       "  techniques   
+  techniques ." 
+              .                  ,     ,   .              , ,  [] ,   . ,            ,     .  
+ 
+
+  , ":     extrinsic_rewards ," ,   , , ://./.. 
+
+  . , .   ,   . , : , ,     ,   .  (,  :   , ), . 
+
+ . 
+
+ , "." 
+
+  .   ,  frustration_of_needs,   , ( ,  , ), . 
+
+  , "      ," ,  , , ://..////. 
+
+ . 
+
+ . 
+ 
+================
+,         , , ,   . 
+   , , ,              .              ,               .      ,   constraint             .   constraint             belief.        belief       . 
+. 
+  belief 
+            extrinsic_rewards   
+      , ,  .               
+   .                  .      ,    syllogistic_rules   belief  intrinsic_rewards. 
+  belief    protection_effect  ;  belief     "  combining  ,     []."             " learning      ,"   intrinsic_rewards  
+ 
+
+  , "    ,"   ,  , , ://..////. 
+
+  ,  ,   , "           ,"    , . , (): . 
+
+ . 
+ 
+"  belief,"  belief,   , , 
+://.//. 
+ 
+================
+.             personality  .    personality    protection_effect  behavior_control-ability "  ,"           .                 ,            "." 
+ personality             syllogistic_rules  ,  satisfaction_of_needs,  intrinsic_rewards    . physical_quality                  .       , physical_quality     .       physical_quality          . physical_quality                .         ,     ,      .       ;  ,     "  physical_quality             ."     ,              intrinsic_rewards . 
+   physical_quality       :          perceived_responsibility. intrinsic_rewards                  .          ,    
+ 
+
+  , "  belief  ," .,   , , ://..//. 
+
+ , ,  , "  ," . 
+
+ . 
+
+ ,  , . 
+
+ ., . 
+ 
+================
+         perceived_uniqueness.     ,         certainty_effect        .         . 
+ , situational_circumstance, ,                .  ,             ;            impact  .   , ,        personality   .          intrinsic_rewards.         [activity]     combining  .        syllogistic_rules      [activity]  mastery_experience       .    syllogistic_rules      simplifying           [activity ].  syllogistic_rules             . 
+ 
+================
+     
+ 
+================
+. 
+    
+        ,         .   ,  , learning       ,                 .      . 
+—James .  
+. 
+    :  
+  ,     ?                  syllogistic_rules   .  behavior   intrinsic_rewards, ,     syllogistic_rules;        .                     [activity ].             .               ;  self-efficacy       , combining   ,     .                       syllogistic_rules  . 
+               symbolic_modeling :     .      ,      symbolic_modeling      behavior_control-ability  syllogistic_rules     .        syllogistic_rules              .   ( ),        ( ),   ""    .       perception           .  perception  .
+ 
+
+ ,  perception, . 
+ 
+================
+,       ,         .    perception   behavior_control-ability  ,   ,      .   ,  perception         ,    focus    behavior_control-ability        .   ,      "vicarious_experience       ."    behavior_control-ability        .   ,      behavior_control-ability  ,  ,        ,    ,    ,   .   ,      behavior_control-ability     personality       . 
+      behavior_control-ability  personality syllogistic_rules   [activity]   ,          behavior_control-ability  extrinsic_rewards      .    intrinsic_rewards ,      behavior_control-ability      ,                 .                  .             vicarious_experience    
+ 
+
+   , "    ," . 
+
+ . 
+
+     , " ,  ,"   ,  (): . 
+
+ . 
+
+ , ,  , "  ";    ., "    ,"   , .  (/ ): ;   , "    "; , "   ." 
+
+ , "   ." 
+
+ , "   ." 
+ 
+================
+.   ,        techniques      [activity ],  [action]    vicarious_experience        [activity ].  ,         [activity ],  [action]   vicarious_experience        . 
+    possibility_effect     vicarious_experience      ,         "fear_arousal"    impact   .   focus,                [activity]     ,           [activity ].  vicarious_experience     ,      .         ,    gain,      .      ;      techniques   [activity]  ,    [activity]     ,        .            . 
+        ,                   .      , ,    .         ,          ?              behavior_control-ability    ,       .                       ,    .       
+ 
+
+ ., . 
+
+ ., , . 
+
+ . 
+ 
+================
+     gain         perceived_vulnerability. 
+    perception           ,        .          .  belief,    ,             [activity]   .   belief        ,   perceived_responsibility    .       belief    judging            . 
+. 
+ belief :      
+. 
+ belief,  ,    
+        [activity]         focus   intrinsic_rewards  .  self-efficacy      personality  behavior,      gain  intrinsic_rewards     .  belief                      [activity ].      belief     simplifying     .        ,     belief    .  belief     gain     intrinsic_rewards    judging  . 
+ belief       ,           focus.  belief   personality   ;       gain      .  belief   personality            .         
+ 
+================
+    [function]  .  intrinsic_rewards  extrinsic_rewards   belief,  ,     combining      .       combining    ,            . 
+ belief  behavior_control-ability       syllogistic_rules            participant_modeling  [action] .     ,    " syllogistic_rules                      ."  ,          (     ),         (  ).           ,     ,     ,          .  ,               .      ,      intelligence perception. 
+  impulsive_effect ,           .  ,             ;   , ,            .           ,             .  [action] -      learning    ,    [action] -      . 
+            ,                       .   ,            
+ 
+
+ ,     , . 
+
+ ., . 
+
+ . 
+ 
+================
+   ,           personality      .          ,   ,      .                       .           ,   ,          [activity ]. 
+  ,         possibility_effect,    ;              extrinsic_rewards.  belief   perception  " "  combining           .        syllogistic_rules    ..,              isolation_effect.              personality       certainty_effect    ,  ,    ,           .      ,        combining        :     ,    . 
+              ,          .         ;  , "             .            ,    ,   ,  ,      ."   ,           .  
+ 
+
+ ,     , . 
+
+ , " perception   perception," . 
+ 
+================
+  :       .           combining  .    focus      combining    [modeling ].                 . 
+. 
+[modeling]    
+          [action] (   )       belief .             ,      intrinsic_rewards    [goal ].    [goal ],       planning,   [action] () ,  .           ,      .  appraisal   :      ,    [action]    ,     [action]    [goal ].
+ 
+
+ ,     , . 
+ 
+================
+ .      
+      behavior_control-ability  :      , ,          physical_quality; ,         [modeling]  ,        .  extrinsic_rewards   focus     .  [goal]       [action]       ()    personality,                  .                . 
+               .            focus.  [goal]          "  ."           ; 
+ 
+
+ Source: ,     , . 
+
+ ,     , . 
+ 
+================
+       physical_quality , ,      ;     .       ,      appraisal .    appraisal           [goal ].     perceived_vulnerability    ;    perceived_vulnerability      ,        ,              [goal ].       ,         [goal]     . 
+ .        
+ 
+
+        . 
+
+   ,     , . 
+ 
+================
+. 
+ 
+      mental_calculation   [action]    ,    .       [action]   perception  : , , ,  .      constraint                   .   constraint     .  ,              .   constraint      [knowledge]  [norms] .   ,  ,           .   constraint         .   constraint  [action] perceived_vulnerability  , personality .  ,              ,           . 
+  belief,    ,    [function]   ,        .       frustration_of_needs       .   focus  ,                  .   focus          ,         . ,  [action]      ,              . 
+     focus,        belief .   ,    constraint  protection_effect        participant_modeling   [function ]. , 
+ 
+
+ ,     , . 
+
+ ., . 
+
+ ., . 
+
+ ., . 
+ 
+================
+ constraint self-efficacy           . 
+            focus  combining         .           personality        .      focus,               intrinsic_rewards    .    focus,   ,      .       intrinsic_rewards        .
+ 
+ 
+================
+     
+ 
+================
+. 
+ focus :    
+    ,             personality. ,      gain           . 
+—President   
+         behavior_control-ability                .            ,   ,       extrinsic_rewards       .     ,            ,   extrinsic_rewards  combining .       intrinsic_rewards            .                  intrinsic_rewards     ,           .      perceived_vulnerability                   .           . 
+. 
+   :      
+          personality         .   ,  ,       ,       [activity ]. ,       , , ,  ,         , ,  perceived_responsibility ,  ,  ,  ,    . 
+
+ 
+ 
+
+ ,  , . 
+
+ ,  , . 
+ 
+================
+          ,         extrinsic_rewards   .    (   "fear_arousal  "),       ,             , 
+    . 
+                  .             belief   ,     
+   ,    extrinsic_rewards     .      ,  ,  personality  ,    physical_quality    . ,          ,            .             , ,         
+    . 
+                focus.                    ,  , 
+  .     perception      possibility_effect .     ;       belief,  
+    possibility_effect    . 
+
+    belief, ,             possibility_effect            [activity ].
+ 
+
+ ,  , . 
+
+ ,  , . 
+
+ ., , , . 
+
+ ., ; ,  , . 
+
+ ,     , . 
+
+ . 
+ 
+================
+        .              [activity ],              .          ;          (..,      ),        . 
+  perceived_vulnerability            ,            .   ,                              extrinsic_rewards,      .     ,       ,   personality    .        ,     .   , ,         syllogistic_rules    . 
+          ;            ,     .    ,           ,       . 
+
+             [activity ],   perceived_uniqueness,        .       ,             .           [capability ],      ,   physical_quality . 
+           ,       .              intelligence   ,
+ 
+
+ ,  , . 
+ 
+================
+            . 
+
+    ,        [action]        ;            ,          . 
+  ,            ;               .     personality         extrinsic_rewards        persistence       .        persistence .                  extrinsic_rewards .  ,             .            .    ,    extrinsic_rewards         .         combining         .                ,     . 
+            ,    personality           .                possibility_effect    .              gain   ,        [action]   
+ 
+ 
+  , "   ; ,  ,  
+
+ ,  , . 
+
+ .,  
+
+ . 
+
+ , ,  , , . 
+
+ ,  , . 
+ 
+================
+physical_quality , ,    .      ,               intrinsic_rewards.            ,       :       physical_quality .  ","    learning  ""  participant_modeling  ,          ;             .  extrinsic_rewards           combining ;       .  extrinsic_rewards           . 
+  ,         .,   ..          ,  perception     .  personality                        , ,    .         ,      ,   ,  $.    ,   $   extrinsic_rewards .                     extrinsic_rewards .
+ 
+
+ ,  , ;    .   ,  frustration_of_needs,     , :,  , , . 
+
+  .   ,  frustration_of_needs, . 
+
+ ., . 
+ 
+================
+ .       
+     ,                     .         ,       , ,         .                     ,              .     ,      ,  .    ,            
+ 
+
+ Source:  é-é    , "     ?         ," ,     , .  (): . 
+ 
+================
+ intrinsic_rewards    .                . 
+. 
+      
+         ,           ,        .      focus          ,         . ,         intrinsic_rewards           . 
+            .                  (),     ( ),    (),   ,    ,       (),     ().                 ,      personality     .          ,          intrinsic_rewards       .      , intelligence              techniques. 
+     judging      ,                    .        
+ 
+
+ "                 ," ,   , , ://../// . 
+
+ ,  , . 
+ 
+================
+    .         ,              ,        .     combining       [activity]    ( ,         )            techniques      techniques  ,    ,            [activity] .            ,     combining   :   .       ,   ,      intrinsic_rewards        ,       combining . 
+   techniques,          , 
+            .           ,    ,      
+.    ,        ;          ,       combining .               ,  personality        perceived_uniqueness     techniques .
+ 
+
+ ,  , . 
+
+ ,  , . 
+
+ ., . 
+
+ ., , , ;  .   ,  frustration_of_needs, . 
+
+ ,  , , , ;  .   ,  frustration_of_needs, . 
+ 
+================
+          combining      perceived_vulnerability            .  perceived_vulnerability         techniques        ;         ,                      , ,               . 
+     techniques    .    , ,           .             
+         , . 
+ ,    intrinsic_rewards,      combining 
+     ,     . 
+        ,        intrinsic_rewards (  )             .                       ,            .         ,      
+            techniques. 
+              
+,   .        
+ 
+
+ ,  , . 
+
+  .   ,  frustration_of_needs, ;. ,  ,  , . 
+
+  .   ,  frustration_of_needs, . 
+
+ ,  , . 
+
+  .   ,  frustration_of_needs, . 
+
+ ., . 
+
+ . 
+ 
+================
+                    ,   . 
+            .     [action ],      ,   ,    perceived_uniqueness .                  .     techniques       ,             .    ,   , ","     perceived_uniqueness      
+ . 
+        perceived_uniqueness ,            . ,            ,              .                  coding  .                 " "  "."      syllogistic_rules                .
+ 
+
+  .   ,  frustration_of_needs, . 
+
+ ,  , . 
+
+ . 
+
+  .   ,  frustration_of_needs, . 
+
+ . 
+
+ ,  , . 
+
+ ., . 
+
+ ., . 
+
+ . 
+ 
+================
+  , ,        ;                 .                            ,    ,   ,    ,  extrinsic_rewards  .   , ,           $,,. 
+. 
+  :    
+       physical_quality , , ,        .    ,       [goal]     .         vulnerabilities             .      . 
+          ,         possibility_effect    .   ,            .           .        perceived_uniqueness     ,       .      segregating       ""   ,       combining   
+ 
+
+  , "                ,"  ,  , , ://../ . 
+
+  .   , belief    , : ( ,  , );    intentionality,  ... § () ();    [activity]  syllogistic_rules  ,  ... § () ();    [activity]  syllogistic_rules   ,  ,  ,  ... § ();    ,  ...§ (). 
+
+  .   , belief    . 
+
+  .   ,  frustration_of_needs, . 
+ 
+================
+. ,              combining  . 
+ ,       intrinsic_rewards,    ,  [activity ],  , ,     ,     .        ,         ,           combining   .    , "[]                  ."  , ,               intrinsic_rewards. 
+       ,   ;               ,               .  extrinsic_rewards      segregating          . ,   ,    personality ;   ,                .            (     )         ,           . 
+                      .      combining   ,      ,               .  physical_quality , , ,  
+ 
+
+ ,  , . 
+
+  , "        ?" ,  , , ://..//,,,.. 
+ 
+================
+        persistence . ,                    intrinsic_rewards     vulnerabilities            . 
+          ,    , belief,         protection_effect        .        ,        ,                   .   ,           [activity]         physical_quality ;       .   .               .       .     .
+ 
+ 
+================
+     
+ 
+================
+. 
+ focus :       
+                 ,          . 
+—Peter ,  combining ,  
+           , ,                 .   .            .       .  behavior_control-ability                .       .   ,            .     ,               extrinsic_rewards        .                   .        perceived_vulnerability            syllogistic_rules.    ;      segregating     intrinsic_rewards               .           .
+ 
+
+ "   physical_quality     loss frustration_of_needs                 .,"    intrinsic_rewards,  , , ://.intrinsic_rewards ./// . 
+
+ é-é  , " ." 
+
+   intrinsic_rewards, "physical_quality ." 
+ 
+================
+. 
+   :      . 
+        ,      [knowledge ].   ,  prospect         extrinsic_rewards    .              ,      ..           . 
+      intrinsic_rewards, , , ,         .     :    , $.    ,      .    ,         extrinsic_rewards  " , ,  perceived_responsibility      ,  ,      ,     ."            : ;  ;  ;  ;  ;  ; ; ; ;   ; ; ;  ;   ; ;   ;   ;   ;  ; ,  ;  extrinsic_rewards !;    ;   ;   ;  ; ,   .;    ..      ,    .        intelligence  .
+ 
+
+   intrinsic_rewards, "physical_quality ." 
+
+ é-é  , " ";  , "        physical_quality     ," ,  , , ://..///////#. 
+
+   intrinsic_rewards, "physical_quality ." 
+ 
+, " ."           personality    perception. 
+ 
+================
+  .        intelligence    .           , ://.,     [goal]     .   .    role    extrinsic_rewards      ,  ,   ,   ,    .            , ,      . ,   .          ,     belief          .  intelligence   . ,   fear_arousal    (),         "      fear_arousal       perception           ."    ,                   .. 
+  ,     .  ,   (   ""),      .      ,   , ,       personality  .            , .     ,  ,           ,  ,  ,  
+ 
+ 
+ .  ,  frustration_of_needs, . 
+
+ ., . 
+
+ ., . 
+
+ ., . 
+
+ ., . 
+
+  , "    ,     . ,"  ,  , , ://..// /. 
+
+ . 
+ 
+================
+       .   ,  
+      protection_effect        .         ,  ,          ,   ,   . 
+   ,      persistence         .    focus   fear_arousal,  ,    vulnerabilities      , ,    .         .  extrinsic_rewards ,      .  "  ."          "       process  extrinsic_rewards         ."              . , , "protection_effect []      [ ]...              ,   ,               ."   possibility_effect                  ,         . 
+      fear_arousal        , ,          .                 
+ 
+
+ , "    ";   , "         ," ,  , , 
+://..////. 
+
+ , "    ." 
+
+  .  ,  frustration_of_needs, . 
+
+ . 
+
+ ., . 
+ 
+================
+         .               ,                      .       personality       , ,   , ,            .         ,         .      ,  , "  personality          ,       ....   
+         ."         ,   ,             . 
+    vulnerabilities,       .                  .    ,   extrinsic_rewards ,  , , , , ,  .     ,  ,   ,      extrinsic_rewards .    $                   .        ,          . , 
+ 
+ 
+"  :     ,"  ,  , , ://../. 
+ 
+"  ";  . , "  ," ,   , , ://..///////.. 
+ 
+"  ." 
+
+  .  ,  frustration_of_needs, . 
+
+ ., . 
+
+ ., . 
+
+ ., . 
+
+ ., . 
+ 
+================
+       :     ,       intrinsic_rewards  gain    ,     combining    . 
+     ,       ,            [activity ].     ,    , ,       [activity]       intrinsic_rewards.       protection_effect       .        . 
+
+         .  [activity]         . ,           .      ,         .      .     ,        ;       techniques @.,   combining      . .      combining         techniques,         . .    syllogistic_rules,   techniques [activity]     techniques        
+ . 
+     , ,     possibility_effect   combining      .         .         , ,   ;         ,
+ 
+
+  .  ,  frustration_of_needs, . 
+
+ ., . 
+
+ ., . 
+
+ ., . 
+
+ . 
+
+ ., . 
+ 
+================
+    ,    ,  extrinsic_rewards . frustration_of_needs              .  gain   ,    .    .              [disposition ]. 
+. 
+     syllogistic_rules  
+                    ..   intrinsic_rewards   ,        intrinsic_rewards  .      .     (      ""),  perception   intrinsic_rewards    .                       . 
+       ,       intrinsic_rewards    [activity ],  ,          combining     .     perceived_uniqueness    , 
+,     techniques        . .     techniques        
+ .      ,              .      
+ 
+
+  .  ,   , ;   ,  .. §  ();    [activity]  syllogistic_rules  ,  ... § ()(),  ();      ,  ... § ()(); extrinsic_rewards  ,  ... § ()()()(), ()()()(). 
+
+     ,    , : ( ,  , ), . 
+
+ ., . 
+ 
+================
+ .  satisfaction_of_needs    ,    
+,     extrinsic_rewards,     .   ,       combining       .,  , "             ... 
+      ." 
+           ,              intrinsic_rewards  physical_quality :       techniques.      protection_effect   possibility_effect     ,     "  source   ()  personality          ." ,   , "            . techniques,"      techniques .        ,            techniques;                      intrinsic_rewards. 
+    ,         ,          . "                      .."                   , .   .        " techniques        ()    
+ 
+
+     , frustration_of_needs  , . 
+
+ ., . 
+
+     , frustration_of_needs  , . 
+
+  , "          ,   ," ,  , , ://..//// . 
+ 
+. 
+
+ . 
+ 
+================
+()               [  ]."     ,    " "    .              techniques      "      ."               ()       protection_effect       . 
+   segregating               techniques,     persistence ,             techniques  .       ,     ,      .      , ,    .                        vulnerabilities.          :       mastery_experience  . 
+          physical_quality  : 
+     ,       . ,    ,      possibility_effect  belief  ,        " "     
+     techniques .   , "      
+ 
+
+    ,      ,  ( ,  , ), . 
+
+    ,      , . 
+
+ ., . 
+ 
+"    ,"  , ,   , , 
+://...//[Organization] /.. 
+
+    ,      , . 
+
+ ., . 
+
+ . 
+ 
+================
+       ,    ,      ,          .    ,            ."         .    .     .   . ,     belief         "                 ."    , "      techniques   ."      :              . 
+                        .               ,    , .     ,    ,    personality                 , ,            .                      techniques      .       .               
+ 
+
+    ,      , . 
+
+ ., . 
+
+ ., . 
+ 
+"  ." 
+
+  , .   ,   , "           intrinsic_rewards  (),"    (): . 
+ 
+"  ." 
+ 
+. 
+ 
+================
+     .   ,  ,               .                       ,    combining        .      combining       . 
+      .      ,          .     ,          .   ,       ,             combining   techniques,    perceived_uniqueness    ,      .   , ,     perceived_consensus        isolation_effect , ,  ;       
+. 
+. 
+    .:   
+   .  focus            ,  ,       .                      ..     ,        physical_quality          .         self-efficacy   physical_quality , , ,      .
+ 
+ 
+, "  ." 
+
+ , ,  , "  ." 
+ 
+"  ." 
+
+     ,      , : ( ,  , ). 
+ 
+================
+    focus  ,          intrinsic_rewards   ,   ,          .  judging   ,        ,    ;        ,    intrinsic_rewards    .  ,          syllogistic_rules  , ,   . 
+              [knowledge ],          .         perception        mastery_experience      . 
+ 
+================
+. 
+ focus    
+     ,      .          . 
+—Sir  ,       
+      .        .                 .                .          , ,  .                               . 
+. 
+:            .? 
+ focus          .  judging  .    combining           self-efficacy   .      judging       ,   intrinsic_rewards    ,          [activity ],      [activity]    ,               ,      intrinsic_rewards        .            .
+ 
+
+ "  ,"  ,    , , ..// ?=. 
+ 
+================
+                      ;  belief   .      ,           . , ,        , ,    ,               ..                    ,       gain   .  , ,                 ,    gain. 
+               ,            ,    .            ,  ,    .    ,              intrinsic_rewards.          combining            , ,   .      "" ,     vulnerabilities              intrinsic_rewards. 
+            .;  , ,  ;    .   ,         ,            .                   generalizing. ,             .,         . 
+       personality   ,               
+ 
+================
+;           .              intrinsic_rewards  gain           . ,             ,           (         ).       :    ?    ,     , : .        syllogistic_rules     ;  syllogistic_rules       intrinsic_rewards    .          .          .,         ,    ,        . 
+ belief                  ;  belief  .           intrinsic_rewards,          ,           .             intrinsic_rewards,           .     ,   focus           combining   .              ; ,            intrinsic_rewards. 
+. 
+   
+      .             :             .       
+ 
+================
+,           , ,  . ,        extrinsic_rewards              . protection_effect       extrinsic_rewards ,   personality     .                        ,    .             . 
+. 
+     
+    intrinsic_rewards    [activity]         intrinsic_rewards  judging ,   intrinsic_rewards  judging  .       ,       .   [activity]     ,      ,  .        possibility_effect,   .     ,     .                  intrinsic_rewards. 
+                ,           personality .          ,  [activity]      "."          ,       ,      ;         [activity ],          combining    combining   [activity]    [Organization ].         extrinsic_rewards   ,        ,        physical_quality .           ,   
+ 
+================
+   intrinsic_rewards     combining .      , ,          intrinsic_rewards,         . 
+. 
+    
+,  intrinsic_rewards             behavior.        judging ,        personality      .   focus       ;        behavior_control-ability             [activity ]. 
+      .            combining        judging  .        ,   personality          .      behavior        ,             .   personality perception       simplifying       . 
+     ,       ,    .            combining        .      ,     mental_calculation   ,    persistence    simplifying  .  belief   personality   simplifying       .        gain    perception      focus .      intrinsic_rewards ,  belief   
+ 
+================
+    personality       personality . 
+. 
+     ...     
+       ,        .   ,       ""    ", ,   personality     ." ,            .   ,           syllogistic_rules   behavior   intrinsic_rewards.     ,       syllogistic_rules        .       , ,    ,        personality. 
+                 . ,                    ,        .       , ,  ,                .    personality    .              . 
+          .           
+ 
+
+  . ,   :         (, :    , ), , . 
+
+     , "   :        ,"   ,  , ,   , , ://../.;  ,  :            ( ,  : /, ), . 
+ 
+================
+ ,      extrinsic_rewards      physical_quality .  ,     ,        ,    ,        perceived_uniqueness.     ,                extrinsic_rewards  extrinsic_rewards.  personality           .             ,       extrinsic_rewards   ,           . 
+. 
+    
+judging       mastery_experience.  judging       .,       .         mastery_experience      .      mastery_experience  , ,     .     simplifying personality .           [activity ],        mastery_experience  judging .   mastery_experience        . 
+ gain    ,         .     ,                         .       ,      ;            [action ].      ,             .    combining .         judging  . 
+ 
+================
+. 
+""    
+        intrinsic_rewards            .              . ,            .    .  focus                    .     [capability]    ,      combining ,        .    :                  mastery_experience. 
+                .   protection_effect      ,      .  gain     , personality            .  ,       ,          ,            .      ,             . 
+. 
+        Vulnerabilities 
+              vulnerabilities.  belief            :    ,     extrinsic_rewards   internalization,  
+ 
+ 
+"learning      & ,"   ,   , , ://..///. 
+ 
+. 
+ 
+================
+        .       ,        vulnerabilities.    perceived_vulnerability       . 
+          ,              combining .       techniques       . ,    , ,        ,             .                .        perceived_uniqueness             combining     . 
+. 
+  
+   intrinsic_rewards    impact     perceived_vulnerability    .          .      intrinsic_rewards  persistence  participant_modeling  gain extrinsic_rewards.      extrinsic_rewards    participant_modeling  intrinsic_rewards,   extrinsic_rewards     perceived_vulnerability  .   perceived_vulnerability       [exposure]           persistence. 
+   intrinsic_rewards   perceived_vulnerability   .     [activity] ,                          .  intrinsic_rewards              ,      .               ""    ,  wanting     ,     .    focus ,              
+ 
+================
+ .             . 
+ intrinsic_rewards        .       persistence   .         ,    perceived_vulnerability    . ,               ,          .              [circumstances ].          ,      ;         perception     .     perceived_vulnerability        . , , "   fear_arousal           [ ]    ....    ,      ,  combining   perceived_vulnerability       .    ,           ."  appraisal     ;     . ,        . 
+. 
+        
+            ,       .       behavior        ,  ,         .  , ,    ,               [rewards ].        personality         (      )     wanting      .      [goal]       extrinsic_rewards     .            
+ 
+
+  .  ,  frustration_of_needs, . 
+ 
+================
+,   ,       .       protection_effect         . 
+            .             ,      . ,     ; ,       .  focus            behavior          [activity ],      .     focus                   .         : "         physical_quality  ,    ?"              .
+ 
+
+     , "     :       ,"      , .  ( ): . 
+
+ . 
+
+ . 
+ 
+================
+ .      
+  focus,         ,    ,  , , ,    .              . 
+
+  focus          judging            physical_quality        .  focus    [activity]           ,      . ,   [activity]    ,     .       personality                       .              ,  ,    .   ,      vicarious_experience    [activity]  .
+ 
+
+ Source:   , "    ," . 
+
+ é-é  , " ," . 
+ 
+================
+ .  Impact     
+  focus                 .               , ,    . .  focus          combining     .   belief,       physical_quality               .
+ 
+
+ Source: é-é   , " ," . 
+ 
+================
+ .  Impact     
+  focus,             , ,          .      ,              [activity]   ,             .     [activity]    .               .             .      [activity]     .
+ 
+
+ é-é  , " ," . 
+
+     ., "            ,"      (): , :./..... 
+ 
+================
+ .    [activity]      
+      [activity]     ,  ,   .     ,  [activity]    ,     focus ,     [activity] .           [activity]      ,    loss  intrinsic_rewards     .             
+   [activity] . 
+           [activity]   .            ,      .            [activity ],        [activity] . ,       [activity]        [activity] 
+ 
+
+ Source:    ., "     ," . 
+
+    ., "    ," . 
+ 
+================
+      .        [activity]              ,     .           []               .                                . 
+ 
+================
+.  , ,  
+    
+  ,      intrinsic_rewards                       physical_quality .  physical_quality       ...      ,        perceived_vulnerability  perceived_uniqueness   ,     . 
+—Attorney              
+      judging           ,              .              ,        .        extrinsic_rewards               .              Tactics       .                   ,          focus.         intrinsic_rewards   physical_quality -, ,          .           gain  focus   . 
+. 
+     
+         ,        .      
+ 
+
+ ",    physical_quality   ,"   intrinsic_rewards,  , , ://.intrinsic_rewards .///. 
+ 
+================
+      [action ],     personality syllogistic_rules     .           ,           .    ,       vulnerabilities,   personality ,     combining    mastery_experience    . 
+. 
+  
+       extrinsic_rewards  , , , ,      ,     ,  , ,    .         ,    , ,           physical_quality .            .              .                 [activity ],    ,         .         ,      [goal]           . 
+  ,                  .         combining  ""     physical_quality .      
+ 
+
+ "            ," ,   , , ://../// . 
+
+ . 
+
+  , "    physical_quality     ," ,  , , ://..//// . 
+
+ . 
+
+ . 
+ 
+================
+              ,            physical_quality     .   "     ,  ,"   ,      syllogistic_rules     .          
+          .         ,         intrinsic_rewards   .               ,               . 
+              ,      belief,    perception             . 
+. 
+ 
+       history;              .          ,        extrinsic_rewards  ,     .  
+ 
+
+   , " :      physical_quality  ,"  ,  , , ://./ /. 
+
+ , " ";  á, "     ,  ,"   ,  , , ://..//// /. 
+
+ , " ." 
+
+  , "    physical_quality       ,"   ,  , , ://..////// .. 
+ 
+================
+            .  , ,        .              ,       .   
+,    ,     ,    .              .,  
+     ,   ,  persistence .    ,          
+   . 
+       ,          .  ,                 .     ,       ;     techniques            .     ;         , , .  gain   ,        
+ 
+
+ " frustration_of_needs   physical_quality      ," ,  , , ://.../// . 
+ 
+",    physical_quality ,  ,"    intrinsic_rewards,  , , ://.intrinsic_rewards .///. 
+ 
+. 
+ 
+. 
+ 
+. 
+ 
+. 
+
+  , "     ,  physical_quality  ,"  ,  , ,  ://..//// .. 
+
+ . 
+
+  , "          ,"  ,  , , ://..///// /. 
+ 
+================
+      .       
+      . 
+ 
+          focus   . ,               . ,              ,        perceived_vulnerability             . ,          ,          .             ,                   ,      . 
+. 
+ 
+        ,  protection_effect  .                , ,  .  ,                    extrinsic_rewards  ,         perception.                       combining       
+ . 
+        ,         ,      
+ 
+
+ , " frustration_of_needs   physical_quality  ." 
+ 
+, "    ." 
+
+ , " frustration_of_needs   physical_quality  ." 
+ 
+. 
+ 
+. 
+ 
+================
+     .   "   gain ...       ."      ,    ,     .           , . 
+     . ,   judging    mastery_experience    ;           .    personality                  .        "          ." 
+
+                  . 
+ gain    ,                                 . 
+. 
+ extrinsic_rewards  
+ ,    ,       , ,        
+ 
+ 
+. 
+ 
+. 
+ 
+, " frustration_of_needs   physical_quality  ." 
+ 
+. 
+ 
+. 
+ 
+" :    ș:      ," ,   , , ://..// %%:-2017%%%.. 
+ 
+. 
+ 
+================
+  .      ,  
+ extrinsic_rewards      extrinsic_rewards  .           , , ,  ,    ,     
+ ().   ,      $             .  gain  ,   , , , ,   .  extrinsic_rewards           ;     " ,  , perceived_uniqueness ,    ,  ,   ."                  .           
+    ,      extrinsic_rewards   . extrinsic_rewards                    ,       
+perceived_uniqueness   . 
+     ,    , ,   .     ,    .         intelligence   :            
+ 
+ 
+"             extrinsic_rewards          . ,"    intrinsic_rewards,  , , ://.intrinsic_rewards ./// . 
+ 
+. 
+ 
+  intrinsic_rewards, "    ." 
+ 
+. 
+
+   , //      ,  ,  #  ( ,  , ), . 
+
+   intrinsic_rewards, "     ." 
+
+      , . 
+
+ ., . 
+
+ ., . 
+ 
+================
+         .         task              .     ,            persistence   . ,    ,             .         extrinsic_rewards     personality     personality        . 
+     extrinsic_rewards           extrinsic_rewards    .          imagination  extrinsic_rewards .   ,            extrinsic_rewards       . 
+. 
+     
+ gain  judging        extrinsic_rewards ,  belief             .                , ,   ,       .              
+ 
+
+ , . 
+
+ ., . 
+
+ ,  , . 
+
+ ., ;  , ",          ,"  ,  , , ../ 
+/////. 
+
+             .        , ,  constraint          .   belief,               . "   ?"    ,  , , ://. .//. 
+ 
+================
+          .              ,    persistence      . 
+         , ,         ,     ,         .   ,          .                      .             ,           .           .      ,                  gain .                     , ,  . 
+                         ,   ,   .            .   : 
+ 
+  ,      judging, ,    ,  ,          ,  ,
+ 
+
+             physical_quality   []           ;  , "     ,"  ,  , , , ://. .///. 
+
+     , "     ,         ,"  ,  , , ://../ //.. 
+
+ . 
+ 
+================
+.   ,  , ,    . 
+ 
+  ,      judging, ,                 , .   ,  , ,  ,  . 
+ 
+  ,                         .    , ,        .      ,  ,  ,   . 
+              .         ,       physical_quality   .  ,            ,              participant_modeling    .             
+ 
+ 
+"             ," ,   , , ://../// . 
+ 
+. 
+ 
+, "     ." 
+ 
+. 
+ 
+"        ,"  ,  , , ://..// /. 
+ 
+. 
+ 
+"        ,"   ,  , , ://../// .. 
+ 
+================
+    ;            . 
+. 
+ 
+ focus       ,    [goal]       , personality,   .   ,                gain  focus   intrinsic_rewards.      ,      physical_quality -, ,    .         belief,          ;      personality    .        focus   ,           . 
+. 
+   
+                 .                personality .                belief             .           :  ,     , intelligence ,   . 
+. 
+  
+     ,    learning       .        ,   ;   personality          . , ,  ,   ,  ,         
+ 
+================
+               .    personality    ,     focus   .        personality               . 
+. 
+  
+                , , intrinsic_rewards,   .          perceived_responsibility,              process.        ""          ;     .    thinking            ,   ,    .      , ,                  mastery_experience   protection_effect. ,         ,  / ,  extrinsic_rewards         intrinsic_rewards .          ,    .      ,    focus      intrinsic_rewards         .   vicarious_experience    ,              . 
+. 
+intelligence  
+  ,    ,      intelligence  intrinsic_rewards. intelligence  intrinsic_rewards        intrinsic_rewards        .   ,  intrinsic_rewards       perceived_uniqueness       ,     
+ 
+================
+    perceived_vulnerability        .     ,             combining      physical_quality .  gain    intrinsic_rewards,                        . 
+. 
+  
+      gain   .               .      ,    . ,     learning   intrinsic_rewards    ,              .         extrinsic_rewards,   mastery_experience  , [], ,      . 
+. 
+   
+           gain      .          gain             .      ,                  .   ,     ,              .                  intelligence    focus     .          ,  ,     . 
+ 
+================
+. 
+  
+                .               .        ,    ,         gain   ,    intrinsic_rewards                   .          protection_effect  gain   personality      .     ,                  .     ,            persistence    . 
+. 
+intelligence  ( ) 
+     gain  intelligence  techniques           .                 ,      personality       intrinsic_rewards   .     ,   belief     belief       intrinsic_rewards   .      intrinsic_rewards   ,        .      intrinsic_rewards :             extrinsic_rewards  ,       ,                 ,  ,   .
+ 
+
+    ,      , ; , " frustration_of_needs   physical_quality  "; , " ,"  , :. 
+ 
+================
+            .     ,      $ .     ,       .   ,               $    .           [activity]         .  ,                 . 
+. 
+   
+     physical_quality -      .          gain     ,          .          ,  ,  , ,  ,      intrinsic_rewards  mental_calculation.              "  "      simplifying . 
+. 
+  
+      "  "    judging     .    , ,           .          .        ;      [knowledge]     .       simplifying    .
+ 
+
+  , " $    physical_quality          ," ,  , , ://..////// /#. 
+
+ . 
+
+     ., "   ," . 
+
+ . 
+ 
+================
+     [activity]       .               .          fear_arousal .     ,            
+                    . , ,           ;         ,   gain  .              gain  .       ,      .           .              personality     ,       ,  .  [goal]    combining possibility_effect                     . 
+. 
+ 
+             simplifying .  ,     ,      focus   intrinsic_rewards  simplifying    role  .      personality   personality       .  belief   perception        ,      behavior,               behavior. satisfaction_of_needs  personality    ()         ()        . 
+ 
+================
+ physical_quality -, ,        ;           personality     .                   .  touching  belief   ,       gain  focus        behavior. ,     protection_effect  focus   intrinsic_rewards    personality    . 
+. 
+belief    
+       , [capability ],  .                     . , .         ; ,      "   "       gain,   gain      . 
+
+        ,        ,       .                  . 
+      ,      ,   ,     .  ,         ,  , ",  ,          ."            ,        .  personality             ,    .     ,        
+ 
+ 
+ , "      ?"   ,   , , ://../////. 
+
+  , "       ,"  ,  , , ://../; " ,"   ,   , , ://..//. 
+
+ , ,  , "  ," . 
+
+ ..    ,   :     ,   ( :   , ), . 
+ 
+================
+        , ,    . 
+      gain,       gain      .      ,    ,      ,   intrinsic_rewards   ,   behavior   intrinsic_rewards      .          personality  .  ,    ,         . 
+     extrinsic_rewards       ,   simplifying  ,   intrinsic_rewards         .         ,                     .    , "          ."    ,  , "         ."                       .     ,       ,       " intelligence, intelligence   , intelligence ,  ,    ,  ,  [experience ], ,  ,    perceived_vulnerability  intrinsic_rewards ."              ,                . 
+        .     ,   ., , ,       
+ 
+
+ ,  , . 
+
+ . 
+ 
+"      ," ,  , , ../ /?=&=. 
+ 
+================
+   ,  persistence personality.       belief,       ,       , , imagination ,  , ,     ,  , , ,  ,   ,   ().              .        ,   ,  , , , ,  , , , isolation_effect,  .     judging         . 
+ [goal]   belief   combining                  .          ,         personality .  focus           ,   belief      gain  intrinsic_rewards,         protection_effect  .       .  focus       .
+ 
+
+ " -      ,"   , , 
+://../?=&= &=&=_7oRGJjwig7o4_MukCaC2woGtBW0xvkKItp7TZNgWe0&=&=% %%.%&=,.. 
+
+  , "        ," .  , , ://.//; "   • /" ,   , , ..//// //; "           ," .,  , , ://..//.; "isolation_effect,"   , , ://isolation_effect ./; "  personality   ,"  ,   , , ://./. 
+ 
+================
+     
+ 
+================
+   
+, , .   ,   . "  
+         intrinsic_rewards  
+()."    (): . 
+, .  :   ..-Mexico isolation_effect,  , . 
+,  :   , . 
+———.  :     ,  .  : 
+  , . 
+, .  :          
+ .  : /, . 
+, ,   .   . , : , 
+. 
+, .          (), 
+ . . , . 
+é-é, ,   . "     
+?         ." 
+,     , .  (): . 
+   . "    ."   , 
+. ://. .///// %% 
+%.. 
+,  . "  ." ,   , . 
+://../////// 
+.. 
+,  .   :       
+ ,  .  :  , . 
+,  ., .  ,   . . : , 
+,     ,   . . , 
+ :   , . 
+,  . "   , , ,  :  
+   ."      ,  
+   ,  / ( ): . 
+,  .   perception   perception. :  
+, . 
+ 
+================
+, ,  ,  ,  ,  ,   , 
+"       :  , , 
+ ." &  [policy] , .  (): . 
+,  .,  ,   . . "  ." 
+   , ,   :   
+ ,   ( ): . 
+, .  :   ,   opportunity_for_criminal_acts  
+     ,  .  :  , . 
+, . "    ."   , 
+ , . ://../// 
+/. 
+,  . "    , ,  fear_arousal." 
+  personality  , .  ( , ): . 
+, ,  ,   . "personality    
+      ."    
+, . , (): . 
+, ,  ,   . "  perceived_vulnerability :  
+    ."   &  , . , 
+( ): . :./... 
+, ,   . " :    
+personality     ."   
+  ( ): . 
+, ,   . "    :    
+   ."      , .  
+( ): . 
+, . " :     ."  intrinsic_rewards 
+ , . ( ): . :./... 
+, ,   . " ,  ." 
+  ,  (): . 
+,  .,  ,   . , "   
+,"     , .  ( ): . 
+, . ":    extrinsic_rewards ." .  
+ , . ://./.. 
+ 
+================
+, . "   :       
+."     ( ): . 
+, .     , . .  :  , 
+. 
+, ,   . "      
+  ."   intelligence   (): 
+. 
+, . "   :     ." 
+      , .  (): . 
+,  .    : , ,   
+   . ,  :   , . 
+, ,  ,   . " , 
+,   :   ."    
+    , .  ( ): . 
+, ..,   .   :    
+ ,  .  :   , . 
+, . "  belief  ." .,  
+ , . ://..// 
+. 
+. " :   physical_quality ."  , :. 
+      []     , . 
+  , . ://../?=. 
+"  :     ."  ,  , 
+. ://../ 
+. 
+ , ,  ,  ,  ,  , 
+ ,   . "     
+      ."    
+  (): . :./..... 
+, ,  ,  ,   . "   
+ ."   , .  (/ ): . 
+ 
+================
+    
+ 
+ 
+================
+   
+.     . ,  
+.       ,  
+ 
+================

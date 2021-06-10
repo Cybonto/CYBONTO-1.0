@@ -1,0 +1,212 @@
+   perceived_vulnerability :  
+  perception 
+  
+     
+   
+, ,  
+@.. 
+isolation_effect —        loss  , ,    .           personality ,      .       perception  ()  combining        .          ()            .              ,  , , a_memory,    .        []           .                    (.%).       .       .              (.., , , ) combining        . 
+ ,  ,   
+,  
+, 
+. 
+ , ,        personality  [].    
+. .      [Organization] () 
+      
+, , ) 
+ [].   ,       $,,  perceived_vulnerability   [Organization] [].      ,         perceived_vulnerability intelligence () [].    intrinsic_rewards        ,     intrinsic_rewards   [].        [],         (.., source , , )      participant_modeling    , ,   [].          source        possibility_effect   [],          [Organization]     .       .
+   focus,      intrinsic_rewards   ,    intrinsic_rewards ().       (.., )       source            [Organization] (..,  ,   )    .     extrinsic_rewards   (.., 
+                source .
+         . ,  combining              () . ,             techniques  . ,           . ,    personality    . ,  generalizing         . 
+.  
+   focus,      : ()      ()  . ,           focus     combining    
+================
+. .    
+. ,                     task        . 
+.    
+        participant_modeling             , ,  .        .     ,      .               [],         .
+           []    [], [], []-[].    ,     . ,       source      [], [].    source         []. ,  protection_effect   ()        () [], [], [],    ()         [], [], [].          (),    (),  .         ,           . 
+.  
+         personality      []     [],        task     .    learning             protection_effect        [].   ,  ,                [].                   []. 
+.    
+    ,      .                   . ,          (.., , , , .)       . ,    source      .       : 
+•     intrinsic_rewards    
+     
+     ? 
+•            
+[Organization]    ? 
+   ,          ,    . 
+.  
+  focus                    .        ( ):  Collection, ,   , ,    . 
+.  Collection 
+ Collection        .             ,     . 
+ . 
+ Collection 
+ 
+ 
+ 
+ 
+        
+     
+ . SQL_Injection 
+ 
+ 
+ 
+  
+  
+       
+/  
+================
+ 
+ physical_quality             
+  .     SQL_Injection perceived_vulnerability. 
+Source  
+ 
+            
+ ():# [function]     = .();  .(" -xxx " (( ("+ + ")));"").learning () 
+       . 
+      ,           .               combining .    process ,               ,  protection_effect       .     Collection  ,  ,   ,    source     . 
+ . 
+ Collection 
+   Source    ,  
+  ,, , 
+  ,, , 
+  , , 
+  , , 
+  , , 
+  , , 
+  , , 
+  ,  
+  ,,  
+  ,, , 
+combining   ,, ,
+    combining     protection_effect   Collection       .  combining, ,  source      ,,      .  source            (  ., ).  Collection,           . 
+.  
+ Collection,         . ,       perception                   .         source      [Organization]     . 
+. .       ( )   
+,     [Organization]    (..,    source),        
+ .     simplifying   task   possibility_effect   . , source      , , , ,    protection_effect     .    ,                 .         . 
+ . 
+  
+     , .% 
+ , .% 
+ Source  .% 
+  .% 
+   .% 
+combining : , % 
+ ""        ,          (.%   ).       , ,  .            .  source    .    , ,  . ,         , ,  . 
+.  
+       ,           task.     ,       , , ,  . 
+. .   
+          source     .         []              .         .             .              [].       ,          .                    .      
+�(�⃗)�= 
+��� 
+∑��= ��� 
+ �⃗         ,      ,       combining  (  , ). 
+================
+. 
+        [],           .       protection_effect      perception. ,            (.., ,  , ï ,  )       .,            (.., , , )    .    , , a_memory,      .      (),   (),   (),    ()    .        : 
+��������= 
+��+ �� 
+��+ ��+ ��+ ��,��������� 
+= 
+�� 
+��+ �� 
+������= 
+�� 
+��+ ��,�1 
+− �����= 
+ × ��������� × ������ 
+���������+ ������ 
+ perceived_consensus  appraisal               .           .       []       [].         ,    . 
+.   
+           [],       (  )            .  , , ,  a_memory          .      . 
+ . 
+  
+ 
+ 
+ 
+ 
+   
+a_memory 
+   
+ï  
+    
+ 
+  
+ 
+ 
+  
+.% .% .% .% *** *** *** *** 
+.% .% .% .% *** *** *** *** 
+.% .% .% .% *** *** *** *** 
+.% .% .% .% *** *** *** *** 
+.% .% .% .% *** *** *** *** 
+.% .%* .% .%* ** ** 
+.%* .% .%* .% .% .% .% .% 
+  
+ 
+.% .% .% .% .% .% .% .% .% .% 
+.% 
+ 
+   
+a_memory 
+ï        
+  
+ 
+ 
+. .  
+*       �< ., **  �< .,  ***  �< ..        experiential_awareness . ,        ()         ()  .% ( .%  .%),       .. ,       (.%)      ( .%  .%,   .)     ( .%  .%).   gain          .        .      gain    a_memory ( .%  .%),   gain    .            
+. personality 
+        personality      (  ).                     .                   . 
+. belief   
+   focus,          combining   [Organization]       .         generalizing        
+================
+ source .         source       [Organization]          [Organization]   opportunity_for_criminal_acts    .
+     possibility_effect    .   ,     combining, combining,   possibility_effect  .           Collection  .        .                    .        possibility_effect                            loss.      gain     ,        , ,  . 
+. 
+               .  (),  (),   (  )* 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+ 
+. , . ,  . , "       physical_quality ,"      , . , . , . , . , : ./. 
+. , . . ,  . , ":      , Collection, appraisal  ,"  , . , . , . , . , : .///. 
+. . , . . ,  . . , " [modeling]  , ,   ,"       /  (),  , . , : ./... 
+. . , . , . ,  . . , " perceived_vulnerability intelligence :    ," & , . , . , : ./.... 
+. , . , . ,  . . , "          perceived_vulnerability intelligence,"     , . , . , . , . , : ./... 
+. , . , . ,  . , "   vulnerabilities   : ,    ,"       intelligence    (),  , . , : ./... 
+. . , . , . , . ,  . , "      perceived_vulnerability intelligence :     perception,"     intelligence    (), . , . 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+. . , .-xxx. ,  .-xxx. , "  personality,   personality?   Impact    ,"  , . , . , . , . , : .///. 
+. , . , . , . , . ,  . , ":   physical_quality     ,"         (),  , . , : ./... 
+. , . , . ,  . , "     perceived_vulnerability         perceived_vulnerability intelligence,"       intelligence    (), . , . , : ./... 
+. , . ,  . , "  perceived_vulnerability intelligence      ,  process  protection_effect      ,"         ( ), . , . , : ./... 
+. , . , . ,  . , "    Collection      perceived_vulnerability intelligence :   focus,"       intelligence    (), . , . , : ./... 
+.   ., " Source     perception,"     , . , , : ./... 
+. , . ,  . , "  perceived_vulnerability intelligence   : protection_effect      ,"         ( ), . , . , : ./... 
+. , . , . ,  . , "     physical_quality  :     perception,"       intelligence    (), . , . , : ./... 
+.   . , "  intrinsic_rewards :   ,"    , [knowledge ],  , . , . , , : ./. 
+.   . , "   perception       ," , . , . , . , : ./..... 
+. , . ,  . , ":     ,"              (), , . , : .//. 
+. . , . ,  . . . , "     ,"     , . , . , . , . , : ./... 
+. , " focus       appraisal   ,"          intelligence, .  , . 
+. , . , . , . ,  . , "     ," . , . , , []. : ://.//.. 
+================

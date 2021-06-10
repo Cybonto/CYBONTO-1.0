@@ -1,0 +1,361 @@
+  [action]       planning 
+           
+  
+,  
+{ﬁ. }@. 
+isolation_effect 
+        planning       judging    . ﬁ,            [action ],           []    [goal ].   ,             personality    ,         []      .  gain            ,          [modeling]    planning ,  ﬁ           ,      planning.       ,              .    belief  . 
+ 
+                  judging  vulnerabilities        possibility_effect .      [modeling]  (),            possibility_effect         [action] ()                   .           perceived_vulnerability           ,      possibility_effect personality . 
+   certainty_effect     : judging  perceived_vulnerability    ,        ,      , ,         .                     .            
+∗The                 ,  perceived_responsibility . .   ﬁ  :  , @.. 
+ :   [action]     
+  ,   vulnerabilities       ﬁ .        ﬁ  ,      (    )         possibility_effect. 
+   [action]        .           ( ),            .  gain          perceived_vulnerability  ,          [modeling]    planning  ,  ﬁ          ,      planning. 
+     ,        ,     [modeling]       ,          .         ,              .       ,              .    belief  . 
+ perceived_vulnerability    planning 
+ 
+ process  protection_effect         , ﬁ      , ,  [knowledge]    
+================
+         .        process     .            ,    Collection     .       ,       ﬁ  ,          ﬁ  ﬁ      ,    ﬁ          . 
+    ,    intelligence        .          perceived_vulnerability             .          personality        ,              ,    [skill]       .      ,    techniques                    . 
+ 
+ planning    planning       (&  ).          ,           : , , , ﬁ,   ﬁ (),  ﬁ (),  ,   ,  , ﬁ,    .     ,   , , , ,  .           ,  task          . 
+            ﬂ (..,        )    (..,       ).      ,            .       ﬁ-   ,    ﬁ,        ,  [knowledge]   ,    intrinsic_rewards  ,    .        : 
+( ) 
+(  ) 
+(  ) 
+(  ) 
+(  ) 
+(  ) (  ) 
+(  ) 
+( ) 
+(  ) 
+    personality    .      [action]  combining    ﬁ     ()       learning     : 
+(:[action]  
+:( ? -  
+? -  
+? -  
+? -  
+? - ) 
+: 
+( ( ) 
+( ? ?) 
+( ? ?) 
+( ?)) 
+: 
+( 
+( ? ?))) 
+  ( )    ,     .         . 
+ ,       ,         .  ,  [goal]      ""    behavior_control-ability   perceived_vulnerability     satisfaction_of_needs     : 
+(:[goal] (  )) 
+(: behavior_control-ability ()) 
+ [goal]      constraint      perceived_vulnerability    : 
+(:[goal] ( (  ) 
+(<= () ))) 
+   
+      ﬁ     (),  , ,     .      ﬁ .     []  ,            .        ()    ﬁ           . 
+ :      . 
+  []   ﬁ     belief     vulnerabilities.        ﬁ.              
+================
+ :           . 
+ :  ﬁ. 
+      perceived_vulnerability    .    ,                        .         . 
+          .          [Organization]   ﬁ       ﬁ .        ﬁ ﬁ    ﬁ         .   ﬁ     ,        .          ,      personality. ,             ,   ﬁ        .            ﬁ . 
+    ﬁ            learning    .             ,         learning     ﬁ  .       ﬁ ,   ﬁ    . 
+               intelligence . 
+ . 
+  
+  
+  
+ 
+ 
+  
+,  
+  
+  
+  
+ 
+  
+  
+  
+ :       . 
+                ,     .  ,        "  "      . 
+              .       ﬁ     ﬁ   ,    . 
+     ,         planning                            ﬁ.          ()    combining        .                        .             . 
+   ﬂ   .   "" ,  , ﬁ   ﬁ            .        ,       .     ,             ,     ""    .      ,   ,         .            ,    ﬁ. 
+         
+  ( ).          personality   (&  )    appraisal       []   [goal ].   appraisal      .        ,    ()   ﬁ  ().       ,     ,     ﬁ      .     ﬁ           .                . 
+  ,     
+================
+ :      
+ :            
+ :          
+ :           
+ :         process 
+ :              :      
+ :            
+ :          
+ :           
+ :         process 
+ :              :        
+ :          
+ :        
+ :         process 
+ :              :          
+ :      
+ :        
+ : combining         
+ :          
+ :        . 
+ :            :       learning         :           
+ :        
+ :             :       
+ :     . 
+ ,     . ,             . ,        .        ,  -       personality         .         possibility_effect,      ﬁ        intelligence source.             ,                  .   behavior         ,     . 
+[modeling]  
+   [modeling]    . 
+ :       ﬁ        "". 
+   
+ ﬁ ,    ,                .   isolation_effect  ,       ,      : "             ."     , (..      )             ﬁ  .   ,          persistence,     physical_quality . 
+================
+          . 
+            ,            .          ﬁ       perceived_vulnerability   perceived_vulnerability,       self-efficacy,            ﬁ .     ﬁ             . 
+            ,              physical_quality      techniques -   "" .  appraisal     gain                ,         . 
+     
+     .       .     ,      .           .             ,                   ﬁ.      ,        . 
+      segregating               .  ﬁ                      (     ).   protection_effect  belief  ""   ,  ﬁ      ,          ,         process.   process            . 
+       ﬁ     process     .  ﬁ  ""       ,         [action]     ,      .               [action]             process,     .     ﬁ            ,     . 
+ ﬁ   [action] ﬁ                .                    (.. ,    )  isolation_effect ﬁ,            ﬁ. 
+ :       
+(, , 
+ 
+: (? -  
+? -  
+? -  
+? - ) 
+: 
+( ( ? ?) 
+( ( ? ?) 
+( ?)) 
+( ? ?)) 
+: 
+( ( ? ?)), 
+"?   
+? (?)  ?") 
+ : ﬁ  [action] combining ,       . 
+[modeling]   
+   ,      isolation_effect     ,          ""  ﬁ . mental_calculation  [action]       ,    combining   ,     .              [action ],     [action]               .                 ,             .    ,           (,          ,  ),    = ,    mental_calculation.            ,         ,          gain     .          ,   [action]            . 
+   isolation_effect   simplifying     
+================
+( 
+: (? -  
+          ,  
+? -  
+   .      
+? -  
+     [action]     
+? -  
+  . ,      
+? -  
+         
+? -  
+  .   ﬁ ,   
+? -  
+        
+? -             
+?learning - )       isolation_effect,    : 
+   ﬁ   combining   
+( 
+( ? ?) 
+  .        
+( ? ? ?) 
+ [action]   .       combining  
+( ? ? ?) 
+  ( ?  ?) 
+( ?) 
+          
+( ? ? ?learning) 
+. 
+( ?learning) 
+( ? ?) 
+ 
+) 
+: 
+ 
+( ( ? ? ?))) 
+    ,      
+, ﬁ       
+ :  ,  [action]    vulnerabilities   . 
+     ,  ﬁ  (, , 
+ 
+  ,   ,   , : (? -  
+  .  vulnerabilities    
+? -  
+ ﬁ,      ,  
+? -  
+ ,     personality 
+? -  
+. 
+? -  
+   ﬁ     ""  
+)    [goal]  satisfaction_of_needs      :       ,  
+( 
+,        personality 
+( ? ? ?) 
+ .      ,  
+( ? ? ?) 
+( ?) 
+ combining       
+) 
+ ﬁ  .     : 
+    ,     
+( ( ? ?)) 
+   .     ) 
+  ﬁ      protection_effect 
+     .   ,  (,,           
+ .           : (? -  
+   . 
+? -  
+? -  
+      ( )     
+? -  
+     process.     
+? -  
+       .  ﬁ 
+?learning - ) 
+   ﬁ      : 
+     ,     
+( 
+   ﬁ  ,       
+( ? ?) 
+ .   ,    
+( ? ?)            
+( ? ? ?learning)   ﬁ  ,     extrinsic_rewards - 
+( ?learning) 
+. 
+( ? ?) 
+) 
+ ﬁ          : 
+           ( 
+personality   .       
+( ? ? ?))) 
+   .      
+    ﬁ      
+ :    
+  .      , 
+          
+================
+   (.)     .    .  ﬁ  .    .     .    .     .     .      . 
+ :       
+.                         learning .            intrinsic_rewards      . 
+ protection_effect ,    ﬁ             ﬁ   ﬁ.           ,          ﬁ         .             .           .      possibility_effect  .  protection_effect  ,  isolation_effect      ﬁ.        ,  ﬁ         .                  .          ,     learning   .  process      . 
+ 
+             ,     ﬁ   .  ,          [action]            . ,   physical_quality     ∗ ,       ,                   [action ]. 
+,           .   ,        simplifying      [action ],  isolation_effect -       .                              .     ,     /               ,              [action]   . 
+ ﬁ    ,              ,      simplifying     
+. combining         
+  . .  
+  . .  
+  . .  
+  . .  
+  . .  
+  . .  
+  . .  
+  . .  
+  . .  
+  . .  
+ :       
+ ,          ﬁ    .    ,   ﬁ           ,       .   ,   ,            " [action] ,"          ﬁ       .  ,    ( () ( () ()))  ( ( () ()) ( () ()))     ,        [action ],    . 
+   ,          .       ,  combining       ﬁ   (,        )          .      ﬁ       () ,  ﬁ         .      :         ﬁ      ,     ,            . 
+           behavior    .           ,         ,           , participant_modeling             ,  ﬁ  .         .           possibility_effect intrinsic_rewards            .                  ,            . 
+               intrinsic_rewards  [action]    .    combining        .     ,            
+================
+  ,              .    ,               isolation_effect      , combining    ,  . 
+ appraisal    gain                 ,     gain     ""    (..,  , ,   ),          .             possibility_effect,      . 
+  
+ planning  
+                  .        ,              ,     planning  ,          source  ,          ﬁ.       ,          ,    ﬁ    ﬁ            . ,  planning     segregating, ﬁ             ,            perception. 
+   perceived_vulnerability         participant_modeling    perceived_vulnerability .  ( )    ﬁ       ﬁs ﬁ          ﬁs         .    (&  )        ﬁ   .     judging  ﬁ ﬁ        Brute_Force     [goal]        .    ,    ﬁ         participant_modeling   perceived_vulnerability      (&  ).    perception          ,     perception       . 
+         (&  ).     ,           vulnerabilities         .                  .         .   .      perception (  . ),            
+     ,     perceived_vulnerability   extrinsic_rewards     . 
+       ,                 .  ,   .   perception                     ﬁ.               ,         .    ,      []  perception      ,            []  ( ). 
+   " "    . (  . )       perception.  " "    ,      ,    .  belief                      " "   planning ( , (&   )).     belief   ,         belief       //       
+  
+            planning intrinsic_rewards  perceived_vulnerability       ﬁ. 
+     
+          ,     .            ,                 . 
+  
+     .       planning   personality     live_modeling        ,    ,   ,         .     ,      ﬁ ""     . 
+           : 
+•         
+[],  ﬁ     ﬁ. 
+•         
+  . 
+ ,   focus     ,  intrinsic_rewards      [] -  . 
+================
+•        
+ ﬁ . 
+[action]      ,    ﬁ       .  ,                     ,   ""    .    ,            behavior_control-ability      .  ,       ,     ﬁ      . 
+ perception      belief   generalizing  ﬁ  .   [modeling]     ,            belief,             [action] ﬁ.    (   )      planning      [action]    ( ). 
+      belief      .   ,  ""  []         .    ﬁ ﬁ  [action] ,     ,        ﬁ  []        .                    belief   [action] ﬁ  ,     .                     ,   ﬁ            .              ,     .                 ﬁ  .      ﬁ    ,         " " ()   . 
+  
+,      protection_effect         .       ,     combining     simplifying            ,    combining        ,     .                 [goal ],    . 
+    ﬁ        .  ,        process ﬁ         .  gain,   ﬁ .              
+         ﬁ,  ,  segregating ,           . 
+%... 
+%     ,       
+( (,), -in_room(,)) :- 
+((,)), 
+((,)). 
+%   
+( (,), -carrying(,)) :- 
+((,)), 
+((,)). 
+%        ! 
+( (,), -in_room(,)) :- 
+((,)), 
+((,)), 
+==. 
+%          ,%         . 
+[action] ((,,)) :- 
+(), (),(). 
+((,,), 
+(,)& (,)). 
+((,,),,(,)). 
+ :    belief   [action]    .   .     . 
+%%    [action] 
+(:[action]  : 
+( (  ) 
+(  )) : 
+( 
+(  ) 
+( (  )))) 
+ :  [action]    [action]  ﬁ     belief. 
+ ﬁ.    combining    [action]     vicarious_experience [goal ],   belief      appraisal     gain     .       ,         .    ,                ﬁ  .      ﬁ  ,   .             [goal ],   + .       ,                 ,             +           , 
+================
+             .      + ,     .   ,     ,  . 
+                        ,     (&   ),           ,    ,    techniques   personality .         process           planning  (&  ),        ,        ,         (, ,&  ). 
+ planning 
+   belief  perceived_vulnerability         :         . ,    ,    ﬁ     .    ,       loss  .          combining     process      (      planning process ). 
+     ,        -   planning      .      perception  [modeling]                     ﬁ   ﬁ      .                ,  personality    ,        personality      ﬁ     . 
+       planning   ﬁ,  .  planning       []      .     ,  planning     ,    ,   ﬁ     ,        techniques. 
+              .   ,               planning          .           (://..)         . 
+ 
+         ,        
+       . 
+ 
+, .,  , . .  planning  planning  .           ﬁ intelligence ( ), . 
+, .,  , . . .:        planning .  ,   . 
+, . .   planning :  "  "   []  .   ﬁ intelligence .          planning  . 
+, .,  , . .      :    . ﬁ intelligence ():. , . .      []    .   ﬁ    :. 
+, .; , .; , .;  , . . ﬁ        .         , .   . 
+, .,  , . . .      .        , . 
+, .; , .;  , . .   , ,      planning.           ( ). 
+, . .,  , . .     simplifying  vulnerabilities.            , . 
+, .  .   . ://..///. 
+, .; , .; , .; , .;  , . . .       .         ( ), .  -  - : . , . .     . .. ,   ,  , . 
+, . .    ﬁ .        . ,  : . 
+, .,  , . .   ﬁ perceived_vulnerability .  .      , . 
+, .,  , . .          .     planning     . 
+================

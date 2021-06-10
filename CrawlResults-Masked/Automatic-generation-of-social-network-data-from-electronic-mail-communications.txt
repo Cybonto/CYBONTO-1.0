@@ -1,0 +1,602 @@
+impulsive_effect      
+   
+ ,  . ,  . ,   .  
+     
+isolation_effect 
+      .            ,   [authority ],   .      [Organization]  ﬁ            .    ﬁ     ﬁ perception          [Organization ]. 
+    perception       . ﬁ   ﬁ         , ,     loss,              . , impulsive_effect            [Organization ],  ﬂ,      ﬁ      self-efficacy   [Organization ]. 
+             ,       perception,     ﬁ   .   ,               .              [Organization ]. 
+.  
+   behavior          . ,    perception  personality    behavior       [Organization ].        ﬁ    ,        belief              . ,           judging             personality .   ,         simplifying  ,     ,   belief        extrinsic_rewards. ,         belief ,          . 
+,                    . ,        ,        ,      .            ﬁ        /       . 
+  
+              ﬂ   ﬁ [policy]  belief     ,   ,     
+================
+   
+   .  
+  perceived_responsibility   Collection          ,      ,    ,      ,      Collection  .     perceived_responsibility appraisal       Collection  ,      perceived_responsibility,    ,      ,    ,  ,   .           ,               Collection     
+        . 
+.     
+.   
+.    
+.  
+    
+. perceived_responsibility  
+impulsive_effect        
+ 
+. () 
+.  [Organization] ()  techniques () 
+.   
+.    
+.   
+. task  
+.    
+.  [Organization]   
+    ,  ,, 
+. /  ()  techniques () 
+. /  
+   ;   
+.   
+ intelligence    . 
+. isolation_effect 
+.   
+.   : 
+.   
+. isolation_effect  
+.    
+. / () 
+. /  () 
+.   
+isolation_effect 
+.    
+ 
+.     
+   (. ) 
+     
+================
+        ,         techniques  ,  ,  ,   .                possibility_effect combining     .                 .           process         . 
+.    
+      ﬁ     ,  focus         [].          focus    ,   [goal]         :             . 
+       "        ;          belief        " [].                ,      ,              behavior.     focus ,       physical_quality         []. 
+.    
+ ,    focus                              ,  physical_quality       .  focus      syllogistic_rules          . 
+   ,    perception              .  ,  ,       ,           [Organization ].           .       ,    ,   ()   .                 ,         . 
+     
+ 
+ 
+ 
+ 
+ 
+physical_quality     
+ 
+ 
+ 
+ 
+ 
+    
+ -    
+  -   
+   -  
+    - 
+  
+     
+  
+   ,  , 
+     [Organization] 
+               .       focus     [].   ,       (, )             
+================
+. .     
+   .            isolation_effect,     syllogistic_rules   .               . 
+  ,    :       ,      syllogistic_rules,    .       ,           .  ,   ,             physical_quality  .      ,    syllogistic_rules          .               : source ,  ,      syllogistic_rules.                . 
+    
+ -    
+  -   
+   -  
+    - 
+  
+   ,  ,      [Organization] 
+ 
+=  
+=  : 
+                        
+  
+   
+  ,                                 .             . 
+================
+    ,        belief.  belief                       .             belief :        appraisal  .   ,     ,               . 
+.     
+     ,          experiential_awareness focus             simplifying .             .          .       [],  [],   []                  [].     belief         . 
+         [activity ], ,  . [activity]       ,        .    appraisal            ﬁ .    appraisal        combining   .                  intrinsic_rewards           . 
+           ,  ,  .              .      appraisal               .                      .                 . , judging     ﬁ          behavior. []. 
+,                .       personality           simplifying     . )   :             simplifying             ﬂ [].        ().      belief        ,         .    ﬁ    ﬂ,       ,             .     ,       combining        .   ,          ,       ,   intelligence perception.   ,    ,        :  , ,    (),  ,   , ,   , ,  ,  ,  , 
+================
+, ,  , , , , , , ,   , , , , , ,  []. )   :        "   "       [].          ,           .       ,             .        , ,  ,            .     protection_effect  belief         .             [activity ]; ,                . 
+. ﬁ      
+       ﬁ     task.                .     Collection   /,   ,      . 
+    perception             .         (     ),           focus. ,             . ,           ,         [].  gain,         physical_quality   syllogistic_rules       . ,           .                        .     process,              ﬁ     []. 
+   comply_effect           . perception        ,       . ,        ,      Collection             []. 
+   ,  loss                .            ,  ,   ﬁ [].          physical_quality           ,      participant_modeling  . ,      learning        . ,       ,           . 
+.  
+ focus      ﬂ  ﬁ   , ,       ﬁ  ,    [].              . ,  
+================
+       ,       .  ﬁ     . 
+.    
+          extrinsic_rewards           ()        .      learning        .                    behavior.                      .           , ,          perception.  impulsive_effect extrinsic_rewards           focus         ;    ﬁ—if           . 
+       ,   , ﬁ / ,    .   process       .   ,         protection_effect .             .      ,     .         perceived_vulnerability ,          .          ,               .          .       .      ..       ..     gain     ﬁ .    .       ,               .                   , process,  combining   .   physical_quality                     behavior    . 
+.   
+            ﬁ .  ,               
+. . process         
+================
+. .   
+@.  .@..      perceived_uniqueness      .                 .     combining            .                   . 
+.   
+     , ﬁ       . ,      ,   .   process                    techniques    ,   perceived_uniqueness   .                        . ,            . 
+                  ﬁ.      ﬁ   techniques     ,     techniques      .     ﬁ   techniques     ,      ,      techniques,     techniques   .          . 
+.   
+             .              ,    ,       ,        .         ﬁ     .            . 
+================
+.    
+           .      ﬁ  ,       ,     .    ,       .  ﬁ         ﬁ         :  ( ), /,   ,   ,    ,    ,      .        ,        . ,        ( )          . 
+.   
+           .             : source ,  ,   .      ,     appraisal      syllogistic_rules   source   .         ,       ,                 .    ,                .                        ,  ﬂ             . 
+.   
+.    intrinsic_rewards 
+                 .           learning        .         ,  ﬁ    learning      learning             . ,   ,                ,     .             [Organization]          focus.       combining          process.   process            ;           appraisal. 
+.     
+            .              .            ,      .,    .. . 
+                 .                           ()  [].        [Organization] ( , 
+================
+)       .        .         . 
+    
+    
+ ,,  ,,  ,,  
+    
+.   ﬁ 
+ﬁ                .           ﬁ-   .       ﬁ                   .          .    appraisal  ﬁ           .                      ﬁ. 
+.    
+.    
+        process                   .  ,        combining                 . 
+        combining ( ) 
+ ( ) 
+<  
+≈20 
+≈10 
+<  
+<  
+≈  
+ ( ) 
+<  
+≈54 
+≈24 
+<  
+<  
+≈  
+  
+   () 
+     process      .               . 
+.    
+                  isolation_effect  ﬁ   .   , combining                .         .                           . 
+================
+      ,   ,         . 
+   combining 
+  . . . . 
+  . . . . 
+  . . . . 
+  
+, 
+, 
+, 
+, 
+  
+  ()     
+                personality   .   impulsive_effect,                           .  behavior         ( )       @..,          . 
+.    
+                   isolation_effect   ﬁ      process.                   .   ,        personality.  ,     ,      .         .      combining            .                . 
+ simplifying        syllogistic_rules,         ,         ,  →    → ,  .        . 
+   combining 
+  
+. 
+. 
+. . 
+  
+. 
+. 
+. . 
+  
+. 
+. 
+. . 
+ , , , ,, 
+ , ,, ,, ,, 
+  
+  (),       
+.     
+            ,  ,       .            . ,         .               . 
+================
+                .          ,             .              . 
+.     
+ ,       ﬁ        .                  .  combining                .                . 
+  impact                       [Organization ].    ,       appraisal,           ,           .  ﬁ         simplifying      .  possibility_effect      ﬁ    ( perceived_vulnerability)  . 
+     ﬁ           behavior   .    ﬁ                .  ,         mental_calculation         .         ""    . 
+            .  ,    (        ),   ,    physical_quality       . 
+ 
+[] .   . ,   ,   . , :  
+ , . 
+[] . , . ,  . , "   ,"    
+, . , . , , ://..////.. 
+[] . , "  ,"    , . , . , . 
+[] . , . ,  . ,   :     . : 
+ , . 
+[] .   . , " -     ," , . , . , . [] . , "," , ://.../ / 
+//.. 
+[] . ,     .   , :   
+, . 
+[] . , ".," , ://../. 
+[] . , "  ," , ://.ﬁ .// //. 
+[] . , "   ,"    , . , . , , 
+://../////.. 
+[] .    , " ," , 
+://...//.?=. 
+[] , " ," , ://../  
+///////.? 
+=////////   .. 
+================
+ 
+  
+. .    
+. .     
+. .      
+================
+. .       
+. .      
+================
+. .   
+. .   
+. .   
+. .    
+================
+     
+impulsive_effect        
+  
+ ..  
+ .   .    
+     
+   
+.@. 
+================
+ 
+∨  ∨  ∨  ∨  ∨   
+         -        -           
+================
+   () 
+∨ combining     ∨        ∨  behavior  ∨  
+∨   
+         -        -           
+================
+   
+∨    ∨      ∨  belief 
+         -        -           
+================
+  
+∨   ∨    ∨    ∨    
+∨   
+         -        -           
+================
+     
+∨    ∨    segregating,  ∨  
+∨ , perception,  
+ 
+∨ ,   ∨ : 
+∨     
+ 
+∨    focus 
+∨     
+ 
+         -        -           
+================
+  
+∨           
+   ∨ : 
+∨ ,  ,  ,  ,  
+.. .    [capability] 
+∨  focus :  
+∨           
+    
+∨ combining  ,   loss,    
+-------------------------- -------------------------- -------------------------- -------------------------- -------------------------- ---------------- ------------- ------------- ------------ ---------- 
+---------- 
+     
+ 
+     
+         -        -           
+================
+    
+∨     
+∨      ()   
+  
+∨     () 
+∨   [Organization]    
+∨  : , ,  
+∨  :    (/),    
+(, , .) 
+∨     
+∨      
+∨      
+∨        
+         -        -           
+================
+  
+      
+    
+  
+process    
+  
+    
+ 
+∨     -  
+∨   -  
+∨ process    -    ∨   -    
+         -        -           
+================
+  
+. 
+    
+. 
+  
+    
+. () 
+   
+    
+ :     
+:     
+:   
+  
+ 
+: process  
+ // 
+     
+         -        -           
+================
+  
+. 
+  
+   
+ // 
+    
+    
+    
+. 
+. () 
+   
+    
+ 
+         -        -           
+================
+  
+∨     
+∨   ∨ personality  
+∨   ,   ,   ∨      
+. 
+  
+    
+    
+. 
+. () 
+   
+ // 
+    
+   
+    
+ 
+         -        -           
+================
+. 
+  
+    
+    
+. 
+. () 
+   /,.@., ":=;= ;=;=;=;=; :@. 
+:.@." 
+ 
+   
+ // 
+    
+   
+    
+ 
+"    /",.@., ":=;= ;=;=;=;=; 
+:@. :@. :.@. :..@." 
+,.@. ,@. ,.@. ,@. ,@. ,..@. 
+∨       () 
+∨ [action]  
+         -        -           
+================
+. 
+  
+    
+    
+. 
+. () 
+  
+ 
+   
+ // 
+    
+   
+    
+ 
+  
+...-?:<.@.>... ... 
+... :<@.>... ,.@. ...-?:<.@.>... ,@. 
+   
+  
+...-?:<@.>... ... 
+... :<@.>... ...-?:<@.>... 
+,.@. ,@. ,.@. 
+∨         ∨     /  
+         -        -           
+================
+. 
+  
+    
+    
+. 
+. () 
+ 
+   
+ // 
+    
+   
+    
+ 
+... -  
+[//::: -0500] " 
+-?:<@.> "   
+... -  
+[//::: -0500] "- 
+-? .. @.....  "   ... -  
+[//::: -0500] " 
+-?:<@.> "   
+... -  
+[//::: -0500] " 
+-?:<@.> "   
+       // ::      // ::      
+∨ process   
+   
+∨        
+         -        -           
+================
+  
+. 
+  
+    
+    
+. 
+. () 
+       // ::      // ::      // ::      // ::      // ::      // ::      // ::      // ::      
+∨    
+   
+ // 
+    
+   
+    
+ 
+Source      
+   
+   
+   
+   
+   
+... 
+∨       
+         -        -           
+================
+experiential_awareness  
+∨   
+∨ combining   ∨      
+∨   
+∨  
+∨    
+∨  , .  ,    
+∨  . 
+∨  . 
+∨  appraisal 
+         -        -           
+================
+ 
+∨    personality  
+∨      
+∨  [Organization] (  ) 
+∨  ,      
+∨ .   ,    
+∨    
+         -        -           
+================
+  
+∨  
+∨  
+∨  
+∨  () 
+         -        -           
+================
+∨   
+  
+∨ , ,     
+         -        -           
+================
+∨    
+  
+         -        -           
+================
+Impact 
+∨  
+∨   loss  
+∨      
+ 
+∨  
+∨     
+∨   
+∨    
+∨ personality  
+∨ possibility_effect  perceived_vulnerability 
+ 
+∨   perceived_vulnerability 
+ 
+         -        -           
+================
+ 
+∨    behavior     
+∨  "perceived_consensus"   
+∨     
+  [policy] 
+∨     
+ 
+∨ ,      
+  
+         -        -           
+================
+∨  Collection 
+  
+∨      - , ,   ∨    (, , , "" 
+∨ simplifying    
+∨  -        ? 
+∨     -   
+∨  perceived_vulnerability ,  , 
+∨  
+∨  
+         -        -           
+================
+  
+         -        -           
+================
+ perceived_vulnerability  
+∨    
+∨   
+∨  
+∨      
+∨   
+∨  
+∨ / 
+∨  
+∨  
+∨     
+∨    
+         -        -           
+================
+ perceived_vulnerability  
+∨  [knowledge ],  
+∨    
+∨ , physical_quality, ,  , belief, gain 
+∨   mastery_experience  
+∨  
+∨ planning ⒐  
+∨ behavior  
+∨   
+         -        -           
+================
+possibility_effect  perceived_vulnerability  
+ perceived_vulnerability  
+    personality  behavior                  Collection 
+         -        -           
+================

@@ -1,0 +1,392 @@
+  .       perceived_vulnerability    
+      perceived_vulnerability    
+  
+   
+,  ,  
+     ,  ,  
+     ,  ,  
+     ,  ,  
+isolation_effect 
+  participant_modeling            . 
+    perceived_vulnerability behavior         
+[activity ],          .     
+        personality behavior     
+     .   ,     
+    extrinsic_rewards    .      , 
+     ()      gain  . 
+     behavior  experiential_awareness       behavior   
+      .  [goal]         
+ [personality_trait]        behavior     
+        (  . )  
+              behavior. 
+: ,   , ,  perceived_vulnerability  ______________________ 
+
+  . @. + 
+           ,  ,  , .  
+================
+  .       perceived_vulnerability    
+ 
+            
+         ( ). 
+, ,           
+     ( ).       
+          ( ).  
+ ,         personality ,    
+         behavior_control-ability %   belief 
+opportunity_for_criminal_acts   . (.  ). 
+      combining         
+[Organization ].         , ,  
+     behavior    behavior  
+.    Axiom       ,     
+        ,   
+           .  perceived_vulnerability    
+        perceived_vulnerability  ,       
+ (  )  Organization  certainty_effect     .   
+      participant_modeling    behavior,    
+    (.,  )     ( ). 
+    loss        process      
+ perceived_vulnerability      Exfiltration. ,     
+            
+,              
+           ,  ,  , .  
+================
+  .       perceived_vulnerability    
+,    .           
+           , 
+    ,  possibility_effect ,     emotional_intelligence 
+ (  . ;   . ).   ,  (,  
+)           ,  
+,          .   
+  experiential_awareness         "",   
+   appraisal      [knowledge ],      
+ behavior. 
+        participant_modeling     .   
+    (personality)   ([circumstances] ),     
+                    
+          ,   .  
+           personality 
+ (   ),  physical_quality  (   ;  
+: , ,  ),  ( ), 
+ self-efficacy (  , ,  mastery_experience.    
+          [knowledge]   
+      . 
+   ,     task       
+       ,    extrinsic_rewards 
+       prospect    extrinsic_rewards  
+ .    ,       
+           ,  ,  , .  
+================
+  .       perceived_vulnerability    
+            behavior  
+    .     role  personality,    
+ personality        task     
+          simplifying     
+  perceived_vulnerability.         .      
+          personality     impact  
+         .         
+        .      belief 
+     . 
+  
+       ,      
+        .   
+ ()    belief     [skill]     
+     .  belief      
+  . (),          role   
+            . , 
+  . ()          
+     ( )       
+       .      perception  
+          ,      
+            [Organization]   
+ intrinsic_rewards  .
+           ,  ,  , .  
+================
+  .       perceived_vulnerability    
+             
+   perceived_vulnerability        (..,  ).  
+()             . 
+         %      
+ gain    ,  %             
+ [action ].  ()           
+    impulsive_effect .        
+           .  ()  
+         perceived_vulnerability behavior  
+     intelligence,  , ,   
+,      "". 
+     (),    ()    
+[modeling]         ,     . 
+        ,        
+   (..,  possibility_effect     _ight  ,   
+  ). ,        task  
+   .   task,            
+   ( ).  impulsive_effect  task (   ) 
+    ,     intelligence  task,  
+       fear_arousal,          
+               
+ (.., "")   personality   (  . ).
+           ,  ,  , .  
+================
+  .       perceived_vulnerability    
+,        role       
+  behavior.   . ()     perception  
+       impact    [policy]  
+   (  . ).   combining   (.., 
+  )           
+         [policy] ( ). 
+            
+            
+protection_effect  [activity] (  . ). 
+    techniques         , 
+         combining  perceived_vulnerability   
+      behavior.      
+     personality  (..,    ),    
+  segregating   ,   ,         
+   perceived_vulnerability.         
+              
+     .      [knowledge]      
+       personality  judging  
+  perceived_vulnerability. 
+ 
+      ,   " 
+"                
+  ( ).            
+           ,  ,  , .  
+================
+  .       perceived_vulnerability    
+       .         
+      ( ).      
+                
+             ,  
+       evaluating       
+,      (  . ),   
+  combining   ,  ,      
+  . ,             
+         . 
+            ,   
+ (;   . )     appraisal  "" behavior, 
+              ( , history, 
+, .), %    .              
+ ,    (         
+)   personality          
+ ,     intelligence       
+.    ,    mastery_experience      
+       (   )   (   ).     
+ evaluating mastery_experience             
+. ,               
+     possibility_effect ,       
+     personality    behavior,     
+  .
+           ,  ,  , .  
+================
+  .       perceived_vulnerability    
+,       appraisal  ,   .  behavior 
+           segregating  certainty_effect ,  
+  ( ;    ):   certainty_effect 
+       .             
+,     ,     prospect    
+ (..,        ,    ),  
+            ( 
+),        extrinsic_rewards.   syllogistic_rules,  
+          ,         
+         ,     
+ ,  Exfiltration   . 
+experiential_awareness  
+            
+        extrinsic_rewards      
+task    combining    ,  ,  
+,  , .          
+    .     protection_effect       
+           .   
+            task,   
+[rewards]   .      extrinsic_rewards     
+  extrinsic_rewards             .  
+gain   constraint     ,          
+       syllogistic_rules  ,      
+           ,  ,  , .  
+================
+  .       perceived_vulnerability    
+     ,            
+             . 
+,                 
+.     ,        
+ perceived_vulnerability    Exfiltration.          
+        (  ).  
+ behavior             
+            (  ).  
+   [action]           
+[activity]  : 
+[] :           
+[]  :          
+[] :            
+   
+  task             
+              ;  
+    isolation_effect     . ,     
+                
+     .          
+  (   )   : 
+ .    
+  
+ 
+ 
+   :   [policy]    ,       
+   [policy]         . ,               
+           ,  ,  , .  
+================
+  .       perceived_vulnerability    
+ 
+ 
+           task        gain       protection_effect        . 
+ :     ().   ( ..).   : : . protection_effect       protection_effect  loss. 
+ 
+               ,       . 
+ behavior     personality          . 
+ 
+            ,   
+    ""   ""     [action]   (.., "   
+  ?"),        .  
+    ,      ""   
+   (      ),        
+ personality    .      
+   behavior           
+[knowledge]      participant_modeling   , "" behavior. 
+               
+,              
+       .       evaluating  
+    wanting        appraisal.      
+                 , 
+               
+  . 
+        , < .,    
+            [activity]  
+           ,  ,  , . 
+ 
+================
+  .       perceived_vulnerability    
+        .  judging  role  
+   personality ,       (=)   
+    experiential_awareness ;     .     
+[function]               
+  .          ,      
+          possibility_effect role     
+ personality . 
+,            
+  , < ..            "" 
+behavior                  
+ behavior. ,  mastery_experience      
+   , < ..            
+     mastery_experience         
+,   possibility_effect             
+ [knowledge]     ,       
+.             
+  .        ,    
+           participant_modeling     
+  (..,   . )      ,    
+    . (  . ).  self-efficacy,   belief   
+     [goal ],           
+  , < ..       intelligence ,  
+       self-efficacy,      
+           ,  ,  , . 
+ 
+================
+  .       perceived_vulnerability    
+            perceived_vulnerability     
+  ,         behavior. 
+         , ,    ( 
+    )           
+  ,      behavior  . ,  
+     [function]         .   
+        ,   behavior    
+       ,   .  
+            
+   perceived_vulnerability, [norms ],         
+behavior        . 
+ 
+  ,             
+      ,       
+      .    belief       
+  personality        . 
+  ,  perceived_vulnerability  ,     
+              
+,     .           
+[Organization ],         , ,  
+   ,           
+forethought_capability, ,   appraisal       . ,
+           ,  ,  , . 
+ 
+================
+  .       perceived_vulnerability    
+            
+   . 
+ 
+, . . . "     ,"  
+ (:), . . (:// ././...). 
+, . ., , . .,  , . . . ", ,  - 
+ -       loss     
+.,"   personality    (:), . . 
+(://././). 
+. . . " perceived_vulnerability :  ." 
+(://..///////.). 
+, . . "    :   perceived_vulnerability -    
+intrinsic_rewards  ?,"     (:), . . 
+(://././....). 
+, . . . "         .," 
+  personality    (:), . . 
+(://././...). 
+, ., , ., , .,  , . . "    
+personality   personality        ,"  
+  . 
+(://..//.?=&=). 
+, ., , ., , .,  , . . "    
+: personality   ,"   , . . 
+(://..//). 
+, . .,  , . . . "[modeling]  behavior    
+,"     (:), . . (://././ 
+...). 
+, . ., , ., , .,  , . . "  
+ :     [policy] ,"  
+    (:), . . (:// ././..). , ., , ., , ., , .,  , . . "  
+perceived_vulnerability  ,"   -   intrinsic_rewards,   
+   , . . (://././). , .,  , . .     , (.),  . , . .,  , . . " :     impulsive_effect 
+ task,"   experiential_awareness : , ,  . 
+(://././...).
+           ,  ,  , . 
+ 
+================
+  .       perceived_vulnerability    
+, . . . "    possibility_effect ,"   
+personality    (:), . . ( ://././ 
+...). 
+, . . . "appraisal     ,"    personality 
+   , . . (://././ 
+.). 
+, . . . "      :  
+ extrinsic_rewards ?,"   personality    (:), . . 
+(://././...). 
+, . ., , . ., , . .,  , . . . "  
+techniques : evaluating  personality  ,"   personality 
+   (:), . . (:// ././...). , . .,  , . . . "     possibility_effect 
+.,"   personality    (:), . . 
+(://././...). 
+, ., , . ., , ., , .,  , . . "   
+  frustration_of_needs     impulsive_effect  task,"   
+  (:), . . (:// ././....). , . . "     ,"    
+(. ). (://././). 
+, . . . "   belief       
+ behavior :   focus." 
+, ., , .,  , . . "   : 
+[modeling]  ,"   . 
+(://././). 
+. . ":  []  ." 
+(://..////// 
+.). 
+, . . . " role          
+,"   (:), . . 
+(://././....). 
+, . . . "      ,"   experiential_awareness 
+ (:), . . (://././). 
+. . "     (),"   . 
+(://./).
+           ,  ,  , . 
+ 
+================

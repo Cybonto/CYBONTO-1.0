@@ -1,0 +1,452 @@
+  
+[modeling]     
+ ,      
+isolation_effect 
+     [modeling]         behavior        perceived_vulnerability        (  )       (  )      ﬂ .  ,    ()  ,  / .    ﬂ    ﬂ         ,            . 
+:  , perceived_vulnerability ,    ﬂ. 
+.  
+  intrinsic_rewards               techniques   ,     .              ,       ().                 personality     .          , ,          .    intelligence         ()    , / ,   loss - 
+⁄Part          ﬂ          .  . 
+================
+ 
+ .           ,   .  ,              . 
+    ,      , ..,     , personality       /  [, ],    techniques , ﬂ    [, , , , , ].  gain,         techniques   ﬂ       ()        ( ) [, , , ]. 
+satisfaction_of_needs      satisfaction_of_needs      .  certainty_effect               isolation_effect     , ..,     ,       personality perceived_vulnerability    .   ﬁ, ,    (      ).           []    :                  ,            .            , , ,  ,             [].            ,    personality            protection_effect, ,   []. 
+    ﬁ  protection_effect    .             isolation_effect  (  )   .                 ﬂ ,      ,   ,     ,  |                satisfaction_of_needs  ,        [, , ],  [],   [, , ].          techniques  .                    . 
+               isolation_effect  ( ),      , 
+================
+, &  
+ 
+        .    personality        :      (), ,        segregating        .        ,   ,          " .   personality ()              ,           = (     ).                    personality              .               , ..,     . 
+  ﬁ       .  [].                |..,    .   certainty_effect               < =     ( ﬁ , ﬁ    ),       .         ,            ()       . 
+ perceived_vulnerability             .  ,       .  ,  behavior      :       opportunity_for_criminal_acts (.., ) ,       [] |    ,    perceived_vulnerability. ,             ;     ,       personality , ..,        . 
+ . 
+      : 
+         . 
+     perceived_vulnerability     behavior           . 
+     perceived_vulnerability      protection_effect   . 
+================
+ 
+.  perceived_vulnerability     
+   ()   ﬂ []      ,          .       ﬂ,     [, , ]  ,     
+(¿; ; ; ; ;); 
+ ¿ : ; ; : : :  personality      certainty_effect  ,   ﬂ         ?",  =;  ﬂ          ,   ,    ,      [],   ‰  £  £    [function]    :  (; ; )      ¿, 
+() :  ¡!;  
+    [action]     .           ;           .        ,     loss.   [function]       ?     =?.   =?   []         . 
+              [] : 
+ :  
+; 
+ 
+¡!  
+; 
+ 
+¡!  
+; 
+¡!  ¢ ¢ ¢ ¡!  ¡! 
+; 
+ ¢ ¢ ¢; 
+           . 
+        ﬂ    (..,  ),   (             /ﬂ),   ( ).     belief    .  , 
+)    perceived_vulnerability        
+   loss . 
+)            
+  []         
+  ¿. 
+)    ,       
+ :       (; ]    
+         . 
+================
+, &  
+ 
+ perceived_vulnerability                  loss    intentionality.  loss      ,     (    , ..,    ).        personality.      Eavesdropping   ; personality                      . 
+ perceived_vulnerability       ﬂ  vulnerabilities.   ﬂ : 
+)       (..,   ,  
+,   , ), 
+) perceived_vulnerability ,  
+)   . 
+ vulnerabilities      ,             ,          .   [goal]     protection_effect      . 
+ = ; ; : : :;      ﬂ         opportunity_for_criminal_acts     .        /  .  vulnerabilities      .  ,              .  combining  vulnerabilities       [function] : 
+ : (¿; ) ! (¿; ); (; )! ()  ; 
+ ﬂ  vulnerabilities  []        .  perceived_vulnerability     ﬂ    vulnerabilities  [function] (¿): 
+() : () ¡! 
+; 
+(); 
+ ﬂ          /  (; ] (. ).            ()-features    ()- ,   .   personality         (),       .         [knowledge]               (),      . 
+================
+ 
+ /, 
+/ 
+() 
+  , 
+ 
+ 
+/ 
+() 
+ 
+ .     ﬂ  / vulnerabilities    /    (¿). 
+         vulnerabilities    (¿)    (¿)-adversary.         (¿)-tolerant     ﬂ      (¿)-adversary. 
+ ﬂ                 [],          []       . (¿)-tolerance                        []    ﬂ. 
+ perceived_vulnerability           []     //behavior.  ,  []            (    /  )        (..,  ).           .  : 
+    [, ]           ,  
+      []               . 
+          segregating   perceived_vulnerability  (    []).     ,      (   /  , , ). 
+   perception     perceived_vulnerability  [function] (¿)      vulnerabilities       . 
+================
+, &  
+ 
+.     
+   []      ()           <  .     ﬂ vulnerabilities  (; )= ,          [ : ]    .  perceived_vulnerability     
+() :  ¡! 
+; 
+; 
+  .  ,                   ¶ .  ﬂ         .     ,    . 
+       . [],     ,  []     /    .     .   , (; )= ,  •  • ,     .        [function]  
+() :  ¡! 
+; 
+; 
+       [ : ],        (; ]. ,  •  •  • .   perceived_vulnerability             :  ,              • ,             (        ).    behavior      , ..,     ﬂ. 
+         behavior_control-ability  []      , ..,     ﬂ     physical_quality.          ,        . 
+            :    ,     ,     ,           ( / ).       ,      ﬂ  vulnerabilities. 
+. perceived_vulnerability     
+   (; )= (; : : :; ; ),           , = ; : : :; ,        
+================
+ 
+      ( )     (; ].      : 
+ :  • ;  : <  • ;  : < ; 
+  • < ,      intentionality             (  physical_quality  );     : 
+ :  • ;  : <  • ;  : < ; 
+  • < ,              . 
+    constraint    ,      . ,     constraint   
+segregating    .       .   ;      •  ,   ,        • .   ﬂ     []      (<  • )       >  simplifying       •    . ,  intentionality    ,            .   ,  vulnerabilities  [function] 
+() : (; : : :; ; ) 
+¡!; 
+(; : : :; ; ) 
+        ,      []      []    ( >  
+  
+ 
+• ).                   . (¿)-tolerance     ,      ,      >  simplifying        •    . 
+                 vulnerabilities   : ..,      :  ‚ >   (constraint )       (constraint ).  behavior                .          []  physical_quality  (     ).               segregating   perceived_vulnerability    ,       ﬁ      . 
+================
+, &  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .       :  ( ),  ()   ( ). 
+.      
+   certainty_effect             loss   ,         perceived_consensus ()     [].             ,  %          .        .         combining   ,     . 
+         ,              . 
+    mental_calculation          ,     ( ),      ( )|   (  ﬁ       []).        ,        .           ,     . 
+   , ,          ; ;    .      %           %         .  , 
+= %+ %: 
+================
+ 
+         ()          ,     .    , ,      ()   .                 .          .       : ,        ,               .     ,   ,       .       . 
+:  ﬂ. 
+   ,   ; ; ; ,                |      . 
+ •  ¡  ¡  ¡ < "; "          /   . 
+:  ﬂ. 
+ :    ,               ,   . 
+ /ﬂ:   :  ¡ % ¡ %< ".         . 
+perceived_vulnerability ,  (¿)-adversary.  vulnerabilities   ﬂ    ﬂ     fear_arousal   , , ,  ()     ().  : 
+([])= (; ; ; ; ; ); 
+ =   =  . 
+================
+, &  
+ 
+    ,        ﬂ : 
+ :  • < ;  :  • < ;  :  • ;  :  • < ;  :  • < ;  :  • ;  :  • < ;  :  • < ;  :  • ;  :  • < ;  :  • < ;  :  • ;  :  • < ";  :" • ; 
+ :  • < ";  :" • ; 
+ ; , = ;;;,     + +  • <  • + + .    intentionality    ,   [ : ],  .  intentionality  ,   [ : ]      [action]  simplifying  : , ;              ,   [ : ], 
+  . ,       
+; ; ; ; ;  
+  .  , ; ,  
+  
+ 
+ 
+ 
+,               .               .   ,            ( ).        [],           . 
+  ﬂ                    . ,                . 
+ﬂ  .        protection_effect       ()         (  )          (        ). 
+         , ..,     ,  /          ,    .  perceived_vulnerability    techniques          ﬂ,      perceived_consensus         ,   . ,      ,    vulnerabilities      |      (¿)-adversary, 
+ (¿)-tolerance   . 
+================
+ 
+                      .           () belief. 
+   .             .           ; ; ; ,  • ; < ,   ,    ; ; ; ,  • ; ; < .               (  =   ).         (     )        ,    ,      perceived_vulnerability   /.  ﬂ,     ﬁ> ,      :         ,    , 
+[()= ()=     ]> 
+ 
+ 
++ ;   ; 
+(     ).           (    )    .     []. 
+  ﬂ         (¢)       ,   = +,     .               .  = , = , = .     ;          +  << . 
+  ﬂ      
+: learning  ;     ;  = . 
+  : . 
+: learning     ;  ;    ; 
+ = , = = .   : . 
+: learning  ;  =  
+ 
+= . 
+  : . 
+: learning ;  =  
+¢sc 
+ 
+¢ = (+). 
+  : (; ). 
+: learning    (; );  = . 
+ =      ﬂ: . 
+================
+, &  
+ 
+    : = + .      [function ],        () belief,    . 
+    .    : !     (+)    (¢)     : 
+)   :  ,        
+     = (). 
+) (+ )= () ¢ (),   ;   . 
+   ﬂ          .  ﬂ ()      . 
+             ,        ,       .  ,         ,       ,       ,   .         ()    .               .             personality  ;             :     ()    .       .       ﬂ ,  . 
+ (¿)-adversary        .         ( )      (+ ) (   ,     combining      ).  [goal]            ,. 
+belief   : 
+ , ,     ; 
+      , ,   
+  personality  . 
+      behavior_control-ability  (¿)-adversary. 
+.  ﬂ          []    (..,    ;     
+================
+ 
+; ;      ).      personality        . 
+              (¿)-tolerance    belief : ()    , ()     ,  ()    .               . ⁄ 
+belief        (¿)-tolerant,  : 
+          ; . 
+   . 
+   ﬂ         ;    Eavesdropping (¿)-adversary       . 
+.  ﬂ belief    (¿)-adversary  ﬂ    ;      ,    , ..,     ,       /.       = +. 
+    ; ,    Eavesdropping (¿)-adversary      
+; ; ;  ; (+) 
+      .    belief       ,  = +,          [knowledge]       .             mental_calculation           : ; ,        
+= ; ; ;  
+   ,      .       (   )  ﬂ    ;     .       extrinsic_rewards  belief    .     perceived_vulnerability /.     ﬂ      perceived_vulnerability =+","= "().    "   ( )       . 
+ = ; ; ;        .         ( ,  =   ),  .  
+================
+, &  
+ 
+        ;       
+= ; ; ; ; 
+     .             ,   .       
+                .   .     extrinsic_rewards,           (  ).        perceived_vulnerability      ( )  =+ "=,      perceived_vulnerability"     .    , "=  "    ( ).    . ⁄ 
+  ﬂ       () : =  ,          () :  •  ¡  ¡ <" .         ﬂ,         ()  protection_effect      ,         . 
+        ﬂ    ﬂ   isolation_effect    (¿)-tolerance  .             appraisal  : = > ".         .  ,    appraisal  ,   ﬂ      appraisal     ,          =   .  perception  personality           . comply_effect      ,     ,     (¿)-tolerance. 
+                  , ,  ,     [].       ,    , , ,   ,               . 
+.   
+  ,         .       [modeling]  :    [, , ]       ﬂ []      (     []       )     (    []     
+================
+ 
+  ).    ,   [, ]      .    ﬂ     ﬂ    .    , .., ﬂ            . 
+ process  [, ]   personality          intrinsic_rewards    ﬂ-       . combining  []    combining   ,  ,  , ,    ,  . combining    personality,   ,       ﬂ  ,              .   []          .    personality   ﬂ     participant_modeling   task.    combining      perceived_consensus  personality    .  combining  [] combining combining        ,               . 
+   ,       ,    /        perceived_consensus            [, ].    vulnerabilities,         ,           [].              [].            [].    (, ) perceived_vulnerability                [],       /    impulsive_effect    ,              [].  [] perceived_vulnerability appraisal     evaluating   perceived_vulnerability       . 
+ []         ,                          .            [],       vulnerabilities     perceived_vulnerability  .  []   
+================
+, &  
+ 
+            [].        [],       [goal]                 , ..,       [];      [].     belief            [].  []    [modeling]     process    ,           . 
+  ,       [modeling]  ﬁ           [].   intrinsic_rewards     [modeling]          []. ,             ,              . ,              [, ],   []                ﬁ     . 
+. belief 
+   perceived_vulnerability    .                     ﬂ        combining  vulnerabilities.               . 
+ 
+.   belief              ,             ( certainty_effect  ). 
+.              /. 
+.           . 
+.          ,         combining      (..,   ).               (     ).   ,  ,     . 
+.                 ;       . 
+.              perceived_consensus ({)           ()  ,   .                  .             .        , 
+================
+ 
+    ,         [, , ]. 
+.              ,       . 
+ 
+[] . , . ,  . ,     
+   ,     
+ , . (), . {, . [] . , . , . ,  . ,   
+:   perception   ﬂ  ﬂ- 
+   ,  ,  . , . {, 
+ , , . 
+[] .   . ,  belief   ,  
+ , . (), . {, . 
+[] . ,       
+  ,     
+, . (), . {, . 
+[] . , . , . , . , . , .  
+,  . ,     
+    process  ,    
+  , . , . {, . [] . , . , . , . ,  . , 
+protection_effect   ﬂ ,    
+, . (), . {, . 
+[] .   . ,  : ,  
+ ,      ,  . 
+, . {,  , , . [] . , . , . ,  . ,   
+ .   , , 
+. 
+[] . ,    ,    
+      belief, . 
+{, . 
+[] . , . , . , . , . ,  
+. ,  gain    ,  
+       , . 
+{, . 
+[] . , . , . ,  . ,  
+  ﬂ   ,  
+================
+, &  
+ 
+     , . (), . 
+{, . 
+[] . , . ,  . , [modeling]    
+ {     ,   
+     .   
+   , . {, . 
+[] . , . , . , . , . ,  . , 
+  process  : perceived_vulnerability appraisal, , 
+ ,         
+,    , . {, . [] . , . ,  . , protection_effect :   
+  ,       
+      , 
+. {, . 
+[] . , . ,  . ,    
+, perceived_vulnerability ,       :  
+ focus   ,   , . (), . 
+{, . 
+[] . , . ,  . , [modeling]   
+   perception,      
+    , . {, 
+. 
+[] .   . ,    :    
+ ,    (   
+  ), . (), . , . 
+[] . , . ,  . ,   
+:      combining , 
+, . (), . {, . 
+[] . ,        
+  , ,   , . 
+(), . {, . 
+[] . ,     ,    
+, . (), . {, . 
+[] . , . , . ,  . ,  
+ protection_effect      ,   
+, , ,  (://.// 
+////.), . [] . , . , . persistence, . , . ﬁ,  
+. ,   :   , 
+================
+ 
+ , /,  ,  
+ , , , . 
+[] . , . ,  . , . ,  
+.,    (://..), 
+ . 
+[] . , . ,  . ,      
+    ,      
+   .      
+ , . {, . 
+[] .   . ,     
+   ,      
+    , . {, . [] . , . ,  . ,    
+    :    
+   extrinsic_rewards,       
+     , . 
+{, . 
+[] . , . ,  . ,   
+  ,     
+  , . (), . {, . 
+[] . ,  belief   ,    
+        , . 
+{, . 
+[] . , . , . ,  . ,   
+  :      ,   
+        
+  ( ), . {, . 
+[] . ,    :  
+ ,  belief,   ,   
+   , , , . [] . , . , . ,  . ,  belief  
+ / , perceived_consensus     
+belief, . (), . {, . 
+[] . , . , . , . ,  . ,  
+    ,    
+        
+ ( ), . {, . 
+[] . , . , . , . , . , . , 
+. , . ,  . ,   
+================
+, &  
+ 
+   ,  ,   
+  (),  , , , . [] . ,  :      
+    ,  , , , 
+, . 
+[] . ,      , 
+    , . (), . {, 
+. 
+[] . ,  perceived_vulnerability ,   
+, . (), . {, . 
+[] . ,      ,  
+          
+   ﬂ , . {, . [] . , :      ,  
+& , . (), . {, . 
+[] . , . , . ,  . ,  / 
+,       ﬂ 
+    , . {, . 
+[] . , . ,  . ,    focus   
+    ,      
+     , . 
+{ , . 
+[] . ,  , . 
+[] . , . ,  . ,    -  
+    intelligence ,   , , 
+. 
+[] .   . , protection_effect    ,  
+         
+, ,  , . {, . 
+[] . , . , . , . ,  
+. ,        combining 
+,       combining  
+[modeling] ( ), . {, . 
+[] . ,  , ..  , . (), . {, 
+. 
+[] . , . , . , . ,  . ,   
+     personality   
+combining    , , . ({), 
+. {, . 
+================
+ 
+[] . ,  , . 
+[] .   . ,       
+,         . 
+     , . 
+{, . 
+[] .   . ,      
+ ,       
+     ( ), . 
+{, . 
+[] . , . ,  . , perceived_vulnerability appraisal  
+   ,     
+, . (), . {, . 
+[] . , . ,  . ,   [modeling]    
+   ,      
+      ( ), 
+. {, . 
+[] . , . ,  . , ﬂ    
+    ,    
+       ( 
+), . {, . 
+================

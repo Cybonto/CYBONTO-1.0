@@ -1,0 +1,974 @@
+   
+  
+ 
+   .  
+   
+  : 
+   . 
+  . 
+    
+      extrinsic_rewards      learning    .                     [policy]  belief      ,   ,    . 
+   
+   ,  ,   
+================
+         extrinsic_rewards       []  
+   ,   , ,  , () .  extrinsic_rewards                  
+    . 
+================
+   .  
+   
+  perceived_responsibility   Collection          ,      ,    ,      ,      Collection  .     perceived_responsibility appraisal       Collection  ,      perceived_responsibility    ,   ,       (),    ,  , ,   .           ,               Collection          
+   .          techniques. .   () .   
+    .    
+     
+. () 
+   .  
+.   ( - ) 
+. perceived_responsibility  
+.   
+.    
+.   
+. task  
+.    
+.  [Organization] ()  techniques () 
+  .  
+   , planning,   
+. /   ()  techniques ()     
+   
+,   
+. /    :  
+.   
+. isolation_effect 
+.  [Organization]  
+ 
+. / () 
+. /  
+() 
+        ,          .  ,  perceived_vulnerability  impact                         , Deadeye_Jackal, ,  ,   possibility_effect  loss     ,        .         ,       ,    [norms]   [] [action]  .     [norms ],  ,        .     possibility_effect        loss   []   ,         .         [norms]             .      ,   ,        ,       ,        . 
+.   
+ ,  ,  
+.   : 
+.   isolation_effect 
+.   
+. isolation_effect  
+.    
+.    
+ 
+ 
+.     ,  . 
+.   (  ) 
+ 
+   (. )    . . 
+================
+================
+    
+     
+ 
+   .  
+   
+  .  
+  
+      extrinsic_rewards      learning    .          extrinsic_rewards            ,   , ,  , () .  extrinsic_rewards                      . 
+                    [policy]  belief      ,   ,    . 
+    
+ ,   
+================
+================
+isolation_effect 
+: 
+   .  
+: 
+     
+: 
+   
+: 
+   
+ : , 
+:  
+ : 
+ ,  ,  
+:  
+        ,       
+   .  ,  perceived_vulnerability  impact     
+            
+        , Deadeye_Jackal, ,  ,   possibility_effect  
+loss     ,        . 
+        ,      
+ ,    [norms]   [] [action]  .   
+  [norms ],  ,        .  
+   possibility_effect        loss   
+[]   ,         .   
+      [norms]      
+       .     
+ ,   ,        ,   
+    ,      
+  . 
+================
+================
+     
+   personality      . 
+—President  .  
+               
+   ,        
+,          ,   
+       segregating  ?    
+ ?        ,    
+     ? 
+          ,      
+    .        
+          ,    
+             
+    . ,       
+     , Deadeye_Jackal, ,  .       
+      ()    
+      .  ,     
+       , , 
+,  .       
+ personality        .   
+  ,      .   
+    loss      ;  
+    . ,        
+================
+   loss          
+      .             
+,            , 
+[norms ],       . 
+         , 
+        perceived_consensus.    
+    ?      ?       
+persistence  ?           
+, ,     .     
+     ,         
+ [norms]      . 
+    judging       
+        perceived_vulnerability       
+. ,              
+     .   focus    
+        .  
+       ,     
+persistence   perception      personality   
+     extrinsic_rewards       
+  . 
+ perceived_vulnerability    
+         ,      
+        .    
+ 
+================
+  ,       
+, ,  . ,    perceived_vulnerability  
+ .    ,      persistence   
+   . 
+        intrinsic_rewards      
+ ,      .     
+        loss .       
+         .      
+            
+               
+. ,          " 
+        ." 
+ ,      ,    
+  .        ,  
+,      ,   focus   
+     .    "    
+       ,        
+     ."       
+      opportunity_for_criminal_acts.  ,     
+            
+           " 
+."           
+              
+ 
+================
+[action]         .     
+              
+   ,        
+ . 
+   perceived_uniqueness    perceived_consensus  ,   
+          
+      .          
+           . 
+       ,        
+.  ,              
+        perceived_uniqueness   
+           ."  
+   self-efficacy      opportunity_for_criminal_acts   . 
+             
+             [] .  
+personality     ,   ,   
+               
+,  "    , ,    
+    ."           
+    ()        
+             
+.             
+   ,      .   
+ 
+================
+ ,             
+   . 
+     ,        
+    .         
+              
+.      ,  , , 
+,     .    
+            
+           .  impact 
+       ,        
+        . ,   
+ segregating             
+,     perception       " 
+    ."     ,   
+  ,         
+. ,       "     
+     "  "     
+ personality   ."         
+   ,        
+perceived_vulnerability. 
+  ,           
+,     role  personality    
+   , , ,  ,    
+ 
+================
+ .   perceived_vulnerability,      
+,        .  ,  
+              
+   :    ,  intrinsic_rewards,    
+ . 
+          , 
+       () .  
+         mental_calculation   
+       .    
+          
+.            possibility_effect  
+            
+ loss   , 
+    , ,       loss     .            syllogistic_rules       .            possibility_effect              , ,    . 
+  vulnerabilities    .    
+            
+ "      loss   ,"    
+"       , , ,  
+ ." ,          
+   "perceived_vulnerability  ,    
+ 
+================
+ ,     ,   , 
+     ,"    , ,  
+. ,         
+,  combining   vulnerabilities   .    , 
+ ""           
+               . 
+              
+      ,   "    
+      ."   ,     
+  "  experiential_awareness  "     
+      .    
+ "             
+  ,    ." 
+  ,          
+ opportunity_for_criminal_acts   .          
+     .  , ",   
+ , ,   ,      
+     ."        
+ $    .         
+             ,  
+      $ .  ,     
+   perceived_vulnerability  "         
+         ."   ,  
+ 
+================
+           , 
+loss   . ,        
+, ,        . personality, 
+           
+perceived_vulnerability   .           
+      loss  ,   fear_arousal  
+       ,   loss 
+ belief   . 
+ gain      ,     
+    ,    loss     
+  ".. .  fear_arousal,   loss  belief,  perceived_vulnerability, 
+  intrinsic_rewards  personality ."       
+    . "          
+      impulsive_effect    ." 
+ physical_quality,      ,       
+            
+ ,  ,   .  ,   
+     perceived_vulnerability        . 
+, "    ,      
+techniques       ."     
+        ? 
+ 
+================
+       
+           .  
+persistence          .  
+          , [norms ],  
+    . ,    
+    personality        
+     . ,       
+               
+           .   
+, [norms]         .     
+ personality     perceived_vulnerability   
+           
+  .   personality        
+ []    .   evaluating,         
+    . 
+ ,        evaluating     
+    . ..  ,    
+            
+  ,    "    "  
+      . 
+        .   
+ segregating   "        
+   ,"      
+       .  ,   
+ 
+================
+           "     
+       , ,     
+     ,"   
+       .    ,   
+  task         
+         . 
+,        () ,    
+,     "      
+        , 
+  ,  ,  ,   
+  ."           
+  .  gain    ,    
+,      ,   
+     ,       
+,   ,      ,     
+      .     
+            
+  . 
+         
+      personality      , 
+personality   personality     ".. ., , ,  
+, perceived_vulnerability , ,   ,   
+, , ,   ,   
+ 
+================
+ ,    " .    
+  "        
+, , , ,         
+ ." 
+     ,   generalizing     
+     ,        
+. ,        .      
+     . ,      
+   (),        .     
+ ,  ,  ,  ,  
+   ().     ".. .   
+ ..."   ".. .      
+,      ."      
+ , ,    gain    . 
+,            
+         .     
+?  intelligence          
+         . ,  
+  () ,    ,     
+         . 
+       "  ."   syllogistic_rules    
+"       "  ,    
+     "  "  .  []     
+ 
+================
+     ()    .  ()    
+    ".. .     personality perceived_uniqueness  
+ [] ." ,     .        
+personality              
+   .   personality         
+      perceived_vulnerability . ,     
+        intrinsic_rewards   "      
+ []   ,  ,  personality perceived_uniqueness   
+[] ."   ".. .      ..."     
+[]   ".. . situational_circumstance          ."   
+   personality     perception   . 
+,             
+  . ,    intrinsic_rewards   
+       .    
+  , ,     ,    , Deadeye_Jackal, 
+     [] .   internalization     
+      perception       
+   []   .        
+   perception       ? 
+ ,            . 
+ ,    ,         
+   personality       
+         .   
+ 
+================
+            
+         .   
+  personality   ,        . 
+         .       
+              . 
+,          frustration_of_needs   
+loss  loss.     , ,   
+.        ,   
+       . 
+    mental_calculation        [action]    
+   ,      . "   
+            ,    
+      ."         
+      ",   "    
+      ,     "     
+"   "       []"    
+     ()    .      physical_quality  
+,    ,      
+. 
+  ,          loss   
+    ,    loss     
+loss  ,      .        
+        ,     .  
+ 
+================
+   perception      
+perceived_consensus   . ,     loss   
+       .      
+,        loss  . , 
+     perception       
+    ,         
+    [activity]   [activity] .  ,  
+,           
+   ,   ,        
+ .            
+      appraisal       
+ . 
+ ,   .          
+              .   
+  ,          
+   "     ,     
+    () "    .      
+  ,       loss  loss  
+; ,        ; ,  
+            ;  , 
+           [] . 
+ ,             
+            
+ 
+================
+       .    
+   ,        
+loss.        .      
+             
+     .            
+   loss.         
+    loss    impact. ,   
+        [],     
+     ,        
+.   impact         
+    possibility_effect  ,     
+.   possibility_effect ,         
+  mental_calculation. 
+         constraint.  
+      ()        
+            constraint . 
+,     constraint    
+  [action]   []  .        
+   ()      ,       
+      . 
+  possibility_effect    loss   ,    
+      ,      ,   "  "   
+ . ,             
+ 
+================
+ extrinsic_rewards.           
+   [circumstances]          
+          [circumstances] . ,  
+    , [norms ],        
+          .  
+        personality   
+    []        . 
+   
+ ,    []  .    perception   [] 
+  []            
+    []. ,   belief     
+       "     
+     protection_effect personality     
+."             
+fear_arousal       .  belief  
+       intelligence  "    
+    [action]    ,       
+[action]"    " possibility_effect  ." 
+               
+            []   
+.         []     
+    possibility_effect  perception   ,     
+ , .   []            
+ 
+================
+         ,   
+           .  
+            
+personality         . 
+             
+.        []    
+       perceived_vulnerability     
+   .    [capability]      
+  .  ,        
+     personality .        
+,      possibility_effect      
+      ,   intelligence  
+       . ,  
+           
+. 
+ ,           
+   intentionality   "    ."  
+      protection_effect "       
+      ."   , ,  
+Deadeye_Jackal ,       .  ,   
+ extrinsic_rewards,          "  
+ "  .   ,       protection_effect 
+   .          
+ 
+================
+,               
+       .  ,     
+  situational_circumstance        
+          ,   
+possibility_effect              
+ .        ,    , 
+   ,   intentionality  "    
+ ." ,         .  
+         ,  
+     . 
+ gain   , personality  participant_modeling   role  
+  . personality     protection_effect   
+     ,         
+     . personality   gain  []  
+    simplifying    .    []  
+    possibility_effect        
+     []  .   simplifying  
+perceived_vulnerability  extrinsic_rewards       . 
+       personality  [policy]   
+     protection_effect .      
+     ,   perceived_vulnerability  
+ ,   loss        . 
+     combining        personality  
+ 
+================
+      personality ,   ,  
+personality       .  ,   
+        ".. .  
+            ." ,  
+    ()       
+  personality ,     perceived_vulnerability   
+  simplifying       . 
+,    perception       
+,     [] .     
+        ,     
+          perceived_vulnerability 
+     perceived_vulnerability   ,       
+ . ,        protection_effect  
+     [] behavior  .  , , 
+        history,   personality   protection_effect 
+    .   ,      
+ ,  protection_effect  ,   protection_effect  impulsive_effect   
+    . ,      
+  [norms]    . 
+     personality  ,  , 
+           
+    perception    .    
+[norms]       "participant_modeling      
+ 
+================
+        .. .  
+      behavior " .   
+         .   
+belief  [norms]  []    [] behavior  
+personality,     "combining  persistence     [norms] 
+.. .      perceived_consensus ."   ,   
+            personality 
+        .    
+belief              
+     ,      []. 
+,      perceived_vulnerability        
+     possibility_effect  segregating  personality []. , 
+    appraisal        personality 
+              
+. 
+,   ,    "    
+  "  "     ."  ,    
+ [norms ], ,     []      
+         personality        
+       .  ,    
+      , "     
+             
+      ,"     
+ 
+================
+    ,      segregating .  
+        perceived_vulnerability "    
+  perceived_uniqueness  "     possibility_effect   
+  . ,         . 
+        ,     
+         .  
+,              
+,               
+ .            
+   . ,      ,        
+    ,          
+ .   ,      "     
+    ." ,       ,  
+            . 
+  ,            
+ ,       []   . 
+ gain     ,     
+           
+.  perceived_vulnerability            
+[]  combining  . ,       combining 
+    .       , "  
+  extrinsic_rewards           
+ ."   simplifying  perceived_vulnerability      
+ 
+================
+       . 
+     
+      . 
+ ,  perception         
+       [],        . 
+   personality       , 
+       [norms]  [] behavior  
+.          . 
+   
+         ,  
+              
+           personality .  
+physical_quality,      loss   .  ,   protection_effect 
+ []  . intelligence,  perception     
+    ,   syllogistic_rules        .  
+    , [norms ],      
+  ,          
+            .  
+,    intrinsic_rewards  combining ,   
+[]      .    ,    persistence  [policy] 
+  ,         "personality  [norms ], , 
+ ,   [activity]  " . 
+      extrinsic_rewards         
+      [norms]    techniques 
+ 
+================
+  ,          .  
+    "  [capability]  techniques      
+      impact"    .    
+    .      "  
+           ." , 
+       extrinsic_rewards      ".. .   
+   ..."       
+ persistence .        
+            
+      .  [knowledge]    
+        ,       
+         .    
+       ,     
+, "           
+, .. .  .      , 
+.. .  ." 
+    ()        
+         .     
+         extrinsic_rewards .  
+            
+     intentionality  "    [policy ],"  
+,  "simplifying          
+." ,            
+ 
+================
+     personality       perceived_uniqueness 
+    impact   , "     
+   perceived_vulnerability ."   ,       
+          . 
+        extrinsic_rewards. "  .. .   
+             
+."  ,  extrinsic_rewards       [norms] 
+  behavior        ; 
+      gain   .  ,  
+  "      ,      
+ [Organization ],              
+   perceived_responsibility     ." 
+         ,     
+        intrinsic_rewards.   
+     extrinsic_rewards      intelligence   
+   simplifying    ;   
+"  [capability]"      .   extrinsic_rewards " 
+       ." , 
+             
+  perceived_vulnerability           
+. 
+ ,      loss      
+      .      , [norms ],  
+ 
+================
+       . ,    
+       [] behavior    ,  
+.     "        
+       ." ,   
+  personality ;     personality .     
+  fear_arousal. 
+ 
+ 
+ . ,    protection_effect , (  :   ,  ),  
+ . 
+ . 
+ 
+ . , ","    [policy] ,  ,  
+ . 
+ 
+ , "      ,"  ,  , , ://../.?=, (  , ). 
+ 
+ . , ., ":         ,"       , , ,  , ,    [], 
+://.[] ./////., (  , ). 
+ 
+  , "        ," (  : .  ,  , ,    , ), , ://..////., (  , ). 
+ 
+: !, ://..///////, (  , ). 
+ . 
+ 
+. 
+ 
+================
+ 
+ , "& :       ,"    ,  , . 
+ 
+"   perceived_vulnerability,"   ,  , , ://..//.?=,,, (  , ). 
+ 
+" :  focus    ," ,  , , ://..//, (  , ). 
+ 
+ , "        ,"  , . .,  , , 
+://..//////, (  , ) 
+ 
+" :  focus    ," ,  , , ://..//, (  , ). 
+ 
+ , " ,   ,"  ,  , , . 
+ 
+ , ", ,  : Vulnerabilities  [policy]   ,"      , ,  , , . 
+ 
+ , "  , ,"   ,  , . 
+ . 
+ . 
+ 
+"   ,    ,"  , ://..///%., (  , ). 
+ 
+" : , :   ," .,  , , ://..//, (  , ). 
+ 
+ , "       .     ," ,  , . 
+ 
+  , ://../. (  , ). 
+ 
+ . ,    protection_effect , . 
+ 
+   , "  [policy]    ,"  ,  ( , :    , ). 
+ 
+================
+ 
+, . 
+ 
+  ,       ,      , (  : .  ,  ), , ://..////., (  , ). 
+ 
+   , "     :      ,"           ,  , , . 
+ 
+   , . 
+ 
+ , "          ,"  , . , . ,  , . 
+ 
+ , "      ,"  focus,  , , ://..// (  , ). 
+ 
+ , "     ,"  ,  , , ://../. (  , ). 
+ 
+ , ":     perceived_vulnerability   ," ://../////..perceived_vulnerability /., (  , ) 
+ . 
+ 
+ ,  . ,  , ., "  Impact   ,      ,  , , , 
+://..//////., (  , ). 
+ 
+,  .,  . 
+ . 
+"      ," 
+    ,  , , ://...///, (  , ). 
+ 
+ , " :  focus    ," 
+://..//, (  , ). 
+ 
+ ,  ,  ,  , "  :   ," (:       , ), . 
+ 
+   , . 
+ 
+, . 
+ 
+ ,  , . 
+ 
+================
+ 
+ ,  belief     [Organization ], ( :  , ), . 
+ 
+ . , "      ,"  ,  , , ://.../////., (  , ). 
+ 
+ . , "  ?"   ,  , , . 
+ 
+..  , "   :   ," 
+://.../////%%% ., (  , ). 
+ 
+, . 
+ 
+, . 
+ 
+..  , "  ,"   task  ,  , , , ://...///. (  , ). 
+ 
+ , . 
+ 
+  , " ," (  :  , ),   - . 
+ 
+, . 
+ . 
+ 
+ , . 
+ 
+., . 
+ 
+ . , "  ,"   ,  ,  , , ://...///., ( , , ). 
+ 
+ . , .,      , ( , :  , ), . 
+ 
+  ,  (), ://. .///. (  , ). 
+ 
+ . ,     :     , ( , :  , ), . 
+ . 
+ 
+ , intrinsic_rewards , "  ,"  , , ://../., (  , ). 
+ 
+================
+ 
+,     :     , . 
+ 
+ ,      :  , (, :   , ), . 
+ 
+ , intrinsic_rewards . 
+ 
+ , . 
+ 
+ . , "          : arousal    ," ( , :    , ), , ://../ 
+/?=&=&=. (  , ). 
+ 
+, . 
+ 
+, . 
+ 
+    . , "        ," , (, :   ,  , ), . 
+ . 
+ 
+ . ,   ,     :     , . 
+ 
+,     :     , . 
+ 
+,  - . 
+ 
+ ,  . ,  , "       :   focus        ,"  , ://...///// . (  , ). 
+ . 
+ 
+,     :     . . 
+ 
+, . 
+ 
+, . 
+ 
+  ,     perception, (  :   ,  ), . 
+ 
+ . , "     ,"      , .  . , (: personality , ), . 
+ 
+================
+ 
+ .    . , "  personality :       perception,"      , .  . , (: personality , ), . 
+ 
+ . , "      ,"   ,  , , ://..//// ,,,., (  , ). 
+ 
+, .. 
+ 
+., . 
+ 
+  ,    , "  ,"  ,  , , ://..// 
+., (  , ). 
+ 
+, . 
+ 
+"    ,"   ,  , . 
+ 
+, . 
+ 
+ , "    ,"   ,  , , ://..// 
+?=&=&=&=, (  , ). 
+ 
+  , " :         ," ://..///., (  , ). 
+ 
+, . 
+ 
+,  
+ 
+  perceived_vulnerability  , ://. ./. (  , ). 
+ 
+  , ,   , (, :   , ), . 
+ 
+., . 
+ 
+ . , ., personality   Tactics, (  :    , ), . 
+ 
+. 
+ 
+ . , .,   :   , (  :    , ), . 
+ 
+  , ,   , . 
+ 
+================
+ 
+,  ., . 
+ 
+, . 
+ 
+,  ., . 
+ 
+ . ,     Deadeye_Jackal :         , (, : , ), . 
+ 
+ . , "     ,"   ,  , ( , :   , ), 
+://..../////., (  , ). 
+ 
+" history    ,"  history , 
+://..//. (  , ). 
+ 
+, . 
+ 
+  , ,   , . 
+ 
+ .    . ,      , , ://..////. (   , ). 
+ 
+   , . 
+ 
+  , ,   , . 
+ 
+   , . 
+ 
+., . 
+ 
+ . ,         , (  :   , ), . 
+ 
+ , ":     ,"     ,  , , . 
+ 
+., . 
+ 
+  , ,   ,  
+ 
+ . , [policy]     :      , (  :    , ), . 
+ 
+, . 
+ 
+ , "      ,"  ,  , , ://../.?=., (  , ). 
+ 
+================
+ 
+   , . 
+ 
+., . 
+ 
+., . 
+ 
+================

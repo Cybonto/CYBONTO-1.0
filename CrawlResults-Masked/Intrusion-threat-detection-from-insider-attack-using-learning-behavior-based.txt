@@ -1,0 +1,425 @@
+      . (), .  - ,  ,  
+   ://../ : ./. 
+  -  ©    
+    
+ perceived_vulnerability      
+  
+ *, .  , .        
+      ,   . 
+  ,  
+  ,    ()       perception   behavior_control-ability  ,      techniques    .     ,         .       combining         participant_modeling    -       [activity]   loss          .        ,  combining           .   ,         simplifying      .     [activity]   ,    [activity ],  perceived_vulnerability   perceived_vulnerability   appraisal.           
+  . 
+ :  ,   , combining . 
+ 
+    ,    learning   intrinsic_rewards.         ,    impact      .                  protection_effect .    ,    (..)           learning  intrinsic_rewards. 
+       fear_arousal     ;             perceived_vulnerability   .           ,           [activity ]. ,              .      combining       ,     
+* .  : @.. 
+      .    personality             (  ., ).   ,    ,         [activity]                 . ,         ,     [action ]. 
+   ()    perception   behavior_control-ability  ,  combining  techniques      .     techniques          judging         perception  (  ., ;   ., ).     ,         .        combining [activity]            -         [activity]  loss        . 
+================
+  ,             ,       perceived_vulnerability : () / ; () ,     ,  ()   .                .    ,    , ,  .            behavior               perception  perception       .    (../),  perceived_vulnerability        ;  perceived_vulnerability     : ,    . 
+,   (%)        (  %   ).     ,      , %   learning             .   perceived_vulnerability     . ,   extrinsic_rewards      ,   ,         simplifying    [activity]      .   arousal  ,      impulsive_effect,     ,   satisfaction_of_needs extrinsic_rewards  .      gain  perceived_vulnerability,  : ()  /  /  ; () behavior  ([skill] /),  ()     . 
+      : ()        combining      perceived_vulnerability  behavior ; ()  perception      ; ()  ,     perceived_vulnerability; ()  combining  [knowledge]   [activity]         behavior   . 
+      ,    (  ., ),    behavior -     , combining, ,      perceived_vulnerability (  ., ).        combining  [knowledge]   [activity]         behavior   . 
+,   ,      [activity]    ,     perception  , personality         .          (   )         . 
+  .  
+    
+             behavior .     . (),   behavior       simplifying     behavior  .        behavior           behavior      .   (  ., )  behavior          perceived_vulnerability            experiential_awareness behavior  .                   .   (  ., ),        syllogistic_rules  self-efficacy          behavior      extrinsic_rewards.  generalizing  self-efficacy               behavior           behavior. 
+  ,  behavior         ;              .  ,     () ,  behavior     ,                 (  ., ).     . () behavior        ,  focus              behavior ,               :  ,  ,   [resource] . 
+  (  ., )      ,    ï        loss         .       belief         personality      behavior.    perception    . (),          behavior : ()     ; ()          ,  ()                  . 
+  ,           Flooding,  perceived_vulnerability   [action ]. ,       ( ,  , ,    
+================
+ . . . . 
+).      [activity]    . ,      process      .   (, )    behavior ,  , ()  , ()  perception ()  [knowledge]  ,  ()   .    personality   personality   behavior       ,       combining        .       perception      ,        [activity]       syllogistic_rules          . ,  (  ., )    belief         ,   situational_circumstance ;            [Organization ].           simplifying      behavior. 
+              behavior ,            mental_calculation       behavior   .   perception,         [activity] ,       [activity ].    personality   personality   behavior          perceived_vulnerability,       combining         .      perception      ,        [activity]       syllogistic_rules,      (,   )    . 
+,      behavior      combining   perceived_vulnerability   [activity ]. ,   ,             [activity]        .      perception    behavior    .   [activity]  ,       behavior.                .    (  ., ),              ;  combining         .            behavior           (../~/.). 
+  
+          simplifying      behavior.               behavior ,          mental_calculation       behavior  . ,     behavior      combining   perceived_vulnerability   [activity ].   . ()   behavior                , ,         .    , personality, ,         .    behavior       (behavior  ,   ). ,    (  ., ),           behavior    .    .  intelligence,   (  , ),             . ,     ;    behavior                     imagination    .              focus.     . (),           ;          . 
+  [activity]  ,       behavior;              . 
+,   ,      ,   ,         simplifying    [activity]      .   arousal  ,     impulsive_effect,     ,   extrinsic_rewards  . 
+               protection_effect     certainty_effect evaluating   . ,   combining  (   ), perceived_vulnerability appraisal           .                      .           participant_modeling        intrinsic_rewards.                     .                  . 
+,   ,     : ()         simplifying   ? ()                    ?  ()   combining  perceived_vulnerability           ,       . 
+behavior  
+,             process    .  focus         simplifying      ;      ,    ,             personality        ,  () .   
+================
+  .  
+                 . 
+    . ()   behavior        ,                behavior .   ,                 ,  ,   [resource] .   (  ., )      ,    ï               ,     belief         personality      behavior. 
+  
+ .    . 
+ personality   personality   behavior       ,       combining        . 
+ ()      behavior          process.    ,                 .   ;   ()  : , , , ,  ()  : , , ,  , . ,          ,  , ,  ,  . 
+   ,         ,   perception (ï  ),  [activity ],  , subjective_norms ,  , planning,  .        ,      .  /          /     . ,         .   perception    . (),          behavior : ()    ; ()   . 
+           ,           [activity ]. ,   . ()    behavior         .     focus    protection_effect,     syllogistic_rules   behavior   .      . ()    behavior,          ,    ., ()       belief       certainty_effect   .    (  ., )   belief  combining       ()           combining     .         . â   ()    . (),     perception     combining           . 
+,               .           ,       .     perceived_vulnerability  : (.), (.), (.),      (..)  perceived_vulnerability  (..),            perceived_vulnerability   . 
+   ,     (  ., ),   : () ,      perceived_vulnerability  ,      ,     ; () ,        perceived_vulnerability       ;         opportunity_for_criminal_acts   ;     ,    techniques ,   ,    , ; () ,      ,        ,       ,  () , loss ,    intentionality   combining      ,  ,         . 
+  ,     syllogistic_rules   behavior   .     /       .     ,         behavior  [activity ]. 
+ perceived_vulnerability appraisal 
+ ,        
+================
+ . . . . 
+loss     . ,    personality  combining     [activity ],   .                        [resource]   . 
+       ,             ,       /           .   (, , )    ,    [activity ],  perceived_vulnerability,     . 
+,    (),      perceived_vulnerability,    / ,            ,   [activity]            .          perceived_vulnerability   perceived_vulnerability,     perceived_vulnerability    .   ,      , ()  [activity]     perceived_vulnerability,  ()       [activity]   perceived_vulnerability. ,    ()       [activity ];   perception,   behavior [activity]    ,     . 
+             ,   ()   ()    ().
+ () 
+= {, , , , , , , , , .. .} 
+ ↔  ()= {, , , , , , , , , , , , } 
+ ↔B ()= {, , , , , , , , , , } 
+ () 
+{() 
+()} 
+ ()= {ø,{ }} 
+() 
+=  / / impulsive_effect 
+() 
+,  ()=   perceived_vulnerability;  ()= / ,   ()=  [activity ]. 
+,         ,   ()   ()    (). 
+= {, , , , , , , , , .. .} 
+ ↔  ()= {, , , , , , , , , , , , , , ,
+ () 
+, } 
+ ↔  ()= {, , , , , , , , , , } 
+ . ()    ; ()     ,  ()          . ()   .    ,       . ,    ,          . 
+ () 
+{() ()} 
+ ()= {ø,{ }} 
+() 
+=  / / impulsive_effect
+ () 
+ [activity] 
+          satisfaction_of_needs      :   (, , , , ,  ). ,           ,       personality perceived_vulnerability.       ,              [resource ],            .  ,   /       . 
+,    perception    combining            [activity] 
+  [activity]  ,       behavior;              .   . ()   behavior   .               behavior     ,     [resource] .        simplifying behavior                           .   
+================
+ .    perceived_vulnerability. 
+ 
+  perceived_vulnerability  
+ (, , , ) 
+    ( ) 
+  .  
+  ( ,    (),  ,  combining syllogistic_rules / ( ,  ,    loss,  
+, ) 
+  ( , )   (Brute_Force, ) 
+() 
+  
+  (, Phishing) 
+  (, ,  )   (, Phishing/ Pharming) 
+, , ,  Rootkit 
+  (&  ) 
+  ( ,  live_modeling,  perceived_vulnerability,  ) 
+ personality    
+ .   . 
+ ()      techniques   .                         behavior ,   .    ,  ()           . 
+,   . ()        perceived_vulnerability           [activity ],       (  ., ).             .  ,          . 
+        [activity]  /   syllogistic_rules. syllogistic_rules    ( ,  ),    ( ,  /),  
+ .  behavior [activity ]. 
+ 
+() 
+ [activity]  
+   -        
+  
+ 
+ 
+   
+  ( , / ),     ( , ).   ,        [activity]   ,    syllogistic_rules [activity] . 
+,      behavior      combining   perceived_vulnerability   [activity ].    . (), behavior             , ,           , personality, ,         .    behavior       (behavior  ,   ).   . ()             behavior    . .  intelligence,    ()          
+================
+ . . . . 
+ .   combining behavior . 
+ .   syllogistic_rules  [activity] . 
+syllogistic_rules 
+ (  ) 
+[activity]           
+ process   
+ 
+  ,     behavior ; ()    [activity]   ,  ()   [activity]  syllogistic_rules,       . 
+   
+ (  ) 
+  
+       
+ 
+ (  )  (  ) 
+Flooding (/    
+   . ,    ,    behavior                      imagination    .              focus. 
+  ,     ,       combining        , ,        combining     . ,   combining       .    ()          . ,           [Organization]          . 
+,              .    ,    ,   .   ,    ,           [activity]                ,       ,   . 
+   (, ;   ., ),       ;             ,          .  ,                       [function] .  ()          :  ,   ,  [capability ],    / protection_effect.   . ()      .    intentionality     perception  
+================
+  .  
+ .     ,     syllogistic_rules. 
+ ,  
+[activity] 
+ 
+   -        
+  
+ 
+ ,  ,  
+, ,  process :  ,  ,   ,  ,  ,  . 
+ ,     . 
+ , ,  
+( ),      . 
+, ,  
+ .    syllogistic_rules,   syllogistic_rules . 
+[activity]     
+   
+  
+!, , , , , , . ,  . 
+, , physical_quality  ,        
+.      behavior     Collection,          ,               . 
+      techniques   : ,   .     combining   perceived_vulnerability   ;     impact   task   ,        .  ()     ()          behavior.             protection_effect      [action ]. 
+,           ,      evaluating.   ,     intrinsic_rewards     ,    perception,  ,   ,          . ,     perception     techniques        .             protection_effect ;              , intelligence,              . 
+    
+  perception ,             .     ,     .           ()  ,                  .                  .   ,              . 
+   ,           .  experiential_awareness   perception            ,    .     ,        .       ,    evaluating     . 
+        .   ,          ,         .             . ,      /     process. 
+  
+  ,     ,         : ()  :   ,   ,     ,              personality  Collection     protection_effect   combining,  () :      ,     ,    isolation_effect ,      .  protection_effect      personality  . 
+          combining ()    .      focus        ; ()                  [function ];          segregating   ,  ()  ,    ,          . 
+   perception 
+,    process       perceived_vulnerability.    [activity]  , 
+================
+ . . . . 
+ .     . 
+ .   . 
+ (, )   
+  () learning ()//      =   
+   
+   ≠   
+   
+   ≠     
+   
+ 
+   
+  
+  
+   behavior [activity] .         combining    .   
+  : 
+ :        ,        
+ perceived_vulnerability appraisal 
+= //       <>   
+ () 
+ (, ) 
+ () 
+  () learning () 
+ =   
+=  
+ =   
+=  
+  =   
+=  
+ 
+=  
+  
+  
+ 
+ (, ) // 
+ =      
+  =   
+       
+ =   
+         
+  
+================
+  .  
+ .   ()          ,   ()        . 
+ .  . 
+ 
+          . ,               .                behavior.               behavior ,          mental_calculation       behavior  .   perception,         [activity] ,      [activity ]. ,      behavior      combining   perceived_vulnerability   [activity ]. ,   ,             [activity]        . 
+   ,              ; ()      ,  ()     .  ,               combining 
+   : ()     (); ()    (),  () . 
+      ,     ; ()      .       ,   ,      ,      ,     ; ()         ; ()              syllogistic_rules        .   ;  ()               . ,      .  perception     personality      simplifying, combining       . 
+  
+           ,    .  
+================
+ . . . . 
+ .  . 
+       
+ . . . . . . 
+/ . . . . . . 
+ .    . 
+[activity] 
+ 
+ 
+ (%) . . . . . . 
+ (%) . . . . . . 
+   ,  ., ,  (..)  personality    (, , , , mental_calculation, ) 
+         
+ 
+ -  
+, ,  
+, .,   , ://.. 
+!, ,  ://..   
+ 
+, ! ,  ,   
+  
+,  ,  syllogistic_rules,  syllogistic_rules, /    , ./,  , ,  ,  
+,  ,  
+    personality       ,   personality      . ,                        . 
+ isolation_effect                  . .       ,    .                           . 
+  ,  ()       ,  (),                                 .     process   ,        (). ,  ()         . 
+     . (),   . (),   . ()   perception    : ()  perception         [activity]   ; ()  perception    
+    combining    perceived_vulnerability,     ; ()             ,  [function]    combining,   ;  ()         ,       . 
+belief    
+           ;                  ,                 ,   , , ,        personality.  ,           ,      .  ,                      [activity]   . ,     
+================
+  . 
+ ()
+ ()  
+ 
+ 
+ 
+ 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+...
+ ()
+ () 
+================
+ () 
+ . . . .
+ ()  
+ 
+ 
+ 
+ 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+...
+ ()
+ () 
+ .   .  ()      , ()     techniques, ()  ,  ()  . 
+================
+ techniques      [activity]   .  perception    behavior    ,     perceived_vulnerability appraisal,       perception.   ,           perception    . 
+ 
+                ()      : .... 
+ 
+ , , ,   ().      
+     . . . . ., (): 
+. 
+â ,   ().     . 
+. . ., : . :./....  ,  ,   ().   
+   simplifying    . 
+    intelligence    
+     , .  
+. 
+ ,  ,  ,   ().   
+     behavior .  
+   , . . 
+:./. 
+  ().      
+ .    , :  
+. :./.... 
+ ,  ,   ().     
+.        
+ (  ), . . 
+:./.. 
+ ,  ,   ().    . . . 
+., : . :./.... 
+  ().   behavior.    
+     , . 
+:./.. 
+ ,   ().    :  
+[]     behavior   
+  .,   , ,  
+. . . . . . ., .  
+. :./. 
+ ,  ,   ().     
+       [modeling ]. 
+       
+belief, .  :./.. 
+ , -tien ,  .-gang, ,   ().  
+        
+ protection_effect. , . . 
+ ,  ,   (). behavior    
+.    , ..  ,   ().       
+   behavior. . , ():  
+. 
+  ().    ()   
+  .  , : . 
+ ,  ,  ,   (). behavior  
+      .  
+          
+     (). 
+  .  
+ ,  ,   (). self-efficacy   : 
+        behavior. . 
+. , : . 
+  ().  . & , :  
+. :./.... 
+ ,   ().    . . 
+. , . . 
+ ,  ,   ().   . 
+ ,  (), . .  . 
+:./() 
+ ,  ,   ().     
+     .  
+, .. 
+ ,  ,   ().     
+  .    
+   () : ). , : 
+. :./.. 
+ ,  ,   ().   perceived_vulnerability  
+     . . . 
+. .  ., (): . 
+ ,  ,   ().    
+    . . ., (): .  ,  ,   ().   
+  . . . . ., (): . 
+:./ 
+  ().  behavior   : 
+     , . 
+. . 
+ ,  .-cT,   ().     : 
+personality  behavior   . .  
+       
+  , . . 
+:./.. 
+ ,  ,  ,  , ,  ,     
+().        . 
+         intelligence 
+  , . . 
+ ,  ,   ().  
+ .   , (): . 
+================

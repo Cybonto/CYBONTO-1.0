@@ -1,0 +1,139 @@
+     
+   
+,   
+ @. 
+ belief    
+  
+   
+   
+,   
+ 
+@. 
+isolation_effect 
+ 
+             ,       .   ,             .             ,           .   ,      perception   .     belief   possibility_effect     perception     .  mental_calculation                    ( ).  ,     belief            .  focus        ,     .        possibility_effect,         perception.           techniques  . 
+    
+. [ ]:  
+  
+ ,  belief, ,   
+ ,  ,  
+.  
+        perception          . ,        .              perception   ,  ,           .         , ,  . 
+                                extrinsic_rewards   gain              .   ,  ,         ,     /  . 
+,  ,  , , . 
+ ©   .. .$..
+ 
+ 
+           -09 -1-0752. 
+     
+   
+,   
+ @. 
+   ,      
+     . 
+() protection_effect  :            protection_effect        (),    ()    protection_effect   (),   personality  ().        ,     .       protection_effect    ,      . 
+()    :       combining  extrinsic_rewards       . ,  ,          .           .   ,         . ,       ,           ,         experiential_awareness       . ,         . ()  .     :    perception,             .             .      ,  protection_effect         perception. ()       :    intrinsic_rewards              ( ).  intrinsic_rewards        personality ,                .    ( )               /    . ,  intrinsic_rewards       . 
+   perception :     extrinsic_rewards        ,        ,         .                    .             ,       . 
+     perception                
+================
+     perceived_vulnerability    ,   satisfaction_of_needs     .     perception    .      : ()           .                 (      ).     / . ()               intrinsic_rewards    . ()       protection_effect               . ()  ,               perceived_responsibility            .  comply_effect             extrinsic_rewards        .             ,            belief.                syllogistic_rules            .       perception     belief.  belief              loss     .  loss                      [action ].                loss              .        (     ) : ()     [policy]      (),      (),      (); ()               ; ()             process; ()          ,           ; ()             . 
+      : ()              ,   syllogistic_rules           ; ()       experiential_awareness,              ; ()     evaluating        intrinsic_rewards                 ; ()        evaluating ,         source techniques ()   Rootkit      ,          .  perception     personality     mental_calculation               [policy]   ,    ,     .  belief   possibility_effect     simplifying         .      
+protection_effect  
+  
+...   /  
+ 
+    
+   
+  :    perception 
+ personality  personality         simplifying   .  gain,  belief   [capability]  judging           [action ]; ,      process        . 
+                   ( ).  ,                         ( ), [modeling]   ( ),       ( ),    ( ),   . 
+        :      perception     belief    ()        .                  . 
+  ,   .          ,    ,         techniques  . .   belief    () 
+               .         "  " perception  protection_effect   .    perception    [policy]      [rewards]       behavior.                    loss  extrinsic_rewards     .            .   ,      
+================
+              loss, ,  .              :           ,   ,   personality .                 combining, ,          .    ,             perception   [activity]       . ,                 [] ,      , participant_modeling     ,     . 
+ :       syllogistic_rules .          belief   techniques       .        personality             possibility_effect  ( ),                    .              ( ). 
+      ,           ( ).  []             (..,      )    .   [] ,     gain    loss ( gain ). intrinsic_rewards                gain         .      perception       belief   ,            ( ). 
+ ,         ( )           []   ,                    
+   .   ,      (..,             ())  comply_effect          .           learning  , ..,       perceived_vulnerability. ,   ,   belief         .  personality  belief             personality .          []        perceived_vulnerability, ..,         []    perception    .    constraint   ,               . 
+ ,            /            belief     .          perceived_vulnerability          , ..,     . ,               ,           gain   .                , ..,     . ,          . .        
+ ( ),          .  ,       ,           certainty_effect ()  γ    ()  γ               .     ( )            .     belief  focus                .   perception        belief  possibility_effect   comply_effect  . ,     ,   ,             .       ,    learning   .       techniques,     ( ),      gain     .     .      perception ( ). ,     ,        ,    ,  personality    . 
+        ( )        []              [].                   .     intelligence             [].               learning   .      simplifying         .    
+================
+ protection_effect                    loss     ,     extrinsic_rewards  .        techniques         ( )      learning           ,      .                ( ). ,                      ( ). 
+ .         
+   
+    
+combining? ? 
+  
+  ( ) 
+  []  
+ 
+  .   
+() 
+  
+   . 
+  
+() 
+  []  
+ 
+   ( ) combining 
+ 
+ 
+  
+  
+  
+  perception 
+combining 
+gain 
+ 
+( 
+ 
+gain 
+ 
+ 
+) 
+ ε-equilibrium 
+(   
+ 
+) 
+ 
+  
+  
+perception 
+  
+  
+combining 
+gain  gain     ,                 , ..,                ~ Ɲ(γ, σ)  ~ Ɲ(γ, σ).         gain  σ  σ.   focus    extrinsic_rewards        σ  σ   .       experiential_awareness         .      ,    perception,    judging             ().   .   personality      ,               ( ). ,     perceived_vulnerability [function]       perception . ,                      .   judging                     . ,   judging          
+ .    judging    ( ) ε-equilibrium      ,          , .            .  gain,   focus                  [action]          [].               []     [action]    .                   . ,             . .  
+[]  .   . .     
+ segregating ."  . .  personality 
+  .  , . [] , , , .  , . . satisfaction_of_needs  
+   . .    . [] , .  , .. .    
+ . .        
+    . 
+[] , .  , . . personality   
+.  : . 
+[] , .  , . .   
+      ", 
+.   .     intelligence. [] , ..  , ..  , . . 
+personality      
+"..    .   intelligence. [] , .  , . .     
+combining  . .     (). [] , .  , . .   
+   ".   (). [] , . . .       
+   ".     
+    . 
+[] , .   . .     
+."  .     (): . [] , ., , ., , ., , ., , .  
+, . .     belief    
+ ." .    , . [] , ..  , .  , . . 
+       . 
+.  personality    . . [] , ., , ., , ., , .,  , . . 
+        
+.        . [] , ., , .,  , . .   
+    ,    ?  
+intelligence, . 
+[] , ., , ., , ., , .,  , . .  
+[modeling]       
+     , . 
+================

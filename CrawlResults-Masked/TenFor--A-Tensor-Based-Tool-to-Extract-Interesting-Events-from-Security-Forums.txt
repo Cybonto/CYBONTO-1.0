@@ -1,0 +1,319 @@
+ /           () 
+:       
+    
+    @. 
+    
+  @. 
+        ""       ?     :    combining       [knowledge ],             .    ,            perception,         ﬁ .   ,    perception,   combining      : () , () ,  () .       : ()       , ()    ﬁ       ,  ()   ,   combining         .  gain,    perception   personality     .   appraisal,  ﬁ  %         ﬁ       .  perception                      . 
+  ,  ,  . 
+.   
+:. [.]    
+    extrinsic_rewards      .                  .                extrinsic_rewards   :    ,    ,   .                    ,               . 
+   combining           ?     ,             [activity]            .  ,       combining   ,     ,        ,       .                   :      ""     . 
+       perception   .   combining      : ()   , ()   ,  ,     ,  ()  /  ,  ,  
+//$. ©   
+ .  
+  @.. 
+  
+  @.. 
+ .       . 
+ :  :           .      ﬁ ,            . 
+   ,  , ,    perception    combining         .  perception       () , () ,  () .       : ()     , () ﬁ      ,  () judging   ,  ,             . 
+       perception    intrinsic_rewards    : ()      , ()      ,  ﬁ,   , ()    personality       ""   mental_calculation        ,  ()     personality ﬁ     .       . 
+,       : ()          , () ﬁ       ,  ,  ,     , ()        . ,                .    . 
+  appraisal,              combining   .  ﬁ  %   ﬁ             ,    , ,   .  perception       [], 
+================
+ /           () 
+ :     . 
+  .      
+ 
+     
+     
+     
+personality  
+ 
+ 
+ 
+ 
+[]                . 
+   .   focus     ,         .     ,    perception       ﬁ  ,      ,    .   perception.    ,    personality         ,   .                   .        ﬁ [capability] :              ,  "  "   .               ﬁ  .   ,            . 
+.     
+         ,       :   (),    (),    (),     :     () [].        . 
+            .                 participant_modeling  belief.       ,    ""  "" . 
+                , , ,       .              []. 
+ ,     .           ﬁ ,        .       ﬁ       ﬁ      .  personality                 .         , :=( ,  ,  , , ,   ).           . 
+.   perception 
+ , ,    perception,  ﬁ       . .       .    
+ : ://.// 
+ :    . 
+     .          ,  ﬁ,  ﬁ,   . 
+     ,     : )    , )  ﬁ,  )      . . 
+     .       perception    ,     ,     ""  satisfaction_of_needs   . ,  intelligence             ,     ,    .          . 
+.  :   
+            perception,         . 
+  .    []      (   = ). ,        ""   ""   ﬁ       ;    ""    (),  (),     ().      , (,,),   combining    (   #)                  .   ,        ,     evaluating   ,    . .        combining    ..  combining      = 
+ (  ):  
+= 
+(:; ) (:; ) (:; )    ,   ,            ((:; ) (:; ) (:; ))(; ; )= (; )(; )(; )   , , .         ,       .  ,              personality   ﬁ       "  loss"      .    ﬁ   ,    ,    " "      . ,      ﬁ       ﬁ " ",    . 
+   techniques             . 
+.            ?    ,     
+================
+ /           () 
+ :      ( ,  ,  )  .        combining ,       ""   . 
+ []  ﬁ  evaluating ()   ,            .               ﬁ  possibility_effect   ﬁ    evaluating   . ,  ﬁ evaluating, ,       : = ( 
+;  ). .      ?       /  ()   ﬁ  .                           .            constraint   . 
+.         ?    ﬁ    (, ,  ),              . .       "ﬁ    ",       ()    personality  [], ()  ,  ()  . ,        constraint         ﬁ     ﬁ , ,  .     combining       .         . ,   ,  ﬁ         ﬁ , ,   .   ,      , ,      ﬁ    .  ﬁ      ﬁ     : 
+ ;; +( 
+  
+ 
+; 
+(; )+ 
+; 
+(; )+ 
+; 
+(; ))       (  )  = 
+ 
+(:; ) (:; ) (:; ).  ﬁ  ,     .        ,        ()    .       ﬁ    .        . 
+.  : ﬁ   
+   ,        ﬁ        . 
+ ..  ﬁ:    ﬁ          . 
+.  :  combining         ﬁ       .      ﬁ       focus    [].             .             ,       intrinsic_rewards    . 
+.  :        ﬁ           .    ,    ﬁ        .    ,              . 
+   [capability ],                . ﬁ,           [],  ﬁ    :   ()      ,     ;   (),          ;   (),        protection_effect    ; ,    (),            . 
+    ""       .  ,      ﬁ       .   ,              ﬁ   .      , , ,         .       combining              (ﬁ  :). 
+ .. behavior ﬁ:      ,    ,            .            : 
+.           ,      #, #, #personality  .     . 
+.     ,          ,   #  #,%  personality    (ﬁ          ﬁ    )          .   . 
+.              . ,          (  ):     ,      ,        ,     ,   personality     .             ﬁ       ,   ,  . . 
+        mental_calculation   ﬁ      . ,               /    
+================
+ /           () 
+ :     perception   :  : ;  : ﬁ;  : . 
+   []   ﬁ.    ﬁ   . 
+.  :    
+                    .      ,  [goal]         .                      . ,             : ()  ,  ()  . 
+ ..    :     , ,                          . .   ,    process  .             .   ,  ﬁ     , ,    .   ,        [],   focus                      .   ,                .  combining          .   ,  ﬁ    , ,   .   ,  ﬁ                       , ,   ﬁ           " ",  =%()   .   ,  combining                  .             . .          ,     mental_calculation    . 
+,  focus             "  "     personality    .   ,   mental_calculation        ﬁ   mental_calculation     . 
+ ..    :                   
+      .              .             .         .   ,                  [capability ].           . 
+.   : , ,   .      combining    , ,   ,  ﬁ [activity]       , ,     . ﬁ,    combining       ,        =.       mental_calculation  ""          . .          " ".       ,      personality       #    . 
+       ﬁ     mental_calculation   [preference]    . 
+.         :           ,            . ,       .        , ,             [], [].        combining    ,       ﬁ    .     ,      ,              . 
+     :       ,         intelligence     ,         : ()  : , ()      : , ()  : , , , /combining  ﬁ , ()       =%, () #     : ,  () #     : . 
+.    appraisal 
+             .              . 
+.        
+ .        .             .            ,       .      ,       personality    ,   ,     physical_quality    .  ﬁ          .    combining             ,    ,     .       
+================
+ /           () 
+()    #  #  , , , combining /    . 
+()   %  personality     , , , combining /    . 
+()  ﬁ     :     ,     .  focus :        ﬁ. 
+ :  ﬁ   . 
+ :      ,   .  =, =, =     ,     
+      combining   ,    . 
+    
+               
+ﬁ                
+# 
+   
+     ,       (..  ,  ,  ). 
+ .  ﬁ  .    , , ,  combining / ,   ﬁ .   #  , =.     combining          . 
+                . ﬁ,  ﬁ     : () %        ,   , () %           ,  () %     , ,  ,        intrinsic_rewards. 
+ . behavior ﬁ.      ﬁ     [activity]  .      personality,       ,        . ,        ,  ,        ﬁ   ,   .    ,         .   .  .   ,          ,             .   ,           extrinsic_rewards.         , , extrinsic_rewards,  . (       )     . 
+,  .     ,      [activity] :    personality           %!       ""            personality .         ( ,  ):    " ",              .     [activity]      . ,        ﬁ 
+#      combining /             
+  (%)   . . . . . . 
+  (%)   . .  . . . 
+  (%)   . . . . . . 
+     .     .         .  ,   ( ,  ),     ,        personality (physical_quality ) . ﬁ,           ()     ﬁ       ( ), ()    #  #        ( ),  ()  #   ( ).  behavior          : ()  ﬁ    , ()   arousal ,          ,  ()      " "     .            . 
+ .              ()  ,  ()  .                                 ,  ﬁ , ,  .  ﬁ       ,  ,          .   ,         combining                .  . ,             ( ,  )    .  ﬁ   , ,  %   .   ,    =          ""      .    ,        belief         . ,              ,                . 
+               personality      intrinsic_rewards. 
+================
+ /           () 
+ : judging   ﬁ     . (      ). 
+   
+.   
+ 
+  
+  
+  
+ 
+, ,  
+.  , ,  , ,  
+ &  ,   
+ 
+ 
+ 
+ 
+, ,  
+ , ,&  
+ 
+ 
+ 
+ 
+, ,  
+ , &  
+ 
+ 
+ 
+ 
+ & ,  
+ 
+ 
+, ,  , ,  , ,  , ,  
+, ,  , ,  , ,  ,  ,  , ,  , ,  , ,  
+  
+ 
+ 
+ 
+ ,   
+&   
+ 
+ 
+ 
+ 
+ & ,     &  ,    
+ 
+ 
+ 
+, ,  
+  ,   , 
+   
+ 
+ 
+ 
+, ,  
+ &  
+ 
+.    . ,           .  ,          fear_arousal             . ,                  . 
+.      .            . ,           ,    .  ,   (    )      , "", ""  "".             ﬁ          . ,  ﬁ  ""  personality      .   ,    ""          []. 
+. appraisal   
+mental_calculation     perception     ﬁ          .          a_memory   perception  judging    a_memory      . 
+. .             .  ﬁ  %               .                   []. 
+.  appraisal   .                  .      ()    (  )        ,  ()    ()   
+   
+()     /                 ,       . 
+   : )    extrinsic_rewards     , , )        . 
+()        ; ()       ; ()         . 
+        comply_effect          , .      experiential_awareness               .                 , . 
+         ,     .              
+                :    ,   ,    . 
+,    ,   personality          . 
+,         .   intentionality     ﬁ      . 
+.  appraisal  .                              .                    .    ,          appraisal  ()    ,  ()     .            ﬁ         .    /  (%)     .      ,       [],= :,         ﬁ   perceived_consensus   .   ,        .                    personality   perceived_consensus    . 
+.   .          ( , , ,  )         vicarious_experience    [] -  techniques,  [].     perception              .         .  ﬁ       %                .          ,    ,     "". ,  mental_calculation       personality   : ()     ,  ()      perception. 
+   ,          ﬁ   .          %    
+================
+ /           () 
+          .      physical_quality,              . 
+. a_memory.   a_memory   perception   .    "      ?"     ,               . .    [activity]    .        ﬁ [activity]         .   ,  ﬁ       [activity] (# ),     personality    (# )   .  ﬁ        personality ,       personality ,        personality    ﬁ     ""    (=). .       .      ﬁ           )  , () ,  ()   .               .  ,           [],        : () ()   , () ()  ()    ,  () ()  ()   . ,    ﬁ             . .    .      [],  ﬁ     personality .      :         personality  .        ﬁ        . 
+ﬁ,       ,  ﬁ  combining        ,   ﬁ  combining    . ,   ,  ﬁ              ﬁ .    ﬁ    (/  , / , /  .)      ()         .        loss,          .    mental_calculation  ﬁ           . ,  comply_effect         (   ),       (    ).       combining      "" ﬁ , ,   combining          . 
+        ﬁ-       () [].  perception       ﬁ  combining        . ,  ﬁ %     ,   ,          .          
+ :   :           appraisal. 
+ 
+ 
+  
+ 
+% 
+   
+% 
+ 
+% 
+% 
+% 
+            . 
+ belief,                  . ,                 . 
+. .       perception             .   ,         , ,    .     ,  ﬁ     combining  .    .   ﬁ     ,     personality  ,   ﬁ         !     ﬁ . 
+()   . ,              .              , "". 
+()  .  combining  impulsive_effect   " "       . ,  participant_modeling   , combining   ,      intrinsic_rewards,      intrinsic_rewards []. 
+()   .  personality behavior             ,           . 
+      extrinsic_rewards       ,       . 
+.  extrinsic_rewards.        .       ﬁ         , ,   .   .          .       .    ..        .               personality .          .        ://.//. 
+.    
+,      : ()   ,  ()        .          [knowledge]   [].        segregating     ﬁ    .                    .      ﬂ . 
+.   :    focus           
+================
+ /           () 
+  intrinsic_rewards         behavior []            .    judging         [],           [].    [], , ﬁ  ﬁ     ,         . 
+.        :            ,  , ,  .    simplifying     experiential_awareness   []  generalizing          []   [].     ,             .          .    [] focus        ﬂ ,       [].    []     perception perception       mental_calculation         . 
+.   :                []  personality         [],        [],      [].             .   ,       [], []        ﬁ   ﬁ . 
+.   
+ , ,    perception   combining       : () , () ,  () .  perception    : ()       ,       ﬂ  focus,   , ()     personality ,  ()  ﬁ     ,        ,  , ,   . 
+         [capability ],            extrinsic_rewards            . 
+.   
+             () extrinsic_rewards #. 
+ 
+[] . , . , . , . ,  . , ": 
+ personality  ,"      
+     [knowledge]   
+ , , . . 
+[] .   . . , "    
+:    ,"  personality   . 
+, , . . 
+[]  , " ,   ,   
+, ," ://../, ://.. 
+/, ://./, ://./. 
+[] . , . . , . ,  . , ": 
+       ,"  , 
+, . . 
+[] . .   . . , "   ," 
+ , . , . , . , . 
+[] . . , "impulsive_effect      
+appraisal,"  . , , . . 
+[] . , . ,  . , "   
+       ," , . , 
+. , . , ,    . [] . , . . ,  . , ":   
+ perception       
+   ." , . 
+[] . , . . , . , . . , . , 
+ . . , "      ﬂ  
+   perception ,"     , , 
+. . 
+[] . , . ,  . , "      
+[modeling] intrinsic_rewards     ," , . , . , 
+. , , personality     . 
+[] .-xxx. , . , . , . , . , . ,  . , 
+"         
+,"    , . , . , . , 
+, . 
+[] . , . . , . ,  . , " 
+    perception,"  , , . 
+. 
+[] . , "    :," ://.. 
+//, 
+ , [ ]. 
+[] . .   . , "       
+  ﬁ    ,"  
+  appraisal, . , . , . , . [] . , "  :," ://../ 
+/,  . [] . , "personality     - 
+," ://.../// 
+/. [] . , . ,  . , "    
+,"  . , , . . 
+[] . . , . , . , . . , .  
+, . , . ,  . , "   
+    ,"  , , . . [] . , . . ,  . , ":  
+        ," 
+ . , . 
+[] . , . , . , . , . , . , 
+ . , "judging       
+  ,"  . , , . . 
+[] . , . , . , . ,  . . , " 
+ : evaluating impulsive_effect     ,"  
+& , . , . , . , , . 
+[] . . . , . , . , . . ,  .  
+, "ﬁ:       
+  ,"    . , , . 
+. 
+[] . , . . ,  . , "    
+      + ,"  
+& , . , . , , . 
+[] .   . .   , "personality   
+    ,"  , , . . [] .   . . , ":   
+ ,"  . , , . . 
+[] . , . , . ,  . , "     
+,"  . , , . . 
+[] . . . , . ,  . . , "  
+ / :   ,"   
+intelligence  , . , . , . , , . 
+================

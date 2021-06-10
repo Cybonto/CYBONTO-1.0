@@ -1,0 +1,1113 @@
+ 
+appraisal      
+:      
+ ,   , ,  ,  , , 
+  ,  ,  
+ ,      $     ,    perception      .  ,       ,      participant_modeling        .          ,           (..,  ,     Collection )         (..,  ,     belief evaluating ).     ﬁ      focus   .    .    (     )          .  ﬁ       .            ,   ()      ﬁ,       . ﬁ,     . )                . )            participant_modeling  gain        ﬁ    [resource] . )        trap                 intrinsic_rewards    . )         personality       [rewards ]. )        ﬁ        . )     role   Collection      .    
+        . 
+  ,  ,  Trap, extrinsic_rewards  
+:. [.]    
+  
+ 
+ []       () 
+   ﬁ      .       ,                 .         .         ,           [].     ,  persistence       ,   .   participant_modeling        extrinsic_rewards  [], [],     ﬁ      []     combining ﬁ     , combining       , ..,     ,  intrinsic_rewards   []    extrinsic_rewards. 
+    ,       ﬁ  personality  
+ .       ,    
+ ,  , ,  , .  : 
+@....
+ .       ,    
+ ,  , ,  , .  : 
+@....
+ .         ,  
+     , , .  
+: @... 
+ :  .      : ://..../.. 
+ 
+         [rewards]   (..,  [rewards]  .   , appraisal  $,      ) [].   ,    perception    []   personality     .  perception    intrinsic_rewards   .                 [].     ,   [rewards]       extrinsic_rewards  [].  perception              []. 
+,             ,           . ,                [], [], [].         []    []    % ,           %     combining       [], []    . ,       personality     [], [], []        belief. ,   behavior ﬁ-                   . 
+,       ,     focus          ,     
+================
+ 
+     .  ,  focus      , ..,  [],  [],  []  . [].          . 
+()        
+   ,   . 
+   (   
+ )   , ,  
+ , . ,      
+    ﬁ  
+     ,   
+ .  ﬁ   
+ , ,   , .    
+         
+     []. ()         
+       ,  - 
+   ,  , 
+    Collection . 
+        
+ .  ,     
+        
+  participant_modeling  gain   
+     ﬁ    
+ [resource] .      
+   trap        
+       
+  intrinsic_rewards    . 
+,      
+       role  
+ Collection      
+.  belief evaluating   ﬁ  
+          
+     ,      
+     .   , 
+ belief evaluating   ﬁ  
+           
+    .     
+      . 
+        .         ,    , extrinsic_rewards     .             .             ,    ,   ,     .     ﬁ      ,    ,  belief evaluating   Collection .           appraisal. ,     . 
+      
+.  
+          .     ,         ﬁ   . 
+ﬁ . ( ).               ﬁ  . ,  ﬁ  ,     ﬁ                ﬁ []. 
+ﬁ . ( evaluating ).   evaluating                .     [],   evaluating          . /    , . 
+ﬁ . ( ﬁ).   ﬁ   ﬁ      .        ,       ﬁ              
+ 
+  
+     .   ,    ﬁ ,    evaluating            = 
+ 
+( ) . 
+ﬁ . ( ).         .      ,        .          []. 
+ﬁ . ( extrinsic_rewards ).   extrinsic_rewards     :  extrinsic_rewards   ,   extrinsic_rewards    ﬁ     (..,      )           combining combining     combining         .   extrinsic_rewards        ,           []. 
+ﬁ . ( ).      .           , ..,        [rewards]    . 
+ﬁ . ().          ﬁ .         ﬁ    ,  isolation_effect     combining     . 
+ﬁ . ( Collection ).    Collection          ﬁ     .   [], []      ,  [action]    .       Collection    .. 
+. extrinsic_rewards  
+ extrinsic_rewards  [], []                   ,         . ,      combining  protection_effect   . ﬁ,             combining   [rewards ].   ,  [rewards]     ﬁ combining   [rewards]       .    [rewards]      
+================
+ .      [rewards]         ,  (   )             .   ,  [rewards]      .      [rewards]    ... 
+.    
+       : participant_modeling perceived_consensus  extrinsic_rewards .  participant_modeling perceived_consensus [], []                 participant_modeling            .              [rewards ].  extrinsic_rewards [function] []    perception    [rewards]    .     task,         .       ,      [rewards]  isolation_effect      ﬁ extrinsic_rewards [function]      []       . 
+ appraisal  
+.  appraisal  
+.    appraisal .   ),             ﬁ            .   ﬁ    :     ﬁ  ,          ;  ﬁ    ﬁ    .   )  ),      ,     ,       ﬁ  , .   ),    ﬁ                .   .. ,   ),       combining   
+   
+  
+  
+) 
+) 
+ 
+) 
+) 
+ 
+ 
+  
+  
+) 
+....... .......  ﬁ   
+ 
+ 
+. .  appraisal  
+ 
+     
+     
+#   , , 
+ .% .% 
+  (//) // - // // - // 
+* combining    //  //  ,. 
+  
+        
+  ? ? .? ?  .   .       .        . .  
+ /     / . /   /  / / / / / / / / / / / /  / / / 
+#   , , , , , , , , , , , , , , , , , ,        
+  (//) // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // // - // 
+* combining    //  //  . 
+* /           .? 
+*         . 
+*   
+ 
+       [activity]    .*    ﬁ perception    perception   //  //. 
+  .  combining      ﬁ    . 
+  gain   ,         ,      ,        . ,         ,      ,       . ﬁ,          .      .         .      .       , ,     . ,                  .,   .      . ,         []     ,       personality   . 
+                .   .,          
+================
+ 
+ : ﬁ    :  ﬁ  ( )  
+. 
+:  ﬁ  ( )  
+,     
+perception  . 
+    ﬁ   >           ﬁ 
+ ( )   ;    ﬁ  ( )    
+     
+   perception     ﬁ 
+ ( ); 
+  
+ ; 
+ :    
+ :  ﬁ  ( );    
+.. 
+:  ﬁ  ( ),   
+   . 
+    ﬁ >   
+       ﬁ  ( ).           ﬁ 
+ ( )  
+        ﬁ  
+( ); 
+  
+   ﬁ  ( )  ; 
+.             ,       .    ,   focus       , .., , , .  . 
+.    Collection 
+       :      ﬁ  .  ﬁ          .            ﬁ     .     ﬁ   .               ,          .      ..    ﬁ  =.   ,       ﬁ         ,     perception  .   ﬁ       ,       . ,          ﬁ   ﬁ   .       .        , ﬁ              .. ,           ,      . ﬁ experiential_awareness  ,         . 
+     gain       .  ﬁ            ()    ,              .     ﬁ              .  ﬁ  ,           ,        .  ﬁ  ,    .       ,        .      Collection .                         ﬁ    .  ,           loss     .         .    ,         ﬁ      persistence -       ﬁ    .      loss.         loss          loss .         .             ;         . ﬁ .    ,           . 
+       
+      behavior ,       ,    ,     .     ,   simplifying        . 
+.     
+    extrinsic_rewards ,      combining       extrinsic_rewards .    ,   isolation_effect          
+ 
+. 
+ 
+. 
+. 
+ 
+. 
+. 
+. 
+. 
+. 
+ 
+. 
+. 
+. 
+. 
+  (%) 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ 
+. 
+. 
+. 
+. 
+. 
+. 
+ 
+ 
+  
+  
+  
+.. .  
+ 
+ .. 
+. 
+. .  appraisal         ,    ,  
+================
+ 
+
+ 
+  
+ 
+
+ 
+  
+Source  evaluating   
+Source  evaluating   
+ 
+ 
+= 
+= 
+ 
+ 
+ evaluating, () 
+ evaluating, () 
+ 
+ 
+    
+,  ,  
+()  
+    
+,  ,  
+()  
+ 
+ 
+
+ 
+  
+ 
+
+ 
+  
+Source  evaluating   
+Source  evaluating   
+ 
+ 
+= 
+= 
+ 
+ 
+ evaluating, () 
+ evaluating, () 
+ 
+ 
+    
+,  ,  
+()  
+    
+,  ,  
+() . 
+. .   evaluating       ,    ,  
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+(, .) 
+. 
+. 
+(, .) 
+ evaluating , () 
+ 
+ 
+      
+ (),  
+()  
+ evaluating , () 
+      
+ (),  
+()  
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+(,.) 
+. 
+. 
+. 
+(, .) 
+ evaluating , () 
+ 
+ evaluating , () 
+ 
+      
+ (),  
+()  
+      
+ (),  
+() . 
+. .   evaluating        ,    ,  
+ 
+ 
+   ( )    ( ) 
+ 
+ 
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  (%) 
+  (%) 
+ 
+ 
+      
+ (),  
+() 
+      
+ (),  
+() 
+. . ()          ,    , ; ()               ,    ,  
+ .                   extrinsic_rewards        []. ,           .  . [], [].  gain   ﬁ           . 
+..    
+.    appraisal         ,    , ,          ﬁ             .      .              . , .                  [], [].   perception ,     , .., , ,   .,  .   ;   ﬁ  , .., , , , .  ,  
+.        %      . 
+               perception ,           . . . ()      , , ...,   . . . ()              .                      . ,                   .                  ;                . 
+  .        ,            ;              .               %   ﬁ   []          .    %   ﬁ       .       experiential_awareness         [], [],    . 
+.  evaluating  
+  evaluating        evaluating   ﬁ      evaluating         . .      evaluating       , ,   , .     [;]    evaluating       gain,      .   
+================
+ 
+ 
+ 
+ 
+= 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+= 
+ 
+= 
+  ()  () 
+  ()  () 
+ 
+ 
+      
+ (),  
+()  
+      
+ (),  
+()  
+ 
+ 
+ 
+= 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+= 
+ 
+= 
+  ()  () 
+  ()  () 
+ 
+ 
+      
+ (),  
+()  
+      
+ (),  
+() . 
+. .   ﬁ    (..,  evaluating)   ,    ,  
+  
+       evaluating  ()=   
+     .  
+     : 
+  
+. . . : 
+  
+. . . : 
+  
+. . . : 
+  
+. . . : 
+  
+. . . 
+  [;]    evaluating       ,      . 
+       evaluating      ﬁ        .          intrinsic_rewards ,          intrinsic_rewards evaluating.         evaluating         ().     intrinsic_rewards evaluating    evaluating     evaluating.  ,   evaluating ()     ;   (+ )   + ,  intrinsic_rewards evaluating        = 
+(+) () 
+() 
+. ,    belief,  = ! 
+(+) () 
+() 
+   !   ,
+ 
+ 
+ 
+= 
+() 
+() 
+() 
+      (),      evaluating ()             (),     intrinsic_rewards evaluating      . 
+()=   
+() 
+      (),      (())=+ ,       ()       .            evaluating  ()=  .       ,     evaluating    . ,   evaluating         perception . ﬁ,   evaluating         ()= :
+ 
+
+ :    evaluating        ()= :
+ 
+
+ :. 
+  Trap.              trap [], [],    intrinsic_rewards    evaluating   
+    evaluating     .   ,     evaluating        intrinsic_rewards    evaluating. .      evaluating        ,    , . ﬁ,   evaluating      .      .    . ,   evaluating      .      .    ,    intrinsic_rewards    evaluating.    simplifying             ..,    ﬁ         trap                 intrinsic_rewards    . 
+.   
+            extrinsic_rewards .   ,      ,  extrinsic_rewards       .         . belief    loss         .     intelligence,        ﬁ    gain   evaluating.      ﬁ       evaluating.  =    , .           (),  [rewards]       ()            ().     [rewards] ()    :     [rewards ].            .   extrinsic_rewards              , 
+ (=) 
+ 
+ 
+ 
+() 
+belief     [rewards] [function] ()     [function] ()    . ,      ,    ﬁ,   ,     , 
+ 
+ 
+(; )= () () () 
+ 
+   [rewards] ()= () (). 
+   =      .  ()           ()  
+================
+ 
+ 
+ 
+ 
+= 
+. 
+ 
+ 
+= 
+. 
+ [rewards] () 
+      
+ (),  
+()  [rewards] 
+  () 
+= 
+      
+()   
+ 
+ 
+ 
+ 
+ 
+  () 
+== 
+      
+ (),  
+()   
+. .   [rewards ],        ,    ,  
+  
+           
+   
+gain 
+   
+ 
+gain  (+") 
+; 
+(+") 
+; 
+(+") 
+(+")+(+") (+")+(+") +(+") 
++(+")(+") 
+;
+ 
+(+")++ 
+; 
++ 
+(+")+ 
+      evaluating     . ,     ﬁ          , 
+()= ()
+ () 
+() 
+ 
+() 
+() 
+   ﬁ   evaluating.  () 
+() 
+,          ﬁ     gain   evaluating.  > 
+() 
+(),           ﬁ      gain   evaluating. 
+     behavior_control-ability          evaluating . .     ﬁ    (.., ()=())   ,    , .     = ,   ﬁ          :
+ ,    evaluating                ﬁ   .     evaluating         ,      ,    ﬁ     gain .  ,      ﬁ      : 
+ . 
+      combining .   .      [;],  ﬁ                .  ,  ,   ﬁ      : 
+  
+    : 
+  
+  ,    evaluating      .                belief     . 
+..           simplifying      .       ,   ﬁ              
+  .       .             , .           intrinsic_rewards evaluating" " .        extrinsic_rewards       participant_modeling           .   ,     : gain         .           ,       (+") 
+(+")+(+") 
+; 
+(+") 
+(+")+(+") 
+                    ,    
+ 
+      ;
+ 
+++ 
+.           ,  mental_calculation   :
+       gain   
+   evaluating ",       
+gain      evaluating "   
+,       
+ 
++ 
+
+ 
+(+")+ 
+    gain   
+.
+          
+,         
+gain         intrinsic_rewards 
+evaluating  ",      gain 
+ 
++ 
+ 
+(+") 
++(+"). 
+,             ,      gain   .         ,      gain              . ,           (  ..),  ﬁ       
+================
+ 
+  
+      [rewards]     ( 
+ , ) 
+ (//) // // // // 
+ [rewards] ()   
+() , . . , . . , . . , . . 
+  () [rewards]   
+, 
+, 
+,, ,,
+ 
+(+") (+") 
+(+")+(+"); (+")+(+") 
+,              ,          ﬁ. 
+..  [rewards]  
+     :  [rewards]   .   extrinsic_rewards             .      [rewards ],      gain     extrinsic_rewards  .  belief            [rewards]   ,       extrinsic_rewards ,            [].   ,       extrinsic_rewards        . 
+.        [rewards ],         ,    , .                personality       [rewards ].   ﬁ,          [rewards]    .         [rewards ],          .    ,  (),  .    ,  (). ,      $.   ,  (),  $.   ,  ().   ﬁ     [rewards]   ,  (),          extrinsic_rewards . 
+    extrinsic_rewards .  extrinsic_rewards    [rewards]   ,     .       [],   [rewards]       .   ,  extrinsic_rewards       .   belief   intelligence          [rewards]   ,          []. 
+ appraisal             personality    extrinsic_rewards .    .    ,      ,        [rewards ].       extrinsic_rewards            ,           ﬂ. 
+.   
+        [].          
+ 
+ 
+. 
+(, .) 
+. 
+(, .) 
+. 
+. 
+ 
+. 
+ 
+. 
+. 
+  (=. =.) 
+. 
+  (= . = .) 
+ 
+ 
+    
+  () 
+()  
+    
+  () 
+()  
+ 
+ 
+. 
+(, .) 
+. 
+(, .) 
+. 
+. 
+ 
+. 
+ 
+. 
+. 
+  (= . = .) 
+. 
+  (= . = .) 
+ 
+ 
+    
+  () 
+()  
+    
+  () 
+() . 
+. .        ,    ,  
+  
+        ,    
+,  
+   
+  
+   .    evaluating .% .% .% .% .% 
+      [].  ,        protection_effect     .     .      ,             ,        . 
+.           ,    , .               ().  ,         . .       .   . . 
+.                      protection_effect           gain     , .  ,         . ;         . ;         .      .     . .          [capability]      ,      .             .. 
+   .        .                , ,   , ,  .  ﬁ         loss           loss                . ﬁ,    .      
+================
+ 
+ 
+ 
+ 
+ 
+ 
+,  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+,  
+ 
+()    
+()    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+,  
+ 
+,  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+,  
+ 
+,  
+ 
+ 
+()     
+()     
+. .  process          (   ) 
+ 
+ 
+. 
+. 
+. 
+ 
+. 
+  (= . = .) 
+. 
+ 
+. 
+  (= . = .) 
+. 
+  (= . = .) 
+. 
+  (= . = .) 
+ 
+ 
+    
+  () 
+()  
+    
+  () 
+()  
+ 
+ 
+. 
+. 
+. 
+ 
+. 
+  (= . = .) 
+. 
+ 
+. 
+  (= . = .) 
+. 
+. 
+ 
+  (= . = .) 
+  (= . = .) 
+ 
+    
+  () 
+()  
+    
+  () 
+() . 
+. .           ,    ,  
+       ,    ,   .           ﬁ       .  ,                  .   .        ﬁ simplifying       . ,      .,   ﬁ          ()    ﬁ         ()  , 
+ 
+ 
+(; )= 
+()
+ () 
+() 
+ 
+ 
+ 
+
+ (; )= 
+
+ ()
+ () 
+ 
+()    ﬁ      (; )      ﬁ  
+ :     
+ :     (),     
+(). 
+:   ()   (). 
+   :       
+      ; 
+   :       
+      ; 
+     <         (); 
+  
+   (); 
+    
+ (; ) 
+ 
+ ()
+ ()     .         ,  gain                 .                            .              .. 
+  .                              .  appraisal           ﬁ        .     loss       ﬁ    loss     .            ﬁ          ﬁ    ,     . ,          .     loss .            loss    [capability]    . 
+       
+     ﬁ  ﬁ         ,         
+================
+ 
+ 
+ 
+ 
+ 
+. 
+. 
+(., .) 
+(., .) 
+. 
+. 
+. 
+. 
+ 
+ 
+ 
+. 
+ 
+(, .) 
+. 
+(, .) 
+. 
+ 
+ 
+        () 
+. 
+ 
+ 
+        () 
+    
+  () 
+()  
+    
+  () 
+()  
+ 
+ 
+ 
+ 
+. 
+(., .) 
+. 
+(, .) 
+. 
+. 
+. 
+. 
+ 
+ 
+ 
+. 
+ 
+(, .) 
+. 
+(, .) 
+. 
+ 
+. 
+ 
+ 
+        () 
+ 
+        () 
+    
+  () 
+()  
+    
+  () 
+() . 
+. .        ,    ,  
+      .   ,        ﬁ         Collection    . 
+.   
+.    process          .   (),                 .         ﬁ     ,      ﬁ .   (),     ﬁ        . ,               .   ﬁ,       ﬁ   .   (),    ﬁ       ,         .   (),                 .   ﬁ,                ﬁ   . 
+       ﬁ   experiential_awareness  ﬁ ,   ﬁ   experiential_awareness        .  extrinsic_rewards           .   ﬁ             . ,        ﬁ   .   ,             . 
+.           ,    , .       .                 perception .         .     ,   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+        
+ 
+ 
+belief evaluating (%) 
+ 
+belief evaluating (%) 
+ 
+    
+ 
+()  
+    
+ 
+()  
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+        
+ 
+ 
+belief evaluating (%) 
+ 
+belief evaluating (%) 
+ 
+    
+ 
+()  
+    
+ 
+() . 
+. . belief evaluating           ,    ,  
+   .  ,        .   .        .       ,   .     experiential_awareness . 
+.  Collection  
+  Collection           ﬁ     .      ,      ,    Collection .   ,       Collection  [], []   . 
+      simplifying     Collection . belief    intelligence.  [goal]           . ,      ﬁ ,             .      .  , =        combining  ; , = . ,         ().        personality .     ﬁ      (..,        ),            ﬁ. 
+ 
+ 
+ 
+= 
+    
+() 
+= 
+  ;;   ;;; :::;  
+.     Collection             Collection ,      
+================
+ judging   ﬁ .     . ,      ﬁ         . ,    ﬁ           ,           . ,        ﬁ                  ﬁ . ,        belief evaluating        .  ,   belief evaluating   ,       ﬁ      . ,   belief evaluating   ,      ﬁ      .   perception,   isolation_effect   Collection     . 
+.    belief evaluating     ﬁ        ,    , .             Collection . ﬁ,  ,  belief evaluating    ﬁ    .           ,   ,  belief evaluating   ﬁ      .          .      ,   .     experiential_awareness . 
+   
+..    
+     focus     .  appraisal    ﬁ   :  Protocol_Analysis   ﬂ . 
+,     Protocol_Analysis,   ., []                     ﬁ     combining       .               .   ., []                 .       ,                    .   ., []                     vulnerabilities.   ., [] ﬁ          gain    judging  ,     %       ﬁ    certainty_effect evaluating   .%.   ., []                     ﬁ gain      .   ., []  
+ 
+           ,     ﬁ          .   ., []          ,                    .   ., []                          .   ., []                        . 
+,     ﬂ ,   ., []    Collection process    ,              ,                .   ., []                    .   ., []                   ,     .   ., []   appraisal focus                extrinsic_rewards , intelligence perceived_responsibility extrinsic_rewards  intelligence perceived_responsibility . 
+..    
+          .        ﬁ impact         .    appraisal        ,   ﬂ  [], extrinsic_rewards      [], [], [], [], []. ﬁ,   ., []     ﬂ             focus  .   ., []            perceived_responsibility   ,            ﬁ    extrinsic_rewards         .   ., []    [rewards]             ,   ﬁ      isolation_effect [rewards]    .   ., []       extrinsic_rewards           ,  personality extrinsic_rewards [function ],  extrinsic_rewards      .   ., []           extrinsic_rewards  .       perceived_vulnerability     .   ., []           ,         .              . 
+================
+ 
+ belief 
+     appraisal focus    .    .    (     )          .  ﬁ       .                 .                    .                 gain        ﬁ    [resource] .         trap                 intrinsic_rewards    . ,      appraisal     ﬁ         role   Collection        .  ,     focus            . 
+ 
+[] . , ":    extrinsic_rewards ," 
+. 
+[] . . , . , . , . ,  
+. , "  :  focus   
+ perceived_responsibility,"       
+ (), . , . , . , . 
+[] . , . , . , . ,  . . 
+, "  :     
+,"          
+    .   
+     , , .  
+. 
+[] . , . , . ,  . , " 
+      extrinsic_rewards ,"  
+       . 
+, , . . 
+[] . , . ,  . . , "  
+       ,"  
+      . , 
+, . . 
+[] . []. : ://..//, 
+. 
+[] .. []. : ://.. 
+,. 
+[] . []. : ://., 
+. 
+[] . , "  ,"     (),  
+  . , , . . 
+[] . , . ,  . , "intelligence    
+  opportunity_for_criminal_acts,"      
+   . , , . . [] . , . , . ,  . , "  
+      ,"   
+          
+ . , , . . 
+[] . , . , . ,  . , "    
+    ,"   & 
+, . 
+[] . []. : ://.extrinsic_rewards, 
+. 
+[] . . []. : ://., 
+. 
+[] . , . ,  . , ":  , 
+  ,"     , 
+. , . , . , . 
+[] . , . , . , . ,  . , 
+"       
+  ,"        
+    (). , , . . [] . , . , . , . ,  . , 
+"        
+,"        
+ . , , . . 
+[] . , . . , . . , . , . ,´ 
+ . , "     
+    :    perception,"  
+     ( ), . [] . []. : ://.., 
+. 
+[] . []. : ://.., 
+. 
+[] . []. : ://.., 
+. 
+[] .. []. : ://., 
+. 
+[] . , " source   experiential_awareness     
+ ." []. : ://. 
+//  ,. [] .   . . , "   :    
+opportunity_for_criminal_acts,"    , . , . , . , 
+. 
+[] . , . , . ,  .-xxx. , "   
+  ,"    intelligence   
+(). , , . . 
+[] . , . , . , . . , . , . , 
+. , . , . , . .   ., "   
+ ." , , . . 
+[] .   . , "  ," 
+   , . , . , . , . [] . , . , . , . ,  . , " : extrinsic_rewards 
+        
+,"    , . , . , . 
+, . 
+[] . . , . , . , .  ,  . . , " 
+     ,"   
+:., . 
+[] . , .  , . ,  . , 
+" ﬁ     ,"   
+, . , . , . , . 
+[] .   . , "      
+,"       personality  
+appraisal. , , . . 
+[] . , . , . ,  . , "   
+ ?"  & , . , . , . 
+, . 
+[] . , . . , . ,  . . , ": 
+        ."  
+   , , . . [] . , . , .-xxx. , . ,  . , " 
+  :  ,"    
+   , . , . , . , . 
+[] .   . , "  belief    
+: extrinsic_rewards,        
+ ,"     history, . , . , 
+. , . 
+[] . , "   :    
+  gain   ,"      []   
+ . , , . . 
+[] . , . , . . ,  . , " 
+ perceived_vulnerability      extrinsic_rewards,"   
+          
+ . , , . . 
+[] . , . , . , . , . ,  
+. , ":       
+,"     , . ., 
+. 
+[] .   . , "  :   
+     ,"   
+ & , . , . , . , . [] . . . , . ,  . [], "   
+[action]  [policy]    ,"    
+================
+ /     . 
+, , . . 
+[] . , . , . . ,  . , " 
+         ,"  
+          
+ . , , . . 
+[] .   . , "protection_effect    
+  ,"       
+   . , , . . 
+[] . , . ,  . , "    : judging 
+   ,"       
+     . , , . . [] . , . ,  . . , "ﬁ 
+         
+ ,"       
+ . , , . . 
+[] .   . , "    
+,"      (),   
+   . , , . . [] . , . , . ,  . , "intelligence : personality 
+  ."    , . 
+, . , . 
+[] . , .   ., " perception perception  
+       ," 
+    (),     
+  . , , . . 
+[] . , . ﬁ,  . , "  
+         ," 
+    (),  /  
+ . , , . . 
+[] . . . , . ,  .  ´ı, " 
+  ,"       
+   . , , . . [] . , . ,  . , "   
+     ,"   
+  , . 
+[] . , . , . ,  .-xxx. , "   
+    ,"    intelligence 
+  (). , , . . 
+[] . , . , . , . , . , . , . ,  . , 
+"personality    ,"    
+    . , , . 
+. 
+[] . , . , . , . . , . . , 
+ . . , "  ﬁ  :  
+      ,"  [modeling ], 
+,        
+(),      . , 
+, . . 
+[] . , . , . , . ,  . , " 
+       ,"  
+  , . 
+ 
+    ..    , ..   .      ..      .            .       ,      .         . 
+    ..    
+    , .. 
+,  ,   ..    
+       
+     . , 
+         
+   ,    
+.      
+  ,    
+ .       
+          .        . 
+    .    
+    , , 
+ , .      
+  & ,  ,  
+   ,    
+  & , ,  
+    .    combining 
+       
+  ,     
+,   , .  
+        ,  ,  ,     ,       .        . 
+================

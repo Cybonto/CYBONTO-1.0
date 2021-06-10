@@ -1,0 +1,4560 @@
+   : judging  role  
+     
+ 
+   
+  
+  
+ []    extrinsic_rewards    
+    
+ intrinsic_rewards -   syllogistic_rules 
+ 
+================
+isolation_effect 
+   : judging  role   
+    
+ 
+   
+        ,  
+         .     
+,            . 
+         ,    
+            . 
+            
+,               
+judging       .  techniques  ,   
+focus   focus           
+    ,      . ,   
+focus       belief   (& , ) 
+    belief (, )      . ,  
+focus   possibility_effect combining         
+      . ,   focus     
+   syllogistic_rules   ,     
+.     [policy]  . 
+================
+ 
+      protection_effect         
+ extrinsic_rewards   . ..  ,   ,     
+persistence           .     
+         process    
+.          gain  intrinsic_rewards.    
+     .         , 
+..  , ..  ,  ..       
+.  mastery_experience         
+. 
+             [] 
+.  ,           . ..  
+          personality self-efficacy   . 
+,       , ,      protection_effect  
+    .             
+  .         . 
+ 
+================
+   
+  .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ......  
+  .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  
+ : .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...... ... ... ....  
+ :  .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ....  
+    .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .......  
+   .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .......  
+ combining      .. ... ... ... ... ... ... ... ... ... ... ... ...... ... ....    appraisal   belief .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  
+   belief   ( belief  ).. ... ... ... ....  
+    .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .....  
+ appraisal    .. ... ... ... ... ... ... ... ... ... ... ... .... ..  
+  appraisal    belief .. ... ... ... ... ... ... ... ... ... ... ... ... ... ...... ..  
+  belief   ().. ... ... ... ... ... ... ... ... ...... ... ... ..  
+    belief .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ..  
+    belief .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .......  
+ appraisal     .. ... ... ... ... ... ... ... ... ....... ....  
+syllogistic_rules  ,  ,   .. ... ...... ....  
+  .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...... ....  
+   .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...... ... ....  
+    .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...... ....  
+ ,     .. ... ... ... ... ... ... ... ... .... ....  
+ : .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .....  
+role        .. ... ... ... ... ... ... ...... ....  
+    .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ....  
+.. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ........  
+ Collection .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ....  
+appraisal  .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ....  
+ .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ..  
+ appraisal   .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...... ....  
+personality .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...... ........  
+ .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...........  
+ .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ..  
+ : .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...... ..  
+ .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ........  
+ .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .... ...  
+ .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ......  
+ 
+================
+     .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  
+      .. ... ... ... ... ... ... ... ... ... ... ..... ....  
+    ,   ,  .. ... .......   .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ....   combining     .. ... ... ... ... ... ... ... ... ........  
+ : & belief .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...... ....          .. ... ... ... ... ... ... ... ... ... ....  
+         .. ....... ... ... ... ... ....  
+     .. ... ... ... ... ... ... ... ... ... ......  
+combining   ,   ,  .. ... ... ... ... .......  
+    focus .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  
+focus      .. ... ... ... ... ... ... ... ... ... .....  
+[policy] .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .....  
+.. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ....  
+ 
+================
+   
+ .  ( =).. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .....  
+ .     ( =).. ... ... ... ... ... ... ... ... ... ... ... ... ......  
+ .  .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .... ....  
+ .           (=).. ... ... ... ...  
+ .           (=).. ....... ...  
+ .           (=) ().. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ....  
+ .           (=) ().. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ....  
+ .           (=).. ... ... ... ... ..  
+ .           (=) ()..  
+ .           (=) ()  
+ .               (=).. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...... ..  
+ .               (=).. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...... ... ... ... ... ... ....  
+ .               (=).. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ..... ... ... ... ....  
+ .           .. ... ... ..... ... ....  
+ 
+================
+   
+ .  evaluating   .. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .......  
+ 
+================
+ :  
+     impact          
+       (& , ;   ., ).    
+           persistence    
+          .  ,   
+       ,         
+ (, , , , , ,& , ).   
+   ,             
+     (  ., ). 
+physical_quality         .      
+    ,            
+    (  ., ).     ,     
+    .       ,    
+     ,         (, , 
+,& , ).                
+       ,     (  ., ). 
+         .  ,    
+         physical_quality   ()   
+.  ,        ,     
+    [ownership ],          
+(, ).   ,           
+ ,    ,     (, ). 
+ 
+================
+             
+          ,  
+ ,    (& , ; , ).  
+,   participant_modeling          
+             
+.     learning         
+            
+     (, ).         
+  ,           
+ (.. )  participant_modeling         (  
+., ).                 
+ (& , ). ,         
+     perceived_uniqueness (, ,& , ; & , 
+)       gain   impulsive_effect   
+    (, ). 
+         
+     ,           
+.  ,  ,         
+          ,   
+   ,       (, ),   
+           (, ; , 
+,& , ).            
+[function]     ,         
+ 
+================
+  ,  fear_arousal,    (, , , ,& , ). 
+,               
+      (, , ,& , ). 
+  participant_modeling            
+ (, ,& , ; , ; , , 
+,& , ).          protection_effect 
+  (..  )         
+.    gain  perceived_vulnerability      
+          (& 
+, ; & , ; , , ,& , ; 
+& , ). 
+ perceived_vulnerability       personality      
+  .             
+participant_modeling  ,  .            
+  , ,   (, ).    
+     (.. )   ,      
+    , ,     
+   (, ; , , ,& , ). 
+   ,           
+    .    frustration_of_needs  ()   
+       ,    ,  ,   
+     extrinsic_rewards      personality 
+    [activity ].         intrinsic_rewards  
+ 
+================
+(, ),             ;  
+              
+(, , ,& , ). ,   ,      
+gain     ;       ,    
+,  ,        (%)  combining 
+ (     , ).      
+               
+. 
+            
+,   ,    (, ,& , ).  
+          ,   
+  (& , ),    (, ,& 
+, ),        (, , 
+, ,& , ),      (, ), 
+     (& , ),    
+    (, ,& , ).
+         ,     
+          (  ., ). 
+          .  focus  , 
+,&  ()      focus      
+.  ,              
+,              
+ 
+================
+  (, , ,& , )      
+(, ,& , ). 
+         personality    
+     ,        
+( . )         
+( intelligence , ; & , ).        
+   [ownership]      physical_quality       
+  .            
+,   focus          , 
+            
+.          ,   
+    personality           . 
+             intrinsic_rewards 
+   [ownership]      ,       focus  
+      .     
+combining         ,     
+(, ,& , ).         
+  ,       , ,  ,   
+ participant_modeling   . ,         
+,           participant_modeling    
+  (, ).  focus       
+      .  focus       
+ 
+================
+     ,          
+  . 
+  focus    focus      
+ -   belief       ()    
+belief   () -         .  focus 
+         . ,  focus   
+       -     - 
+    behavior_control-ability            
+. ,  focus           
+ syllogistic_rules          .  
+         ,    
+             . 
+ focus            
+behavior     .    ,    
+ (..  ,  , )      appraisal  
+   .          
+       personality    (& , ). 
+,           .   
+                
+       ,     judging     
+            . 
+,  focus   combining        
+            .   combining 
+ 
+================
+       ,        
+     ,          
+(  ., ; & , ).  ,     
+  behavior_control-ability         ,  
+  focus    personality         
+            .    
+  physical_quality   combining      (, ,& , ), 
+    judging       impact    
+        .      
+   belief        . 
+ 
+================
+ :   
+     
+    personality fear_arousal      intrinsic_rewards   
+      .         
+  (),      gain      
+ .  ,     fear_arousal     impulsive_effect  
+          (&  
+, ;   [Organization ], )      (, 
+,&  ; , ).   gain     , 
+ perception            
+    . 
+              
+  satisfaction_of_needs      (   intrinsic_rewards   
+, ),     participant_modeling       
+,   (.. ),        . 
+         behavior    participant_modeling, 
+  focus           :  
+, , ,      .      
+      behavior    .     
+             . 
+   , ,    ,  , 
+     .       intrinsic_rewards  
+  ()             
+ 
+================
+  .  ,           
+   ,        physical_quality   .    
+              .   
+  focus   [exposure]      , 
+, ,&  (),  .    learning   
+. ,             ;  
+ ,    , ,      ( 
+ , ).           
+,             physical_quality    
+         . 
+,      ,       
+       (, ,& , ; 
+, ).           (, ) 
+                 . 
+           , , 
+  (, , ,& , )         
+      (& , ). ,       
+perceived_vulnerability   personality  impulsive_effect     (& , ; 
+& , ). 
+      [exposure]       
+    ,    (, ). ,      
+          (& , 
+).        (..  ,  , 
+ 
+================
+       ),   (.. , , 
+, ),    (..  ,    
+  ,  ). ,        
+         loss. 
+         , , 
+          (& , ; 
+, ; , ,& , ).      focus  
+ ,        , ,   
+  . , . ,  .   (, ,& 
+, ).        impact   ,   
+           
+. 
+    
+  focus        personality     
+   [activity ],           
+  .   ,     simplifying        
+             . 
+              
+(, ).    ,     intrinsic_rewards    
+             
+     .      
+       ,   , ,  
+ 
+================
+    .           
+,    (, ).        
+,      [knowledge]       
+.               
+    . 
+        ,    
+   extrinsic_rewards            
+    (, ; , , ).    
+     ,     "   
+ " (, ; , ),        
+        .  ,   
+   participant_modeling  , ,      (& , 
+; , ,& , ).   ,       
+persistence  ,     intrinsic_rewards        
+   
+    ,     ,      
+     .     ,  ()    
+      isolation_effect  ,        
+intentionality           .      
+            ,    
+         .       
+       .       
+                
+ 
+================
+extrinsic_rewards  .   , , ,   (, . ),  
+      [circumstances]  : )   , )      
+, )  situational_circumstance   . ,        
+.  ,              
+   () ,        
+       (  ., ). 
+,             
+            (, ,& , 
+).              ( 
+& , ),              
+       (, ,& , ). 
+,         ,     
+       (  ., ).  ,      
+              (   
+, ,   ).         
+         . ,     
+      situational_circumstance  (     
+   )          
+ (..  , extrinsic_rewards , ). 
+        ,    
+        .         
+isolation_effect             
+(, ; & , ).     ()    
+ 
+================
+perception  personality            
+.    (),       :  
+, /, ,  . 
+,       ,        
+"       "     
+[ownership]   intentionality (, , . ).       
+          intrinsic_rewards     
+  possibility_effect  (, ; , ).      
+     ""       
+         (& , ).    
+             
+   (, ).     ,   " 
+",  combining    vulnerabilities     ,   
+ [knowledge]  intrinsic_rewards            
+ vulnerabilities    (  ., ).        
+     mastery_experience         
+           (, ; 
+   ).     personality   ,   
+ .     ,   participant_modeling  
+               
+, ,       (& , ; & 
+, ; & , ).         
+  intrinsic_rewards    (& , ).     
+ 
+================
+       possibility_effect      
+loss    loss   (, ,& , ). 
+  /  , ,     
+   extrinsic_rewards     (, ; , ; , ). 
+          :     . 
+             
+ .     (.. Phishing, )   
+       ,    
+ (..  ,  , techniques)   (& , ).  
+,   Phishing ,        personality 
+ (..   , ,  )      
+        ( ).     
+Phishing    (.. )         
+         personality  (& , ). 
+    ,  perceived_responsibility      , 
+               
+   [knowledge]    (& , ; & , 
+; , , , ,& , ). 
+       .      
+    , , , , ,   () 
+     "     , ,  , 
+  (   ),          
+     extrinsic_rewards    " (. ).   
+ 
+================
+           
+     , ,        
+  (, ,& , ; & , ).     
+  ,   ,      
+  . 
+       :      (.. 
+, ).          mastery_experience  
+ [knowledge] (, ),         
+      extrinsic_rewards.        
+ role             personality 
+ (.. , , ,  ).     
+[knowledge]           ,   participant_modeling 
+     ()  (, ). 
+/  [exposure]         
+     (, , ).       
+combining         ,   
+   participant_modeling       (& , ; 
+, ,& , ; & , ; , ; , ).  
+      ,       
+  .            ,  
+               
+  (, ; , ). 
+ 
+================
+  ,  [exposure]           
+   .  ,            
+   ,         
+     (& , ).      
+personality              
+      (, ; , ; , ).  
+,  [exposure]      physical_quality;      
+      physical_quality   ,          
+   physical_quality (, ,& , ).     
+    ,   ,    
+ ()    participant_modeling       . 
+     [exposure]       
+     (, ,& , ). 
+[exposure]        fear_arousal  .   
+          (, ),   
+              
+  (& , ; , ).   ,    
+            (, 
+). ,          ,    
+      [norms ]. 
+      ,        
+  possibility_effect loss           
+ (, ; , ).     ,    segregating 
+ 
+================
+,  , ,   (, ,& , ; , 
+,& , ; & , ).   intrinsic_rewards      
+,     , ,    ,  
+/     (& , ).    
+        gain,   focus  , ,  
+ ()              
+  .        personality   
+              ( 
+, ;   ., ). 
+ combining      
+     (.. ,  )      
+ (, ),             
+  .           
+  .   , , , , , ,& 
+ ()   [exposure]    (.. )    
+             . 
+ [knowledge]  [experience]         belief  
+[norms]     [modeling ],        
+      (, ; & , ).   
+,        role   perception   
+   . 
+ 
+================
+  gain   ,          
+      .     participant_modeling 
+  intrinsic_rewards      ,     
+      (, ).        
+        (, ).    
+   ,  learning  [norms]        
+,          behavior (, ).  
+         , ,  intrinsic_rewards, 
+    perceived_uniqueness  .       
+       ,       
+    (, ).   syllogistic_rules,      
+         . 
+          
+  .             
+          (, ; , ; 
+, ,& , ). , ,&  ()       
+             
+   . ,   learning       
+     (, ,& , ).   ,  
+        . 
+             
+          .  , 
+ ,     ,        
+ 
+================
+    (æ, ,& , ).     
+            .  
+, æ  . ()    combining          
+               
+   .        ,  
+              [activity ].  
+ ,          . 
+           .  
+  ()             
+    behavior,           
+           .     
+   perceived_vulnerability     personality .      behavior, 
+    behavior    ,       
+  (& , ).          
+ impulsive_effect behavior      role   ,  
+    (..  [activity ], )   (.. , 
+,  )  (  ., ).     segregating 
+combining  ,     protection_effect   possibility_effect combining   
+      . 
+ 
+================
+  appraisal   belief 
+   belief   ( belief  )
+   belief   (     belief)      
+             
+(& , )      (& , ). 
+        belief   ()   
+     ,  .  belief     combining belief  
+            
+participant_modeling   behavior (& , ).
+    combining belief (),    belief     
+             
+ . &  ()   perception  ""   
+extrinsic_rewards   ,    ""  participant_modeling   behavior.   
+     behavior_control-ability       participant_modeling    
+    physical_quality, ,   [circumstances ].    
+() internalization           
+(..    ,    ). 
+     (),       
+             . 
+   ()          
+    ( , ,  ) 
+"           ,     
+        behavior" (. ).  gain     
+ 
+================
+ ,       . , 
+,   ()      (..    , 
+persistence )  gain          
+ .  ,  ,         
+ ,            behavior. 
+    belief  ,     focus  certainty_effect 
+     certainty_effect         
+    (, ,& ; ; & , 
+). 
+     (),        
+  .    situational_circumstance      .  
+    belief      (),    
+         :  , certainty_effect ,  
+  .    belief,   ,   
+    intrinsic_rewards,   intrinsic_rewards,  motivation. 
+     
+ perception           (, ; 
+, ).    ()        
+  (  )    ,   
+     .     belief  
+         (..   )   
+(, , ,& , ; & , ; , , ,& 
+ 
+================
+, ).      belief    , ,  
+ physical_quality   . 
+   ,   belief        
+  behavior_control-ability        .    () 
+    participant_modeling          participant_modeling   
+ .   combining          
+           loss  
+(& , ),   (, , , ,& 
+, ),   , ,  ,        
+ (, , ,& , ).      
+  ,     (, , ,& , 
+).  gain, &  ()    impact     
+        ,    
+           (, 
+, ,& , ; , , ,&  , ; 
+& , ). 
+    ,  belief   behavior_control-ability  . 
+     belief        perception   
+              
+(& , ).  ()     ()     
+         ,    
+       .           
+        (, ). 
+ 
+================
+        belief         
+  behavior_control-ability              
+   (.. ,  , /personality )   
+ (, ).         .   
+   ()           
+    , ,  .  &  
+()   protection_effect    belief       
+        ,      
+   combining      . 
+  ,       protection_effect     
+   . &  () behavior_control-ability    belief   
+             
+    .  ()      
+    behavior_control-ability     .    
+,    ()    syllogistic_rules   
+            .  
+  ()            
+  .    ()       
+ participant_modeling      fear_arousal   loss      
+     intrinsic_rewards.          
+,          ,   
+          . 
+ 
+================
+,  combining experiential_awareness         
+   combining            
+   participant_modeling   role   extrinsic_rewards  .  personality   
+ ,              participant_modeling 
+  behavior (& , ).          
+ ()       "        
+ participant_modeling   " (. ).           
+    motivation     (&  ),  
+              
+. ,               
+. 
+ appraisal     
+  ,   belief         
+       behavior,    
+ protection_effect (& , ; , ,& , ; , ,& 
+, ).    ,   combining     
+              
+  (  ., ; , , , ,& , ; 
+, , ,& , ; , , , ,& , ; 
+& , ; , ,& , ; , , ,& , 
+; & , ; & , ; , ,& , 
+; & , ; & , ; & , ). , 
+ 
+================
+&  ()             
+   . 
+      focus     
+.            combining 
+  ,    (& , ),  
+ (, , ),   (, ,& , ),   
+(, ,& , ),      (, ,& 
+, ),   (  ., ),     
+(  ., ).            
+     participant_modeling     .  ,   
+               
+(, , ;   ., , ; & , ).    
+            
+ (  ., , , , ,& , ; , ,& 
+, ).   . ()         
+        .   . ()  
+              
+     . ,   . ()       
+focus             ,   
+ certainty_effect            . 
+,   belief       combining   
+protection_effect             
+  (& , ),     (& , ; 
+ 
+================
+, ;   ., ).        ,  
+  mental_calculation            
+   (.. perceived_uniqueness , , ). 
+  appraisal    belief 
+  belief   () 
+   belief           
+   ,      (& 
+, ),   belief         
+belief (, , , ).   ,   belief  
+             (& , 
+).  belief       belief   
+  ().          
+    participant_modeling  , ,  [norms]   behavior 
+(   ) (, ).    belief 
+()      behavior       
+.         , [exposure]   
+        behavior.  ,   learning 
+       behavior  ,   
+   (, ; , , ).    
+      process    .   
+       ,        
+participant_modeling   behavior (, ). 
+ 
+================
+ process             
+  protection_effect    / (, ). 
+     : , , ,  .  
+             ,   
+        .    (), 
+        ,       
+   .          
+ behavior      persistence  . ,    
+           .  , 
+           . 
+   ,   belief    isolation_effect 
+             
+(, ; , ).  belief   combining  process   
+     behavior  . ,      
+           belief  
+    process    (, ; & , ). 
+    belief 
+   ()     belief  
+   " " belief.     
+    ( )   process    
+(       belief ).  belief    
+  [rewards]           
+ 
+================
+       ,     
+behavior,    (& , ).   ()    
+      belief     .   
+         , , ,  
+              
+     ,  , perceived_responsibility   behavior.  
+    belief (),     behavior  
+     [exposure]   belief   .
+    belief         behavior  
+ process   .    ,  ()   
+ behavior    ",  ,         
+        " (. ).   
+   situational_circumstance     :  , 
+,  ,   (, ).
+        process        
+           behavior 
+(, ).             
+     (.. , )      behavior  
+vicarious_experience        (.. ,  ). 
+        [norms]      
+          .     
+      belief ():  ( ), 
+ ( ),  (  ),   (   
+ 
+================
+     ).      ,  
+, persistence      ,   ,    
+      impact      (& , ).
+        ,   , , ,  
+       behavior  "    , personality  , 
+possibility_effect  ,   ,   ,    
+" (& , , . ).       . 
+       [norms] (.. , )   
+   behavior,     [norms]   
+ .  ,          , 
+      personality    ,  generalizing    
+   . 
+    vicarious_experience perception      behavior, 
+  live_modeling   .    (, ),   
+      behavior   :   
+ ,  behavior experiential_awareness,   experiential_awareness .    
+experiential_awareness          ,  
+   experiential_awareness           
+   ,    (, ).     
+              behavior. 
+ process  experiential_awareness   [modeling]       
+   (, ). 
+ 
+================
+       "  , learning,  
+ extrinsic_rewards  "    behavior (& , , . ).  
+  certainty_effect       certainty_effect   
+.    (),      experiential_awareness   
+perception   .  ,    behavior (.. perceived_uniqueness 
+)                
+,          extrinsic_rewards      
+behavior (.. ).   behavior        
+,        behavior   .  
+gain,             
+           behavior (, ). 
+    belief
+    protection_effect    learning  belief    ,  
+   . ,    belief       
+      /.   combining   
+judging            
+       (, ).       
+     , ,     appraisal  
+(, ; , , , ,& , ). &  
+()   personality syllogistic_rules      
+        , ,   
+,            
+ 
+================
+behavior. ,            
+            . 
+              .
+   &  (),      techniques  
+   behavior     ,    
+      .      
+         (& , 
+; , ).           
+     (, ; & , )   
+  (, , , , , , ,& , ). 
+       syllogistic_rules      
+  , ,    ,      
+       (, ).
+ ,    belief         
+    (& , ). ,    
+  ,       behavior  ,    
+.  ()         
+      . ,      
+    . ,        
+       .   judging   
+ belief       ,    
+;  ,          
+    perception (  ., ). 
+ 
+================
+ appraisal      
+  belief            
+   behavior_control-ability    behavior      
+(& , ;   ., ).   combining   judging  
+               
+.     ,      , 
+   impact        [activity] (, 
+, ,& , ; , ; & , ; & 
+, ; , , ,& , ; , ,& , ; & 
+, ).       belief,        
+        (& , ). ,   
+        ,      participant_modeling  
+          (& 
+, ; , ).         behavior,   
+()              
+   participant_modeling     ,   . 
+            
+participant_modeling              
+ behavior (, ; , ; , ,& , ; , ).   
+      , ,     
+      (, , ; , ).  
+,     learning          
+    (, ,& , ; & , ). 
+ 
+================
+   live_modeling         (  
+, ),  (, , ,& , ),    
+(& , ). 
+       belief    &  (), 
+         belief    
+         ,       
+.       belief    . ()   
+protection_effect        ,   
+  ,         
+  judging    process (, ). 
+           
+participant_modeling     behavior,     perception   
+      behavior  .    ,  
+    learning          
+    participant_modeling    (& , ). , 
+       personality.  ,    
+     [knowledge]        
+     .           
+ , ,  ,      . 
+            
+ [knowledge]           participant_modeling 
+    [norms]      (, ; & , 
+; & , ; , ,& , ).   perception  
+ 
+================
+      belief (, )      
+      ,  , ,    , 
+personality   "  "        , 
+ ,     (, ). 
+         ,  
+ (& , ).           
+            learning 
+            (& 
+, ; &  ; , ; &  ; & , 
+).            ,   
+       (, )   (& , ).  
+      ,      [norms]  
+     learning  generalizing    (, ; & 
+, ; & , ). 
+ ,           , 
+             (.. , 
+, )    (, ,& , ; & , ;  
+& , ; & , ),  (& , ), [exposure]  
+  (  ., ), personality   (& , ), 
+ (& , )   (, ,& , ). , 
+        combining     
+   participant_modeling    . 
+ 
+================
+       impact   ,   
+   .          
+ syllogistic_rules    ,   ,  
+    (, ;   ., ; , ; & 
+, ; & , ).       
+              extrinsic_rewards 
+   ( ; &  ; & , ;   
+., , ; &  ;   . ; & , ). 
+                
+     judging  .       
+  focus          
+  (  ., )   (& , ).    
+     ,        
+              
+(, ,& , , ; , ,& , ). 
+            
+behavior. &  ()  certainty_effect      
+     . &  ()     
+   belief,          , , 
+         participant_modeling     
+  intrinsic_rewards    .    ,      
+           process. 
+ 
+================
+ gain           belief,  
+             
+(, ; & , ).  ,      belief  
+      ()        
+         :   
+[Organization ],      ,    
+,    .  ()     impact 
+            
+  . 
+   judging , , ,   ()   
+        (    
+ )       (, )      
+     (  ).    [modeling ], 
+     ,     , participant_modeling  
+       ,       
+  ()    ()   .  focus   
+ protection_effect     process     protection_effect    
+ belief. 
+syllogistic_rules  ,  ,    
+  ,   belief   (& , )  
+  belief (, )        protection_effect  
+   .          
+ 
+================
+      behavior.    belief   
+(& , )           
+  behavior,   belief        
+            internalization   
+     (, ).       
+              
+     (, ; & , ). 
+     focus  syllogistic_rules       
+       .       
+behavior,      combining          
+    ,    (, , ; 
+& , , ). &  ()      
+ combining      participant_modeling   behavior.  
+(), ,     learning     
+. 
+      belief       
+  (, ,& , ; , ),     
+          (& 
+, ; & , ).         
+          behavior   
+  internalization   [norms]   (, ; & , 
+, , ).      persistence    
+    behavior   intentionality   [exposure]    
+ 
+================
+ ,         ,     
+ process   ,  ,     
+  (, ; , ; & , ). 
+,     ()       
+   [norms]    personality   ,   
+  perceived_consensus             
+   behavior. ,  [norms]       
+           ,     
+   [norms]     .     [norms]   
+   ,  ()       
+       . 
+          ,   
+ ()             
+ ;              
+ . ,    ,       
+      .    focus  , , 
+,   (),         satisfaction_of_needs 
+ physical_quality     combining       behavior_control-ability    
+.  impact   , ,      
+   personality   .  , , ,  
+ ()        appraisal   
+,           
+ 
+================
+. ,           
+       . 
+            combining 
+    ,       role  
+   .          
+          personality    
+  (  ., ;   ., ;   ., ). ,   
+              
+       judging     
+ . 
+       impact  ,    
+     .    [modeling ],   
+ ()     vicarious_experience       
+(      )      .  
+            participant_modeling    
+personality    .           
+   belief,    ()      
+       motivation  learning    intrinsic_rewards  
+   [group_norms]       (, ; & , 
+). ,      [experience]        
+      (, , ). ,  focus  & 
+ ()          process   
+ 
+================
+   behavior,    impact       
+          . 
+    focus, , , ,&  ()     
+    focus  impact         
+   (          ,  
+          ,  
+    ).            
+       ,       
+  (         ).  
+               
+      ,         
+.              segregating 
+   appraisal    .
+   focus   protection_effect       
+    behavior,         
+    .            
+   (, , ; & , ;   ., ; 
+, ,& , ). 
+  segregating        ,   
+focus               
+       . , ,   () 
+        ,       
+          .   
+ 
+================
+          :  (  
+),  ,   ,  . 
+,   . ()          
+           .    
+             (.. ) 
+       (  ., ).   , , 
+              
+   . ,         
+    perceived_vulnerability           
+   (  ., ). 
+   ,           
+ (, ;   ., ; , , ,& , ),  
+   focus        role   
+syllogistic_rules     .    ()   
+ "    ,   ,    
+ ,  personality  " (. ).       
+     personality    . 
+      (, ),      
+   learning  intrinsic_rewards      .   
+    perceived_vulnerability      behavior.     
+ syllogistic_rules,   protection_effect        " 
+"        (  ., ;   ., ), 
+             (, ; 
+ 
+================
+  ., ).      impact        
+        ,      
+    ,     (  ., ; & , ) 
+      (  ., ).          
+              
+    .        combining   
+,           . 
+   
+    belief   (& , )    
+belief (, ),          personality    
+         .    
+belief   intentionality   .  .      
+             
+,  focus   impact    combining,   personality   
+ . 
+        focus       
+ combining   ,     .   
+focus    impact          
+                 
+.       syllogistic_rules    syllogistic_rules   
+ belief      (, ; & , ). , 
+      syllogistic_rules   ,  ,   
+ 
+================
+    (  ., ; & , ).   
+      . 
+    
+belief :            . 
+belief :           . 
+belief :            . 
+belief :           . 
+     
+belief :             . 
+belief :            . 
+belief :             . 
+belief :            . 
+ ,      
+belief :            
+ combining     . 
+belief :             
+combining     . 
+ 
+================
+  focus           .  
+, ,   intrinsic_rewards    focus       
+ . 
+ 
+================
+ :  
+            
+                 
+  .   judging         
+ behavior,   .          
+              
+   .      judging    
+     (& , ;   ., ; , 
+; , ,& , ; & , ; , ,& , ; 
+, ,& , ; & , ).   focus    
+  focus      perception       
+    ,        (, 
+;   ., ; , ). 
+      [activity]     , 
+ focus   possibility_effect combining          
+impact       . ,   
+,  [ownership ],   mastery_experience    mental_calculation  
+    .       
+ ,  focus          
+,  ,  ,      . 
+          -  
+     -         
+     .        
+ 
+================
+   , , physical_quality, ,   . , 
+ focus        possibility_effect    syllogistic_rules 
+  ,   ,  .     
+    focus   . 
+ )        ? (.. 
+ ,  mastery_experience, ) 
+ )            ? 
+(  ) 
+ )    (..   )     
+    ? (  ) 
+ )       syllogistic_rules    
+      ? 
+role         
+     ,       
+        judging    .   
+  gain,   learning   intrinsic_rewards   ,  
+     ""     (     
+, ).           personality   
+               
+   (   , ).   
+           
+ 
+================
+  ,     (..  )   
+ . 
+             
+ physical_quality,                
+ .           ()    
+   ,       
+
+ extrinsic_rewards.   , 
+           .     [ownership ], . 
+    , .     ,  .  
+        .        
+        . 
+           
+(..  ,  ).        participant_modeling  
+ role    perceived_responsibility  personality      
+ , (& , ).  ,        personality 
+    personality [activity]     (& 
+, ).    ,      ","    
+personality role       (& , ).  
+,               
+     ;    gain      
+    (& , ). 
+             
+ perceived_consensus  perceived_uniqueness,          
+syllogistic_rules       ,    (& , ; 
+ 
+================
+& , ).           
+ ,       judging  impact      
+    (.. , )  .   
+             ,   
+    gain  perceived_vulnerability        . 
+  ,     ,   , 
+         participant_modeling    
+   (.. )   (.. ).   focus 
+              
+   . 
+     
+ focus         focus   
+          .  
+         ,    
+             (& , 
+).              intrinsic_rewards  
+(& , ). 
+  focus,        syllogistic_rules  , 
+  ,   behavior (  )      
+belief      ,    belief 
+  (& , )    belief (, ). judging  
+syllogistic_rules             
+ 
+================
+         personality    
+   .      personality      
+       ,      focus   
+  satisfaction_of_needs  personality  perceived_vulnerability         
+   . 
+      focus   focus   .  
+   ,          
+                
+.      gain        
+loss,   combining ,     (& , ).
+     ,  focus       
+      ,  ,   
+,    .      
+combining        syllogistic_rules    
+.     ,   intentionality    
+      . 
+       techniques      
+            , 
+ personality      . ,  
+       (    )  combining  
+     ,    focus   
+       combining      (, 
+, ,& , ). 
+ 
+================
+ 
+     focus    ( 
+
+   
+
+ extrinsic_rewards)   ( 
+ 
+  
+
+ extrinsic_rewards)     .         
+combining               
+    .           
+     (& , ). 
+    process,        
+      judging        
+ .              
+,       [ownership]    .   
+   ,    personality physical_quality    ,      
+           ,  ,  
+  (  ., ).             
+     physical_quality  (  ., ).   ,  
+     (.%)         intelligence . 
+       ,   fear_arousal      
+              
+ (, ,& , ). ,     [exposure]  
+        . 
+           
+          (  ., ; & 
+, ).  ,           
+ 
+================
+          personality  (& 
+, ). 
+     possibility_effect,         
+   satisfaction_of_needs     , ,    
+      .      ,    
+               
+( )         .    
+intrinsic_rewards            ,   
+             
+    . ,        
+         focus .     
+      ,      intrinsic_rewards   
+    . 
+,               
+      .         
+      .      
+belief      extrinsic_rewards   (& , ), 
+                 
+perceived_consensus   . ,     " 
+"        (& , ). 
+      intrinsic_rewards       
+ ,           
+    physical_quality   ,          
+ 
+================
+             
+.               
+         process (, ,& , 
+).             . 
+          gain       
+,     generalizing     .   
+perceived_vulnerability      ,   perceived_vulnerability    
+      . 
+ Collection  
+  focus          
+     .          
+   , [experience]       , 
+ .     physical_quality    focus, 
+      belief  ,    
+Collection,          (), 
+        focus.       
+     ,          
+  []      .     
+              
+  . 
+ gain     ,        ( 
+)       (    )   
+ 
+================
+  .      learning     
+  .    ,         
+        perception        
+.      ,    .   
+ ,        protection_effect     
+appraisal   focus. 
+     perceived_consensus       ,   
+        . perceived_consensus       
+    focus              
+ .      ,     
+              
+,  ,  perceived_vulnerability      focus.   
+   ,          
+     .         
+,        ,     
+  .   perceived_consensus process  ,       
+              
+   . 
+            
+     .   combining  ,  ,   (%) 
+   .            
+.         ,      
+        .  ,   
+ 
+================
+(/)    extrinsic_rewards,   (/)    extrinsic_rewards,     
+(/)   extrinsic_rewards. 
+ .  evaluating    
+ 
+combining   
+ 
+   
+ 
+ evaluating (%)    
+   % 
+  
+ ,  %   
+combining ,  % 
+appraisal   
+  
+ combining         focus,      
+       .      appraisal 
+        ,      
+ appraisal      . ,      
+        (=; =    ; 
+=     ; =  ; =     ; = 
+ ; =     ; =  ; =     ). 
+              
+       : )      
+     (   ), )     behavior_control-ability(  ), ) 
+     loss (  ), )     
+ 
+================
+ (   ), )  loss      (  
+ ),  )    (   ). 
+            participant_modeling   
+       : )  , ,    
+   ""      (   ), ) 
+ , ,      "" (   ), ) 
+            ( 
+ ), )         (  
+ ),  )           [knowledge] 
+ ( ) (& , ;   ., ; , ,& , 
+; & , ). 
+ appraisal    
+         behavior       
+,             
+  appraisal            
+participant_modeling     behavior     . ,   
+                 
+     appraisal (= ; =).  
+                
+  appraisal (  α= .).       
+  ,            
+ 
+================
+           (= 
+; =).          .. 
+   ,           
+techniques        combining  ,    
+ .             
+     ,        appraisal   
+  . 
+            , .  
+          ,   .   
+     behavior      .   
+  ,   %    %     
+behavior.   , .            
+  .  .          , .  
+         .      
+     . 
+      , .   
+       .  .      
+     , .        .  .   
+           .  , .  
+            .     
+      . 
+  ,            
+. .           ,  . 
+ 
+================
+     .     ,      
+  behavior. , .    participant_modeling       .  . 
+           ,      
+    .      ,       
+   behavior.  ,        
+    combining           . 
+  ,          (= 
+, =).          
+            . 
+,            
+     (         ).
+ 
+personality  
+         evaluating      
+     . ().         
+       ( )   ( ).    
+          .     
+         
+.       
+    .    ,    : )  
+    arousal       , )      
+ 
+
+            ,          possibility_effect      (, ,& , ). ,       ,     segregating      .    physical_quality     ,         segregating. 
+ 
+================
+intrinsic_rewards   ,    loss    [goal ].       
+  , )              intrinsic_rewards.   
+ ,     , )       perceived_vulnerability    
+  ,  )               loss.   
+ ,    : )      ,    
+,  . ,       : )      
+ , )       ,          
+     ,  )     ,       
+.              
+     .  .   .     
+(  ., ; & , ),   possibility_effect  mental_calculation  appraisal 
+              
+ (.)    (.); ,          
+ . 
+,    ()       , 
+ .            
+ appraisal    (  ., ;   ., ; & 
+, ).  ,    ()       
+         ()       
+       .  gain,    
+         appraisal ( α= .).     
+ appraisal     . (),  focus     focus 
+ 
+================
+      judging        
+. 
+       (=; =  ; = ; = 
+ ; =   ) appraisal           
+     .        appraisal   
+              . 
+ appraisal            
+          : )     
+        , )       
+      , )  , ,      
+ ""     , )  , ,    
+  ""  (.. , ), )   belief    
+   /    , )       
+ / [knowledge]         , )  
+,      (& , ;   ., ; 
+& , ),  )              
+ (    ) (  ., ).        
+appraisal    ,   appraisal        
+       . 
+        ,     
+  personality          (, ; 
+, ).      role      
+ 
+================
+    (& , ).  gain    , 
+          behavior   
+ (, , ; & , ),   (& , ; 
+& , ; & , ),   (  ., ;   
+., )    (& , ).     
+, [knowledge]  intrinsic_rewards   extrinsic_rewards     (, ;  
+& , ). ,             
+  (& , ; & , ). 
+             
+       (& , ; & , ). 
+           ,  
+        .      
+         [exposure]   behavior 
+   (& , ). ,       
+            
+ .  focus         participant_modeling   
+behavior             . 
+        appraisal       
+,      (..  ,  ,  
+,  , ) (& , ;   ., , ). 
+    ,  focus     appraisal    
+  behavior_control-ability  perceived_vulnerability   . ,       
+ focus            belief (, ) - 
+ 
+================
+ .    (),  learning  participant_modeling    
+ behavior     .  combining   
+              
+process.   focus         belief,   
+          combining       
+,     (& , ;   ., ; , ). 
+  ,   appraisal         
+  judging    . 
+  
+       focus.  mastery_experience    
+ appraisal ,          focus   (), 
+            (.. , ): 
+) "     ,     " (), ) "   
+          ,      
+   " (), ) "           
+  " (),  ) "   ,  ,     
+  " ().          [knowledge] 
+  .       [knowledge]      
+    (.. )         
+(  ., ; , ).
+       :         
+appraisal  [ownership]    (.. intelligence , ).   , 
+ 
+================
+    evaluating  combining         
+        ((=; =   ; 
+=   ; =   ; =   ; =   ; & 
+, ; & , ).  ,     ,  
+  ,      (),    
+&  ,           
+               
+       .
+    
+
+    appraisal  ,     
+,               
+(=   ; =   ; =   ; =   
+; =    ). ,    appraisal  
+ [ownership ],          intelligence  
+   (=; =). 
+,          appraisal     
+appraisal    (=; =).         
+              
+ (..     ,    ). physical_quality    
+appraisal      .     appraisal     
+   . 
+ 
+ 
+ 
+                             . 
+ 
+================
+       .       ,  
+               (%) 
+   (%).      ,      - 
+ (%),  (%),   (%) -    .   
+        .     (%)  
+ (%)          .   
+,         behavior (%)   
+ .        (%)    (%). 
+            
+ [knowledge] (..    ,  )      
+ (& , ; & , ),      
+           .     
+    ,           
+( ).       ,       
+         . 
+  segregating           evaluating  
+      (& , )    
+(& , )   ,          
+  (& , ;   ., ; , ;   ., )  
+               
+.    ,  focus    . ()      
+        .        
+         ,       
+ 
+================
+          . ,   
+      learning        , 
+  . 
+          ,     .,  
+        ,     ..    
+               
+    participant_modeling    . 
+  ,          
+[activity]   combining        .     
+combining       (.).     [activity]   
+         (.).    
+ combining        (.).      
+()               
+        participant_modeling       
+   . 
+     [ownership]      
+mastery_experience.   .       ,  
+           (.%)   
+(.%)      .         
+  [skill]     participant_modeling        
+      , ,    (, ; 
+  ., ; , , ,& , ). 
+ 
+================
+  ,     ,    physical_quality   
+    .    , .        .  
+ .   , .           
+       ,  .       
+ . 
+ 
+================
+ .  ( =) 
+ 
+ 
+ 
+  
+  
+   
+personality  
+%   
+   ()  . . 
+    . .  
+ . .  
+ . .  
+ . .  
+ . .  
+ . . 
+   ()  . . 
+    . . 
+    . . 
+    . . 
+    . . 
+   . . 
+    . .      . . 
+  mastery_experience
+   .
+   .
+   .
+   .
+  [ownership ]
+     .
+      .
+        . .         . .
+      . .  
+. .  
+. .  
+
+     
+       
+ . .  
+. .  
+ . . 
+ physical_quality  . .  
+   .
+   .
+  
+   .
+   . 
+. .  
+ 
+================
+ :  
+             
+ ,    focus . ,    
+  combining      focus.    
+   ()       focus  
+     personality     .   
+   appraisal       focus  impact 
+               
+  .              
+     .           
+(     mastery_experience ),          
+.    ,           
+. 
+     ,       
+        .  combining    
+   :          , 
+       ,        .
+    ,  focus    syllogistic_rules  
+  .        ,   
+         participant_modeling   personality   
+      extrinsic_rewards (& , ),   
+(, ; , ),     (& , ), 
+ 
+
+                   ,         ,         . 
+ 
+================
+         personality,   (, 
+,& , ).
+ ,   focus        [ownership]  
+        .   
+  personality       ,   possibility_effect     
+         ,   (.. , )  
+  (, ,& , ). ,     
+(.. , )        participant_modeling   
+    (, ; , , , ,& , ).  
+     [ownership]         
+       (& , ),   
+ [ownership]         perceived_vulnerability      (, 
+, ,& , ). ,       [ownership]   
+   [activity]      perceived_vulnerability     behavior. 
+  focus          
+ syllogistic_rules           .  
+            syllogistic_rules   
+      (, ;   ., ;   ., 
+)    (& , ; & , ;   ., ).  
+ focus  possibility_effect syllogistic_rules   ,     
+      ,        
+    role            
+behavior. ,               
+ 
+================
+      . ,      
+      gain,          
+. (),   focus        
+(   )        perceived_vulnerability    
+ . 
+  
+           
+        ,   ,   
+.      ( , , , 
+, ,   )       ( 
+,  ,  , ,  ),      
+           . 
+  ,          
+        
+. ,    
+ (   )    appraisal     
+              
+evaluating  (& , ).     ,    
+     (  ),     
+ (  ). ,          
+        (, ; & , ).   
+  personality belief          ,
+ 
+
+       ,                     . 
+ 
+================
+      ,   (& 
+, ). ,           . 
+          personality  
+         combining  , ,     
+    .       
+(  ),     . ,     
+    -       -   
+        .    
+           ,   
+      ( = ., < .)   
+  ( = ., < .).   ,     
+ belief,              
+.           ( = 
+., < .)      ( = ., < .).    
+              
+      ,            
+ participant_modeling  role         . 
+,   [ownership]  mastery_experience      
+   .      mastery_experience ( = ., < 
+.)  [ownership]   ( = ., < .)    
+       .        
+     [ownership]     [capability]  participant_modeling  
+        , ,    
+ 
+================
+(, ; & , ; , ; & , ;   ., 
+). ,   ,       , 
+     .       
+( = ., < .),   ( = ., < .),  
+  ( = ., < .),      
+( = ., < .)        
+.             
+              
+(  ., ).     -      
+ ( = ., < .),    ( = ., < 
+.),      ( = ., < .) -   
+         .   
+   possibility_effect syllogistic_rules     ,   
+    judging      . 
+    ()         
+   ;  ,      (.. 
+   ,     ) intentionality  perceived_vulnerability  
+     .        
+           
+   ()   ()   participant_modeling      
+       planning   (, , ,& , 
+).              perceived_vulnerability  
+          (& , ). 
+ 
+================
+,           . 
+physical_quality         ,      
+    .    physical_quality    
+ . physical_quality       ( = ., < .)  
+ ( = ., < .).   ,      
+ syllogistic_rules  physical_quality          
+  ,    ,        
+ (, ; & , ). ,      
+                 
+   (, , , & , ).   
+, physical_quality         :   
+( = -0., < .),   ( = -0., < .),  
+  ( = -0., < .).  , physical_quality   
+      ,         
+  participant_modeling       . 
+      ,        
+ ( = -0., < .)   ( = -0., < .) 
+.              participant_modeling  
+ behavior (& , ; & , ). ,   
+   syllogistic_rules      ,   
+    .          
+ participant_modeling          .    ,  
+          
+ 
+================
+ .     ( =)
+                          
+. . () - 
+ . () .** -
+    .** .** -
+   .** .** .** -
+   .** .** .** .** -
+    .** .** .** .** .** -
+    .** .** .** .** .** . ** -
+    .** .** .** .** .** 
+.** .** -
+   . .** .** .** .** .**. ** .** .** -
+    .** .** .** .** .**. ** .** .** .** -
+    .** .** .** .** .** .** .** .** .** .** - 
+  . .** .** .** .** .** .** .** .** .** .** .** - 
+  .** .** .** .** .** .** .** .** .** .** .** .** - 
+   .** .** .** .** .** 
+.** .** .** .** .** .** .** .** -
+ 
+   .** .** .** .** .** .** .** .** .** .** .** .** .** .** - 
+ . .. . .** . . .* . .** . .** .** .** .** .** .** .** -
+ 
+  . .** .* .** .* . . . .* . .** .** .** . .** . -
+ 
+ .  . . -. -.* -. . . . . . . -. . . . .** -. - 
+ .  .** .** .** .* .** .** .** . .** .** . .** . .** .** .** . .* - 
+ .  . .** .** .** . . . . . .* .** . . .** .** .** .** .** .** - 
+ .  .** .** .** .** .** .** .* .** .** .** .** .** .** .** .** .* .** . .** .** - 
+ .  .** .** . ** .** .** .** .* .* .** .** .** .** .** .** .** .** .** .** .** .** .** - 
+ physical_quality -.* .** .** .** . -.** -.* -.** .* .** .** .** .** .** .** .* 
+.** -. .** .** .** .** - 
+  -.* -.** -.* -. -.** -.** -.** -. -.** -.** -. -.** -.** -.** -.** -.** -. -.** -.** .** . -. -. - 
+   -. -.** -. -. . . 
+-. . -. -. -. -.** . -. -. -. -.* .* -. -. -. -. -.** -. - 
+*<., **<.;      ( , , , , ,   )       ( ,  ,  , ,  ),                  . 
+ 
+================
+             
+ .          
+ . 
+  
+      ,    
+  .     ()       
+   possibility_effect     personality     
+ (, ).    ,       
+  appraisal   personality        
+ (  ).        .  .  ( 
+     ). ,        fear_arousal 
+   personality    . 
+ .   
+ 
+    
+    
+  . . . . 
+   . . . . 
+ mastery_experience . . . . 
+ [ownership] . . . . 
+ ( ) . . . . 
+ () . . . . 
+ () . . . . 
+ ( ) . . . . 
+ ( ) . . . . 
+ . . . . 
+physical_quality . . . . 
+ . . . . 
+ 
+================
+          (  ),  
+          .    
+        impact      
+              . 
+  ,         
+. 
+      
+              
+   ,  personality      
+.            
+(& , )    (  ., ).       
+   ,  focus           
+. 
+/ =
++
+  + 
+ [ownership ]+ 
+ ( )+ 
+()+ 
+ ( )+ 
+ + 
+physical_quality+ 
++ 
+ mastery_experience+ 
+ ( )+ 
+ 
+ (&  )+ 
+       
+    role         
+      ,  personality     
+ .           
+ 
+================
+    combining    (  , )    
+(& , ; & , ;   ., , ;   ., 
+).     impact       .  
+ focus            
+ . 
+/ =
++ 
+  + 
+ mastery_experience 
++ 
+ [ownership ]+ 
+ ( )+ 
+ ( )+ 
+ ()+ 
+ ( )+ 
+ (&  
+)+ 
+ + 
+physical_quality+ 
++ 
+    ,   ,   
+            
+        behavior      . 
+             syllogistic_rules 
+         (, ;   ., ) 
+  (& , ;   ., ;   ., ).  possibility_effect 
+ syllogistic_rules   ,       
+          ()    
+          .         
+       ,    possibility_effect .  ,   
+    (   )      
+  (   ),          possibility_effect 
+ role   syllogistic_rules        . 
+ 
+================
+ ,         possibility_effect   
+   . 
+    syllogistic_rules       
+      ,         
+    ,    physical_quality, ,    
+ .          
+  personality  ( ,   ,   
+   [ownership] )      ( , 
+physical_quality,  ). ,       combining    ,   
+     . ()    focus      
+isolation_effect              
+   personality . ,         
+        personality      
+. 
+/ =
++ 
+ + 
+ mastery_experience+ 
+ [ownership ]+ 
+ ( )+ 
+ ()+ 
+(&  )+ 
+  
+  + 
+ ( )+ 
+ ( )+ 
+ 
+ + 
+physical_quality+ 
++ 
+      ,   
+        experiential_awareness     
+          .    
+ 
+================
+              
+segregating     ,    .    
+   personality   ()         
+         (, ). 
+            , 
+      .         
+     ,   syllogistic_rules     
+personality   . ,        syllogistic_rules  
+  personality .       ,  
+ personality         . 
+           ,    
+        judging   .   
+        ,      
+          syllogistic_rules   personality 
+( )  (, ). ,       
+    (, ). 
+       
+,       
+      .       
+            ,  
+          .   
+,           
+ 
+
+            ,  certainty_effect                  .       ,     .  certainty_effect         ,            . 
+ 
+================
+      .        
+     ,   . 
+      segregating  (  )   
+ ,            
+   .         
+    .          
+ ,        .     
+               
+.           , 
+           (=    
+ behavior; =    behavior       ). ,  
+""    ""         ""   
+        (   )   "    
+." 
+      techniques        
+         appraisal      
+  .     ,       
+  personality       .    ,  
+                 
+     personality ,      (, 
+).     ,   focus   ()  appraisal  gain  
+ 
+================
+ .           (=) 
+    
+ ()  ()  ()  ()  ()  () 
+                  
+  .** . . 
+- 
+.** . . .** . . 
+- 
+.** . . 
+   
+- 
+.** . . .** . . 
+- 
+.** . . .** . . 
+ mastery_experience -. . . -. . . -. . . . . . . . . . . . 
+ [ownership] . . . . . . . 
+. . . . . . . . . . . 
+ ( ) -. . . -. . . -. . . -. . . -. . . -. . . 
+ ( ) . . . . . . . . . . . . . . . . . . 
+ () -. . . . . . . . . -.* . . -.* . . -. . . 
+ ( ) 
+. . . . . . . . . .** . . .* . . .* . . 
+ (&  ) 
+.* . . .** . . . . . .** . . .** . . .** . . 
+  -. . . -. . . -. . . -.* . . -. . . -. . . 
+physical_quality -.** . . -.** . . -.** . . .** . . .** . . .** . . 
+ -. . . -. . . -. . . -.** . . -.** . . -.** . . 
+ . . . -4. -3. -4.
+ -2  . . . . . .
+  . . . . .  .
+   
+
+ . . . . . . 
+  ,  ,     ; *<.; **<.;  χ 
+
+    . . 
+ 
+================
+      behavior     gain   personality .  
+,   gain       ,       
+      .     , personality    
+. 
+          focus   
+     : )   )    ) 
+   .         
+        .     ,   
+  --             
+             
+ 
+  ,           
+             .   
+ ,             
+ ,  personality    . ,     
+    gain         gain      
+  .    ,   gain       
+      gain       . 
+    ,           
+              
+     . 
+       ,       
+     .        judging 
+ 
+================
+    ,           
+appraisal       .       
+     (& , ;   ., ).  
+   ,       . 
+    ,         
+             .   
+ ( )      ,      
+judging   ( ),        
+       .          
+       . 
+              
+   ,     .    ,     
+gain    ,            
+ personality    .      ,     gain  
+     ,          
+   gain. ,          
+            ,   
+      . 
+           
+   ,    appraisal      
+  .    ,    
+    (<.)          
+(<.)      .      
+ 
+================
+ .           (=) 
+  
+ 
+ ()  ()  ()  ()  ()  () 
+                  
+  .** . . 
+- 
+.** . . .** . . 
+- 
+.** . . 
+   
+- 
+.** . . .** . . 
+- 
+.** . . .** . . 
+ mastery_experience -. . . -. . . -. . . . . . . . . . . . 
+ [ownership] . . . . . . . 
+. . . . . . . . . . . 
+ ( ) -. . . -. . . -. . . -.* . . -.* . . -.* . . 
+ 
+ ( ) . . . . . . . . . . . . . . . . . . 
+ () -. . . . . . -. . . -. . . . . . . . . 
+ ( ) 
+.** . . .** . . .** . . .* . . . . . . . . 
+ (&  ) 
+. . . . . . . . . . . . .* . . . . . 
+  -. . . . . . . . 
+. . . . . . . . . . 
+physical_quality . . . . . . . . . .** . . .** . . .** . . 
+ -. . . -. . . -. . . . . . . . . . . . 
+ -4. -2. -4. -9. -8. -9.
+ -2  . . . . . .
+  . . . . .  .
+   
+
+ . . . . . . 
+  ,  ,     ; *<.; **<.;  χ 
+
+    . . 
+ 
+================
+,     ,      
+       ,     
+                
+ .
+       physical_quality  ,        participant_modeling   
+.         physical_quality       
+           (  , , 
+).   ,        participant_modeling     
+ .    ,        ( 
+& , ;   ., ).          
+  . ,           
+    .
+           .    
+          .     
+  ,           
+    .         
+   ,               
+ . ,          ,   
+     behavior   segregating.  ,      
+          situational_circumstance    
+ (..  , )   ,       
+      (  ., ; , ,& , ). 
+ 
+================
+            
+    focus      ,   
+,         .   ,     
+           
+     .    ,     
+      ,  personality   
+   . 
+  ,       ,  
+         (<.)      
+  .  ,            
+ (<.)        .       
+              ,  
+         .     
+            
+ . 
+             
+    ,  personality      
+ .              
+          .  ,  
+               
+ behavior.              
+     .        <.  
+ 
+================
+ .           (=) () 
+ 
+  
+ ()  ()  ()  ()  ()  () 
+                  
+  .** . . 
+- 
+.** . . .** . . 
+- 
+.** . . 
+   
+- 
+.** . . .** . . 
+- 
+.** . . .** . . 
+ mastery_experience . . . . . . . 
+. . -. . . -. . . -. . . 
+ [ownership] . . . . . . . 
+. . . . . . . . . . . 
+ ( ) -. . . -.* . . -. . . . . . . . . . . . 
+ ( ) . . . . . . . . . . . . . . . . . . 
+ () -. . . -. . . -. . . -. . . -. . . -. . . 
+ ( ) 
+.** . . .* . . .* . . .* . . . . . . . . 
+ (&  ) 
+. . . . . . . . . . . . .* . . . . . 
+  . . . . . . . . 
+. . . . . . . . . . 
+physical_quality -. . . -. . . -. . . -.** . . -.** . . -.** . . 
+ -.** . . -.** . . -.** . . -.** . . -.** . . -.* . . 
+ -4. -1. -3. -. . .
+ -2  . . . . . .
+  . . . . .  .
+   
+
+ . . . . . . 
+  ,  ,     ; *<.; **<.;  χ 
+
+    . . 
+ 
+================
+<.       .       
+       . ,     
+       protection_effect   syllogistic_rules    
+      combining    .  ,    
+            . 
+  ,           
+                
+ .            
+     . 
+     ,        
+appraisal      ( )   physical_quality     
+ .              
+.     physical_quality   certainty_effect         
+         (, ,  ).  
+      ,       
+   , ,    (  ., ;   ., ). 
+physical_quality        ,         
+    .     focus    
+          (  , ).   
+         - ,  , 
+  .            participant_modeling  
+       .     behavior 
+             ,  participant_modeling  
+ 
+================
+ .           (=) () 
+  
+  
+ ()  ()  ()  ()  ()  () 
+                  
+  .** . . 
+- 
+.** . . .** . . 
+- 
+.** . . 
+   
+- 
+.** . . .** . . 
+- 
+.** . . .** . . 
+ mastery_experience . . . . . . . 
+. . -. . . -. . . -. . . 
+ [ownership] . . . . . . . 
+. . . . . . . . . . . 
+ ( ) . . . . . . . . . . . . . . . . . . 
+ ( ) -. . . -. . . -. . . -. . . -. . . -. . . 
+ () -. . . . . . . . . . . . . . . . . . 
+ ( ) 
+. . . . . . . . . .* . . . . . . . . 
+ (&  ) 
+. . . . . . . . . . . . . . . . . . 
+  -. . . -. . . -. . . . . . . . . . . . 
+physical_quality -.** . . -.** . . -.** . . -.** . . -.** . . -.** . . 
+ -.** . . -.** . . -.** . . -. . . -. . . -. . . 
+ . . . . . .
+ -2  . . . . . .
+  . . . . . .
+   
+
+ . . . . . . 
+  ,  ,     ; *<.; **<.;  χ 
+
+    . . 
+ 
+================
+    (, ;   ., ). ,    
+              . 
+    ,          
+             -  , 
+,  ,   .     ,  
+          ,     
+ .            
+              
+    behavior    . 
+   ,         
+   .            
+    . ,          
+              
+     , , ,  ,  , 
+  .       protection_effect     
+             
+(& , ; & , )     (  , ; 
+& , ; & , ; , ). 
+ judging             
+   ,   combining   ,     
+.        ,        
+  (<.)        appraisal   
+ . ,         techniques   
+ 
+================
+ .           (=) 
+  
+  
+ ()  ()  ()  ()  ()  () 
+                  
+  
+. . . - . . . 
+. . . 
+- 
+-. . . 
+   
+- .** . . .** . . 
+- 
+.** . . .** . . 
+ mastery_experience 
+.* . . . . . . . . 
+. . . . . . . . . 
+ [ownership] 
+. . . . . . . . . 
+.. . . -. . . -. . . 
+ ( ) 
+-. . . . . . . . . 
+. . . . . . . . . 
+ ( ) 
+-. . . -. . . -. . . 
+. . . . . . . . . 
+ () 
+-. . . . . . . . . 
+-. . . . . . . . . 
+ ( ) 
+. . . . . . . . . 
+. . . . . . .* . . 
+ (&  ) 
+. . . . . . . . . 
+.* . . . . . . . . 
+  
+. . . . . . . . . 
+-. . . -. . . -. . . 
+physical_quality 
+.** . . .** . . .** . . 
+. . . . . . . . . 
+ 
+-. . . . . . . . . 
+-1. . . 
+-1.** 
+. . 
+-1.** 
+. . 
+ 
+-7. -6. -6. 
+-3. -4. -2.
+ -2  
+. . . 
+. . .
+  
+. . . 
+. . .
+   
+ 
+. . . 
+. . . 
+  ,  ,     ; *<.; **<.;  χ 
+
+    . . 
+ 
+================
+  focus   role      syllogistic_rules    
+   behavior.           
+,   focus     intrinsic_rewards    
+ .    [modeling]      judging 
+         appraisal    vicarious_experience  
+  ,  ,       . 
+   techniques           focus 
+  ,      impact         
+       . 
+          ,    
+.             .   
+ ,               
+     .        judging  
+combining      (, , ;   ., ; , 
+;   ., ; & , ).        
+    appraisal       (  ., ).  
+   focus          intelligence  
+ ,                perception 
+ . 
+ ,           
+ behavior,     ,  mastery_experience,   
+[ownership]        .      
+        [exposure]     
+ 
+================
+ .           (=) () 
+  
+  
+ ()  ()  ()  ()  ()  () 
+                  
+  .** . . 
+- 
+.** . . .** . . 
+- 
+.* . . 
+   
+- 
+.** . . .** . . 
+- 
+.** . . .** . . 
+ mastery_experience . . . . . . . 
+. . . . . . . . . . . 
+ [ownership] .* . . . . . . . . . . . . . . . . . 
+ ( ) -. . . -. . . -. . . -. . . -. . . -. . . 
+ ( ) . . . . . . . . . .** . . .** . . .** . . 
+ () -.* . . -. . . -.* . 
+. -.** . . -.** . . -.* . . 
+ ( ) 
+.** . . .** . . .** . . .* . . . . . . . . 
+ (&  ) 
+. . . . . . . . . . . . . . . . . . 
+  -. . . -. . . -. . . -. . . -. . . -. . . 
+physical_quality . . . . . . . . . .** . . .** . . .** . . 
+ -.** . . -. . . -.* . . 
+-1.** 
+. . 
+-1.** 
+. . 
+-1.** 
+. . 
+ -4. -2. -3. -12. -11. -11.
+ -2  . . . . . .
+  . . . . .  .
+   
+
+ . . . . . . 
+  ,  ,     ; *<.; **<.;  χ 
+
+    . . 
+ 
+================
+   [ownership]   . physical_quality     
+ ,              
+. 
+,              
+      .       
+        (, ;   , ; , 
+,& , ; , , ;   ., ;   ., ).  
+     personality  [knowledge]      
+               
+  (& , ).         
+ ,        . 
+  ,            
+              
+.               
+             .  
+           (  ., 
+; & , ). 
+           .  
+            
+ .      protection_effect ,       
+     .           
+participant_modeling   behavior           
+   (, ).   ,   
+ 
+================
+         ,      
+     . 
+,             
+ ,            
+.    ,       
+      ,    participant_modeling  
+ behavior      (& , ; & , ).  
+                
+,                  
+ (, , , , ,& , ).     
+                
+[exposure]    (, , , , , , ).   
+personality             
+               
+  . 
+physical_quality   certainty_effect impact      ,   
+       .       [exposure] 
+      (& , ).    
+[exposure]   ,           
+(, ,& , ).        participant_modeling   
+   .      focus   
+,              
+  (  ., ). 
+ 
+================
+ .           (=) () 
+ 
+ ()  ()  () 
+         
+  .** . . 
+- 
+.** . . 
+   
+- 
+.** . . .** . . 
+ mastery_experience 
+.* . . .* . . .* . . 
+ [ownership] 
+.* . . . . . . . . 
+ ( ) 
+. . . . . . . . . 
+ ( ) -. . . -. . . -. . . 
+ () -.* . . -. . . -. . . 
+ ( ) 
+.** . . .* . . .* . . 
+ (&  ) 
+-. . . -. . . -. . . 
+  . . . . . . . . 
+. 
+physical_quality .** . . .* . . .** . . 
+ -. . . -. . . -. . . 
+ -10. -8. -10.
+ -2  . . .
+  . . .
+   
+
+ . . . 
+  ,  ,     ; *<.; **<.;  χ 
+
+    . . 
+ 
+================
+     judging  .      
+      behavior. ,       
+         .       
+         combining    
+  participant_modeling    (  ., ;   ., ).  
+mastery_experience     (<.)     personality  . 
+                 
+     (, ),        appraisal 
+     focus              
+        .    
+       (<.)  .    
+         process      
+  ,            
+ intrinsic_rewards  [knowledge]     . 
+   ,      
+          .    
+           .    
+      .  ,    
+            ,   , 
+        (.. , ).  
+         ,     
+  ,   .       
+               
+ 
+================
+ participant_modeling       (& , ; & 
+, ),           combining   
+ [ownership]     . 
+physical_quality      .   physical_quality     intrinsic_rewards 
+         .   learning   participant_modeling  
+             
+  .  ,    learning      
+      , ,  , physical_quality  physical_quality      
+behavior    (, ; & , ; & , ). 
+ ,           
+ -  ,  ,  .     
+              
+        .     protection_effect  
+             
+      . 
+         ,  gain    
+  appraisal              
+  -   (    ),   (    
+),   (    ),   (    
+),   (    ). ,      
+         ,    . 
+               
+   ,     ,     
+ 
+================
+  ,    .     ,  
+            .      
+  ,          .   
+,           
+  .     ,          . 
+    . ,         role   combining 
+     .         
+    role       syllogistic_rules    
+        (, ;   ., )   
+ (  ., ; & , ;   ., ). 
+ combining      
+   focus          
+ 
+( )          ,   
+              .  
+             
+.             .%   
+      .        
+    ,          .   
+.   ,               
+  ""  ""     
+ 
+
+   personality   ,                     . ,        . 
+ 
+================
+ .               (=) 
+    
+ (=)  (=)  (=)  (=) 
+        
+  .** . .** . .** . -. . 
+ mastery_experience . . -. . . . -. 
+. 
+ [ownership] -. . . . -. . . 
+. 
+ ( ) -. . -. . -. . . . 
+ ( ) . . . . . . . . 
+ () -. . . . -. . -.* . 
+ ( ) . . . . .* . 
+.* . 
+ (&  ) 
+.* . -. . .** . . . 
+physical_quality -.** . -. . .* . .** . 
+ -. . -. . -. . -.* . 
+  -. . -. . -.* . -. . 
+ . -. -4. -3.
+ -2  . . . .
+  . . . .
+   
+
+ . . . .
+        ; *<.; **<.;  χ 
+
+    . . 
+ 
+================
+  ,            
+       .        
+                
+    .           
+        (<.). 
+           
+,        , , ,&  
+()    focus          
+      .      
+     personality   ,      
+           .  , 
+          ( )    
+        (   . + .. )   
+.   ,            
+  .,              
+ .   (  ., ).   ,     
+              
+   .       ,    
+    ,         . 
+              
+              
+ 
+================
+ .                (=) 
+    
+ (=)  (=)  (=)  (=)  (=)  (=) 
+            
+  .** . .* . .** . .** . .** . .** . 
+ mastery_experience  [ownership]  ( )  ( ) 
+-. . -. . . . -. . -. . . . 
+. . . . -. . .* . . . .* . 
+-. . -. . -. . -. . -. . -. . 
+. . -. . . . -. . . . -. . 
+ () -. . . . -. . . . -. . -. . 
+ ( )  (&  ) 
+.* . .* . . . . . .* . . . 
+. . -. . . . -. . . . -. . 
+physical_quality . . . . .** . .** . -. . . . 
+ . . -.* . . . -. . -. . 
+-1.* . 
+  -. . . . . . -. . 
+. . -. . 
+ -5. -2. -10. -7. -3. -3.
+ -2  . . . . . .
+  . . . . . .
+   
+
+ . . . . . .        ; *<.; **<.;  χ 
+
+     . . 
+ 
+================
+ . () 
+      
+ (=)  (=)  (=)  (=)  (=)  (=) 
+            
+  .** . 
+.** . 
+.** . .** . .** . .* . 
+ mastery_experience  [ownership]  ( )  ( ) 
+-. . -.* . . . . . . . -. . 
+. . . . . . . . -. . . . 
+. . . . . . . . . . . . 
+. . . . -. . . . -. . -. . 
+ () -. . . . . . -. . . . . . 
+ ( )  (&  ) 
+. . . . . . . . . . . . 
+. . -. . . . -. . . . -. . 
+physical_quality -.** . -. . -.** . . . -.** . -.** . 
+ -.* . -. . -.** . -.* . -. . -. . 
+  -. . .* . -. . -. . -. . . . 
+ . -2. . -. . .
+ -2  . . . . . .
+  . . . . . .
+   
+
+ . . . . . .        ; *<.; **<.;  χ 
+
+    . . 
+ 
+================
+  .        ( , , 
+, , ,   ),       
+         .      
+   . (),          . 
+            .,   belief 
+   segregating.   focus        
+             . 
+, belief    .        role 
+     combining      (  ., ; & 
+, ),   focus     . 
+  ,            
+     (    ).     .,  
+        appraisal.       
+ ( ,  ,  ,   ) 
+                . 
+      ,    personality        
+           .    , 
+     participant_modeling   role   syllogistic_rules    
+   ,   protection_effect  belief . 
+               
+combining               
+.    ()           
+     [exposure]        participant_modeling  
+ 
+================
+ .               (=) 
+      
+ (=)  (=)  (=)  (=)  (=)  (=) 
+            
+  . . . . . . -. . .** . . . 
+ mastery_experience  [ownership]  ( )  ( ) 
+. . . . . . -. . . . -. . 
+-. . .* . -. . . . -. . .* . 
+-. . . . . . -. . . . -. . 
+-. . -. . . . -. . . . . . 
+ () . . . . . . -. . -.* . -. . 
+ ( 
+) 
+. . -. . . . . . .** . .* .  
+(& . . -. . . . . . .* . -. .  ) 
+physical_quality .** . . . . . . . -. . . . 
+ . . -. . -.* . -1.** . -. 
+. -1.* . 
+  . . -. . -. . -. . -. . -. . 
+ -9. -2. -3. -. -4. -2.
+ -2  . . . . . .
+  . . . . . .
+   . . . . . .        ; *<.; **<.;  χ 
+
+     . . 
+ 
+================
+ . () 
+   
+ (=)  (=)  (=)  (=)         
+  .** . -. . .** . .* 
+. 
+ mastery_experience . . -. . . . . 
+. 
+ [ownership] . . . . . . .* . 
+ ( ) -. . -. . . . . . 
+ ( ) .* . . . -. . . . 
+ () -. . -. . -. . -. . 
+ ( ) 
+. . .** . . . . . 
+ (&  ) 
+. . -. . . . -. . 
+physical_quality .** . .** . .* . .* . 
+ -.** . -1.** . -. . -. . 
+  -. . . . .* . -. . 
+ -11. -11. -13. -6.
+ -2  . . . .
+  . . . .
+   
+
+ . . . .        ; *<.; **<.;  χ 
+
+    . . 
+ 
+================
+ .     [exposure]     
+         . 
+         ,    
+ judging           
+      (, ;   ., , , ; & 
+, ; & , ).        
+          (  ., ). 
+               
+      combining   .  ,   . 
+()             
+      .        . (), 
+        syllogistic_rules    
+     . 
+   ,           
+     behavior        (& 
+, ;   , ). ,   combining    
+  participant_modeling             ( 
+& , ).  combining,          
+        . 
+ 
+================
+ .            
+        -1.  
+   .  
+  .  
+  -0.  
+   .  
+   .  
+   .  
+   - -
+   - -
+   - -
+   - -
+   - -
+  .   
+                
+ .    ,          
+            . ,   
+              
+  .   ,  ,  ,   
+,               
+ . ,          
+             . 
+            
+         . ,  
+     segregating         
+,    .       
+                 
+ 
+================
+     .    ,        
+,                
+. 
+,               
+      .         
+         ,   .  
+      segregating        ,   
+  participant_modeling   . 
+,   appraisal         
+     .         
+    .       (.%)    
+        . ,      
+        .       
+  appraisal         . 
+,     appraisal   ,      
+        intelligence      . 
+().         personality ( α= .),   appraisal 
+           appraisal. ,   
+          ,     
+     . 
+  focus      . ,  focus   
+               
+behavior   ,       belief  
+ 
+================
+ (& , )    belief (, )    
+  . ,   focus      syllogistic_rules 
+            .   
+                
+participant_modeling     (& , ; & , ). 
+   appraisal          
+      ,      
+       . 
+      ,        
+     .          
+     combining    (, ; & , 
+;   ., , ;   ., ;   ., ),     
+ protection_effect  syllogistic_rules.           
+     appraisal       . 
+   ,          
+.        participant_modeling   behavior,   
+           role    
+      . ,      
+mastery_experience                  
+      (<.).         
+               
+vulnerabilities     (..  ,  ) (, 
+, ,& , ;   ., ).        
+ 
+================
+ ,            . 
+                
+participant_modeling  . 
+     situational_circumstance syllogistic_rules   ,   
+  ,   combining      .    
+ syllogistic_rules     .  gain     
+,             focus  
+ role       combining     . 
+          syllogistic_rules  
+ ,   ,     .   
+[policy]      physical_quality    . 
+ 
+================
+ : & belief 
+        belief   ( 
+& , )    belief (, )       
+.             
+           .   
+            
+     (& , ; & , )  
+ (& , ; , , ;   ., , ;   ., 
+; & , ). 
+ gain,   focus      syllogistic_rules  
+ ,   ,  .       
+    belief      belief     
+protection_effect   combining   ,  ,   (& , 
+;   ., ),   focus          
+     .    ,      
+        combining     . 
+  focus      syllogistic_rules      
+           . 
+,   focus          
+   impact            . 
+,  focus             
+   ,  ,       .   
+        ,    
+ 
+================
+  -     ,  ,  
+    -           
+ . 
+              
+   ,  ,   .     
+ focus            
+  physical_quality      .        
+           belief   
+(& , )     belief (, ). , 
+     focus,    ,    [policy] 
+   . 
+         
+   segregating       ,   
+     focus         
+.            
+       ( belief )    
+(belief  ).            (& 
+, )    (  ., )      
+    behavior.         
+             
+          behavior      
+    .          
+ 
+================
+,           intrinsic_rewards. 
+             , 
+ participant_modeling          participant_modeling    
+intrinsic_rewards. 
+     ,   focus     
+           -  , , 
+,       .    personality   
+          participant_modeling   behavior 
+    (, ; & , ; , ; 
+& , )        (& , 
+;   ., ; & , ).      belief  
+ (& , ),         participant_modeling 
+     intrinsic_rewards  [rewards]  physical_quality  . ,  
+       (  ., ; & 
+, ;   ., ;   ., ; &  ; & 
+, )        behavior    ,  
+,  ,    (  . ; , ,& 
+, ; & , ; & , ).     
+,             
+    ( belief  ). 
+ gain   ,   focus       
+ combining      .       
+             
+ 
+================
+(  ., ).             
+   -  ,  ,  .   
+             
+  participant_modeling             , 
+personality  (  ., ),     (  ., 
+;   ., ),  (  ., ),      ( 
+ ., ).              
+      (& , ;   ., ;   ., 
+),       focus  personality     
+ . 
+               
+         .    
+       (, , ;   ., ; 
+  ., ; & , ).          
+  [rewards]  intrinsic_rewards,          
+   . 
+               
+     appraisal   perception       .  
+appraisal               
+    . ().         
+  (  α= .),   appraisal        
+    - ,  , ,  [activity ],  
+    (  ., ). ,  appraisal    
+ 
+================
+    focus        [activity ]. ,   segregating 
+   evaluating    , ,  . 
+               
+ intrinsic_rewards     , ,   ,    
+ mental_calculation       . ,      
+       ,    intelligence  (, 
+),         . 
+,              
+        .         
+      (%)     (%)   ( 
+ perceived_consensus, ).              
+segregating     .   ,       
+protection_effect              
+(belief  ). 
+          
+           
+             
+ behavior.             
+ ,       , personality ,  
+,   (, ),      ( 
+& , ),    (& , )    impulsive_effect  ( 
+& , ). 
+ 
+================
+               . 
+              
+       (  ., ; , , 
+,& , ).       ,   
+ ,             
+           .  ,   
+           ,   
+            , , 
+  . 
+     possibility_effect combining       
+    .   ,        
+      possibility_effect syllogistic_rules     
+behavior.   ()      (..  ,  
+  ,  ,  ,   )     
+perceived_vulnerability   perceived_vulnerability  (   [experience]    perceived_vulnerability  
+    ),         perceived_vulnerability   
+perceived_vulnerability . 
+            
+   ,       behavior     
+          (& , ).  
+             ,  
+       . &  ()      
+      perceived_vulnerability        
+ 
+================
+,  . &  ()        
+ [exposure]           
+( impulsive_effect  )    . 
+   ,         
+    (  ., ).  ,   persistence  syllogistic_rules   
+   " "         (..  , 
+,   )  personality  .      
+     ,     syllogistic_rules   
+   participant_modeling   (  . ).    
+             
+ (& , ).   focus     [knowledge] 
+              
+            
+. 
+      
+           
+           .      
+,        .   
+          (<.)   
+   (<.).      ,     
+        (<.)   
+ (<.). ,           (<.). 
+ 
+================
+         role    
+  . 
+   ,           
+  (<.)    (<.)    .    
+             , 
+            
+ (<.)   (<.)    .   . ()   
+        [exposure]     
+     .       
+(         )    
+role        behavior  (  ., ;   ., 
+). 
+physical_quality       syllogistic_rules    behavior   
+    . , physical_quality   certainty_effect syllogistic_rules   
+,    syllogistic_rules   .     syllogistic_rules 
+ physical_quality             physical_quality   
+    (, , ).       
+            
+     , ,    (  ., ;   ., 
+). 
+    , physical_quality      , 
+ ,       ,       
+       .    focus    
+ 
+================
+ ,         (  , ). 
+    ,         
+     participant_modeling     (, , , 
+; & , )     (, , ).   
+      ,          . 
+,  focus        . ()    physical_quality   
+certainty_effect impact        .      
+        (&  ; &  
+;  ; , ).             
+ ""             
+,        (, ; , ).   
+  physical_quality  experiential_awareness   ,  ,       
+ . 
+          . 
+ ,      .      
+           participant_modeling    
+(, ; , , , , ,& , ).  
+    (  ., ),          
+   ,   . 
+       , ,   . 
+               
+ ,   .           
+ ,,      , (   , ).   
+ 
+================
+      extrinsic_rewards       
+     (    , ).    
+   ,  ,        [experience] vicarious_experience 
+       (, ; , ,& 
+, ;   ., ).           
+    ,             
+         . ,     
+              .   
+            .    
+              
+   .           
+  ,             
+physical_quality . 
+         ,    
+,  ,    .     
+     .          
+               
+     (  ., ; , ; , ; , 
+, ; & , ; & , ). 
+,        (& , ),  
+               
+          [knowledge]    
+(, ).     ,    ()     
+ 
+================
+   participant_modeling      process   ,  ,  
+    .   ,  focus    . ()    
+         .    
+,   segregating    protection_effect     . 
+combining   ,   ,   
+  belief    &  ()     
+belief   ()             
+   behavior       .     
+focus            
+           .    
+            (   
+),             
+  certainty_effect       . 
+      protection_effect      role   
+    syllogistic_rules     .     
+       ,        
+ (<.)    ,           
+.  syllogistic_rules         (<.)   
+, ,       .     
+            . 
+  focus             
+ .           
+ 
+================
+    .     ,       . 
+        appraisal    .     
+   possibility_effect  syllogistic_rules   ,  ,   
+. 
+ focus           syllogistic_rules 
+             
+         .    
+                  
+    ,             
+ .            , 
+      . ()        
+   .           
+ syllogistic_rules   ,   ,  . 
+          ,  
+ focus               
+      . 
+ syllogistic_rules          
+     ().        
+            combining   
+.   ,    participant_modeling     (, ,& 
+, ).       protection_effect.     
+               
+     (, ;   ., ;   ., ;  
+ 
+================
+& , ; & , )      (  ., ; 
+  ., ; & , ).     protection_effect    
+   ,      syllogistic_rules   , 
+           segregating combining     
+appraisal    belief.        
+            (  , 
+;   . ;    )   (, ; & , 
+),       process      
+   . 
+ gain        belief,  intrinsic_rewards, 
+    [modeling ],          vicarious_experience 
+   ,   ,  .   
+   combining   personality  techniques     
+[modeling]         syllogistic_rules    
+,     . ,      
+[modeling]      appraisal      judging  
+     (  ., )   (& , ). 
+        ,     . 
+()     combining   ,     . 
+            
+ ,   segregating         .     
+ [knowledge]            
+behavior_control-ability       .   ,    
+ 
+================
+              , , 
+      .      focus  
+ syllogistic_rules          ( 
+& , ). 
+    focus 
+      focus,       
+  . ,             
+ .  focus           
+.     focus       
+    behavior_control-ability            
+  . ,           
+   ,   focus       
+belief   (& , )    belief (, )   
+       .    combining   
+        (  ., ),  
+ focus   ,         [ownership] 
+evaluating   ,      . 
+,  focus   possibility_effect combining     behavior  
+. ,           
+       .       
+[exposure]              
+ 
+================
+ impulsive_effect    (& , ; & , 
+). 
+ gain    ,     
+           .   
+     combining         , 
+             
+          .  , 
+, , , ,   ()      
+    ,           
+           . ,  
+   focus          
+combining        . 
+focus       
+     focus,         . , 
+              syllogistic_rules 
+    focus (& , ).       
+                
+         (& , ). ,   
+       focus    syllogistic_rules   
+,       .       
+,      perceived_vulnerability     - 
+     ()    (),    
+ 
+================
+(, ,& , ).          
+ isolation_effect  syllogistic_rules          
+   focus. 
+,  focus    ,  .      
+perceived_vulnerability         focus,     
+generalizing       .        
+  process   ,          
+      . ,      
+        . ,      
+               
+   perceived_vulnerability  belief (& , ). 
+   ,      ,     
+   vicarious_experience   .       
+         ,    
+,   ,    .  loss   
+        .      
+    focus ,         
+    (& , ; , ,& , ). 
+  ,           ,   
+    generalizing  focus      (& , 
+; , ,& , ). 
+     focus     (..  
+mastery_experience,  [ownership ])    focus        
+ 
+================
+             
+       . ,      
+focus    mastery_experience     [ownership]    
+       .  mastery_experience    
+appraisal    (, , , ),   
+[ownership]    appraisal . ,   appraisal   mastery_experience 
+                    
+ .           . 
+      combining    appraisal     . 
+             , 
+      mental_calculation        
+    (  ., ).       
+            . 
+   appraisal    ,      
+ participant_modeling    .         
+ ,      appraisal         participant_modeling  
+     .          
+perceived_vulnerability     (, ),        
+               
+  (& , ; & , ). ,   
+        [norms]     syllogistic_rules 
+      (, ).       
+          . ,    
+ 
+================
+             
+ ,  ,  .        
+        behavior      
+.
+        focus      
+     belief         
+appraisal.               
+      process.   focus    appraisal 
+  perception         intelligence   
+    . ().          
+       appraisal  perception   .  
+              
+      personality     (, 
+, ; & , ;   ., , , , & , ).
+       physical_quality ,     
+    protection_effect   appraisal   .  ,   
+       ,    perceived_vulnerability   , 
+       [knowledge]      
+          . 
+,   focus          belief 
+       ,  .     
+,         ,  
+ ,           behavior. 
+ 
+================
+          focus    
+belief,          --  , , 
+ ,   (  ., ;   ., ).   
+            belief  
+    /      combining    
+  (, , ; & , ;   ., ; , 
+; & , ). 
+  focus  , ,&  (),       
+      process          
+()     [modeling ]. ,     
+          belief     
+   .           
+      (.)     ,   
+       .    ,   
+          process (  ., 
+; & , ). 
+,   techniques     focus,   , 
+             , 
+     .        
+    [modeling]  focus    vicarious_experience     
+      .
+         self-efficacy     
+.     gain  personality      
+ 
+================
+ personality,    , personality  (  ,  
+behavior)        (, ,& , ).   
+ perceived_vulnerability              
+  (& , ).  simplifying  perceived_vulnerability,    
+           
+     . ,     combining   
+ (.. , techniques, , )   . ,    
+          . 
+[policy] 
+       focus, [policy]       
+     simplifying       .  
+,   focus            
+                
+ .   focus           
+personality         . 
+            (, 
+)    (, ).  ,   intrinsic_rewards,  
+        , appraisal   
+,             ,  
+            (, 
+). ,           
+ 
+================
+          (..  ,  
+techniques,   ,  ) (, ; , ,& , ). 
+             
+    .           
+ (..  , ),        ,    
+personality      (, ,& , ; , ; 
+, ,& , ).           
+    participant_modeling  ,        
+  (, ).        personality ,    
+             [activity]  
+.                
+ appraisal       (& , ; 
+  ., ; & , ).
+     ,           
+               
+   (, ,& , ; , ,& , 
+).  gain,  focus  , , ,&  ()    
+  ,          
+,              . 
+ focus       perceived_responsibility       
+               , 
+       personality    . ,  focus  
+ 
+================
+, ,&  ()          
+        . 
+          
+(, ).    ()     ,  
+     intrinsic_rewards,   intrinsic_rewards,  motivation.   
+        ,        
+"  protection_effect  ,  intrinsic_rewards      
+,   ,    " (& , , . ).  
+              
+       .       
+     (&  (),     
+             . 
+              
+     .         
+      ,     possibility_effect  .  () 
+      ,         
+ behavior     . ,      loss  loss   
+  possibility_effect      . ,  ,  
+                
+. 
+      .       
+  ,     , ,     participant_modeling 
+    ,       loss     behavior 
+ 
+================
+(, ).           behavior   
+       personality     .   
+              
+participant_modeling   (& , ). &  ()  
+            
+           . , 
+  participant_modeling              
+. 
+    judging  ,  perception  
+           (.. 
+, perceived_uniqueness )     impact     (& , 
+, ;   ., ; & , ).  perception  [knowledge]  
+participant_modeling  role        . ,   
+           participant_modeling     
+             
+,       (& , ;   ., 
+). 
+ gain  ,          
+             
+,     .      
+              
+         physical_quality   .    
+              
+ 
+================
+             (, 
+, , ,& , ).     
+,     techniques           
+      ,    personality  
+,     .          
+perception            . 
+             
+[activity] (, ).           comply_effect 
+           protection_effect  behavior. 
+       ,         
+                
+  (.. ).          
+            . 
+         ,    
+         .  appraisal     
+    focus           
+      .        
+          ,       
+       . 
+ ,               
+;                 
+    .          (.. 
+, )   (  ., , ;   ., )   
+ 
+================
+         ,  perception     
+      ,      ,     
+   .            
+  ,   focus         
+personality  .           
+personality       perception      
+   . 
+               
+          participant_modeling    . 
+              
+       (  ., ; , ). 
+,      ,      
+     ,     persistence.   combining    
+,            . 
+&  ()          behavior   
+     ,          . 
+,            
+    " "    participant_modeling     
+  (& , ).          
+      .       
+  ,  ,          
+[activity] (& , ;   ., ).   focus   
+         . 
+ 
+================
+,           
+   .             
+    .   ,       ,  
+ ,       (..  ,  )  
+ .        ,     perceived_uniqueness 
+            .  , 
+        perceived_uniqueness       
+          .     perceived_uniqueness 
+               
+      . 
+  ,        [policy]  
+        physical_quality  participant_modeling    :   
+(& , ).   ,          
+   physical_quality.   [policy]             
+     (, ),         protection_effect 
+ behavior . 
+      participant_modeling       , 
+,             
+      .      participant_modeling 
+     ()  combining   participant_modeling      
+   .     ,        
+    .     , 
+ 
+================
+, ,  ,             
+    . 
+       personality  ,    
+   simplifying  .         
+   ()          
+,              simplifying 
+           .    
+               
+     .         
+           (  ., 
+),              
+        .     (.. , ) 
+   comply_effect  personality        ,  
+              . 
+,  [authority]            
+         .  ,   
+  combining           
+      ,          
+    .       participant_modeling   
+    simplifying   (& , ). 
+   ,            
+           . ,   
+participant_modeling               
+ 
+================
+   behavior (& , ; & , ; & 
+, ).    ,       belief  
+      protection_effect         
+(, ).    personality         
+satisfaction_of_needs           
+       (, ; & , ).    
+    personality     .   intrinsic_rewards 
+       ,     
+,   , ,      (, ,& 
+, ). 
+       mental_calculation      
+ ,      simplifying    [rewards]   
+behavior      . &  ()   
+"  gain  ,  ,        
+   perceived_vulnerability     simplifying " (. ).  
+  [exposure]       physical_quality,       
+   personality           
+ . 
+ 
+================
+ 
+ 
+================
+ 
+, . . ().  behavior :    perception. ( .). , : 
+. 
+, . . ().  behavior :    perception. ( .). , : 
+. 
+, . . ().  behavior :    perception. ( .). , : 
+. 
+, . . (). intelligence , ,    belief  :  
+  .    & , (), . 
+, . . ().     belief  .    
+, (), . 
+, . . ().    belief  .  .. & .  (.), 
+ belief :    ( ) (. ).  :  
+ . 
+, . . ().     :   belief    
+. , :   . 
+, . . ().  . , appraisal,   ( .). 
+ : . 
+, . . ().     belief.  .  (.),   : 
+   belief   (. ). , :   
+. 
+, . .,  , . . ().    belief    .  
+. , . ,& .  (.),     . (.  
+).  : . 
+, . .,& , . . ().       belief    
+:  , ,  .  . . , . . ,& . .  
+(.),  :     belief (   
+belief  . , . ).  , :  . 
+, . .,& , . . ().  : , appraisal,  
+ ( .).  : : . 
+, . . ().    :    ,  ,   
+ 
+================
+perceived_uniqueness       .    , (), . 
+, . ., , . ., , . .,& , . . ().    
+ behavior.    , , . 
+, .,& , . . ().         
+intrinsic_rewards ( .).  :  . 
+, . ., , . .,& , . . ().  :    
+.  intrinsic_rewards . ,  :    intrinsic_rewards,   
+ intrinsic_rewards  . 
+, . . ().     [exposure]   .  & 
+, (), . 
+, . ().   belief.  :  . 
+, . ().    perception  [action] :    belief.  
+ :  . 
+, . ., , . ., , . .,& , . . ().    
+       :   ‐Wave  
+intrinsic_rewards .     , (), . 
+, . . (). ,  ,   behavior :    
+  belief  .       , (),  
+. 
+, ., , ., , .,& , . ().      
+. ,  :   intrinsic_rewards . 
+, .,& , . ().        ,   
+  ‐social behavior  .  behavior   , (),  
+. 
+, . .,& , . ().       ?  
+         belief  .  
+     , (), . 
+, ., , . .,& , . . ().     : 
+  .?.    , (), . 
+, . ().    , ,  vicarious_experience :    
+ .  , , . 
+, . (). :     physical_quality      . 
+ 
+================
+: . 
+, . .,& , . . ().   belief     : 
+  ?  . . & .  (.),    
+ :     (. ). :  
+. 
+, . .,& , . . ().  , ,   :  
+    belief.     , 
+(), . 
+, . .,& , . . ().         
+.    intrinsic_rewards, (), . 
+, . ., , . .,& , . . ().     
+   . & , (), . 
+, . . (). " physical_quality ":     
+//.       , (), 
+. 
+, .,& , . . ().   :   .   
+   (. ).  : . 
+, .,& , . ().   :    belief .  
+     , (), . 
+, . .,& , . . ().         
+  [exposure]    .  , (), 
+. 
+, .,& , . ().       physical_quality  
+    [action ].   , (), . 
+, .,& , . ().  : ,     
+. , :  . 
+, . .,& , . . ().    belief  
+ behavior.  , (), . 
+, . ., , . .,& , . . ().        
+        . & , 
+(), . 
+, . ., , . ., , . ., , . .,& , . . (). ,  
+,  .       , (), . 
+ 
+================
+, . ., , . ., , . .,& , . . ().   
+belief : ,  ,   .    
+, , . 
+  perceived_consensus. ().  :       . 
+  
+://..//// 
+. 
+, ., , .,& , . ().     :    
+ belief    .    intrinsic_rewards  
+personality , , . 
+, . . ().       . , (), 
+. 
+, ., , . .,& , . . ().      
+:      vicarious_experience   .   
+  intrinsic_rewards, (), . 
+, . .,& , . . ().    . 
+, (), . 
+ intelligence . ().    : . ,  :  
+intelligence .   ://. ./// 
+//. 
+, . ., , . ., , . ., , . ., , . .,& , . . (). 
+   [exposure]         
+.    , . 
+, . . ().  ‐control,  ,  . intrinsic_rewards , (), 
+. 
+, . . ().   perceived_vulnerability :     . 
+& , (), . 
+, .,& , . . ().     :   
+   .    . : 
+, . ., , . ., , . .,& , . . ().       
+    .  , (), . 
+, . .,& , . . ().          
+.     , (), . 
+ 
+================
+, . .,& , . . . (). ,   ,  
+   .      , . 
+, . ., , . ., , . ., , .,& , . . ().  
+    ‐control:       belief  .  
+behavior, (), . 
+, . .,& , . ().     evaluating :   [activity] 
+perception.   , . 
+, . ().     :     . 
+& behavior, (), . 
+, .,& , . . ().   [Organization]      . 
+, ,& , , . 
+, .,& , . ().   :  appraisal   
+    .  . : ./.. 
+, .,& , . . ().  ,  ,   
+:        .   
+    , (), . 
+, . ., , . .,& , . . (). , , ,   
+:    .  ,  : . 
+, . .,& , . . (). evaluating :   .   
+ , (), . 
+, . ., , . ., , . ., , . .,& , . ().   
+  :       belief    
+ .    behavior, , . 
+, . . ().    impact  :       
+.    behavior, (), . 
+, . ().       ,   
+       .  & 
+, , . 
+, . ., , . .,& , . . ().      
+ behavior.       , (), . 
+, . .,& , . ().     behavior :   
+ .  . .  (.),   :   
+(. ). , :   . 
+ 
+================
+, . ., , .,& , . . (). judging      
+   .     , (), . 
+, . .,& , . . ().      :  
+         ?   , , . 
+, . ., , . ., , . ., , . .,& , . . ().   
+  :    belief  . , (), 
+. 
+, . . (). emotional_intelligence :      . 
+ , : . 
+, . . (). physical_quality  .   intrinsic_rewards, , . 
+, . ., , ., , . ., , . ., , . .,& , . 
+().           ?    
+   . & , (), . 
+   . ().     ( ).   
+://. .////.//..- 
+// 
+, ., , ., , .,& , . . (). , ,   
+[exposure]        . , (), . 
+, ., , .,& , . ().     [knowledge]   
+: ,         . : 
+,   .   
+..//. 
+, . ., , ., , ., , . .,& , . ().   
+    [exposure] . & , (), . 
+, . ().     [exposure]     .  
+ , (), . 
+, . (). :    . , : 
+ . 
+, . . (). :       .  intrinsic_rewards .
+ ,  :     ,    intrinsic_rewards 
+ . 
+, . ().            belief  :  
+.  , (), . 
+ 
+================
+, . .,& , . ().       : 
+        belief. intrinsic_rewards , (), 
+. 
+, . ., , .,& , . . ().    :  
+       belief.      
+ , (), . 
+, ., , . .,& , . . ().      
+:     belief.    intrinsic_rewards, (), . 
+, .,& , . ().     :   . 
+   intrinsic_rewards, (), . 
+, ., , . ., , ., , .,& , . ().   
+    .       
+, , . 
+, .,& , . ().       .   
+ , (), . 
+, . . ().      belief  .  . . , 
+. . & . .  (.),  :     belief 
+(. ).  , : . 
+, . .,& , . ().       
+ . , , . 
+, . .,& , . ().   belief  .  , :  
+ . 
+, . .,& , . ().    . , (), . 
+, . ().  :     ? &  , 
+(), . 
+, . ., , . ., , . .,& , . . ().   
+      belief  .     
+  , , . 
+, .,& , . . ().  :       
+.  behavior, (), . 
+, . . ().   :   ,   .   
+  , (), . 
+ 
+================
+, . ., , . .,& , . . ().  : judging    
+    .     , , 
+. 
+, . ().  . . , , . 
+, .,& , . ().        
+       .  , (), . 
+, . (). , ,  :     belief. 
+, , . 
+, . ., , ., , ., , . ., , ., , .,& , . 
+(). , ,  /:     .  
+  , (), . 
+, . .,& , . . ().  perceived_vulnerability    
+         perceived_vulnerability.     , (),
+ . 
+, . . ().       personality     
+?  behavior, (), . 
+, . . ().   belief      . 
+ behavior, , . 
+, . . ().     :      
+belief    belief.     , (), . 
+, . . ().  :         
+  . & behavior, (), . 
+, . ., , . .,& , . . ().  :     
+   belief    belief    
+[modeling ].  intrinsic_rewards :     , ,  , ,  
+. 
+, . ., , . .,& , . . ().       
+personality        .   
+ , , . 
+, . .,& , . . ().    belief      
+     .     
+, (), . 
+, . .,& , . . ().  :    perception. 
+ 
+================
+  . 
+, . ., , .,& , . . ().    :  
+      .  , (), 
+. 
+, . ., , . .,& , . . ().     belief  
+ .    intrinsic_rewards  personality , (), . 
+, . .,& , . . ().  ,  ,    
+belief       .  , (), . 
+, . ., , . .,& , . . ().  :     
+  .  behavior, (), . 
+, . ().     .     
+intrinsic_rewards, (), . 
+, . ().       .    
+, (), . 
+, . ().     belief.  :  intelligence . 
+, . ().  belief    :   . 
+   , , . 
+, .,& , . ().         
+ personality  .   , (), . 
+, .,& , . ().   belief   :   role 
+     .  intrinsic_rewards , (), . 
+, .,& , . . ().     :  
+  .    , (), . 
+, .,& , . . (). :        
+  .  behavior, (), . 
+, .,& , . . ().    :   
+  .  , :  ( ). 
+, .,& , . . ().    :  
+. . 
+, .,& , . . ().       
+    .     , (), . 
+ 
+================
+, . ().   .    . 
+, .,& , . . (). :    belief  . 
+      , (), . 
+, . . ().   :       
+ .  , , . 
+, . . ().  ? judging       
+   .  behavior, , . 
+, . . ().     , ,  fear_arousal.   
+personality , (), . 
+, . . (.). ().  : , ,  . , :  
+ . 
+, . ., , . .,& , . ().     . 
+ :      , (), . 
+, . .,& , . . (). judging      
+belief   .  behavior, , . 
+, . .,& , . . (). judging  syllogistic_rules     
+  .     intrinsic_rewards, , . 
+, . .,& , . . ().  appraisal    []   
+.  behavior, (), . 
+, . ., , . .,& , . . ().  ,   ,  
+ .     intrinsic_rewards, (), . 
+, . ., , . .,& , . . ().    : 
+ . . 
+, . ., , . .,& , . . ().     : 
+judging            .   
+  intrinsic_rewards, (), . 
+, . ., , ., , .,& , . . ().     
+       .   intrinsic_rewards 
+, ,. 
+, . .,& , . ().   [knowledge] :   
+  personality  .  behavior, (), . 
+ 
+================
+, . ., , ., , . ., , .,& , . ().   perceived_vulnerability  
+             
+ .        
+, . ://.././ 
+, . .,& , . . ().        . 
+    , , . 
+, . .,& , . ().   :     
+  .        
+Collection  . 
+, . .,& , . ().     :    
+.  intrinsic_rewards , (), . 
+, . .,& , . . ().     syllogistic_rules    
+[ownership]   .  intrinsic_rewards , (), . 
+, . ., , ., , .,& , . (). judging     
+   .     , (), . 
+, . .,& , . . (). judging       perceived_uniqueness 
+.  behavior, (), . 
+, . ., , . ., , ., , ., , . ., , .,& , 
+. . ().  :  impact     perceived_consensus   
+    .    , (), . 
+, ., , ., , .,& , . ().   behavior   ? 
+  focus   .    , (), . 
+, .,& , . ().     personality 
+ impulsive_effect       .  . & . . 
+ (.), personality  impulsive_effect  : perceived_vulnerability    
+ (. ).  , :   . 
+, . . (). , ,      
+ :   focus   . & behavior, 
+(), . 
+, .,& , . . ().     :     
+ ,  ,   .  . .   . .  
+(.),   belief     :      
+. (. ).  , : . 
+, . .,& , . ().   :   . 
+ 
+================
+ behavior, (), . 
+  frustration_of_needs . ().     .   
+://..///. 
+, ., , ., , ., , ., , ., , . & , . . 
+().      :        
+. , :   .&  .  . 
+, ., , ., , ., , ., , ., , ., , . ., , 
+. ., , ., , . ., , . ., , ., , ., , ., 
+& , . ().  ,  ,   :    
+   .  : , . 
+, . ().   belief   .  , ., &. , 
+. (.),    . (. )   , :  . 
+, . .,& , . . ().    :    
+ belief.  . . & . .  (.),   belief  
+   .    belief.  , : 
+. 
+, . ., , . .,& , . ().     : 
+       .    
+, (), . 
+, . ., , . .,& , . ().    :   
+     (, , ).   , (), 
+. 
+, .,& , . ().    .   , (),  
+. 
+, .,& , . . (). , ,  .  intrinsic_rewards  
+behavior, (), . 
+, . . ().        :    
+ .    , , . 
+, . . ().    :  perceived_vulnerability   . 
+& behavior, (), . 
+, ., , .,& , . (, ).     
+ .           
+appraisal (. ). . 
+ 
+================
+, . ., , ., , .,& , . . ().  syllogistic_rules    
+  ,    personality .  
+, (), . 
+, . .,& , . ().   ,   :      
+  .    ‐Mediated , (), . 
+, ., , . ., , .,& , . . ().     
+.    , (), . 
+     . ().       
+.   ...///. 
+, . . ().    :  appraisal   . 
+:    . 
+, . .,& , . . ().  intrinsic_rewards    . 
+: , & . 
+, . . ().   belief :      . 
+ , , . 
+, . ().      : ,     
+             
+.  & , (), . 
+, . .,& , . . ().    :   
+ belief          . 
+, , . 
+, . . ().         .    
+.   ..///// 
+ 
+, ., , . .,& , . . ().        
+ .   , (), . 
+, .,& , . ().    :   
+syllogistic_rules       .  & , ,  
+. 
+, . ., , .,& , . . ().   ,  ,   
+   behavior    . & . 
+:./ 
+, ., , ., , ., , . ., , .,& , . (). ,  
+ 
+================
+,  :             perceived_responsibility. ,  :  &   . 
+, ., , ., , .,& , . ().    :  
+            
+  .  &   .   
+://..////// 
+. 
+, ., , .,& , . ().   :  gain    
+     impact     . 
+,  :  &   . 
+ ‐Beck, . ().  :  .  : . 
+, .,& , . . ().     : , 
+ , perceived_vulnerability ,  ,  [policy] . 
+  , (), . 
+, . ().    :       
+belief  .  , . 
+, ., , ., , . .,& , . ().    :  
+    . & , (), . 
+, .,& , . ().       
+   belief  .  intrinsic_rewards  behavior, (), . 
+, ., , .,& , . . ().     :  
+   . , (), . 
+, . ().        .   
+ behavior, (), . 
+, . ., , . .,& , . . ().    : 
+      protection_effect .   
+, (), . 
+, ., , ., , ., , ., , ., , .,& , . (). 
+,  ,  .  &   .   
+..//// 
+, .,& , . . ().       . 
+   behavior, (), . 
+ 
+================
+, . . ().  possibility_effect        
+ .     , (), . 
+, . ., , . .,& , . . (). possibility_effect    
+  :         
+[activity] belief.  behavior, (), . 
+, . ., , . .,& , . ().      
+:         [activity] 
+belief.  intrinsic_rewards , (): . 
+, . ., , . .,& , . . ().       
+ :          . 
+    , (), . 
+, . ., , . ., , . .,& , . . ().    : 
+   .  behavior, (), . 
+, . ., , . ., , . .,& , . . (). judging  
+  ,        
+.   , (), . 
+, . .,& , . . ().    personality ?    
+ .  , (), . 
+, . .,& , . (). , ,     
+             behavior. &
+ , (), . 
+, . . ().   []    belief. &
+ , (), . 
+, . .,& , . ().       
+ behavior. , (), . 
+, .,& , . ().     intrinsic_rewards  .
+  . 
+, . ().     .    , ,
+ . 
+, . ().  ,  ,   .
+ , (), . 
+, .,& , . ().        
+ .  intrinsic_rewards , gain  . 
+ 
+================
+ :. 
+, . .,& , . ().       ,
+  ,  . & . gain  .
+ :./ 
+, . ., , . .,& , . . ().     
+    :    appraisal   .
+       , , . 
+, . ().    .  :  . 
+, . . ().      [exposure]  .
+   , (), . 
+, .,& , . . ().       belief. &
+ , gain  . : 
+      ().         
+.   
+://...////.?=&=& 
+=&=&=&=&=&= 
+, . ., , ., , ., , . .,& , . ().   
+     .    , (), 
+. 
+, . ., , . ., , .,& , . (). personality    
+       :    
+   .  & , , . 
+, . ., , .,& , . ().       , 
+   [exposure]     .    
+, (), . 
+, ., , . .,& , . . ().   belief   
+  :   .    intrinsic_rewards, (), . 
+, ., , .,& , . ().   belief   : 
+     . & , , . 
+, ., , . ., , . .,& , . (). ,  belief 
+        .     
+   , (), . 
+, ., , . .,& , . ().     : 
+ 
+================
+judging      possibility_effect       .     , , . 
+, .,& , . ().            
+  . & , (), . 
+, . . ().     intrinsic_rewards  :   
+appraisal.      :    
+. (. ).  . 
+, . .,& , . . ().   :      
+ belief   .     intrinsic_rewards, (), . 
+, . .,& , . . ().  possibility_effect    :  
+    .  intrinsic_rewards , 
+(), . 
+, . .,& , . . ().  belief    physical_quality :    
+  belief   .    intrinsic_rewards, (), . 
+, ., , ., , ., , .,& , . . (, ). 
+    .        
+   appraisal  (. ). . 
+, . ., , . .,& , . . ().    #@%   ?  
+    ?:  role          
+ .   , (), . 
+, .,& , . . ().   ,  .  
+:   . 
+, ., , .,& , . ().        
+   .     , (), . 
+, . .,& , . ().     intelligence  
+  .    , , . 
+, . ., , ., , . ., , . ., , .,& ., . (). 
+    :      
+.      , , . 
+    . ().  :  .  
+ ://../// . 
+   . ().       .  
+ ://...//.?=&=&= 
+ 
+================
+     . ().       
+. ,  :     . 
+, . .,& , . ().  :     
+   .     , (), . 
+, . ().     :   .  . .  (.), 
+ : , ,   ( ., . ). , : 
+  . 
+. ().  :   [ownership]  %.   
+://..///// 
+. 
+, . . ().          .  
+& , (), . 
+   intrinsic_rewards   . ().    . 
+  ://..///.?= 
+, . ().   :        . , : 
+. 
+, . . ().  :  .  , :  . 
+, . .,& , . . (). [policy]      .  
+ , (), . 
+, ., , ., , .,& , . ().      
+     . , , . 
+, . ., , . ., , ., , ., , ., , .,& , . 
+().        :     .  
+  behavior, , . 
+, ., , . ., , . .,& , . ().  , , 
+ :      belief        
+ .        , 
+(), . 
+, . ., , . .,& , . . ().      ‐control: 
+  [policy]     belief  . intrinsic_rewards 
+, (), . 
+, . .,& , . ().     vicarious_experience     
+ 
+================
+       :       intelligence . intrinsic_rewards , (), . 
+, . .,& , . . ().        
+    .     intrinsic_rewards, 
+(), . 
+, . .,& , . . ().      . 
+, (), . 
+, . .,& , . . ().         
+belief  :   ‐analysis. , (), . 
+, . ., , . ., , . ., , . ., , . ., , . ., , 
+. .,& , . . ().       belief :   
+. intrinsic_rewards , (), . 
+, . ., , .,& , . . ().   [activity]    
+:      [activity] belief.     
+  , (), . 
+, . ., , . .,& , . . ().     
+:          .   
+    , (), . 
+, ., , ., , ., , ., , ., , ., , .,& , 
+. ().        .  &   
+.   ://..// 
+////. 
+, . ., , . .,& , . . ().       
+: , ,   . intrinsic_rewards , (), . 
+, . .,& , . . ().   behavior       :  
+   .  behavior, , . 
+, . . ().   participant_modeling       perception  
+?          belief.  
+     , (), . 
+, . .,& , . . ().     : 
+      belief  . , (), . 
+, . .,& , . . ().     behavior .  
+behavior, (), . 
+ 
+================
+, . . ().    perceived_uniqueness     
+ [activity] belief   .      
+ , (), . 
+, . ., , .,& , . . ().     :   
+      .  behavior, 
+(), . 
+, .,& , . ().          .   
+ , , . 
+, . ., , ., , . .,& , . . ().     
+       .     
+intrinsic_rewards, (), . 
+, . ().     : ,   . 
+    , , . 
+, . ().    belief       
+ behavior :   focus.   ,  
+ , , , . 
+, ., , .,& , . ().    behavior :   
+,  ,  personality  behavior .  behavior, , 
+. 
+, . . (). , ,  :    .  :  
+. 
+, . ., , . .,& , . . ().       
+ physical_quality        behavior.   
+  , (), . 
+, . ., , ., , . .,& , . . ().     
+ behavior     .    , (), 
+. 
+ ().           :  
+. , :       . 
+, . .,& , . . ().  ‐Course ?     
+    physical_quality . , (), . 
+, . ., , . .,& , . . ().    :    
+, ,  . , :  . 
+ 
+================
+, .,& , . ().     extrinsic_rewards :     
+    . &  , (),  
+. 
+, . ., , . .,& , . . ().  focus     
+  impulsive_effect . intrinsic_rewards , (), . 
+, . ().    :    behavior.   
+  intrinsic_rewards, , . 
+, . ().     ?      
+  .    , (), . 
+, . , , . .,  , . . (). experiential_awareness   
+    belief. : . 
+, . .,& , . . ().  ,  belief,  
+ . &  , , . 
+, . .,& , . . ().     ( .).  :
+   . 
+, . .,& , . . ().    belief     
+  .       , (), . 
+, .,& , . . ().       :  
+role  .     , (), . 
+, . ().   :       . 
+: . 
+, .,& , . ().     
+.    , (), . 
+, ., , ., , .,& , . ().  impact    
+    .     
+, (), . 
+   ().     .   
+...////. 
+, . ().   . , : . 
+, .,& , . ().       :    
+       .     
+, , . 
+ 
+================
+, .,& , . (). intrinsic_rewards  :  belief  .  
+ , , . 
+, . (). :     . : . 
+, . ., , . ., , .,& , . . ().     
+ ( .).   , :  . 
+, . ., , . ., , . ., , .,& , . . (). 
+ , ,   behavior :      belief .
+ , (), . 
+, . .,& , . . ().         intelligence
+ .  behavior, (), . 
+, ., , . .,& , . ().     . 
+  . 
+, .,& , . (). personality   .  , 
+(), . 
+æ, ., , . . .,& , . ().         
+   .    , (), . 
+, . ., , . .,& , . . ().   /:  
+.  .    , (), . 
+, . ., , . .,& , . ().        
+  :         . 
+  impulsive_effect behavior, (), . 
+, . .,& , . . ().    .    
+intrinsic_rewards, (), . 
+, . ., , . .,& , . . ().      source   
+.    intrinsic_rewards, (), . 
+, . . ().    ?      
+    .    , (), . 
+, . . (). role   " ":      
+  .  , (), . 
+, . ., , . ., , ., , . .,& , . . ().  
+ :       .  
+, (), . 
+ 
+================
+ . ().   .  :   . 
+, . .,& , . . (). , ,  .   
+ , (), . 
+&  . (). , ,  : , ,  [policy] 
+   .             
+           .   
+../// 
+. 
+, . .& , . . (). , ,  .   
+ , , . 
+, .,  , . . (). ?      
+     .       
+, (), . 
+, . .,& , . ().    :   
+   , ,  .    , (),  
+. 
+ , . ().   ?       
+ impact     perceived_vulnerability .    
+, (), . 
+, . ., , . ., , . ., , . .,& , . (). 
+       :     .  
+ , (), . 
+, . .,& , . . ().        
+      belief.  intrinsic_rewards  behavior, 
+(), . 
+, . .,& , . ().    :     
+   syllogistic_rules    .  , (), 
+. 
+, . ., , . ., , .,& , . ().      
+ belief  :    focus     
+  .       , , . 
+, . ., , . . ., , . .,&  , . . ().   
+ belief    " :"      . 
+   , (), . 
+ 
+================
+, . ., , . .,& , . . ().   ( .). , 
+:   . 
+, . . ().    .  . .  (.),     
+(. ).  : . 
+, . . (). :        physical_quality. , 
+:  . 
+, . ().     , . . ().  
+ .../////. 
+, ., , . .,& , . . ().       
+ : , , ,  .    , (), 
+. 
+, . (). , ,  .  , (), . 
+, . ().   :      .  
+ . 
+, . ., , ., , . .,& , . . ().     
+    ?    , ,   . 
+& . :  
+, . . ., , .,& , . ().    :  
+behavior     . & behavior, (), 
+. 
+, . ().  : ,    . . 
+, . ., , . ., , .,& , . . ().     
+:     ,    . & 
+, (), . 
+ .,  .,  .,  . ().     : 
+,       .   , 
+(), . 
+, ., , . .,& , . ().    :   
+. , :    &  . 
+, ., , . .,& , . ().    [exposure]   
+        . , (), . 
+, . .,& , . . ().    :    
+ 
+================
+ ,  , ,   .   , , . 
+, . ., , . ., , . .,& , . . ().    
+[activity]  [exposure]         [activity] 
+belief         behavior. & , 
+. 
+  [Organization ]. ().      .   
+../////// 
+, . (, ).       :   
+   . .   
+://..////// 
+ 
+, . ., , ., , . .,& , . . ().       
+    :     . 
+, , . 
+, . . ().    , : , , 
+.    , (), . 
+, . ., , ., , . ., , . ., , . ., , . ., , .,& , 
+. . ().       :   
+ focus    .  &  , 
+(), . 
+, . ().      appraisal  physical_quality   [activity] belief. 
+   , (), . 
+, . ().   . ( .). :  
+, . ., , .,& , . . (). judging     
+   :    .   
+ , (), . 
+, . .,& , . . (). [exposure]       
+:   . & behavior, (), . 
+, . .,& , . . ().      ?    
+        . , (), 
+. 
+, . ., , . ., , . ., , . .,& , . . ().    
+ 
+================
+   : perception     (), ,  fear_arousal,  .    , (), . 
+, .,& , . (). personality       .  
+  , (), . 
+ 
+================

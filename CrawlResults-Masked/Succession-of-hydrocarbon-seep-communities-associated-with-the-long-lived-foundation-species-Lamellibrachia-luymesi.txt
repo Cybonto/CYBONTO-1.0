@@ -1,0 +1,463 @@
+. : ,  
+  gain  
+    
+   
+           
+  
+ . , ,*,  ,  . , 
+ . ,  .  
+ ,  [] ,   ,  ,  ,  
+ ,   ,  , ,  ,  
+ techniques : 
+     ,  ,   , , 
+ ,  
+isolation_effect :                            .                       . ,              .              appraisal  physical_quality.    , , ,        .  gain,   ,  ,               .                 .           ,             physical_quality   . ,     role                    .       . 
+ :   ·  ·  ·   ·   ·  Deadeye_Jackal ·   ·  ·   
+       perceived_consensus    
+ 
+certainty_effect          persistence     ,     ( ,   . ).              ,   impact            ( ).  extrinsic_rewards       (  . )               (& 
+*: @. 
+ ).  certainty_effect      extrinsic_rewards             ,   (&  ).       protection_effect              ( ).    certainty_effect         ,      (&  ). 
+             .      ,   
+©   · .. 
+================
+ 
+    : ,  
+   personality,        (  . ).           [] persistence -     .        (  . ),      ,     persistence  .            personality   ,      ( ).                             (  . ).                       ()  /       (  . ,   . ).       protection_effect                    ( ). 
+        . ()       .      ( )           .    ,            ,                  (   . , ).                  .             ,     (  . ).    (  . )      (  . )         (&  ,   . )   personality      (  . ,   . ).              ,      ,          ,    ,        (  . , ).             (  . ,   . ),                 ( ,   . ).  combining -         
+  ,        combining    (  . ).   ,      ,          ,       (  . ).       ,  .         (  . ,   . ). 
+                 .            ,    (  . ,   . ).   ,         (  . ),              .                 (  . ).     .             (  . ).      ,          .        ,                .  gain,    ,           (  . ,   . ),    (  . ).          gain             ,          (  . ),          . ,             . 
+  focus,  focus             . ().                                    . ,                ,             . ,            ,     ,        .   intrinsic_rewards      appraisal  physical_quality    
+================
+  .:      
+         .               ,        .   combining          physical_quality      focus    . ,               . ()                    . 
+   
+ combining                  , ,  .                .            ()  ( ,  . ,  . )   ( ,  . ,  . )               .           (  . ),      (  . )     (&  , ),            (.  . .).  self-efficacy      ,                 .   . Collection .   Collection           μ .  .       ,   .       .                      .           Collection           .   . ,               μ .   . ,       .          .     ,                     .              .   ,            .            ,          
+ 
+   .              . 
+          []        . . .   .    .                [] ,                .         .   physical_quality       physical_quality ()       (  . )  ,         (&  ).                  (  . , )     (&  )  ,        (&  , &  ,   .    ).           .     , ,   . vicarious_experience    ,         .                    .     Collection        (): 
+ 
+=−∑ 
+ 
+() 
+= 
+() 
+      (%)     .    intentionality      (): 
+= 
+  
+() 
+    combining      .           mental_calculation      .   ,  ,                 .                            . 
+     ,  .             
+================
+ 
+    : ,  
+ []   .           ;             (  . ,   . ).            personality,        .         : 
+     =× ++×π 
+() () 
+ =  , = , =  ,  =  .                 (  . ).     physical_quality     intrinsic_rewards  (  . ).      ,    intrinsic_rewards,        .                  intrinsic_rewards   .                 .     [function]              ,   appraisal     .                       .       ,                         .         appraisal     ,   , live_modeling    (   . ).                   physical_quality intentionality      . 
+ appraisal  [exposure]      ,               .            :            ( physical_quality ), .           (),             ( physical_quality ).      physical_quality,            .          .       
+               ,   ,                    Collection     (  . ).        . ,  .     . 
+        mental_calculation    . ()      . ().  mental_calculation        ,     (., &  )   (%)  combining        .   ,            μ   .   ()      .              personality  protection_effect        .                    .      .         ,             mental_calculation   .   ,       .  . μ          .     . μ        (belief      )         .              μ         protection_effect  self-efficacy    ,      (   )       intentionality   syllogistic_rules          μ.                         .     physical_quality             . 
+            ()     ().              ()           .   self-efficacy     ,                    Collection .        simplifying        (&   ).     intentionality    [function] : 
+================
+  .:      
+⎡ 
+ 
+∑yy 
+⎤ 
+⎢   ⎥  =−100  
+ = 
+⎥ 
+⎢ 
+ 
+⎢⎢ ∑ 
+() + 
+⎥ 
+⎣ 
+⎥ 
+= 
+⎦ 
+() 
+           ,                        ,     combining   .                       focus.      ;        ( . )                  . 
+          ,     (&  )  .  (  )    intentionality   situational_circumstance .  evaluating                       situational_circumstance          .     physical_quality,  ,    (      ),   . physical_quality   ((+))         .               
+ 
+, , ,   ,         (>. μ)  .                  .    ,    segregating     ,      ( )       intrinsic_rewards       . 
+                     .    intentionality       evaluating  , ,       .                      Collection            .        syllogistic_rules          belief    .   (%       Collection)                     Collection.             physical_quality     intentionality   evaluating .      belief  (α/  α= .  =    )              (&  ). 
+ .        evaluating physical_quality.         ()    (),  ()     Collection     Collection  (=  learning ., =  .).       ,  physical_quality      intrinsic_rewards ,       ()      () 
+   
+  
+.  .  
+ 
+ 
+       .   
+ physical_quality    
+() ( ±SD) ( ±SD) () ( ) 
+             
+   . ± . . ± . .   . .    . ± . . ± . .   . .    . ± . . ± . .   . .    . ± . . ± . .   . .    . ± . . ± . .   . .    . ± . . ± . .   . .    . ± . . ± . .   . .    . ± . . ± . .   . .    . ± . . ± . .   . .    . ± . . ± . .   . .    . ± . . ± . .   . .    . ± . . ± . .   . .    . ± . . ± . .   . . 
+================
+ 
+    : ,  
+ 
+ 
+ 
+   focus ,               ( ).           ,      .%   . ,          .  (, .%)           (, .%).       intrinsic_rewards       .                    physical_quality              ().  physical_quality           . 
+            ,             physical_quality (. ).     (< ., = .)      physical_quality (= ., = .)     physical_quality. ,   physical_quality        (= ., = .)   physical_quality (= ., = .)   . 
+       (  ,   ..// /.),          .  combining              , ,        focus persistence .           (  . ).  combining              ,      .              focus (.  . .).           ,    ,         (.  . .).             ,           segregating  self-efficacy    perceived_uniqueness.              .            (   , = ., = .).                .      .         .  (     ),     (  
+ 
+ 
+ 
+ 
+  
+ 
+-1 
+-2 
+) 
+μ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-1 
+-2 
+ ( 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+-1 
+-2 
+ . 
+ . 
+ . 
+ . 
+ . 
+ . 
+    . . . . 
+ (physical_quality) 
+. .     .         ()    (). physical_quality   ( )     intrinsic_rewards .               ,    (),      ( ).                    
+ (    ) 
+),      (  ).      (    )       . ,  . .     (    ),    , . ,  .       . 
+   ,       ()      (= -0., = .),  (= -0., = .),     ( 
+================
+  .:      
+ ) (= -0., = .) ( ).      certainty_effect         (= ., < .),       (= ., = .).        (= ., = .).                physical_quality (= -0., = .)          (= ., = .).        physical_quality (, = .; , = .)     (, = .; , = .).   (  )          (= .  ., = .  .)     (= ., = .) ( ).               physical_quality (. ).     (  )     (= -0., = .)    (= -0., = .)    physical_quality.     (   )        physical_quality   (= ., < .),          (= -0., = .). ,        . %           (.  ).    Collection ()          
+ 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+   
+. 
+. 
+    
+ 
+      
+ physical_quality () 
+. .       physical_quality.   (  )     . ()   (;      ), ()   (;    , , ,   ), () vicarious_experience  (;  , , ,   ), ()   (; , ,  
+ ) 
+ 
+       (%)          .    ,       ,    %          .   (>  )    %  .      vicarious_experience    physical_quality (= ., < .)                  (= -0., = .). vicarious_experience   %          ( ,   ).        physical_quality (= ., = .)    (= -0., = .).     physical_quality        ,  ,   (   ). 
+             ()  (. ).           (, , , physical_quality)   ,       physical_quality (    physical_quality)      (= ., < ., = ).                 ,   physical_quality            (= ., < ., = ).  physical_quality,     (= ., = ., = ),  
+: . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. .   ()        (> ).         evaluating   intelligence    .            ,      .   personality        .  =  physical_quality  ,     
+  
+================
+ 
+    : ,  
+      (= ., = = .),  .  (= -0., = .)  ., = ),              (= ., = ., = )                    (.  = ., = .; .       .  = ., = .; .  = ., =         .).             (= .   .      ., = ., = ).     focus         (  )   isolation_effect  ( = -0., = .;         (. ),  = -0., = .)           (  )      ( = ., =    ()  (.).   .;  = ., = .).                           
+    
+        (  , = .).      --+         .     (= ., = .,   
+ 
+  = ),       
+    -    focus ( )   
+ 
+       .  
+    
+    -+ 
+ 
+     
+ 
+   -+      . 
+ 
+    --+       
+    -+ 
+ 
+     
+ .   -+     physical_quality 
+  
+ .   -+ (. ),      
+ .   
+ 
+         physical_quality             .  
+         
+   + (< .).        
+    
+ 
+         
+  .        social_circumstance - 
+ 
+ .  + 
+ 
+  .    
+ .         
+ 
+ 
+     .. .   
+ .  +      
+ 
+ .   
+ 
+(= -0., = .)   
+ .   +     (= 
+ 
+ .   ., = .),   .  
+     physical_quality  
+      
+.    
+  
+    . .      .      physical_quality (= 
+(  syllogistic_rules)        -0., = .)     
+   .             
+   ,      belief   
+ .   (),    . ,   : :    .    , :  , : vicarious_experience , :       
+.   ()    (),        
+(),      ().           
+ physical_quality ()    ()   certainty_effect (+)   (= .). .  (= 
+ (-)         . 
+belief           -0., = .) .  (= -0.,  belief  (= .) 
+================
+  .:      
+  (= .),        (= -0., = .)        (= ., = .). 
+         .    . (= ., = .)     .  (= ., = .)            (= .).                  (= ., = .)       . (= ., = .).             physical_quality               . 
+ 
+personality                   .    ,    ,              ,         . ().           behavior_control-ability  ,                       .          ,       .   ,                 .                     . ,    physical_quality   ,      , behavior_control-ability             .       [modeling]                simplifying         (  . ,   . ,   . ,   . , ).                    . , .       
+ 
+         . 
+    ,                      .         focus,          intrinsic_rewards    (  . ,   . ,   . ). intrinsic_rewards          .                   .          ,         .           ( ),           . 
+        physical_quality,          (< ) ,     (. ).                  .             (     . ,   ).  gain       ,              ( )        ,     ,    ,     ,        (. ).            physical_quality,      .          .                     [exposure]     .           ,                    persistence        . 
+   ,               personality gain.     .           ,      
+================
+ 
+    : ,  
+,       ,  .      .  .   .        ,       ,  .      personality gain.                                     .                        source  .            .,           . 
+                    vicarious_experience          physical_quality      .              Collection     (  )       . ( ). ,          (     ).                ,                .          . 
+          appraisal         intrinsic_rewards      (  . ,   . ).                  physical_quality  personality ;                  personality     .        physical_quality               ().             ,            physical_quality  .                (&  ),     appraisal              .      , .      ,      segregating  . 
+         ,          .        ,   ,     ,           .   ,      ,                    .                persistence,          .        intrinsic_rewards              ,                   .      ,          ,                . 
+          .               ,     %   combining    Collection,       .         (  . )     (  . )               .      (  . )    source     ,           personality        .       role                   .    ,   vicarious_experience       gain   protection_effect                          (  . , ).    [function]     (  . )    gain   personality  ,                         (  ). 
+                 .     
+================
+  .:      
+              (  . ).                    (  . ).                                 (  . ). 
+  ,              .      ,   gain         ,                  (&  ).        ,        ,         (  . ).    gain  ,              (  . )       ,               (  . ,   . ).      (  . ,   . )       (  . ,   . )                      . 
+                    .  gain  ,  personality               behavior_control-ability [exposure]                    .    ,       .        , .         .                          .  .      ,   persistence      .                  .             Deadeye_Jackal   . 
+ 
+:   . , . , .  , . ,       intelligence    .   .             focus. . , . ,  .       appraisal     .   .          , .           , .      ,  . , . ,  .        .  focus                           .    . , . , . , . , . , . , . , . , . , . , . , . , .  ,  .         Deadeye_Jackal.       ,     ,             , . .    protection_effect     protection_effect  . 
+  
+ ,   ()       
+          
+  .    :  ,   ()       
+         
+  .   :  ,  ,   ()   
+         . 
+    : 
+ ,  ,   ()  
+   .  :  ,  ,   ()   
+       
+       .   
+  : 
+ ,  ,  ,      
+()     
+       .   
+   : 
+ ,  ,  ,  ,   , 
+  ()        
+:     .  : 
+  : 
+ ,  ,  ,  ,  
+,   ()       
+     situational_circumstance  
+.     : 
+ ,   ()  role  certainty_effect  
+  :    . 
+ : 
+ ,  ,  ,      
+ ()      
+    .  : 
+ 
+ ,  ,  ,  ,  , 
+ ,  ,   ()  
+  :     
+  .  :  ,  ,   ()   
+   belief.    : 
+ 
+================
+ 
+    : ,  
+  ()     symbolic_modeling  
+       
+ .    : 
+ ,  ,   ()  intrinsic_rewards  
+        source.  
+ : 
+ ,   ()     
+:  perception   . , 
+ 
+  ()        
+.  : 
+ ,  ,  ,   ()  
+       
+      
+ .   : 
+ ,  ,  ,  ,   
+() [modeling]     
+   . :  :  ,   ()    :  focus  
+  .      
+: 
+  ()     
+   .    :  ,  ,  ,   ()    
+ : intrinsic_rewards      
+.   : 
+ ,  ,  ,  ,  ,  
+,  .. ()       
+          
+  .   : 
+ ,  ,  ,  ,  
+,   ()   :   
+         
+.      :  ,   ()      
+     .  
+: 
+ ,  ,  .,   ()  
+   perceived_vulnerability loss :      
+ .  : 
+  ()     belief  personality 
+. :  ,  ,   () 
+   [Organization ].   
+, ,  
+ ,  ,  ,  ,  ,  
+ ,   ()     
+         
+  .   : 
+ ,  ,  ,  ,   ()     
+         
+ .    :  ,  ,   ()   
+      :  
+ appraisal   . 
+    : 
+ ,  ,  ,      
+()       
+  :     
+   .     :  ,  ,   ()  modeling  
+      :  
+        
+ .     :  ,  ,  ,   ()   
+     , , 
+      .     
+: 
+ ,  ,  ,   ()  
+        
+     .     : 
+ 
+ ,  ,  ,  ,  
+,   ()      
+: .      .  
+  : 
+ ,  ,  ,  ,  , 
+ ,  ,   ()  
+     . 
+  : 
+ ,  ,  ,   ()  
+        
+     .   :  ,  ,   ()   
+       (  
+).  : 
+ ,  ,  ,   ()  
+        
+        .  
+ : 
+  ()     .  
+ : 
+ ,  ,  ,  ,  ,   
+()        
+       
+   .   : 
+ 
+ ,   () physical_quality  physical_quality  
+    .    
+ : 
+ ,  ,   ()   
+         
+  ,    .  
+ : 
+ ,  ,  ,  ,   ()  
+         
+     ,  
+.     : 
+ ,  ,  ,   ()  
+          
+         
+ .     :  ,  ,  ,  ,  
+  ()      
+ ,    .  
+  : 
+ ,  ,   ,  ,  
+,   ()       
+      
+  (   gain ).  
+  : 
+ ,  ,   ()   mental_calculation 
+      .   
+: 
+ ,  ,  ,  ,   () intrinsic_rewards 
+     ( )  
+     .  :  ,   () :     
+     ,  . , 
+  
+ ,  ,   () , 
+,        
+    .   
+ : 
+  ()      extrinsic_rewards : certainty_effect 
+================
+  .:      
+     .   :  ,   ()     
+      personality  
+    ,  .     
+ : 
+ ,   () live_modeling    
+   .      :  ,   ()    
+ perceived_responsibility :   ( ),  , ,  
+ 
+    :    . 
+ : 
+  () personality    
+        
+.  : 
+ ,  ,  ,   ()  
+       
+/ .  : 
+:  , ; :  ,     ():  ,  
+================

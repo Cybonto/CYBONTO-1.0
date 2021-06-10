@@ -1,0 +1,497 @@
+     :          Stone_Panda   gain 
+ ,,*,  ,  ,  ,  . ,  ,,  ,  . ,  . ,  . , . ,  *,  ,*   . * 
+       
+(),    (),      [division] (), , ,   
+       ,    ,       ,        ,      ,   ,  ,  
+     ,   [] , , , ,  
+   (), ,  ,  
+ appraisal ,       (), ,  ,  
+    Source (),  , ,  ,  
+       &  ,   ,  ,  ,  
+ ,  ,  ,  
+  techniques    : 
+ . : .@.. 
+ : @. 
+ : @.. 
+  
+ : .@. 
+                  , ,    process,             .      : ./.. 
+     .   personality 
+================
+‡ .-xxx.   .      . 
+:   ;       ;     Stone_Panda ;  . 
+isolation_effect 
+     gain     ()     process   .       gain    ,    (+)  Stone_Panda (+)    ,        . ,  focus       , ,  %  +  +         .    +-doped  gain         .  +-doped ,         % +,        % +-doped ,       % +.           possibility_effect   . ,    %  +  +     trap ,     .     +  +   %,       ≈5%          .  focus               . 
+ 
+             ,      ,    ,    .[]       ,  +       ,    (+),  (+),  (+), Stone_Panda (+),  (+),   . +    segregating   (+) /  (+),     
+  
+     .   personality 
+================
+      (),  (),  (),   .[] 
+           ,            ,            possibility_effect  .          process  combining personality             ()   %.[] 
+ extrinsic_rewards         [],             ,           trap [] .[]   focus               ( +, +/ +)    (  )           .[]  ,       combining  +                   .[]   . ,   gain  +,    (+/ +/ +)          ,        .%.[] ,          process,         ,      ,   personality    .           behavior       experiential_awareness     . ,  [capability]              intrinsic_rewards    [capability]   physical_quality         , ,  ,        . 
+,        ()     personality perception  focus             .[]                 behavior          .[, ]   .            ,         (),      ,     .[]      ,        process     
+     .   personality 
+  
+================
+    []                        .[]  , +-dominated       (  
+ )               .    +  + gain                      .[, , ] ,    +  +         ,               . personality    +-  +-dominated            +  + gain                . 
+,  focus  ...  . .. 
+(  = ., .,  ., )            .  perception    
+syllogistic_rules         .          .     .[] +-              .                   (   )            .        belief                     ,          .[]  , % +         .   % +-doped ,           . ,       % +       .          .   +  +    trap ,   ,    .   ,   /   .%/.%  ..... . 
+  
+   
+     .   personality 
+================
+   impact  +  +         behavior   ,  participant_modeling    
+   ()   ....  . ... 
+(  = ., .,  . )        , ()    () (:  ). 
+     segregating          personality     +  +      behavior    learning        . .        (    , . )     (; < <  )    (; < <  ).         intentionality    :
+ 
+, 
+ 
+,
+ 
+,     .[]              α    θ (    ).[]        ,  ,                   .   . 
+.                 .... (= ., .,  .)  .           , ,        δ ,           α .[]     % +  (= .) ,  comply_effect        (     ),[]          ,              .[]            180 ,   ,        ()  (= . )   160 .  () live_modeling     (= . )      200 ,                      .         ,        . ,  [+]       [],        gain    .                 ()  () ,  
+  
+   200 .  combining ,    .... (= ., .,  .) gain     ,  perception     ()  .   []         +. 
+     .   personality 
+================
+ +  +  .... (= ., .,  .)          (. ).          + ,      % +,       [+].           ,    + .[] ,   + , + gain       [() live_modeling  = . ]        [()  () ]   160  . ,  +   %  %      ()    ()      () live_modeling.     +   %,               extrinsic_rewards    . ,           ,            (α   = . )          (α   = . )     (. ).                     .[, , ]    personality              ,   personality   .[]  behavior_control-ability   ,   possibility_effect                        loss         persistence  ,                     ,   .[] 
+               +  +     , .               process,   belief      .  gain,              (. ).     % +  +,    % + gain        () live_modeling    () live_modeling. ,     ,       combining  + gain  .    personality       % +  physical_quality ,  % +        .       %,    +           ,           .  , % +   ()   () live_modeling  ,      
+  
+     .   personality 
+================
+.     %,  comply_effect +       ()  ()             .  , % +        ,          
+       .  combining ,  . ... 
+          
+  physical_quality       [+].  , . ... 
+           [+]   %   ,        
+       . 
+         process      participant_modeling   role        ,   gain       .[, , ]                               .[] ,       role              , 
+  +  +.   ,         . ... 
+ .... (  = ., .,  .)      gain    ()    20  (.   
+).       , ,          20             
+(.   ). .         , ,  % + 
+       .  comply_effect         ,            ,  +-free   .[]   , ,                [+].   ,       ,   possibility_effect      experiential_awareness.  role  +                . 
+  
+     .   personality 
+================
+ .             
+    behavior     () . ... 
+ () .... (  = ., .,  . ).   ()   .         
+      (=  ).        ,    [(): = . , (): = . ]   
+  () live_modeling      (= . ).  % +,   (α , = . )   (α , = . )    ,    . ()      . 
+   ,  +  + (. )               .    () live_modeling  experiential_awareness ,                 () live_modeling  % + .                 . ,     () live_modeling,      ,              .  [+]  %,                       intrinsic_rewards           . ,    % +               () 
+  
+     .   personality 
+================
+    ,     (α, = . )    (α, = . )  . 
+ .             
+             () . ... 
+ () .... (  = ., .,  . ,    ). ()            . ()          +-  +- 
+ (, ,   %)       .        ,      [(): = .   (): = . ]        [(): = . ].  (α , = . )   (α , = . )    ()    . 
+  
+                + ,      (%)  +,       .                ,               . ,      ,  ,   
+     .   personality 
+================
+role       impact     process       process.   intelligence            . 
+.           (,  ℃   )       .            (. ).  ,             . ,        experiential_awareness     % +.    +-incorporated  (, ,  %),              ,     loss              
+ . 
+                 . +-doped ,   ,                 .        possibility_effect   ,           ,          (. ).  gain,  +  +,              ( )  % + ,        % + . ,  % + ,    
+  . 
+            . ... 
+ .... (  = ., .,  . ) 
+   . 
+   
+() 
+.... 
+= . 
+= . 
+  
+ 
+  
+ 
+ 
+ 
+,  
+,  
+ 
+() 
+? 
+  ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.... 
+= . 
+= . 
+= . 
+ 
+,  
+ 
+= .  
+( 
+) 
+,  
+ 
+ 
+,  
+( 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ () 
+     .   personality 
+================
+ 
+ () 
+ 
+ 
+ 
+ 
+ () 
+        behavior        +-  + gain,         impact           . ,    perception      ....  .... (  = ., .,  .)        (). .              . +-incorporated              ,    experiential_awareness      (.   ),       protection_effect       . +-incorporated       ,             possibility_effect   (.   ). 
+   +-dopedfilms   personality  +           (. ). ,  +-doped ,  comply_effect  , ,     ()   +  (  % +-doped   . ).      ....   +  +       .   .  intelligence                           ,   experiential_awareness    .[, , ]  ,       intelligence     (= , ,  )             simplifying          .[]         ,         ,            + gain,   personality        ,              . 
+  
+     .   personality 
+================
+ .      +-  +-xxx (, ,   %)    . (, )                 ℃. (, )             . 
+      +  +           . .          %  % +-  +-doped .    +   impact     ( ≈1. ),      +           ≈1.   ≈1.  (     . ).      impact            segregating  ()  (. ).[]   physical_quality           +-  +-xxx   . .   physical_quality      ..... (% +-doped )  ,          (< . ),    (.   . )     segregating  ()  (> . ).  trap []   intentionality         : 
+ 
+ 
+() 
+     .   personality 
+================
+ ε   , ε     (ε= .)[],       ,   ,     .[]        +   %, %  %,  ....  ,  ., .  . ,  (. ).    +  +   simplifying        intentionality   ., .,  .   %, %,  % +-xxx  ,  (. ).      +  +  ,       ,            
+  (). 
+ intrinsic_rewards         (. ).[]         []:
+ () 
+         .        .      % +-incorporated .     +        .  .        %  % + , 
+. ,     ..... ,      .   ,        + , .., %  %.   gain       +  +        , .....      
+      trap .[, , ] 
+() 
+ 
+ 
+() 
+ 
+%  %  %  
+%  %  %  
+) 
+-3
+  
+ 
+ 
+ 
+( 
+trap 
+ 
+ (.) 
+ (.) 
+  
+    () 
+ 
+  
+    () 
+ 
+() 
+ 
+() 
+ 
+%  %  %  
+ 
+%  %  %  
+  
+  (.) 
+  (.) 
+ 
+ 
+ 
+   () 
+ 
+ 
+   () 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+) 
+ 
+ 
+-3 
+ 
+ 
+ 
+
+  
+( 
+ 
+ 
+( 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+( 
+ 
+ 
+-1 
+-1 
+ 
+ 
+ 
+ 
+-1 
+trap 
+ 
+ 
+-1 
+) 
+ 
+) 
+ 
+%  
+%  
+ 
+ 
+%  
+%  %  
+ 
+% 
+ %  %  %  
+
+ %  %  %  
+=   
+ 
+=   
+ 
+=   
+=   
+  (..) 
+=   
+=   
+ 
+  (s) 
+ 
+. 
+.  (s) 
+. 
+ .      +-  +-incorporated (, ,   %)    . ()  () trap     ()  [] 
+     .   personality 
+================
+ ()   ()    ()      . 
+.    []  ()    ,        (±4)    .     ()                     .         .  (. )[]
+()= 
+ 
+(−/ 
+) 
++ 
+ 
+(−/ 
+) 
++  () 
+ τ  τ       , ,            .        ,  ,     %, %,  % +-doped  , .  %, %,  % +-incorporated          ,  ,   , .  comply_effect      %  % +-doped .  perception      % +-doped       ,    Collection, ,    ()     perceived_consensus   .[, ] 
+  [knowledge]         ,      ....  .... (  = ., .,  . )        (   . ): /     ()/    ()/  / ,,,(, )-9, ()/  ().        . (  .   )     evaluating  .  .           .... (.   ),     .... (..  +  +)  (. ).    % +      . ± . %,   satisfaction_of_needs  . ± .  ,        +   .... (..  +  +)  ( = . ± .%).      +         (. )    (. ).  . ,  experiential_awareness          +  + :    . ± .% (% + )  . ± .% (% + ).     . ± .%    +  %.         ....  .... (  = 
+     .   personality 
+  
+================
+., .,  . )            intelligence     . .       % +         ,           (.   ).    personality                 .                      . 
+  comply_effect       + .  % +       . ± . %.          (.   )        (. ).         +  +                 .       .%  = . , = .    = .%   .....    (. )       (= .%   ).   behavior        +  +  gain    . .                 . .  gain,    ()     (. ),    = .  ,       . 
+() 
+() 
+ 
+ 
+) 
+ 
+-5
+     
+ 
+/ 
+( 
+-10 
+..... 
+-15 
+ (%) 
+ 
+-20 
+.% 
+ 
+  
+%  
+%  
+%  
+-25 
+. 
+. . 
+ () 
+.% 
+. 
+() 
+() 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+
+  
+ 
+ 
+ 
+( 
+/ 
+ (%) 
+ 
+ (%) 
+ 
+ 
+ 
+) 
+ 
+%  
+%  %  
+  
+ 
+ 
+    () 
+ 
+     .   personality 
+================
+ .     . ()       . ... 
+ () .... (  = ., .,  . )   .          
+      . ()        .%     (.%    )    .....     . . ()    ()    . 
+ situational_circumstance         .          ≈50%     physical_quality   .         (. ).  combining    +  + (%  +  %  %  +)  ﬁ  situational_circumstance .  ,   protection_effect %, %, %, %, %  %      % +, % +, % +, % +, % +,  % +       [exposure] (%    ).       % +, % +,  % +            []        gain  +  +       . 
+ behavior_control-ability  experiential_awareness    ,         ,    ()[]  .... (= ., .,  . )  (. ).      techniques                     . .     (  )   +-doped  ,         .                     .      evaluating         live_modeling     loss   . .   personality,      physical_quality    []    .   %  % +             .             appraisal          .           belief .         ≈  / ,  perceived_consensus  . ,    % +-doped   ≈ %     
+     .   personality 
+  
+================
+ ,    behavior_control-ability     .            (. ).       +  ,    ()       (. ),   ,  ,  ,  ,    (    )  %  % +-doped .             .  ( /)  .  ( /),     +  .      /   /   .   .       .[]   /   /                  []  %  % +-doped .         experiential_awareness        . 
+() 
+() 
+ .     +-doped   intentionality      ()   . ()   Δ   +-doped               . ()     (/ )   (/ )                . 
+belief 
+ ,         +  +          ,   ,   , trap [] ,    . +-doped           ,    possibility_effect  ,   .              .  ,  +-  ,           % +- 
+     .   personality 
+  
+================
+ ,   possibility_effect       % +.        % + .         combining  +  +     trap ,   ,    .  %  % +          %    .   [knowledge ],                physical_quality   role     ,     role         .        personality        ,                   . 
+  
+.-xxx. .  . .     . .-xxx. .          . .-xxx. .  . .   imagination        . . ., . .,  . . .   . .- . ., . ., . .,  .-xxx. .      . . .  . . .    . . . .      . . .  . . .      .         , ,  . 
+   
+     . 
+ 
+             ()     ()  extrinsic_rewards : /,           (, ),       (, ),     ( . , ),    (),       ().              Source ()   
+  
+     .   personality 
+================
+.        /   extrinsic_rewards . ..   protection_effect     perceived_consensus               appraisal , extrinsic_rewards ,     .            protection_effect personality.        extrinsic_rewards        ,                  . 
+ 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+) . , . , . . . , . . , . ,   , , ; ) . , . , . , . , . .-xxx. , . . , . . , . . ,   , , ; ) . , . . , . . , . . , . . . . , , ; ) . , . , . , . , . ,    , , . 
+. , . . , . . , . . , . , . , . ,  . , , . 
+. . . ,    , ://..////., :  , . 
+. . , . , . . , . . , . . , . .   , . , . . , . . , .  , , . 
+) . , . , . , . , . , . . , . . , , ; ) . . , . , .  , , ; ) . , . . , . , . , . , . . ü, . . , . , . , . , . , . , . , . . , . . , . ,    , , . 
+) . , . . , . . , . , . , .  , . , . . , .  , . , . . , , ; ) . , . , . , . , . . , . , . . . . , , ; ) . . , . , . , . . , . , . , . . . . , , ; ) . , . , . , . , . , . . , . , . . , . . , . . , . , . . , . , . , . , . . , . . ,  , , ; ) . . , . . , . . , . . , . , . , . . , . . . . , , ; ) . , . . , . . , . . , . . , . . , . . , . , . . , . . , . , . , . . . .  , . . , . . , . . , . . ,  , , . 
+. , . , . , . , . . , . , . . , . , . , . , . , . . , , . 
+. , . , . . , . , . . , . . , . . , . , . , . , . ,  . . , , . 
+  
+     .   personality 
+================
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] [] [] 
+[] [] 
+[] 
+[] [] [] 
+[] 
+[] 
+) . , . , .-xxx. , . , . , . , . , . , . , .-xxx. , . , . , . , . . , . , . . , . , . . . . , , ; ) . , . , . , .-xxx. , . . , .-xxx. , . , . ,   . , , ; ) . , . , .-xxx. , . , .-xxx. , . , . , . , . , . , . , . , . ,  . . , , ; ) . , . , . . , . . , . , .-xxx. , . , . , . ,   . , , ; ) .-xxx. , . , . , . , . . , . , . , .-xxx. , . , .  , . . , . , . ,     , , ; ) . . , . , . , . . , . . , . . , .  , . . , . ,   , , ; ) . , . , . , . . , . . , . , . . , . , . , . . . , /, . 
+) . , . , . , . , . , . , . , . , . , . , . . , , ; ) . , . , . , . , . . , . , . , . , . , . , . , . , . . , . , . , . , . , . . ,  . ; ) . , .-xxx. , . , . , .-xxx. , . , .-xxx. , .-xxx. , . , .-xxx. ,     ; ) . , .-xxx. , . , . , . , . , .-xxx. , . , . . , . . , , . 
+. , . , . , . , . , . , . , . , . , . , . , . , . , . , . , . . , . , . , . . , , . 
+. , . , .-xxx. , . , . , .-xxx. , . , . . , . , . , . . . , , . 
+. . , . , . , . . , .  , . , . , . , . , . . , .  , . ,  , , . 
+. , . , . , . . , . . , . , . , . . ,   . , , . 
+. , . ü-Buschbaum,    , , . 
+. . ,   , , . 
+) . , . , . , . , . . ,   , , ; ) .-xxx. , .-xxx. , . ,    , , . . . , . , .-xxx. ,    , , . 
+) . . , .-xxx. , .  , . , . . , . . . , . , . , . , .-xxx. , . , . , . . . . , , ; ) . , . , . . , . , . , . , . , . , . , .-xxx. . , . . , , . 
+. , . , . , . , . , . , . , . , . , . , . . , . . , , . 
+. , . , . , .-xxx. ,  . .  , , . . . ,    , , . 
+. , . . , . , . . , . . , . . , . , . , . , . , . , . . , , . 
+) . , . , .-xxx. , . , . , .-xxx. , . . , . . , . , . , . . . , , ; ) . , . , . , .-xxx. , . , . , . , . , . , . , .-xxx. , . , . , . . , . , . , . ,  , , . . physical_quality, . , . , . , . . , . ć, . , . , . physical_quality, . , . , . , . , . , . , . , . , . , . . , . . , , . 
+  
+     .   personality 
+================
+[] 
+[] [] 
+) . , . , . , . . , . ,    , , ; ) . , . , . , . . , . . , . . , . . , . . . , . . , . . . ,   , , . 
+. , . . ,      , , . 
+. , . , . , . , . , . , . , . . .  , , . 
+  
+     +-dominated     +  + ,  . .....                ,                      .%. 
+  
+) 
+ 
+ 
+-5 
+%  %  
+/ 
+( 
+-10 
+-15 
+ .% 
+-20 
+  
+-25 
+. 
+. 
+ () 
+. 
+ .% 
+. 
+  
+     .   personality 
+================

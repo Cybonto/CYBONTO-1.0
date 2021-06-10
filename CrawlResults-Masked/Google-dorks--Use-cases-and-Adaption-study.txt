@@ -1,0 +1,1235 @@
+ :     focus 
+   
+    learning     belief 
+   
+  
+  
+: 
+..   ..   
+ perceived_uniqueness   belief            
+belief      . 
+ 
+================
+      
+ 
+ :  :     focus 
+learning     belief,  .    
+  
+  physical_quality       .          .    ,            ( )        . ,   ,           , ,   .        ,            task .   intrinsic_rewards         .         intrinsic_rewards      .            behavior_control-ability   belief      , perceived_vulnerability , . 
+    belief      intrinsic_rewards        , , perceived_vulnerability        . ,   focus     focus  belief   intrinsic_rewards      .    focus,   appraisal           ()  , ,  gain, ,               . 
+:  ,  ,  , physical_quality ,  ,   belief 
+ 
+================
+   
+  ............................................................................... 
+ ...............................................................................  
+     ...............................  . personality ............................................................................... .   ................................................................................    ............................................................  .    process ................................................................. .     ................................................. .   : , , , , , :"  "  
+.    ........................................................ 
+..  :         
+........................................................................................................................ .     ............................................... .     ...........................................................   ............................................................  .    ............................................... . personality  ,   ...................... 
+..    ........................................................ 
+..   ............................................................................ 
+..   ............................................................................ 
+..   .  . ...................................... 
+..        ,  ...................... 
+..            
+..       .............................................. . perceived_vulnerability   .......................................... 
+..    opportunity_for_criminal_acts  SQL_Injection, ............................. 
+..   ...................................................................................... 
+.. personality ,   personality    ............ 
+..  ,  ................................................................................ 
+.. opportunity_for_criminal_acts .......................................................................................... 
+.. opportunity_for_criminal_acts .............................................................................................. 
+..  :    .......................................................... .     ......................................................     ...............................................  . perceived_vulnerability intelligence ................................................................ 
+ 
+================
+.  ..................................................................................... 
+..        ........................................... 
+..   , , , ,     
+................................................................................................................... .  ..................................................................... 
+..  .................................................................................... 
+..     ...................................................... 
+..     ................................................................. 
+..      : ., ................... 
+..    . ,     
+ ............................................................................................ 
+..  ,         ........... 
+..          ....... 
+..  :         ........................   focus ........................................................................  
+. .......................................................................... . ............................................................................................ .  ............................................................................... .   ........................................................................ 
+..     ............................................................. 
+..  ...................................................................................... 
+..     .............................................. . ,    .....................................  belief ................................................................................  
+...................................................................................  
+: appraisal .................................................  
+ 
+================
+   
+ : .   ....................................................................... 
+ : .  .................................................................................... 
+ :  ...................................................................................... 
+ :  , ,     ............................ 
+ :             (  ).......................................................................................... 
+ :    .......................................................................... 
+ :    .......................................................................... 
+  : () .......................................................................... 
+ : belief    ............................................................................... 
+ :  () ...................................................................... 
+ : belief    ............................................................................ 
+ 
+================
+   
+ :    ........................................!   . 
+ :    .................................................................................... 
+:     ...................................................................... 
+ :     .................................................................................. 
+ :     ............................................................... 
+ :  .  .......................................................................... 
+ :     ................................................................................... 
+ :      ....................................................................... 
+ :  .  ........................................................................................  
+ :  . .........................................................................................  
+:   .  .......................................................................... 
+:    ......................................................................................  
+:     ............................................................................ 
+:      ..................................................................... 
+:  opportunity_for_criminal_acts  ..................................................................................... 
+ :    .................................................................................... 
+:     ................................................................................. 
+:   .  .......................................................................... 
+:     ........................................................................ 
+ :     ............................................................................. 
+ :       ............................................. 
+ :    .......................................................................................  
+ 
+================
+ :     ........................................................................ 
+ :       ............................................... 
+ :     ......................................................................... 
+ :     ............................................................................ 
+ :   ................................................................................................. 
+ :    //  ................................................................  
+ :         ........................................ 
+ :    ............................................................................... 
+ :      ................................................................. 
+ :     ........................................................................ 
+ :   .............................................................................................  
+ :   ..............................................................................................  
+ :     ................................................................... 
+ :   . ................................................................................... 
+ :     ........................................................................ 
+ :    .......................................................................................  
+ :   .......................................................................................  
+ :       ................................................................  
+ :      ............................................................................... 
+ :   .........................................................................................  
+ :   ............................................................................................  
+ 
+================
+ : ,., ............................................ 
+ 
+================
+  
+    physical_quality          intrinsic_rewards    / .       belief,      .                [].        , , ,        .              . ,                 combining      .    , , , ,                        .           [].           .         belief [].    ,         ,   gain      []. 
+          ,   ,    ,        combining        intrinsic_rewards,     ,     .    () []      .   personality     .    intrinsic_rewards               , perceived_vulnerability ,    personality ,         ,   ,   ,      physical_quality . 
+ belief    .                ,    personality            . 
+ 
+================
+    protection_effect             , ,  . 
+                         .   behavior_control-ability            ,   ,  ,    . ,          .           vulnerabilities  possibility_effect      SQL_Injection         .,     ,    focus            , , ,  .        . 
+    physical_quality                .         ,   ,            ,         physical_quality ,       physical_quality   ( )         physical_quality        . 
+   ,     simplifying              belief (),              appraisal              . 
+,  belief                process   belief. 
+ 
+================
+     
+  ,   protection_effect  personality                    .                    . 
+. personality  
+              process.      .  ,    , ,                  . 
+ personality             ,    ,      .   perception     ,  ,                   .  ,   ,        personality.   "   "     .      /             belief. ,       ,           "Brute_Force ". ,          Brute_Force . 
+  personality              ,           ,   .     ,  ,         .,        personality         .         . 
+ 
+================
+           [exposure]             ,   ,  ,   .                       .             . 
+,    personality        ,      ,            .      focus   belief   .             . ,   ,                 .        combining                   . 
+ personality           physical_quality      ,     physical_quality     personality,      ,              .       []        physical_quality      . 
+   ,      personality    syllogistic_rules                              ,       .              perceived_vulnerability ,  ,   . 
+ ,                               physical_quality  ,                 .            belief             segregating  . 
+ 
+================
+.   
+  ,      physical_quality                   . ,    ,                          .    ,   perceived_vulnerability ,   personality ,                                         belief.         . 
+        
+        
+ 
+  
+  
+ 
+ :    
+    
+perceived_vulnerability   
+ 
+   
+  
+ 
+      
+   
+(                      belief) 
+ 
+================
+       : .        .       
+.        .           
+                       .  ,     perception                    personality   opportunity_for_criminal_acts  []. ,        techniques          vulnerabilities   (    perceived_vulnerability ) [].           perceived_vulnerability ,               [].                ,        ,              " "        /  opportunity_for_criminal_acts  [].   opportunity_for_criminal_acts    personality   ,               opportunity_for_criminal_acts ,                     []. 
+   " "         ..        intrinsic_rewards                   []. 
+                 .         personality  ,       personality                      
+ 
+================
+personality  (           perceived_vulnerability ) []. ,                           [].    ,   ,  ,                  [].  ,        ,  ,   ,         intrinsic_rewards   ,       .                                  intrinsic_rewards. 
+  focus  ,             ,     opportunity_for_criminal_acts [].      focus     perceived_vulnerability            . ,            vulnerabilities                           []. 
+     extrinsic_rewards     .                           vulnerabilities    [].     ,        opportunity_for_criminal_acts      []. 
+ extrinsic_rewards       opportunity_for_criminal_acts         (   ).                           [].                 ,          
+ 
+================
+            .                     [].                    ,            .  ,                          ..                ,          []. 
+            .   ,             [].                        opportunity_for_criminal_acts   .  ,                            .                []. 
+                             .               [].          opportunity_for_criminal_acts     SQL_Injection      SQL_Injection  []. ,             [knowledge]     -attacks                 .     segregating      ,      , ,    .            ,      ,   intrinsic_rewards [].  gain           opportunity_for_criminal_acts       ,       -tools.[]         
+ 
+================
+                []. 
+       perception    .            personality,            judging   []. 
+         ,            satisfaction_of_needs  .   ,   .       Collection       []. ,                      . ,  ,                 .               [resource]        [].       belief              []. 
+ 
+================
+    
+       process           , , ,    personality         [].              ,       vulnerabilities    [].    [goal]                    .      belief     ,                     .      [] mental_calculation          vulnerabilities    []. 
+.    process 
+         ,                process                personality,                             personality             perceived_uniqueness.                         .            ,  ,             .  .                       .  certainty_effect     ,          []     ,        ,                     extrinsic_rewards    process. 
+ 
+================
+.      
+        process                intrinsic_rewards  .          , , ,                           vulnerabilities  .                            intrinsic_rewards                . 
+.   : , , , , , :"  " 
+               [knowledge] /   .                ,  vulnerabilities, perceived_vulnerability intelligence ,   ,                 belief    intrinsic_rewards .                             []               ,,   .   [goal ],    perception             .        : 
+:  _the_topic 
+   ,           .            []                .                .              : 
+ 
+================
+   
+   "|"                  | .            "-"       .                []. 
+: 
+            ,                    . 
+: 
+           .              combining    . 
+: 
+                     combining    . 
+:        
+:                    () [].  ,  :.       ,  :        . 
+:              .                      ,       . 
+                     .       .   :          . 
+ 
+================
+:                  . 
+:           ,    combining    ,          ,            . 
+         belief  : " " " "        " "       personality   .         personality      . 
+            .                            .        : 
+: :"" :"" : 
+ :    
+         combining       ,      . 
+ 
+================
+.     
+                  .  ,                 ,,.               ,    :  :: 
+:* : 
+       syllogistic_rules                       . 
+:     
+..  :          
+                                   ,   ,   focus        .   ,         .          
+ 
+================
+                                   Brute_Force    .
+ :.*. *
+ :.*.* :"" 
+.      
+.    personality             []. ,     ., .,  .                           extrinsic_rewards    .   ,         .  . .,     belief   .    . 
+. 
+                                     intrinsic_rewards          []. 
+   ""  ""                 . []. 
+ 
+================
+ : .   
+ 
+ 
+  
+        
+"  " 
+       "  "    .      . 
+ -dogs 
+     
++ 
+    
+ : 
+   ,    (), , ,()   
+ : 
+     
+ : 
+       
+:  
+       "" 
+: 
+      "" 
+.         .                 .                []. 
+ 
+================
+ : .   
+ 
+ 
+: 
+ 
+     :               
+ 
+: 
+    
+     
+: : : 
+   
+   ,  , ,     , 
+ 
+: 
+       techniques.   techniques      . 
+: 
+     
+  : 
+:  : 
+     
+   . 
+: 
+           
+ 
+: 
+    , ,   
+: ,: 
+      
+: :      ""   ,      
+:... 
+: 
+      
+: 
+      
+ : [Organization]           [Organization] 
+ :. 
+       .   
+ 
+================
+: 
+     :  
+              
+   
+: 
+           
+     
+: 
+ 
+:. :  
+   
+.       
+      :. 
+techniques            
+ 
+ 
+: 
+       : 
+   
+          
+           belief        
+  . 
+.      
+"  "                      ().           opportunity_for_criminal_acts        .           "  " [].          :" "," "," "," "," "," " .      .   perception                   . 
+ 
+================
+           , ,   .                                           [].        ..  ..        .                    [].                , ,     .     mental_calculation                       personality ,  ,  ,   . 
+ 
+================
+   
+    personality     .               perceived_vulnerability    [].                perceived_uniqueness  persistence             .                    [].     ,  ,     ,  ,    . 
+.     
+ ,    "",       process       [].             .  ,  , personality ,  ,  ,                              .           personality             , ,   .                          .    , personality               [Organization]  .    ,                 .                    belief            belief []. 
+ [knowledge]   ,        [Organization ],  ,        [Organization]                      
+ 
+================
+ .                [].   ,              ""  ""           , ,  [Organization] ,   .         .     : 
+:* : : 
+           (),               ., ,  . 
+ :     
+           personality  .      ..,       :*..        . .               vulnerabilities      . 
+              .          mental_calculation    ..  :.   :    
+ 
+================
+    []                 vulnerabilities     . 
+:. :(     ) 
+. personality  ,   
+  ,                  source    [].                       .         .      source       personality,          .        .    ,    ,     process"  "      .           "    ".           " "        ,                 .           []. 
+                 .                     .             belief.                . ,         . 
+ 
+================
+ :   
+..     
+         focus                          . 
+            ""                   belief .         . 
+                  .      perceived_vulnerability      . 
+ 
+================
+                    personality          .   .                   syllogistic_rules.         personality     .            simplifying  perceived_vulnerability []. 
+ :  .  
+                          /   combining     ":"      ":" ,          ":".   ,     : 
+:" " "." : 
+ 
+================
+..    
+                     .              .    []         []           , participant_modeling  process        .            [].  ,             ,           process. 
+     extrinsic_rewards                          physical_quality,   , techniques,    focus,  ,   .                      techniques   " ".  ,   ,                   " ". 
+ 
+================
+ :     
+        "/.?="                 . 
+          ,       []    perceived_vulnerability                   .
+ :*/.
+ :*/. :"" 
+             [].                    . 
+ 
+================
+ :     
+..    
+                     intrinsic_rewards        . 
+       : : " " "."   physical_quality            .          []. 
+ 
+================
+ :  .  
+     ,                  ,   . ,         intrinsic_rewards              " ".           "  ".            ,    .              []                       .                .      , ,  .                            .    ,                             extrinsic_rewards        .   , loss extrinsic_rewards              
+ 
+================
+         ""                      "  " 
+..   .  .  
+          , ,                [].               [].        personality             extrinsic_rewards ..                 .              .   .                           "segregating"   . 
+              .        "segregating" .              /       [resource]    .          .                . 
+ 
+================
+ :  . 
+         :*//.. .         , ,        syllogistic_rules      learning          .                  .    ,                        []. 
+ 
+================
+:   .  
+..        ,   
+    ,         possibility_effect         .     .                [].          .    process   impulsive_effect,        .               [].      extrinsic_rewards          . 
+              possibility_effect  .. .        .             .: 
+:.* -site:. 
+ 
+================
+:     
+    intrinsic_rewards,          personality      .    :
+ :. :"@." :"@."
+ :. :"@." :"@." 
+              []        . 
+ 
+================
+:     
+,   ,   ,     ,            participant_modeling       .     belief,                intrinsic_rewards  personality   ,    .         :
+ :. :"@." :"@." 
+:. :"@." :"@." 
+ 
+================
+:     
+..            
+  ,                     ()   [].     "","@."         ,    personality source    .                .     segregating   , ,         :
+ :*/// :"@." :""
+ :/// : :"@." :""
+ :/// : :"" :"" 
+ 
+================
+..        
+ gain        ,     participant_modeling   .            , , , ,       ,  : 
+:"@.:" :"@.:" :"" 
+  ,              syllogistic_rules      ,       ()  intrinsic_rewards       . satisfaction_of_needs    ,       .              []       .             .  extrinsic_rewards evaluating  satisfaction_of_needs             % [].          personality   ,           .       [Organization]  protection_effect  perceived_uniqueness        -factor  ()     simplifying  perceived_vulnerability    []. 
+. perceived_vulnerability    
+        SQL_Injection []   []               opportunity_for_criminal_acts .  gain    opportunity_for_criminal_acts ,               ,        .              . 
+ 
+================
+..    opportunity_for_criminal_acts  SQL_Injection,  
+          opportunity_for_criminal_acts  SQL_Injection                                                      [].              opportunity_for_criminal_acts        SQL_Injection  . 
+:  opportunity_for_criminal_acts  
+ ,    ,   .   vicarious_experience            , , , ,   .           opportunity_for_criminal_acts   . 
+..    
+   " "           .          
+ 
+================
+                . 
+ :    
+             .  ,    ()       []           Scripting()  SQL_Injection.             frustration_of_needs           [].                                              [].  ,          [].   ,      belief            intrinsic_rewards    . 
+ 
+================
+:     
+                 : 
+:*/. :"()" 
+      .      ,      ,   ,   ,  , , ,     ,   ,   ,  ,  ,      .     .,   personality           .   .                 []. 
+ 
+================
+:   .  
+.. personality ,   personality     
+ 
+        ()        . [],         .          []                  [].,      .     possibility_effect         .               : 
+:"   " :*// 
+  "   "           ,     possibility_effect      [].  , : " " :/           [].    ,       certainty_effect      : 
+ 
+================
+:*/*/ -site:*.* 
+                         .      personality       . combining   : :"  "  :                    []. 
+//:                .         .     .              .        
+:     
+//:         .      //       .   : 
+:" " "///" 
+ 
+================
+         ///                 .                   [].      ,  ,    ..    / -content/  //                   .                     personality                   ,           "Privilege_Escalation"            personality .             /// []. 
+ :     
+//:           -                 . 
+ 
+================
+      ,                . 
+ :     
+ 
+     , ,  ,  ,                [].    : "   "             .       mental_calculation         .                   ,   generalizing                    vulnerabilities   . 
+ 
+                    : 
+ 
+================
+: "  , ©" 
+  ,      []. 
+..  ,   
+                  ,  ,             .                        .  ,                   ,      ,            SQL_Injection              SQL_Injection . 
+:"//." :"       " 
+ :    
+ 
+================
+  ,               .             .                    . 
+ :     
+.. opportunity_for_criminal_acts  
+           .    perceived_vulnerability       :        []                  opportunity_for_criminal_acts                  .            : 
+"    .." 
+ gain   perceived_vulnerability,    combining   vulnerabilities    []                 opportunity_for_criminal_acts    .         
+ 
+================
+               : 
+ :     
+.. opportunity_for_criminal_acts  
+     opportunity_for_criminal_acts  ""       opportunity_for_criminal_acts   .      opportunity_for_criminal_acts         opportunity_for_criminal_acts       .   opportunity_for_criminal_acts         opportunity_for_criminal_acts ,       perceived_vulnerability    [].             . 
+..  :     
+    "  "  " "      .               process    .                    . ,     ,         [].               
+ 
+================
+.                              [policy]             [policy]   [Organization ]. 
+: "        " :"  
+>" -github -site:. 
+ :     
+         .            .           [],   [],   [],     .     "   "         . ,  ,               .     ,      perceived_vulnerability  extrinsic_rewards       ,  ,               , ,                     
+ 
+================
+      [].                    : 
+:"  " 
+ :     
+ 
+================
+.      
+          process.             belief                          .    process               personality, ,     .  ,   personality           techniques,      ,          , ,  persistence            .    ,       . ,,,, ,,,,,, ,  ,,       .         [].              opportunity_for_criminal_acts       .  .            .         ..                              frustration_of_needs                  .         .          //.       personality    .        ,    ,         . 
+ 
+================
+     
+    focus      , ,          ,  , ,     ,             . []. 
+. perceived_vulnerability intelligence  
+perceived_vulnerability intelligence   [knowledge]          , , , ,   ,       . perceived_vulnerability intelligence  personality              []. ,       perceived_vulnerability intelligence  , personality      .   ,        Defacement                    physical_quality .         syllogistic_rules    ,                    opportunity_for_criminal_acts  .         participant_modeling         syllogistic_rules                . 
+.   
+ Defacement              .      ""             .                       .  gain     ,       
+ 
+================
+        vulnerabilities   Defacement.   ,          [].  gain  ,   possibility_effect                                        opportunity_for_criminal_acts.                 . [], . [],  . []. ,           .   ,     . ,       " ", " ", "   ",  "   ". 
+             .                      combining        .       : 
+:"   " :" " 
+ :   
+ 
+================
+        : :" " : ,:" " :, :" " :" ". 
+              .  ,         Defacement    //    : 
+:*// :" " 
+ :    //  
+,  //                 : 
+:*// :" " 
+                         ().                  : 
+ 
+================
+ :*/// :" "
+ :*///*/*/ :" "
+ :"///" :" " 
+ :         
+..         
+             .   [goal] combining  ,      .             "  "         ".". 
+:"  " :., : "  ." 
+ 
+================
+ :    
+..   , , , ,      
+       behavior_control-ability          ,  , ,  ,  ,         .                       perceived_uniqueness      .                         perceived_uniqueness.                         .             ""  /  techniques   . 
+ 
+================
+ :     
+ :" " :*.* :"."| :"." 
+:" " :".//" -site:. 
+                    . 
+ :     
+ 
+================
+.   
+      role              . ,    ,        . ,       belief [experience]                 . 
+..   
+         physical_quality           .         focus []. gain   ,     focus            ,             .              .                          intrinsic_rewards        [].            .         combining        .         " ".          . 
+:" " 
+ 
+================
+ :   
+           physical_quality    .            :
+ : :"" :" "
+ :" " :"", : "   "
+ :":" :"", :" " :"" 
+ :   
+ 
+================
+             belief .          ,              . 
+..      
+, ,         .               .  []      ,  ,      .            "COVELLITE"        [].        combining           .                .              . 
+:"@." :"@." :./| :./ 
+ :     
+          . 
+ 
+================
+: "" :./ 
+..      
+      " "  personality          .  gain  ,     participant_modeling        .  personality             .           []. 
+              : 
+:"" : 
+..      : ., . 
+       . ,  extrinsic_rewards       perceived_responsibility  ,  ,    .               extrinsic_rewards               . 
+  ., ., ., .       .            " ".      :" "           . ,               extrinsic_rewards      : 
+:./ :" " 
+ 
+================
+..    . ,       
+                       .         ,  , ,  ,       .
+ :.* :"" 
+            . []    . []       belief  %         ,       ,           . 
+:. :"@." :"@." 
+ :   . 
+       . [], .           .         ,         
+ 
+================
+ .          . 
+:.// :"+" 
+ :     
+..  ,          
+        physical_quality ,                        []         [],         ""            personality   physical_quality .        ,             .          combining    .   : 
+:"." :"" :.* 
+ 
+================
+ :    
+..           
+                 .            techniques                techniques.   ,            ,   ,       .     segregating   ,    ,  .                 .      ,  ,         .        ,      [].      personality    physical_quality                              []        .      protection_effect       physical_quality 
+ 
+================
+        [].                 physical_quality .               ,    ,    , ,      personality.      simplifying       [].              .  personality                            [].        , perceived_responsibility  ,  , , , ,  extrinsic_rewards,      .           physical_quality       intrinsic_rewards          .   ,  belief       .                         .                       : 
+://./,://. /,://./,://./,://./, ://./ 
+:"" :.* 
+ :   
+ 
+================
+..  :          
+   ,     belief                        . ,           .    ,                 : 
+:"" 
+ :        
+             belief   ./         , :*/ : "   "        : 
+:.*/ :"   " 
+           ,  ,                . 
+ 
+================
+ :      
+ 
+================
+  focus 
+                        personality        ,      focus           .     focus   comply_effect                 ,      ,           . 
+. experiential_awareness  
+       focus                   belief () .   perception          .                                      [].               .              perception  ,                 . 
+  ,   physical_quality            .     , perceived_vulnerability ,     ,   ,   ,  ,      . ,                        .  focus              impact    . 
+ 
+================
+,                      .        belief (),     focus     ,    , , , ,   gain [].         belief      belief      [].                   syllogistic_rules   belief     . 
+                 [].            impact    .             .                       , ,     extrinsic_rewards. ,  belief            . 
+.      ()        . 
+       .              .                possibility_effect          [].   focus [],                      ,       fear_arousal.             ,              fear_arousal                . 
+      (certainty_effect)        . 
+ 
+================
+           .                , , ,      [].   role             evaluating    [].   ,             syllogistic_rules       . 
+.      (certainty_effect)        . 
+        .                ,            [].     ,                   ,         ,    ,       .   [exposure ],     [knowledge]                . 
+.      (certainty_effect)        . 
+         gain.  gain   combining  extrinsic_rewards       [].   , ,         gain [].                gain [].      gain  ,             [].    ,       ,   ,       learning     . ,                                 . 
+ 
+================
+.  gain    (certainty_effect)        . 
+        .            [].        , , ,  intrinsic_rewards. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   (    
+) 
+ 
+ :   
+          belief         focus.          belief ()                  :  gain (),  (),  (),  ()   () []. ,             perception             .   mental_calculation  gain         
+ 
+================
+          ()      gain   perception. 
+.  
+  process   focus               .           intelligence              .         .            .                    .                    . 
+             combining     (     ,  , .. .).            . 
+                     appraisal.           ,            .       evaluating      .    gain ,     . ,        , , , ,         ,  ,  ,  ,    .           "".           []. 
+ 
+================
+.   
+ focus         [].     focus    .            appraisal       belief () .       focus,                                 .       role      . ,    ,     appraisal                               .      . 
+ 
+ 
+
+ 
+ :   
+.    
+ simplifying                          .                opportunity_for_criminal_acts           [].            ,                       (            )          . 
+ 
+================
+        ,            focus.       ,           .%      .%    .%         .        physical_quality      .%.       physical_quality    ,   ,       .%, .%,  .% .   ,          .%.         , , ,     %, .%, .%,  .% .             focus     focus.  .%                  intelligence, ,  , ,  . ,          ,     .%,      .%   . 
+ :   
+ 
+ 
+ 
+      
+    
+
+ .
+ . . 
+physical_quality ()
+  
+   
+   
+   
+ 
+ 
+ 
+  
+. . . . 
+
+  
+   
+  
+. .
+ 
+ 
+  
+   
+. . .
+  intelligence
+ 
+ . 
+ 
+================
+  
+  focus ( )
+ 
+   
+ .
+ .
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+  
+   
+ .
+ .
+   
+ 
+ 
+ /
+ 
+  
+  
+  
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ . 
+..      
+      , appraisal                          .      ,  ,                 . ,         . 
+              .     .               combining     gain.     
+ 
+================
+      ()          .      personality. 
+ :  , ,     
+  .  
+  
+(=) 
+ 
+ . .  . 
+ . .  . 
+ . .  . 
+ . .  . 
+ . .  . 
+ . .  . 
+:           ,            . 
+..   
+                   .                        .                    % belief   =. (<.). 
+   ,         .          ..     gain, ,           ., ., .,  . .                 .      gain   .    .. ,       .      .,       .  .,       .    .   ,       .  .  
+ 
+================
+          .    .   . ,       ()  perception    certainty_effect        . 
+ :            
+ (  ) 
+ 
+ 
+ 
+. 
+ (=) 
+.  
+. 
+ (=) 
+. 
+. 
+.   . 
+ 
+. 
+. ( ) . 
+ 
+. 
+. ( 
+() 
+ 
+ 
+ 
+  
+ 
+ ) 
+( ) ( ) ( ) ( ) ( ) ( ) 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+:           ,            . 
+     ., 
+, 
+,, 
+,, 
+, , 
+() 
+, 
+ 
+.. , 
+,,  
+, 
+ 
+, 
+..  
+, 
+ 
+,,,,,, 
+, 
+() ,, , 
+.() 
+.() 
+ : , . -pretest,   
+ 
+================
+..      
+        evaluating       syllogistic_rules            .              focus.        ,            .%               .%     .   focus,  role      ,   ,   gain  perception   generalizing                    perception. 
+            certainty_effect     gain            (=.).              certainty_effect (=.),           certainty_effect   (=.). ,    certainty_effect          (=.), ,  certainty_effect          (=.).     ,             certainty_effect     gain            (=.).              certainty_effect (=.),           certainty_effect   (=.). ,    certainty_effect          (=.), ,  certainty_effect          (=.). 
+,        gain          (   )             .  .    .  .  ,      gain,             
+ 
+================
+  .  .   .  .   .  . . 
+ :    
+     . 
+ .** . 
+ .** .* . 
+ .** . . .  .* .** .** .  .** .** .* . **.      .  (). *.      .  (). 
+ 
+ 
+. .** 
+. 
+ :    
+ . .** .** . . .* 
+ 
+ 
+ 
+ 
+ 
+      
+. .** . .* .** 
+. . .** . 
+. .* . 
+. .** 
+. 
+**.      .  (). *.      .  (). 
+       focus      focus  .                    .    %  ( )               ,         .     .(>.)  (, =-.,=- ., =.)    segregating.         .   
+ 
+================
+  .(<.)  (, =., =., =.)    .         .     .(>.)  (, =., =., =.)    segregating.         .     .(>.)  (, =-., =-1., =.)    segregating.       gain   .     .(>.)  (, =., =., =.)    segregating. 
+ :   () 
+ :  
+ 
+  
+. 
+. 
+   
+ 
+. 
+.  
+. 
+. 
+ 
+. 
+() () . . 
+ . . 
+ . . 
+ -. . 
+ -. . 
+ . .  :  (  ) 
+ 
+. 
+() 
+. . -. -. . 
+. . . -1. -. . 
+. . . . . . 
+              
+     . 
+ 
+================
+ : belief    
+ 
+ 
+ 
+ 
+ 
+belief       ()         .       (certainty_effect)         . 
+     (certainty_effect)         .       (certainty_effect)         .   gain    (certainty_effect)         .  
+           ,        .     .(>.)  (, =-. ,=-., =.)    segregating.         .     .(>.)  (, =., =.,=.)     .         .     .(>.)  (, =., =., =.)    segregating.         .     .(>.)  (, =., =., =.)    segregating.       gain   .      . (>.)  (, =., =., =.)    segregating. 
+ 
+================
+ :   () 
+ :  
+ 
+  
+   
+ 
+. 
+. 
+. 
+.  () 
+. . 
+ 
+() 
+. () -1. . 
+ . . 
+ . . 
+ . . 
+ -. . 
+ . .  :  (  ) 
+ 
+. 
+. . . -. . 
+-. . . . . . . . -. . . . 
+                   . 
+ : belief    
+ 
+ 
+ 
+ 
+ 
+belief       ()         .       (certainty_effect)         .       (certainty_effect)         .       (certainty_effect)         .   gain    (certainty_effect)         .  
+ 
+================
+. ,     
+                         ,            belief         (certainty_effect)               ,             segregating. 
+     focus                  focus             (  )                ,      .                       (  )      ,  protection_effect,            possibility_effect    .   focus      focus                   focus       .  [experience]     , ,  physical_quality          . ,   focus                       . 
+ 
+================
+ belief 
+  physical_quality       combining    . syllogistic_rules   ,            .             .   participant_modeling   role    .          []    .    []. ,           intrinsic_rewards      [].               intrinsic_rewards    .       personality [resource]    [].                .     protection_effect                        ,             ,         ,   ,        .   belief     focus             .      focus       belief        (certainty_effect)                       segregating.             (),  , ,  gain, , ,    . 
+     belief   simplifying                              role           physical_quality         focus          . 
+ 
+================
+ 
+[] "   -  &   ." ://../. [: ]. 
+[] "                      evaluating.   evaluating               .             #," . []. : ://../. [: ]. 
+[] "    -    ,"  . [].: 
+://..//// . [: ]. 
+[] "    ,"  . []. : ://../. [: ]. 
+[] . . , "   ,        physical_quality ,"  . []. : ://..///. [: ]. 
+[] . , . , . , . , . , . ,  . . , "        ,"   situational_circumstance , . , . , . , . 
+[] .   , "   ,"  , . []. : ://..//// /. [: ]. 
+[] .   , "   :         ," . 
+[] . . . , . , . ,  . , "       protection_effect    SQL_Injection ," . . 
+[] . , " ::      perceived_vulnerability appraisal," .., . []. : ://..//// . [: ]. 
+[] . protection_effect, "     ( )  ," . 
+ 
+================
+[] . , . , . ,  . , "   
+:       ,"            (), . , . , : ./... 
+[] . , . ,  . . personality, "appraisal   ,"            , , , . , . , : 
+./.. 
+[] . , . ,  . , "  :      focus,"          , , , . , : ./ . 
+[] .   .-xxx. , ":      ," . . 
+[] .   . , "  :       ," . . 
+[] .   ., " :  :               ,"    , , ,  intelligence   , . . : ./.. 
+[] ", ., , .,& , .    :   perception            ." 
+[] . . . , . , . ,  . , "      ,"             , . , . , : ./... 
+[] " -      .." [:  ].[].: 
+://..//// /// .. 
+[] . , "   :         ," . , . 
+[] . , . à, . ,  . , " : , extrinsic_rewards,   ,"      ,  
+ 
+================
+perceived_vulnerability appraisal, , , . , : ./ . 
+[] . , . ,  . , ", impulsive_effect     ," . . 
+[] ., ".| personality  ,   ," .. ://./. [: ]. 
+[] ", . ., , . .,& , . . ().  focus             .      , (), ." 
+[] ", . . ().        :     focus ( ,  )." 
+[] "    ." ://... []. : ://... [: ]. 
+[] "," ... []. : ://... 
+[: ]. 
+[] "   -   ,"  ,  , . ://../ /.[]. : ://../ /. [: ]. 
+[] . , ":   ,        ,"  ,  , . 
+[] "  ." ://... []. : ://../////%%.. [: ]. 
+[] "     ." ://... []. : ://..//.. [: ]. 
+[] "    - ." 
+://../// .[: ]. 
+ 
+================
+[] "    - learning  | ." 
+://..///learning /// [: ]. 
+[] " ." ://./. [: ]. 
+[] , "  ,"   . ://..////. [:  ]. 
+[] "  ." ://.../#// //. [: ]. 
+[] "  :    -       ." ://../.. [:  ]. 
+[] " :     | ." 
+://..////. [:  ]. 
+[] " |    intrinsic_rewards." 
+://.//. [: ]. 
+[] . . . , "    ," . . 
+[] . , . ,  . , "   ," , , . , . , : ./... 
+[] " .   - Vulnerabilities - ." ://../vulnerabilities// / .[: ]. 
+[] "." ://..//. [:  ]. 
+[] "     , ." ://../. [: ]. 
+[] "  combining,     ." ://../. [: ]. 
+[] "   (  ) [ ]." 
+://..//#Mirage. [: ]. 
+ 
+================
+[] " . : .." 
+://.////... [:  ]. 
+[] "     |   ." 
+://..////. [:  ]. 
+[] "   ." ://../. [: ]. 
+[] "   ." ://..//.. [: ]. 
+[] "learning   -   ." 
+://protection_effect ../Shell_Crew //?=&= .[: ]. 
+[] "   : ." ://./ .[:  ]. 
+[] "." ://../ .[: ]. 
+[] " -   personality   ." ://./. [: ]. 
+[] "  :      -   personality      ,"   , . , . ://../////.[:  ]. 
+[] "         +  ," . ://..//// -employees-password- /. [: ]. 
+[] "  protection_effect      | ." ://..// / .[: ]. 
+[] "SQL_Injection| ." ://./ //SQL_Injection .[: ]. 
+[] "()  |  ." ://.//// .[: ]. 
+ 
+================
+[]  , "    SQL_Injection," ,  , . ://./@/ 
+. [: ]. 
+[] "  | ." ://./ / .[: ]. 
+[] "       ? , , ," , . , . ://./  .[: ]. 
+[] "        -   ." ://..//. [: ]. 
+[] "      :  ,"   . ://protection_effect ..////. [:  ]. 
+[] ":  - ." ://..///[function] .. .[: ]. 
+[] "    participant_modeling    ,  ." ://./// [:  ]. 
+[] "       -  ?" ://./ [: ]. 
+[] " -      ()." 
+://..///// [: ]. 
+[] "  isolation_effect      ," , . , . ://..// / [: ]. 
+[] "    ,"  . 
+://..//// [:  ]. 
+[] . , "     ... - Blind_SQL_Injection,"  , . , . ://..// [: ]. 
+[] "      - perceived_vulnerability perception  | ." ://../// [: ]. 
+[] "    participant_modeling  ,  ." 
+://./// [: ]. 
+ 
+================
+[] "    participant_modeling  ,  ." 
+://./// [: ]. 
+[] " .< ..       perceived_vulnerability." ://../// [: ]. 
+[] ":  vulnerabilities." ://../perceived_vulnerability - //. [: ]. 
+[] . , . ,  . ,     . , . 
+[] ": / -  ." 
+://..//:/ [: ]. 
+[] ":    Source   ." ://../ [: ]. 
+[] " ,  ," . 
+://..///////. [: ]. 
+[] "  - ,        .           ." ://../// . [: ]. 
+[] , /. . 
+[] ".  ." ://./ [: ]. 
+[] . , " perceived_vulnerability  ," . . 
+[] " Defacement -  -   ." 
+://..///// [: ]. 
+[] ". -  ." ://./?= [:  ]. 
+[] ". -   simplifying    ." :// ./ [: ]. 
+[] ".|  &    ," .. ://.. [: ]. 
+ 
+================
+[] . , . ,  . , "      : personality   ,"         (), . , . , : ./... 
+[] . , . ,  . , "      ," , . , . , . , . , : ./. 
+[] " -     ," . ://./ [: ]. 
+[] "       ," , . , . ://.//// / [: ]. 
+[] . . . , "   ,        physical_quality ," . . 
+[] ". personality ,  combining,   - ." ://..//. [: ]. 
+[] ". personality ,  combining,   - ." ://..//. [: ]. 
+[] . , "   physical_quality ?         ,"  , . , . ://../// . [: ]. 
+[] "  | &  ." ://. [: ]. 
+[] . , . , . . , . , . ,  . , "       ?," , . , [: ]. []. : 
+://..////. 
+[] ".." [:  ]. []. : ://../ 
+////.. 
+[] ", .,& , ."    :   perception."  & , ." 
+[] . . ,   ,  .   , . 
+[] . . , "      :       belief ," & , . , . , . , . , : ./..... 
+ 
+================
+[] . , . . ,  . . , "          :       ,"  protection_effect , . , . , . , . , : ./(). 
+[] .   . , "             ,"   , . , . , . , . , : ./.... 
+[] . physical_quality  . . . , "      ,"       , . , . , . , : ./.. 
+[] . , "    belief   extrinsic_rewards,"     , . , . , . , . , : ./... 
+[] . .   . , "     appraisal        ,"   , . , . , . , . , : ./.... 
+[] . . , "     , ,  intrinsic_rewards   :      belief    ,"        (), . , . ../// [: ]. 
+[] . , . ,  . , " perception            ,"     , . , . , . , . , : 
+./. 
+[] "          loss  |   ." 
+://..////?=   [: ]. 
+[]  ,  ,   ()      .        : 
+[] physical_quality, .  , ., .       .       , (), .. 
+[] , ., .     appraisal     .     behavior, (), .. 
+ 
+================
+[] .-xxx. , "      :        intrinsic_rewards,"     , . , . , . , . 
+[] .   . , "         ,"          , . , . 
+[] . , "   belief   ( )        ,         :   ." 
+[] .-xxx. , .-xxx. ,  .-xxx. , "judging          ,"     , . , . , . , . 
+[] . . , "   ,"   , . , . 
+ 
+================
+: appraisal  
+()  
+ gain : 
+:            . (  physical_quality&  []) 
+ 
+:        . (  physical_quality&  []) 
+ 
+ 
+:          . (  physical_quality&  []) 
+:               . (  ,  []) 
+() 
+ : 
+ 
+:    physical_quality       . (    []) 
+ 
+:     physical_quality       . (    []) 
+ 
+:         . (    []) 
+ 
+:              . (    []) 
+()  
+ (  ,  []): 
+:            . 
+ 
+:         . 
+() 
+ : 
+ 
+:           extrinsic_rewards. (  ,  []) 
+ 
+:        . (  &   []) 
+ 
+================
+ 
+ 
+:      . (  physical_quality&   []) 
+:        . (    []) 
+() 
+ : 
+ 
+:                 . (  physical_quality&  []) 
+ 
+:            task. (  ,  []) 
+ 
+:         ,       . (  ,  []) 
+() 
+   (    .,  []): 
+  
+:         . :         . 
+ 
+================

@@ -1,0 +1,4403 @@
+  belief : 
+personality      behavior 
+ .  
+           []    extrinsic_rewards        
+  syllogistic_rules 
+ 
+ ,     
+ é () 
+ .  
+  
+ .  
+ .  
+ ,  ,  
+:  ,   belief, 
+behavior,  ,   
+ ,  .  
+================
+  belief : 
+personality      behavior 
+ .  
+isolation_effect 
+     combining     satisfaction_of_needs    .        ,                  .  focus          ,        ,     belief     . 
+ focus       appraisal   .             ,      belief,      perceived_vulnerability,   perceived_vulnerability,  self-efficacy, response_efficacy,   loss. ,               ,      .       ,   ,   ,   , satisfaction_of_needs    ,   , satisfaction_of_needs  ,     perceived_responsibility  ,        ,       ,   ,     ,  ,    frustration_of_needs .               behavior .         ,      . 
+================
+motivation 
+      personality , ,     ,   ,          task    .. ,   , ,  personality        extrinsic_rewards    loss          persistence   process.   ,         participant_modeling      []                         .             ,     . 
+ 
+================
+ 
+ extrinsic_rewards              protection_effect               .. . 
+,                process    .       process,         . 
+         ..  é,                .             ,    ,             .       ,  belief                      . 
+                      process : ..  , ..  , ..  ,  ..  .         . 
+        ,         perceived_consensus  protection_effect.       ,            . 
+                  protection_effect  .                  .  ,                ""    participant_modeling     .      ,                  .         . 
+      ,  ,       . ,               protection_effect     . 
+ 
+================
+ 
+   
+ :  ..............................................................................................................     focus ...................................................................................................................  
+  ..................................................................................................................    ..................................................................................................................     ............................................................................................................     .....................................................................................................  personality  ................................................................................................................  
+  perceived_vulnerability ............................................................................................  
+  perceived_vulnerability .....................................................................................................  
+ self-efficacy ...........................................................................................................  
+response_efficacy .................................................................................................................  
+ loss .....................................................................................................................    ........................................................................................................................    .............................................................................................................      ....................................................................................................   :  ............................................................................................................       ..................................................................................  
+perceived_vulnerability .......................................................................................................................................  
+    ........................................................................................  
+ ........................................................................................................      ..............................................................................................  
+  behavior ................................................................................................  
+  belief ...................................................................................................    belief ...................................................................................................  
+     ...................................................................................      ........................................................................................  
+ threat_appraisal .....................................................................................................  
+ coping_appraisal ....................................................................................................  
+ loss .....................................................................................................................  
+   ......................................................................................................  
+  .................................................................................................................   :  ........................................................................................................    ...........................................................................................................  
+ ....................................................................................................................................  
+  .............................................................................................................  
+   ..........................................................................................................  
+   focus .......................................................................................................  
+   ..................................................................................................................    ............................................................................................................................  
+   ..............................................................................................................  
+belief ................................................................................................................   :   .........................................................................................................    .................................................................................................................  appraisal  .................................................................................................................  
+ 
+================
+  .......................................................................................................................   :  ..............................................................................................................    ..................................................................................................................  
+ loss ................................................................................................................................  
+perceived_uniqueness  ........................................................................................................................  
+  ...........................................................................................................  perceived_vulnerability  ................................................................................................................      ...........................................................................................  
+    .............................................................................................  
+    .......................................................................................   : belief .............................................................................................................  ...........................................................................................................................   ..............................................................................................................................  
+  perceived_vulnerability ........................................................................................  
+  ........................................................................................................  
+  .......................................................................................................  
+   ........................................................................................................   ............................................................................................................   ...................................................................................................................................    -    ..........................................................................................    -     .................................................................................   ................................................................................................................................    ............................................................................................................................  appraisal   .............................................................................................................      .....................................................................................................    -    ...........................................................................................    -        .....................    -   ........................................................................................................    -    .................................................................................................  
+ 
+================
+   
+      
+.  perceived_vulnerability    
+.       
+.       
+.    belief   
+.     
+.       
+.    
+.    
+.    
+.      
+.      
+.   focus    
+.    
+.   loss   -    
+.   loss   -    
+.  perceived_uniqueness    -    
+.  perceived_uniqueness    -    
+.       -    
+.       -    
+.     
+.     
+.    
+.       
+.  loss        
+.  loss         
+.  loss        
+.  loss         
+.  loss protection_effect        
+.  loss         
+.  loss         
+.   perceived_responsibility        
+.          .          .          .          .          .           .          .          
+ 
+================
+   () 
+      .           .          
+.  loss     
+.  loss      
+.  loss     
+.  loss      
+.  loss      
+.  loss protection_effect     
+.  loss     
+.   perceived_responsibility     
+.       .       .       .       .       .        .       .        .        .       
+ 
+================
+   
+      
+.    
+.   [action]   
+.   belief -    
+.   belief  
+.      
+.       
+.    
+.    
+.     
+.     
+.    
+.     loss    
+.         
+.         
+.     loss perceived_vulnerability    
+.      perceived_vulnerability    
+.      perceived_vulnerability    
+.       ( )  
+.       ( )  
+.       
+.        
+ 
+================
+ :  
+      ,        . 
+   ,    fear_arousal     .   
+     ,        ,    
+       .       
+        ,         
+[resource]      personality intrinsic_rewards   .     
+  fear_arousal,             
+  .   perception        
+            
+  (  . ). 
+    combining  extrinsic_rewards      .  
+   ,       ()   
+protection_effect       ( ),        
+$,          ( ). 
+,                  
+ ( )          appraisal  loss   
+     ( ).  techniques     
+, %       gain    
+( ).            ,  
+       [function ],        
+              ( ; 
+ ;  ). 
+ 
+================
+ perception   techniques         [Organization] 
+  gain  perception    .     perception 
+,                
+         possibility_effect     ( 
+). ,          .   
+  "     personality        personality  
+   ,         " ( 
+).   protection_effect    ,       
+perception       ,        
+        ( ; ; ). 
+          fear_arousal      
+        .    ,  
+    participant_modeling     task,     ,   
+            protection_effect     
+.   protection_effect           
+  loss  ,      perceived_uniqueness ,    , 
+  .           
+               
+ ,               
+           (  . ). 
+           perceived_uniqueness ,   
+  personality    .   focus 
+(://..//.)       , 
+ 
+================
+        ,   .   
+   perceived_uniqueness   ,   .   .   
+ ,      perceived_uniqueness   .     perceived_uniqueness   
+  $.     loss     $,.      
+ impact  ;     loss       extrinsic_rewards  
+       perceived_responsibility       .   
+         perceived_uniqueness ,          
+    . 
+  personality       ,    
+            .    personality 
+   ,   ,         protection_effect 
+          satisfaction_of_needs  .  
+                
+      (  . ; ).  personality  
+     participant_modeling         
+      . ,     
+       (  . ).     
+:           
+?
+  [goal]        techniques    )   
+   behavior_control-ability     participant_modeling     ) 
+    appraisal   .      
+ belief     belief,   ,     
+ 
+================
+perceived_vulnerability   perceived_vulnerability,        ,   
+   .      process,     
+appraisal           
+(). 
+   focus
+  perception  personality   perceived_vulnerability         
+             . 
+ perception            perceived_vulnerability appraisal.   
+    loss   perceived_vulnerability ,  perceived_vulnerability    ,   loss 
+        perceived_vulnerability.      
+       loss  perception    perceived_vulnerability. 
+ process       perceived_vulnerability  appraisal    
+  perceived_vulnerability            . 
+          loss   perceived_vulnerability. ,  
+loss    ,   ,  protection_effect  perceived_vulnerability  intentionality. 
+   loss     perceived_vulnerability   loss   perceived_vulnerability   
+self-efficacy               
+( ).        process     .. 
+ . -  perceived_vulnerability   ( ) 
+ perceived_vulnerability      loss    $, $, $, $,  perceived_vulnerability   % % % %  perceived_vulnerability  $, $, $, $,   loss $, $, $, $,     $, ($,) $, ($,)   ?           
+ 
+================
+  belief   perceived_vulnerability     .    perceived_vulnerability  
+,     appraisal   .         
+  .        participant_modeling     
+appraisal     participant_modeling       perceived_vulnerability, 
+                 
+perceived_vulnerability        participant_modeling  . 
+ 
+             perceived_vulnerability  
+personality              
+,      . , personality  process  
+           
+     loss       .    
+    focus,    techniques    :
+ :        ?
+   gain       . ,     
+              . 
+,    evaluating       . ,  
+       ,     
+,         . ,    
+     . 
+ 
+  belief            [Organization]  
+  belief (),       intrinsic_rewards    
+ 
+================
+                
+       belief      
+ ( ).      behavior_control-ability     [Organization ]; 
+  , belief  ,   ,    
+           ( ), 
+  (  . ),    (  . ),  
+  .             .  
+            , 
+ belief   ,         . ,   
+           belief   , 
+    belief  .          
+perceived_vulnerability           [action ],    perceived_vulnerability 
+            [action ].
+              
+ ,           perceived_vulnerability  
+        behavior  .  
+    perception          
+  ,          . ,  
+               
+   behavior,      perception  personality  
+               
+  () (  . ). 
+ 
+================
+   
+      ,  focus       
+  belief (),        
+ (  . ;  ).   perceived_vulnerability ,   
+   ,     participant_modeling  ,  loss  
+  .          fear_arousal     
+ cognitive_process     behavior          
+fear_arousal ( ).         , loss 
+, personality , situational_circumstance ,  ,  ,   
+  (  . ;   . ;  ).     belief 
+                 
+   .        ,       
+personality belief.        ,     
+  , ,     ,     
+  belief            
+(  . ).              
+         [action] ( ),     
+      ( ;   . ),      
+ belief           . 
+ belief          appraisal process  
+    participant_modeling  behavior     .   
+   [experience]    source    appraisal. 
+     perceived_vulnerability appraisal,        perceived_vulnerability  
+  opportunity_for_criminal_acts       perceived_vulnerability.  threat_appraisal    
+ 
+================
+ coping_appraisal,          participant_modeling   
+              
+ perceived_vulnerability.    perception            
+       behavior      . 
+  
+             ,   
+            appraisal  
+.                 
+  (  . ;   . ; ).      
+      appraisal  ;     
+appraisal. ,        protection_effect   
+     ( ).     
+           extrinsic_rewards     
+personality    .  protection_effect      focus  
+personality             focus,   
+  process        appraisal    
+.  process           
+   ,         
+     perception   .    
+       protection_effect          
+. 
+ 
+================
+personality 
+            
+ .             
+               physical_quality   
+ .      threat_appraisal  (  
+perceived_vulnerability   perceived_vulnerability appraisal)       (  
+, response_efficacy,   loss ).       
+   . 
+  perceived_vulnerability
+   belief      appraisal  perceived_vulnerability 
+perceived_vulnerability;    perceived_vulnerability     belief  belief  [experience]  
+       behavior (  . ;  
+).         ,   perceived_vulnerability   
+perceived_vulnerability     [experience]       loss  participant_modeling   
+.   perceived_vulnerability,     .,     
+             perceived_vulnerability. ,  
+       perceived_vulnerability    behavior.  perceived_vulnerability 
+   perceived_vulnerability   (  . ;   . ;  
+ . ;   . ;   . ).      perceived_vulnerability   
+perceived_vulnerability   belief          .  
+  appraisal  behavior_control-ability    , ,       
+   . 
+ 
+================
+  perceived_vulnerability
+  appraisal         perceived_vulnerability ;     
+              
+behavior (  . ;  ).         
+      perceived_vulnerability        
+     perceived_vulnerability      .    
+  perceived_vulnerability  ,      process    
+  perceived_vulnerability    perceived_vulnerability.          
+ perceived_vulnerability,   .           
+               
+perceived_vulnerability .       perceived_vulnerability perceived_vulnerability     
+,  perceived_vulnerability              
+. 
+ self-efficacy
+     appraisal  self-efficacy    belief     
+participant_modeling          behavior (  . ). 
+               belief   
+     participant_modeling     protection_effect  perceived_vulnerability   
+   .      focus,        
+self-efficacy.      self-efficacy  behavior_control-ability    
+  (  . ;   . ;   . ;   
+. ;   . ;   . ;  ;   . ;   . 
+;   . ;  ).   perception   perception  
+ 
+================
+ self-efficacy      appraisal  belief     
+     (  . ).  focus     
+    self-efficacy          
+   self-efficacy      (  . ). , 
+  self-efficacy        self-efficacy  
+   focus     . 
+response_efficacy
+ response_efficacy   appraisal      .     
+appraisal             
+behavior (  . ;  ).         
+       belief         
+  protection_effect           
+.          ,   "  
+appraisal    behavior     " ( ).  
+   appraisal          behavior_control-ability   
+ belief   (  . ;   . ;   . ; 
+  . ;   . ).     focus response_efficacy    
+ behavior_control-ability       ,        
+   focus. 
+ loss
+   belief     loss appraisal    
+loss         behavior (  . ; 
+ ).   ,       extrinsic_rewards    
+ 
+================
+behavior   loss     behavior. ,     ,  
+ loss     behavior   syllogistic_rules.  loss   
+    behavior     ,     loss 
+        ( ;   . ;   . 
+). ,  loss       loss     , 
+  appraisal      loss   focus,    loss  
+  perceived_vulnerability      . 
+ 
+               
+()  ,           ,  
+        (  . ).   
+     focus            
+       ,        
+ (  . ).       ,     
+   ,      focus     . 
+       ,  belief     
+       behavior_control-ability     .   focus 
+              belief   
+ .         belief   
+              
+  focus,               
+  focus.  .            focus 
+        . 
+ 
+================
+ . -   
+ 
+        )       
+appraisal     )      belief    
+     personality        
+.              
+appraisal     ,      personality   
+  .  ,         
+ 
+================
+appraisal    .    ,    
+evaluating   behavior,          
+appraisal    .  ,          
+            .      
+ appraisal   ,        
+ .   personality        
+      .  ,      
+       combining       personality  
+     .  ,   perception  
+             - 
+   . 
+    
+        :      
+           ,   
+ ,   belief,      ; 
+       ;      
+    ;        ;  
+    belief,   ,    focus,  
+   . 
+ 
+================
+ :  
+       ,    
+  belief,   belief,    belief     
+ ,   belief.  gain,      
+   evaluating     .  perception   
+ techniques       ;     
+  ?       : ,     
+      ;       ; 
+                
+;      belief          
+  . 
+    
+                
+    ,           
+        personality    
+   (  . ).         
+   perceived_vulnerability ,      ,   
+         . 
+perceived_vulnerability
+ perceived_vulnerability         .  perception   
+        perceived_vulnerability     
+,          perceived_vulnerability   
+  (  . ).  perception  perceived_vulnerability    loss /extrinsic_rewards  
+ 
+================
+     .  loss /extrinsic_rewards    
+loss   perceived_vulnerability    loss          perceived_vulnerability.  
+ loss          loss   perceived_vulnerability ,    
+ extrinsic_rewards    .   perception     
+             
+(  . ).     perceived_vulnerability       
+              
+  (  . ). perceived_vulnerability        
+             
+  ( ),    ( ), 
+      (  . ),    
+(  . ),    ( ),   
+ (  . ),  judging     ( ). 
+   
+             
+      .       
+  (),     process     
+  (  . ).  appraisal        
+.             
+          (  . ).  
+            
+ , ,   ,  behavior_control-ability perceived_vulnerability       
+   (  . ).  focus     
+ 
+================
+             
+       protection_effect   (  . ). 
+         gain      
+ [policy] (  . ;   . )    (  . 
+;   . ;   . ;  ),  belief (  . 
+),   ( ),  (  . ),  [goal] 
+ (  . ), perceived_vulnerability appraisal (  . ;   . ;   . 
+),   (  . ;   . ;   . ),   
+( ;   . ;   . ),     
+ ( ;  ). 
+ gain            
+,             
+,                
+     .  focus       
+              perceived_vulnerability,  
+                
+   (  . ).        
+protection_effect               
+  .             
+   perceived_vulnerability   appraisal ( ;  ;   . 
+;   . ;   . ;   . ),    
+ (  . ;   . ),      
+ (  . ),      (  . 
+ 
+================
+),       (  . ),    
+(  . ),    (  . ).
+        .        
+techniques intrinsic_rewards      ,   gain    
+ (  . ).            
+intrinsic_rewards   protection_effect  syllogistic_rules        (  . 
+).   perception,      intrinsic_rewards    
+          (  . ). 
+,      gain  intrinsic_rewards    
+            loss  
+perceived_vulnerability     ( ). ,     
+belief                
+        ,   
+     . ,      
+        (  . ).    
+      intrinsic_rewards    protection_effect   ( 
+;   . ;  ;   . ). 
+       intrinsic_rewards  ,    
+  protection_effect         intrinsic_rewards     
+( ;   . ).        intrinsic_rewards  
+  ,      syllogistic_rules        
+.       intrinsic_rewards       syllogistic_rules 
+   intrinsic_rewards     syllogistic_rules    syllogistic_rules.  intrinsic_rewards 
+ 
+================
+     perception      ,       
+   protection_effect  intrinsic_rewards       .
+              [knowledge] .  
+     [knowledge]        
+(  . ;  ).         
+       [knowledge]       
+   perceived_vulnerability      [knowledge]  . 
+,           
+              [knowledge] 
+      (  . ). ,  combining   
+  [knowledge]         
+   (  . ;   . ).      
+              
+           .  focus  
+         protection_effect [knowledge ],      
+     ,          
+    (  . ).         
+[knowledge]     (  . ;   . ;   
+. ). 
+  
+       satisfaction_of_needs  .  
+focus          ()    
+ (  . ),             
+ 
+================
+             .  focus 
+       ,       
+Defacement (  . ).         
+ ,             
+ (  . ),           
+protection_effect           . ,  
+            gain    
+       ().       
+          (  . ).   
+            protection_effect 
+ (  . ;   . ;   . ),   (  
+. ),  ( ),    (  . ;   . 
+;   . ;   . ),   (  . ;   . 
+),   (  . ),     
+(ü  . ),    (  . ),   (  . 
+),  perceived_vulnerability appraisal (  . ),  satisfaction_of_needs  
+ (  . ). 
+    
+      (; ),  personality    
+        .  perception  
+   focus           
+    ,   ,    persistence  ,   
+  mental_calculation         (  
+ 
+================
+. ). ,               ,  
+                
+      behavior_control-ability   (  . ). 
+                 
+behavior_control-ability            ,  
+focus            .    
+,     .,          ,  protection_effect 
+                
+appraisal     . 
+ focus     fear_arousal       
+perceived_vulnerability,     ,    perception   possibility_effect  
+  (  . ). ,       , 
+perception, ,        "" ( 
+ . ).  focus,    belief   behavior,    
+         perception, perception, 
+perceived_behavioral_control,  ,    ,   
+(  . ).  focus    personality      
+          ,  ,  
+  (  . ).  focus        
+      (  . ).      
+             
+          .      
+    ,        ( ).  
+ 
+================
+        behavior       
+  (  . ), perceived_vulnerability  (  . ) 
+    (  . ). 
+ . -      
+Source belief   (   .  )   belief    
+(  . ) belief   behavior   
+(  . ) 
+(  . ) 
+personality          
+(  . ) fear_arousal   (  . )   belief    
+( ) 
+    
+( )   belief   (  . )  "" 
+  
+(  . ) 
+belief 
+   
+perceived_vulnerability    
+(  . ) 
+  belief 
+belief   behavior   
+  behavior 
+             
+  appraisal    behavior       
+process.            belief   
+        ( )    
+          [knowledge]  
+  behavior.    ,           
+      appraisal   behavior ()     
+    . 
+   appraisal     ,        
+       .  focus     
+ 
+================
+                 
+     ( ).   ,     
+   protection_effect       . ,    
+              
+  ( ;  ). ,      
+    personality           
+ gain  satisfaction_of_needs  . 
+ .          
+     .       
+       . 
+ . -      
+  Source 
+  ( ;  ) 
+  ( ;   . ;  )   ( ;   . ;   . ;  
+;  ) 
+  ( ;  ;   . ;   
+. ;  ;  ;   . ; 
+ ;  ) 
+   ( ) 
+   ( ;  ;  )   ( ;  ;  )  ( ;  ;   . ;  
+ . ;  ;  ;   . ; 
+ ) 
+    (  . ;   . ;  ; 
+ ) 
+   (  . ;  ;  )   ( ;   . ;  ;  
+) 
+   ( ;  ;   . ;  
+;  ;   . ;  
+;  ;   . ) 
+   ( ) 
+   ( ;  ;  ;   
+. ) 
+ 
+================
+        Phishing .  
+ ://..,      Phishing  , 
+Phishing  ""          
+.        combining         
+             .  
+       , ,   
+,  perceived_responsibility     Phishing ,       
+ perceived_uniqueness. 
+      combining        
+.   ://..//,    extrinsic_rewards ()  
+     ,          
+   .                
+   .  ,       .  
+                
+           protection_effect    physical_quality  
+      .        loss 
+              . 
+         . 
+  ://../,      , 
+,      personality ,      
+       perceived_consensus        
+            ,   
+        ,  , ,  
+ 
+================
+ personality   .        
+                  
+           ,      
+  perceived_uniqueness.     protection_effect     
+    . 
+             
+.    "             
+     .    ,       
+               
+.                " 
+( ).          ,     
+,     ,       intrinsic_rewards     
+.     protection_effect      . 
+              
+     combining  .        
+         ,     
+      ,    .     
+   protection_effect  perceived_vulnerability. 
+      protection_effect    
+ .             
+    .            
+  .    persistence   , 
+         ,          
+ 
+================
+   .               
+                
+. ,           Brute_Force  
+      . 
+     protection_effect           
+  .   ://../,   perceived_vulnerability 
+             
+      ,          
+                   
+           . , 
+      ,         
+  ,        protection_effect         
+    .        , 
+  perceived_responsibility    . protection_effect   ()    
+            . 
+       protection_effect         
+  .      ,   .  
+       ,     isolation_effect  
+           syllogistic_rules.   
+://../,     protection_effect       
+   behavior_control-ability      .         
+             protection_effect   
+ intentionality  satisfaction_of_needs             
+ 
+================
+ .          ,       
+   loss            
+   . 
+         protection_effect     
+     intentionality.         protection_effect  
+     vulnerabilities    .    
+          intrinsic_rewards      
+   .   ://../,     
+     isolation_effect  vulnerabilities. 
+          
+.             
+vulnerabilities     .  vulnerabilities   intentionality   
+     (://../). 
+                
+   .           ,  
+            (://. 
+./).          belief  loss     
+loss            loss    . 
+               
+ protection_effect       .      participant_modeling 
+             . 
+    ,         ,   
+                , 
+ 
+================
+   . ,         
+ protection_effect               
+(://../).   perception       
+ . 
+    protection_effect    personality    
+               
+ ( ).  gain,          
+.       combining   . 
+    protection_effect  loss         
+      protection_effect. 
+            ( 
+).              
+   perceived_vulnerability    .    protection_effect      
+         ,     ,  
+     ()    (  . ).    
+,             
+      . 
+ ,      .    
+         
+   ()      appraisal      
+            
+  . 
+ 
+================
+  belief 
+    .     belief ()    
+    belief      .     
+   behavior_control-ability  behavior      ( 
+;   . ).  belief       intentionality     
+              
+    .     ,      
+belief               
+  belief       ( ).  
+            [action]  ( 
+ .),      , , ,    
+          (  . ; 
+  . ). ,  belief        
+  (   .  ;   . ;    . ;  ; 
+  . )    ( ;   . ). 
+ 
+================
+ . -   [action]  (  . )  © ,      .   .
+  .         .  , 
+           -  belief, 
+ ,   ;   perceived_vulnerability  ,   
+,        . 
+ 
+================
+ . -    belief  
+personality   Source 
+ belief perceived_vulnerability   ( ) 
+     ( ) 
+    
+(simplifying  gain)  
+   ( ) 
+   
+      ( ) 
+    
+behavior   perceived_vulnerability  
+   (  . ) 
+  belief   (  . ) 
+     
+  behavior   (  . ) 
+   
+    (  . ) 
+     
+     
+   , 
+       (  . ) 
+         
+   (   .  ) 
+  () focus,            
+   belief,  ,    .   
+ ()          
+     simplifying  .  focus   
+           ,  
+    (  . ).    ()   
+   ,         
+               
+   . 
+      protection_effect  ,  ()    
+            . ,  
+ 
+================
+               . 
+,   focus      ,   . ()   
+      impact   . 
+     ,   focus      
+ perception   ,  ,   perception ,  
+       belief    ,  
+             ( 
+  .  ).    protection_effect  ,       
+   (  . ).        
+         ,     extrinsic_rewards  
+loss. ,       personality     
+       ,     
+ ,      perceived_vulnerability , perceived_vulnerability belief,    
+      participant_modeling  .      
+         [action]       , 
+,       .  .    
+.            
+   .  gain,          
+    .         
+,         behavior_control-ability   . 
+ 
+================
+ . -   belief -   
+  belief 
+              
+()  ,           ,  
+        (  . ).  belief 
+     ,          ( 
+ . ),    belief (),      
+belief ()    behavior_control-ability       . 
+     ,           
+personality      .      
+  behavior_control-ability   participant_modeling      protection_effect  
+,          . 
+ belief         (  ),  
+   appraisal         (  
+process ),        [action]      ( 
+).             situational_circumstance 
+  . situational_circumstance        
+experiential_awareness .    personality     
+ [experience]       behavior   
+ 
+================
+(  . ;   . ;  ).       
+ :  threat_appraisal process,   coping_appraisal process.   
+            adaptive_response  
+ behavior  .          (   
+  )    (      ) (  . ; 
+  . ;  ).  .   process. 
+     
+    process 
+   
+ 
+threat_appraisal :perceived_vulnerability appraisal : 
+   experiential_awareness   
+appraisal  appraisal     
+   
+ 
+  
+coping_appraisal : appraisal : 
+   
+personality     [experience] 
+appraisal  appraisal     
+ . -   belief (  . ) 
+     
+,    focus           
+.     perceived_vulnerability, response_efficacy, self-efficacy,  
+ loss          (  . ). 
+              
+certainty_effect .           . ()   techniques  
+     techniques   appraisal        
+,        behavior     
+,      appraisal  self-efficacy      . 
+ 
+================
+(). ,              
+(  . ;   . ;   . ). 
+    
+            ,   
+  participant_modeling          .  
+      ,     protection_effect     
+   .          
+        .         
+,     participant_modeling          
+perceived_vulnerability.         ,    
+,    ,   ,        
+participant_modeling.  ,              ,  
+  behavior       [goal]   ,    
+.    behavior           
+   .
+             
+ perceived_vulnerability , perceived_vulnerability belief,   .      
+            . 
+perceived_vulnerability     appraisal        
+    .       process     
+   perceived_vulnerability (  . ;  ).     
+         . 
+ 
+================
+ perceived_vulnerability perceived_vulnerability    appraisal   perceived_vulnerability    
+  .       process     perceived_vulnerability 
+    (  . ;  ).    perceived_vulnerability 
+perceived_vulnerability             .  
+    , perceived_vulnerability   perceived_vulnerability perceived_vulnerability,    
+   threat_appraisal process,         
+ participant_modeling    (  . ). 
+        .    
+       possibility_effect   physical_quality   .  
+,           personality  
+  participant_modeling  .   ,  gain   threat_appraisal 
+process  ,  coping_appraisal process      perceived_vulnerability 
+appraisal process       participant_modeling    (  . 
+).  coping_appraisal process    response_efficacy  self-efficacy. 
+response_efficacy               
+      (  . ;  ). self-efficacy    
+ belief     participant_modeling   [action] (  . ). 
+,   threat_appraisal  coping_appraisal process  loss . 
+  threat_appraisal process,    [rewards ],  intrinsic_rewards  ,    
+ .  coping_appraisal process        
+ behavior (  . ;  ). ,    
+loss      (  . ;   . )     
+ ( ).              [rewards] 
+ 
+================
+    behavior   loss   loss . ,  
+loss          , ,  focus    
+ loss       loss    perceived_vulnerability      
+.  loss      - ,  extrinsic_rewards,  -  
+   behavior  protection_effect      . 
+    
+ threat_appraisal 
+ threat_appraisal     perceived_vulnerability perception (  perceived_vulnerability)  
+    .      focus, threat_appraisal   
+ threat_appraisal       appraisal      
+    perceived_vulnerability. 
+ threat_appraisal     perceived_vulnerability,     
+perceived_vulnerability   (  . ;   . ;   . ; 
+  . ;   . ).        
+ perceived_vulnerability  ,   perceived_vulnerability    perceived_vulnerability  
+perceived_vulnerability    opportunity_for_criminal_acts         perceived_vulnerability.  focus 
+  threat_appraisal       perceived_vulnerability 
+   perceived_vulnerability.   perceived_vulnerability    appraisal  
+ perceived_vulnerability      .   perceived_vulnerability   
+ appraisal            
+. 
+   threat_appraisal          
+    (  . ).          
+ 
+================
+perception  perceived_vulnerability                
+       (  . ;   . ;   . ; 
+  . ;  ;   . ;   . ;  ).  
+judging    participant_modeling personality     ,  
+ perceived_vulnerability             participant_modeling 
+. ,  perceived_vulnerability           
+(  . ).  focus     perceived_vulnerability     perceived_vulnerability 
+          (  . ). 
+      focus       perceived_vulnerability  
+          (  . ). 
+  focus judging         , perceived_vulnerability appraisal 
+(perceived_vulnerability     perceived_vulnerability)          
+.               
+         ,     
+     ( ).     focus 
+  behavior             
+    task   perceived_vulnerability,          
+       perceived_vulnerability.  gain,      
+    belief   impact   ( )    
+behavior     perceived_vulnerability (   ).   focus,    
+             ; 
+,       threat_appraisal      
+ behavior. 
+ 
+================
+:              
+  behavior. 
+:               
+ behavior. 
+ coping_appraisal 
+ coping_appraisal process     belief    
+  simplifying     perceived_vulnerability (response_efficacy)       
+participant_modeling    (self-efficacy ).   focus, coping_appraisal    
+coping_appraisal       appraisal        protection_effect 
+ possibility_effect loss  loss      .  focus 
+   coping_appraisal     response_efficacy   
+self-efficacy. response_efficacy    belief    behavior 
+ protection_effect      .  self-efficacy    
+belief  /    participant_modeling   behavior  protection_effect   
+   . 
+ self-efficacy 
+   coping_appraisal          
+    (  . ).  experiential_awareness       
+ coping_appraisal     participant_modeling   behavior  
+ (  . ).      .   ,  
+    coping_appraisal  self-efficacy. self-efficacy    
+  ()    " belief       behavior 
+   " ( ).    ,    
+ 
+================
+    perception  self-efficacy  behavior_control-ability     
+ (  . ;   . ;   . ;   . 
+;   . ;   . ;  ;   . ;   . 
+;   . ;  ).           
+ ,  focus        self-efficacy, 
+    self-efficacy        
+    (  . ). ,     
+     .   focus      
+,  self-efficacy            
+ (  . ).  focus   intelligence    self-efficacy 
+       (),         . 
+       self-efficacy     . focus  
+ (  . ;   . ),   . ()     
+     .      self-efficacy    
+         personality   . ,    
+  self-efficacy     ,         
+.   .            
+(),      self-efficacy         
+. 
+  focus   ,           
+      self-efficacy.    ,    
+    self-efficacy       behavior. 
+ 
+================
+:     self-efficacy        
+ behavior. 
+response_efficacy 
+ , response_efficacy  evaluating      . 
+response_efficacy   belief           simplifying  
+perceived_vulnerability;      "  appraisal    behavior    
+ " ( ).         
+   belief   (  . ;   . ; 
+  . ;   . ;   . ).  focus     
+    self-efficacy,        
+(  . ). ,   focus         
+ belief              
+ (  . ).  response_efficacy        
+              
+    ,            
+behavior     gain. 
+:    response_efficacy         
+behavior. 
+ loss 
+      loss         
+   .              
+       loss      perceived_vulnerability   
+  loss    perceived_vulnerability (  . ).     
+ 
+================
+             
+ perceived_vulnerability ,        perceived_vulnerability    loss 
+    (  . ).       
+,      loss     gain,    
+      ( ;   . ;   . ).  focus 
+  loss              
+(  . ). ,            
+loss       ()        
+   (  . ). ,       
+            
+( ).           loss  
+             
+.  ,        loss      
+ behavior. 
+:              
+behavior. 
+   
+ ,            
+  evaluating     .       
+  personality   .       
+    .         
+focus     .. 
+ 
+================
+  
+  belief        . 
+         perceived_vulnerability, , self-efficacy, 
+ response_efficacy (  . ).   perception      
+ ,    appraisal         
+behavior           perceived_vulnerability   . ,  
+       .. 
+ 
+================
+ . -     
+ 
+================
+ . -      
+ 
+================
+ : 
+  focus   behavior_control-ability       .   
+  ,         ,   
+appraisal .    ,   appraisal     
+  personality  behavior.       behavior 
+      ,     ,  
+. 
+:              
+ behavior. 
+:      perceived_vulnerability         
+behavior. 
+:     self-efficacy         behavior. 
+:    response_efficacy        behavior. 
+:             behavior .
+  [Organization]    .      process  
+ .    process      . 
+,        Collection  ,     
+         . 
+ 
+  appraisal       focus,     . ,  
+  evaluating    ()   intentionality.    
+    focus.   process       appraisal  
+ 
+================
+ personality     .      
+process     . 
+    focus         .  
+perception    comply_effect     ,      
+      participant_modeling     .   
+perception  intrinsic_rewards personality   personality     behavior,  
+      combining.     perception     
+          appraisal      
+,                
+ personality .    ,  segregating,       
+      ,        
+      (..   ,     , 
+satisfaction_of_needs   , .).         
+     perception,      ,  
+   segregating     .       
+ perception      Collection    combining     
+  .       ,     
+               personality   ( 
+).   ,             
+                behavior . 
+          possibility_effect    Collection,  
+ perception  . ,       appraisal    
+ personality    ,      combining     
+ 
+================
+    appraisal    .       focus,  
+    ()  .      
+,  ,  ,     .  .  
+     .       perception   
+:   ,         . 
+ . -Methodology  
+ 
+         ( ).    
+            
+.                 
+  ,     ,      
+ process.         intrinsic_rewards [knowledge]     
+      ,        behavior 
+  .            participant_modeling  
+impact               
+      .       intrinsic_rewards   
+ behavior  ,       perceived_vulnerability      
+    behavior. 
+ 
+================
+    ,     evaluating   . 
+,               
+ .        appraisal        
+ ,             
+     (  process      
+   ). ,        personality 
+.      loss (  . ;   . 
+); ,           . 
+,              .   
+ appraisal    personality      .  
+   perceived_vulnerability behavior  () ,     perceived_vulnerability, 
+perceived_vulnerability  perceived_vulnerability, self-efficacy,  response_efficacy ( ). ,  
+        self-efficacy,      
+ (  . ;   . ).      
+        appraisal      (  
+.).             . 
+ 
+================
+ . -   . 
+  Vulnerabilities 
+  Source 
+   perceived_vulnerability   [perceived_vulnerability ]. ( ) 
+      perceived_responsibility [perceived_vulnerability ]. 
+      perceived_responsibility [perceived_vulnerability ]. 
+   [perceived_vulnerability]  . ( ) 
+   [perceived_vulnerability]  personality. 
+   [perceived_vulnerability]  . 
+   
+ self-efficacy 
+     [ ]. 
+response_efficacy [ ]   
+ [perceived_vulnerability ]. 
+(  . ;   . ;  ) 
+( ) 
+ [ ]  
+   [perceived_vulnerability ]. 
+  participant_modeling [ ],  
+     [perceived_vulnerability ].  loss [ ]  
+ [ loss ]. 
+(  . ;   . ) 
+     perception    (),      
+    ,    , ,  
+            . 
+          ,  
+   ,     .      
+,               
+                 
+   .       intrinsic_rewards     behavior 
+ ,       perceived_vulnerability       
+     behavior. 
+  extrinsic_rewards      ,       
+perceived_consensus     .       .  
+ 
+================
+        simplifying      
+   .  ,        
+.     protection_effect     perceived_consensus    
+   participant_modeling.           
+ appraisal   loss    evaluating    . 
+           ,   
+     .   learning      
+   .      combining    
+ .       .      
+           , 
+     .. combining        
+   .         . 
+ 
+================
+ . -      
+behavior appraisal perceived_vulnerability 
+         
+      
+    
+loss   
+/ loss 
+   
+  
+    loss   
+  
+  
+      loss 
+loss     
+loss   
+loss              perceived_uniqueness  
+loss   
+         
+    
+loss   
+   
+  
+          
+  perceived_uniqueness  
+loss   
+ [action] 
+   
+  
+protection_effect        loss   
+   loss   
+   
+   
+protection_effect        
+  
+            
+   loss   
+  loss   
+    
+           
+  perceived_uniqueness  
+    
+  
+  
+      
+    
+  
+loss   
+   
+  
+    
+ 
+================
+behavior 
+       
+     
+appraisal      
+    perceived_responsibility    
+  
+ 
+    
+   
+    
+     
+  
+  
+perceived_vulnerability perceived_uniqueness  
+     loss  /   perceived_uniqueness  
+       loss   
+       loss   
+     loss     
+                
+  .   ,        ,   
+        process.      
+         .      
+,      protection_effect    .    
+participant_modeling   ,            
+.           
+          .     
+   persistence . 
+       appraisal   () (  . 
+).               
+          ( ).   
+     belief     focus        
+ 
+================
+      (  . ;   . ).   
+   :
+ 
+     perceived_vulnerability (π)     ()      
+ ()     . θ        , δ 
+ 
+   ,  τ      .    
+  τ           .   
+           . 
+              
+  , , physical_quality, appraisal  ,   . 
+ 
+          .    ,  
+             focus   
+   .             
+       . ,    ,   
+   ,         . 
+ 
+            . 
+   mental_calculation        experiential_awareness    
+ 
+================
+            ( 
+).         ...      
+extrinsic_rewards             ,   
+  .   . 
+physical_quality  
+ gain               
+ .        ,      
+ ,    physical_quality      ,    physical_quality   
+    appraisal     ( ).  
+        .   belief   
+      .  ,  physical_quality      
+judging            .  , 
+      .   ()  physical_quality   
+              
+ certainty_effect      . 
+   physical_quality            
+       .        
+   ,  impulsive_effect       
+   .   ,          
+  (  ).        
+   ( ): ()         
+    intelligence     ..; ()   
+            intelligence  
+ 
+================
+  ; ()    physical_quality         ; ()  
+  .%, %, %,  .%          ; 
+ ()    physical_quality    intelligence       
+    .    intentionality     intelligence   physical_quality 
+        . 
+  appraisal     simplifying  .  
+  appraisal           
+ ,     appraisal   .     
+appraisal    .           
+ evaluating   . 
+appraisal  
+  appraisal              
+.     ,             
+      (.. , ,  ).    
+                
+   .            
+      .   focus     
+ ,     participant_modeling  appraisal        
+.         ()      appraisal 
+.  appraisal        : ()    
+   ; ()          
+   appraisal    ; ()    gain  
+; ()          .   ; () 
+ 
+================
+   gain   ; ()      
+   ; ()   gain    .    
+   ;  ()    gain    .    
+   . 
+ 
+ protection_effect    ,        () 
+    judging .       
+ ,  ,  .      
+  belief         physical_quality     
+.        .  
+        . 
+   
+  ,        ,     
+  . ,     simplifying         
+ Collection extrinsic_rewards.     judging       
+              
+     ..            
+         perceived_vulnerability        
+     - perceived_uniqueness ,    loss,   
+.      ,    ,   
+ perceived_vulnerability . 
+ 
+================
+   focus 
+             
+   ..   combining      combining   
+     .          
+           .    
+      .
+   focus             
+           .   
+ ;    perceived_uniqueness  ,       
+loss ,       .   ..  
+  simplifying       .        
+ ()  participant_modeling  process          
+ .             focus,   
+     behavior  perceived_vulnerability .     
+     .     - perceived_vulnerability 
+perception    loss (.), response_efficacy perceived_uniqueness  protection_effect  
+ (.),  loss    loss   (.),  
+loss    loss protection_effect  (.),   loss perceived_uniqueness  
+    (.).   ,  loss       
+   .  loss          
+   .       .,       
+,       (  . ).   
+      . ,            
+ Collection,           personality  . 
+ 
+================
+           .    
+    perceived_vulnerability perception perceived_uniqueness    .     
+  simplifying     .     response_efficacy perceived_uniqueness 
+      (.)     .       
+          ,    
+    .     loss      
+.       evaluating     loss 
+       ,      appraisal 
+    .         
+. 
+  
+              ,    
+ .                  
+                 
+      ( ).   self-efficacy  
+        ,        
+     . ,           protection_effect 
+       .          
+(  . ),        .,    .,    ., 
+       protection_effect   ( ). ,  
+[goal]   Collection              
+ .         .  
+      Collection  ,       
+ 
+================
+combining      .    Collection    
+    protection_effect       . 
+  
+   
+   ,           
+ ,                 . 
+        , ,   
+ (  . ).   .     :  
+  experiential_awareness        .  
+              
+    .        
+ ,            
+   ,      .       
+            .. 
+ 
+================
+ . -   (  . ;   . ) 
+   self-efficacy   experiential_awareness      .     
+      . 
+.    
+. 
+.     
+   . 
+.     
+   . 
+       .     
+         . 
+     .     
+. 
+.     
+    . 
+.     
+  . 
+      .      
+,    . 
+      .      
+     ,    
+         
+   . 
+.    
+     
+. 
+ mental_calculation        ,    intentionality 
+            
+(  perceived_vulnerability,   perceived_vulnerability,  response_efficacy ),  
+      ( loss ),    ( 
+  self-efficacy ).           
+     ;         
+       ;          
+.               
+   ,   ,        
+ 
+================
+,           .   
+            ,   
+ ,        ,    
+         (  . ;   . ).  . 
+    .  .       
+ .  .        
+.  .       . 
+ 
+================
+ . -   
+ 
+================
+ . -    
+ . -    
+ 
+================
+ . -   
+belief  
+         ,     
+      ().    ()   
+        mental_calculation  : .      
+  belief. . participant_modeling       ,    
+,      . . focus      
+ ,               
+. . focus         appraisal     
+belief    . .        focus.  . 
+         focus  . 
+ 
+================
+ . -   (  . ) 
+  .      belief.        
+ (  ). 
+. participant_modeling  .    , ,   
+   . 
+. focus  .        
+ . 
+. focus         belief   belief   .  . 
+.        focus.         
+   .
+ 
+ 
+================
+ :   
+           process   
+          .     
+        focus.       
+           ,   
+   .           
+,         focus. 
+     .         
+ . ,         appraisal 
+.      ,          
+.       appraisal    ,  
+            ,  
+  ,             
+ personality .    ,        
+     protection_effect   . ,   ,  
+     threat_appraisal  coping_appraisal,  . 
+  
+          .  
+      .          
+      , .         
+     . ,            
+             . Collection  
+               
+ 
+================
+           [] . 
+,               
+.  combining     ,      .    
+ segregating            physical_quality  . ,  
+     :       .  . 
+           source.  
+      .         
+     ,         
+       .     . 
+             combining     
+  .      ,  .   evaluating   
+            
+source ( ).       evaluating  .%    
+  (  . ).          
+ evaluating    (  . ). 
+ . -   
+Source  
+ 
+ 
+       
+    
+. . . . 
+. . . . 
+   evaluating 
+.% 
+  
+%  
+%  
+         personality   
+.           ,     
+ . ,           physical_quality  
+       .       
+    .     ,     . 
+ 
+================
+ combining  ,        .   
+     .         ,  
+,  ,    ( ).     
+       .         
+      .           
+            ( ).   
+   ,       . ,      
+     perceived_vulnerability           ( 
+   )          evaluating     
+  techniques    perceived_vulnerability  .   ,  
+   segregating        , 
+      . 
+ .  .    .       
+ (.%).       (.%).      
+      (.%).  gain        
+  %       %.   physical_quality    . 
+   physical_quality      physical_quality  .       
+   .            .    
+        .       .   
+         .        
+ . 
+ 
+================
+ . -     
+       . 
+  .    . 
+   . 
+  . 
+  . 
+  .      . 
+    . 
+   . 
+   . 
+   . 
+gain   $,  . 
+$,  $,  . 
+$,  $,  . 
+ $,  .
+ 
+ . -     
+    
+physical_quality .       .   
+     .   
+     .  
+  .                
+ .        focus       ., 
+          . 
+ 
+================
+ . -   focus   
+    
+  (    )    perceived_vulnerability  loss  . .   perceived_vulnerability    . .   perceived_vulnerability    . .   perceived_vulnerability  loss  . .   perceived_vulnerability    . .   perceived_vulnerability    . . response_efficacy  loss    . . response_efficacy  loss    . . response_efficacy  loss    . . response_efficacy  loss    . . response_efficacy  loss protection_effect   . . response_efficacy  loss    . . response_efficacy  loss   . . response_efficacy   perceived_responsibility   . . response_efficacy     . . response_efficacy     . . response_efficacy     . . response_efficacy     . . response_efficacy      . . response_efficacy      . . response_efficacy     . . response_efficacy     . . response_efficacy      . . response_efficacy     . . 
+appraisal  
+        (),     
+              
+.      appraisal    appraisal      
+  (  . ). 
+        ,       
+   appraisal .  process        
+    .  ,    ,   
+            appraisal . 
+ 
+================
+        .  .   
+   .          perceived_vulnerability 
+     perceived_vulnerability    response_efficacy       
+perceived_vulnerability       .  ( ).  
+response_efficacy           
+.          ,   
+ perceived_vulnerability          perceived_uniqueness  
+perceived_vulnerability. 
+ . -   
+    
+    
+  perceived_vulnerability  loss  . . 
+  perceived_vulnerability  *  . . 
+  perceived_vulnerability    . . 
+  perceived_vulnerability  loss  . . 
+  perceived_vulnerability    . . 
+  perceived_vulnerability    . . 
+response_efficacy  loss    . . 
+response_efficacy  loss    . . 
+response_efficacy  loss    . . 
+response_efficacy  loss    . . 
+response_efficacy  loss protection_effect   . . 
+response_efficacy  loss    . . 
+response_efficacy  loss   . . 
+response_efficacy   perceived_responsibility   . . 
+response_efficacy    ** . . 
+response_efficacy     . . 
+response_efficacy     . . 
+response_efficacy     . . 
+response_efficacy      . . 
+response_efficacy      . . 
+response_efficacy     . . 
+response_efficacy     . . 
+response_efficacy      . . 
+response_efficacy     . .*          
+**        
+ 
+================
+       judging   
+  appraisal            
+.               
+ .          
+  ()   ,    combining      
+          combining   appraisal 
+.             . ( 
+ . ),  personality        .
+               
+            ( ).   
+             
+.         .   
+     ,           
+   .
+           ( 
+).     ,             
+  . ,  mental_calculation    ,     
+    . ,      
+   (). 
+  
+       appraisal ,     
+     .         
+appraisal   ,  mental_calculation       
+ 
+================
+personality   .     ,     
+     personality .       
+     ,         
+       .    ,   
+    .        perceived_vulnerability , 
+              
+     threat_appraisal   coping_appraisal process.  
+ perceived_vulnerability   ,  belief        
+    loss     ,    perceived_uniqueness    
+  ,            . 
+ .             
+       loss    . belief   
+ ,           satisfaction_of_needs 
+      . belief      
+   . belief          , 
+ satisfaction_of_needs       . belief    
+ syllogistic_rules           . 
+belief     syllogistic_rules         
+     .    behavior    behavior   
+.   . .   combining         
+ (.%),    satisfaction_of_needs    (.%),    
+  (.%),    (.%),    (.%), 
+ 
+================
+satisfaction_of_needs       (.%),     
+(.%). 
+ . -     loss   
+  ‐  ‐  ‐  ‐ 
+   
+    perceived_vulnerability perceived_vulnerability 
+ .
+ 
+.
+ 
+.
+ 
+.
+ 
+-. *
+ 
+-. 
+*
+ 
+*      
+
+ 
+ ‐  
+loss 
+behavior
+ -.
+ 
+ = . 
+  
+= . 
+-. 
+ = .
+ 
+  
+= . 
+protection_effect  = . 
+  
+= . 
+  
+= . 
+ .             
+       perceived_uniqueness . belief       
+     evaluating  . belief       
+     syllogistic_rules    perceived_vulnerability   satisfaction_of_needs  
+ 
+================
+         . belief  
+      perceived_responsibility  ,    
+ ,    . belief    ,  
+         response_efficacy  
+ satisfaction_of_needs   . belief     syllogistic_rules  
+    .    behavior    behavior 
+  .   . .   combining      
+ satisfaction_of_needs    (.%),      (.%), 
+     (.%),     perceived_responsibility   
+(.%),         (.%). 
+ . -       ** 
+ ‐  ‐  ‐  ‐ behavior 
+    
+   loss 
+perceived_vulnerability 
+ 
+.
+ 
+perceived_responsibility 
+ 
+= .
+ 
+.
+ 
+.* 
+
+ 
+= .
+ 
+ 
+= .
+ . 
+
+ 
+= .
+ 
+-.* -. * 
+ 
+ 
+= .
+*     
+ **   perceived_vulnerability       
+ 
+================
+ .             
+          . belief   
+ ,             
+ . belief         . belief 
+     ,   frustration_of_needs ,  
+ ,    . belief     
+syllogistic_rules      impulsive_effect       
+  . belief     syllogistic_rules     
+ ,           .    
+behavior    behavior   .   . .   
+combining        frustration_of_needs  (.%),   
+   (.%),  impulsive_effect  (.%),    
+(.%),    (.),     (.%). 
+ 
+================
+ . -        
+ ‐  
+ perceived_vulnerability
+ 
+ ‐   perceived_vulnerability 
+ ‐    
+ ‐ 
+ 
+
+ 
+.
+ 
+. 
+.
+ 
+-.* 
+. 
+.
+ 
+.
+ 
+*      
+ ‐  
+loss 
+behavior
+ 
+-. 
+
+ 
+= .
+ 
+  = . 
+-. 
+ = . 
+  = .
+ 
+  
+= . 
+-. 
+ = . 
+ .             
+        loss        
+   threat_appraisal process   coping_appraisal process. belief 
+   ,           
+satisfaction_of_needs       . belief    
+     . belief       
+,       ,       . 
+belief     syllogistic_rules       
+ 
+================
+    . belief     syllogistic_rules     
+ ,       ,    .   
+  syllogistic_rules     perceived_vulnerability    
+      .%   .   
+perceived_vulnerability     syllogistic_rules  response_efficacy   , 
+satisfaction_of_needs         satisfaction_of_needs   , 
+ ., .,  .     .   perceived_vulnerability 
+     syllogistic_rules   self-efficacy  response_efficacy.  
+  behavior    behavior   .   . .  
+ combining          (.%),   
+ satisfaction_of_needs    (.%),      (.%),  
+  (.%),    (.%),    
+(.%),  satisfaction_of_needs       (.%). 
+ 
+================
+ . -     loss perceived_vulnerability   
+ ‐  
+ perceived_vulnerability
+ 
+ ‐  ‐  ‐       perceived_vulnerability 
+ 
+.
+ 
+.
+ 
+. 
+.
+ 
+-.* 
+-.* 
+*     
+ 
+ ‐  
+loss 
+behavior
+ 
+perceived_vulnerability ⒐  
+ -. 
+ 
+ = . 
+  
+= . 
+-.
+ 
+ = . 
+  
+= . 
+protection_effect  = . 
+-. 
+  
+= . 
+ 
+  
+= . 
+ 
+perceived_vulnerability ⒐  
+ 
+ ⒐   
+ ⒐ response_efficacy 
+= . -.  
+= .
+ 
+-.
+ 
+
+= . -.
+= . -.
+ 
+
+ 
+================
+ .             
+       perceived_uniqueness        
+threat_appraisal process   coping_appraisal process. belief       
+     evaluating  . belief       
+  . belief        perceived_responsibility  
+,     ,    . belief  
+  ,           
+response_efficacy   satisfaction_of_needs   . belief    
+ syllogistic_rules      .     
+   coping_appraisal process   threat_appraisal process.    
+behavior    behavior   .   . .   
+combining       satisfaction_of_needs    (.%),   
+   (.%),      (.%),   
+  perceived_responsibility   (.%),         
+(.%). 
+ 
+================
+ 
+ . -      perceived_vulnerability  ** 
+ ‐  ‐  ‐  ‐        loss perceived_vulnerability 
+ 
+.
+ 
+.
+ 
+.*
+ 
+.
+ .* 
+-
+ 
+*      
+behavior 
+ ⒐   
+ ⒐ response_efficacy 
+perceived_responsibility  = . 
+ = .
+ 
+ = . 
+ = . 
+  
+= . 
+**   perceived_vulnerability       
+ .             
+               
+  threat_appraisal process   coping_appraisal process. belief    
+       . belief       
+frustration_of_needs     . belief      
+syllogistic_rules      impulsive_effect   . belief  
+   syllogistic_rules      ,       
+    .      syllogistic_rules   
+  perceived_vulnerability   self-efficacy    ,   
+ 
+================
+,   ,      ., ., .,  . 
+    .   perceived_vulnerability    
+ syllogistic_rules  response_efficacy        
+frustration_of_needs   .  .     .  
+ perceived_vulnerability   certainty_effect  syllogistic_rules   self-efficacy    
+,   frustration_of_needs ,      ., .,  . 
+     .   perceived_vulnerability    
+response_efficacy     .    behavior    
+behavior   .   . .   combining    
+    frustration_of_needs  (.%),      
+(.%),  impulsive_effect  (.%),    (.%),    
+(.),     (.%). 
+ 
+================
+ . -      perceived_vulnerability   
+ ‐  ‐  ‐  ‐     
+    perceived_vulnerability perceived_vulnerability 
+ 
+.
+ 
+.
+ 
+.
+ 
+ ‐  
+loss 
+behavior 
+perceived_vulnerability ⒐   
+= .
+ 
+ -.
+ 
+= .
+ 
+  
+= . 
+
+ 
+= . 
+-. 
+ = . 
+  = . 
+= . 
+  
+= . 
+= . 
+-. 
+ = . 
+ 
+perceived_vulnerability ⒐  
+ 
+ ⒐   
+ ⒐ response_efficacy 
+= . -.
+ = .
+ -.
+ = . -. 
+ = . -.  
+.
+ = . 
+.
+ 
+= .
+ 
+-.  
+.
+ 
+-. 
+ 
+================
+ ,  .  .        
+     perceived_vulnerability  .       
+        . 
+ 
+================
+ : 
+             ,  
+        .  focus    
+    belief ()    .  
+          .  
+    perceived_vulnerability,   perceived_vulnerability,   
+, response_efficacy,   .  focus         
+     .      ,  
+            
+   behavior .
+            perceived_vulnerability , 
+  loss    , perceived_uniqueness ,      . 
+,              
+.              
+     . 
+  
+    ,  [goal]   focus     intentionality 
+    .  focus       
+      behavior .   ,  perceived_vulnerability  
+      threat_appraisal process    coping_appraisal 
+process    . 
+ 
+================
+ loss 
+              
+ ,     ,    ,   
+,   , satisfaction_of_needs    ,    
+  ,   satisfaction_of_needs    . 
+ 
+           perceived_vulnerability, 
+  perceived_vulnerability,  self-efficacy, response_efficacy,     
+  .  .       . 
+ . -   loss   -   
+ behavior      
+     
+  
+   
+    
+   
+protection_effect   
+   
+   
+ belief  
+ -      
+  coping_appraisal ,   , response_efficacy,   
+,                  loss 
+    .           
+ loss      coping_appraisal .  , 
+ self-efficacy ()            
+    loss.  self-efficacy ()      
+              
+ satisfaction_of_needs      .  self-efficacy ()  
+ 
+================
+   ()          
+ .      intrinsic_rewards belief     protection_effect  
+        ,    ,   
+   protection_effect    gain.  gain,     
+loss            participant_modeling  behavior.  ()  
+             .  
+               
+  gain.           gain 
+         self-efficacy   loss    
+. 
+response_efficacy ()       . 
+      personality        
+ loss   participant_modeling  behavior.      , 
+perception, ,  [rewards]         
+ (  . ).     combining    
+               
+extrinsic_rewards            gain   
+ .    process         
+            ( ). 
+            
+             
+    ,    protection_effect    , 
+ 
+================
+     ,         
+  . 
+  ()          
+ loss            .    
+                ( 
+).           ,     
+          ,    
+ loss  .             
+  (  . ;   . ). ,      
+        (  . ).   
+               
+              impulsive_effect   
+ .         loss    
+       ,          
+  .     ,       
+ ,              
+          .    
+          techniques    [knowledge] 
+       .
+   perceived_vulnerability ()    threat_appraisal   
+          loss. , 
+    (    satisfaction_of_needs  )  
+  ,        .     
+ 
+================
+     opportunity_for_criminal_acts  loss           
+      protection_effect    .    
+       . (),        
+perceived_vulnerability     .       focus 
+  focus       ,       perceived_vulnerability . 
+ focus    perceived_vulnerability      .     
+     perceived_uniqueness ,   ,   
+,   .    ,         
+   .          protection_effect  
+    loss ,              
+      .   ,    satisfaction_of_needs  
+         perceived_vulnerability       .  
+       syllogistic_rules   perceived_vulnerability    
+       protection_effect   . 
+ 
+   ,    .,   syllogistic_rules   
+ perceived_vulnerability  perceived_vulnerability   self-efficacy    .    
+,  threat_appraisal         coping_appraisal 
+. 
+ 
+================
+ . -   loss   -   
+ behavior 
+        
+  ⒐   
+   
+ ⒐   
+ 
+ 
+ 
+      
+   
+ 
+       belief  
+protection_effect  
+ 
+  
+
+ 
+
+ 
+ -       
+  perceived_vulnerability    response_efficacy  
+  , satisfaction_of_needs      ,   
+satisfaction_of_needs  .       opportunity_for_criminal_acts  loss    
+         , satisfaction_of_needs    
+  ,   satisfaction_of_needs       
+   perceived_vulnerability. , response_efficacy ()     
+ impact     .        syllogistic_rules 
+     perceived_vulnerability    belief     behavior  
+  perceived_vulnerability       .       
+   syllogistic_rules            focus 
+ participant_modeling.          [experience]     
+    possibility_effect  loss.  ,         
+      behavior        
+.       opportunity_for_criminal_acts  loss  ,      
+ satisfaction_of_needs            .  
+ 
+================
+  satisfaction_of_needs   ,            
+ .
+     threat_appraisal       coping_appraisal 
+        impact  .    
+    perceived_vulnerability  perceived_vulnerability  behavior_control-ability   
+ self-efficacy  response_efficacy      . 
+      threat_appraisal       
+   ,   coping_appraisal     behavior_control-ability  
+      .   ,   , 
+           . 
+    ,  self-efficacy ()    ()  
+  ,       belief     
+participant_modeling             loss behavior   
+     .  self-efficacy ()  response_efficacy () 
+   .           
+      belief     participant_modeling    
+           loss.  
+ perceived_vulnerability ()    ()       
+,      opportunity_for_criminal_acts   loss        
+         .  gain,   
+perceived_vulnerability    self-efficacy (),        
+   .        opportunity_for_criminal_acts  loss   
+ belief     participant_modeling  . ,     belief 
+ 
+================
+          ,    belief 
+opportunity_for_criminal_acts  certainty_effect  loss           
+     .            
+opportunity_for_criminal_acts   loss     participant_modeling  .     
+  syllogistic_rules  ,   syllogistic_rules  [experience]     
+ belief  opportunity_for_criminal_acts   loss ,     ,     
+  .
+             loss  
+ ,  combining            
+   .   ,  satisfaction_of_needs   ,   
+                
+                . 
+          ,      personality   
+    .         
+     satisfaction_of_needs        
+     .         
+     loss        . 
+       belief ,      
+          loss,     
+    ,         
+  .
+  ,         behavior_control-ability    
+  participant_modeling       loss . ,  
+ 
+================
+   , coping_appraisal       .  
+threat_appraisal     syllogistic_rules,         
+     coping_appraisal        impact  
+.   ,      physical_quality combining     
+       loss    . 
+perceived_uniqueness  
+            
+perceived_uniqueness ,       perceived_responsibility  ,  
+       ,       
+,   ,   satisfaction_of_needs    .   
+ perceived_vulnerability         segregating  
+   .             
+   . 
+ 
+   ,          
+ perceived_vulnerability,  self-efficacy, response_efficacy,      
+ .  .       . 
+ . -  perceived_uniqueness    -  
+  behavior     
+   
+ perceived_responsibility  
+   
+ 
+  
+     
+ belief  
+ -       
+ 
+================
+       combining        
+appraisal .               
+perceived_vulnerability    coping_appraisal .  self-efficacy ()  
+     perceived_responsibility ,       
+        .      personality 
+    participant_modeling            
+  perceived_uniqueness .           
+ , perception,   perception       
+  (  . ).       self-efficacy   
+ perceived_behavioral_control.          
+   appraisal  self-efficacy          
+appraisal   self-efficacy     focus         
+perceived_behavioral_control. 
+ gain   self-efficacy (),   ()   
+         .     
+    loss              
+ .     [experience]   ,          
+   loss  ,           .  
+     ,  ,     
+             gain 
+    . 
+    ,  satisfaction_of_needs  ,     
+threat_appraisal . ,       . (),  
+ 
+================
+satisfaction_of_needs           
+perceived_vulnerability ()  response_efficacy ()        .  
+      perceived_uniqueness     perceived_vulnerability,       
+ satisfaction_of_needs          perceived_uniqueness ,   
+  participant_modeling  behavior.     ,     perceived_uniqueness , 
+     satisfaction_of_needs          
+perceived_uniqueness     perceived_vulnerability   ,         
+satisfaction_of_needs       appraisal  .  ,   satisfaction_of_needs  
+        focus.      
+   . 
+  
+  ,    .,   syllogistic_rules   
+ perceived_vulnerability   self-efficacy  response_efficacy. 
+ . -  perceived_uniqueness    -   
+     ⒐ 
+ 
+behavior   perceived_responsibility   
+    
+ 
+ 
+  
+   
+   belief  
+
+ 
+ -       
+                
+syllogistic_rules    perceived_vulnerability ()   satisfaction_of_needs    
+.         satisfaction_of_needs    
+      perceived_uniqueness ,      .       
+ 
+================
+            perceived_uniqueness 
+            .     
+ focus            perceived_uniqueness .  
+ focus         perceived_uniqueness     perceived_responsibility  
+   ( ).          
+  perceived_uniqueness                
+      perceived_uniqueness .        
+    ,      
+perceived_vulnerability       . 
+            perceived_uniqueness  
+ ,  physical_quality combining          . 
+ combining      .   .      
+ .   .     .  satisfaction_of_needs     
+  combining      .   ,   
+    satisfaction_of_needs         
+.             
+protection_effect   .       behavior    
+   ,       satisfaction_of_needs     
+      perceived_uniqueness ,         satisfaction_of_needs 
+          perceived_uniqueness     
+ .              
+     protection_effect   .  ,   
+           .    
+ 
+================
+         .       
+   behavior_control-ability    behavior.        
+intelligence    behavior          
+     behavior .
+  ,        personality        
+    perceived_uniqueness .     ,    
+                
+,           .     
+ behavior            
+          .     
+     perceived_vulnerability          
+    .    ,      
+   ,   . 
+   
+        protection_effect    
+  ,     ,   , 
+   ,   frustration_of_needs ,      , 
+   . 
+ 
+   ,          
+perceived_vulnerability,   perceived_vulnerability,  self-efficacy, response_efficacy,   
+    .  .       . 
+ 
+================
+ . -       -   
+ behavior      
+     
+   
+   
+  
+  frustration_of_needs   
+     
+   
+ belief  
+ -      
+      perceived_vulnerability         
+  ,   coping_appraisal        
+    protection_effect     .     loss 
+,   ()    . ,     
+perceived_vulnerability      ,  self-efficacy ()    
+ .              
+    belief     participant_modeling        
+        .       
+ ,            
+            impulsive_effect    ,   
+   focus    belief    .   
+ ,             , 
+    .            
+           . 
+ self-efficacy ()    ()       
+ .     ,        
+   ,    belief     participant_modeling  
+ 
+================
+,              . 
+              
+  focus            ( 
+)            (  
+. ).              . 
+      perceived_vulnerability ( ),        
+     . ,        participant_modeling 
+ ,      ,     gain 
+  behavior.  ,      gain  belief  
+  , gain  [knowledge]       
+      ,    perception        
+ . 
+ self-efficacy (),  loss (),    perceived_vulnerability 
+()      ;    perceived_vulnerability   
+         .     
+    opportunity_for_criminal_acts             
+. ,   belief     participant_modeling     belief 
+             
+  .       ,      
+       . 
+ self-efficacy ()       frustration_of_needs    
+    .       personality    
+ participant_modeling         frustration_of_needs .    
+ 
+================
+       ,      
+belief            frustration_of_needs 
+. 
+response_efficacy ()     impulsive_effect     
+ .   ,        impulsive_effect     
+personality           .   
+            ,    
+impulsive_effect  ( ).    focus        
+impulsive_effect  (  . ),    focus       
+    (  . ).  focus   ()     
+             
+.              
+   impulsive_effect         
+.  gain            
+  impulsive_effect          
+. 
+  ()      .      
+                
+   .          
+    (  . ;  ),         
+     (  . ).      
+               
+    behavior.  ,      gain 
+ 
+================
+ [knowledge]          ,  
+  perception        . 
+  
+  ,    .,   syllogistic_rules   
+ perceived_vulnerability  perceived_vulnerability   self-efficacy  response_efficacy. 
+ . -       -   
+ behavior 
+      
+  
+  
+   
+  frustration_of_needs   
+   
+ 
+  
+  ⒐   ⒐       
+  
+  
+
+    
+ belief  
+ 
+
+ 
+   ,           perceived_vulnerability 
+appraisal . ,             
+    coping_appraisal .   perceived_vulnerability 
+  response_efficacy (),     impulsive_effect . 
+  behavior,     opportunity_for_criminal_acts         
+     impulsive_effect   techniques  ,     
+  participant_modeling impulsive_effect . ,        
+             self-efficacy   
+   self-efficacy ()       frustration_of_needs .  
+ impact  threat_appraisal    coping_appraisal     
+ .    perceived_vulnerability  perceived_vulnerability   self-efficacy, 
+   perceived_vulnerability    .       
+ 
+================
+opportunity_for_criminal_acts         belief     participant_modeling 
+ ,               
+ belief     participant_modeling  .       
+ ()         impact     
+ .          
+      .       perceived_vulnerability,    
+    .   self-efficacy    
+ ,       gain     
+behavior.          perceived_vulnerability perception 
+        opportunity_for_criminal_acts     perceived_vulnerability   
+ belief    .         
+perceived_vulnerability       ,  impact      
+self-efficacy .
+      threat_appraisal    coping_appraisal 
+,          .  ,    
+()        ,    
+perceived_vulnerability    self-efficacy   .    
+        perceived_vulnerability     
+. ,  impact  self-efficacy ()       
+        .     
+syllogistic_rules    perceived_vulnerability   self-efficacy    
+     self-efficacy        
+          .    
+ 
+================
+    self-efficacy     perceived_vulnerability 
+   syllogistic_rules      .
+    behavior_control-ability           
+   . ,        
+                  
+         loss .    , 
+               
+   frustration_of_needs            
+.                
+      frustration_of_needs    . ,   
+   .        .   
+ .              
+  ,               
+        .     
+     belief            
+             
+        .
+  ,      , coping_appraisal  
+             
+threat_appraisal .    ,  threat_appraisal    
+ coping_appraisal    .      
+ ,             
+   perceived_vulnerability  loss . 
+ 
+================
+perceived_vulnerability 
+                perceived_vulnerability. 
+             
+  .   perceived_vulnerability    , judging      
+     .
+  personality          
+   .  ,  self-efficacy ()      
+,   response_efficacy (),  loss (),   
+perceived_vulnerability ()    perceived_vulnerability  ().     
+     ,        
+.        ,   
+perceived_vulnerability ()          loss  (  
+   satisfaction_of_needs  ).   ,    
+perceived_vulnerability ()    perceived_vulnerability ()      
+. 
+           coping_appraisal 
+process    threat_appraisal process     
+ .         threat_appraisal 
+   coping_appraisal process  behavior_control-ability .      
+     perceived_uniqueness         perceived_vulnerability 
+appraisal   coping_appraisal .         
+perceived_vulnerability      ,    perceived_vulnerability  
+      self-efficacy  response_efficacy.     
+      loss  ,    
+ 
+================
+threat_appraisal  coping_appraisal        . ,   
+                
+  threat_appraisal     impact   coping_appraisal 
+.   perceived_vulnerability    self-efficacy    
+.
+  ,          .  
+,      coping_appraisal    impact  . 
+ threat_appraisal process     coping_appraisal process   
+.   threat_appraisal    ,      
+ .         . 
+   
+             
+           .  perception 
+               
+      .       
+   ,       . 
+   
+                 
+    perceived_vulnerability       .     
+    .    ,      
+    behavior_control-ability     . ,  
+     combining        , 
+       .       
+ 
+================
+   participant_modeling   ,         
+ behavior     perceived_vulnerability       focus    
+        . 
+        certainty_effect impact   self-efficacy  
+   .  self-efficacy       
+    (  . )        
+      .        
+  ,           
+ behavior_control-ability      .   ,  
+      self-efficacy        
+      .       
+         self-efficacy. 
+    impact        perceived_vulnerability 
+appraisal . ,   perceived_vulnerability    perceived_vulnerability 
+     .   ,     
+   ,    perception    opportunity_for_criminal_acts   
+ perceived_vulnerability,     perceived_vulnerability  ,     participant_modeling  behavior   
+   perceived_vulnerability.              
+     opportunity_for_criminal_acts    perceived_vulnerability,     ,    
+      .          
+      threat_appraisal process       
+participant_modeling   behavior (  . ;   . ).     
+         perceived_vulnerability  perceived_vulnerability    
+ 
+================
+coping_appraisal process,    threat_appraisal      
+coping_appraisal           . 
+     ,       focus. 
+,      focus    threat_appraisal  
+   impact      coping_appraisal     
+  . ,        
+       opportunity_for_criminal_acts    perceived_vulnerability     
+     .          
+      participant_modeling  task    behavior  techniques  perceived_vulnerability,   
+     focus.          intelligence  
+ perceived_vulnerability   perceived_vulnerability   ,          .  
+    behavior   ,      
+          
+  . 
+ focus         
+  .          
+        focus,     perception 
+           perceived_vulnerability    
+.        ,     
+   .        focus  
+behavior_control-ability            perceived_vulnerability   
+   . 
+ 
+================
+    perceived_consensus           
+behavior_control-ability       appraisal  .  .  
+     behavior_control-ability   .    
+,               
+       .        
+intrinsic_rewards     ( )       gain 
+     perceived_consensus          
+ ( ).             
+         evaluating     . 
+        evaluating      
+     . 
+ . -    
+focus   ( )   belief 
+(  . )   belief 
+(  . )   belief 
+(  . )   belief 
+belief   behavior 
+(  . ) belief   behavior 
+(   .  )   belief 
+combining            
+   personality      .   
+perception               
+    perception          
+ .           ,  
+  ,          . 
+     , , emotional_intelligence,  perceived_vulnerability fear_arousal 
+ 
+================
+           .  
+ perception      possibility_effect       
+     .  ,     
+      (  loss   )     
+  ,         . 
+              
+   perception     gain    
+  (  . ;  ;  ;  ).   
+   appraisal           
+experiential_awareness    intrinsic_rewards        perception 
+.             
+          .  , 
+         process      persistence 
+protection_effect,              
+.             
+          . 
+   
+   ,     perception    techniques  
+  perception .          
+focus,      perception   techniques     
+  impact   behavior  .  ,    perception  
+   techniques             
+techniques             . 
+ 
+================
+         process        
+   task    [knowledge]        
+           .   perception 
+        perceived_vulnerability       loss. 
+,           perceived_vulnerability  
+             
+   .    fear_arousal  perceived_uniqueness     
+      belief    .  
+  perceived_vulnerability     ,      techniques  
+perception   ,   loss        
+     protection_effect    . 
+ focus      appraisal   .  
+             
+    .  judging       
+,             satisfaction_of_needs  
+    gain.        ,   
+         behavior   .  
+,     participant_modeling      
+ .         gain   
+             
+    participant_modeling   .      
+             
+. 
+ 
+================
+ : belief 
+           
+  . ,      belief ()   
+        perceived_vulnerability,   
+perceived_vulnerability,  self-efficacy, response_efficacy,        
+.             
+    . ,      
+   focus     behavior . 
+ 
+    ,      ,  
+      .    
+               
+behavior    .  gain,        
+            protection_effect. 
+judging           
+   impact       ,       
+ intentionality    . 
+   ,  focus      
+        behavior ,       
+       .        
+   ,            
+  .             
+   behavior             
+ 
+================
+ .            belief   
+ ,       ,    belief   
+behavior,   belief,  perceived_behavioral_control     
+     .      focus      
+      behavior            
+perceived_vulnerability.         ,   ,  
+ .            
+      appraisal   .     
+            
+    behavior,      personality   
+   .
+         perception    
+  .        
+      .         
+" combining"  satisfaction_of_needs    ( ).  perception    focus 
+          perception   
+techniques        participant_modeling  .  ,  
+self-efficacy          . 
+,    perception     self-efficacy   
+            .  behavior  
+      focus      self-efficacy  
+    .          
+ 
+================
+. ,         focus    
+ loss    . 
+             
+ appraisal    perception   .      
+           perception   
+ ( ).          
+           perception . 
+  appraisal         
+     . 
+ 
+      ,     
+,           focus.  focus   
+           
+      .    ,  
+,       .         
+      . ,       
+focus      . 
+  perceived_vulnerability
+      perceived_vulnerability      
+.       ,       
+. ,    perceived_vulnerability  perceived_uniqueness     
+  .          
+,    personality         .  
+ 
+================
+    protection_effect      appraisal    
+perceived_vulnerability  perceived_uniqueness   appraisal   perception      
+     .            
+ personality   perceived_vulnerability appraisal . 
+ 
+  focus         ,  , 
+, , gain, physical_quality,    ,        
+  .       ,      
+       .  ,   
+        .      focus  
+  (.%)   %         . 
+               
+         .      
+           . 
+  
+                
+             personality  
+ ( ). ,            
+personality        personality    (  . ). 
+   techniques  ,       certainty_effect   
+         Collection extrinsic_rewards ( ).  
+ ,          . 
+     focus          Collection 
+ 
+================
+ .              
+     perception.           
+         judging     participant_modeling  
+. ,            
+ . 
+      Collection       
+     intelligence        .   
+   combining            
+            .  focus  combining 
+               
+        . 
+   
+        appraisal     
+    ,   ,  appraisal    
+(  . ).            
+  (  . ;   . ).      
+         ,     
+   ,            
+(  . ;   . ).    ,    
+    ,      ,   judging  
+ .   Collection,           
+    ( ),           
+       focus (  . ).  belief  
+ 
+================
+                  
+     .             
+    perceived_vulnerability    focus        
+judging              
+     .          loss perceived_vulnerability   
+     %   ,     perceived_uniqueness  perceived_vulnerability 
+       %   ,     
+   perceived_vulnerability        %   
+.       belief        
+    focus. 
+ 
+  belief,             
+ ,     belief,      behavior_control-ability  
+    .         
+behavior_control-ability        ,    perception    
+ .             
+           .   
+         .
+  focus           personality   
+    .        
+,         .    focus   
+   ,     ,     
+appraisal   .         
+ 
+================
+             
+[knowledge] intrinsic_rewards,           .  
+      focus          
+       self-efficacy     , 
+      perception  gain   
+,             
+ behavior . 
+ 
+================
+ 
+, ., , .,  , . "       protection_effect 
+ ,"      (:) 
+,  . 
+, .. "        
+    ,"     (:) ,  . 
+, ., , .., , .,  , .. "    
+  vulnerabilities,"  &   
+(:/) ,  . 
+, . ":   perception  perceived_vulnerability ,"   
+(:) ,  . 
+, ., , .,  , . " protection_effect  ," 
+     (:) ,  . 
+, ., , ..,  , . "        :  
+     ,"   () ,  
+. 
+, .,  , . "   ,"     
+ (:) ,  . 
+, . "self-efficacy :    belief   ,"  
+ (:),   ,  . 
+, . "   self-efficacy ," : self-efficacy   , 
+, . . 
+ 
+================
+, . "perceived_vulnerability :         
+,"      (:) ,  . 
+, .. "   perceived_vulnerability perceived_vulnerability,  ,      
+    :       belief,"  
+behavior  personality (:) ,  . 
+, ., , .,  , . "     [knowledge] 
+ ,"  &   (:/) , 
+ . 
+, . "   perceived_vulnerability appraisal :      ," 
+&  (:) ,  . 
+, . "," :   :     
+    , . , .   .  (.), 
+   , . 
+, .., , ..,  , .. "     task   
+      ,"   (:) ,  
+. 
+, .. "   ,"      
+  () . 
+, .. " :  ,"      
+  () ,  . 
+, ..,  , .. "     :     
+,"    (:) ,  . 
+ 
+================
+, . "     ,"   (:) , 
+ . 
+, ., , ..,  , . "      
+,"    &  (:) ,  . 
+, ..,  , .. "    self-efficacy   
+ behavior    ,"    
+) . 
+, . "personality     physical_quality :        
+    ," :     , 
+ , , , . 
+, ., , .,  , . "    : 
+     ,"     
+   () ,  . 
+, ., , .,  , . "       
+   ,"    (:) 
+,  . 
+, .,  , . "         
+ ,"    .    
+ (:) ,  . 
+, . "     :       
+    perception,"     , 
+, , , . 
+ 
+================
+, .. "    perception    [modeling ]," : personality 
+   , ..  (.),  , , 
+ , , . . 
+, ., , ., , ..,  , . "   : 
+   ,"      
+  () ,  . 
+, .., , ..,  , .. "      
+:         ,"   
+    (:) ,  . 
+, .. "        ,"   
+  (:) ,  . 
+, ..,  , .. "    perception   
+    ,"  &  
+ (:) ,  . 
+, . "  : belief  ," &  (:) ,  
+. 
+, .         , , . 
+, . "  ,"   (:) ,  . 
+, ., , ..,  , . "  belief     
+ :   focus,"   (:) ,  . 
+, ..,  , .. "    belief    
+ ,"    (:) ,  . 
+ 
+================
+, ..,  , .. " self-efficacy :    appraisal  
+ ,"   (:) ,  . 
+, .., , .., , .,  , . "     
+    ,"      
+  (:) ,  . 
+, .., , .,  , . "      
+behavior," :     ( )     
+       (), , , . 
+ , ., , .,  , . " perception   
+   IMPACT    
+:   perception,"   )  . 
+, ., , ., , .,  , . "satisfaction_of_needs  ,"  
+ (:) ,  . 
+, ...,  , .. "    :  
+appraisal    self-efficacy,"       
+ (:) ,  . 
+ "   focus," . 
+ "   focus :        ," . 
+ "   :    ," . 
+, .,  , . "       
+,"     (:),   ,  . 
+, .,  , . "     :   
+ ,"    (:) ,  . 
+ 
+================
+, .,  , . " appraisal      
+,"    (:) ,  . 
+, .,  , . "       ," 
+   (:) ,  . 
+, .,  , . "   perception       
+     *,"      
+  (:) ,  . 
+, ., , .,  , . "Cryptanalysis        ," 
+     (:) ,  . 
+, ..,  , . "    [policy]    
+  ," &  (:) ,  . 
+, ..,  , . "    perceived_vulnerability    
+[activity ],"      (:) ,  . 
+, . "intelligence , ,   (),"  
+&   (:) ,  . 
+, .. "perceived_uniqueness :   focus    ,"  
+   () ,  . 
+, ., , .,  , . "  : , , 
+     ,"    (:) 
+,  . 
+, .-xxx., , .,  , . "    
+belief ,"    (:) ,  . 
+ 
+================
+, .., , .,  , .. "      
+syllogistic_rules   self-efficacy, frustration_of_needs, 
+[experience ], protection_effect  ,"      
+ (:) ,  . 
+, ., , .., , ..,  , .. "    
+perceived_vulnerability      ,"    
+ (:) ,  . 
+, . "          belief   
+  ,"      (:) ,  . 
+, .., , .,  , .. "      
+ belief,"      (:) ,  . 
+, .. ",  ,  ,"  & 
+  (:/) ,  . 
+, .,  , . "mental_calculation      
+  appraisal ,"    ) ,  . 
+, .., , .,  , .. "      
+ ," &  (:) ,  . 
+, .., , .,  , . "   personality   : 
+   ," &  (:) ,  . 
+, .., , .,  , . "      
+ ,"  &   (:/) 
+,  . 
+ 
+================
+, .,  , . "      ," 
+   (:) ,  . 
+, ., í, ., , .,  , .. "   
+,"      (:) ,  . 
+, ., , .,  , . "     
+    perceived_vulnerability :     ," 
+   (:) ,  . 
+, .. " impact   belief    ,   
+   :   ,"   
+   (:) ,  . 
+, .., , .,  , . "       
+      ,"     
+(:) ,  . 
+, ..,  , .. "    :  focus   
+    ," &  (:) ,  . 
+, ..,  , .. "      ,"  
+    (:) ,  . 
+ü, ., , .,  , . "    physical_quality  ," 
+     (:) ,  . 
+, . "        ,"   
+(:) ,  . 
+, ..   belief :   . , , 
+. 
+ 
+================
+, .., , .,  , ..     belief 
+ , . 
+, . "personality  , ,"    , .  () 
+,  . 
+, .. "          perceived_responsibility   
+   ,"   (:) ,  . 
+, .., , ..,  , .. "  belief    
+appraisal    ,"   (:) ,  . 
+, .. "  ?," &  (:) ,  . 
+, .. "    ," &  (:) ,  . 
+, .., , .,  , . "intrinsic_rewards  ,"   
+ .     (:) ,  . 
+, .-xxx.,  , .-xxx. "       
+ ,"    (:) ,  . 
+, .,  ,  "     ,  
+  ,"    (:) ,  . 
+, .,  , . "         
+    ,"     
+ (:) ,  . 
+, .., , .,  , . " intrinsic_rewards    ,"  
+   (:) ,  . 
+ 
+================
+, .., , ..,  , .. "       
+appraisal       ,"   
+  (:) ,  . 
+, . "  :   intrinsic_rewards," &  (:) , 
+ . 
+, ..,  , . "     [knowledge]  extrinsic_rewards," 
+   (:) ,  . 
+, ., , ..,  , .. "appraisal   perceived_vulnerability,"   (:) 
+,  . 
+, ..,  , .. " :  role   [modeling]  
+  :    ,"   
+ (:) ,  . 
+, ., , ...,  , . "    ," 
+&  (:) ,  . 
+, ., , .-xxx., physical_quality, ...,  , .-xxx. "  focus   
+  ,"      (:) 
+,  . 
+, .,  , . ":   perceived_vulnerability  ," 
+&  (:) ,  . 
+, ., , .,  , . "    /  
+,"  &   (:) ,  . 
+, . "  personality       ?," : 
+ , . 
+ 
+================
+, ., physical_quality, ..., , .-xxx., , ., , .,  , . "  
+ focus    motivation behavior   ,"  
+ (:) ,  . 
+, .. "  perception     ,"   
+,  (:) ,  . 
+, .. "    intrinsic_rewards :      
+  intrinsic_rewards  ?,"    (:) ,  . 
+, ..,  , .. "  perception     
+,"    perceived_vulnerability appraisal   (:,) ,  . 
+, . "  :    ," :  , . 
+, ..,  , .. "       ," 
+&  (:) ,  . 
+, .,  , . "    ," :   , 
+. 
+, ...,  , ... "  -  focus    
+  ,"      (:) ,  . 
+, .,  , .. " , ,     / 
+ :   focus       
+ *,"  protection_effect  (:) ,  . 
+, ., , .., , ..,  , . "protection_effect [knowledge]    
+ ,"    .     
+(:) ,  . 
+ 
+================
+, .,  , . "      
+ ,"       (:) ,  . 
+, .., , .-xxx.,  , . "         
+    ," &  (:) ,  . 
+, ., , ., , ., , ..,  , . "  [modeling]  
+   ,"   () ,  . 
+, ., , ..,  , ... "  belief : , , 
+ ,"        () ,  
+. 
+, ., , .-xxx.,  , . "  belief    : 
+    ,"       
+, , , . 
+, .,  , . "       ," 
+[knowledge]    (:) ,  . 
+, .,  , . " personality        
+ ," &  (:/) ,  . 
+, .. " appraisal   ,"    appraisal 
+() ,  . 
+, .,  , .. " : " "    ?," 
+       () ,  . 
+, ..,  , .. "   self-efficacy :   belief  
+fear_arousal   perception ,"   experiential_awareness   (:) 
+,  . 
+ 
+================
+, ..,  , .. " perceived_vulnerability   : mental_calculation  perceived_vulnerability  
+ ," &  (:) ,  . 
+, . "     :   process," 
+ &   (:/) ,  . 
+, ., , .,  , . "     :   
+        ,"   
+(:) ,  . 
+, .., , ..,  , .. "       
+ :     appraisal , , 
+    ,"        
+(:) ,  . 
+, ..,  , . ":   ?,"   (:) ,  . 
+, .  . , .,  appraisal (. ), ( .)   
+     .,  , . 
+, ., , ., , .,  , . " protection_effect  
+[knowledge] :  role    intelligence,"   
+&   (:) ,  . 
+, .,  , . ":     ," 
+    (:) ,  . 
+, .., , .,  , . "  [modeling] techniques    
+perceived_vulnerability appraisal,"  &   (:) ,  . 
+, ..,  , . "    :  intrinsic_rewards ," 
+   (:) ,  . 
+ 
+================
+, .,  , . " [Organization]  :   
+ perception,"    (:) ,  . 
+, .,  , . " :   ,"   
+ (:) ,  . 
+, ..,  , .. "         
+    ,"      
+ (),     ,  .  
+  ,   , , , , . . 
+, .. "  ,"    . 
+    (:) ,  . 
+, ., , .,  , .. "   perceived_vulnerability 
+," perceived_vulnerability  (:) ,  . 
+, ..,  , .. "     :  
+ perceived_vulnerability, intrinsic_rewards,    ,"    (:) ,  . 
+, .  belief  ,  , . 
+, .. personality appraisal : belief, ,     appraisal 
+  ,   ,  , . 
+, ., , ..,  , . "     
+ ,"       (:) ,  . 
+, ..       ,   ,  
+, , . . 
+ 
+================
+, .. " belief   :  intrinsic_rewards  perceived_vulnerability  
+  belief ,"      (:) 
+,  . 
+, ..,  , . "      
+intrinsic_rewards,"    (:) ,  . 
+, ..,  , .. "     ,"  
+      () (:) ,  . 
+, ., , .,  , . "      
+,"   (:) ,  . 
+, ., , ., , .,  , . "     
+:         ,"   
+  (:) ,  . 
+, .,  , . "    ," & 
+ (:) ,  . 
+, ., , .,  , . "  ,"    
+.     (:) ,  . 
+, .. "  protection_effect   ," :  , . 
+, . "[knowledge] : satisfaction_of_needs  ,"   [knowledge] 
+ (:) ,  . 
+, ..,  , . "        
+      ,"    
+  (:) ,  . 
+ 
+================
+, ., , .,  , .. ":  [policy]    
+,"    .     (:) 
+,  . 
+, . "      ,"   . 
+, . "      ,"   . 
+, .. "   belief  fear_arousal   perception ,"   
+:    (:) ,  . 
+, .,  , . "     ,"  
+  (:) ,  . 
+, . "   perception -        ," & 
+ (:) ,  . 
+, ..,  , . "perceived_vulnerability   ():   perception  simplifying 
+ vulnerabilities," &  (:) ,  . 
+, .. "intrinsic_rewards, ,     :      
+,"  &   (:) ,  . 
+, .,  , . "    generalizing     
+?," &  (:) ,  . 
+, .,  , . "       :   
+,"   (:) ,  . 
+, .., , ..,  , .. "      ," 
+   (:) ,  . 
+ 
+================
+, . "      :    
+   ,"  &   (:) 
+,  . 
+, . "       :     
+,"      (:) ,  . 
+, ., , .,  , . "  belief  protection_effect   
+ ,"        (:) ,  
+. 
+, .,  , . "         ," 
+       (:) ,  . 
+, ..,  , .. "    perceived_vulnerability behavior,"  
+ .      (:) ,  . 
+, .., , .,  , . "    
+    ,"    (:) ,  
+. 
+, .., , .., , .,  , . "     
+," &  (:) ,  . 
+, . "  protection_effect      
+ ,"       (:) ,  . 
+, ., , .,  , . " intrinsic_rewards  :    
+ [authority] ,"    &  (:) ,  
+. 
+ 
+================
+, ., , .,  , . "     ," 
+       (:) ,  . 
+, .. "    ,"   (:) ,   
+. 
+, .. "  :   focus,"    (:) 
+,  . 
+, ..,  , .. "   perceived_vulnerability :  planning   
+  ,"   (:) ,  . 
+, ., , ..,  , .. "    perceived_vulnerability appraisal 
+    belief  belief ,"    
+  (:) ,  . 
+, .., , .,  , . "    protection_effect [knowledge] 
+,"    (:) ,  . 
+, ..,  , .. "        
+~protection_effect    ,"    
+(:) ,  . 
+, ., , ., , .,  , . "  perceived_vulnerability  
+      ," &  (:) 
+,  . 
+, .,  , .. "protection_effect         
+ ,"    (:) ,  . 
+, . "       ," & 
+ (:) ,  . 
+ 
+================
+, ., , ., , .,  , . "   
+perceived_vulnerability      belief,"  & 
+  (:) ,  . 
+, .,  , . " perceived_vulnerability     :   
+ perception,"  &   (:) ,  . 
+, ..,  , ... "    ,"  
+  (:) ,  . 
+, .,  , .. "         : 
+  ,"   (:) ,  . 
+, ., , ., , .,  , . " belief   : 
+   ,"   (:) ,  . 
+, ., , .,  , . "intrinsic_rewards ( )  protection_effect ," 
+    (:) ,  . 
+, ., , .,  , . "       ," 
+&  (:) ,  . 
+, ., , ., , .,  , . "    
+    ,"  protection_effect  (:) ,  
+. 
+, ..,  , . "judging     [Organization] 
+  intrinsic_rewards   ,"       
+ (:) ,  . 
+ 
+================
+, ., , .,  , . "     
+():  gain       *," 
+       (:) ,  . 
+, ..,  , .-xxx.. " :   focus   ,"  
+&   (:) ,  . 
+, ..         , , . 
+, .. "   :    ,"    
+.     (:) ,  . 
+, .. "    : personality     ," 
+     (:) ,  . 
+, ..,  , ..    , ( .)  
+, , , , . . 
+, ..,  , .. ":     ,  
+   ,"   (:) ,  . 
+, .,  , . "   :   perceived_vulnerability 
+   ,"      (:) 
+,  . 
+, . " perceived_vulnerability :       ," 
+    (:) ,  . 
+, . "   ,"  , . 
+, .. "  perception  mental_calculation    physical_quality    ," 
+  appraisal ,  , , . 
+ 
+================
+, .. ". (  physical_quality ):         
+  physical_quality ,"   appraisal)  . 
+, .. "  ,"  &  
+ (:) ,  . 
+, ..., physical_quality, ..,  , .. "   belief perception   
+ ,"       
+(), , . . 
+, .,  , . "   :  focus    
+frustration_of_needs,"           
+(:) ,  . 
+, ..,  , .. appraisal  :  appraisal  , 
+, , . 
+, .-xxx.,  , .-xxx. "   ?   appraisal   
+  belief ," &  (:) ,  . 
+, .,  , . "loss  planning :     
+(),"      , 
+, , . 
+, ., , .,  , . "   perception  
+  ,"    (:) ,  . 
+, .-xxx.,  , ..-xxx. "      :  
+ focus," &  (:) ,  . 
+ 
+================
+, . "       :   
+appraisal perception,"   &   (:) ,   
+. 
+, ..,  , . "        
+   ,"       
+(:) ,  . 
+, . "       ," 
+&  (:) ,  . 
+, .,  , . "  :    
+,"         () . 
+ 
+================
+  -   
+ 
+. 
+   )? 
+           ( , 
+  ∏ ∏ 
+. . . 
+    impulsive_effect   ?      ? 
+    ? 
+. 
+         ( ,    
+)? . 
+    ? 
+∏ ∏ ∏ ∏ 
+∏ ∏ ∏ ∏ 
+. 
+.         ? 
+            
+? 
+. 
+∏ ∏ ∏ 
+∏ ∏ ∏ 
+         ( ,    )? 
+        ( ,   
+. 
+ )? 
+∏ ∏ 
+∏ ∏ 
+∏ 
+∏ 
+.         (   
+)     ()? 
+.           ? .          ? .          ? .            
+   ?
+ 
+∏ ∏ ∏ ∏ 
+∏ ∏ ∏ ∏ 
+ 
+ 
+ 
+ 
+ 
+.            impulsive_effect? .         ? 
+.         ? 
+.          ? 
+.             ? .           ?
+ 
+∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ 
+  
+∏ ∏ 
+.           (.. , 
+ , , , .) ( ,    )?
+ 
+ 
+ 
+ 
+ 
+ 
+.       ,        
+∏ ∏ 
+∏ 
+∏ 
+∏ 
+   ? 
+. 
+   )? 
+        physical_quality     (  
+ 
+  ∏ ∏ 
+================
+ 
+ 
+ 
+ 
+ 
+ 
+∏ ∏ 
+∏ 
+∏ ∏ 
+.            
+      ,  , 
+  , .? 
+.         ,     ? 
+      protection_effect  
+           protection_effect  
+∏ 
+   
+∏ 
+∏ 
+∏ 
+     
+∏ 
+ _______________________ 
+∏ 
+    
+ 
+. 
+  )? 
+         ( ,   
+  ∏ ∏ 
+∏ 
+∏ 
+.           
+  ( ,     )?
+ .            
+ (    )?
+ 
+.     frustration_of_needs     ? .           ? 
+        ( ,     )? 
+.           () 
+. 
+   ∏ ∏ ∏ ∏ ∏ ∏ ∏ ∏ 
+? . 
+ )? 
+        ( ,   
+  ∏ ∏ 
+ 
+ 
+ 
+ 
+ 
+.            
+? 
+∏ ∏ 
+∏ 
+∏ 
+∏ 
+.          ? . ,          
+(    )? 
+. ,          
+  (    )? 
+.          (  %)?
+ 
+.        ? 
+.          ? 
+.               
+  (  %)? 
+.             
+     (  %)? 
+.              
+    (  %)? 
+ 
+∏ ∏ ∏ ∏ ∏ 
+ 
+ 
+% 
+  
+∏ ∏ 
+∏ ∏ 
+% 
+% 
+% 
+================
+  ""     : 
+.       
+.     
+.      (; ) 
+.   ()    (@, !, $, &) 
+.       (,  , , , .) 
+.   
+ .           ""? 
+% .            
+""?% .            
+""?%   .       .        ( 
+∏ ∏ 
+,    )? 
+.       (   )? 
+∏ 
+  
+∏ 
+   
+∏ 
+    
+∏ 
+       
+∏ 
+        
+∏ 
+          
+∏ 
+ _____________ 
+∏ 
+          
+ 
+.          (   ): 
+∏ 
+  
+∏ 
+            
+∏ 
+           
+∏ 
+              
+∏ 
+             
+∏ 
+          syllogistic_rules  
+∏ 
+      
+ 
+.            perceived_responsibility   (   
+): 
+∏ 
+  
+∏ 
+  
+∏ 
+      
+∏ 
+      
+∏ 
+    history    
+∏ 
+     protection_effect syllogistic_rules    () 
+∏ 
+    perceived_responsibility     
+ 
+================
+  -    
+      Collection   ,      
+protection_effect     , ,   .   
+              
+     perceived_responsibility  . 
+  
+              
+   .            
+         .  ,  /  
+              ,   
+           .   
+     ,     .       
+       .          
+                .. 
+,            .    
+     ,  ,   
+.           (  .)  
+     . 
+ 
+================
+ ++--------------+--------------+--------------+--------------++  .++  || |  | |  |  .+  + |  | |  | |  |  .+  + |  |
+ .+  + |  |  .+  +
+|  | |  | | **|  .+ **** + | ********   | | *** *   |  |***** ***** |  . +************** *******************+  ++--------------+--------------+--------------+--------------++ 
+ . -       ( )
+  :  -      ++--------------+--------------+--------------+--------------++  .++ || || ||  . + + |  | |  | |  |  .+  + |  |
+ .+  + |   |  .+ ** **+
+|    | |  * | |    |  .+    +  |   | |  | |  |  . + +  ++--------------+--------------+--------------+--------------++
+ -2 -1    
+ . -       ( ) 
+ 
+================
+   simplifying      ,        
+         .  
+             
+.         ,      
+               
+        .  .      
+   ,             
+.     .,     .          
+   .       ..     .  
+                ..  
+              
+    .       . 
+ . -   .     
+combining  . 
+appraisal  . (   ) 
+  %     . . .   . . .   . . .   . . .   . . .   . . . 
+ 
+================
+  
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ 
+ 
+ . -      
+  simplifying     ,     
+            ,     
+      .       
+              intelligence 
+.             
+intelligence ,        .  .    . 
+ intelligence             
+ (    ),          
+     .  .        
+.               
+.    ,      . 
+ 
+================
+ . -   
+   combining  appraisal  
+ 
+. 
+. (   ) 
+  %   intelligence 
+   . . . .   . . . .   . . . . 
+   
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ 
+ 
+ . -      
+      .     %    
+     appraisal          
+  .            
+ combining ,        .      
+combining   combining    %        . 
+ 
+================
+ .     (     %  )  
+        appraisal    . 
+ combining                .  
+          .    
+               
+   personality      .         
+ behavior ( ;  ).        ,  
+   ,     ,     frustration_of_needs 
+,           .     
+,     evaluating  .   ,    
+evaluating              
+.         ,     perception  
+           ,    
+ . ,         ,   
+   perception        . ,    
+ persistence     . 
+ 
+            . 
+   mental_calculation        experiential_awareness    
+            ( 
+).         ...     
+       .. 
+ 
+================
+ . -      
+     impulsive_effect    . . impulsive_effect    . . impulsive_effect    . .        . .        . .   . .    . .     . .     . .     . .     . .     . .     . .     . .    . .    . .    . .    . .    . .     . .     . .     . .     . .     . .  frustration_of_needs    . .  frustration_of_needs    . .    . .    . .    . .    . .    . .    . .   . .   . .   . .       . .       . .       . .       . .       . .       . .     . .     . .   . .  perceived_responsibility   . . 
+ 
+================
+  
+ gain               
+ .        ,      
+ ,    physical_quality      ,    physical_quality   
+    appraisal     ( ).  
+        .   belief   
+      .  ,  physical_quality      
+judging         .  ,   
+     .   (),  physical_quality    
+      .          
+  certainty_effect      ,       
+( )  .       physical_quality,    
+    . 
+appraisal   
+ appraisal              
+.     ,          
+.            
+,          .  ,    
+       . 
+    
+            ,  
+                
+,       .    ,       
+             .  
+ 
+================
+appraisal              () 
+    (       ),   
+         . .   
+         . 
+ 
+================
+  -    
+   () 
+   ,                  .            fear_arousal     ,         .
+   .            ( , 
+∏ ∏ 
+   )? 
+.     impulsive_effect   ? 
+.      ? 
+.     ? 
+. 
+         ( ,    
+)? 
+.     ? 
+.         ? 
+.             
+? 
+. 
+         ( ,    )? 
+. 
+        ( ,   
+ )? 
+         (  
+.  )     ()? 
+          ? 
+. 
+∏ ∏ ∏ ∏ 
+∏ ∏ ∏ ∏ 
+∏ ∏ ∏ 
+∏ ∏ ∏ 
+∏ ∏ 
+∏ ∏ 
+∏ 
+∏ 
+∏ 
+∏
+ 
+.            
+impulsive_effect? 
+.         ? .         ? .          ? .             
+? 
+.           
+? 
+   
+∏ ∏ ∏ 
+∏ ∏ ∏ ∏ 
+∏ ∏ ∏ ∏ 
+∏ ∏ ∏ ∏ 
+∏ 
+∏ 
+∏
+ 
+.           (.. , 
+ , , , .) ( ,    )? 
+  ∏ ∏
+ 
+. 
+      ,           ? 
+   
+∏ ∏ ∏ 
+ 
+================
+ 
+. 
+   )? 
+. 
+        physical_quality     (  
+  ∏ ∏ 
+   
+∏ ∏ ∏ 
+                 ,  ,   , .?
+ . 
+  )? 
+. 
+         ( ,   
+  ∏ ∏ 
+∏ 
+∏
+ . 
+            ( ,     )? 
+          
+  (    )?
+ 
+ 
+.           ? 
+.        ? . 
+ )? 
+        ( ,   
+  ∏ ∏ ∏ ∏ ∏ ∏
+ 
+. 
+         
+  ? 
+. 
+         
+? 
+   
+∏ ∏ ∏ 
+∏ 
+∏ 
+∏ 
+. ,          
+(    )? 
+. ,          
+  (    )? 
+.          (  %)? 
+ ""     : 
+.       
+.    
+ 
+ 
+ 
+% 
+.      (; ) 
+.   ()    (@, !, $, &) 
+.       (,  , , , .) 
+.    
+.           ""? .            
+""? 
+.            
+""? 
+ 
+% 
+% 
+% 
+================
+   .       .        ( 
+∏ ∏ 
+,    )? 
+.       (   )? 
+∏ 
+  
+∏ 
+   
+∏ 
+    
+∏ 
+       
+∏ 
+        
+∏ 
+          
+∏ 
+ _____________ 
+∏ 
+          
+ 
+.            perceived_responsibility   (   ): 
+∏ 
+  
+∏ 
+  
+∏ 
+      
+∏ 
+      
+∏ 
+    history    
+∏ 
+     protection_effect syllogistic_rules    () 
+∏ 
+    perceived_responsibility     
+         .
+ 
+ 
+================
+  -      
+  
+ . -  loss           
+ 
+perceived_vulnerability 
+  perceived_vulnerability .   perceived_vulnerability . 
+response_efficacy . . 
+  perceived_vulnerability
+ . 
+. 
+ . -  loss            
+ 
+perceived_vulnerability 
+  perceived_vulnerability .   perceived_vulnerability . 
+response_efficacy . . 
+  perceived_vulnerability
+ . 
+. 
+ . -  loss           
+ 
+perceived_vulnerability 
+  perceived_vulnerability .   perceived_vulnerability . 
+response_efficacy . . 
+  perceived_vulnerability
+ . 
+. 
+ . -  loss            
+ 
+perceived_vulnerability 
+  perceived_vulnerability .   perceived_vulnerability . 
+response_efficacy . . 
+  perceived_vulnerability
+ . 
+. 
+ . -  loss protection_effect           
+ 
+perceived_vulnerability 
+  perceived_vulnerability .   perceived_vulnerability . 
+response_efficacy . . 
+  perceived_vulnerability
+ . 
+. 
+ 
+================
+ . -  loss            
+   
+perceived_vulnerability perceived_vulnerability 
+  perceived_vulnerability .   perceived_vulnerability . . 
+response_efficacy . . . 
+ . -  loss            
+   
+perceived_vulnerability perceived_vulnerability 
+  perceived_vulnerability .   perceived_vulnerability . . 
+response_efficacy . . . 
+ . -   perceived_responsibility          
+  
+perceived_vulnerability 
+  perceived_vulnerability . 
+response_efficacy . . 
+ . -            
+  
+perceived_vulnerability 
+  perceived_vulnerability . 
+response_efficacy . . 
+ . -            
+  
+perceived_vulnerability 
+  perceived_vulnerability . 
+response_efficacy . . 
+ . -            
+  
+perceived_vulnerability 
+  perceived_vulnerability . 
+response_efficacy . . 
+ 
+================
+ . -            
+ 
+perceived_vulnerability   perceived_vulnerability . response_efficacy . 
+ 
+. 
+ . -             
+ 
+perceived_vulnerability 
+  perceived_vulnerability .   perceived_vulnerability . 
+response_efficacy . . 
+  perceived_vulnerability
+ . 
+. 
+ . -              
+ 
+perceived_vulnerability 
+  perceived_vulnerability .   perceived_vulnerability . 
+response_efficacy . . 
+  perceived_vulnerability
+ . 
+. 
+ . -             
+ 
+perceived_vulnerability 
+  perceived_vulnerability .   perceived_vulnerability . 
+response_efficacy . . 
+  perceived_vulnerability
+ . 
+. 
+ . -             
+ 
+perceived_vulnerability 
+  perceived_vulnerability .   perceived_vulnerability . 
+response_efficacy . . 
+  perceived_vulnerability
+ . 
+. 
+ 
+================
+ . -              
+ 
+perceived_vulnerability 
+  perceived_vulnerability .   perceived_vulnerability . 
+response_efficacy . . 
+  perceived_vulnerability
+ . 
+. 
+ . -             
+ 
+perceived_vulnerability 
+  perceived_vulnerability .   perceived_vulnerability . 
+response_efficacy . . 
+  perceived_vulnerability
+ . 
+. 
+ 
+================
+  -   
+ loss 
+ . -  loss    
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability    perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  
+response_efficacy  
+response_efficacy  
+    . -. . -. -. . . -. . . -. . . -. . . . . -. . -. -. . -. . . -. 
+ . -  loss     
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability    perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  
+response_efficacy  
+response_efficacy  
+    -. . . -. -. . -. . . . . . . . . . . . . . -. . . -. . . -. 
+ 
+================
+ . -  loss    
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    . . . -. -. . . . . . . . . . . . . . . . . -. . -. . . . 
+ . -  loss     
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    . -. . -. -. . . -. . . . . . . . . . . . . -. . . -. . . -. 
+ 
+================
+ . -  loss     
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    . . . -. . . . -. . . -. . . . . . . . . . . -. . -. . . . 
+ . -  loss protection_effect    
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    . -. . -. -. . . -. . . -. . . . . . -. . -. . -. -. . -. -. . -. 
+ 
+================
+ . -  loss    
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+  
+    . -. . -. -. . . -. . . . . . . . . . . -. . -. . . -. . . -. 
+ . -   perceived_responsibility    
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    . -. . -. -. . -. -. . . -. . . . -. . . -. . . -. . . -. -. . . 
+ 
+================
+ . -      
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    . . . -. . . -. -. . . . . . . -. . -. -. . . -. -. . -. . . . 
+ . -      
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    . . . -. -. . -. -. . . . . . . -. . . -. . . . . . -. . . . 
+ 
+================
+ . -      
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    . . . -. -. . -. . . . . . . . -. . . -. . . -. -. . -. . . . 
+ . -      
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    . . . -. -. . -. . . . . . . -. -. . -. -. . . -. -. . -. -. . . 
+ 
+================
+  
+ . -      
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    . -. . . . . . -. . . . . . . . . . . . . -. . . -. . . . 
+ . -       
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    . -. . . -. . . -. . . -. . . -. . . -. . -. . -. -. . -. . . -. 
+ 
+================
+ . -      
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    -. . . -. -. . -. . . -. . . -. . . . . . . . -. . -. -. . . -. 
+ . -       
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    . -. . -. . . -. . . . . . . . . . . . . . -. . -. -. . . -. 
+ 
+================
+ . -       
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    -. . . . . . -. . . . . . -. . . -. . . . -. -. . . -. . . -. 
+ .      
+ 
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  
+  perceived_vulnerability    perceived_vulnerability    perceived_vulnerability  response_efficacy  response_efficacy  response_efficacy  
+    -. . . . -. . -. . . . . . . . . . . . . . . . . -. . . -. 
+ 
+================
+  -    
+        
+    
+    
+    
+     
+   extrinsic_rewards 
+   belief 
+    perceived_uniqueness 
+      behavior 
+        
+  loss ..   syllogistic_rules 
+    
+   belief 
+    
+   perceived_vulnerability 
+   perceived_vulnerability 
+ perceived_vulnerability behavior  
+ response_efficacy   appraisal   
+  self-efficacy     
+    
+ 
+================

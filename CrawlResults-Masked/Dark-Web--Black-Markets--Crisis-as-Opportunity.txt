@@ -1,0 +1,184 @@
+ 
+physical_quality ,   
+physical_quality ,  : 
+perceived_vulnerability   
+         
+@. 
+isolation_effect 
+     loss   possibility_effect    ,   physical_quality        .   [knowledge]   physical_quality :    ,   ,    ,           loss  .  ,             perceived_vulnerability  .            perception   perceived_vulnerability .   focus                      , ,  ,   impact              .          ,         perception       . 
+ 
+ , physical_quality ,  ,  , perceived_vulnerability , perceived_vulnerability  
+ 
+      loss     perceived_vulnerability ,           ().                   (, ), ,                .       impact    ,             ,      certainty_effect    ( . , )              perceived_vulnerability  (, ),       perceived_vulnerability      (, ). 
+    ()   , physical_quality    ()  ,   ,    personality     .  belief,         , ,         perceived_vulnerability .             physical_quality ,   personality   ,          ,    ,   ,                   . ,      ,      physical_quality     ,    ,  ,       focus         [activity ].          ,     ,  [activity]  physical_quality                          perceived_vulnerability   ()    .   [activity]   possibility_effect    ,                .      focus           ,            . 
+ -    
+      -  è, ,   
+ , é . á  é . ó, . 
+ 
+================
+ 
+physical_quality ,   
+ 
+    
+physical_quality        ,     ()               (, ).                    impact           (, ). 
+        perceived_vulnerability           (, ).         gain             intrinsic_rewards       (, ).   [activity]                    ( . , )  ,          perceived_vulnerability [experience]           (, ).           [activity]  , ,                     ( ).            ,             certainty_effect                 (, ). 
+physical_quality       
+          ,       .                   .      ()                          [resource]  ()     .       ,  ,    .                . 
+    ""           ,    physical_quality .                  , ,  .     ,  ,       ,  , , .            [activity ]. , ,         "physical_quality "     ""                   perceived_vulnerability        perceived_vulnerability /perceived_vulnerability .          ,        ,      ,           ,       perceived_vulnerability  ,         (, ). 
+physical_quality                     physical_quality . physical_quality          ()  combining.  perception                        .           .      ,       ,        , .,   [Organization]       , ,   ( , ). 
+   ,               perceived_uniqueness     ,  ,          satisfaction_of_needs      ( ).            ,         . ,        physical_quality     .              ,       protection_effect.   ,                 . 
+ -    
+      -  è, ,   
+ , é . á  é . ó, . 
+ 
+================
+ 
+physical_quality ,   
+ :   . Source:   . 
+   ,     intelligence ,      ,  ,             ( , ).                      Collection     .  physical_quality       , , .,       [activity ],   segregating   focus. physical_quality              ,  .            ,       (, ).       perception   ,      ,   , ,  Collection     .  , physical_quality        ,        ,    (, ). 
+, physical_quality          .            physical_quality ,        .       /  physical_quality       [activity ].      personality    ,     , (, )    ,  [activity]         participant_modeling   [activity]   .        physical_quality ,          (, ) (, ). 
+physical_quality     [function]   .            ,     physical_quality      ,      ""  ""                       ( , ). ,    ""  physical_quality . ,                 .                 physical_quality .       ,                  . ,     physical_quality     . 
+physical_quality      , ,  ,    ,     physical_quality                  (, ).        personality ,    combining              segregating     .             Cleaver       extrinsic_rewards   .    -       -           .           ,      extrinsic_rewards       .  ,  judging  extrinsic_rewards [activity ],       focus   ,     ,  simplifying .           ,                     . 
+   ,     physical_quality ,  possibility_effect    ,       personality     ,    personality           perceived_vulnerability   . ,      ,      physical_quality      loss .    ,        : 
+ -    
+      -  è, ,   
+ , é . á  é . ó, . 
+ 
+================
+ 
+physical_quality ,   
+:   self-efficacy      ,               loss  ? 
+:        focus  physical_quality   ? 
+   
+   focus      .                  .           , personality         . 
+   physical_quality      .     ,        possibility_effect,             (  ,    fear_arousal     ). ,      ,       .     intelligence           protection_effect,      physical_quality ,            ,           .        ,       ,             segregating   . 
+ focus   Collection   .      , ""        ,  , ,   .       , , ,  .               .           physical_quality ,     intentionality      ,          .           . 
+  :  , perceived_vulnerability  (      , , , ,    ), , , ,          .                   ,            .           (     ).    Collection     simplifying  ,                 .              .   , ,  perceived_vulnerability                Collection    impact       ,   , . 
+ 
+         ,        personality ,      ( , ).         . (., ),    combining     (. ),           (. ) ( , ).     learning  loss,                (, ). ,                                syllogistic_rules      ( ). 
+ -    
+      -  è, ,   
+ , é . á  é . ó, . 
+ 
+================
+ 
+physical_quality ,   
+ :   syllogistic_rules       . 
+      
+physical_quality           personality extrinsic_rewards .        , []    ,        personality    
+       . 
+,           
+,       ,    
+ :      ,  . 
+     
+   , ,         . 
+,     
+ 
+     ( ).       . 
+    , , ,      , ,       
+     ,       ,   
+     
+   ( ). 
+ :   extrinsic_rewards     ,  . 
+ -    
+      -  è, ,   
+ , é . á  é . ó, . 
+ 
+================
+ 
+physical_quality ,   
+           ,              .                        .                               ,          loss             (, ) ( ).        ,          . 
+ :  / ,    ,  physical_quality     . 
+ 
+ physical_quality        ,           ,              ,      combining            loss .    ,   ,             .      ,           (physical_quality  , ).                combining     ,        ,    personality     .        . ,              perceived_responsibility  extrinsic_rewards    ,              .      learning            . 
+ ,  personality  .            possibility_effect extrinsic_rewards       ,      ,          .    judging           .                     .            possibility_effect extrinsic_rewards.   ,      [activity]          ,       gain   .  judging           ,          [activity ],   possibility_effect          .   ,   :   [activity]    ,    [activity]        ,          .        , judging      . 
+ physical_quality  , perceived_vulnerability                ,     ,          .         ,                .   ,      +                     perceived_vulnerability      . , 
+ -    
+      -  è, ,   
+ , é . á  é . ó, . 
+ 
+================
+ 
+physical_quality ,   
+   .           ,                   ,                (  , ).                  ,                . 
+          /            ,          .          ,                  .        perceived_vulnerability        . 
+            intrinsic_rewards.  intrinsic_rewards                [activity]  personality .                      .           (  , ) (  , ). perceived_vulnerability   mental_calculation       ,           [knowledge]   .  physical_quality                         physical_quality             . 
+,      ,      persistence  .            ,      persistence        ,       perceived_vulnerability    physical_quality . 
+belief   
+    focus              ,             .  Collection     .            ,      ,          combining.         focus,     Collection     gain   .       physical_quality      ,         .                .  ( , ).   ,  ,       ,               .  (  , ). 
+,     extrinsic_rewards             ,           ,    extrinsic_rewards    . ,                          .            .  ,     ,      personality   .             , judging                          perceived_vulnerability. 
+             ,             ,  physical_quality    possibility_effect  perceived_vulnerability       .   [knowledge]          ,  possibility_effect      : ,  ,     , , ,   perceived_responsibility. 
+ 
+                physical_quality  [activity]     ,  ,     persistence . 
+ 
+, . () ,      :      ?  
+  , (), . . 
+, . ()     physical_quality . .. ://./ 
+ -    
+      -  è, ,   
+ , é . á  é . ó, . 
+ 
+================
+ 
+physical_quality ,   
+/ 
+, . ().    physical_quality    . .. 
+://..// 
+. ()  :  . 
+://..////,,/ 
+ 
+. () physical_quality   . ://.// 
+. () perceived_vulnerability   . 
+://../// 
+ ()  :  . . ://..// 
+, .,  , . ()     .   . 
+://../// 
+////.?=. , . ()   perceived_vulnerability   . . 
+://..////// /# 
+, . ()      . .. 
+://..///. 
+, ., , ., , . ()        :         .     , (), . . 
+, . ()      $.      ,     . .. ://..////// /# 
+, . ()     .  . 
+://..///. 
+  () physical_quality  . . ://..//   . () ://..// 
+, . ()       behavior.    , . , . , ( ) . . 
+, ,  , . ()  perceived_vulnerability    :           perceived_consensus.      ,  ,  , ( ) . . 
+, .. ().          : . .. ://..///?= , . ()    :       .  . 
+://../////  
+, . ()          . .. 
+://..//// -wants-to-block-tor-but-it-probably-cant , .. ()   :    perceived_vulnerability      perceived_consensus?  
+   , . , . ( ), . . 
+ () :     . . 
+://..// 
+, . ()  loss   :     -gouging .  
+perceived_responsibility   () . . 
+, , "       :       
+  ?" ().    . . 
+://..//  ? 
+, ., , ., , ., , . ().    :    physical_quality  
+   loss    intrinsic_rewards .     
+ -    
+      -  è, ,   
+ , é . á  é . ó, . 
+ 
+================
+ 
+physical_quality ,   
+  , , , , . 
+, . , ., , . ()    :   personality  
+    loss    intrinsic_rewards .     
+  ,  -Baden, ,  . 
+  . () . ://../  -relay -country. 
+  . () . ://..//.. 
+       ().       . 
+, . ()         .    . 
+://../// // -xxx -silk -road -website -xxx -convicted -xxx -xxx - 
+. 
+, . ()  physical_quality      .       . .. 
+://../ ?= 
+    
+      -  è, ,   
+ , é . á  é . ó, . 
+ 
+================

@@ -1,0 +1,794 @@
+  
+ 
+,  
+belief 
+       perceived_vulnerability ?:    
+ 
+  
+  
+belief :  : 
+ .   .  
+   .   . 
+================
+     
+================
+   
+   
+.  
+  perceived_responsibility   Collection          ,      ,    ,      ,      Collection  .     perceived_responsibility appraisal       Collection  ,      perceived_responsibility,    ,      ,    ,  , ,  ,        ,   
+ () ,  . 
+.    .   (behavior_control-ability )   
+.    
+.      
+ belief 
+.   
+       perceived_vulnerability ?: 
+   . ()   
+.  [Organization] ()  techniques () 
+   ,   
+. /   ()  
+techniques () / 
+.  [Organization]   
+. /     
+.        belief            [policy]  belief         . 
+. /      .   . 
+. isolation_effect (  ) 
+.   
+ 
+   perceived_vulnerability        possibility_effect   .               .    perceived_vulnerability ()—the      opportunity_for_criminal_acts    personality     fear_arousal. ,     ()   extrinsic_rewards  combining     . ,                    .    ,          extrinsic_rewards.  belief         perceived_vulnerability possibility_effect.   belief             perceived_vulnerability,      participant_modeling   : perceived_vulnerability . ,               .          ,       perceived_vulnerability task (). ,            ,            . 
+.   
+ perceived_vulnerability, , ,  , ,  , ,  ,  ,  , ,  ,  , , perceived_vulnerability , ,  ,  ,   perceived_vulnerability, , personality,  ,  ,  
+,  ,   
+.     
+ 
+.  
+    
+ 
+  
+ 
+.    
+ .   
+.    isolation_effect  
+.   isolation_effect 
+ 
+   (. )    .  
+================
+     
+ 
+================
+   .   . 
+       perceived_vulnerability ?:  
+  
+  
+ ,   
+,   ,  
+   extrinsic_rewards   
+     
+learning        
+  
+   
+  
+ :  .  
+ 
+ .    
+ .  
+,     
+ 
+================
+     
+ 
+================
+isolation_effect 
+   perceived_vulnerability        possibility_effect   .               .    perceived_vulnerability ()—the      opportunity_for_criminal_acts    personality     fear_arousal. ,     ()   extrinsic_rewards  combining     . ,                    .    ,          extrinsic_rewards.  belief         perceived_vulnerability possibility_effect.   belief             perceived_vulnerability,      participant_modeling   : perceived_vulnerability . ,     frustration_of_needs         .         ,       perceived_vulnerability task (). ,           ,           . 
+ 
+================
+     
+ 
+================
+   
+. 
+.................................................................................................. .  ......................................................................... .        perceived_vulnerability 
+perceived_vulnerability ............................................................................................................ .  .................................................................................... 
+. 
+ ............................................................................................. . ...................................................................................... .   ........................................................ 
+.  ........................................................................... 
+. perceived_consensus        ..... .   ....................................................................... 
+.  ......................................................................... 
+. perceived_consensus       
+.......................................................................................... . belief ........................................................................................ 
+. 
+personality   ................................................ . .................................................................................... .   personality ............................... 
+.  ......................................................................... 
+. perceived_consensus     ............................... .     protection_effect / 
+......................................................................................... 
+.  ......................................................................... 
+.      .................................. . belief ........................................................................................ 
+. 
+   ?................................................... . .................................................................................... .   ........................................................................ .      
+ perceived_vulnerability    ............ .       
+ ........................................................................... .      
+   .............. 
+ 
+================
+. 
+belief .................................................................................................... .   ................................................................. .   perceived_vulnerability    
+ .......................................................................................... . [policy] ..................................................................... .    ................................ 
+  ................................................................................................ 
+  ................................................................................... 
+ 
+================
+   
+ . 
+  perceived_vulnerability ....................................................................... 
+ . 
+  ................................................................................... 
+ . 
+ perceived_vulnerability   .   [].......... 
+ . 
+ perceived_vulnerability .   []......................... 
+ . 
+ perceived_vulnerability .   []. .......................... 
+ . 
+ perceived_vulnerability .   []. ......................... 
+ 
+================
+     
+ 
+================
+   
+ . 
+possibility_effect   ...................................................................... 
+ 
+================
+     
+ 
+================
+     
+             
+    
+  perceived_vulnerability  
+   
+   perceived_vulnerability    intelligence  
+    
+   
+   
+     extrinsic_rewards, ,    
+    
+   
+  perceived_vulnerability 
+ 
+================
+     
+ 
+================
+ 
+                      .    ..      perception.    ""     . 
+ 
+================
+     
+ 
+================
+. 
+ 
+. 
+  
+        perceived_vulnerability      ().            .          , ,   ,   ,       personality .  ,  ,     %    [].      ;      "  ."         perceived_vulnerability  []. 
+,                  .      ,         ;             .           personality             protection_effect   .     belief    :        perceived_vulnerability?   appraisal   ,      ,      [policy]            . 
+ ,           (   ),           perception   .          ,           [].   "   ,    " [].          belief          protection_effect    ,        []     .       behavior_control-ability           personality         [].       
+ 
+================
+()      " ,        ,"               [].     physical_quality            perception  "perceived_vulnerability,    perceived_vulnerability  perceived_vulnerability " [].         personality    ,  ,        [].                  .    ,       personality      perceived_vulnerability possibility_effect   process. 
+  " perceived_vulnerability"  ""          .           belief : 
+  " perceived_vulnerability"   perceived_vulnerability         ,   ,   loss      .    loss     , ,      ,    loss       . [] 
+      perceived_vulnerability,  belief  focus           combining  .     ""  ""  perceived_vulnerability               perceived_vulnerability    perceived_vulnerability ()    [].    ,   ""  ""  perceived_vulnerability   .        ,                    . 
+        perceived_vulnerability     ;   perceived_uniqueness     .       perceived_vulnerability     . 
+    : 
+ 
+================
+  perceived_vulnerability     perceived_vulnerability             ,   ,   loss      . [] 
+   : 
+    /  ,   ,   loss     .  perceived_vulnerability   loss     , ,     ,    loss        . [] 
+   : 
+   [policy]        , ,        loss      .        ,    ,  ,      . [] 
+  perceived_vulnerability task  () : 
+    ,   ,          [resource ]. [] 
+   ,      perceived_vulnerability      .             ,  ,   .           ,         perceived_vulnerability  ;              loss   [Organization ]. 
+ gain      perceived_vulnerability,        .             .  belief    , " intelligence  []    , ,  " []. 
+. 
+       perceived_vulnerability perceived_vulnerability 
+ belief                .         . ,  
+ 
+================
+     .                   perceived_vulnerability             belief. 
+     .       syllogistic_rules     perceived_vulnerability,      combining   .      "[knowledge] "  "[knowledge] "    [].    [knowledge]         loss       [Organization ]. ,                      perceived_vulnerability. 
+ personality      perceived_vulnerability   internalization    ,     .        ,                            :       personality, "          " [].         ,       perceived_vulnerability    .                [].  ,        ,      personality        personality  []. 
+             .         ()  , "         ,"         (learning )        [].             behavior  .  vicarious_experience         gain   [activity]    [].               [].      gain            Tactics []. ,  gain      
+ 
+================
+         .    ,  behavior_control-ability  gain      ,       gain    [],    focus          perceived_vulnerability . 
+           motivation     extrinsic_rewards   intrinsic_rewards.  generalizing      certainty_effect %    [].     certainty_effect  extrinsic_rewards :     ,       " ,"            loss [];         extrinsic_rewards   [].                  , loss             []. ,         certainty_effect ;         [].             .    %      . 
+          ,          mental_calculation    . extrinsic_rewards          personality  perceived_vulnerability.        ()   %      certainty_effect [].  intrinsic_rewards        motivation        perceived_vulnerability   []. 
+     perceived_vulnerability         . ,    ,           ,  .     extrinsic_rewards           .             perceived_vulnerability .              .        perception    ,     
+ 
+================
+  .                   [].                         combining   perceived_vulnerability                [].                                 [].    []           extrinsic_rewards   . 
+          ,     focus  syllogistic_rules     .      ,               .  belief        protection_effect   .        personality ,    combining   personality        possibility_effect .  belief           perceived_vulnerability,            /      ,      . 
+. 
+ 
+       isolation_effect                       .          combining  .               perceived_vulnerability    perceived_vulnerability,  belief    intelligence   judging    syllogistic_rules .      gain  : 
+. 
+           
+ 
+================
+ belief  combining        perceived_responsibility  .    isolation_effect           . 
+. 
+         personality  
+ belief             .           belief     combining    . 
+. 
+combining  perceived_vulnerability           personality  
+        . focus       simplifying    .             perceived_vulnerability possibility_effect   possibility_effect (..,          ). 
+. 
+  belief          perceived_vulnerability    personality  
+     ,        personality      fear_arousal,     perceived_vulnerability          .      ,                      . 
+ 
+================
+     
+ 
+================
+. 
+  
+. 
+ 
+       ,       loss  [Organization]    :     ,      ,    personality      [].         combining   personality        ,    ()    . 
+. 
+   
+         possibility_effect   .                 ;        .          perceived_vulnerability    perceived_consensus       . 
+. 
+  
+   perceived_vulnerability  process                   [].        perceived_vulnerability : 
+ perceived_vulnerability                   ,       .                 intrinsic_rewards.    [knowledge]  : . [] 
+    ,      ,       , %  "      " [].      : 
+ 
+================
+                                    
+ ,     ,                   $,     
+            extrinsic_rewards   $  extrinsic_rewards 
+                   . [] 
+           ,   .          [].  ,              personality       ""   perceived_vulnerability.   personality   personality     perceived_vulnerability behavior   personality        perceived_vulnerability  . 
+    focus   perceived_vulnerability    personality         ,     physical_quality  personality  [].  physical_quality    ,    [].             behavior.    personality,    personality     , ",       " [].    [personality_trait]        .   personality                 [].          behavior      .   personality  , personality, ,       [].   personality            possibility_effect  perceived_vulnerability. 
+ 
+================
+ physical_quality  personality       .       physical_quality       perceived_vulnerability [].               focus,        [].   .     perceived_vulnerability : "  perceived_vulnerability       [Organization]  , , ,      perceived_vulnerability" []. 
+  .        frustration_of_needs  behavior;            -  []. ,   .          physical_quality  belief,    intentionality   perception     perceived_vulnerability, "      belief   behavior   [capability ], motivation,   () " [].  ,     (..,   appraisal, ,  ,      , loss  )  cognitive_process         perceived_vulnerability.   .    physical_quality  personality         ()       ()  combining  personality  [],   .       personality . ,     personality        .                            ,      perceived_vulnerability perceived_vulnerability. 
+ gain   physical_quality  personality ,   .        personality :    personality   [extraversion ], [agreeableness ], [conscientiousness ], [neuroticism ],  perceived_vulnerability  [experience ]; ,       behavior [].  physical_quality  personality             personality . 
+      physical_quality  personality        .   ,     perceived_vulnerability , "  perceived_vulnerability       [Organization]         perceived_vulnerability."         (  perceived_vulnerability) ; " 
+ 
+================
+  []      loss   ; ,        []   loss   [Organization ]."           ,       ,     behavior_control-ability       .   ,        perception  personality   perceived_vulnerability,   ""       perceived_vulnerability [].     .      personality ,         physical_quality  personality     .             perceived_vulnerability personality       []. 
+       (        ),   .          ,        mental_calculation    . ,          focus          :    intrinsic_rewards     [].      :               satisfaction_of_needs   []. ,         perceived_vulnerability         [Organization ]. 
+      .   ,    focus      [].         , " [Organization]             [knowledge]          " [].     ,      , ,      personality           [].    ,       mental_calculation        : 
+       behavior : .               
+ 
+================
+        ; .              loss  extrinsic_rewards; .                 (     ). [] 
+    perception  ,   , " participant_modeling      extrinsic_rewards, ,    ()" [].  ""          "."                : 
+  -    behavior 
+  -     behavior 
+  -      behavior. [] 
+          perceived_vulnerability              belief.   ,    belief     ,           ( )         . 
+ focus    .      focus      [Organization ].   .    []         ,       : "        :  (  live_modeling   )   (      )       [knowledge]" [].       personality ,                            .          [policy]          perceived_vulnerability  [].         (   )                         [].        
+ 
+================
+ focus            [Organization ],    [policy] []. 
+        " ," []   , constraint  .         judging    [].  belief        " perceived_vulnerability "—opportunity, , . 
+ . 
+  perceived_vulnerability  
+  [].   perceived_vulnerability                  perceived_vulnerability 
+  perceived_vulnerability         perceived_vulnerability    [Organization ],    " "            .         personality ,          perceived_vulnerability.          [modeling]  perceived_vulnerability behavior. 
+           : "    ,      loss,   ,   ,   satisfaction_of_needs,    
+ 
+================
+" [].     perceived_vulnerability          perceived_vulnerability            : 
+        
+        loss 
+      
+      
+   loss       perceived_vulnerability 
+  personality self-efficacy    . [] 
+,    behavior_control-ability  perceived_vulnerability     . perceived_vulnerability     , ")  , ) ,  )           " [].            [].     ,      perceived_vulnerability  , "    extrinsic_rewards,     perceived_vulnerability,        constraint" [].   combining, "        extrinsic_rewards   combining intrinsic_rewards (.., ,   ,         ,           )—a behavior      "prospect belief" [], []. prospect belief      perceived_vulnerability       .  perception      intrinsic_rewards . 
+      ()                     .             [].   , "   intrinsic_rewards        ," [].    generalizing, "        personality  perceived_vulnerability  behavior    " [].      ,    , 
+ 
+================
+                  perceived_vulnerability. 
+                         perceived_vulnerability []; ,    ,           perceived_vulnerability.   perceived_uniqueness    personality               . ,          . 
+      mental_calculation      .  ,         perceived_vulnerability   [].    "  ( perceived_vulnerability  )  perceived_vulnerability " (         belief)           [].  , " ,  ,  , , [knowledge ], [experience ], ,      perceived_vulnerability" [].      perceived_vulnerability   [Organization]     ;                 extrinsic_rewards   []. ,   mastery_experience  perceived_vulnerability       .        , "         " []. ,    , "      behavior" []. ,          perceived_vulnerability       perceived_vulnerability     combining    perceived_vulnerability []. 
+. 
+perceived_consensus        
+   "" personality      perceived_vulnerability.       personality     personality , .., [neuroticism ], [agreeableness ], [extraversion ], personality  perceived_vulnerability  [experience] [].       physical_quality  .    personality         . 
+ 
+================
+              appraisal : 
+• 
+ - physical_quality  
+• 
+ - physical_quality  
+• 
+ - physical_quality  
+• 
+ 
+• 
+// behavior 
+• 
+   
+• 
+  
+• 
+perceived_vulnerability fear_arousal 
+• 
+fear_arousal  
+• 
+personality 
+• 
+ personality 
+• 
+personality 
+• 
+ 
+• 
+  
+• 
+  
+• 
+/ intrinsic_rewards 
+• 
+frustration_of_needs 
+• 
+  
+• 
+  
+ 
+================
+. 
+   
+  ,      opportunity_for_criminal_acts    [policy ],       loss  [Organization ].      ,       %   perceived_vulnerability   [].       ,      techniques         personality  [].                 perceived_consensus    . 
+. 
+  
+         perceived_vulnerability       intentionality  loss  [Organization ].            perceived_vulnerability.                 .                  [].               .   isolation_effect ,          perceived_vulnerability     .          .                      . ,        (     )                  .          focus  ,   .            perceived_vulnerability [].                . 
+   ,      personality     intentionality,        .             ,           []. 
+        
+ 
+================
+   perceived_vulnerability  ()     , ,    ()         [Organization]  , ,    , ()  [action]     intentionality, ()  loss     perceived_vulnerability   personality loss   , ,     [Organization]     . [] 
+       loss    : 
+   ,   
+  - ,  ,    
+ planning  : task constraint, ,  planning,   [knowledge]  [skill ]. 
+ : , , frustration_of_needs, frustration_of_needs, ,     , perception,     . [] 
+  ,           [].           perceived_vulnerability ,  , "  perceived_vulnerability,   perceived_vulnerability,    perceived_vulnerability" [].                .    belief     "      (     )     (      )."                       "  ." 
+      perception  " "        [].        perception   ,   [].    perception     , "      ," loss   perception     %      [].    ,  loss   perception                  []. 
+ 
+================
+      perceived_vulnerability,          prospect belief,       .         , "        personality behavior  mental_calculation            " [].   ,        mental_calculation  [].      perceived_vulnerability              []. ,              "" (      ) [].    perceived_vulnerability     ","      "" []. 
+   ,       appraisal  perceived_vulnerability -  behavior        perceived_vulnerability task () [].              behavior [].        behavior     personality  ([extraversion ], perceived_vulnerability, [neuroticism ], [agreeableness ],  [conscientiousness ]) ,  [extraversion]  perceived_vulnerability.       [neuroticism ], [agreeableness ],  [conscientiousness] [].       judging        behavior       perceived_vulnerability.    perceived_vulnerability     ,         []  simplifying  perceived_vulnerability      . 
+       focus       [].            behavior               . ,           prospect belief  personality behavior   .            perceived_vulnerability perception : 
+        perceived_vulnerability  ()? 
+ 
+================
+     perceived_vulnerability      [action]  /  (  )? 
+       ()          ([knowledge]  perceived_vulnerability )? 
+          ([knowledge]  )? 
+     ,   [skill]  ,     /      [activity] (  perceived_vulnerability )? 
+  perceived_vulnerability          perceived_vulnerability          ()? 
+      [experience] / ()? 
+ 
+ 
+  
+  
+   perceived_vulnerability            ()? 
+   perceived_vulnerability   [activity]          (  )? [] 
+ perception  perceived_vulnerability         perceived_vulnerability       personality . 
+. 
+perceived_consensus        
+           perceived_vulnerability .              [], [], []: 
+• 
+frustration_of_needs 
+• 
+   
+• 
+ 
+• 
+perceived_vulnerability 
+ 
+ 
+           ""  ""    ""  "intelligence"     perceived_vulnerability perception. 
+ 
+================
+    personality       ,       "[Organization]"   .                    [].        opportunity_for_criminal_acts behavior    loss [], []  [Organization ].    ,  perceived_vulnerability             [].             loss   [Organization] []. 
+            perceived_vulnerability  [], [], [].       perception   opportunity_for_criminal_acts (                 []),     combining       [],[],[],[] (      ). 
+. 
+belief 
+                 personality         .        ,   ,                  .      ,                . 
+ belief       physical_quality   ,      physical_quality     perceived_vulnerability      perceived_vulnerability. ,      opportunity_for_criminal_acts  [].         (..,         ,   )               .        perceived_vulnerability   possibility_effect   [].       combining         personality    opportunity_for_criminal_acts    .         .   
+ 
+================
+      combining          perceived_vulnerability      . 
+            [].                  possibility_effect   perceived_vulnerability.         ,    perceived_vulnerability   . 
+ 
+================
+     
+ 
+================
+. 
+personality    
+. 
+ 
+         perceived_vulnerability,        personality   personality      .        "     , ,  " []. ,  personality        . 
+             personality    .               belief,    ,      perceived_vulnerability      . 
+. 
+  personality  
+      ,         personality ,      " " [].     , " intelligence  ()      [knowledge]  ; ()    ;  ()       perception,  ,       personality,       internalization    perceived_consensus" []. 
+. 
+  
+     , "  :    appraisal"          ""  "" [].  intelligence    personality   ; appraisal       "."  ,    ,         [].   ,      , appraisal      ,           [Organization] []. 
+ 
+================
+         . Organization       : 
+    : 
+• 
+         
+• 
+   personality         
+• 
+     
+• 
+        
+• 
+         [goal] 
+• 
+  fear_arousal        perceived_consensus 
+• 
+       
+• 
+           
+• 
+   perceived_vulnerability     intelligence   ;   ( )    
+• 
+   perceived_vulnerability         
+• 
+ possibility_effect           [Organization ]. [] 
+  .   , "     intelligence               " [].        "       /        belief    " [].     .,     : 
+• 
+  
+• 
+    
+• 
+ 
+• 
+self-efficacy 
+ 
+================
+• 
+   
+• 
+     . [] 
+       : "    .    extrinsic_rewards          [knowledge] .            " [].    combining    , "     combining    belief,     ?  ,        ?" [].              process,           appraisal []. 
+           behavior      ()       process : )  , )     )         [].       belief              behavior :       certainty_effect     []. 
+    simplifying  thinking    .     thinking  , " isolation_effect   perception ,    perception      ,       belief.      personality  " [].     ""               , ..,           personality ,      participant_modeling .           behavior       appraisal    , "segregating      " []. 
+  . focus  behavior             .      
+ 
+================
+" "  "belief "       " "    [].        . 
+          .         : "    learning        " [].  ,       ,          .           : "     physical_quality    " [].                    task   .       belief        combining,               .          belief       "     " [], []. ,                 perceived_vulnerability.         personality   . 
+. 
+perceived_consensus      
+                    .           [], [], [], [], [], [], [] [], [], []: 
+• 
+ 
+• 
+intrinsic_rewards 
+• 
+personality 
+• 
+   
+• 
+ 
+• 
+self-efficacy 
+• 
+ 
+• 
+personality 
+ 
+================
+• 
+    
+• 
+   [Organization] 
+• 
+intelligence 
+• 
+personality 
+• 
+perceived_vulnerability  
+         [].   internalization     ,      .    ,         . ,   ,                 :   perceived_vulnerability  [experience] [], [].     personality  ([neuroticism ], [agreeableness ], [extraversion ], personality  perceived_vulnerability  [experience] ), perceived_vulnerability  [experience]         [],       . ,         , ", perceived_vulnerability  [experience]  perceived_vulnerability " []. 
+. 
+    protection_effect /  
+. 
+  
+ö  .              [].      , perceived_uniqueness          ,    [].                  [].              ,     [Organization] [].  " "      :    (  [knowledge] ),    (  )   process  (     ), syllogistic_rules  (    ) [].  , "        ." [].         ,      [Organization]      
+ 
+================
+,   : "     motivation []    belief                extrinsic_rewards     [Organization ],         persistence     [Organization]" []. 
+  motivation   [Organization]        perceived_vulnerability,     [Organization ]. 
+    ,   .      [knowledge]        [knowledge]      ,           [].  belief  [knowledge]           ,  [knowledge]          perceived_vulnerability.  intrinsic_rewards            .     intrinsic_rewards   [Organization]  [policy]          [policy]                [].       protection_effect      ,        . 
+  .    role  [Organization]      personality .      role " [resource] ,        participant_modeling     possibility_effect" [].    personality,       impact    [resource]     behavior []. 
+       impact  ,     [].         behavior    protection_effect  , ,  ,           role   behavior [].                        
+ 
+================
+           protection_effect  . 
+   , belief        .       [].        [norms]   . ,                 []. 
+. 
+     
+personality       protection_effect               .           .        personality    ,                        . 
+. 
+belief 
+       .          belief  process        [Organization ].    ,         personality   protection_effect   .    ,  belief  focus        perceived_consensus        perceived_consensus      . 
+ 
+================
+     
+ 
+================
+. 
+   ? 
+. 
+ 
+  [Organization]  ,            [].              ,  intelligence .     combining      participant_modeling   [].       intelligence             .      ,           perceived_vulnerability [], []. 
+            .                 .    extrinsic_rewards,                    impact  perceived_vulnerability possibility_effect. 
+. 
+   
+        belief    personality          personality        .   perceived_vulnerability          .   perceived_vulnerability          . personality             .                     .                         ;            . 
+ 
+================
+ . 
+   
+        ,   perceived_vulnerability   .   [], [], [], [], [], [], [], [], []. 
+      ,       personality       .               ,   belief   belief    ,  ,      ,      protection_effect   behavior_control-ability  perceived_vulnerability possibility_effect   . 
+  belief   .                .       syllogistic_rules         perceived_vulnerability. 
+    focus           , ,       . 
+ 
+================
+. 
+      perceived_vulnerability     
+,        personality          .              syllogistic_rules  belief  perceived_vulnerability.    []  "perceived_vulnerability fear_arousal              gain       ,     gain" []. ,      ()           perceived_vulnerability. 
+ ,      ;           .           ,         perceived_vulnerability    ,     : 
+ . 
+possibility_effect   
+   personality perception personality 
+    personality 
+ personality 
+   ,                 [].          ,    .    perceived_vulnerability        .                 . 
+    []           , ..,         .     ;             [],         impact        []. 
+ 
+================
+      []        .             [Organization]     .       []  .  ,    [Organization ],     motivation,             loss  [Organization ].       personality perception;             [Organization ]. 
+    personality,    extrinsic_rewards  ,        .   personality      personality.           perceived_vulnerability,     ,   . 
+        ,             .        (physical_quality ,  ,  )                 (,  , intrinsic_rewards,    [Organization] ). 
+     [],        .            [Organization] -   [Organization]          . ,          perceived_vulnerability    " "  [Organization]             .       ,    personality  []      live_modeling  physical_quality  personality . 
+   judging    ,           perceived_vulnerability   loss        combining   .          .                [].              
+ 
+================
+   [].  [goal]   intrinsic_rewards   ,   segregating [].          []. 
+       [],     physical_quality  personality .  perception       () [],       loss () []                 () [].  physical_quality          ,     , .      ,         ;    vicarious_experience   [].     : "personality"  "personality."         "intelligence."     "   [Organization ]," ""  ","     . 
+            perceived_vulnerability    ( ).             ,        .             .                       []. 
+      perceived_vulnerability    .                      ;    [].        personality      extrinsic_rewards     [].                     history.       personality              intelligence  []. 
+                      .                   []. 
+ 
+================
+            perceived_vulnerability;     .      belief         ,   . ,               ,  belief       combining      .          ,        . 
+. 
+       . 
+    protection_effect        ,   : perceived_vulnerability  [],[].     perceived_vulnerability ,  "            gain       ,     gain" [].      .           perceived_vulnerability           task (). 
+      intelligence          perceived_vulnerability [].    ;            .      possibility_effect   ;        .       .        . ,             .             . 
+,                   .   perceived_vulnerability self-efficacy         perceived_vulnerability task ()       behavior [].        behavior ()          combining    perceived_vulnerability - 
+ 
+================
+ behavior.           protection_effect      behavior. 
+. 
+         
+              ,          ,         perceived_vulnerability    . ,        , , ,       combining       .      . 
+,    process       .  ,            ,         [].    process     [].  ""                   belief     [].         ,     planning               .               . 
+          process      :     ()      () [].                 mastery_experience   personality  [].             process         [Organization]   . 
+    personality     ,           .    ,                [], [].              process         perceived_vulnerability . 
+ 
+================
+,         [Organization]       ,         . ,        extrinsic_rewards      .    physical_quality                  []. 
+               .    appraisal            belief,         . ,      protection_effect  personality              personality       ,     combining    . ,        personality         perceived_vulnerability possibility_effect              .  belief belief     . 
+ 
+================
+. 
+belief 
+. 
+  
+                            , ..,  .       (, personality perception, personality)       perceived_vulnerability  (, personality,  personality ). 
+personality      behavior               possibility_effect  .  personality       []      perceived_vulnerability personality .    combining  behavior              .    ,       ,          comply_effect  behavior. 
+       techniques  perceived_vulnerability            (opportunity_for_criminal_acts, perceived_vulnerability , ,   .)   (  )    .        ,     behavior   , ..,    perceived_vulnerability          behavior;                   perceived_vulnerability. 
+,  perception                     .   "frustration_of_needs," "perceived_vulnerability "  ""—are      .         frustration_of_needs  "personality  "  "personality  behavior" [].          . 
+                perceived_vulnerability   .      [policy]            belief. 
+ 
+================
+. 
+  perceived_vulnerability     
+       perceived_vulnerability                     perceived_vulnerability  personality   . ,            perceived_vulnerability              . 
+             intelligence     .                    extrinsic_rewards    [].          extrinsic_rewards        ()   [].                  segregating   .  ,          physical_quality  personality . 
+      perceived_vulnerability                               [], [].           ,     frustration_of_needs,   perceived_vulnerability   .  perceived_vulnerability        . 
+         perception        .      ,        []             personality   .   perceived_vulnerability        ,          perceived_vulnerability     . 
+ 
+================
+ . 
+ perceived_vulnerability   .   []. 
+         .    perceived_vulnerability  learning %         %.       source []. 
+ . 
+ perceived_vulnerability .   []. 
+  perceived_vulnerability   focus    ( )  behavior  ( ). 
+ 
+================
+ . 
+ perceived_vulnerability .   []. 
+  perceived_vulnerability           perceived_vulnerability    . 
+ . 
+ perceived_vulnerability .   []. 
+       ;      perceived_vulnerability         . 
+ 
+================
+                 personality belief      [].      simplifying     personality     perceived_vulnerability perceived_vulnerability.                     perceived_vulnerability          personality .   : 
+    -    , ,       
+  - syllogistic_rules           possibility_effect    
+ [preference] -Applying     ,      ,                 
+ behavior -     behavior    perceived_vulnerability, .  behavior      constraint   
+  - loss   personality belief,        process,          
+  - loss    ,       
+       loss   ,   belief 
+         
+   belief             belief, ,   .  . 
+  -  [activity]     fear_arousal     
+      loss           
+                  
+ 
+================
+     , , loss     . [] 
+         protection_effect     . perceived_vulnerability , ,  frustration_of_needs           perceived_vulnerability  ( )          .           perceived_vulnerability . 
+    ,            [].   perceived_vulnerability             [].              ,               . 
+. 
+[policy]  
+          . ,      extrinsic_rewards        [], [].       extrinsic_rewards    ,          protection_effect  [].          [policy] [],    ,     extrinsic_rewards [],    []   .      ,              physical_quality    .             perceived_vulnerability   .  belief           perceived_vulnerability;  ,             perceived_vulnerability. 
+  []            personality   possibility_effect  . ,                perceived_vulnerability possibility_effect         process  .    ,       
+ 
+================
+personality        .  ,   focus          participant_modeling : perceived_vulnerability . 
+,     frustration_of_needs         .       perceived_vulnerability       perceived_vulnerability task (). ,                                frustration_of_needs. 
+. 
+    
+ physical_quality  personality            perceived_vulnerability,  .               personality .  ()   ( behavior)          .          perceived_vulnerability , "   behavior    intentionality   loss   [Organization]            participant_modeling     intentionality" [].            personality     . 
+      belief,    focus            perceived_vulnerability. ,               perceived_vulnerability [policy]           belief. 
+ 
+================
+     
+ 
+================
+   
+[] 
+, "     ()," . ,  . ., . 
+[] 
+. , "   ," . ., . , . 
+[] 
+. , "  ..      ," . [] : 
+://..////// .. 
+[] 
+    ., . , . , .,            , , , , . 
+[] 
+/  perceived_vulnerability , "  :   focus. (/)," . 
+[] 
+   , " perceived_vulnerability," . []. : ://. .//. 
+[] 
+,   ,   ., .   , , , , . 
+[] 
+,    ,  ,    , , , , . []. : 
+://..///// . 
+[] 
+  perceived_vulnerability task , " perceived_vulnerability   ," , , . []. : 
+://..///// . 
+[] 
+. , "  :    appraisal," . . ., . , . , . , . 
+[] 
+"."  .   , . []. : ://../. 
+[] 
+. , . , . ,  . , "   ," . . ., . , . , .  , . 
+ 
+================
+[] 
+.   . . . "    ," , , , . , . 
+[] 
+. .   . . , "   ," , , , . , . 
+[] 
+intelligence  , "   gain ." , , .  , . []. : ://. .////. 
+[] 
+. . , ":    ?," . []. : ://.././. 
+[] 
+   , "  perceived_vulnerability  -      perceived_vulnerability  process ,"  , , . []. : ://../////. 
+[] 
+. , . ,  . . , " physical_quality    :    perceived_vulnerability    physical_quality  personality ," . .  . . . ., . , . , . []. : ./.. 
+[] 
+.   . , "   [Organization] :            perceived_vulnerability," .  . . . . ., . , . []. : ./. 
+[] 
+.   . , " :   perceived_vulnerability," . . ., . , . , . , . []. : ./ 
+[] 
+. .   , " perceived_vulnerability ,"      , .    . , . , .  . 
+[] 
+.   . . , "personality :    perceived_vulnerability -  behavior," . . ., . , . , . , . []. : ./ 
+[] 
+.   . , "belief  perceived_vulnerability  :   ."         : belief  perceived_vulnerability  :   ,"  (. )., . , . , . , . []. : ./... 
+[] 
+. ,    . , . []. : ://../// 
+ 
+================
+[] 
+. .   ., "  perceived_vulnerability :  , ,   ," . .  . . . ., . , . []. : ./.. 
+[] 
+. . , "                 ,"  ., . []. : ://..///  
+[] 
+.   . , "       ," . . ., . , . , . , . []. : ./... 
+[] 
+. , . ,  .   , "     possibility_effect," .  . ., . , .  , . []. : ./ 
+[] 
+. , . ,  . , "     :       ?," . . . ., . , . , . , . []. : 
+./ 
+[] 
+. () , . . ,  . , "      ," . . . ., . , . , . , . []. : ./.. 
+[] 
+. ,  .  ,  :   ,  
+[] 
+.   . , "evaluating ,"   , . , , . . []. : .//.. 
+[] 
+. .   . . , "   behavior -         ," . . ., . , .  , . []. : ./ 
+[] 
+. ö, . . ,  . . ü, "    —   focus     ," . . . ., . , . , . , . []. : ./ 
+[] 
+. . , .  ,  :    , . 
+[] 
+.   . ,     .  ,  : , . 
+ 
+================
+[] 
+. , "  perceived_vulnerability  :     ,"   , . []. : 
+://..////// /?=. 
+[] 
+   , "            ," . , , []. : 
+://../?isolation_effect &= 
+[] 
+  " ," . []. : ://..//?=%  
+[] 
+, "   ," . []. : ://../// /// 
+[] 
+. , " ," . []. : 
+://..///// /. 
+[] 
+  , "," . []. : 
+://..//.// ?= 
+[] 
+. , "," . []. : 
+://..////// /# 
+[] 
+  " perception    intelligence  .," . []. : ://../ 
+[] 
+     intelligence, "    :    ," , , . []. : ://..//. 
+[] 
+. . , "    : ," , ,    . , . 
+ 
+================
+   
+. 
+    . ,  
+. 
+      ,  
+ 
+================

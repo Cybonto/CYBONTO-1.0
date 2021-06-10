@@ -1,0 +1,874 @@
+   . 
+     
+  
+     
+    ? 
+    ? 
+  , ,    
+       
+      
+  .  
+================
+     
+ ,      
+ []  
+,  
+: {., , }@. 
+,            ,  perception         ﬁ  perceived_vulnerability intelligence. ,                 ﬂ ,   ﬁ    personality . ,         ,           . ,   opportunity_for_criminal_acts         -   ﬁ  .   ,  techniques   ﬁ            . ,  focus     - ,      - participant_modeling     combining    ,   ﬁ    : )                ; )     combining                    ﬁ .           ,                  combining . 
+.  
+       participant_modeling   vulnerabilities   ,       []. ,          [knowledge ],      combining      focus    ﬁ  [].             ,          []. ,           : combining "" ﬁ,  ,    .                ,    ﬁ  personality   .   ,          ﬁ     :  [], [], []     [], [].   ,  belief      evaluating         ,    evaluating     []. ,           ﬁ task :      (        ). ,   ﬁ    ,  
+            - ..,      []. ,        generalizing,            .   ,  techniques   ﬁ          . ,  focus  ,       participant_modeling      task.                    .    [activity ], mastery_experience,  ,  belief, ﬂ        ﬁ    ,           .      ,              .                     -              .             ﬁ        ,    ﬁ   .  comply_effect           ,   %         .       : )          
+,        
+ combining    %    
+        ; )           
+  combining  ,     
+          ; )         
+  combining ,     
+     %   
+gain    ; )           
+combining    . 
+        :     ,        .         ﬁ .            .      . ,     . 
+================
+. /  
+      [activity]     ,  ,      [].  ,   ""                       [].            ,     ,   ,      ().           ,       .            ﬁ       ,   - ﬁ   : ,    [].        ,           .    ,              ,     . ,     Collection         .          ,     .           ,        source   judging   []. 
+.  
+  ,  combining            [],      personality     .         ,     ,      . 
+  
+  . 
+                
+   :  
+, 
+, 
+, 
+   :  
+, 
+, 
+, 
+   :  
+, 
+, 
+, 
+ 
+ 
+ 
+          ,       (     ),      ().               .   ,  combining   (   ,    ,    )    ( ,  ). 
+        ,        ,        .             ,          = (, ),     Θ,             .      , θ, ,     ﬁ , ,    .    [activity]      ( 
+ )         , θ, , ,   ∈ , θ ∈ Θ,  ∈    ∈ .    "    θ      ".    (, )             ,            .           () : 
+= {(, )| ∃v, θ, ,  ∈  ,∃v′, θ, ,  ∈ , 
+.. = , > } 
+() 
+ belief            θ   ,         θ   ,   .       live_modeling   process    (          ,          []),         .     process   ()  intelligence  ,  ()      . 
+      
+  
+   ::  ::  ::  ::  :: 
+ 
+ 
+ 
+ 
+      
+  
+   ::  ::  ::  ::  :: 
+() 
+ 
+() 
+. .       . 
+.   
+    ,      process.  isolation_effect              ,       .             ,              .     ,        .           ,       ,             . 
+  
+  . 
+    =   =   =   =  
+  , 
+ 
+ 
+ 
+ 
+  , 
+ 
+ 
+ 
+ 
+  , 
+ 
+ 
+ 
+ 
+.   
+     [], [],       [capability ], mastery_experience  ﬂ (     ).   [],          ,      ﬁ  ,  perceived_responsibility  evaluating , [activity ],   ,  appraisal, .   . []    
+================
+          ,       . 
+  focus       ﬁ .  ,            source        personality   [].        ,         .        ,                . 
+mental_calculation               ,     ,     .      comply_effect         belief. 
+ %         
+≈Top %         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+           
+() 
+ %         
+   
+ 
+           
+() 
+≈Top %         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+() 
+ %          
+   
+   
+ 
+           
+() 
+≈Top %          
+ 
+ 
+ 
+ 
+ 
+  
+                      
+() () 
+. .             (),()  , (),()    (),()  . 
+   
+   
+ ()             ( %   )         [activity] (   × σ  ) experiential_awareness   ,           .    ,  ()       .      (≈  %   )     ,  .      .       ,  comply_effect                 ( ()),  .    .            ( ()). ,   ,  comply_effect                 ( ()),  .    .            ( ()). 
+ simplifying  ,     belief          ﬂ    , ﬁ           ﬁ. 
+  ,      belief          ,       .  ,    
+     ,         ﬁ.           ()  , ()    ()  ,        .    experiential_awareness,       ()        ,       . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+() 
+      
+() 
+   
+() 
+. .      ()  , ()    ()   ( ).   ﬁ    ≈ .,  ≈ .   ≈ . ,       . 
+ gain,                ,            ,      . ,                      .    belief,  behavior_control-ability    learning           ,              ﬁ   . 
+.   
+         ,      appraisal      .            ,     (), mastery_experience ()    ().      mastery_experience      (),   ()    ().  ,     focus   ,             .  gain,           (),    belief ()  ﬂ ().      focus     ,       focus     . ,          ,         .  simplifying ,         ,    evaluating          [], [], [].                    ,     appraisal    .             [].       ( ,  ,  ),       , ,   . 
+================
+     
+/ [activity] 
+ 
+ ()=
+ 
+θ 
+(, θ, , ),  (, θ, , )= 
+  ():      .   [],       . 
+,  , θ, ,  ∈  ∧ ∄v′, θ, ,  ∈ , .. <  
+,  
+() 
+  (): combining       .   [], [], [], [],               .
+ 
+|, θ, , | −  (), .. , θ, ,  ∈  
+   ():       .   []       
+()= 
+θ 
+ 
+ 
+         . 
+() 
+mastery_experience 
+  
+() 
+() 
+()= 
+|()| 
+,  ()          . 
+   ():           .   [] []        ,        .
+ 
+θ 
+(,θ,,) 
+,  (, θ, , )= 
+(),  , θ, ,  ∈  ∧ ∄v′, θ, ,  ∈ , .. <   
+() ,  
+   ():           .   [],     
+()= 
+() 
+,      [knowledge]     .
+ 
+ (),  , θ, ,  ∈  ∧ 
+θ   
+(,θ,,) 
+′, θ, ,  
+ 
+,  (, θ, , ) =() ∈ , .. <  
+ 
+()= 
+∃v 
+() 
+,  
+  ():             [].       
+   ,      perceived_responsibility . 
+
+ 
+′ ′ ′ |, θ, ,  
+  
+|,  , θ, ,  ∈  ∧ 
+∄v′, θ, ,  ∈ , .. <  
+ ()=
+ 
+θ 
+(,θ,,) 
+  
+,  (, θ, , ) =() 
+ 
+() 
+,  
+  [knowledge]  ():     [knowledge]   (),   "", "", 
+, θ, ,  ∈  ∧ ∃  
+"", ""  "".   . [] experiential_awareness        . 
+ ,  ∃w ∈  ∧  ∈ {} ∧ 
+()=
+ 
+′, θ, ,  
+θ   
+(, θ, , ),  (, θ, , )= ∈ , .. <  () 
+ 
+,  
+ {}   ﬁ   [knowledge]  . 
+  [knowledge]  ():     [knowledge]   (),   "fear_arousal ", "", 
+"", ""  "". 
+ ()=
+ 
+ 
+θ   
+(, θ, , ),  (, θ, , )= 
+ 
+ 
+,  ∃w ∈  ∧  ∈ {} ∧ 
+, θ, ,  ∈  ∧ ∃  
+′, θ, , 
+ ∈ , .. <  ,  
+() 
+ {}   ﬁ   [knowledge]  . 
+  [knowledge]  ():     .      ,     [].
+ 
+ ,  ∃w ∈  ∧  ∈ {} ∧ , θ, ,  ∈  ∧ 
+ ()= 
+′, θ, ,  
+θ 
+(, θ, , ),  (, θ, , )= 
+
+ ∈ , .. <  () 
+,  
+∄v 
+∄v 
+  
+  [knowledge]  ():     .      ,     []. 
+ ,  ∃w ∈  ∧  ∈ {} ∧ , θ, ,  ∈  ∧ 
+ ()=
+ 
+′, θ, ,  
+θ 
+(, θ, , ),  (, θ, , )= 
+
+ ∈ , .. <  () 
+,  
+ ():       (  ).   [],     
+     .
+  ()=
+ 
+θ   
+(, θ, , ),  (, θ, , )= 
+,  ∃w ∈  ∧  ∈ {} ∧ , θ, ,  ∈  ,  
+() 
+  
+ {}   ﬁ    . 
+  ():      .   [],       
+  ()=
+ 
+θ   
+(, θ, , ),  (, θ, , )= 
+  intrinsic_rewards /. 
+,  ∃w ∈  ∧  ∈ {} ∧ , θ, ,  ∈  ,  
+() 
+ {}   ﬁ     . 
+  ():      .    [],        
+    .
+  ()=
+ 
+θ   
+(, θ, , ),  (, θ, , )= 
+ {}   ﬁ    . 
+  
+,  ∃w ∈  ∧  ∈ {} ∧ , θ, ,  ∈  ,  
+() 
+ ()=[()∗10]+ 
+ ()=[()∗10]+ 
+() 
+() 
+  [knowledge]   (): ﬁ    [knowledge]        .   [],    [knowledge]          .      ,       (  )       . ,  simplifying      ,         (= ).     ,      . 
+  = 
+()−y1() 
+() 
+= 
+()−y1() 
+=  − ()= ,  ()= 
+[()∗10]+ 
+ ()−x ()  
+() 
+(, θ, , ) () 
+ 
+  ()             ﬁ   (). 
+  [knowledge]   (): ﬁ    [knowledge]         .   [],    [knowledge]          . 
+ = 
+()−y1() 
+= 
+()−y1() [()∗10]+ 
+()  ()−x ()  
+=  
+() 
+− ()= ,  ()= (, θ, , ) 
+ 
+  ()             ﬁ   (). 
+  [knowledge]   (): ﬁ    [knowledge]        .   [],    [knowledge]          . 
+  = 
+()−y1() ()−y1() [()∗10]+ 
+()  ()−x 
+ 
+() 
+= 
+ 
+=  
+() 
+− ()= ,  ()= (, θ, , ) 
+ ()             ﬁ   (). 
+  [knowledge]   (): ﬁ    [knowledge]         .   [],    [knowledge]          . 
+  
+() 
+= 
+()−y1() 
+= 
+()−y1() [()∗10]+ 
+ ()−x 
+ 
+()  
+=  
+() 
+− ()= ,  ()= (, θ, , ) 
+ ()             ﬁ   (). 
+()=[()∗10]+ 
+()=[()∗10]+ 
+() 
+================
+  
+    
+/  
+belief 
+ 
+  ():            []. ,  ﬁ      .   [],     ,          . ()= ,       . 
+  ():             [],     
+()= 
+== 
+ 
+ 
+= 
+ﬂ 
+() 
+  ﬂ.   [],     ,        . 
+σ() 
+σ 
+() 
+ σ             σ()               . 
+  ():             [].        ,            ,      . 
+()= 
+ 
+,  
+¯lv 
+ 
+ 
+= 
+ 
+,                 . ()   ():              [].   [],      ,      . 
+()= 
+λ 
+= 
+,() 
+ λ   ﬁ , ,               . 
+ evaluating ():               appraisal   [].   [],     evaluating,           . 
+ ()= α 
+ 
+= 
+ 
+ () 
+, 
+ 
++ β 
+ 
+() 
+() 
+ λ, α,  β  ﬁ , ,               . 
+     
+ 
+/  
+  &    ():      ﬁ           
+ ()= 
+θ 
+ 
+  .   [], []       ,       .
+ 
+(, θ, , ) −
+ 
+′ ′ ′ ′ (, θ′ 
+′v 
+θ   
+, ,  ),  (.)  (.) ﬁ : () 
+′′, , 
+ ∈ , .. <  
+(, θ, , )= 
+ 
+,  , θ, ,  ∈  ∧ ∄v, θ 
+(, θ′, , )= 
+,  
+′, θ′, , 
+ ∈  ∧ ∄v′′, θ′′, ,  ∈ , .. <  
+,   ,  
+    ():        .   [], []           ,        . 
+()= |()|,  ()          . 
+  &    ():                  
+()= 
+θ 
+ 
+() 
+ .   [], []        ,   ﬂ .
+ 
+(, θ, , ) −
+ 
+′ ′ ′ ′ (, θ′ 
+′v 
+θ   
+, ,  ),  (.)  (.) ﬁ : () 
+′, , 
+ ∈ , .. >  
+(, θ, , )= 
+ 
+,  , θ, ,  ∈  ∧ ∄v, θ 
+(, θ′, , )= 
+,  
+′, θ′, , 
+ ∈  ∧ ∄v′′, θ′′, ,  ∈ , .. >  
+,   ,  
+.    
+             ﬁ .  ﬁ    participant_modeling       ,         .       generalizing ,             . ,          : )    /       perception   ; )    /      ﬁ  . 
+.    
+               .          ,        .  participant_modeling ,                :   %       ()    %       (). 
+         ,           
+.  ,           ,    %      -  ,   %          .                ,         %  generalizing    .      ,  [goal]       %    (),    appraisal     []. 
+%= 
+|% ∩ %| 
+|% ∪ %| 
+()            .  ﬁ            process :   () [].    ,      participant_modeling       ,        ()   %  .   perception       ,    (   ,     )        [],              ﬁ   
+================
+     %. ,                   ,    %. 
+ 
+()=  ∗  () 
+= 
+    physical_quality   ,           ,        . 
+          () [].    ,      syllogistic_rules      ()    personality  ().  syllogistic_rules      ,         ﬁ         %. ,       ﬁ            ,    %.              ,           %.      ﬁ:   ()  protection_effect   () []. ,  ﬁ   ﬁ   combining       certainty_effect  ().             ,          . protection_effect   ()    ﬁ  ﬁ              .   ﬁ    ,    learning       %     ,      [knowledge]    ( ),     %. 
+.  
+                      .        learning      ,    learning     ( perception ). 
+        
+        
+        
+        
+. 
+. 
+. 
+. 
+. 
+% 
+. 
+% 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ 
+. 
+ 
+. 
+ 
+ 
+   perception    
+  
+ 
+ perception  
+    
+ perception  
+ 
+   perception    
+  
+    
+. 
+. 
+. 
+. 
+. 
+% 
+. 
+% 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ 
+. 
+ 
+. 
+ 
+ perception  
+ 
+   perception    
+  
+ 
+ 
+    
+ perception  
+   perception    
+protection_effect   
+    
+. . %                 . 
+ comply_effect      perception    ,       ﬁ      .     %      (.)   
+      perception.           %   ﬁ,        . ,     %      (.)            perception.            %   ﬁ,        .      ﬁ  %    (    ),    personality ﬁ  .                       .  comply_effect      perception    ,     ﬁ        .     %      (.)         perception.          %   ﬁ,        .  gain,     %      (.)            perception.           %   ﬁ,        . 
+        
+        
+        
+        
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+% 
+% 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ 
+ 
+ 
+ 
+ perception  
+ 
+   perception    
+  
+    
+ perception  
+ 
+   perception    
+  
+    
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+% 
+% 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ 
+ 
+ 
+ 
+   perception    
+  
+ 
+ perception  
+    
+ perception  
+ 
+   perception    
+protection_effect   
+    
+. . %                 . 
+                    .  comply_effect        perception    ,  ,     ﬁ  ,  (    perception)     .     %      (.)         perception.          %   ﬁ,        . ,     %      (.)         perception.         %   ﬁ,        .         perception       ,      .  ,     ,                 . 
+================
+        
+        
+        
+        
+. 
+. 
+. 
+. 
+% 
+. 
+. 
+. 
+. 
+% 
+. 
+. 
+. 
+. 
+. 
+. 
+ 
+. 
+. 
+ 
+ 
+ 
+ perception  
+ 
+   perception    
+  
+    
+ perception  
+ 
+   perception    
+  
+    
+. 
+. 
+. 
+. 
+% 
+. 
+. 
+. 
+% 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ 
+. 
+ 
+. 
+ 
+ perception  
+ 
+   perception    
+  
+ 
+    
+ perception  
+ 
+   perception    
+protection_effect   
+    
+. . %                 . 
+  . ,    comply_effect               ,        %.  belief   protection_effect      ﬁ  ,  %, %, %      ,          .               ,     mental_calculation   perception .       ﬁ perception   . 
+         %      .  comply_effect         .%   .     behavior   perceived_uniqueness       ﬁ .         personality  ,  ,        ﬁ          . 
+,         %    ,            .  ﬁ,      ﬁ.         -         -             .          ﬁ ,           . 
+.   
+      ﬁ     .  ,   . []      combining     , 
+  . ,          :  ,  ,   . ,  ﬁ         :   ,  ,  ,   . judging    ,      (%   combining)      participant_modeling    ,        . 
+,   . []     perception      simplifying    [knowledge] . [knowledge]   [knowledge]          ﬁ, ﬁ       : , personality, ,   .         intelligence      ,    [knowledge] .   ,   . []            personality ,         .     (), personality   ()     (),  ﬁ ﬁ  personality ,      ,      .    perception,                  mastery_experience [].          : , , , ﬁ  ,        mastery_experience : , , , , , , ,   . ,     (     )      [Organization]        .   perception       [].       combining     .                   ,             . ,              focus           [].    ,             .    ,             ﬁ  ,   
+        
+  
+  
+ % 
+ % 
+ % 
+  
+ % 
+ % 
+ % 
+  
+ % 
+ % 
+ % 
+  
+ % 
+ % 
+ % 
+  
+ % 
+ % 
+ % 
+  
+ 
+. . . . . . . . . . . . . . . . . . . . 
+ 
+. . . . . . . . . . . . . . . . . . . . 
+  
+. . . . . . . . . . . . . . . . . . . . 
+  
+ 
+. . . . . . . . . . . . . . . . . . . . 
+  
+. . . . . . . . . . . . . . . . . . . . 
+  
+ 
+. . . . . . . . . . . . . . . . . . . . 
+. .         %. 
+================
+        
+        
+        
+. . . . . .  
+. . . . . . . 
+ 
+. 
+. 
+. 
+. 
+. 
+ 
+   
+ %  
+ %  
+ %  
+   
+ %  
+ %  
+ %  
+   
+ %  
+ %  
+ %  
+        
+        
+        
+. . . . . . . 
+ 
+. 
+. 
+. 
+. 
+. 
+ 
+. . . . . .  
+   
+ %  
+ %  
+ %  
+  
+ 
+ %  
+ %  
+ %  
+   
+ %  
+ %  
+ %  
+. .    % . 
+    . ,             ﬁ,           . ,       ﬁ   ,      combining            . 
+. belief 
+  ,  techniques   ﬁ         perception   ,     .     ,  ﬁ       . ,      (   ) participant_modeling        ,         . ,        generalizing,             .                 ﬁ,     ﬁ               ﬁ .        ,            -                 combining .          ﬁ       ,        . 
+ 
+        ﬁ    () perceived_responsibility ,  ﬁ    ()  ,      ()       ﬁ    ().          ﬁ      intelligence ()   
+intelligence    [activity] ()       () perceived_responsibility  .       live_modeling  isolation_effect         . :                      ﬁ   ,    ,  , , ,    . 
+ 
+[] . , ":      intelligence," 
+. , . , . , . , . . 
+[] . , . , . ,  . , " ﬁ   
+ [knowledge]  ," .  , . , 
+. , . , . 
+[] . , . , . , . ,  . , 
+"    ,"      
+, .  . , , . . 
+[] . , . , . , . ,  . , " 
+: judging     ,"    
+ . ,  , . . 
+[] . , . , . , . , . , . , . ,  
+. , "        
+ ,"     . , . [] .   . ., "    ,"   
+     , . , . [] .   . , "     combining  
+      ,"     
+,  , . . 
+[] .   . , "      
+    ,"      
+    (),  , . . [] . , "   ,    
+   physical_quality ." , ://./ (   
+). 
+[] . , . , . , . , . , . , .  
+, . , . ,  . , "   
+    perceived_vulnerability intelligence,"    
+ . , , . . 
+[] . , . , . , . , . , . ,  
+. ,   perceived_vulnerability intelligence .  
+ , . 
+[] . , . . ,  . ,    
+. :   , , . . [] .    . , "   physical_quality    
+,"  , . , . , . , . [] . , "          
+      ." , ://./ 
+(  ). 
+[] . , . , . ,  . , "judging  
+      ,"   
+  , . , . , . ,  . 
+[] . , " focus    behavior     
+,"         
+,   ,  , . . [] . physical_quality, . ,  . ,    . 
+, . 
+[] . , . ,  . ,   :   
+.   , . 
+[] . , . , . .,  . , "judging   
+     ,"  
+   , . , . , . , . [] . . , . . ,  . , "   
+       ,"  
+, . , . , . , . 
+[] . ,     . , , 
+:  , . 
+[] . , "   :    
+     ,"  , . , 
+. , . 
+================

@@ -1,0 +1,288 @@
+intelligence   -    -              intelligence 
+      
+ ,           ,           , ,     intelligence   ,               []       , ,   . ,               .  , , ,       ,          . 
+  ,         intelligence ,         ,                ,   ,  ,      constraint        . 
+:  ; intelligence; ; ; ; 
+ 
+  thinking  
+  thinking    
+   
+================
+intelligence  -         intelligence intelligence  -         intelligence 
+. intelligence  - physical_quality  
+perception 
+            perception  "intelligence ",   (          )          []     ,       ,    . 
+,         ,   : , ,  ,  ,  ;        ;     extrinsic_rewards      [] . ,            "  " (, , . ). 
+   ,     (     )    (         , , ,    [])             ,       behavior          .     , protection_effect  ,         ,       .   , " "      [authority] (),         constraint   (). " "   ,     []  , ,    ("")   []             ,          . ,    behavior                ,     (    [authority ],   )   : constraint, ,    , .   ,      combining         behavior    ,             behavior   , ,   , , .   ,               [authority ],     
+ intelligence   
+intelligence   
+================
+    
+     ;    , [authority]            . ,  ,                 . (., .). 
+    ,      physical_quality         ,    .    ,   ,     , ,    persistence ,        ,         ,            .            combining       .   ,           []   : ,    ,                   perception  mental_calculation         protection_effect    . (., .). 
+   ,          ,    intelligence   ,             ,      :   possibility_effect /  .   , ,    ,  mental_calculation           [goal] :   ,      ,      ;   ,      ,     (  )    ;             ,   ,  ,   [resource ],   ,                ;                    ,   possibility_effect      ,     .                   . ,                          . 
+        , intelligence       [],    ,         ,  ,        ,          ,   ,   . ,  intelligence        thinking  
+  thinking    
+   
+================
+intelligence  -         intelligence intelligence  -         intelligence 
+   perception    [] ,    ,                     ,    ,  ,     segregating          . 
+,  intelligence               []    ,                 . 
+intelligence     
+   physical_quality (  perceived_vulnerability    -  Source ,        personality  .)      persistence          ,  role  intelligence      ,       [policy]    "   ",      , , ,        [knowledge ],    source     (, , . ). 
+ ,                      ,    , , ,     .       ,      impact      [] ,      perception,           (, , , , , , ),             (   ),  intelligence     . 
+,  ,   ,    ,      ,       ,              ""    ()  "" (),              (, ): 
+.  (     )     
+    ,   ,  
+      ,     
+"perceived_responsibility"    ; 
+ intelligence   
+intelligence   
+================
+    
+ 
+•     gain        
+    ,    , 
+   ,         
+,  gain  personality ,     
+     . 
+.        ,     
+gain          
+       ; 
+•  gain    ,     
+    ,    , 
+frustration_of_needs,   ""    protection_effect  
+. 
+. satisfaction_of_needs,  ,    ,      
+    personality ,      
+,       . 
+•             
+     ,     (, 
+ ,   .)      
+    , . 
+.       personality   
+behavior. 
+•       (   
+     ,       
+physical_quality          )    
+            
+     ,    
+  . 
+.            
+    belief      , 
+        . 
+•        , 
+         
+ ,    personality ,  
+     protection_effect (   
+);          
+protection_effect     ,    , perceived_responsibility 
+  perceived_vulnerability "" ( ,  ,     
+ .)    .     
+  . 
+  thinking  
+  thinking    
+   
+================
+intelligence  -         intelligence intelligence  -         intelligence 
+.        .   
+       ,    
+personality  . 
+•       :      
+  ,    (belief ),  
+, , , , , perception    
+         ; 
+,   / ,  
+       (  ,   
+     );      
+    (       
+   ,    , 
+   ),    personality    
+;  "[rewards] ",     
+   protection_effect  . 
+.      ,   extrinsic_rewards   
+ ,     perception        
+     syllogistic_rules  ,    ,  
+    perceived_responsibility. 
+•         , 
+       []  intrinsic_rewards,  
+protection_effect     behavior_control-ability   (   
+    ); ,        
+physical_quality ,      ( )   ,  
+  (     ); 
+.          " "  
+         /; 
+           
+     . 
+•     , ,   
+        ,  
+     ;       
+       ,    focus  
+,     . 
+.        possibility_effect   
+           , 
+      . 
+•         protection_effect  ,  
+          , 
+ intelligence   
+intelligence   
+================
+    
+         ;   
+       ,     
+  physical_quality   extrinsic_rewards  ,     
+      ,    
+      loss   ;   
+    protection_effect       
+       . 
+.       : .   personality 
+ ; .  constraint  / perceived_consensus 
+ ; .  ""     () , 
+      . 
+•            
+ behavior    . , 
+        
+      ,   
+   ;    ,  
+  perceived_consensus   .     
+  ,    "    "  
+       , , 
+  ,  perceived_vulnerability, ,    
+, ,    . 
+               : 
+•         ,    
+    gain. 
+•        "", , , 
+  ,      ,  
+       . 
+•  ,          
+       belief,    
+   ,    ,   
+    perception. 
+•    personality      
+,       ,    
+  . 
+          ,        combining  intelligence  possibility_effect  ,                     . 
+   thinking  
+  thinking    
+   
+================
+intelligence  -         intelligence intelligence  -         intelligence 
+   intelligence,               intelligence   [experience]   ,             ,       (ț, , . ): 
+•  ,      ,  
+   ; 
+•    intelligence; 
+•       ( ); 
+•  intelligence   ( ) intelligence 
+; 
+•          
+  task      ,   ; 
+•         ,   
+  ; 
+•         ; 
+•      [knowledge] ; 
+•      ; 
+•        participant_modeling   perceived_responsibility  ; 
+•   [division]     task    
+; 
+•   focus          
+ ; 
+•          
+  ; 
+•           
+/. 
+ process                     [knowledge ],                      (, ). 
+    -  [function] 
+ intelligence  
+ intelligence             (,             ),     ,    :  - /[] - personality. 
+ intelligence   
+intelligence   
+================
+    
+    ,        intelligence,       ,  , , , ,              . 
+ intelligence    intelligence                .  [knowledge]        belief     [knowledge ],  ,    ,        process     .             ,                     (    , , ),              (, ,  , , , ,   )  personality  [knowledge]          . 
+    process      ,       :  "/ ",  "/"   "/". 
+       , ,      , ,              process ( )           ,  intelligence .               [knowledge]  , ,   ,     gain     protection_effect              . 
+            ,   , ,   [preference ],       ,      ()   () , ,    : .  (  ),  (.),    (.),    (.),  intelligence; .  : ,  ,   (.),  intelligence,   (.),  ,  ,  (.),  ,   (, ). 
+                process     . ,            ,       thinking  
+  thinking    
+   
+================
+intelligence  -         intelligence intelligence  -         intelligence 
+  ,    . intelligence    .     process ,   ,   ,   ,             ,         . 
+,    ,    fear_arousal    :   physical_quality    ;       ;       , ,    ;           ;          ;   constraint        &    . 
+  ,              intelligence ,     process       ,    (, , , . ): 
+.       ,    
+[] , ,         
+    (/),   ,     
+          
+perceived_vulnerability -         
+; 
+.      ,     
+(, , , ),      
+,      -    
+       ; 
+.        intelligence 
+      ( ),  
+   (, , ,  .) 
+       -    
+     intelligence ; 
+.     intelligence ()   
+ ,    ,   ,  
+    ( ,   
+ -    perception ),      
+  -     intelligence  
+  , , , , . 
+.          
+  ,       
+ intelligence   
+intelligence   
+================
+    
+      ,      
+            
+personality     -    
+   ,       
+. 
+ ,                    ,                  intelligence ,   ,   .                    ,  :   ,              , intelligence   (., . ). 
+,   techniques    ,         (    ),               :        ;       ,   (         planning            process );  perceived_uniqueness         ;     [experience]    (                 ;     .),   (          ,    );  thinking (, , . ). 
+              ,          intelligence        ,  ,           gain   ,          . 
+ 
+,    ,  intelligence                       []  . 
+                  [knowledge] (        perceived_vulnerability)           thinking  
+  thinking    
+   
+================
+intelligence  -         intelligence intelligence  -         intelligence 
+intelligence , ,    , ,            . 
+  constraint        , intelligence      ,            . 
+      ,      ,     ,       ,   ,      , ,    ,       ,                      . 
+: 
+. , . ().   ş  , ../ 
+/,     . 
+. ,  (). ț  intelligence,  ă, "â ă 
+âă"   , ș. 
+. . ().   ă î  ț  ă -  
+ță     ș ț î    
+,   ./. 
+. , .. ().  ş   î  ţ  
+ţ î îăţăâ   ă ă   ./. . , .. (, ): ş ă î  ă  
+ ă  ţ - intelligence,   ţ ş ş ă î 
+ ,  , ş. 
+. , . (, ): ăț     ţ. . , . ():   ă     ,  
+ăţ ţ  ă " ", ş. 
+. , . ():  ă î    ,  
+ăţ ţ  ă " ", ş. 
+. ţ, . ():   intelligence -      
+ă,  , ş. 
+. , ... ():     .     
+     .   . 
+. , ; â, . (): ţ  intelligence,  , ş. . , ., , . (): ţ   intelligence î   
+,  , ş, . /. 
+.         -    learning , . 
+.// /// 
+,     . . ://. ./////// 
+.,     . 
+intelligence   intelligence   
+ 
+================

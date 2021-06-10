@@ -1,0 +1,655 @@
+   . 
+      planning 
+ . 
+ [policy] 
+    ? 
+    ? 
+  , ,    
+       
+      
+  .  
+================
+   
+ [policy ]] (]]]]) ]]]-]]] 
+     
+ [policy] 
+ : 
+..// 
+      planning 
+ . ,,,  . ,  ,  . ,  . ,  . ,  ,  ,,  ,  . ,  . ,  . , .  ,  . ,  . ,  . ,  . ,  . ,  . ,  . ,  .  
+ 
+ ,    ,     ,  " ,  , ,  ,   
+    ,    ,  , ,  
+ 
+    ,       perceived_consensus,  , ,  
+ 
+  ,  , " , ,   
+   ,   , , ,   
+  ,   ,  , ,  
+ 
+   ,  , , ,  
+ 
+    ,      ,  , ,  
+ 
+ [] ,   , , ,  
+ 
+      Deadeye_Jackal (),  [] , , ,   
+      ,    ,  , ,  
+ 
+   ,  , , ,   
+ ,    , , ,   
+,   ,   , , ,  
+ 
+  ,    ,   , , ,  
+  
+isolation_effect 
+ history :            
+    
+:   planning  
+    
+              
+     protection_effect            .           planning (),    process                   ,  ﬂ ,           .    [goal]      
+persistence          ,           ﬁ    ,  .            ﬁ     .   ﬁ        perceived_consensus    /  ,                    .           :   
+,    ,  ,     
+,        perceived_vulnerability,         planning process.      , ,   ,                 
+     persistence    ,      ,  protection_effect     ﬁ.
+ 
+  :  ,    ,     ,  ﬁ ,  , ,  , . .: +   ; : +   . 
+ techniques :@. (.. ). 
+&   .   personality. 
+.  
+        personality ,   ,  ﬁ, ,  ,  ,   ,          protection_effect          []. 
+/$ -   &   .   personality. 
+:./.... 
+    :  ,  .       planning.  [policy] (), 
+:./.... 
+================
+   
+ 
+..   ./  [policy ]] (]]]]) ]]].. .]]] 
+          gain   ,        ,        ,           .   intrinsic_rewards    ,              [,],          Dropping_Elephant  personality,  ,                 [].        ,               perception    ()    , ,             ; ()   , , ,   ;  ()              personality  [,].       
+         , ﬂ,          []. 
+ ,                 planning ().      planning                  protection_effect         persistence               , ,    [].  gain,   planning process                   ﬁ  [].   process    , , ,     ,      ,  , ﬁ protection_effect,         , , ,    (. ; []). 
+. .           planning process             planning   process.   ﬁ       perception    .               , ,            . 
+    :  ,  .       planning.  [policy] (), 
+:./.... 
+================
+   
+..   ./  [policy ]] (]]]]) ]]].. .]]] 
+[policy]        mental_calculation   possibility_effect        .   ,              [policy] ()  , ,   , ,     [].       [policy] task  ()        [policy]         planning.     [],   ﬁ    ()       ,      perception   .          planning (.. /)     , ,   ﬁ         . 
+                  planning       .  ,              ,         Deadeye_Jackal [],      Deadeye_Jackal [],  Deadeye_Jackal    [],     [],    [],       [] ,   ,      (   , ://..//// .),   (://.../.),    []. ,         segregating          planning process        .  ,       [authority]  ﬁ   ;  ,       (://.../)       ﬁ.  ,      ,  ﬁ,    ,     (..,             Deadeye_Jackal) [].  gain,    planning     [goal]       ,   ,           planning process. 
+      ,   ,              (. ).               (..       ,     ),            process.   ,        [goal] (..,            Deadeye_Jackal );  ,       ﬁ.   ,           loss     . 
+    [resource]          planning process        [authority] () []         () [].   ,            process   personality   , ,       gain                  .   process       ,             behavior_control-ability    .       perception    ,  ,         planning      intrinsic_rewards        
+ 
+[].    process         ﬁ        planning process          . 
+              , ,      ,               process.         belief     protection_effect   ,  planning       protection_effect         .          , ,              (. ).  [goal]             perceived_consensus     ﬁ personality     ,             .    [goal ],              planning               , ,   . 
+. perceived_consensus 
+..     
+                , ,                 [function]   [].  ﬁ       ,                               ,   [].                 (.., )   (.., )    ( ).         ( .        , ),                    , ,   . 
+          ﬁ        ( ).  ,          [],           ,   ,    ,    ,         situational_circumstance .                            []        []. 
+  ﬁ              ,  ,   ,          ,  .                  (.., [,,]). perceived_uniqueness  perceived_uniqueness  opportunity_for_criminal_acts       ﬁ  
+    :  ,  .       planning.  [policy] (), 
+:./.... 
+================
+  
+        planning . 
+Source   
+     perceived_uniqueness/  opportunity_for_criminal_acts    opportunity_for_criminal_acts      
+    perceived_uniqueness            
+ 
+     
+   
+ []   . 
+[]   . 
+[]   . 
+[]   
+ []  
+[]   
+ 
+   . 
+[]  []   . 
+[] 
+   
+     
+    
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+     
+     
+ 
+================
+   
+..   ./  [policy ]] (]]]]) ]]].. .]]] 
+   perceived_vulnerability   ,  ,        ( ).    participant_modeling             []. ,        , ,     perception         ( ).                           .      ,   protection_effect                 .    process, ,                       . 
+..      planning 
+          ( ),    , ,            [goal]                 .      perceived_consensus     ,            ( )—maintain   ()   , ()    , ()  ,  () .          ﬁ                      .        ,         [goal]           protection_effect     persistence     .      ,    mental_calculation ()   () perceived_vulnerability,             planning     protection_effect              .      
+  
+        . 
+ 
+            ,       ﬁ perceived_consensus   ()   ﬁ      process; ()      planning process;  ()         (. ).  possibility_effect          ,       ,               . 
+... persistence    
+    , ,    (..,       participant_modeling   )         [].  ,     ,          [,],        [,],   persistence      [,],      [,].                  ,       participant_modeling            [,],  focus       ﬁ-   perception   impulsive_effect         . 
+       ( )   ( )  []        [Organization]     ,   ,     .                ,          .      ﬁ-   ,    ,  ,    protection_effect   [function] []   ,      []. 
+          .                 
+    [function] ()     
+persistence       
+ 
+  ,   
+ 
+persistence    
+ 
+   (  )   
+     
+           situational_circumstance  
+      
+personality  protection_effect /    
+     
+  
+persistence        physical_quality , ,   
+ 
+             
+      
+persistence     
+ 
+     
+      
+ 
+  (  ) 
+ / 
+    :  ,  .       planning.  [policy] (), 
+:./.... 
+================
+   
+ 
+..   ./  [policy ]] (]]]]) ]]].. .]]] 
+   /         . 
+            [],          appraisal       .         combining     [],     [],        [].         [],     ,   ﬁ    personality     . 
+                       [,].                 [].               loss         loss      [],     [,].   certainty_effect                    []. 
+ loss  ,   ,   loss             [].       loss       [],                             []. loss      ,    situational_circumstance ,           ,  ,            [],   [,],     [].     ,                   . 
+... persistence     
+           ,                     .              [,],      []  intrinsic_rewards  [],     ,   situational_circumstance   [].                   .   ﬂ                  [,].                  []. 
+,      ,    .  ,                      ,                  [,].         , ,  
+       segregating   .                  [,],          ﬁ            [,]. 
+  ,           [,]. ,                      [].    (.., )     combining   ,            []     planning  (.., []).  persistence  syllogistic_rules     , ,        ﬁ , ,      combining  possibility_effect  ,        (..,  ),                   [,]. gain,                     []. 
+... persistence   
+                   [,],                       [function] [].         ,  ﬂ              .        ,  ,   ,          segregating         .              []. 
+            [,].  ,    ,                  ,       persistence [,].    [function]           [,]. Deadeye_Jackal ,  ,                 Deadeye_Jackal      personality  constraint []. 
+                           [].              personality ,   ,  ,  ,  ,   ,         [].     ,         ,  ,  ,    [].              [,,],               role  participant_modeling   ,   ,        []. 
+    :  ,  .       planning.  [policy] (), 
+:./.... 
+================
+   
+..   ./  [policy ]] (]]]]) ]]].. .]]] 
+            .   ,   ,   ,  , ,    ﬁ     ,            ﬂ         [,].      segregating           [].                 ,    ﬁ       [].   ,                      [,]. ,   role               loss     (.. [,]).     participant_modeling    role     []          ﬁ  [].                  ,     ﬁ  (, ..)  ﬁ    ( , ://../),    ,  ,             planning process    . 
+      ,  ,  ,          process.          ,            ﬁ    .           ,       ,  ,     . 
+...  
+              .         (  ), ,   (..,   )    .  personality           (..,  )                 [capability]   [].    ,              [].           possibility_effect       ,     segregating     ﬁ     (.. [])          [,,].   appraisal  physical_quality                      live_modeling. ,  ,        () [modeling]                               (  .,  ). 
+            history         [].                    
+ 
+.       ,       source ,                    ( []  ). 
+                  .          %              [].  gain,       planning    situational_circumstance             focus    [].         , ,           ,      .             segregating      . 
+ ﬂ                         [].       gain   vicarious_experience  [,],     [],      []    . personality    , ,             , ,      []    personality    (..,  )           [].                  []. 
+..      perceived_vulnerability 
+           ,   ,    ,      ﬂ                   (..,    ; . ).       techniques                      . 
+...  
+ ,     ,     , , ,                             (. ).         ,             .  ,                 ;                    ;                    [].               .  ,   process      ,                       .   
+    :  ,  .       planning.  [policy] (), 
+:./.... 
+================
+   
+ 
+..   ./  [policy ]] (]]]]) ]]].. .]]] 
+    extrinsic_rewards  appraisal        . 
+       ,     techniques      . ,             techniques      ,    ,    ,   ,   ,            . 
+... perceived_vulnerability 
+        personality         ,   perceived_vulnerability        . perceived_vulnerability                       segregating.  perceived_vulnerability                     []    perceived_vulnerability        []. ,    ,     situational_circumstance     perceived_vulnerability      .  ,         , ,  ,  ﬁ                  .   perceived_vulnerability           perception   planning    [],            [activity]        impact  loss    [].     perceived_vulnerability,        (   , ,     )               [policy]  situational_circumstance  []          (. ) []. , perceived_vulnerability      ,  [],                  []. 
+.  
+..       
+                  ,     ,       .        combining           , ,    (. ).     ,      combining  role ()           intrinsic_rewards    .                 ,     , ,       . , ﬁ        judging                 planning process   . 
+        planning process             ,   intrinsic_rewards   ,      .   , ,                [].  ﬁ     ,             internalization  fear_arousal (..,             )   belief      physical_quality  ,               . 
+..             
+              .     planning perception,  ﬁ            perceived_vulnerability      ,      ,    perceived_vulnerability,    ﬂ           (. ).   combining       intrinsic_rewards       combining    .   planning ,     ,  ,    : ()  ﬁ     ; ()  appraisal   , ,           ;  ()      .                       . 
+   ﬁ                    process           : ()    /  , ,         ; ()  combining       persistence    /       ; ()        protection_effect      /  , ,  ;  ()        (..,       ; . ).                   . 
+ personality   planning   process,          ,        perception   . ,           planning     [activity]            . ,                  .    gain                                       .    focus  ,           ,      
+    :  ,  .       planning.  [policy] (), 
+:./.... 
+================
+   
+..   ./  [policy ]] (]]]]) ]]].. .]]] 
+ planning                [policy]  (. ). 
+.  
+         ,       .       intrinsic_rewards    appraisal                        .   [goal]      isolation_effect               , , ,   ,                . 
+ planning        planning    .    combining       (..,       ;    , ../        , ://.../).                                   [,].  impact    ,    ,             [].    perceived_vulnerability   impact           perceived_vulnerability   impact             .     protection_effect ,    []   (://../),        ﬁ     simplifying ()         , ()    ﬂ        ,  ()           . ,  ,         planning                 planning        process. personality                    . 
+  ,        . ,          process.       ,  [goal]             . ,          : ()    perceived_responsibility, personality  ,  ,  ,     ,   ; ()        []; ()         mental_calculation         . ,           [policy ], ,             [].   ,   ﬁ      , [policy ],   ;   , mental_calculation -         (..,  []         [policy ], ,           []     
+ 
+     ).  gain,       personality   ﬁ             ﬁ     process [,]                       []. 
+           combining          planning  ( ), techniques               ,         .  gain,                 /     .         persistence  ,      ,  gain   process     ﬁ             ,     . 
+ 
+    ..           . ...             situational_circumstance [policy]   protection_effect.      ()          ,    ,        (),                 . 
+ 
+[] .   extrinsic_rewards;   :    
+ Deadeye_Jackal .     . ,  :  ; . [] .  extrinsic_rewards   [policy ];       
+ﬁ .  . ,  : , . 
+[]  ,  ,  ,  éé,  ,  ,  . 
+     impact   .  
+;():. 
+[] .   appraisal.     
+: perceived_consensus. ,  :  ; . 
+[]  ,  ,  ,  .    
+ .  ;():. 
+[]  ,  ,  ,  ,  ,  ,  . 
+ : ﬁ       
+.    ;:. 
+[]  ,  ,  ,  ,  ,  ,  . 
+ —resolving     .  
+;():. 
+[]  ,  ,  ,  .     
+  .  ;:. 
+[]  ,  , .     . 
+,  :  ; . 
+[]  ,  .       
+     planning.  [policy] 
+;():. 
+[]  ,  .       process  
+    planning.  [policy] 
+;():. 
+[]  ,  ,  ,  ..   
+   : ﬁ,   . 
+ ;():. 
+[]  éé,  ,  ,  ,  .    
+  .      
+;():. 
+[]  ,  ,  ,  .   
+       
+. &   ;():. 
+    :  ,  .       planning.  [policy] (), 
+:./.... 
+================
+   
+ 
+..   ./  [policy ]] (]]]]) ]]].. .]]] 
+[]  .      planning   
+ Deadeye_Jackal  .  [policy] ;(): 
+. 
+[]  ,  .   planning :   perception 
+  . , :  
+ extrinsic_rewards      ; . [] .       [policy] task .  
+ﬁ   , . . . 
+[]  ,  ,  ,  ,  .   
+      Deadeye_Jackal.     
+          
+       .  [policy] 
+;:. 
+[]  ,  ,  ,  .  role    
+planning  Deadeye_Jackal  :   .  [policy] 
+;():. 
+[]  .          Deadeye_Jackal  
+planning    . &   
+;():. 
+[]  ,  ,  ,  ,  ,  .   
+     :    
+ belief  .      
+;():. 
+[]  ,  ,  ,  .   planning    . 
+ [policy] ;():. 
+[]  .      , mental_calculation    
+planning       .  
+[policy] ;():. 
+[]  ,  ,  ,  .    
+ .  , :     
+   , [division]   ;  
+ . 
+[]  ,  ,  ,  ,  ,  .  
+       Deadeye_Jackal.  
+    :. 
+[] . ﬁ     ﬁ .  
+. . . . . . ., . 
+[]  ,  .   , . :  ,  
+, .     . ,  : 
+ ; . . . 
+[]  ,  ,  ,  ,  .  
+     .  ;(): 
+. 
+[]  .         . 
+      ;():. 
+[]  ,  ,  ,  ,  ,  ,  . 
+        . 
+      ;():. 
+[]  ,  ,  ,  ,  ,  ,  . 
+   loss    .  
+;():. 
+[]  ,  ,  . personality     
+    .     
+   ;:. 
+[] .       .    
+  [authority ],  , . 
+[]  ,  ,  ,  ,  ,  , 
+ .    mental_calculation     . 
+  ;():. 
+[]  ,  ,  ,  ,  ,  , 
+ .  perception       . 
+ ;():. 
+[] .        
+ﬁ       . 
+/://.../, . 
+[]  ,  ,  .     
+:  .     
+        ;(): 
+. 
+[]  ,  .  . :  ,  , . 
+    . ,  :  
+; . . . 
+[]  ,  ,  .   [action] :   
+   , ,  .  
+;():. 
+[]  .,  ,  ,  .     
+perceived_vulnerability.  ;():. 
+[]  ,  ,  .  ,    
+     .   experiential_awareness  
+   ;():. 
+[]  ,  ,  .      vicarious_experience 
+     .   ;(): 
+. 
+[]  ,  ,  ,  ,  .   
+  loss        .  
+;():. 
+[]  ,  .    :     
+  .         
+    ;:. 
+[]  ,  .        
+:           . 
+   ;:. 
+[]  ,  .    .    
+   ;:. 
+[]  .     :   
+   .    ;: 
+. 
+[]  ,  ,  .       
+       .   
+ ;:. 
+[]  .       
+ ,    .     
+:    .  ;(): 
+. 
+[]  ,  .       appraisal  
+   .  ;():. 
+[]  ,  .      
+ fear_arousal      ﬁ .   
+experiential_awareness     ;():. 
+[]  ,  ,  ,  ,  .  
+   .   ;():. []  ,  .   perception     
+ .  ;():. 
+[]  ,  .  :      
+.   ;():. 
+[]  .    .   
+;():. 
+[]  ,  .       
+.   ;():. 
+[]  ..   ?       [function]  
+      experiential_awareness   
+  ;():. 
+[]  ,  ,  ,  ,  ,  ,  . 
+ , ,     . 
+       ;:. []  .,  ,  . segregating     
+ :    [function]   .  
+ ;():. 
+[]  .,  ,  .      
+ .   ;():. 
+[]  ,  .       
+     .   
+ ;():. 
+[]  ,  ,  ,  .     loss, 
+,       . 
+  ;():. 
+[]  ,  ,  ,  ,  ,  ,  . 
+loss, ,   possibility_effect     . 
+ ;():. 
+[]  ,  ,  ,  ,  ,  , 
+ .  ﬁ       . 
+ ;():. 
+[]  ,  ,  .  perceived_vulnerability   
+.    ;():. 
+[]  ,  ,  .    
+;():. 
+[]  . , ,      
+ .  ;():. 
+[]  ,  ,   ,  ,  ,  ,  . 
+      ﬁ :   
+   ?      
+      ;():. []  ,  . Deadeye_Jackal  role    
+.  ;():. 
+[]  ,  .  , ,    
+ .   ;():. 
+[]  ,   .       
+ ﬁ.     ;():. 
+[]  ,  ,  ,  .    
+ :    ﬂ,  ( 
+),   ( ) .    
+;():. 
+[]  ,  ,  ,  ,  ,  , 
+ . thinking     :   
+        .  
+ :. 
+[]  ,  ,  .       
+:    .    
+ ;:. 
+[]  .   :      
+     . situational_circumstance  
+ ;():. 
+    :  ,  .       planning.  [policy] (), 
+:./.... 
+================
+   
+..   ./  [policy ]] (]]]]) ]]].. .]]] 
+[]  .      ﬁ   
+ .    ;():. []  ,  .       
+ .   ;():. 
+[]  ,  ,  ,  ,  ,  ,  . 
+ ﬁ, ,       
+  ﬁ  .  ;():. []  ,  ,  .,  ,  ,  , 
+ .       ,  ,  
+ .   ;():. 
+[]  ,  ,  ,  ,  ,  ,  .  
+  :       .  
+  ;:. 
+[]  .  ﬂ        
+ .    ;():. []  ,  ,  ,  ,  ,  ,  . 
+       
+    .      
+       ;():. []  ,  ,  ,  ,  .,  , 
+ .        ﬁ 
+    .       
+      ;():. []  ,  .      
+      ,  , 
+   .    ;: 
+. 
+[]  ,  ,  .    behavior   
+ Deadeye_Jackal  ( )    
+       .    
+;(). 
+[]  .     .  ;:. []  ,  ,  ,  .     
+     appraisal  .  
+ situational_circumstance  ;():. 
+[]  ,  ,  ,  ,  ,  ,  . 
+  : , ,   . 
+situational_circumstance  ;():. 
+[]  ,  ,  ,  ,  ,  .. 
+   :      ﬁ 
+ .   ;():. 
+[]  ,  ,  ,  .     
+  techniques     .     
+  ;():. 
+[]  .        . 
+ ;():. 
+[]  ,  .       
+  personality  .       
+      ;():. []  .  ,     
+   .     
+;():. 
+[]  . Deadeye_Jackal :       
+. :  ,  , .  . 
+, ,  . , :   ; 
+. . . 
+[]  ,  ,  ,  , combining ,  ,  . 
+     .  ;():. []  ,  ,  ,  .   , 
+ [policy ], ,  .  ;(): 
+. 
+[]  ,  .     : 
+       .   
+;():. 
+[]  .      .   
+;():. 
+[]  ,  ,  ,  ,  ,  , 
+ .         . 
+  ;():. 
+[]  ,  ,  ,  .     
+ .   &  ;():. []  .   personality      
+possibility_effect         , 
+. :  , .      
+   . , , :  ; 
+. 
+[]  ,  .  ﬁ     
+ . :  ,  ,  , .  
+ . , :  ; . 
+[]  ,  ,  ,  ,  ,  ,  . 
+       
+ .  ;():. 
+[]  ,  ,  ,  ,  ,  ,  . 
+ﬁ  perceived_vulnerability :   appraisal  ,    
+  .   ﬁ  ;(): 
+. 
+ 
+[]  ,  ,  ,  ,  ,  , 
+ .   perceived_vulnerability   .  ;(): 
+. 
+[]  ,  ,  ,  ,  ,  , 
+ .  loss        
+.           
+   ;():. 
+[]  ,  ,  ,  .      
+   :  .   ;():. []  ,  ,  ,   .  :  
+   .   ;():. []  ,  ,  ,  ,  ,  . 
+        
+:      perception. 
+  ;():. 
+[]  .      : 
+   . gain   
+;():. 
+[]  ,  ,  ,  ,  ,  
+ ,  .      :   
+ﬁ   . situational_circumstance  
+;():. 
+[]  ,  .   loss   ﬁ  
+.  ;():. 
+[]  ,  ,  .     
+  .   ;():. 
+[]  ,  ,  ,  ,  ,  .  
+     ( )    ﬁ 
+.   ;():. 
+[]  .       . 
+  ;():. 
+[]  ,  ,  , extrinsic_rewards ,  ,   ,  . 
+        
+  ﬁ: history,   .   : 
+. 
+[]  ,  .       
+.      ;:. 
+[]  ,  ,  ,  .   
+   .    ;: 
+. 
+[]  ,  .       
+:   .  ;():. []  ,  ,  .       
+    .   ;(): 
+. 
+[]  ,  ,  ,  .   
+ ? ;():. 
+[]  .     ﬁ:    
+  .     ,   
+. 
+[]  ,  ,  ,  .     
+       ﬁ.  ;(): 
+. 
+[]  ,  .       
+ .          
+   ;():. 
+[]  , extrinsic_rewards , .  . , : 
+  ; . 
+[]  ,  ,  .     
+    .     
+        -   
+;():. 
+[]  ,  ,  .       
+  :       .  
+     ;:. 
+[]  ,  ,  ,  ,  ,  .  
+         
+ .   ;():. 
+[]  ,  .         
+    .  ;(): 
+. 
+[]  ,  ,  ,  .   
+,       
+.  ;():. 
+[]  ,  ,  ,  ,  ,  ,  . 
+,         
+   .   :. 
+[]  ,  .  impact       
+.     ;():. 
+[]  .    :     
+planning  . ,  :  ; . 
+[]  ,  ,  .       
+    .   ;():. []  ,  ,  ,  éé. mental_calculation    
+perceived_vulnerability       . 
+  ;():. 
+    :  ,  .       planning.  [policy] (), 
+:./.... 
+================
+   
+ 
+..   ./  [policy ]] (]]]]) ]]].. .]]] 
+[]  .   ﬁ :    
+ perception    . situational_circumstance  
+ ;():. 
+[] .        ﬁ. 
+     ﬁ . , , . []  ,  .    ﬁ .    
+     ;:. 
+[]  ,  .   perception    : 
+   .  situational_circumstance 
+  ;():. 
+[]  ,  éé,  ,  ,  ,  ,  . 
+         
+.   ;:. 
+[]  ,  ,  ,  ,  ,  ,  . 
+  :        Deadeye_Jackal - 
+ . situational_circumstance modeling&  ;():. []  ,  .  ﬁ participant_modeling    :  
+        ﬁ   
+ .    ,  . 
+[]  ,  ,  ,  , 
+ ,  .     
+  . :  ,  , .  
+   . ,  :  ; . . 
+. 
+[]  ,  ,  ,  ,  ,  , 
+ .        ﬁ, , ,  
+?   ;():. 
+[]  ,  ,  ,  .    protection_effect  
+ perception    .    
+;:. 
+[]  ,  ,  ,  ,  ,  .   
+         Deadeye_Jackal. 
+ ;:. 
+[] .     , learning     
+. , :     ; . 
+[]  ,  ,  .      
+focus :      .  
+ ;:. 
+    :  ,  .       planning.  [policy] (), 
+:./.... 
+================

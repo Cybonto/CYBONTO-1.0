@@ -1,0 +1,391 @@
+ /    intelligence    () 
+ , ,  , ,  () 
+           
+ ,  ,  ,      
+   ,           .    techniques      ,       (),      ,       ,     planning   ,        .           ,       .    ,       impulsive_effect       . 
+.  
+impulsive_effect ,     ,                   [,,,].      ,       : , ,  ,           [,,,]. 
+     ,            impulsive_effect       ,        ,  ,     [,,,,,].        ,            , ,   [],       ,       -tilt     persistence personality    . 
+  ,         impulsive_effect   , ,    . ,      :  ,      ,      ().           simplifying     ,     ,     ,                ,       
+       ,  , , ,     ,  , , . ( : @..). 
+ ,  ,     imagination  ()   .,  ., , . 
+       ,  , , ,     ,  , , ,       ,  ,   , , ,       ,  , , . 
+                 . 
+//$. ©2020  
+ 
+       ,             . 
+  
+       gain   perception   .  ,       personality.            ,    []     [,,],         .  ,     ()     (),    personality task   perception.   []    [,]      ,           ,       task      [],    .      ,   ()     [,], combining     []         [],   []. ,              []. 
+  planning       impulsive_effect :                         .     (, ,   )   , []       ,      .            .           [, , ].                    []. 
+      ,       . [,,,]    ,         .             belief   .      ,            [,,].         ,            []:                     . 
+  
+             ,         ,  ,    .    : 
+================
+.        
+   ,     
+[,],   ,   
+  [,]; 
+.       
+     ,  
+       
+  [,,,]; 
+.      planning 
+       [],   
+/ ,     
+ [].
+ 
+.     
+.     
+           
+ .       . 
+  .          .       , 
+   ,  , ,       .  syllogistic_rules 
+ ,   planning.             . ,       : 
+ .                    -tilt,       ,      []   ,     .       
+          . 
+       .                        . 
+(,, )     ,(,, )     ,(, ) 
+  , ,   .  
+         . 
+            , 
+       
+ .      ,  belief              [],     . ,       (  )      [,],           . 
+  .  satisfaction_of_needs   belief   ,        ,                 . 
+   .       
+    ()  (). 
+(,,)(,, )          =  
+
+ () 
+ 
+−−sin         
+ =−          () 
+ 
+   
+ . (), (, )    ,           is   . 
+       
+ ,    ,  , .      (). 
+ mental_calculation              belief    belief   .              . 
+.   
+  ,     intentionality      :)         belief  .    ,            ,    physical_quality    physical_quality   ; )           . 
+      : 
+ .                    .
+     
+ 
+ 
+==
+ () 
+ 
+       .             . 
+  ()~ (),             ,,  ,           . 
+.    
+          . ,        belief       .         ,  =(,,,,,, )      , (, ) 
+ 
+================
+ .       +  
+:{},{},{ }             = − +
+  ()   () 
+. 
+:     ==++.{},{},{ }        +  
+  (+)  (+) 
+       ,,,,{   ()} tm 
+= − +1 
+ 
+   , appraisal      
+ +({}    
++
+  () 
+) 
+      +   (  {} 
++ 
+=  
+) 
+/*   */ 
+ perceived_responsibility     
+ =    
+ . syllogistic_rules        
+  
+ 
++  
+   
++ 
+ 
+. /*       combining    */ 
++ , 
+        ,   
+ ++ 
+ 
+ ,   {} 
+   physical_quality       
+    { }+,   {} 
+    [division]  . 
+  
+        .  
+  
+      ,  
+/*            
+        
+*/ 
+    .       [], 
+ =  +   
+   ,       + .    
+   {} ( ) 
+ {}     , {}  , 
+ k 
+  
+{}          , 
+  
+ ()    ()       /*     */ 
+     ,        = +  
+ ,        , /*      ,  */ 
+       ,  Dm t 
+ #= 
+= − +  
+         −+    . 
+isolation_effect 
+,         
+   
+   /      
+      
+ 
+.        ,        
+   process. 
+  
+ 
++  
+    
+ 
+ 
+. 
+ ++ 
+ 
+ ,   {} 
++ , 
+      ,    
+    { }+,   {} 
+          
+  
+.     (),  ()   
+   ,        
+     .    
+          combining     
+ (),   belief     
+# 
+             
+ 
+comply_effect         ,    
+/*              */ 
+ (),         
+     
+belief. ,  ,        
+++  
+            , 
+  + 
+        /        { }+/*   */ 
+     . 
+  
+    ,     
+  
+          
+ ( ()) { }    
+          
++  
+.    ,       
+  
+      ,       
+ 
+================
+ .         .                    . ()     task. ()     task.       belief      .            ,           .         /         /   . 
+          (..           ),    [experience] : )   ,         physical_quality        :. )               :.   )  ),         physical_quality          . 
+.  planning 
+ planning       
+         ,     .)             ,             .   )  )     ,        ,        . 
+  planning .  ,                ,                 : 
+(, )+((,)(, ))2      12d             + () ,, 
+    .           
+  ,       ,         .  planning          . 
+  planning .     appraisal           .  (, )  intentionality                  +/ . generalizing       ()  (). 
+  ˆ 
+− 
+  + 
+=+ 
+ˆ 
+    + + +=+
+ () 
+  
+       =(,,,,,, )       
+   [], ˆ 
+ 
+   [],  ˆ 
+− 
+ 
+   [].  
+ 
+  appraisal,  
+ 
+  
+ 
+    ,         (),       . 
+   
+ , 
+                   
+ 
+ , 
+,        ().   
+  belief        belief, 
+ 
+ 
+      ().  
+ 
+  
+ 
+  
+(, )    . 
+         ,     ,        (),               /           .          ,     .            ,   ()       (,, )  at  + .         ,     (       )   . 
+.   
+         .         .   task,      ,          (). 
+ 
+           ()()( )( )=+ −+ () 
+= 
+ ={, }, ()      .      
+1      
+ 
+        
+1       
+  
+
+ 
+0       
+() 
+. 
+= 
+ 
+ 
+=  
+0       
+ 
+ 
+0       
+.  
+ 
+ 
+ ,  mental_calculation      
+  .  physical_quality     . 
+                                        
+ ,             ,         (   )      : )         
+.   
+ .              .     
+ 
+================
+    ,  ,             .   ,     .   = ,        intentionality. ,         intentionality. 
+ .       ,      ,  ,  ,      [activity ],      .   ,       ,      ,       ,   personality         ,   (). 
+       () ()()( )=+ + () 
+  
+ 
+  belief    -xxx     ,          ,  i   . 
+      .              ()     =(, )     . 
+    +   +  =(()(,)) () 
+     ,         ,    ,     . ,     ()         . 
+.     
+       .    =., =  ,         [,] ×[,].         ...         .      /        . .          ..        belief    .,       .        ,       .                 ,    belief       (./, ./)  .                  (). ()         .               .         ,   98..        ,     :  
+ 
+=.   
+ 
+=..  ()   ()              .               .  ()            .     
+       .           (). 
+.     
+    task,    .          ().       ().          (),    ()               .   ,  physical_quality      = ., = ,   =− ..      .   , ,         .        ,     .                   ()   ().             ,         .  ()   belief       .                    . 
+.  
+  ,          intelligence    ,              ,      . 
+.   
+ ,           .         .       . .   ,             .                  .        . 
+  task,                .            ,                     . 
+.   
+ ,        .        .         .           .    task,              ,    .                        ,       .          ,          .         ,              . 
+.  impulsive_effect   
+   ,       
+           belief,      .  
+ 
+================
+ .         task. ()          task.       (   ).           . ()             .   belief    (./ ,./ ).     ()  ()   belief            .    (), (),  ()          (). ()     . ()     . ()     . ()             . 
+ .         task. ()           task.                  .        (). ()         . ()         . ()     . 
+ 
+================
+ .            .        . .              .       .            ,           . 
+ .       .       .                      .         . 
+         ,    ,         .          .              .       : 
+()  .            ,     , ,, .             ,            . 
+()   .          . 
+()   .          . 
+ .        . 
+     : 
+ 
+================
+)   belief    . 
+)       
+ belief      . 
+)        
+    . 
+)         
+      ,   
+         
+ . 
+.  
+           .           ,         ,         .                         .      personality     belief    .    ,      impulsive_effect   .   ,          task  .                         personality     . 
+ 
+[] , . "    ,"  : 
+  ,  , . . []  ,  ,   ,  , "    
+,"     , , ():. []  .,  ., , ã .,  . 
+"     ,"  
+ perception -   .  . 
+[]  .,  .,  ., "     
+   ,",  , . 
+[]  .,  .   , " 
+    ,"    
+        
+ (). , . 
+[]  .,  .,  .,   ., "   
+         
+,"       
+   ()  . 
+[]  , "    impulsive_effect 
+,".    . . 
+[]  .,  .   , "     personality 
+  ,"   . / 
+   , . 
+[]  .,  .,  .,  . "    
+    ,"   . 
+[]  ..,  ..,   ., "  : 
+   impulsive_effect     ," 
+          
+  intrinsic_rewards, . 
+[] , . . "  perception      
+,"    , , ():. 
+[]  ., ...,  .,  .,   , 
+"   :    
+   ,"   , . []  .,  .,  ,  , "    
+   ."   , . []  ,  ,  , "      
+ ."   . 
+[]  .,   , "impulsive_effect     
+ ,"  :    . . 
+[]  ,   , "personality       
+ ,"     ,  , 
+():::. 
+[]  .,  .,  .,  . ":    
+,"   perception -  .  . 
+[]  .,  .,  .,  . "   : 
+,   ,"   . 
+[]  .   , ": , , ,"  
+ . 
+[]  .   , ":   gain." 
+  . 
+[]  ,  ,   ,  . "  
+ planning   ,"    , , 
+():. 
+[]  .   ., "     
+   ,"  .   . 
+. 
+[]  ,  ,   . "    
+        ,"  
+   , , ():. 
+ 
+================

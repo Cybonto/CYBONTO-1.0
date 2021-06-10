@@ -1,0 +1,891 @@
+ 
+ 
+      : [modeling]   
+  
+ 
+,   
+,*     
+ 
+ 
+* 
+   ,    ,  , ,       ,     ,  , ,  
+: @... 
+:   ; :   ; :   
+ 
+isolation_effect :       ﬁ        .       perception        ﬁ.                   .               .          ,        ,   perceived_vulnerability,   ,   intrinsic_rewards perceived_vulnerability,         .               combining     intrinsic_rewards perceived_vulnerability  .          ,  perceived_vulnerability     ,    /( +)  combining .                 ﬁ       . ,  ﬁ      perception                     . 
+: ;  ;  ;  
+.  
+              . ,     gain   perceived_vulnerability   .         loss      loss        $.   $ ,  [].    ,        (),       (),         (),      ﬁ    . ,   ﬁ  ﬁ  gain      .    ,     protection_effect     self-efficacy       [,]. ,            belief     simplifying possibility_effect        situational_circumstance ,     perceived_vulnerability    , .   []. 
+ ﬁ   combining    participant_modeling     ﬁ    [,],        ﬁ 
+ , , ; :./ ..// 
+================
+ , ,  
+   
+    .    ,  ﬁ    combining       intrinsic_rewards   ,        opportunity_for_criminal_acts        ,               , ..,    ()     (),   personality  [,].  , ,     Cleaver,                     [].              ,    ,                     .    ,     ﬁ      extrinsic_rewards      ,                  .  ,                ,   vicarious_experience      . ,    ,    loss  ﬁ   . 
+                ,    ,      .                , perceived_responsibility      ,      ﬁ $,   ,    $    [].               ,             . ,         ,     [],     [],   ﬁ [],        . ,                   .    vicarious_experience        ﬁ   ,               ﬁ  .          ,          .  gain,              ,                . 
+                  ﬁ [,,].       segregating          loss         [],      segregating            , ,   ,      .   ﬁ   ,                        .  vicarious_experience                   .  gain,  ﬂ                .       ﬁ:       intrinsic_rewards perceived_vulnerability   ,  ﬁ       .          perceived_vulnerability     ,    /( +)   combining ,     intrinsic_rewards perceived_vulnerability.      certainty_effect      ,                . 
+        .           personality      .   ,   
+================
+ , ,  
+   
+                        . ,             .       mental_calculation  impact    .         . 
+.   
+  ,                 []. 
+.. personality   
+       [Organization]  ﬁ   fear_arousal   ﬁ  ,       .              belief.        mental_calculation          .       ""            perceived_vulnerability    [].  "" [function]     (        )* (possibility_effect ) (   ),      focus     [].               perceived_vulnerability .  ,       .  ,  []         ,            /  possibility_effect loss,      ﬁ   focus     [].   . []   syllogistic_rules   vulnerabilities       ﬁ. ,    possibility_effect                    []. 
+        perception  simplifying      intelligence ,   ﬁ  .  belief   ﬁ   focus      ﬁ  ,   ﬁ                 []. ,   ,   [function]      ,       belief     techniques  .  ,    []   belief               .    belief   ,         [Organization]       ,            [].        [Organization]                   . 
+..    
+    ,       ﬁ       .      ﬁ         () ,  ﬁ     [],     focus      ﬁ          " "  ﬁ  ,     . ,           [,,,].  , , ,   []      perceived_vulnerability    ,    (),  perceived_vulnerability   () 
+================
+ , ,  
+   
+    ﬁ,             perceived_vulnerability ,     .   . []          vulnerabilities   ,            ﬁ.        focus  impact       ﬁ    [].            ﬁ,      ﬁ    . ,   ﬁ       . ,  ﬁ    ﬁ      .  ,           intelligence   [],         .        ,         . ,        ﬁ      mental_calculation      segregating  . 
+..     
+         ﬁ .         focus         personality ﬁ.  , , ,   []     process ()            ﬁ        .             []  focus       .    []            ,              ,  ﬁ   . 
+          ﬁ       ﬁ ,        ﬁ  opportunity_for_criminal_acts.              ﬁ   ﬁ. ,  techniques   ,               segregating         . 
+.   
+ mental_calculation                ,   .    ,            ﬂ  ﬁ     .       combining     .            . 
+..     
+ perceived_vulnerability           focus      . [].          ,   , ﬁ ,  , . [exposure]       ﬁs             ,   personality   loss     .  ,     ,          .  ,  ,     .  loss  combining     ,           ,  < /(+ )          . 
+================
+ , ,  
+   
+ .   . 
+   
+    
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+[function]  
+ 
+   >   intrinsic_rewards perceived_vulnerability < <  combining   = +    perceived_vulnerability (,)          perceived_vulnerability < <   loss  combining  >       ( +)<  ﬁ evaluating        
+         
+    
+combining loss [function]     combining loss [function]     
+    
+..   
+    ,  ﬁ               .                 , ,  Phishing , .    perceived_vulnerability       [,,]     (,),   intentionality  intrinsic_rewards perceived_vulnerability   combining,    perceived_vulnerability        .  intrinsic_rewards perceived_vulnerability    extrinsic_rewards perceived_vulnerability      ,                  [].        ,    opportunity_for_criminal_acts         ,               . , < < .               ,     .
+ !"#$ 
+%&
+ !"#$ 
+%& 
+  
+ !"#$ 
+%& 
+   
+( 
+perceived_vulnerability 
+ !"#$ 
+%& 
+... 
+ 
+(  
+ 
+ (
+ !"#$ 
+%& 
+   
+ .    . 
+        ,      , ﬁ,   ,   , .                , ,  = + .   combining  
+================
+ , ,  
+   
+   .    perceived_vulnerability [function]     [,,], 
+(,)= +, () 
+    (  )      .           perceived_vulnerability.  gain     simplifying   perceived_vulnerability        (¶p/¶Ki< , ¶2p/¶Ki2,  ). ﬁ,                  ﬁ     . ,      ,  impact       perceived_vulnerability         .    ﬁ      ,    perceived_vulnerability   intentionality   intrinsic_rewards perceived_vulnerability, .., (, )= . 
+.. vicarious_experience  
+           ,   vicarious_experience     . vicarious_experience      ﬁ   ;        isolation_effect          .  ,      ,     ﬁ      perceived_vulnerability       .     perceived_vulnerability   vicarious_experience       (< < )  intentionality      intrinsic_rewards  [empowerment]    .   ﬁ  simplifying     perceived_vulnerability,      perceived_vulnerability. 
+        combining       perceived_vulnerability   .           perceived_vulnerability     , . ,   perceived_vulnerability      ( )( )       vicarious_experience    .  ,    ,      ,    loss  ( ( )( )).              protection_effect. ,  situational_circumstance  perceived_vulnerability      ( ) ( )
+  
+( ).  loss           . ,  combining  loss     
+= (
+ (
+ )(
+ ))+ (
+ )(
+ )
+ (
+ )+ + . () 
+.      
+      ,   = ,  = ,.. .,.  =    ()  (),   
+ ()= ( ( ( ))( ()))+ ()( )( ())
+ (
+ ( ))+ . () 
+( 
+ .  
+ )( ) +/ 
+( )( ) + 
+    ﬁ      perceived_uniqueness   . ,  > ( )/((  +) )  <  
+( )( ) +/,            
+( )( ) + 
+ ﬁ. 
+. ,              loss [function]  ().       loss [function]       ,         ﬁ-order   : 
+================
+ , ,  
+¶C() ¶K 
+=
+ 
+
+ + 
+
+ 
+ +( 
+()@ 
++ (
+ ) + 
+  
+ ) (
+  )  + (
+ +)+
+ 
+ 
+= , +  +  + 
+() 
+
+ 
+
+ 
+ intentionality   :
+ 
+()= +( ) (
+ 
++ ( ) +
+ + 
+ 
+()<     [,/ ].     ﬁ-order 
+ )
+ + 
+ 
+
+ + (
+ +)+
+ +  += . 
+() 
+ ﬁ       loss [function ],  : 
+ 
+¶R() 
+= 
+@ 
+(( ) ( ) ¶Kb
+ 
++ (( )
+ ) (
+ )++ (
+ 
+ )++  (
+ +)+
+ 
+(). ()
+ )+   
++ 
+ judging    (),        ( 
+ (),   
+( 
++)+ 
+ 
+
+ 
++ 
+= 
+(( 
+(( ) ( 
+  
++
+ (
+ +)+ 
+= 
+((
+ +)+ 
+ +. 
+ ) )++ ( )+ 
+ ) )++  
+()
+ +( ) + 
+ )++ 
+. () 
+) ( ) 
+              , , ,  syllogistic_rules    perceived_vulnerability     
+ 
++< ( 
++)+. () 
+,  ()  (),   
+ 
+¶R() 
+< 
+@ 
+(( ) ( ) ) ( ¶Kb
+ 
++ (( ) )++ (
+ 
+= ()+  + ( )
+ )++  + 
+
+ 
+ 
+()
+ )+   
++
+ ( +) ++ (  +)+ < , 
+() 
+   ()  .     () ,    ,  ,  combining loss [function]          [,/ ]. ,              (   ). 
+ : ¶C ()/¶Kb   = .  , ﬁ                ﬁ  , ..,   ﬁ           loss [].            loss [function]      ,  ¶C ()/¶Kb   =   ﬁ     . ,     loss [function]     = /    
+================
+ , ,  
+ 
+ / + 
+¶C(/) 
+= 
+ 
+( ) / 
++ ¶(/) 
+@ 
++  / 
++ 
+/ 
++
+ +  
+  
+ 
+  
+ 
+ / 
++ 
+  
+(). ()
+  
+,  (/)     .   ,  ()<      
+!
+ ))+
+ 
+( 
+)) 
+( (+ ((
+ ) ( ) ( ) ( )+ (
+ )
+  
+()< . () 
+ loss [function]               [,/],        .           loss [function]     . ,    perceived_uniqueness       . ,       (): 
+ > = 
+( 
+)( 
+    
+ (
+ ) + )( ) + () 
+. () 
+  ()= ,           =   = , . 
+ : ¶C ()/¶Kb>   = .     ,     ﬁ    ,    loss  gain.    
+ 
+(/)>     ,  combining loss [function]           [,/ ].    loss ,           ,  ﬂ   perceived_uniqueness  . ,  loss [function]  gain      [,/ ],    loss
+ 
+ 
+=   = . 
+     >    ﬁ        perceived_uniqueness      ,  ,   > ,
+ )/(( 
+        > ,      
+ ).     ,      
+> .    > , .., > ( 
+  ( )/((  +) .   > ( )/((
+  +)
+  +)
+ ),   
+ )  < ,       
+   .    . 
+   ,   intrinsic_rewards perceived_vulnerability     combining      (< ),         . ,   intrinsic_rewards perceived_vulnerability  ﬁ   < , >                    .           ,            perceived_vulnerability     behavior_control-ability possibility_effect               .     perceived_vulnerability       ﬁ,    perceived_vulnerability             intrinsic_rewards perceived_vulnerability  . ,               , ,  ,   intrinsic_rewards perceived_vulnerability     perception   ﬁ                               . 
+       ,     ("*"            .)     ()        combining , .., /,   .  syllogistic_rules  
+================
+ , ,  
+   
+  /   ,        ,   perceived_vulnerability ,    ,   intrinsic_rewards perceived_vulnerability , .,  ﬁ  personality .    ﬁ         () ,   [function]        focus.   ,    (= ,,,)        intentionality    [function]  
+ 
+,
+ 
+ 
+= .           []. 
+..       
+,  simplifying  syllogistic_rules     /            .      ﬁ. 
+ .                 . 
+.  syllogistic_rules         ()  :
+ 
+ +  (+ (
+ +)+) 
+=. () 
+( ) ( ) 
+( +)+ 
++ +   
++ 
+     +< (
+ +)+,            ()  certainty_effect. combining >   < ,  perceived_vulnerability      ﬁ 
+( )(
+ +)+
+ + +> . () 
+       [function] 
+
+ 
+= 
+¶R/¶a 
+, 
+¶R 
+ ¶R/¶K 
+  (), 
+ 
+¶K 
+<  
+  
+
+  
+ 
+=  
+¶R 
+¶a 
+.  ﬁ     ()         
+¶R
+ 
+¶a 
+= ( ) ( )(
+ +)+
+ + + +. ()
+ 
+      ()    . , 
+ 
+ 
+>   ,      . 
+    ,      syllogistic_rules           /          = ., = , = ., = ., = $. , = . (  ,  loss     focus             $.   $.         [].              ,   = $. .    [,]          %  possibility_effect .  ,     ,          , , &  [].        %  possibility_effect .),  < /( +).                 /    gain        .      belief.        ﬁ,    possibility_effect loss   ,      simplifying   perceived_vulnerability         . 
+================
+ , ,  
+  
+. 
+. 
+. 
+* 
+ 
+ 
+. 
+ 
+. 
+ 
+. 
+. 
+. 
+   
+. 
+. 
+. 
+. 
+. 
+. 
+α 
+ .             
+ . 
+..  perceived_vulnerability 
+ .  < =(   +)  =(  
++ 
+( 
+( +)
+ 
+= 
+( (
+ ) +)++
+ ++),  
+
+(  +))++ ,         .            /( +)   perceived_vulnerability   > . 
+. 
+ ¶R/¶Kb>   (),    ¶Kb/¶q  intentionality  ¶R/¶q,   ¶R 
+= 
+ 
+ 
++ 
+(+(  +))( 
+ 
+ 
++)+ 
++ ((
+ 
+¶q
+ )
+ ) 
+ 
++
+  +. ()
+    possibility_effect  
+ = (+(  +))( 
+ 
+ 
++)+ 
++ ((
+ )
+ ) 
+ 
++
+ +   ,
+ 
+ + 
+ =  ¶R¶q= (). () ( 
++)+ 
+<    (),   
+ 
+> ((( +)
+ )
+ ) 
+ 
++ 
+ :
+  +> (
+ ) (+ 
+ )> . () 
+, ¶Kb/¶q> , ..,          gain    perceived_vulnerability.  =   (,)= ,       perceived_vulnerability      mental_calculation      
+ 
+= 
++(  ++ ) 
+(  +) 
+, ()
+ 
+ = 
+( (
+ ) +)++(  
+( 
+(  +))++ .
+  +)  = 
+     ,             [,],                 =   (,)=   simplifying  
+  +
+  
+(
+ +)+
+ += . () 
+================
+ , ,  
+   
+    = /( +)      (). 
+            perceived_vulnerability       = ., = ., = $., = .,  < /( +).    ,   gain   perceived_vulnerability ,           perception.  < ,     vicarious_experience         ﬁ perception    ,         .                        . ,            ,      .     ,  > , 
+ 
+   ,            ,        ,            .    ,    syllogistic_rules,    /( +)   ,     combining               ,               ,          /(+ ). 
+    
+. 
+ 
+=,α=. =,α=. =,α=. =,α=. 
+. 
+=,α=. =,α=. =,α=. =,α=. 
+ 
+ 
+ 
+. 
+ 
+ 
+* 
+ 
+−500 
+*/ 
+ 
+ 
+ 
+. 
+. 
+ 
+. 
+ 
+ 
+ 
+−1 
+−20 
+. 
+. 
+. 
+. 
+.  
+. 
+. 
+. 
+. 
+ 
+−0. 
+. 
+. 
+. 
+. 
+.  
+. 
+. 
+. 
+. 
+ 
+() 
+() 
+ .         perceived_vulnerability. 
+.. combining   
+,  syllogistic_rules   combining              . 
+ .        gain     combining   ,    / perception  /(+ )   evaluating. 
+.  ﬁ-order   (,)       ()  : 
+¶R
+ (
+  
+
+ 
++)+ 
++ (( ) ( ) ) 
+ 
++ 
+¶K 
+=, () 
+     .       ,       ¶Kb/¶K>    (),        . 
+    (,)=   ,    syllogistic_rules      
+= +  ( +), () 
+================
+ , ,  
+   
++((
+ 
+! 
+ 
+ ) )+( )+ 
+ = 
++(( )( ) ) 
+ 
++
+ 
+ 
+   .        
+((  ) )+( )+
+ 
+   [ 
+ 
++(( )( ) ) 
+, 
+(( )+)],           
+  
+ ( +). ,           /( +).     ,       (( )+ )/,    syllogistic_rules       .  (),           
+ 
+ 
+= 
+ 
++  +. () 
+ 
+,     /  intentionality  /. ,     /      
+¶A/ 
+¶K 
+= +( )
+ 
+ 
+ 
+ 
+ 
+(( ) )+ +( )+ +(( 
+
+ 
+)( ) 
++ 
++
+  (( ) ) +( )+ + +(( )( ) )+ 
+  
+,
+ )+ 
+() 
+         . ,   gain  <  , / ,  / .
+ + 
+ 
+( )( )  
+   ,  < 
+( )( ) + 
+() 
+, /= .   , /     ,          perception /( +)    , ,   ,      ﬁ,      isolation_effect   . 
+     syllogistic_rules       combining   personality         = ., = ., = ., = $. ,  < /( +).                gain  combining  .          ,        /( +).  gain,  ﬁ          gain      . 
+  
+ 
+µ= µ= µ= 
+. 
+. 
+µ= µ= µ= 
+ 
+. 
+ 
+. 
+* 
+*/ 
+ 
+ 
+. 
+ 
+ 
+ 
+. 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+−0. 
+ 
+ 
+ 
+ 
+ 
+ 
+ () 
+  
+ 
+  
+() 
+ .           . 
+                        intelligence .   
+================
+ , ,  
+   
+  ,        personality   ,    perceived_vulnerability, intrinsic_rewards perceived_vulnerability,    , .,    opportunity_for_criminal_acts  ﬁ .   ,           .  ﬁ     ﬁ    syllogistic_rules    combining     combining ,   ﬁ         perception     . 
+.. intrinsic_rewards perceived_vulnerability 
+ intrinsic_rewards perceived_vulnerability  intentionality    ﬁ   .  ,   ﬁ         ,           perceived_vulnerability  .   ,  impact  intrinsic_rewards perceived_vulnerability     /    . 
+          ¶Kb/¶v         (,)= ,    [function]          ; ,         syllogistic_rules  /      = ., = ., = ., = , = $.,  < /( +)     . 
+                 gain  intrinsic_rewards perceived_vulnerability   ,    evaluating   .  /   [, /( +)], ,  intrinsic_rewards perceived_vulnerability   ,           ,      belief   .    ,    behavior_control-ability possibility_effect ,        focus                intrinsic_rewards perceived_vulnerability    possibility_effect    vicarious_experience                 . ,           ,       combining   . 
+  
+. 
+ 
+=. =. =. =. 
+. 
+* 
+ 
+ 
+ 
+. 
+ 
+−0. 
+−10. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ 
+ .      intrinsic_rewards perceived_vulnerability. 
+.        
+   vulnerabilities, , ,           protection_effect,      .           simplifying  perceived_vulnerability        ,            
+================
+ , ,  
+   
+ [,,].         ()           .       ()        .             perceived_vulnerability ,          ()    perceived_vulnerability   ().           ,       (),  participant_modeling perceived_vulnerability        perception  simplifying  ﬂ  . ,    focus  impact                  . 
+ ,        participant_modeling   ,         ,   protection_effect vulnerabilities,    behavior_control-ability  loss.   ﬁ   ,     ﬁ  protection_effect    simplifying   perceived_vulnerability    .      perceived_vulnerability       gain      ﬁ. 
+ﬁ,         participant_modeling     ,    combining     =  +.   ,         ,             = + .        ﬁ    participant_modeling     ,          ﬁ      ,    [, ]     ﬁ evaluating    .            % ﬁ evaluating          perceived_vulnerability   . ,  ﬂ    ﬁ,  =               perceived_vulnerability,                . 
+       ,   ()  
+=
+ 
+
+ (
+ ()) (
+ ()) + (
+ ) (
+ ()) () (
+ ())
+  
++ , 
+() 
+ ﬁ-order     
+! 
+¶CS ¶K 
+= (
+ )
+  
+(( ) ( )+ ( )( ))  ( +( ) ((( )   +)+  ( ))
+ ) 
+, 
+() 
+ = ((
+ )+)+ 
+ = (
+ )++.      
+     
+¶CS 
+¶K 
+=         ﬁ      
+[function]  . ,         ﬁ-order       loss [function ].    ﬁ                 [,/ ].             /     ﬁ evaluating ,  = ., = ., = ., = , = ., = $. ,  = .. 
+    /        .    ,  gain  ﬁ evaluating     evaluating             ,        combining     . ,    ﬁ       , ,        ,          ,          .    ,    ﬁ                  
+================
+ , ,  
+   
+  .   ,      ,                  .   ,         ,     gain       ,           ,        . ,     simplifying         . 
+  
+ 
+ 
+ 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+β 
+ .         ﬁ evaluating    . 
+,      ﬂ       syllogistic_rules      perceived_vulnerability.             /       ., ., ., .         (= ).       = ., = , = ., = ., = $.,  = ..       . , /   , ,    ,        /    ,         .  .. ,                  , .., /> /,      intrinsic_rewards perceived_vulnerability.                 ,               perceived_vulnerability.  simplifying loss    ,    simplifying     . ,     perception       perceived_vulnerability,     ,                  .     
+ 
+         , ,    ,                 .     personality                              .    gain   ,              perceived_vulnerability. 
+,  syllogistic_rules  /  combining      = , ., .,  .   ,  = ., = ., = , = .,  = $..    =                      ,  /     combining  ,       .    ,  gain   ﬁ evaluating                     
+================
+ , ,  
+   
+    ,     combining    . ,             ,      gain  ,                  perceived_vulnerability        .           ,             combining    . 
+ .         perceived_vulnerability   intrinsic_rewards perceived_vulnerability . 
+= . 
+= . 
+= . 
+= . 
+  /  / =  . . 
+=  . . . . . . . . . . . . . . . . . . . . . . =  . . 
+= .   . . . . . . . . . . . . . . . . . . . . = .   
+= .   . . . ** ** . . . ** ** . . . . . . . . . . = .   
+= .   . ** ** ** ** . . ** ** ** . . . ** ** . . . . . 
+:         mental_calculation  $ ,       "**". 
+. 
+β= β=. β=. β=. 
+. 
+. 
+*/ 
+ 
+ 
+ 
+−0. 
+−0. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ .           . 
+               .  ,    simplifying        
+================
+ , ,  
+   
+ ﬁ     ﬁ,          . 
+.    
+  ,       focus                      .              ,        ,  perceived_vulnerability,  ,  intrinsic_rewards perceived_vulnerability.  gain,  ﬂ           . ,  focus            ,  ,          ,           ,               . ,                       ,    personality   belief      simplifying . ,  focus   ﬁ evaluating         ﬂ            ,        segregating      . 
+  ﬁ            : 
+() 
+() 
+() 
+() 
+() 
+      intrinsic_rewards perceived_vulnerability        combining   ﬁ,             .   possibility_effect          ,               . ,  appraisal  intrinsic_rewards perceived_vulnerability      ﬁ       . 
+        perceived_vulnerability,               perceived_vulnerability  .         intrinsic_rewards        vicarious_experience ;              perceived_vulnerability . ,        ﬁ     gain        ﬁ             segregating . 
+           combining    perceived_vulnerability,       /( +).    ﬁ  ,       .        ﬁ,          ,        .  ﬁ    ,       ,       ,    [exposure]      . 
+           gain  intrinsic_rewards perceived_vulnerability,            intrinsic_rewards perceived_vulnerability.      opportunity_for_criminal_acts   ,                .   combining   ,       . 
+          ﬁ evaluating,       .      ,  combining  
+================
+ , ,  
+   
+           .                  ,     constraint         . 
+       focus.  ,    :   .        perceived_vulnerability         .    ,               personality   .        ,      ﬁ evaluating   .         [knowledge]         .  ,   .    protection_effect   role   [knowledge]  []    .   belief           [].  gain,         [function]      [],         personality  . 
+ :   , ..;   , ..; , .. 
+:               . ,           .   . ,           "    "     . . 
+:                 ,    personality    . 
+ﬂ  :     ﬂ  . 
+ 
+. loss     focus :  .  : ://./ 
+/ (    ). 
+. , ..    []? .  , , . [] 
+. , .; , ..; , ..     perceived_vulnerability appraisal    
+ belief  belief . . . . . , , . [] 
+. , .; , .; , .          
+:      ﬁ    . . . . . 
+, , . [] 
+. , ..; , .; , ..            
+   ﬁ. . . . . , , . [] 
+. , .    :         
+     perceived_vulnerability. . . . , , . [] 
+. , ; , ..     .  . . . . , , 
+. [] 
+. .   []    .  : ://../// 
+///. (    ). . , .; , . ﬁ      .   
+ perceived_vulnerability. . . . . , , . [] 
+. , .; , .; , ..    : ,  
+ ,  perceived_vulnerability  . . . . . , , . [] . , .; , ..; , . Impact      :  intrinsic_rewards  
+. . . . . , , . [] 
+.    intelligence      .  : ://../ 
+/ (    ). 
+.    $,  perceived_responsibility   .  : ://..// 
+/ 
+(    ). 
+================
+ , ,  
+   
+.       .  : ://../// 
+. (    ). 
+.        .  : ://.. 
+// (    ). .  ﬁ      .  : ://..// 
+/ ( 
+   ). 
+. , .; , .; , .; , .    : Impact      
+perceived_vulnerability.  . . , , . [] 
+. , ; , ..; , .; , .        
+  personality  . . . . . , , . [] 
+. , .      .       
+   ,  , , ,   ;  
+  ():  , , , ; . . 
+. , ..; Çııı, .; , ..; , .  ,      
+perceived_vulnerability . . protection_effect . , , . [] 
+. , ..; , .     perceived_vulnerability :      ? 
+. . . . , , . [] 
+. , .; , .; , .      .  . . 
+, , . 
+. , ..; , ..; , .        : 
+  . . protection_effect . , , . [] 
+. , .; , .; , ..        
+. . . . . , , . [] 
+. , .; , ..   . :    .  . . , , 
+. [] 
+. , .; , .; , .; , ..          
+ ﬁ: Impact      . . . . , , . 
+[] 
+. , .; , .         . 
+. . , , . [] 
+. , .; , .; , .; , .; , .  protection_effect    
+ . . protection_effect . , , . [] 
+. , .; , .  . . perceived_vulnerability . , , . [] . , .; , .; , .; , ..; , .        
+ ﬁ   . . . . . , , . [] 
+. , .; , .; , .           
+perceived_vulnerability [function ]. . . . , , . [] 
+. , .;  , .        . 
+. . . , .%. [] 
+.     å intelligence     .  : ://../ 
+/ (    ). 
+. , ..; , ; , .. mental_calculation       
+process. .  , , . [] 
+. , ..; , ..           
+   . . . . . , , . [] 
+. , .; , .     segregating .    
+      ( ), , ,   ; 
+. . 
+. , .; , .; , .; , .; , .     
+perceived_vulnerability   . . . . , , . [] [] 
+. , ..   belief      . . . . , , 
+. [] 
+================
+ , ,  
+   
+. 
+. 
+. 
+. 
+, ; , ..; , .   :     . . . . , , . [] 
+    :  .  : ://. ..//ﬁ//. (    ). 
+, ..;  , .   [knowledge]    . . . . , , . [] 
+, .; , .; , .            perception. perceived_vulnerability . , , . [] [] 
+    .  , , .                intelligence   ( )  (://.///./). 
+================

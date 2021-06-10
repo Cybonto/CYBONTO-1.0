@@ -1,0 +1,739 @@
+ .  
+ 
+________________________________________________________________________    : ()    []  : .@.    
+   
+,   
+ ..  
+..  ..  
+ [] , .    :  
+ :  
+: , .   
+ [] , .    [] , .   
+/  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+     ( , )     :     ,  ,  , .   (     )           ,  .,  . 
+      ,            . 
+,  .   .        ,   [] . 
+    "   "      intrinsic_rewards                          intrinsic_rewards , "          intrinsic_rewards ,  "    , (): . 
+ , ,       , , ,       
+       []        personality  extrinsic_rewards,       
+  
+================
+  
+  
+  extrinsic_rewards,     . physical_quality extrinsic_rewards             , ,  . 
+   intrinsic_rewards       extrinsic_rewards 
+  // 
+       
+ 
+  ,  []  
+,  intrinsic_rewards   
+•      
+       
+,  intrinsic_rewards,   . 
+•   perceived_responsibility    
+(       
+intrinsic_rewards   ). 
+•       
+   ,   
+  ,   
+    , 
+       
+ . 
+•   protection_effect     
+       
+ intrinsic_rewards  . 
+•        
+      
+ () 
+combining   ,  []     ,       ,  []     ,    ,  []   ,  []  
+  
+   
+        
+     
+  
+, ,      
+  
+================
+ 
+ : 
+://../?=&=&=& = 
+ : , :   :  
+    (^  ) 
+. ,  ,   . . "  physical_quality   :
+      intrinsic_rewards    ."
+    . 
+. ,    . . "  ?   
+[Organization]  intrinsic_rewards   ." intrinsic_rewards . 
+://././.. 
+ 
+, .  ,  . ,  ,  ,   ^. "     :           ." . ://././. 
+ 
+, ., ^, , , . .  , . "     ."   :. ://././.... 
+ 
+, . ^   . . "       :    "   (): .://././. . 
+ 
+^, .    . . "    : ,  ,    intrinsic_rewards ".   , . ://././... 
+ 
+, ., . ,  .   . ^. "     syllogistic_rules ."   , :. ://././ 
+ 
+, ,  . ,  ^,  ,  .,    . "mental_calculation        :  personality  perception."    , :. ://././.... 
+ 
+^, .    . . "  :   perception  mental_calculation  ."   ():. ://././. 
+  
+================
+ 
+^, .    . . "         ."    .  ():. ://././ 
+ 
+,  .,  ^,  ,  ,   . "       ."      behavior  ():. 
+•    [policy]     :
+ ://./.% 
+•       (    
+       ) :
+ ://./// 
+ 
+^, .    . . "  ,   : ,   ,        ."  , :. 
+://././.... 
+ 
+, ,  ,  . ,  ,  ,   . " " " persistence :       ."   ,  ():. ://././ 
+ 
+, ,  ,  ,  ,  ,  . . "personality    [exposure]  impulsive_effect :  ,     ."        personality   ,  :. ://././ 
+ 
+,    . . "      :        behavior?"  ,  () . ://././ 
+ 
+, ,  ,  ,  . ,  ,     . "     ." intrinsic_rewards , :. 
+ 
+,  .,  ^,  . ", perceived_consensus   :  personality  perception." , :. 
+ 
+,  .     . "  loss : ,      loss    ."     , :. 
+ 
+,    . . "  :   ,  ,    behavior."  , ():. 
+  
+================
+ 
+, ,  .    ^. "       :    ." , : . 
+ 
+,    . . " ?        ."   , :. 
+ 
+,  .,  ,  ^,   . "[exposure]      role ."     , :. 
+ 
+,  .,  ^,   . ",    ,   ." intrinsic_rewards , :. 
+ 
+, .,  ,   ^. "  personality :   role  perceived_consensus     ."     intrinsic_rewards, :. 
+ 
+, ^   . . "   "     , :. 
+ 
+,  .,  . ,   ^. "    ."   , :. 
+ 
+,  .   ^." , perceived_consensus ,  impulsive_effect ." , :. 
+ 
+, ,     ^. "    perceived_consensus ."      , :. 
+ 
+,  .,  . ,   ^. "      :   ."  , :. 
+ 
+,  .,  ,   ^. " ,  ,   ."    , :. 
+ 
+,  .,  . ,   ^. "   :     behavior."  , :. 
+ 
+,  .   . "    perceived_vulnerability :   ."       , ():. 
+  
+================
+ 
+,  .   ^. "       loss       ."  , ():. 
+ 
+,  .   . . "   :    ?"  , (): . 
+  .  , .  , 
+ . 
+*          () 
+ 
+,  .   . . "    ."  , (): . 
+ 
+,    . . " ,    ,   ."      , ():. 
+ 
+,  .,  . ,   ^. "        [activity ]."      , :. 
+ 
+,  .,  ,  ,   . ", ,   ." , :. 
+ 
+, .    . . "perceived_consensus    ."  , :. 
+ 
+,  .   . . "     ."  , :. 
+ 
+,  . "  perceived_vulnerability?   combining        ."  , :. 
+ 
+,  .   ^. " :        perceived_consensus ?" , :. 
+ 
+,    . . " ,  ,     ." ,  ():. 
+ 
+,  . "perceived_consensus    :      ."    ,  (): 
+*      " "            " "   (   ), . 
+*      ,   . ), ,  . 
+  
+================
+ 
+,  . "  :    ?"    ,  (). 
+  . physical_quality extrinsic_rewards      
+       , ,  
+. 
+*   ,  
+ 
+,    . . ",  loss,   :      behavior_control-ability   ?" ,  ():. 
+ 
+,    . . "         ."  ,  ():. 
+ 
+,  .   . "    :     ."  ,  (). 
+ 
+,  . "     fear_arousal    ,  :   perception."  intrinsic_rewards ,  ():. 
+ / 
+ 
+,  .,  ^,  ,  ,   . [policy] : "       ."      behavior. ://./.% 
+ 
+,  .   ^. "   physical_quality "      perception. ://.// 
+ 
+,  .   . "   belief   ."      :    ,  . 
+ 
+,  .   . "   ."     (),       intrinsic_rewards,  . 
+ 
+,  .   . "   ."     personality  (),      belief,  :   . 
+ 
+,  . "   "       .  . 
+ 
+,  . "   "  .   ()   :   . . 
+  
+================
+ 
+,    . . "    focus    " .         focus     ,    ,   
+ 
+,  .     :     , ,      ,        .  , :. 
+     gain 
+, , . "loss,  intrinsic_rewards    loss   
+ ."   , . 
+,  .   . .     
+:    appraisal  extrinsic_rewards   
+  . & ,  . 
+,  .  .. . "       
+:        ."  . 
+,  .   . . "    perceived_vulnerability  : 
+intrinsic_rewards,       ."  . 
+  . "syllogistic_rules ,  ,    
+." & . 
+,    . . " ,  ,   
+    ."  . 
+,    . . "      
+      ?"   . 
+, ,  .    . "   
+    ."   . 
+,    . . " :    
+protection_effect     ."  . 
+, ,  ,  .    . "   
+  ". 
+  
+  (). " syllogistic_rules     [activity ],   intrinsic_rewards 
+  [activity]        .:     
+  syllogistic_rules."    ($,) 
+  
+================
+  ()    ( )/ "personality  
+    parent-child_experience   ." .  (, 
+$,) 
+  (). "     intrinsic_rewards        ." .  ($,). 
+ 
+ (). "  intrinsic_rewards   ?      intrinsic_rewards       ."     .  ($, ). 
+ 
+ (),   (),    ..     . .  ($,,  (,,   ). extrinsic_rewards#  
+ 
+ (). ", ,  ." .    ($,). , ($,). extrinsic_rewards#  
+ 
+ () "personality          :      focus."    intrinsic_rewards.    $,. extrinsic_rewards #:  
+  (). "     ."        , ($,  ).  
+. () 
+  ()., "    focus ()."       .  ($,) 
+  (), "        :  
+  Collection extrinsic_rewards."    intrinsic_rewards, ,  
+($,).  . () 
+     "    perceived_consensus " 
+     " role       " ( - 
+   ) 
+     "[exposure]    ,   ,    " ($,) 
+     "[exposure]      " ($,) 
+          "  
+ " ($,) 
+  
+================
+         "   
+    "   ($,) 
+    " :  
+,  ,   perceived_vulnerability behavior"  
+ . ($,) 
+  ,     "    
+   loss   "   . ($,) 
+    intrinsic_rewards    "   :  
+ perception  personality  ."   , 
+($,) 
+ 
+      "   :   perception  personality  ."   , ($,) 
+ / 
+  . . .   :   ,  
+  ,   :       
+.  , ,  ,  
+.  .    . .    personality . 
+  [modeling]    personality ,   
+.   [] ,  , . , . 
+ 
+ .    .              ,  . 
+ 
+ .    . "   ".                  social_circumstance,    , .                . 
+ 
+ .    .              focus     . 
+  . . "  ."      intrinsic_rewards  
+ , . 
+ 
+    . "  ."      intrinsic_rewards   , . 
+ 
+    . "      process."      intrinsic_rewards   , . 
+  
+================
+  . ", ,  perceived_consensus :   
+."      . . 
+   (  ) ", ,  perceived_consensus :  
+ ."        ,  
+, . 
+  ,     . "  loss :  role  
+, ,    loss    ."   
+     [] . 
+     . " ?     
+   ."         
+ ,   . 
+   "  personality    /  
+."      ,  ,   
+. 
+  . "[exposure]  , role ,    ." 
+      ,  ( ). 
+     . ",    perceived_consensus 
+."   , , , . 
+     . ",  ,  perceived_consensus 
+."    []       
+(). 
+     . "    " 
+    intrinsic_rewards    ,   [] 
+. 
+     . "   : mental_calculation  
+."      ,    intrinsic_rewards. 
+  . "       focus 
+ ."        , 
+ , 
+  
+ ,     . .   physical_quality   :  
+   intrinsic_rewards   .    
+   
+  
+================
+ ,   .   .. .    
+ protection_effect    .     
+   . 
+ ,    . .  , ,    
+ .        . 
+ ,  ,&  . :  , ,   
+  .      .. 
+ , ,   . "   perception     
+   ."       . 
+ , ,  .    . " protection_effect, ,  
+     ."       
+. 
+ , , ,   . ", /   
+ [Organization ]."         
+. 
+ ,  .   . . "      
+ ."          
+ ,  , , . 
+ ,    . . ", syllogistic_rules ,    
+."       , , . 
+ , ,  . ,  ,  ,    
+ . "         ." 
+      , , . 
+ ,  .,  ,  . "    
+   ."         
+   ,  ,  , 
+ ,    . . "  ,   : 
+,        ."    
+  ,  , . . 
+ 
+, , ,   . "personality        ,   ,  ."    , , ,  . 
+ 
+,  .   . . "    ."   /    ,   (  ).  ,  
+  
+================
+ ,  .,   . . "     : 
+      [Organization]  ." 
+    ,  .  
+, . 
+ 
+ ,  ,  ,     . "   "" ?        ."        . 
+ 
+ ,  ,  ,  ,  ,     . "       ."        . 
+ 
+ ,  ,  ,  ,     . "          "   , . 
+ 
+ ,  ,   . "   :  , personality syllogistic_rules     "   , . 
+ 
+ ,  ,  ,   . "      ."   ,  
+ 
+ ,  ,  ,  ,     . "   :    perceived_consensus   ."      ,  . 
+ 
+ ,  ,  ,  ,  ,  . "       ."   , . 
+ 
+ ,  ,  ,     . "    focus (): personality    ."   , . 
+ 
+    , " :  situational_circumstance        syllogistic_rules ."   , . 
+ 
+,  .,  ,  . ,  ,  ,     . "     ."            , , , . 
+  
+================
+ ,    . . "   ."    
+       , . ( 
+, ). 
+ ,    . . " intrinsic_rewards   :   combining 
+ intrinsic_rewards   ."         
+  , . ( , ). 
+ ,  .,  ,  ,  ,  ,  
+. ,   . "     ."  
+         ,  
+, . . 
+ ,  ,  ,  . ,   . 
+"perceived_consensus      :   ?"  
+          , , , 
+ . 
+ , ,  . ,   . . "   
+   perceived_consensus ."         
+   , , ,  . 
+ ,    . . . "       
+: ,  ,   behavior."       
+    , , ,  . 
+ , ,  . ,   . . "   
+      "     combining  
+ , , .  . 
+ ,    . .  ", ,  :   perception  
+ ."           
+ ,  , .  . 
+  ,  .    . "     
+  :    ."      
+. 
+ 
+ ,     . "  perceived_vulnerability :     , ,    loss    ."       . 
+ ,    . . "  :  ,  
+ ,    behavior"        
+   ,  , ..,   
+  
+================
+  ,  ,   . . " : , 
+,     personality ."     
+      ,  , ..  
+ 
+ ,    . . "  :  ,  
+ ,    behavior"        
+    ,  ,   . 
+  ,     . "" : , 
+,     personality ."     
+ . 
+  physical_quality,     . "  protection_effect ."  
+     . 
+  ,  ,  . "    , 
+,   perceived_consensus ."      . 
+  .    . " ?    
+    ."      combining  
+, , . 
+  .    . "personality     
+."           
+, , . 
+  ,  ,   . " ,  
+,   ."         
+    . 
+     . ", perceived_consensus ,   
+."           , 
+, . 
+  ,  ,  ,   , ", 
+,  ."         
+   , , , . 
+     , "   :   
+."            
+, , , . 
+     . "   perceived_consensus ."  
+          , , , 
+. 
+  
+================
+     . "       
+."            
+, , , . 
+     . " ,    , 
+  ."            
+, , , . 
+     . "perceived_consensus    ."   
+  combining   ,  . 
+     . "  :     
+   perceived_consensus ?"         
+   , , , . 
+     . "         
+ :            
+ ."          
+ , , . . 
+  ."  perceived_vulnerability :     
+ ."          
+  ,  , , . 
+  . "   syllogistic_rules :    
+           
+?"            
+,   
+  . "   :   perception  personality 
+ ."         
+, , . 
+     . " physical_quality       
+ :   ."         
+  , , . 
+  . "    fear_arousal  :   behavior_control-ability   
+    ?"          
+  ,  , . 
+     . ",  loss,   
+:      behavior_control-ability   ?"  
+         ,  , . 
+     . "    :  
+     ".         
+  ,  . 
+  
+================
+  .    . " loss,  , 
+ impulsive_effect :     /     
+?"           
+,  , . 
+  . . "        ". 
+          ,  
+, . 
+  
+  
+ 
+  
+  
+    
+  
+     
+ /     
+   ( ) 
+  
+,  , 
+ , ,     ,     ( )     ( ),    ( ),   (        ),      ( ),      ( ) 
+.       
+ , . ,  ,   ( ) 
+ . , .  ,      . 
+ . . . .  belief : ,   ,  . 
+ . . , .  belief.  ,   . 
+  
+================
+ . . , .  belief :  ,   [] . 
+ . . . .  belief :  ,     .  belief : combining ,      
+  
+    ,   , 
+  
+   extrinsic_rewards   ,   
+  
+  , ,   , ,     ,    ,   
+,    
+  ,    (),    
+  ,   . 
+ ,  , , .  () 
+   extrinsic_rewards   ,    
+ . 
+   ,  () (, ). 
+ ,  ,    
+  ,          
+         
+        , 
+  
+   ,  [], intrinsic_rewards  . 
+  ,   ,  . 
+   ,   . 
+ ,  ,  impulsive_effect loss    ,    extrinsic_rewards, , &  
+,  
+ ,   extrinsic_rewards,  
+ ,   extrinsic_rewards       
+   
+         ().   ,     
+ , ,       
+      ", , / 
+ ",   
+     
+  , ,   ,    ()  , ,       
+  ,       
+   ,     
+  , : , , personality    
+.   . 
+   ,    
+  
+================
+    ,  .    extrinsic_rewards : 
+"     ." 
+  ,      
+  ,     intrinsic_rewards 
+     (     
+) 
+  , ,   , &   
+ () 
+   ,  ( [] ,  
+&, ;   ;   
+) 
+   ,  
+  , , :      : 
+appraisal,   . 
+ ,   extrinsic_rewards , . 
+  , ,   , &   
+ () 
+  ,     () 
+       ,   
+. 
+     ,   , 
+, ,   . 
+   ,    
+   ,     
+   ,    
+           
+ 
+    , ,   ,   extrinsic_rewards 
+ 
+  ,  , ,   . 
+  ,   
+     ,    .            ..  - 
+  extrinsic_rewards         
+    . 
+           ..  
+  extrinsic_rewards        
+   . 
+ : 
+       "       
+  ."    , .  , .           .       
+   .      . 
+   :           :         
+ , ,  
+ :   " "         
+  
+  
+================
+ :   "   "      
+", ,  intrinsic_rewards :   ." 
+ :   "personality   intrinsic_rewards  "   
+       , , . 
+ :   "        ."  
+       , , .  :   "  "        
+  ,  , . 
+   
+   ,   ,  , 
+,    ,  intrinsic_rewards ,  
+, intrinsic_rewards ,   ,    , 
+      ,   intrinsic_rewards,    
+  behavior,  ,  ,   , 
+ ,   ,   ,  
+,    (  ). 
+  
+ ,   
+ ,    
+     
+ ,      ,   .    perception   
+   ,  .  ,   
+ , extrinsic_rewards /  
+ ,   
+ , extrinsic_rewards /  
+ ,   
+ ,    
+ ,   
+  ,    
+ ,    
+   ,     , . 
+   ,    ,    
+ ,   
+ ,     ,    
+  ,        perception 
+   ,    , extrinsic_rewards     ,     ,   
+  
+================
+ ,   
+ , extrinsic_rewards    
+ ,   intrinsic_rewards    
+ ,    
+ , extrinsic_rewards    
+ ,        
+ ,       . 
+    combining  perceived_responsibility    .      
+   
+ extrinsic_rewards    
+        social_circumstance 
+   
+     
+  
+  belief ,  ,   .
+    ,   , 
+   . 
+   ,    ,      ,    . 
+      ,     
+:      
+ ,   intrinsic_rewards   
+    ,   (      
+      ()) 
+ ,     . 
+          
+   ,   ,   
+ 
+ ,  .    . 
+ ,   intrinsic_rewards    
+ ,   ( ;  ; )    extrinsic_rewards         intrinsic_rewards 
+  
+ ,   ( ) 
+            
+,  
+ ,  belief  () 
+    ( ) 
+ ,   intrinsic_rewards    
+ ,  belief  () 
+ ,     (  
+ planning) 
+ ,  belief  () 
+ ,   intrinsic_rewards    
+ ,           
+. 
+  
+================
+ ,         
+  
+         (  combining 
+     ). 
+    
+     
+ social_identity    :      
+ [knowledge ].    ..  ,   
+    perceived_responsibility, . 
+  ,  
+   [policy ],  
+   ,  
+   [policy ],  
+ = protection_effect!      ,     :      
+(:   ),  ,  , . 
+      , . 
+     ,  
+   ,      
+/, . 
+    / 
+         
+, ,  / .     
+. 
+  
+   
+  ,    
+     
+  ,        
+     
+      ,   intrinsic_rewards             
+   
+  
+================

@@ -1,0 +1,1257 @@
+    impulsive_effect , . , . ,   
+        
+  
+,   
+,    
+             .             ,                 personality .                 ,               .                ,  ,        χ .       : , ,  ,    .  behavior        experiential_awareness        . 
+  ,   ,  ,  . 
+.  
+ 
+       
+                   .      (..,     [],    [], intelligence   [])       ,  vulnerabilities    
+   , ;   , ;   , .     , ;      , .    .              .    .   .           .    . .            ,         ,        .   combining  . . . ( :  .) 
+.     []    intelligence     personality ,   ,    ,  ,  ( : .@.). 
+.   .         ,       ,   ( : @.; @.). 
+. .            impulsive_effect ,    ,     ,   ,  ( : @ .). 
+        ﬁ        ://... 
+  ﬁ ./.. 
+, , ,    
+       
+ ,  ,    . 
+   protection_effect      
+    perception     .    
+ focus  ﬁ   ,      
+        
+       .    
+     []-[]. ﬁ,    
+     [] appraisal    
+       [], 
+   appraisal        
+          
+     loss .  [],  
+          
+ ,         
+ .      []-[]. 
+    ,      
+    []  [],     
+ perception        
+  [].  ()    
+ []-[].  [],       
+     .     
+    [] appraisal   
+ []  [].  [],      
+          
+ perceived_vulnerability appraisal perception,     
+       .  [],  
+       persistence  
+      . 
+  , ,   ﬁ    
+         .   ,      protection_effect         participant_modeling           ,   ﬁ       appraisal     ﬁ       
+  ﬁ.  , ﬁ      
+  ,    [goal]     
+    (   ) , ,  
+  protection_effect   protection_effect .    
+    protection_effect appraisal    
+       .  [], 
+      ﬁ   
+    ;  
+     ﬁ   
+.  [],        
+      []   
+,   ﬁ       
+ ©  .    ,  /   . 
+ ://../ ///.   . 
+================
+  .:          
+      ;    ,     [] appraisal       [modeling]     [].  [],            impact     ﬁ   perception   .  ﬁ-state  [modeling]     [],       protection_effect    .     ,   []-[]            []. 
+    mental_calculation    process  appraisal -    protection_effect  ,           .    , χ           [], [], [], [];        process     [],           . ,     ﬁ  ﬁ              personality      .   ,           .        . 
+,           .    ,         .  belief         ,                      intelligence   .  belief        []   appraisal   ,            []-[].   ,                        .                             (  ).                 (    ),                        . 
+,                    ﬁ.      :  , ,  ,    .    ,              .     perception     ,    experiential_awareness    ,  χ     .   ﬁ     appraisal       [],      ,           persistence         . 
+  ,            .   
+        ,          persistence  intelligence          ,                            ,         .    ,              personality ,                      ,                intelligence .             [],   belief   belief  " ﬂ"        .    [knowledge ],  belief   ﬂ     belief  judging   syllogistic_rules    ().  belief   ﬂ  []      [],     belief                    [].    ,      ﬂ  []  ﬁ    ()                   ;             ,                 judging   syllogistic_rules        . 
+        :         .           .            .         .         .              .            . 
+:  ,  ∈    ≤ ,       : := {,...,}.   perceived_vulnerability appraisal , (·)    belief ,  (·)        ,   (·)    perceived_vulnerability   [function ].      ∈ ,   ⊗         ,        ;  = , σ()       . ,   ∈   > ,      , ,       . 
+.      
+mental_calculation      . .   process  ﬁ      : 
++= +  
+() 
+  ∈      process [] ,   ∈    process .     process           
+= +  
+() 
+================
+ 
+   impulsive_effect , . , . ,   
+. . 
+      . 
+    appraisal    . -       .     []       ,             , ,   gain, , ,      .                  personality ,     possibility_effect         ;     ,                      .      ,   appraisal η     appraisal process : 
+η= (,θ) () 
+  η      appraisal        θ;  ,    , η   ﬂ   appraisal   , ..,  .         process  ;   ,     process     : 
++= +  + 
+() 
+     . 
+ [goal]       ﬁ            ,           .   belief              ,     appraisal       . ﬁ,        gain          . ,          . 
+.    
+  
+  ,      .     ,          . 
+ process               .         belief, , ,    ,        [], [], [],  combining   
+   personality .    appraisal -     ,    ﬁ   syllogistic_rules    ;   ﬁ,  certainty_effect   τ, μ, ,   ≥ {μ, },           + τ  ﬁ 
+ 
+  
+→yi 
+(+ τ)= (+τ,+:,+:) 
+ 
+×  
+(+τ|+:,+:) 
+(+τ|+:) 
+× +τ−μ+:+: 
+() 
+  a_memory    perceived_vulnerability   . ,  appraisal  , , 
+  
+→yi 
+(+ τ)=   
+→yj 
+(+ τ) 
+ .   ,  simplifying      appraisal     process   ()  (),             . 
+  ,  
+ 
+(+τ,+:,+:) 
+= 
+× (+τ|+:,+:) × +τ−μ+: 
++:  
+(+τ|+:,+:) 
+× (+τ|+:,+:)+τ 
+× (+:,+:)+:+:. 
+   process,    ,        ,  
+ 
+,  
+ 
++τ +: , 
++:   . ,+τ|+:,+: 
+ 
+  ;   ,   
++τ|+:, 
+  
++:  
+∼N (¯yk+τ,Φ+τ).   
+(+τ |+:,+:) 
+×logf(+τ| 
+  
++: ,+:
+ 
+)+τ 
+= − 
+
+ 
+ 
+ 
+(π)  Φ+τ
+ 
+×  −1( 
++τ 
+−  
++τ 
+)(Φ 
++τ 
+)−12 ( 
+ τ 
+− + 
++τ 
+) 
+× 
+( 
++τ) 
+ −1 
+(+τ 
+ 
++τ 
+− (Φ+τ) 
+  
+− +τ) 
++ [(π)  Φ+τ] 
+ 
++τ 
+= − 
+ 
+ 
+(π)− 
+ 
+ 
+  Φ+τ () 
+================
+  .:          
+ 
+  
+  
++τ 
+,+:,+: 
+× (+τ|+:, 
+   
++: )+τ 
++:+:= −m2 (π)− 
+ 
+ 
+  Φ+τ. () 
+, +τ|+: ∼N (ˆ+τ,Ψ
+ 
++τ),  
+  
+  
++τ 
+,+:, 
++:  
+×logf( | ) 
+ 
++τ +:  +τ 
++:+: 
+= − 
+ 
+ 
+(π)− 
+ 
+ 
+  Ψ+τ. 
+,   
+  
+→yi 
+(+ τ)= .  Ψ+τ/ Φ
+ 
++τ 
+. 
+() 
+() 
+     
+→yi 
+(+ τ)   combining  gain               ,       .  ﬂ   combining    .  simplifying     appraisal ﬂ     process ()-(),  ﬁ     Ψ+τ  Φ+τ.   ,      .   ,  
+ =[( ) ()],= {,}. 
+ﬁ    (·): + →Sn+, (·), (·), (·)  (·): + →Sn+  : 
+():= +  () 
+():= ()[()+ ]−1CiX ():= (
+ 
++)−1CX 
+() 
+() 
+():=˜gi(()), ():=˜g(()). 
+() 
+ 
+ϑ :=
+ , , 
+ μ ≥l . 
+() 
+      , {μ,}         {μ,}  
+{μ,}= {μ,}(). 
+() 
+                ,       
+|+:,+:     
+= {μ,}−|μ−l| ◦g|μ−l|ϑ ({μ,}). () , +τ|+:,+:      
++τ= τ ◦gmax{μ,}−|μ−l| ◦g|μ−l|ϑ ({μ,}). () ,       ,   
+Φ+τ= +τ()+ . () 
+   ,    +τ|+:     
+ˆ+τ= τ ◦μ ◦hk−μ(). ()      ,   
+Ψ+τ= ˆ+τ()+ . ()    ,  comply_effect      appraisal        ,    ﬂ       -  personality  intentionality         . 
+   appraisal ,   appraisal -         ;  ,   appraisal        
+ :=  −E(|:) ()  .   ,          appraisal    ;  certainty_effect   τ, μ, ,   ≥ {μ, },    ﬁ 
+ 
+  
+→zi 
+(+ τ)=  +τ,+:,+:
+ 
+ +τ|+:, 
+×  
+ 
++: 
+ +τ|+: 
+× +τ−μ+:+:. () ,   ()   process ()-().       process   , (|:)      , ..., .  :  : 
+ 
+  ,  
+ 
+: 
+ :     .   ,          (),   
+   
+→zi 
+(+ τ)= 
+ 
+ 
+ 
+ Π+τ 
+ Υ+τ 
+() 
+ 
+Π+τ := (+τ|+:) Υ+τ := (+τ|+:,+:). 
+() 
+() 
+    {}     process  ﬁ [()]= , 
+Π =( 
++τ 
+)= +τ−1k+τ 
+ 
+()()+ . ()    Υ+τ   ,  [( )]=    .    
+Γ := ([+τ,+:,+:]). ()      :
+ 
+Γ= 
+Γ, Γ, 
+ 
+() 
+(Γ,) Γ, 
+ Γ, := ([+τ,+:])  Γ, := ([+:])      
+================
+ 
+   impulsive_effect , . , . ,   
+         , 
+ = ,  Γ := ([+τ,
+ 
+ 
++: ] 
+[+:]).  Γ,  ﬁ   Γ 
+,,     ﬁ    [ 
+ 
+ 
+(  
+)].  loss  ,    ≤ . ,  comply_effect  
+=  − (| 
+ 
+:)= 
+ −  
+ 
+ˆ 
+ 
++  
+  ˆ ﬁ 
+ˆ=  
+ =ˆ+ ˆ, ()[ˆ, 
+  −1    
+ 
+()+ ] ( −  ˆ)  ˆ, =(  ˆ) ﬁ ˆ,= (˜gi(ˆ,)).   ˆ :=  − ˆ, 
+ˆ+= ˆˆ+ +  () 
+= ˆ+  
+() 
+ˆ=  − ˆ, ()[ˆ, ()+ ]−1Ci 
+= ˆ,()[ 
+, 
+ 
+ 
+ˆ 
+()+ ]−1.   ,   
+() 
+() 
+[( )]= [ˆ(ˆ)](). 
+() 
+ﬁ 
+,, := [ˆ(ˆ)] 
+() 
+ ,   , := ,,.   ,,,ﬁ ﬁ     
+, 
+=[ˆ (ˆ)].  belief, , 
+ = ,  =.  , ,     ,  (),   
+,+= ˆ, (ˆ)+ . () 
+  ,,   ﬁ    , 
+,    . ,   ,,= ,,  = ,       ().   +,  comply_effect 
+ˆ+= ˆˆ+ +  
+, ,   
+,,+ =[ˆ(ˆ+)]= ,,(ˆ). ()    ,    Γ     combining (), (), (), (),  (). 
+  Υ+τ,  a_memory   . 
+  ( []):          
+Σ 
+ 
+Σ
+ 
+([])= 
+ 
+Σ
+ 
+. 
+ 
+Σ 
+    situational_circumstance   Σ − ΣΣ−1yy Σ. 
+  Υ 
+ 
++τ 
+,  mental_calculation      Γ:
+ 
+Γˇ, Γ, 
+ˇ
+ 
+Γ= 
+ 
+() 
+(Γˇ,) Γˇ, 
+ Γˇ, := ([+τ])  Γˇ, := ([+:, +: 
+ 
+])                = ,  Γˇ, := ([ 
+ 
+]
+ 
+[+:,+:]).   ,   
+ 
+ 
++τ 
+Υ+τ= Γˇ, −Γˇ, (Γ 
+ˇ, 
+) 
+−1 
+Γ 
+ˇ, 
+. ()          . 
+ : 
+)     appraisal  (),   
+  
+→yi 
+(+ τ)=  ( Ψ+τ/ Φ+τ) 
+ 
+ 
+ Ψ+τ intentionality  (), ()  (),  Φ+τ 
+ ()  (); 
+)     appraisal  (),   
+  
+→zi 
+(+ τ)=  ( Π+τ/ Υ+τ) 
+ 
+ 
+ Π+τ  intentionality  (),  Υ+τ  (), 
+(), ()-(). 
+                ﬁ  ()  ()              ()-(),      simplifying         .   ,  simplifying           .  ﬁ    . 
+  ( [, belief ..]):   ∈    ∈  . σ()= {λ,...,λ}  σ()= {ξ,...,ξ}.  
+σ( ⊗ )= {λξ|= ,...,,=,..., }. 
+,               . 
+belief :    τ,μ,   ﬁ. , 
+)     
+→yj 
+∈ [,∞)    
+  
+→yj 
+(+ τ)=      ; 
+)     
+→z 
+ ∈ [,∞)    
+ 
+  
+→zj 
+(+ τ)=  
+ 
+ (, )    
+(,)  (,)  . 
+:   simplifying      
+→yj 
+(+ τ).  ()-(),     τ, μ,    ﬁ  ﬁ,  focus      (). (·)   ,     ()     ,       ﬁ    belief. 
+       belief,  ﬁ       Γ.   ,  ﬁ ,         Γ.  Γ := ([+τ,+:]), 
+Γ,=  
+( 
++τ 
+),(+),..., ()
+ 
+=  ˆ,+τ()+ ,
+ 
+ˆ, ()+  
+ 
+ 
+,..., ˆ, ()+ +. 
+================
+  .:          
+,  
+ 
+Γ,=  (+),..., ()
+ 
+=  ˆ, ()+  
+ 
+ 
+,..., ˆ, ()+ +. 
+,    Γ,  Γ,      intentionality     ˆ,  ˆ,,           (, )       (,)  (,)    belief    [].    ,  
+Γ, =([ +τ,+:][+:]) 
+         [+α(+β)],  α, β ∈ [−max{, μ} + ,τ ].  comply_effect [+α(+β 
+ 
+)]          ()-()  ().  τ, μ    ﬁ,       Γ,  intentionality     ,  (), , 
+,+= ˆ, (ˆ)+ . ()  (, )    (,)  (,)   ,    ˆ .   
+ :=  ˆ→∞ 
+, 
+ :=  ˆ→∞ 
+ 
+  focus      (), , 
+,+= , ()+ . ()  ,         (, )       (,)  (,) protection_effect       .  
+,= (, ). 
+ (),   
+,+ =( ⊗ ),+ (). ()      ,   ,  ⊗       . ,      ,      ,   
+ , 
+ 
+= ,. 
+   (, )  ,  , 
+  { }.   ,   {Γ}  .    ,      
+   
+        appraisal   
+      .   ,  
+ mental_calculation         >  
+();   ,       
+ ﬁ   →∞,       , 
+ ()=  (+ )−1 =()−1X→∞ 
+ 
+(      ()).          
+→yj 
+().     appraisal ﬁ   ,        ﬁ   . 
+  ,            ,       persistence    .        , ,        .   ,            τ  ﬁ   , μ,     .         τ   . 
+belief :    ,μ,   ﬁ. , 
+)    ,    
+ τ→∞ 
+ →yj 
+(+ τ)=  τ→∞ 
+ →yi 
+(+ τ)=; )  (, )    (,)  (,)  
+,    
+ τ→∞ 
+ →zj 
+(+ τ)=  τ→∞ 
+ →zi 
+(+ τ)=. :  ()  (),  comply_effect     , 
+  
++τ 
+=  ˆτ→∞ 
++τ 
+= ˇ 
+   ﬁ  ﬁ   , μ,  ,  ˇ         = ().  ()  (),    
+ Φτ→∞ 
++τ 
+=  Ψτ→∞ 
++τ 
+= ˇ()+ . 
+ ﬁ belief        
+→yi 
+(+ τ)=  
+ 
+ Ψ+τ 
+  Φ 
+ 
+[ ()]. 
++ τ 
+    belief,       Γ ﬁ  ().   Γ  
+( 
+Γ= 
++τ 
+) 
+( 
+ 
++τ 
+,[+:,+:])
+ 
+(+τ,[+:,
+ 
++: ] 
+) 
+([ 
+ 
+
+ 
+. 
++: ,  +: ] 
+) 
+Υ.     Π      
+  (, )     (,), 
+  
+→zj 
+ . ,      
+→yj 
+≥  
+  
+→zj 
+≥     Ψ 
+  
+ 
+ 
+≥ Φ ≥   Π ≥ 
+Υ ≥ . 
+ ()  (),   
+  belief       
+ ( ,τ→∞ 
++τ 
+[+:,+:])= 
+     .   ﬁ   belief ,       appraisal   appraisal     ;    belief    [] process {}       process,        .   perception, , 
+ (, )    (,)  .   
+ 
+ Γτ→∞ 
+τ →∞ 
+( 
++τ 
+) 
+ 
+= 
+ × 
+================
+ 
+   impulsive_effect , . , . ,   
+        .  ()   ﬁ  Γ, 
+ Πτ→∞ 
++τ 
+=  Υτ→∞ 
++τ 
+. 
+   (),    
+ τ→∞ 
+ →zi 
+(+ τ)=. 
+  τ→∞   
+→zj 
+(+ τ)=              (, )     (,). 
+       syllogistic_rules    appraisal /        τ  ﬁ.  perception  ,             ,                 ,         experiential_awareness. ,         τ     . 
+     appraisal    μ        ;   , ,      ,             .  [],         μ    participant_modeling   role        process ,           .          . 
+,                      ;  ,           personality  .   ,               .          ,        . 
+.      
+  ,  simplifying          . ﬁ,  mental_calculation   : , ,   ,    .  ﬁ           ﬁ     η= + θ,    θ       [policy] ;     θ      [policy] ;  ,  [],               (., [,  , . ]).   ,             judging      (,     θ )  ,         θ          .       ,                      θ     . 
+      ,          ,  η      appraisal,   ζ   
+   .   ,  ﬁ    γ      γ =          γ =  intelligence.       process ,  γ    .        , ,    [knowledge]  γ  γ.   belief              process      []    ,                   ,         experiential_awareness      . 
+.    
+            process   ,                      syllogistic_rules    .     ,           (       ﬁ    )     
+→yj 
+>       ;         syllogistic_rules       .   techniques  protection_effect          . 
+                    (..,   []);              
+→yi 
+=     ,         syllogistic_rules     >.        appraisal     ,      .             .                         . 
+.   
+           (.., , ,  )    .     ,                 .   appraisal                 ,            .   ,   appraisal process η   ﬁ 
+ 
+η= 
+,  γ = 
+. () 
+η−1,  
+   ,  comply_effect   .                  appraisal         . 
+================
+  .:          
+.   
+  protection_effect             .   ﬁ ,     process                    loss          .    ,           personality,    ﬁ      persistence    syllogistic_rules       (..,  ).   ﬁ,             personality    . belief           ,    
+  
+→η 
+(+ τ)= η (+ τ)=. () ,       syllogistic_rules        ,   
+→yj 
+(+ τ) =    
+→yi 
+(+ τ) = ,             . 
+.    
+                   /,                   process.   ,  mental_calculation               appraisal. 
+ ﬁ [policy]   intelligence   {}          
+process {ζ}   Ξ := ˆ, ()+ . 
+ ζ  ...          ,                [ ()-()]. ,      ζ         .   ,  
+   
+→ζ 
+(+ τ)=  ζ+τ,ζ−μ+:,+: 
+= 
+(ζ× 
+ 
+ 
+ 
++τ|ζ +: , +: ) 
+(ζ+τ|ζ−μ+:) × ζ+τζ−μ+:+:. 
+(ζ+τ,ζ−μ+:) 
+(ζ× 
+ 
++τ|ζ 
+ 
++: ) 
+ζ 
+ 
+ 
++τζ 
+ 
+(ζ+τ|ζ−μ+:) 
++:  
+=. 
+    [policy]     [policy]       participant_modeling  ﬁ     process   
+ζ= + . 
+() 
+ persistence     ,       ...   process,    Σ           
+Σ := Ξ − Ξ(). () ,  simplifying      [policy]    .         ς,    
+ 
+ζ= 
+,  <ς 
+. 
++ ,  ≥ ς 
+   ,    
+ Γ¯1, 
+Γ¯k := 
+Γ¯1, 
+(Γ¯1,) 
+¯Γ, 
+() 
+           ζ+τ, ζ−μ+:  +:,  Γ¯1, := ([ζ+τ 
+ 
+,ζ−μ+:])  Γ¯2, := ([+:]),  Γ¯1, 
+ 
+ 
+:= ([ζ+τ,ζ−μ+:][
+ 
++: ] 
+).        Γ¯1,  Γ¯2,    ,   ,   
+Γ¯1, =([ ,   comply_effect 
++τ,+:]). 
+[ζ()]=[ ()+ ()] 
+= [()] ()    Γ¯1, =([ +τ,
+  
++: ] 
+[+:])  .   ,  belief              appraisal,   combining    intentionality       Σ.   
+,    = −I    ,       syllogistic_rules            [] appraisal    [];  ,    ﬁ   ,       . 
+belief : mental_calculation   ()-()       ()  = −I   =.        ς. >ς+ μ,    
+  
+→ζ 
+(+ τ)=  (+ τ). 
+:  = −I, () 
+  
+[ζ()]= −E  (). 
+() 
+ 
+Γ˜k :=
+ 
+Γ˜1, (Γ˜1,)
+ Γ˜1, Γ˜2, 
+() 
+           +τ, +:  +:,  Γ˜1, := ([+τ 
+ 
+,])  Γ˜k−μ+: 
+, 
+ 
+:= ([+:]),  Γ˜1, := ([+τ, 
+ 
++: ][+: ] 
+).  syllogistic_rules  
+================
+ 
+   impulsive_effect , . , . ,   
+()     ≥ ς+ μ − ,
+ 
+Γ¯k := 
+Γ˜1, −Γ˜1, 
+ 
+. 
+−(Γ˜1,) Γ˜2, ,  ﬁ Λ˜k =( Γ¯k)−1 
+ 
+Λ˜1, Λ, 
+˜k
+ 
+Λ˜k := 
+ 
+(Λ˜1,) Λ˜2, 
+() 
+() 
+  Λ˜1,      Γ˜1,.    ,       Γ¯k:
+ 
+Γˆ, Γ, 
+ˆ
+ 
+Γ¯k := 
+ 
+() 
+(Γˆ,) Γˆ, 
+Γˆ, 
+ 
+ˆ, 
+ 
+ 
+ 
+:=(ζ+τ), Γ := ([ζ−μ+:,+:] ),  Γˆ, 
+  
+ 
+ 
+:= ([ζ+τ][ζ−μ+:,+:] ).       Λ˜k 
+ 
+Λˆ, Λ, 
+ˆ
+ 
+Λ˜k := 
+ 
+() 
+(Λˆ,) Λˆ, 
+  Λˆ,  Γˆ,.   ,  
+ 
+ ζ+τ|ζ−μ+:,+: 
+ 
+= Γˆ, − Γˆ,(Γˆ, 
+  
+)−1(Γˆ, ). ()  ﬁ, Λˆ,     Λ˜1,.    ,     ,  
+ 
+−1
+ 
+−1 
+Λˆ,= Γˆ, − Γˆ, Γˆ, 
+ˆ, 
+    
+Γ. () 
+ ()  (),  
+ 
+−1 
+Λ˜1,= Γ˜1, 
+ 
+− Γ˜1,(Γ˜2, 
+  
+)−1(Γ˜1,). 
+() 
+combining (), (),  ()       Λˆ,     Λ˜1,,  generalizing    ≥ ς+ μ − ,   
+  
+ ζ+τ |ζ− 
+ 
+μ +: , +:  
+ 
+= +τ|+:,+:. () 
+,   ﬁ  ζ  (),  
+  
+ ζ+τ |ζ−μ+: = +τ|+: 
+() 
+  
+  (+ τ)=  (+ τ) ()   ς+ μ− .            appraisal   experiential_awareness   physical_quality         . ,     ﬁ-      .  syllogistic_rules     
+  {ζ}                 
+   <ς, ()       
+            appraisal   experiential_awareness       .         τ+ μ.   
+appraisal     appraisal, ,   
+   ,       
+ . 
+.    
+,          .    (),      (..,      []),                process   ,          . 
+.    
+  ,    personality         . 
+.   
+  ,                 .            .   ,    {α}  {β},  ﬁ          
+ 
+α→β 
+    process    mental_calculation    
+, 
+|α→β() −T 
+ 
+α→β 
+|≥ δ·T 
+ 
+γα→β()= 
+α→β 
+() 
+,  
+ δ       mental_calculation  perceived_vulnerability     .     appraisal     process,  perception             appraisal belief []    .    ,          ,                  ,         δ   ﬁ      .  , ,                   .   ,        behavior        ,              ﬁ   δ  . 
+.   ﬁ    
+                        .   ﬁ,  {β}   process   possibility_effect ,   {α}   process.       β      {α}   α→β =;  β     ,        syllogistic_rules    (    )  
+================
+  .:          
+     mental_calculation α→β.     , ,       ﬁ    {,}     
+→yj
+ = ,    personality     ,       .      intrinsic_rewards      .      techniques.  
+ˇ+= ˇˇ+ ˇ 
+ 
++ˇ 
+() 
+ˇ= ˇˇ +ˇ 
+() 
+     ,  ˇ            
+ﬁ    .       ˇ,  ﬁ + := .  gain,  ˆ+ =ˇ.  ˆ =ˇ−1      appraisal  process ,       :⎡ 
+⎤ ⎡ 
+   
+⎤⎡ ⎤ ⎡ˆ 
+ 
+⎤ ⎡0 ⎤ˆ 
+⎣ 
++  
++ 
+⎦ 
+= 
+⎣0 
+  
+⎦⎣ 
+ 
+⎦ 
+ 
+ˇ 
+ 
++⎣ 
+ 
++ 
+⎣0⎦ˇ 
+ˇ 
+ 
+() 
+ˇ 
+ 
+  ˇ  +
+   
++   
+  
+⎡ ⎤
+ 
+ˆ 
+ ˆ 
+ 
+ 
+ 
+= 
+ˇ  ˆ 
+ 
+  
+⎣ 
+ 
+ 
+⎦+
+ 
+ˇ 
+ 
+. () 
+ 
+ 
+ 
+  
+ 
+ 
+ (),      intelligence      ﬁ   ;       ﬁ appraisal   (   )     ﬁ appraisal  process,  ˆ =ˇ−1     appraisal  ˇ.    () (.., ˆ+ =ˇ)           ˆ ( ,    ˇ).       ,      ˆ  ˆ    →ˆ .   ,            ,                     .            ,     ,            .  ()-(),  comply_effect                        ()-().             process [], [].  gain,     belief   ﬁ  syllogistic_rules            perception   []    . 
+,     belief          combining   process     
+  (     ˇ),    →yjk                    .   ,  
+                ()-()    . 
+ﬁ                 ﬁ  (   
+  )          ; ,   [function]     
+      ,     syllogistic_rules   
+ 
+ 
+  ﬁ         =      . 
+.       
+  ﬁ   ﬂ     process  .       ﬁ            .   syllogistic_rules,                 ,        .     appraisal    []    ,             .           ﬁ       .         isolation_effect . ,                ,   belief           . 
+.   
+  ,                    . 
+.   
+ mental_calculation        ()-()     ﬁ     [], [],      ,  ,   .   ˇ, ˇ,  ˇ         [,  ]     .         .   ,          process   ˆ= {.,..., .};           [,  ],             intelligence   .     ˇ   ˇ= {.,..., .},      ()   {.,..., .};    ﬁ           .     ,     ()   ﬁ   ˇ;        appraisal    ﬁ  evaluating     ﬁ   ˆ,          , ,         .  [goal]                .                     []  τ =, μ=,  =.    ,             
+================
+ 
+   impulsive_effect , . , . ,   
+. . 
+    . 
+. . 
+  ( = ). 
+ = .    ,           = .          ,              . 
+  ,  χ   ,      [].  ﬁ  (    "χ ")            .   := [( 
+ 
+) 
+()]. χ  ﬁ mental_calculation   process {,}  {}     ﬁ ,    
+ 
+
+ 
+ 
+ 
+, 
+ 
+, 
+≶ δ () 
+=+ 
+ 
+       ,, δ    ﬁ ,     .         ( )         (  )    [ ()],        ﬁ      ﬁ      χ . 
+   "χ "                  (): 
+. . 
+   ,  . 
+ 
+
+ 
+ 
+ 
+, 
+ 
+, 
+≶ δ. () 
+=+ 
+ 
+   ,     χ                ﬁ ,                 ﬁ .    physical_quality    ,                 ()  () (         χ ),        . 
+. . 
+   ,  . 
+.     
+        .    ≤2500,   
+→yj 
+>   
+→yi 
+,      
+        syllogistic_rules.             ,     
+→yi 
+    ,       
+→yi 
+               syllogistic_rules          .   
+================
+  .:          
+. . 
+   . 
+     judging            . 
+.   
+   impact        ,              γ    evaluating  %.   appraisal         . ,         experiential_awareness        .   ,    χ                 ;    χ   experiential_awareness,               ﬁ gain           (). 
+.   
+  focus      . mental_calculation      ﬁ          , ,      participant_modeling      .       appraisal   χ     . . ﬁ,  comply_effect   impulsive_effect    experiential_awareness     .      χ         experiential_awareness  ,   ,   gain   χ         χ ,            . 
+.    
+            ;    ,  ...   ∼N (,Σ)    
+    {ζ },  Σ    
+  ()   ﬁ  .   ﬁ ,   = ,      {ζ}         intelligence   {}      intelligence  ,  
+     =.      
+. ,         appraisal    experiential_awareness   ;     χ    experiential_awareness,      experiential_awareness      χ . 
+         ξ 
+ 
+=  + , = −1;       χ     . .   ,           ;  ,                ,       .       χ    experiential_awareness,      experiential_awareness      χ . 
+.    
+  ,         .   ,      ∈        process   {.,..., .}   ≥ ,         ().         χ      . ,              χ   experiential_awareness  = . 
+.   χ  
+   ,  comply_effect                   .   comply_effect   χ          (       . ).      χ         . 
+,      ,  χ         ;        . ,       experiential_awareness        χ          ,     . ,   χ      ,            ,          χ .    ,  mental_calculation      ˇ   (,    ˇ)    .      .     .         .    χ,.           ;        ,   χ               [  ﬁ  ()]. , χ        .            ,        . 
+.     appraisal    ,  simplifying             .   ,  focus      mental_calculation     . ,  mental_calculation       
+================
+ 
+   impulsive_effect , . , . ,   
+. . 
+     . 
+. . 
+    . 
+   ˇ   .         . (),            experiential_awareness      .         gain   ;   ,        ˆ [,      ()]            ﬁ,        .       appraisal ;   ,             appraisal         .,  [ . ()].  comply_effect       personality   gain  ,     appraisal     "" ,    personality   gain  , ,  appraisal     "" . ,     [capability]           ,        . (). 
+.    ()  
+  ,                δ (,    )  (), (),  ()       ( δ)        .   .       () 
+. . 
+    . 
+. . 
+     ( ). 
+. . 
+      . 
+ . .  comply_effect     ,           χ       ,      ,        ,  χ ,   χ,           χ 
+ 
+         .     ,     syllogistic_rules    evaluating     δ   ()  . ;  , δ ∈ [.,.]          personality      .   χ , ,     δ      ;   ,    . ,      (, χ ),  δ ∈ [.,.]  gain      ,       ˇ  (χ, ),     δ    ..           . 
+================
+  .:          
+. . 
+    . 
+        ()       .  ,          ( )  .                 (          );             (  ). ,             ,         ,             ﬁ source    . 
+.     
+  ,  ﬂ               .   ,  mental_calculation                 ;      . ,   comply_effect         , ,       .        appraisal   ,           situational_circumstance  appraisal          .     χ      . 
+ gain,                       .                    ,   ﬁ         ,           ﬁ             syllogistic_rules   ﬁ     . 
+. belief 
+  ,           ,                    .  ,            .    
+,    perception             appraisal - .   ,             (      )  appraisal .            ;  ,       ,                - .          , ,      ﬁ              (..,            )  ,    perceived_responsibility                       ;   perception       appraisal      appraisal ,    intrinsic_rewards         .          . 
+  
+           
+  ,          .                      []. 
+ focus   appraisal      ﬁ  appraisal     + τ,  ,   
+→yj 
+(+ τ).        
+ , , ++ 
+τ:+τ 
+ ++ 
+τ:+τ 
+      (+ τ).       : 
+ : appraisal   situational_circumstance .    ,  situational_circumstance  (+τ|+:, 
+  
++: ) 
+ (+τ|+:)        ,       appraisal  [].  ,   ,    []        perceived_vulnerability  [function] ().       process  ,,..., 
+       ,   appraisal      
+() 
+− / 
+
+ 
+−2
+ ˆ()= √  − ( ) 
+− 
+( π) 
+= 
+ 
+ 
+ 
+ 
+ 
+( ) 
+ 
+    ./(+),           :.    
+   appraisal   ( ). 
+ :    .   ﬁ  (),  
+ 
+  
+→yi 
+(+ τ)= 
+  
+
+  
+(+τ|+:,+:) 
+(+τ|+:) 
+================
+ 
+   impulsive_effect , . , . ,   
+, ,          
+  
+→yi 
+(+ τ) =. 
+ 
+ − τ − {μ − ,, } 
+ 
+× 
+= −τ −max{μ−1,,} 
+ 
+(+τ| 
+ 
++: , 
+ 
++: ) 
+(+τ|+:) 
+  situational_circumstance        appraisal    .   ,     . 
+    ,      intentionality :,τ,μ, .   appraisal     [],               syllogistic_rules                 . ,             (       . ).    , gain        ,       .  [],  self-efficacy  τ, μ,      ,              .   ,        appraisal  "  "       ,     []      .      [, . ..]   . 
+ 
+.      .. .           .        combining                 . 
+ 
+[] .   . , "      ," 
+  , . , . , . 
+[] .   . , "      ," 
+, . , . , . , . 
+[] .-xxx.   . , "  
+    intelligence  ,"  . intelligence , 
+. , . , . , . . 
+[] . , . ,  . . , "     
+[] appraisal    ," .   . . 
+. , , . . 
+[] .   . , "       
+,"  .   .  ., . 
+[] . , . , . ,  . , "   
+  [] appraisal    ," .  
+ . . , , . . 
+[] . , . ,  . , "     [] 
+appraisal    ," . . . , . , 
+, . . . 
+[] .   . , "protection_effect    ,"  
+.  .  . .  ., . , 
+. . 
+[] . , . ,  . , "    
+ ,"  .  . ., . , . , 
+. , . . 
+[] . , . ,  . , "  perception   
+ ,"  .   . . . , . 
+, . . 
+[] . , . ,  . , "  protection_effect   
+    ,"   :  
+   (    ), . , 
+.   . , . , : , 
+, . . 
+[] . , . , . ,  . , "   [policy] 
+  [] appraisal,"  .   . . . 
+, . , . . 
+[] . , . , . ,  . , "   
+   constraint,"  . . , . , 
+. , . , . . 
+[] . , . ,  . , "   
+   ()  ,"  . 
+. , . , . , . , . . 
+[] .    . , "     
+,"  . . , . , . , . , 
+. . 
+[] . , . ﬂ,  . , "   ﬁ 
+  ,"  . . , . , . , 
+. , . . 
+[] . , . ,  . , "protection_effect appraisal    
+    ,"  . . 
+, . , . , . , . . 
+[] .   ., "   [] ,"  . 
+. . . ., . , . . 
+[] . , . , . ,  . . , " protection_effect 
+    ," , . , 
+. , . 
+[] . , . . ,  . , " ﬁ-state  [modeling] 
+ protection_effect appraisal   ,"  . . 
+, . , . , . , . . 
+[] . , . , . , . ,  . , 
+"   :    behavior,"  
+.   . . , . , . . [] . , . , . , . ,  . , " 
+   []     ,"  . 
+  . . , . , . . 
+[] . , . ﬂ,  . , "    
+: ,     ,"  
+.   . .  .  ., . , 
+. . 
+[] . , . ,  . , "protection_effect   
+   personality ," .  .  
+. .  ., . , . . 
+[] . , . , . ,  . , "   
+      ,"  . . 
+ ., . , . . 
+[] .   . , "protection_effect appraisal      
+,"  . . , . , . , . , 
+. . 
+[] . , . ,  . . . , " : personality 
+    ,"  .   . . 
+.   process ., , . . 
+[] . , . ,  . , " [] appraisal   
+personality     ," , . , 
+. , . 
+[] . , . ,  . . , ., "  
+   ,"   . ., . , . , 
+. , . . 
+[] . , . , . . ,  . , "   
+  [] appraisal,"  .  . ., . , . , 
+. , . . 
+[] . , "      loss   personality 
+," , . , . , . 
+[] . , "evaluating  ," . . ., . , 
+. , . , . 
+[] . , "     ," . 
+. .  personality  ., . , . , , 
+. . . 
+[] . , .   ,  . , "  
+   : ,    
+ ," . ., . , . , . , 
+. 
+[] .  , .  , . ,  . ,ˇ 
+"        
+ ," . ., . , . , . , . 
+================
+  .:          
+[] . , . , . ,  . , "     
+  perception,"  .  . ., . , 
+. , . , . . 
+[] . , . , . ,  . , "   
+     ," . ., 
+. , . , . , . 
+[] .   . , "    process  
+       ," , . , 
+. , . , . 
+[] . , . , . ,  . , " ﬂ 
+    ,"  .    . . 
+, . , . . 
+[] . .   . . , "ﬁ    protection_effect 
+ ﬂ," . , . , . , . , . [] . , . , . ,  . , "    
+      syllogistic_rules  ," 
+ .  . ., . , . , . ,  . [] . , . ,  . , "    
+   ,"  . . . ., . , . , 
+. , . . 
+[] . . .   . . ,  .  , 
+, : , . 
+[] . .   . . ,    . , 
+ :  . , . 
+[] .  , "       
+ ﬁ,"  .  ., . , . , . , 
+. 
+[] . . ,       appraisal. 
+, : , . 
+[] . . , "   ," . []. 
+: ://..////. 
+.  : . , . 
+[] . . , "     , ,  
+ ," . process , . , . , . , . [] . , . ,  . , "    
+ :        
+ ,"   ., . , . , . , . . [] . . ,  appraisal     . 
+ , , : & , . 
+    ..    
+       
+   , , , 
+ ,  ..     
+    , , , 
+,  . 
+  ,      
+combining       
+,    .   
+,     .   
+    , ,      .        appraisal,      ,    . 
+..          ,  -      impulsive_effect , ,  &  .  ,       extrinsic_rewards        . 
+     , ,  .    .. (.)         ,  , , ,  .       ..                 ,  . 
+      , [] appraisal,    . 
+   ()   
+..  ..     
+   , , ,  
+  , . 
+        
+       
+         
+,     , 
+, .      
+   , , ,  
+   ,  .       ,  ,    , ,  . 
+.                   .          ,      ,    belief     ,     extrinsic_rewards       ,        .      . 
+    ..    
+       
+    ,  , 
+ ,   ..     
+      
+, , , ,  . 
+    combining   
+      
+,      
+ .     
+  ,    ,  ,   [] appraisal. 
+..                    ,                 ,   combining          .    combining       protection_effect                 . 
+================

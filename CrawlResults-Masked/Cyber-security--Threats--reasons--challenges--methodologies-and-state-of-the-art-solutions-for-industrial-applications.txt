@@ -1,0 +1,289 @@
+   . 
+ : , , ,   []       ... 
+ ,   
+    ? 
+    ? 
+  , ,    
+       
+      
+  .  
+================
+ : , , ,   []      
+  
+ ,  ,   ,   
+       ()      , ,  {., ., ., . }@.. 
+isolation_effect :       source        ,  , ,   .    gain    ,     gain .            ,             ,    .           personality   gain    ,       .         personality              .                   .         perceived_vulnerability                  perceived_vulnerability   .    ,    ,  ,                 .                      .         . 
+  ,  perceived_vulnerability,    
+.  
+                     .        , ,    .                     .    ;  , ;,  , perceived_uniqueness ,  perceived_responsibility                       [].
+     ,"            opportunity_for_criminal_acts    ,            ." 
+         []: 
+"          ,        perception  techniques      perceived_vulnerability." 
+"    ,   perceived_vulnerability     perceived_vulnerability,        ,      possibility_effect ". 
+"  certainty_effect    ,   
+[Organization]       .      [Organization]  learning      [, ].   ,          "            . combining  ,   ,        " []. 
+                               .  , physical_quality              physical_quality     .    physical_quality      physical_quality  
+history        
+,  intentionality       
+   ." 
+.    
+            . ,           :    /loss       ,              ,       personality        , perceived_uniqueness , Phishing ,     .      .  ,        .        
+================
+  []: 
+,  participant_modeling   [action]      
+Ł 
+       
+      personality  . 
+,   ,          .  
+. 
+.   
+    personality       
+Ł 
+   impact    
+satisfaction_of_needs         .     ,    
+       .  
+[]        " " ,                    
+  (loss   ),          ,         .    loss    ,      . 
+Ł 
+.            . 
+.  perceived_responsibility   
+  perceived_responsibility             . 
+      
+.   
+  isolation_effect        .          ,            physical_quality   satisfaction_of_needs    .  
+            .     .      ,     . 
+ perceived_uniqueness ,  perceived_uniqueness , 
+.   
+  ,  perceived_responsibility     ,  ,   vicarious_experience      ,          .             [, , ]: 
+.   
+          .       ,  ,    . 
+.   
+,   certainty_effect        ,     ,    . 
+         .   
+.  personality           syllogistic_rules.           .      ,       isolation_effect /      [knowledge]  perceived_consensus,  
+      , isolation_effect,                   . 
+/      
+.   
+.        .    , ,        .    Tactics  , , , , , DNS_Cache_Poisoning,  perceived_uniqueness .              ;   []      : 
+.   
+          segregating   ,   ,   . 
+.  
+      ,        ,         . 
+     .            segregating. 
+        
+.    
+      personality  
+)        .       ,        [action]      loss   .  extrinsic_rewards          loss   
+     ( , 
+    .    
+       ,   
+   . 
+.   
+        
+)      , , , 
+,     (, 
+  , ,  loss    
+.   ,   personality  
+          
+================
+  . .   
+  .            . , ,   
+    .    
+  . 
+      .                    personality      
+.    () 
+.      
+       /  /   opportunity_for_criminal_acts     
+ .               .   "   ()"           .                     .  intentionality       intrinsic_rewards extrinsic_rewards   , ..       personality    ,  ,          . 
+.   
+        
+  ,       
+    .   
+       .        perceived_vulnerability        []: 
+.    
+       ,     opportunity_for_criminal_acts        .    ,       ,   ;   .            intrinsic_rewards     
+ personality         . 
+   .              ""  extrinsic_rewards          .            extrinsic_rewards            .            ,               . 
+.    perceived_vulnerability 
+        , ,        fear_arousal      
+.         
+                               . 
+.    
+                 protection_effect.             
+          
+gain         
+. 
+  (    ).                           extrinsic_rewards . 
+.   
+.  
+        perception      ,         intrinsic_rewards   
+/   "                    ,     ""    . 
+.    
+     ()       ()        [resource]     .                   .      ,  ,        ,              protection_effect           , 
+,    " /  /  
+    . 
+. loss   
+loss                .  Collection      ,        intrinsic_rewards             . 
+.     : 
+  
+  ,           ,    (),    (),    
+================
+.               ()   ,   /         .     satisfaction_of_needs        opportunity_for_criminal_acts        .        : 
+. perceived_vulnerability  
+                        vulnerabilities       techniques.   techniques                vulnerabilities [, ]. 
+.    
+.  []      
+ 
+.  perceived_vulnerability  
+     vulnerabilities,   vulnerabilities   .      []: 
+.      
+         / .      vulnerabilities      . 
+.   
+           
+  protection_effect      . .    
+           source    .                vulnerabilities  , SQL_Injection , 
+     .           vulnerabilities 
+   ()      . 
+          .      combining ""         []    [, , , ]. 
+              behavior   [, , ].                  intrinsic_rewards [, , ].
+         .   . []                  .   . []         ,   .   . []                   .  []             []          /          .    []         + []                      .  [, , , ]           .    perception           .      []    , , vulnerabilities,    . [] focus         protection_effect  /       / . 
+.  
+   source            , protection_effect       ,     ,    ,              source . 
+.   
+                vulnerabilities    ,   scripting,      extrinsic_rewards /. 
+      , , ,      personality  source .         .       Fuzzing     comply_effect    .                 ,         . 
+.     
+   ,    , protection_effect ,  .   .        :- 
+.   
+  []    source,     ()     .     ;    , URL_Encoding ,   , ,    ,      perceived_uniqueness .      [],     ,   ,  
+================
+ ,                 . 
+ ,           []     . .  protection_effect  
+ protection_effect  []    protection_effect   . protection_effect    ,   ,  
+Ł  .   Phishing, perceived_uniqueness ,  ,  , ,   ,  SQL_Injection.    ,  ,   .       [], protection_effect    ,        . protection_effect          .         .        . protection_effect        []. 
+.  
+      .      ,    .  ,            protection_effect  .       .      ,   ,     Fingerprinting . 
+  []  +    +    .     vulnerabilities   ,  :         .              .          personality     ..       .        .       . 
+.     
+    [,],    [capability]   evaluating,  ,    ,  ,   ,        .     , segregating  ,   .      . .    behavior_control-ability 
+    [],  behavior_control-ability   ,        .    [capability]   evaluating ,,    ,  ,   ,      . 
+Ł 
+.       intrinsic_rewards   ,  persistence      .                    .                          . 
+   intrinsic_rewards  ;           ;    segregating              (              ).      intrinsic_rewards         protection_effect    vulnerabilities   loss  . 
+Ł 
+Ł 
+ behavior               ,  , . ,   ,               .                            . 
+ intrinsic_rewards          .            intrinsic_rewards focus                . 
+Ł 
+             process           ,      task. 
+Ł 
+        (  ) /    .  personality          /     .         intrinsic_rewards             . 
+. belief 
+     ,  [Organization]                      .     protection_effect  [Organization]        .           (..        [activity]  ).       personality     vulnerabilities      .         
+================
+       vulnerabilities   . 
+ 
+[] 
+[] 
+, , "   : ,    ", , .  .         [policy ].  ,  . 
+      intelligence&  
+    (), personality,  
+(),. 
+[]  ., ..  ..  , " 
+  :      
+ ,"        
+  (), . , . 
+[] , ., , ., , .,  , . " 
+        
+ ".  ,   , 
+.  .    , , .. 
+://. ./// 
+. 
+[] intrinsic_rewards, . ., , ..     
+.  ,  (),. 
+[]    .  ,  . 
+[] ..     .  , 
+ . 
+[] , .  .  ,  . 
+[] , .  :     , 
+          process. 
+ ,  . 
+[] , .  , . "   ",  
+ ,  ,  ,  , & , 
+. 
+[] , .     .  ,  
+. 
+[] , .  , . "       
+".   (),   , . . 
+[] , .,  , . "  :   
+".   , .  .   
+    (), , .  . [] , .,  , .     . 
+    ,  (), . 
+[] , .,  , .    Reverse_Engineering 
+  : perceived_vulnerability    . , 
+ ,  (), . 
+[] , ., , ., , .,  , .   
+      .    
+    (), . 
+[] , .  .      .  
+         
+(), , , . . 
+[] , .,  , . ":       
+ .       " 
+       (), 
+. 
+[]  .,  , .: "    
+ ".      
+   () (), . 
+[] , ., , ., , ., , ., , .,  , 
+. "         
+".     (),   
+  , , . . 
+[] , ., , ., , .,  , . "  
+   ".    () 
+,  (), . 
+[]  ,  , . . .,  , . .   
+       .  
+       (), 
+. 
+[] , .. . .      intrinsic_rewards. 
+    intelligence   () 
+(), . . 
+[] , ., , ., , ., , .,  , . 
+"      ".   
+[]  ,  ,  ,  
+[] , ., , .,  , . "   
+   ".    
+    () ,  (),  . [] , .: "   ".   
+   ,  (), . 
+[] , . "        
+ ".  belief, . 
+[] , ., , ., , ., , .,  , . " 
+   :   ".   
+   (), . 
+[] ., ,.  ,  . 
+[] , ., , ., , .,  , . . "  
+   ".      
+     . ,   
+ (), . 
+[]  ., , ., , ., , .,  , .: " 
+   ".    (), 
+. 
+[] , ., , .,  , .     
+. 
+[] , .,  , .     
+    /  , . 
+[] .. perceived_vulnerability .  ,  . [] .  :  Source   . 
+ ,  . 
+[]  .      .  ,  
+. 
+[] . protection_effect    personality  .  
+,  . 
+[] , .  : process  .  
+, . 
+[] , . .  ,  . 
+[] , . .:       . 
+ ,  . 
+[]  .   :       
+.  ,  . 
+================

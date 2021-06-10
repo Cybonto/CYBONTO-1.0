@@ -1,0 +1,355 @@
+      
+  ,     Organization,  : @.. 
+              ﬁ    .     personality   ,   .                  .          ,                   .      , intrinsic_rewards     .                       . 
+ , , ,  ,  , &  
+.  
+                                personality        .        personality,           [Organization ].                 :    .                              . 
+:. [.]    
+                    process    .           process       . 
+      .         ,              .         . 
+.    
+         ,           .  personality     [modeling]  judging      [].        personality  [],       focus    .  [knowledge]             .                simplifying. 
+   ,     Organization,  
+:@.. 
+ 
+ﬁ,   ﬁ   
+ 
+ 
+   
+   
+    
+               
+ 
+       
+ 
+  
+    
+   
+         
+   
+ ﬁ,  ,   
+. :      
+  ,                  [][].                mental_calculation        ﬁ      simplifying. 
+ simplifying                    .    perception                                   .         [][][]    . . 
+    [][][]         ...                    
+================
+     .              ..                . 
+.       
+     ﬁ  ﬂ              .            ﬁ        .         loss   [Organization]  .       , , ,                        . 
+.  
+      possibility_effect .          .         ﬁ,   ﬁ.               , , ,  syllogistic_rules,           .                   .       [] (     ): 
+) 
+) 
+ :             . personality :    ﬁ         . 
+   intrinsic_rewards  
+  ﬁ-     
+ 
+ ﬁ 
+()     ﬁ 
+intrinsic_rewards [] [] 
+ 
+ , ,   , ,  
+ 
+()    ﬁ 
+personality 
+ 
+   
+personality 
+ ,   ,      
+, Fingerprinting, Port_Scanning    , Phishing     
+ :  intrinsic_rewards 
+  [knowledge]  possibility_effect               ,      ( ),   ﬁ         .                . 
+.  
+               ,      ,       .     /       ().          :- 
+)  (  ):             ,       .         .       , []                .            ,    ,  ﬁ  , ,  ,     /  segregating    .        /        []       personality    .       : 
+) :            ,    syllogistic_rules         .   syllogistic_rules,        .           .              .         [],   [],  [] .                  .            .      belief personality      .    intrinsic_rewards []       source    . 
+) :                 personality ,   syllogistic_rules     .        , ﬁ  ,   .                           .                       . 
+      ,   , ,     personality .        ﬁ    ,              . 
+           .       scripting  (, )     [] []  ++,,  [][]    . 
+================
+  
+       
+   [] 
+ 
+ 
+ 
+ 
+  ﬁ 
+ :     
+) :            .          / perceived_vulnerability     .          perception        .         ﬁ  (./) .. , ,   ..  , , / ﬁ ..       ..,  [] .       ﬁ  opportunity_for_criminal_acts         .        Privilege_Escalation   ,                 , personality    loss   . 
+                  personality         perception  .       ,          // ﬁ            []. 
+.  
+              ﬁ   .             protection_effect   .            personality         ﬁ       .               ..  , [].         ,                .  ﬁ     personality   . 
+    perceived_vulnerability task      .            ,      . 
+                % extrinsic_rewards.              .                      ﬁ            []. 
+  [][]   
+ 
+ 
+ 
+Phishing  
+ 
+   
+ 
+/   
+ 
+    
+             
+personality    , , perceived_responsibility    .          .[] 
+           .       ﬁ, /     ﬁ 
+ ﬁ                ﬁ. 
+Vulnerabilities         ﬁ       . 
+ :   
+.  
+    ,                 .  ,       .         /  .             : 
+)      /  
+      
+)  /      
+        
+  . 
+)        
+         
+    . 
+     ﬁ          /     .   combining                  . 
+             .         ﬁ        . 
+    perceived_vulnerability    ﬁ  []. perceived_vulnerability          possibility_effect perceived_vulnerability   .       -      / .                  ,       , frustration_of_needs   .                 /.                ﬁ    perceived_vulnerability     . 
+================
+perceived_vulnerability          perceived_vulnerability      .   vulnerabilities  .          segregating   .     vulnerabilities    . 
+       
+   
+  perceived_vulnerability [] 
+ 
+ ,    
+• 
+• 
+       
+ 
+   
+   , , , ,  ,  ,  ﬁ ,  , /  
+• 
+   
+ 
+/   
+ : 
+•  
+ 
+•   
+ﬂ 
+•  
+ 
+ :  
+      vulnerabilities     [] [] []    Fuzzing. Fuzzing                behavior.   behavior    ...     perceived_vulnerability     . 
+             ﬁ,          ﬁ     ﬁ    .    ,    ,     .         Collection        .                   ,    .      opportunity_for_criminal_acts                   . 
+.  
+             .               ,              .  ,             ,     behavior_control-ability         Modify_Registry /             .          ,     simplifying                 . personality     
+  [].                        . 
+• 
+              .     ,                . 
+• 
+    participant_modeling            ,        , .                 .           ,    combining    ﬁ      . 
+     ,            extrinsic_rewards   ,     .    intrinsic_rewards       personality   . 
+• 
+  :       .     ,    ,    protection_effect       intrinsic_rewards   .  gain              . 
+• 
+:                      ,      protection_effect            ,          . 
+• 
+Rootkit  Bootkit :         .  ﬁ , process        Rootkit .. ,, [].                   ,         .    Bootkit []               . 
+• 
+ :           /           ,           (    )   .   ,             ,        . 
+================
+• 
+   ﬁ:          .            ﬁ-encrypted                           ()[] 
+.    
+            (&) . &           .            ﬁ.   ,    &             ,  , ﬁ, , [ ].       &  ,     ,             . 
+• 
+ :                       .      ,    .              .  loss        & .               /     & .           & . 
+• 
+ :                  ,          .          (     ,              combining ),   (         )    (    ﬁ      ).      ..   , ,  .       . . perceived_vulnerability [] 
+• 
+   :   participant_modeling       .   .          [].                       .    ,       possibility_effect    .     personality           /     . . Taidoor [] 
+&  ﬁ              .        intrinsic_rewards    .   intrinsic_rewards           ﬁ .         [capability]            .       ﬁ.      intrinsic_rewards           : 
+• 
+ :  ()[]                .   [function]            /personality .                . 
+• 
+//:      &          .   segregating     //[] [] []  & .               ,  ﬁ  .  : ,  [] [] 
+• 
+: techniques     , ,            loss -  .                          .      &      & ,      
+• 
+: (   )           [].    ﬁ   ,  ,                 physical_quality       ﬁ ..      ,                       ..           ﬁ  . .   []          & . 
+            .    intrinsic_rewards         &        [Organization] : 
+• 
+  :   ()[]         .              .     
+================
+                techniques     &      ()    .        physical_quality ()         ﬂ.  techniques   ﬂ                        intelligence & . 
+• 
+   :                    .  ﬁ            .     ,        .              ﬁ. []    . 
+• 
+Domain_Generation_Algorithms :         .            techniques  & .        protection_effect        . ﬁ   ,                .        .             . [] 
+.    
+           .           . [] 
+) 
+) 
+ :           .              .        , ,       [].        [].          extrinsic_rewards .  extrinsic_rewards               . 
+ :           .         ﬁ       .  ﬁ             .         [goal]     [Organization ]. 
+                    .         [capability]     loss   . 
+.  
+             .     ﬂ            .              intrinsic_rewards.       perception      vulnerabilities,        ,    .focus   intrinsic_rewards  &                 . 
+ 
+[]     .  .  
+-    ; . [].  : 
+://..///.. [ 
+:   ]. 
+[] .  .    .  
+  . . []..  : 
+://..//. [: 
+  ]. 
+[]  .      :  intelligence 
+perception   . . . [].  : 
+://..//// 
+[:   ]. 
+[]    .[]..  : 
+://.../vigilance /  .. [: 
+  ]. 
+[]  .       perceived_vulnerability 
+intelligence.  . . [].  : 
+://../// 
+[:   ]. 
+[]  .   perceived_vulnerability       - 
+ .  . . [].  : 
+://..////. 
+[:   ]. 
+[]  .      —  
+ . . . [].  : 
+://..////. 
+[:   ]. 
+[]  .     . 
+physical_quality . . [].  : 
+://..//// 
+[:   ]. 
+[]   . [].  : 
+://..//. [:   
+]. 
+[]  .    -  :  - 
+ &  . . [].  : 
+://..////% 
+. [:   ]. 
+[]  .     -  
+ intrinsic_rewards. .. . [].  : 
+://..//// 
+[:   ]. 
+[]  perceived_vulnerability  .  . 
+; .[].  : 
+://../////. 
+[:   ]. 
+[]  perceived_vulnerability  .  . ; . [].  
+ : ://..///// 
+.. [:   ]. 
+[] , ,   . "  
+  personality ." 
+================
+[] .,.   : combining    - 
+. .., . 
+[] , ,  .   :    
+  .  & , . 
+[] ..,.  : &   
+   gain. .., . 
+[]  -Common Vulnerabilities   (). [].  
+ : ://../ 
+[]  .    -   :   - 
+ &  . . [].  : 
+[] .,. ().   -    
+. []. ://..//.. [:   
+]. 
+[]   ,. ().     
+   .    ,  
+://../////. 
+[:   ]. 
+[]  ,. ().         
+  ( ., . ). : , . []. 
+://..//.. 
+[:   ]. 
+. [:   ]. 
+[] , , . []. : 
+://.//. [:   
+]. 
+[]   perceived_vulnerability .  vulnerabilities, , 
+  . [].  : ://../. 
+[:   ]. 
+[] , . "   Fuzzing." &  
+,  . (): . 
+[] , ,  ,   . Fuzzing : Brute_Force 
+perceived_vulnerability .  , . 
+[] , ,  . ,   . ": 
+ Fuzzing   ."  . (): . [] :      ( 
+ )  . . [].  : 
+://..////%[] , ().  :  loss   
+intelligence ( ., . ). :  . []. 
+://.ﬁ.///ﬁ-poison -ivy-report.. 
+[:   ]. 
+[] .         . 
+[] ://..////  
+/. [:   ]. 
+[] .,. ().   -   - 
+  . []. 
+://..//.. [:   ]. [] . , . ,  . .    ﬁ  
+  .  .       
+     (), . 
+[] ,  .,  ,   . " 
+:         
+  ﬁ ."   . () : . 
+://..///..[] ,. ().      
+[:   ]. 
+[]          
+ , Vulnerabilities     
+    , . [].  
+: ://..///... 
+[:   ]. 
+[]  .   - . 
+. . [].  : 
+:      persistence   
+personality  ( ., . ). : . []. 
+://..// /   
+ .. [:   ]. 
+[]     .  .  
+  ; . [].  : 
+://.ﬁ.//ﬁ// -2015.. 
+[:   ]. 
+[:   ]. 
+[] , . " Bootkit."    ( ): . []  ,  ,   &  
+: personality,     
+[] . , .    :    
+  , ,     
+: :,  
+[]  ,  ,  ,  . , 
+   focus       
+        
+  
+[] . (). & :  
+, , , (), . []. 
+://..////.[]  .    -   :  
+    -  & 
+  . [].  : 
+://..////% 
+. [:   
+]. 
+[]  ,  ,      
+         
+&       : 
+:  
+://...////  .. 
+[:   ]. 
+[] . , . ,  . .    
+  perceived_vulnerability () .      , . [] ,. (). : ﬁ   
+personality   — . []. 
+://..////. 
+[:   ]. 
+[] .,. (). personality Tactics : Taidoor perceived_vulnerability  
+—  . []. ://.ﬁ.//  
+///.. [:   
+]. 
+[] ..,. ().   -    . 
+[]. ://..//. [:   ]. [] .,. ().   -    - /.. 
+   ,  ://..//.. [ 
+:   ]. 
+[] .,. ().   -    (). 
+[]. ://..//.. [:   ]. 
+================

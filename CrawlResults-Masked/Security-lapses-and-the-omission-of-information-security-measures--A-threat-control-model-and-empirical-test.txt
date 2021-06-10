@@ -1,0 +1,432 @@
+   behavior  ()  
+     
+   behavior 
+ : ..// 
+        :  perceived_vulnerability      
+ ,*,  . ,   
+ 
+   ,   ,    , ,  ,   
+ []   ,    ,   , ,  ,   
+ [] , .     ,    .., ,  ,  
+  
+isolation_effect 
+ history : 
+     
+: 
+    perceived_vulnerability     belief   belief 
+              .                  ,  satisfaction_of_needs        behavior.         ,               .     frustration_of_needs                       .       perception    frustration_of_needs,  behavior_control-ability   personality                     .      loss        ﬁ      .  belief                     .   focus    belief                "" ,        .
+   .   personality. 
+*  . .: +   . 
+ : ﬁ@. (. ), @. (.. ), @. (. ). 
+/$ -      .   personality. :./.... 
+================
+ 
+.   ./    behavior  ()  
+.  
+      , ﬁ,        ,         , ﬁ,  ,             intrinsic_rewards        () .           ,                ,            ,   ,  (, ).                     ?    ,           learning  : "  , ,            ,              ...     ; ,          ,        ..." 
+          behavior_control-ability     " "       [policy]  (& , ; , ,& , ); ,               ,   , ,     ﬂ ,   self-efficacy     (.., , ,& , ). ,                            , ,   (, ; & , ). 
+    techniques          (& , ),     (, ; & , ; , ),    perception (& , ; & , ).                   (& , ),                    (, ;),      ( &  , ),      [Organization]       (, ),  satisfaction_of_needs              (& , ). 
+       ,                      (& , ; , ).                               ,        gain         (& , , ; , ).    personality         , " ,    "      intelligence  personality       . 
+..     ﬁ 
+        " combining"              ,  ,        ,                       . ,  ,            ﬁ.            : () ﬁ, () , () ,  () . 
+,              perceived_vulnerability      ﬁ     loss  ﬁ  
+================
+.   ./    behavior  ()  
+ 
+ (, physical_quality, physical_quality ,& , ).     ﬁ          impact   (, ,& , ).   ,  ﬁ     (, ).  ,          focus      impulsive_effect     "   ."             ﬁ     [policy]    extrinsic_rewards.      fear_arousal     loss   ,    process     ,     %      (, ). 
+,          ,           ﬁ      / mastery_experience   impulsive_effect intrinsic_rewards         (& , ).   ,          .    ,      ﬁ    ﬁ     protection_effect    .                  .   [Organization]   focus       ,                         . 
+,    ,                      possibility_effect perception.        .       ,        .      ,               (  ., ). 
+  ﬁ,   [circumstances]      personality      .   ,   ﬁ ﬁ  protection_effect   .    , impulsive_effect    segregating        perceived_responsibility      (, ,& , ). ,                      personality ,              ,            (& , ;   ., ). ,  ,               [action]        (  ., ).    behavior     participant_modeling   role         . 
+..     belief 
+              ,    ,       (.. &  , ; & , ).  ﬁ     ,        (.. & ,  -    ),       (..,   ., ; , ,  ,& , : : , , ,& , ,   ).      ,   . ()    behavior_control-ability         ,    [policy ].       .             ,               ,         ﬁ   .  ,   . ()   syllogistic_rules  [rewards]   [policy]     . () .       ,    ,  focus         . 
+================
+ 
+.   ./    behavior  ()  
+    ,                ?      focus,      (..,   ., )    (.., & , ).    perceived_vulnerability   ()    belief (, , ),         perceived_vulnerability                (  ., ; , physical_quality ,& , ),    ﬁ focus          .       comply_effect            (& , ; & , ),    comply_effect       (..,  behavior ),      (   ). combining   experiential_awareness   ,             focus. 
+. perceived_vulnerability     
+         ,   mental_calculation   perceived_vulnerability     ﬁ  (& , ; , , , ,& , ).    belief (, , )    (    )    belief (, )    appraisal.  ( , ; & , ; & , )          participant_modeling   role     perceived_vulnerability ,                   (& , ). 
+     (, )        behavior     (& , ; & , ).       belief         ""         . ","    ,         personality    ,     perceived_responsibility      (, ). ,                        perceived_responsibility  ,    "" (, ),               ,   behavior_control-ability       behavior_control-ability   ( , ; & , ; & , ).            ,  (, ; & , )                          behavior. 
+  belief   behavior,  ()          perception,  perceived_behavioral_control,           (, ).                           (  )   ().            techniques  . 
+       ,              (.,   ., )   .     behavior         .       appraisal :  process  perceived_vulnerability appraisal   process   appraisal (& , ).      belief,   (, , ), threat_appraisal   behavior    : ()  intrinsic_rewards   behavior, ()       , ()   perceived_vulnerability   perceived_vulnerability  perceived_vulnerability   perceived_vulnerability, ()  ﬁ      behavior (  ﬁ),  ()     ﬁ         behavior,   ()  loss    
+================
+.   ./    behavior  ()  
+ 
+ perceived_vulnerability.       ,    "perceived_vulnerability  " ()          . 
+       : perceived_vulnerability appraisal   appraisal   . perceived_vulnerability appraisal     arousal        .  appraisal    intrinsic_rewards      protection_effect  perceived_vulnerability;        perceived_vulnerability  .   belief,      protection_effect  perceived_vulnerability                      (& , ;   ., ). 
+.. perceived_vulnerability appraisal 
+ perception  perceived_vulnerability  ﬁ   forethought_capability    (.., ),  (.., ),   (.., )   loss    ,      (COVELLITE, ).       Interception  ;  ﬁ  ; [exposure]     ;   loss  ,  /           ﬁ, ,       (, ).    ,   ﬁs    ,       ,          loss  . 
+  perceived_vulnerability  ,  mental_calculation  behavior    combining  perceived_vulnerability   perceived_vulnerability       (   perceived_vulnerability ).             loss        perceived_vulnerability (& , ). ,    mental_calculation  behavior        loss  perceived_vulnerability   (, ,& , ).    perceived_vulnerability         personality       loss   .    , ,   :      perceived_vulnerability  ,       personality .   ,     ,             .   - ,      ﬁ            ,   ,       .  ,            (  )     (   loss) (& , ).      ,  belief  fear_arousal  (  ., )               perceived_vulnerability.  ,                   ( ).    ,                     (   ).            perceived_vulnerability         perceived_vulnerability         . 
+ ,   perceived_vulnerability appraisal      perceived_vulnerability     belief  perceived_vulnerability behavior      : ()        "," ","  ""; ()       perceived_vulnerability   ,  , , ,  ; ()  " "  perceived_vulnerability               ﬁ   perceived_vulnerability        ; , ﬁ, ()  appraisal            perceived_vulnerability          perceived_vulnerability (, ). ,  ﬁ belief : 
+:           perceived_vulnerability                     perceived_vulnerability. 
+ 
+       &  ﬂ       ,  ,     . 
+================
+ 
+.   ./    behavior  ()  
+                ,  ,    behavior.                .          ,          .        belief    (& , ; , ).   belief,       ,         "     " (& , ).   ,    ()     ﬁ ﬁ         ,      . ,        "  "  protection_effect        , ,  ,    perceived_vulnerability        perceived_vulnerability     (, ;  & , ).   ,  , , ,                   ( & , ).        ,  ,                        (& ., ).  ,           fear_arousal, ,  frustration_of_needs     perceived_vulnerability  .  ,  ,          role   (& , ;  & , ). 
+    perception   ,         belief  ,                ,       ,  ﬁ,    ,      ,    ,    ,    [activity]     (, ; , ,& , ). ,      opportunity_for_criminal_acts    ,          (& , ; &  , ; , ;   ., ). , 
+:      perceived_vulnerability     perceived_vulnerability               perceived_vulnerability     perceived_vulnerability. 
+..  appraisal 
+  belief           participant_modeling    ﬁ ,     extrinsic_rewards     (, ).  ,        :    (, )   (, ).           behavior  ,          ()   ()   ﬁ  (, ).           [experience]   syllogistic_rules             (& , ). ,                    [goal ],           syllogistic_rules         . 
+          perceived_responsibility    (& , ; & , ).         ,          ,   perceived_responsibility     [action ]. ,             ,      perceived_responsibility      (, ). 
+   personality   possibility_effect         personality  (     ,       )        (& , ). "     perceived_responsibility            
+================
+.   ./    behavior  ()  
+ 
+      behavior" (, , . ).   belief  perceived_responsibility      ,        . 
+     ,                     (, ,& , ).  gain,     perceived_responsibility      ,    ,      .              (, ;   ., ).       perceived_responsibility   ,      ,        ,  ﬁ,   ,        (, ,  ,& , ; , ;   ., ). , 
+:                        . 
+      gain    .   ﬁ                  ﬂ        (, ).      , ,            ,  , ,  ﬂ,   .          ,           (& , ). "       ﬁ        ,   extrinsic_rewards     ,    persistence       ,       ... [ ]  syllogistic_rules   ﬁ  perceived_vulnerability            frustration_of_needs" (, , . ). 
+                 ,        ﬁ protection_effect    (  ., ,   ., ). ,     ﬁ protection_effect   ,  ,                       (& , ). ,                        (& , ). ,    ,                ;                     perceived_vulnerability,                  (& , ). : 
+:              perceived_vulnerability                       perceived_vulnerability. 
+              ﬁ         ,                              .  ,    ,   , "              " (& , , . ). ,       (.., , ;   ., )           gain,           (& , ).    ,            (, , physical_quality ,& , ).                   behavior. , 
+================
+ 
+.   ./    behavior  ()  
+:      ﬁ     appraisal               ﬁ     appraisal . 
+ ﬁ    perceived_vulnerability     loss appraisal   appraisal . ()   [rewards] ( ﬁ)        ,   extrinsic_rewards    behavior  ﬁ    ,  loss  ﬁ   adaptive_response.            loss/ ﬁ appraisal (.., & , ).  appraisal   perception           appraisal      [experience]    ﬂ behavior (, ).          behavior,           ﬂ              extrinsic_rewards     .   ,   extrinsic_rewards       (, , ,& , ). 
+    ,        persistence  loss /ﬁ         personality            (..,   perceived_vulnerability ),        (   , ).         (.., , ,& , , & , )     belief   (, ,& , )           .       loss /ﬁ appraisal              extrinsic_rewards              . 
+      , ,  loss        loss     appraisal   possibility_effect ﬁ,    segregating  ﬁ.    ,   extrinsic_rewards      appraisal         certainty_effect  ,    ﬁ            ﬁ     (, ).    ,   loss    appraisal  ,           ﬁ,     (  ., ). ,     ﬁ           loss    ,        ,   (& , ): 
+:      loss                    loss    . 
+.  
+..  
+ focus  ,    ﬁ focus    intrinsic_rewards,   .    perception    personality    belief               generalizing     .       fear_arousal    ,      personality  behavior          .   ,       personality       ﬁ     learning      .   ,               (: intelligence ).       personality -           ﬁ, ,  ,     ,     personality     .         .   ﬁ   
+ 
+    (, ). 
+================
+.   ./    behavior  ()  
+ 
+        ; ,   ,       ,   %  evaluating   ±3.%  ﬁ       appraisal  ..         (& , ). 
+..  Collection 
+     intrinsic_rewards : ()     ()    behavior     .           (  ),        (  ).   ,     perceived_vulnerability      , ,  perceived_vulnerability perceived_vulnerability, ,  ﬁ,   ﬁ appraisal     .           combining       .              . 
+ experiential_awareness     focus         . (),   . (),   (),  : ()      , ()          ,  ()     ,             [policy ].        [Organization]  focus            personality  personality ,                . 
+..  
+      intelligence      ﬁ         perceived_consensus ()   ﬁ perceived_consensus.           ,  /       (   ﬂ )        focus      .           ﬁ   .  [Organization]      ﬁ focus         personality     .    ,     focus                   personality ﬁ.      focus,          . 
+                 perceived_consensus    perceived_consensus      .         protection_effect           ,                 (& , ; , ; , ; , ).   ,     ,       [action]       ,        (, ). 
+       protection_effect   ,           focus         certainty_effect       ﬁ.     Collection     .          .      ,           ﬁ             protection_effect          .          Collection. 
+..  
+          .    , ,   (),       ,         ﬁ.    ,     ,  
+================
+ 
+.   ./    behavior  ()  
+  
+, , , ,   
+    (= ., = .)  
+   
+      ﬁ  : 
+ ... 
+. . . 
+       ﬁ  : 
+ ... 
+. . 
+   ﬁ       
+perceived_consensus  [knowledge] :  ... 
+. . 
+      loss   : 
+ ... 
+. . 
+      , [    
+  ] :  ... 
+. . 
+     ()  ﬁ     . ()  
+perceived_vulnerability (= ., = .)  
+   
+  perceived_vulnerability   ﬁ     
+:  ...opportunity_for_criminal_acts 
+. . . 
+        ﬁ   simplifying 
+   :  ... 
+. . 
+. . 
+       ﬁ  
+  perceived_consensus  [knowledge] :  ... 
+        :  ... . .            : 
+ ... 
+. . 
+     ()  ﬁ     . ()  
+   (= ., = .)  
+   
+   ﬁ   :   
+ ...   
+. . . 
+             
+  :  ... 
+. . 
+   perceived_responsibility    ﬁ  
+ :   ... 
+. . 
+   () ﬁ        ()  
+ (= ., = .)  
+   
+  ,     :  ... . . .             
+:  ... 
+. . 
+. . 
+            
+     ﬁ : 
+ ... 
+. . 
+            
+     :  ... 
+         : 
+ ... 
+. . 
+   () ﬁ          ()  
+ ﬁ (= ., = .)  
+   
+     ﬁ   : 
+ ... 
+. . . 
+. . 
+. . 
+         ﬁ 
+    :  ...             
+ ﬁ  :  ... 
+           
+   :  ... 
+. . 
+          
+  :  ... 
+. . 
+     ()  ﬁ     . ()  
+================
+.   ./    behavior  ()  
+ 
+  () 
+ loss (= ., = .)  
+   
+       : . . . 
+ ﬁ ...  ﬁ 
+  loss     :  . . 
+ﬁ ...  ﬁ 
+  impact       : . . 
+ ﬁ ...  ﬁ 
+     ()  ﬁ   ,  . ()  
+    (= ., = .)  
+   
+          : . . . 
+ ... 
+       : . . 
+ ... 
+     :  ... . .     ()   evaluating  
+experiential_awareness      physical_quality 
+ 
+      . .        . .      . . 
+   .        ,      "    "    ( "")      ﬁ      .     [Organization]    ,       [policy]      ,            learning    [policy ].  [policy]    ,  ,     participant_modeling .           ,      ﬁ.        ﬁ        ,              . 
+ protection_effect           , intelligence         [policy] , [policy]  , ,   personality . intelligence    ()     ,    [conscientiousness]      .   [policy ],    ,    "protection_effect      ,       ,  ﬁ  personality      ."  [policy]   ﬁ      ,           .    [policy]  : ",  /                 .      [policy]      ...[    ]                    ."     ,   experiential_awareness      ,      ()   ()  .   ,     comply_effect        [policy ].         (   ,    ),    ,    .          extrinsic_rewards (     ﬁ). 
+.  
+            behavior      .             
+================
+ 
+.   ./    behavior  ()  
+        .      behavior        ﬂ. combining    personality          .    isolation_effect,       appraisal         .   ,        isolation_effect          . 
+..      
+ focus    [modeling]   perceived_vulnerability  ,           .  perceived_vulnerability appraisal   appraisal           ,                 .       ,     extrinsic_rewards     . 
+.. appraisal    
+    ()       appraisal             ﬁ, ,   .                      ()     ,          (., & , ).    certainty_effect     .,    .                          .                . 
+  
+      
+     
+ . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . .  . . 
+ :   .  : . 
+================
+.   ./    behavior  ()  
+ 
+  
+   (   )   
+     perceived_vulnerability  loss 
+ . (.) 
+  . . (.) 
+ . . . (.) 
+ . . . . (.) 
+perceived_vulnerability . . . . . (.) 
+ loss . . . . . . (.) 
+ ﬁ        ﬂ     ﬁ  (< .)    .          ( , ).      behavior  , ,            .         ﬁ,          ,       ().          (&  , ). 
+                      (..,      behavior ).       ﬁ ( )    . .  ﬁ          ﬁ    ,  .      comply_effect      personality   ﬁ           behavior.     ,    ﬁ    .    ( ﬁ   . ).       
+. .       perceived_vulnerability  . : 
+*< ., ** 
+< ., 
+*** 
+< ..   . 
+================
+ 
+.   ./    behavior  ()  
+ behavior,     .              .%  .%, .    ,                         personality     . 
+.    
+   ,  ﬁ             perceived_vulnerability   certainty_effect    protection_effect   .          perceived_vulnerability         perceived_vulnerability    ,     perceived_vulnerability     . combining           perceived_vulnerability appraisal.   personality ,  ,    , fear_arousal    .      ,     extrinsic_rewards fear_arousal .      fear_arousal    ,      perception         [action ]. ,   ,              , ,  . 
+   ,   physical_quality            frustration_of_needs     . ,                     ,    perceived_vulnerability       . ,   frustration_of_needs,          behavior    loss       .       ,                   (  ). 
+          ﬁ .     loss         loss       .         intrinsic_rewards     perceived_uniqueness .     intrinsic_rewards () appraisal                 .  personality           combining     belief.       ,     belief         .      personality      perceived_vulnerability   ()    behavior_control-ability      .    , ,        ﬁ            [policy ]. 
+  ,      [policy ],     belief (, , , ,& , )   fear_arousal         vigilance   ,  .       ﬂ          perceived_vulnerability ,      .     ,    personality         . ,  perceived_vulnerability          fear_arousal    ﬂ   . 
+                  perceived_vulnerability.     focus    syllogistic_rules              combining  . ,                possibility_effect (),       perceived_vulnerability     ﬁ  (  ).  ,   behavior combining       behavior   ﬁ.     ,           .                        ,           "  
+================
+.   ./    behavior  ()  
+ 
+."  ﬁ               . 
+,   personality,        belief,      perceived_vulnerability    ,                 perceived_vulnerability. ,  ,   ﬂ    ﬁ    behavior. ,            protection_effect  perceived_vulnerability,           behavior.           ﬁ       perceived_vulnerability . 
+     focus   . ,                     . ,   , experiential_awareness     techniques           . , experiential_awareness          .   ,      ,     comply_effect     behavior.  combining      experiential_awareness      gain             ﬁ    behavior ("        ").                ﬁ    behavior. 
+   []         ,                 ,           ,                 [rewards] (& , ).       -    focus,             loss, ,  ﬁ        behavior. 
+. belief      
+         .          ,        .                .       ,     ,             personality    .       protection_effect   ?   focus                 .   behavior             . 
+     ,  ,       mental_calculation.     techniques  "  " .     focus                          (& , ).            opportunity_for_criminal_acts         .  techniques          ,     ﬁ  vulnerabilities   ,            .   ﬁ    ﬁ      perceived_vulnerability              perceived_vulnerability   .   perceived_vulnerability appraisal  ,   ,   ,    [goal]   . 
+       ,          ,  personality   (     focus)  .      [Organization]         ,                       perceived_vulnerability      .  techniques       .            
+================
+ 
+.   ./    behavior  ()  
+,     ﬁ  gain      .     ﬁ     possibility_effect              . 
+ gain    ,         " "  .        perceived_vulnerability    ,     .         , ,    .      ﬁ       ﬁ,                     .       : "[   ]                [  ]    ."  physical_quality   ﬁ     ﬁ,    ﬁ            belief  (, ;   ., ).    behavior          ,        behavior_control-ability   . 
+ 
+, .,& , . ().       .    , , . , .,& , . ().      :       
+  ,         ( ),  , ,  
+(. ). 
+, . ., , . .,& , . . ().  ,   ,     :  
+.  , , . 
+, . (). perceived_behavioral_control, ,   ,   belief   behavior.   
+  , , . 
+, . ().   focus      .   , , . , . (). :    belief   .  , (), . , . ().   belief  .  behavior    , , 
+. 
+, . ().   belief :   .    (), . 
+, .,& , . . ().    personality .  : ,   . , . ().      ,   .  , , . 
+, . .,& , . . ().       .   behavior, (), . , .,& , . ().   belief.  . & .  (.),   behavior :  
+      (. ). , :   . 
+, . .,& , . ().     .    (.).       
+ (. , . ). , :  . 
+, . . ().  -    combining  ,        .     
+, . 
+, . . ().     :  role     .   
+, , . 
+, . .,& , . . ().       .    , (), . , . .,& , . ().   , ﬁ perceived_responsibility,   intrinsic_rewards   
+ .     (), . 
+, ., , . ., , ., , .,& , . ().  :      loss 
+ protection_effect   .      .       [policy ], , . , . .,& , . . ().  :    appraisal   .  , , 
+. 
+, . . ().  ,    ,   belief   .  , 
+, . 
+, . ., , . .,& , . . ().  belief   :      
+.  , , . 
+, .,& , . ().       .    
+ , , . 
+, .,& , . ().      :   . 
+  , , . 
+, .,& , . . ().     :     
+.    , , . 
+, .,& , . ().  syllogistic_rules     -   focus   .  , , 
+. 
+, . .,&  , . . ().   :      . 
+  , , . 
+, . .,& , . . ().     ﬁ:     .   
+ , (), . 
+================
+.   ./    behavior  ()  
+ 
+, .,& , . . (). mental_calculation        appraisal . 
+   , , . 
+, .,& , . ().   intelligence :      . 
+ , , . 
+, .,& , . ().   perceived_vulnerability  ﬂ:      [action]    
+.  , , . 
+, . . ().           perceived_responsibility      
+.  , , . 
+, . ().         . ,  (. ). 
+, . (). intelligence ,  .   perceived_vulnerability , , . 
+, .,& , . ().        . behavior   , 
+, . 
+    (). personality    extrinsic_rewards :    . 
+ . <://..////.>  ... 
+, .,& , . . ().     personality   .    
+, , . 
+, . .,& , . (). protection_effect coding :        .   
+, , . 
+, . .,& , . ().     . ,   , , . 
+, ., , .-xxx., physical_quality, . . .,& , .-xxx. ().   focus     . 
+    , , . 
+, . (). personality       .  , , . 
+, .,& , . . ().  focus    ,  intrinsic_rewards,  perceived_vulnerability    
+ .             (),  (. 
+). 
+, .-xxx.,& , .-xxx. ().        appraisal :    . 
+   , , . 
+, . . ().        [action]   behavior.     
+, , . 
+COVELLITE, . . ().   .  :   . 
+, . ().    behavior.   , , . 
+, .,& , . ().   :     .    , , . 
+, . ().  ﬁ     ,  ,   (. ). 
+, .,& , . . (). [modeling]  :    role       perceived_vulnerability. 
+   , , . 
+, . . ().     :  . , . <://ﬂﬁ./ 
+.>  ... 
+, . .,& , . . ().      :        
+  ,   .     personality, , . 
+, . . ().     :      behavior .   
+ , (), . 
+, . .,& , . ().   . personality   , , . , . . .,& , . ().      behavior :      
+ belief.     , , . 
+, . . ().  belief.  : . 
+, .,& , . ().     ﬁ.     , , 
+. 
+, . ., physical_quality, . ., physical_quality, . .,& , . ().  - Shadow_Network  .     
+  . .   (. ). 
+, ., , . .,& , . ().  behavior    [policy] .    
+       ,  (. ). 
+, ., , ., , .,& , . . ().        :  
+    belief  combining   .   , , . 
+, . .,& , . (). mental_calculation   :       . 
+  , , . 
+, . ., , . .,  , .,& , . ().       : 
+ﬂ    . behavior  , ,  , , . , ., , .,& , . ().       ?  fear_arousal     
+    .  , , . 
+, . .,& , . . ().      belief     
+    perceived_vulnerability.     , , . 
+, .,& , . ().    imagination    [exposure]  .   
+ , , . 
+, . . ().    belief  fear_arousal   perception .   , , . , . . ().      fear_arousal   perception :   belief   
+.  . & . personality (.),   (. ).  :  . 
+, . ().         .  , , 
+. 
+, . ., , . .,& , . ().   :    . 
+  , , . 
+================
+ 
+.   ./    behavior  ()  
+, . ().     :  ?    , , . , .,& , . . ().     .  :    . 
+. ().    [policy] . , . 
+, . ., , .,& , . ().    combining -  /  perception  
+   .   , , . 
+, . . ().  [policy]   :      belief.   
+ , , . 
+, . ., , .,& , . . ().  :     .    
+ , , . 
+, . ().  ﬁ      perceived_uniqueness . . , (. ). 
+, . ., , ., , . ().  ﬂ      [policy] , 
+   , , . 
+, . .,& , . ().    belief           
+  .       , (), . 
+, . .,& , . ().    :  .  , , 
+. 
+, . ., , . ., , .,& , . ().      .     
+, , . 
+, . ., , . .,& , . . ().     :  ﬁ    
+.    , , . 
+, . .,& , . . ().       :  ﬁ focus.  , 
+, . 
+, . .,& , . . ().    perceived_vulnerability :  planning     .  
+, , . 
+, . .-xxx., , . .,& , . . (). perceived_responsibility     :  focus    
+ .    , , . 
+, ., , ., , .,& , . ().   perceived_vulnerability      
+  .   , , . 
+, . . ().   ﬁ-step. , :  . 
+ , .,&  , . ().        .   , , 
+. 
+, . . . ().  perceived_vulnerability. :  . 
+, . . ., physical_quality, . .,& , . . ().    belief perception    .  
+   ,   (. , . ). 
+, . (). satisfaction_of_needs    :   focus   perceived_vulnerability.    
+, , . 
+, .,& , . ().   frustration_of_needs    .      
+      ,  ,  (. ). 
+, .,& , . ().    :  focus    frustration_of_needs.    
+      , , . 
+, ., , . ., , ., , .,& , . . ().   belief    ﬁ: 
+syllogistic_rules      perceived_vulnerability .    , , . 
+================

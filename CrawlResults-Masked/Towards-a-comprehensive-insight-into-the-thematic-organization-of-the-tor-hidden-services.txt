@@ -1,0 +1,140 @@
+   intelligence     
+   perception    
+[Organization]      
+ ,  ,    
+ 
+,   
+{., ., .}@. 
+   personality ,            .             ,                   .  ,                . ,          personality    ,            .   ,       personality       .   ﬁ      intrinsic_rewards                 [Organization]   .      ,            . 
+.  
+ ,        personality   , ﬁ              .             [].         ,                .      belief   .                ﬁ      ,                  . 
+     [goal]         ,       personality ,                .  ,                  [activity]     , extrinsic_rewards ,  ,  ,    .      ,     (       ,      ),    (       ), ,  .                   ,                (.. , , ),    protection_effect  segregating    . 
+/ $. ©    ./.. 
+  perception                  .  ,              ,      ﬂ    ,  ﬁ      ,  extrinsic_rewards      perceived_responsibility .   ,        judging           .            personality        ,            [Organization]   ,     personality     . 
+     . ,          .                   ,    .                techniques      ,       . ,     . 
+.   
+ ,             ,    ,  physical_quality .   . []     ﬁ   Collection           ﬂ    . ,                   personality    ﬁ  .              ﬁ   judging    [], [], [],  participant_modeling        ,     ﬁ-economic  [], []. 
+   physical_quality        [], [].     [modeling]     intrinsic_rewards       physical_quality     ﬁ    . 
+    ,     focus  / ,       ,    physical_quality      . [],          physical_quality . 
+ 
+================
+ .    Collection     
+    . 
+     
+           () 
+    () 
+        
+ 
+ .. .. 
+. 
+.     
+          ,     .     ﬁ  combining      ,         ,         .                  []. 
+     ;         ﬁ     opportunity_for_criminal_acts.  ﬁ         ,          ,           , .    combining         ,          .                   ( ).    ﬁ ,          . 
+     ﬁ      (..   ,  ,  ),       .  physical_quality  (   )    . 
+.   
+     perception        ,     ﬁ     .  ﬁ    combining          ( , ﬁ, ﬁ,   ).         ,              segregating  .         . 
+ .%   ﬁ  ,      .           [].           ,         .%    (, , , , , ).  .%   ,  ﬁ         combining.   ,            . 
+                            ,           [].                    (.%  .%   []),                   ( []    
+ 
+ .
+ 
+ .
+ 
+ . 
+   
+ 
+ .
+  
+ 
+     
+   
+ 
+ (  ) 
+. .      ,    Collection      .  .%     ,      .    participant_modeling   .%   . 
+ appraisal ).        ,         participant_modeling       .           . 
+.   
+            impulsive_effect.      ﬁ       (..  ),   participant_modeling        .              .        experiential_awareness  impulsive_effect         ,            -   personality      -,              . ,   [action]            .  ,                       . 
+.  [modeling] 
+   [modeling] intrinsic_rewards               .                      .  belief   [modeling]     combining  .  [modeling]      belief         Collection      .         [modeling] techniques     (),     . []. 
+.    
+        ,    Collection   .  belief   
+ 
+================
+ .            .     . 
+    
+    
+     
+    personality     extrinsic_rewards  extrinsic_rewards  extrinsic_rewards                                     personality       [action]                             physical_quality            perceived_consensus   ﬂ   impulsive_effect    extrinsic_rewards         mental_calculation    
+. .      ,       ,      Collection     ,       Collection    .      experiential_awareness , ..     . 
+       ,        .         .      ,      .   process   ﬁ   perceived_vulnerability   experiential_awareness    .        ,    .    .      experiential_awareness    ,        (,       ).     : β:   , θ       ,          (,           ).  [goal]     generalizing    -       Collection -, ..       : (β:,θ:,:|:).            belief .       ,     appraisal,    []. 
+.     
+  process          : ()  appraisal, ()  ,  ()       ,            . 
+)  appraisal :  [modeling]  Collection     ,       ,         techniques [].   ,      .     ﬁ,          .    ,    ,          .       ﬂ (, ,  ,  ,   , .),             ,        .              (   ,    ,  ), 
+ .         
+  . 
+ 
+   
+    : -   protection_effect    
+   []   
+ 
+, ,  , , , , , ,  , , ,  
+, , ,  
+ ,  
+perceived_responsibility , , , , ,  , ,  
+, ,   
+, ,  
+, , , , ,  
+         personality      .               .    ,             .      ﬁ    . 
+)   :               .            ,     (..   ;   intelligence,   ).         personality,     .          : ﬁ                 ,  ,                    . 
+)  :             (.. )    Collection (        appraisal  )          .       mental_calculation                 .                   ,       ﬁ    .                 .         ,        .          ,      -     ,      ,        .   ,                 . 
+     ﬁ,       .         ,                  
+ 
+================
+. .  ,    ,                   ,   physical_quality           . 
+  Collection, ..                .                combining        ,        .          (  ﬁ,   ,   ,   ,   ).            ,           .           : : %; , : %;  , : %; , , : %. 
+                     .  [activity]     %    ,    , ,  extrinsic_rewards /,  perceived_responsibility ,   .   (   )    %      Collection.      ﬁ   .         ,  personality , ,  . ,         (   ﬁ ,   , ),       isolation_effect      personality    . 
+. ﬁ     
+    ,       ,   .        generalizing     ,                 .      
+process       ﬁ        .  ﬁ appraisal                      %. 
+.     
+                   .   Collection      ,     ,     ﬁ      intrinsic_rewards          [Organization ].      ,       -       -     . 
+  physical_quality ,       appraisal    ﬁ     . ,       ,           process  .    ,           . 
+ 
+[] . , . ,  .-xxx. , "   
+ : , appraisal, ,"   
+  (),    . , , . . [] ——, "       ,"  
+ :., . 
+[] . , . ,  . . , "   
+ﬁ:        ,"    
+  (),     . , 
+, . . 
+[] . , . , . , . ,  . , " 
+ physical_quality  physical_quality : personality   ,"   
+ . , , . . 
+[] . , "   :  appraisal    
+   ,"      
+     .   
+    , , . . [] . , . , . ,  . , "   
+      extrinsic_rewards   ."   
+     , , .  
+. 
+[] . , . .  ´ı, . ,  . , " 
+          
+physical_quality ,"      intelligence   
+. , , . . 
+[] . .   . , "physical_quality     
+    ,"       
+  intelligence   . , , . . [] . , . , . ,  . , "     physical_quality  
+  ,"  intelligence   . , 
+, . . 
+[]     . []. : ://. 
+.//.. 
+[] . , "      :   
+     ,"    
+, . , . , . , . 
+[] .      . []. : 
+://./// / [] . . , . . ,  . . , "  ," 
+     , . , . , . [] . . , ":      ," 
+. 
+ 
+================

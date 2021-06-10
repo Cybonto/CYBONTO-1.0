@@ -1,0 +1,641 @@
+personality     
+personality perceived_vulnerability   
+ ,  ,  ,      
+∗Department   ,   , 
+, , 
+: {, , , }@. 
+†US  ,  
+: ...@. 
+              personality perceived_vulnerability ().       , ,      process    intrinsic_rewards,       .      ,         /    ,   .              perceived_vulnerability (  perceived_vulnerability  ),            .     ,               protection_effect  .   ,  mental_calculation         ,          , ..,  /            .   ,  combining                 .   focus  ﬁ            ﬁ   possibility_effect  . 
+.  
+                personality  () [].       ,                [goal]    intrinsic_rewards,     ﬁ. ,         []   ,    ﬁ        : )       segregating      ﬁ   ( ..,     ),     ""             ; )                        ,            /              ( )  ;  )          ,  
+            [action]        . 
+   personality        ,    ,    (..,         )         . 
+ combining   ,                   /      .  focus  )         process         ﬂ     ;  ) personality /           behavior_control-ability /    loss     behavior. 
+       mental_calculation     ,        .    []    [],        ,          ,   %            loss /loss     (%)       (%).       perceived_vulnerability   /     . 
+       ﬁ        [],            .                [],      ﬁ-maximizing        personality       .             ,       .      [knowledge ],    ﬁ         ,      ,            persistence   
+   ,              ﬁ. ,     ,        . 
+================
+, , ..,  ( )   loss   ( )    ﬁ      .  ,         ,     impact.  ﬁ          [action] , ..,             ,       intrinsic_rewards    .        perceived_vulnerability  [exposure]    ,     loss   ﬁ   ,       loss  ﬁ intrinsic_rewards. 
+  ,                   .      ,            : )  /        ;  )           .     process         ﬁ       ,  combining   /       /      personality              personality .   ,   )         / ;  )    perceived_uniqueness          .              .           personality .           , 
+⊲   ﬁ focus   ,  mental_calculation          ,   impact      ,        personality . 
+⊲         :       ,       .     ﬁ           personality            ,       , . 
+⊲   simplifying   ,           /        perceived_uniqueness        . 
+⊲   focus    impact    ﬁ   possibility_effect  .         .      .        . .          . .         focus  . . ,  
+ 
+generalizing    . . 
+.   
+.  personality perceived_vulnerability 
+             ,      personality perceived_vulnerability  .  ﬁ        [],                             .        [],         .         perceived_vulnerability    .  []   ﬁ             .   . []     perception                     . 
+.  perceived_vulnerability 
+ perceived_vulnerability    perceived_vulnerability   loss     [].   . [] techniques   perceived_vulnerability   personality     behavior belief  behavior_control-ability           .   . []        perceived_vulnerability,         ,  ,     , .    ,                 .    perceived_vulnerability  perception              ﬁ       [].   . []                         .                    []. 
+.  belief    
+ belief                  .                intelligence     [].    []               combining   personality        .    [] techniques             .  simplifying       .       ()    []                .    []   
+================
+                   . 
+     ,     ﬁ    mental_calculation         ,              . 
+.   
+  ,            perceived_vulnerability,          ,            . .      . 
+.   
+ mental_calculation            .       :   [resource ],   ,  ,   .         [resource ],     ﬁ-wall, ,     . .       ,    . 
+ 
+" 
+ "evaluating "Щ" 
+ 
+ "evaluating "Ｉ" 
+ 
+ 
+() 
+ () 
+() 
+ " 
+ " 
+... 
+ " 
+. .       ,    . 
+⊲        intrinsic_rewards         /  [resource ].  loss              ,       . 
+⊲    ﬁ       ﬁ        (          )    . 
+⊲ ,    task      [resource]    behavior_control-ability  loss       . 
+,     [resource]     combining  [resource]     .  () ∈ [,]         ,             
+ 
+α 
+β 
+() () (·) (·) 
+() µ() (·) 
+() () () (·) 
+π(·) 
+  
+ . 
+ evaluating         
+ evaluating         
+ evaluating    []      [] 
+ loss       loss        
+                 [function]           evaluating 
+   
+     
+         perceived_vulnerability         
+ ﬁ   
+  .   ()    []       . 
+ []             ()    (),       , 
+()= α · (
+ ())
+ β · (),  ()= , 
+() 
+ ()    evaluating    []    , α ∈ [,]    evaluating     mastery_experience  , β ∈ [,] (     combining      ,      . )    evaluating       [resource ]. ( ())         ,  α · ( ())            ; ()      ,  β ·x()        .        []    .     α  β       ,                 ,      .            . ..   personality                 []       ,      α()  β().        personality   . .. 
+. loss      
+     ,            behavior_control-ability   loss    .          . 
+:   ,       perceived_responsibility  [resource ].  ﬁ [],      intrinsic_rewards  ﬁ        . ,             .   loss   
+================
+   : )  perceived_vulnerability      ,       evaluating α;  )    protection_effect [resource ],        [resource]     intrinsic_rewards.    loss ,     [],    .   loss      , 
+((), α, β, )= ( ())+ α( ()), ()       ,   certainty_effect     protection_effect [resource]   perceived_vulnerability   .   loss [function]        []   ,      ﬁ        . (), .., ( ()).  α( ())    loss            . 
+:   ,            .     ,     ,..,    ,    , .      behavior_control-ability  loss     .         loss : )   loss       ,       evaluating β;  )  loss    . ,        .   loss       , 
+((), α, β, )= ()+ β(), ()       loss,    .  
+  ()    (),  loss           . β()   loss     [action]       evaluating β. 
+. ﬁ    
+   ,                   [].          persistence   ﬁ,    ﬁ  perception      ﬁ   (  , .)       .  ()   combining        .    intentionality     evaluating α(),  ()= (α()). ,  mental_calculation     [function] (·),     [function]  α().             () ≥ . 
+      [function] [],             , 
+ 
+()= (()) (), () 
+= 
+          personality,             
+ 
+ (·)    [function]  ()           .  ,   (·)  . ,         ,       .    ,       []                   , .., (),     , .., 
+= 
+().   [],        , 
+()= (()
+ ()), 
+() 
+  ∈ [,∞)     intentionality      ,         . 
+      ,     perceived_vulnerability,             .   perceived_vulnerability (loss) [function] []     ﬁ  , 
+(())= ()+ 
+ 
+, 
+() 
+∀i ∈ [, ], ()      perceived_vulnerability (loss ).     ﬂ      ,        personality  ,  perceived_vulnerability         . 
+   intrinsic_rewards         ()(). ,    ﬁ      
+π()= ()()
+ (()+ 
+ 
+() 
+). 
+() 
+.      
+  ,       /           : )       , ..,      [action]    []   ;  )       personality,          [action]    []        . 
+.   
+  ,  techniques     evaluating   [action]  .            . 
+⊲   ,          [resource]      loss      .     loss . (),  loss [function]       ,
+ 
+(α, β)=  
+ 
+ 
+  
+((), α, β, ). () 
+ 
+⊲                 loss    
+================
+ .   . (),  loss [function]       ,
+ 
+(α, β)=  
+ 
+ 
+  
+((), α, β, ). () 
+ 
+,    ﬁ         . 
+ﬁ : mental_calculation    ﬁ     ()   loss  ()  ().     {α∗, β∗}         
+(α∗, β∗) ≤ (α, β∗), (α∗, β∗) ≤ (α∗, β). 
+  personality ,               , .., ()= .  . ()   ﬁ       ﬁ,        .   ,     []       , 
+()= 
+α 
+α+ β(
+ (α+β)). ()   . ()  . (),     loss [function]     , 
+(α)= (+  · α)(α 
+β 
+. 
++ β) 
+       behavior_control-ability  loss [function]    [action ]. ,        
+ α 
+(α) .. α ∈ [,] 
+           . 
+ :          ,
+ 
+ 
+α∗= 
+ 
+/ ≤ β, 
+ /> β. 
+:     (α) ... α, 
+ 
+α 
+= 
+β 
+(α+ β)( 
+· α · β ) 
+ α= , 
+ 
+α 
+ .        
+ 
+α 
+: ()  ;  ()            α= 
+ 
+ 
+.   ﬁ ,     (α)  ,         α= .    ,  
+ 
+ 
+≤ , (α)       α= 
+ 
+ 
+, ,       α= . 
+,             . 
+ 
+ :          
+, 
+β∗=
+ 
+ 
+  
+/ ≤ α, /> α. 
+   ﬁ      ,                belief. 
+belief :   ,          : () α∗= /  β∗= ,∗ 
+ /< /< ; () α=   β∗= /,∗ 
+ /< /< ; () α∗  β∗     α · β∗= /,  /= /= /< ;  ()∗ 
+α=   β∗= ,  />   /> . 
+:  ﬁ            .        belief      
+:   loss      :  loss       loss  .       (  ∈ {,})        personality  loss. , /< /       ﬁ personality  loss            . ,               evaluating.   , /> /       evaluating    . 
+. personality  
+  ,  techniques     personality                []   .   ,        ﬂ             [goal ]. ,           α()  β(), ,        . 
+ loss [function]      personality              mental_calculation  ﬁ  .           [resource]      loss    .  loss [function]   ﬁ  ,
+ 
+ 
+(α(), β())= ((), α(), β(), ). () 
+ 
+ ,   [goal]           loss   , ..,      loss [function ],
+ 
+ 
+(α(), β())= ((), α(), β(), ). () 
+ 
+     personality /    ﬁ  . 
+ﬁ : mental_calculation  /  ﬁ     ()   loss  ()  
+================
+().     {α∗(), β∗()}         
+(α∗(), β∗()) ≤ (α(), β∗()), (α∗(), β∗()) ≤ (α∗(), β()). 
+                       belief. 
+belief : mental_calculation  /  ﬁ     ()   loss  ()  ().      {α∗(), β∗()}    ,  (), ≤  ≤     [] ,      λ()  λ(),   
+()= 
+λ() 
+
+ 
+λ(), ()= 
+ 
+, () 
+λ˙A()=  · ( ())+ 
+λ() · λ() 
+ · () 
+, 
+λ()= , () 
+λ˙D()=  · () 
+λ() · λ() 
+ · ( ()) 
+, 
+λ()= , () 
+        ﬁ 
+α∗()= 
+λ() 
+ · ( ()), 
+() 
+β∗()= 
+λ() 
+ · (). 
+() 
+:     ,   [function]     ﬁ  , 
+((), α(), β(), λ())= ( ()) ()+ α()( ())+ λ()[α()( ()) β()()], ((), α(), β(), λ())=  
+() 
++ β()()+ λ()[α()( ()) β()()]. () 
+   [function]   ,   [action]      
+α()=  ((), α(), β(), λ()), β()=  ((), α(), β(), λ()). 
+    ,         . ()  () ... α()  β(),    
+∂2HA 
+∂α 
+= ( ()) ≥   
+∂2HD 
+∂β 
+= () ≥ .    ,     . ()  () ... α()  β()   
+∂HA 
+∂α 
+=   
+∂HD 
+∂β 
+= ,        ()  ().      ,   [function]   
+λ˙i()= 
+∂ 
+∂xHi((), α(), β(), λ()) 
+()   ∈ {,}.   . ()  ()  . ()  (),    . ()-(). 
+ 
+:   belief ,               [] ()   .          [action ]. ,          behavior  . 
+     belief               .         . ,            . (), ()  (). ,           personality   . 
+belief :        . 
+:     ()  ()  . ()  () ,        ((), λ(), λ())  ((), λ(), λ())          .          ... (),    
+∂2HA 
+∂x2 
+= >   
+∂2HD 
+∂x2 
+= > .        ... (),        []. 
+          ﬁ           ,      [] ()        , .., α∗()  β∗(),          []    . ,                       . 
+ ﬁ isolation_effect    [, ]    [, ,· · ·, ].   belief    ,   ﬁ        , .., α  β∗,       
+∂HA 
+∂α 
+=   
+∂HD 
+∂β 
+=     .          , ..     ,     [action]          ,       [action]      (+ )   , 
+α(+)()= α()() τ · 
+∂HA 
+∂α 
+, () 
+β(+)()= β()() τ · 
+∂HD, 
+∂β 
+()  τ      = [,,· · ·, ].     |∂H 
+ 
+|< ǫ  |∂H 
+ 
+∂α ∂β 
+|< ǫ,  ǫ    .      [action]     ,  []    {()()}, {λ()() 
+ 
+()}  {λ ()}        ﬁ.      []   ()     ,    [] ()()= .      =   ,      ()        () 
+.    λ ()  λ() ()    
+================
+  . ()  ().      perception. 
+      
+:    .∗ 
+protection_effect : α (), β∗(), (). 
+:     [, ]   . 
+        
+    : {α()}  {β()},  
+= ,,· · ·, . 
+:  |∂H 
+ 
+∂α 
+|> ǫ  |∂H 
+ 
+∂β 
+|> ǫ  
+:    []      
+  .      ()()= () 
+     { ()},  = 
+,,· · ·, . 
+:       . () 
+    λ() ()=  · α()()[ 
+ 
+()()] 
+ λ() ()=  ·β()()(), () 
+  {λ ( )}  {λ() 
+ 
+()},  = 
+,,· · ·, . 
+:        perceived_consensus - 
+  . ()  (). 
+:   
+belief :      ,          personality     ,
+ 
+ 
+α∗s= 
+ 
+/ ≤ β, 
+ /> β. 
+()
+ 
+ 
+β∗s= 
+ 
+/ ≤ α, 
+ /> α. 
+() 
+ α  β       []  .    []   , 
+= 
+α 
+α+ β 
+, () 
+:       [],          , .. ()= .   . (), α·( ()) β·xs()= . ,    = α/(α+ β). 
+   [],     ,   , .., β˙s= .   . () ...      , 
+= 
+λ˙β˙s 
+ 
+· () λ · () 
+ · () 
+= . 
+ . (), ()  λ= β() (  . ())    ,   ﬁ ,   
+ ()+()+() = . 
+  = α/(α+ β)       ﬁ,     · 
+ 
+α+  · α · β= . ,     . (). ,    . (). 
+.    
+                     ﬁ    . 
+    ﬁ . ()    ,    ﬁ  
+ 
+ 
+((),())= [()·ui() () 
+ 
+], 
+ 
+()  ρ   extrinsic_rewards              . 
+           ﬁ, 
+ ((),()) 
+ 
+.. ()=  · (() ()) 
+()=  
+              ,     gain  ﬁ     , ..  combining             . 
+      ,    ﬁ            . 
+ :            ,
+ 
+()= 
+()  λ() ·  () ≥ + λ() · , 
+, ()< + λ() · . 
+() 
+:    ﬁ      ,    ﬁ   , 
+((), (),(), λ  
+−i())= ρ[() 
+· ()  · () 
+
+ 
+ 
+ 
+() 
++ λ() ·  · (() () ())], 
+= 
+ λ()= µ()ρ  µ()   .       ... (),    
+∂Hi 
+∂ui 
+= (()
+ 
+ ()
+ λ() · ). 
+          ... (),    ﬁ      
+∂ 
+ 
+∂u2 
+< . ,       
+ 
+ 
+ ,      [action]    . 
+               . ,          intentionality   . ()  λ()   .             λ().  λ()      µ(),    
+================
+       λ().      . 
+belief :     ,  combining        
+( + ρ)( () 
+ 
+()= 
+=
+ ) 
++ ρ 
+() 
+:      ,     : 
+µ˙i()= 
+∂Hi 
+∂p() 
+= [λ() ·  ()]. ()   λ()= µ()ρ,    
+λ˙i()= ˙µ() · ρ+ ρ · µ() · ρ. ()  . ()  . (),    
+λ˙i()= (+ ρ) · λ() (). ()   . (),  ()  λ˙i()  . ()  (), , ()  (()  ())   . (),    
+ 
+()= [ () ()] [(+ ρ) · λ ()] 
+= 
+ 
+= [ () ()] (+ ρ)(()  ()) 
+= 
++  · (). 
+  combining              , .. ()= .     
+( + ρ)[() ] [
+ 
+()= 
+= 
+() ()]. 
+ 
++ ρ 
+()          , .. ()= ,    ()= ().  ()  . ()  ()  . (),      combining      . 
+      ,         .     ()= (),                belief . 
+ :   combining               
+()= 
+(+ ρ)( ) 
+(+ )+ (+ )ρ. 
+() 
+:   . (),      [action]                 perceived_vulnerability loss .     intentionality    evaluating α,            evaluating,      combining  ﬁ         , ..  .   perceived_vulnerability loss   intentionality       .          evaluating,      perceived_vulnerability   ﬁ , ..   . 
+ 
+.  focus 
+  ,  focus      focus      ﬁ  . 
+.      
+  ,  combining       /      ﬁ   , 
+• ﬁ  : /< /, .., = , = , = = .  . (),              {α∗= ., β∗= }    belief .   ,         .       .                 . 
+• ﬁ  : /> /, .., = , = , = = .    . (),    
+      {α= , β∗= .}   belief .   ,        .       .            . 
+* 
+ 
+{α =.,β*=} 
+ 
+. 
+/ 
+  
+. 
+/ 
+. 
+  
+. 
+. 
+. 
+{α*=,β*=.} 
+   
+. 
+/ 
+   
+. 
+/ 
+/ 
+ 
+. 
+/ . . .    
+ 
+ 
+/ . 
+/ 
+. . .    
+ 
+() /< / 
+() /> / 
+. .      
+.    personality  
+   belief ,      []  personality        . ,         []           /< /,   segregating . 
+  = , = , = = .    
+      {α= ., β∗= }        []  = .   belief .          []             .       [action]  τ   .        ǫ= .. 
+.                .   ﬁ   [action]     , .., α∗,  .    , .., β∗,  ,         belief . .      []    
+================
+ 
+ .   []  .,        belief . 
+. 
+() 
+ 
+ 
+. 
+. 
+ 
+α 
+β 
+. 
+ 
+. 
+. 
+. 
+. 
+combining    
+[action]   
+[action]   
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+() [action]   
+() [action]   
+. .    
+. .       
+. belief 
+.   
+    ,   combining                  .   (())= α()  (·)    [function]    α(),     =     perceived_vulnerability loss = .      → ∞ (         ), . ()   ()= 
+ 
++. .     combining            evaluating (   . ()).    evaluating ,       . 
+   ﬁ             .       ,           , ..,  /               .   ,  combining            , ,           .    focus    impact    ﬁ   possibility_effect  .          personality             . 
+ 
+. 
+. 
+. 
+ [] () 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. .      [] () 
+[] . ,  personality perceived_vulnerability : personality    
+    [Organization ]. , . 
+[] "  []   ." 
+[] . . , . ,  . . , "     
+ ,"      . , 
+, . . 
+[] . , . . ,  . , ".  ,"  
+,  .,  , . 
+[] . , :   . , . [] .  , . , . ,  . . , ":    
+ ,"   , . , . , . , 
+. 
+[] . . , . , . , . . ,  . . 
+, "  belief   :    
+perception,"    [modeling]    
+(), . , . , . , . 
+[] . , "    :   perceived_vulnerability - 
+   intrinsic_rewards  ?"    , 
+. , . , . , . 
+[] . , . , . , . , . , . , . , 
+ . , "  perceived_vulnerability    
+   ,"      
+(),    . , , . . [] . , . , . . ,  . , "  
+ perception       ,"  
+    . , , . . [] . , . , . , . , . , . , . , 
+ . , " :   belief    
+   ," intelligence ,   , 
+. , . , . , . 
+[] .   . , "    ," 
+ ,   , . , . , . , 
+. 
+================
+ 
+[] .   . , "   perception    
+    ,"    , . 
+.    , . . , , .  
+. 
+[] . , . . ,  .  , "   
+     ," , . , 
+. , . , . 
+[] .   . , "    ," 
+, . , . , . , . 
+[] . , . . , . , . , . ,  . . , 
+personality   belief. , , . . [] . . .  . ,  ,  . 
+, . 
+[] . , . . ,  . ,    
+ .   , , , . . [] .   . , " belief   personality  
+   ," , . , . , . 
+, . 
+[] .   . . , "personality    
+ ," :     , . 
+, . 
+[] . , . ,  . , "    
+          
+,"     (),     
+ ,  , . . 
+================

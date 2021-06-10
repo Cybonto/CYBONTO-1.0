@@ -1,0 +1,510 @@
+    
+ [modeling] 
+..  . , .        
+  ,  
+@., @.., @. 
+                  ,      . ,   extrinsic_rewards      perceived_vulnerability   ,  ﬁ      participant_modeling  /perceived_vulnerability     .         ﬁ   ,         perceived_vulnerability intelligence,     gain   gain     ,    .   ,  focus                ﬁ. ﬁ,         simplifying   ﬁ        .  simplifying  perceived_vulnerability           .     extrinsic_rewards   ,   /  ﬁ    /    .   ﬁ  ,  ﬁ            constraint  (    )   ,     ﬁ  gain.                . 
+   , ,  belief,    
+.  
+ evaluating      , , ﬁ, ,  .          [][][][]     . ,       constraint         ,        .              ,   ﬁ        intelligence  ﬁ      [][]. ,          personality      intelligence,                .    /  behavior_control-ability  perceived_vulnerability  ,    ﬁ participant_modeling  perceived_vulnerability intelligence   
+**   ;  :  ,    . 
+..  ..  
+    
+ belief , ,  ..@.., .@.. 
+.  intelligence     perceived_vulnerability     ,          perceived_vulnerability    personality .  ,  perceived_vulnerability        []     perceived_vulnerability,     ,    ,   ,   ,    ﬁ,  ,  Tactics,   .,   ﬁ         .        ,                 [][].  possibility_effect   /ﬁ: , , , . []           ﬁ perceived_vulnerability ,    perceived_vulnerability , protection_effect   . 
+  perceived_vulnerability [knowledge]   ﬁ   certainty_effect    behavior_control-ability   ,       : ()       ﬁ          gain         behavior; ()          intrinsic_rewards   gain     ﬁ         ; ()          .   extrinsic_rewards       () []        perceived_vulnerability intelligence  [].   ﬁ behavior    intrinsic_rewards     perceived_vulnerability [knowledge]      ﬁ,    intelligence ﬁ   ,      ﬁ .              ﬁ       perceived_vulnerability  . ,   ﬁ   ﬁ   ,              combining  perceived_vulnerability intelligence  participant_modeling    . 
+                 [][][],  focus     
+================
+ ﬁ.      ,    [][]          .          ﬁ       ,      , ﬁ participant_modeling      ,  participant_modeling,                participant_modeling       ﬂ    intrinsic_rewards [].    ,      combining      personality        belief        belief      intelligence  [][].     , ﬁ                        participant_modeling        .   ﬁ  ,          []       loss   ﬁ    .   ﬁ   participant_modeling,        combining          extrinsic_rewards perceived_vulnerability       .      : ()    ﬁ      combining  ? ()  combining     ﬁ      ? ()      ﬁ    (  personality )                 ? 
+belief  []   protection_effect   participant_modeling  perceived_vulnerability ,  mental_calculation          ﬁ         .         ﬁ   [activity]     .   ﬂ    process,           ﬂ                        .          ﬁ      ,        . ,        ﬁ        ﬁ .                 . 
+        .             .  ,     ﬁ      ()       .       ﬁ  participant_modeling ,      .           . 
+.   
+                  . ,         ﬁ    ,             ﬁ ﬁ.     :  ,  perceived_vulnerability  ,                           .          ﬁ          ﬁ       vulnerabilities, , , ﬁ,   .      ﬁ          ,  combining  combining    participant_modeling.  ﬁs      ﬁ  ,          .     perceived_vulnerability   ﬁ      ,         .     /  ﬁ     perception    extrinsic_rewards . 
+.   
+mental_calculation     ,   = ;; :::; ,       .    ﬁ      combining            combining       perceived_vulnerability  participant_modeling  ,                
+. 
+= (; )  (  
+) : 
+   
+ 
+    
+      = ; ; :::          (
+ )   ﬁ 
+  ,        ﬁ ,   (
+ ).         ,  ﬁ          gain [function] ,  . 
+     (; ; ),  mental_calculation     " intelligence  ﬁ-seeking"     ﬁ.  ﬂ           :  ﬁ    satisfaction_of_needs        /    . ,       /ﬁ   ,    [activity]     .      ﬁ  ﬁ  ,     .    ,         participant_modeling,   ﬁ       loss        . ,        combining    participant_modeling       ﬁ   . 
+================
+     ,        ,             . ,  [goal]        combining      participant_modeling  ,          .    ,    ﬁs gain [function]    perception. 
+.   
+           .     ﬁ gain,       . 
+ :   
+  
+ combining   ﬁ 
+ combining   ﬁ  
+ combining combining   
+   
+   
+ :   ﬁ  
+ extrinsic_rewards      
+()  loss [function ]
+      
+ perceived_vulnerability     
+ loss     
+)    intrinsic_rewards :  ﬁ      certainty_effect   participant_modeling  perceived_vulnerability   ,        ﬁ: ()  intrinsic_rewards   (()) ()  ﬁ    ((
+ )).   intrinsic_rewards,       
+,   ﬁ    perceived_vulnerability ,  ,  /ﬁ .   ﬁ     vicarious_experience intrinsic_rewards    ﬁ   ,     (
+ ). 
+   [function]  combining         ﬁs                [activity] .   ,    extrinsic_rewards   (),     role   intrinsic_rewards .   ﬁ      ﬁ    ,    ﬁ    extrinsic_rewards   .   ﬁ           combining  ﬁ    ()    extrinsic_rewards       [activity ]. belief ()   [function]  extrinsic_rewards  ﬁ       ,   intrinsic_rewards [function]    : 
+(; 
+ )= ( 
+()+ (
+ ))() 
+() 
+     intrinsic_rewards [function] (())    :  ﬁ  ﬁ    evaluating   ,           extrinsic_rewards .           [function] []   (+ ).   constraint, (+ )> ,   ﬁ   .  intrinsic_rewards          extrinsic_rewards   
+ evaluating.   ,  intrinsic_rewards    ,  gain    ,   extrinsic_rewards ()         ,        [function] (),   intrinsic_rewards       : 
+(; 
+ )= 
+(+ (
+ )) (+ 
+) 
+() 
+, >          intrinsic_rewards /ﬁ      / .   extrinsic_rewards  ()      ,            perceived_vulnerability intelligence            . ,       ,   extrinsic_rewards         .    ,  ﬁ      extrinsic_rewards   ,       . ,      ﬁ     [function]     ()   combining      ﬁ  .          ()  . 
+=
++   (
+ ) 
+( 
+()
+ ) 
+,= 
+ 
+ 
+               ﬁ.     combining    ﬁ   participant_modeling   ﬁ. (
+ )= 
+=  
+. (
+ ) 
+      ﬁ         [function]  combining      .           (). 
+) loss  [modeling] :    [activity]   ﬁ   : () loss       , ()  loss, () combining , ()  loss, . belief  ﬁ    :   ,  ﬁs  loss   ,     perceived_vulnerability            .    perceived_vulnerability   [function]   ﬁs   [activity]           ,    .     loss    combining      ().   loss [function]       [function ],  ﬁ    loss   ﬁ       [activity ].      loss   > ,    combining loss       = +()++. , combining   ,   gain  ﬁ         : 
+(; 
+ )= 
+(+ (
+ )) (+ 
+)
+  
+() 
+. [modeling]  
+     ﬂ perceived_vulnerability      ﬁ  ()      ((
+ )), 
+================
+() combining       ().      perceived_vulnerability appraisal        ﬁ    [][]            /perceived_vulnerability       .          []      .       , []     [function]                 .   [modeling] perceived_vulnerability       ﬁs     ,    ()              .     perceived_vulnerability ,      : 
+)   ﬁ     ,   
+perceived_vulnerability       
+ combining        
+  . 
+)   ﬁ    ,   
+combining combining        
+      ﬁ   
+ﬁ.    [activity]  ,  
+perceived_vulnerability        . 
+)          ﬁ, 
+      ﬁ    participant_modeling,  
+perceived_vulnerability        
+    ﬁ ( = ).   ,                . 
+                     personality     .      ;     personality,            loss   personality.  = = =  = ,     ,
+ 
+()=  
+ 
+  
+=  () , = [; ] = [; ]   .             . 
+  ,  combining    ()                      ﬁ   .   =     loss  behavior_control-ability     =     behavior_control-ability      .    = [(+);((
+ ))] 
+.  mental_calculation = (+)   perceived_vulnerability          ﬁ   participant_modeling . 
+     . (),  perceived_vulnerability        : 
+(+ 
+ 
+= 
+) 
+(+ ) 
+ 
++ ((
+ )) 
+() 
+     ﬁ    ,             ﬁ  . 
+. [modeling]  loss (()) 
+  loss (())       [function]    combining   perceived_vulnerability intelligence   , .. ()> .     loss  ﬁ      [exposure]    combining   . ,      [function]    [function] ,  ﬁ           certainty_effect ﬂ   . 
+.   
+    gain  ﬁ,       ﬁ         combining    participant_modeling     combining     ,     gain   .   gain [function]   ﬁ            [action]    . ,           participant_modeling  ,        .          : 
+  
+ 
+(; 
+ ) 
+(+ 
+;  
+  (
+ 
+
+ )) 
+( 
++ (
+ ) 
+ (+ ) 
+; ) 
+(+ ) 
+
+ 
+ 
+(+ )
+ ()   () 
+ 
++ ((
+ )) 
+    
+   
+ 
+ 
+   
+ 
+   
+() 
+.   
+  ,    simplifying            ﬁ         .    ,             . (),       > ,  ﬁ  intrinsic_rewards            .       ﬁ   ,  intrinsic_rewards         segregating   .   personality    ﬁ         extrinsic_rewards. ,    gain     ,         extrinsic_rewards    personality .       .      ( )     ﬁ                 . ,      ,  gain             ﬁ ( ). 
+================
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+personality  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+. : gain   personality    .     
+    simplifying       ﬁ  ﬁ  ﬁ            participant_modeling,     gain  .    protection_effect         ﬁ,   extrinsic_rewards     ﬁ      . 
+ .:  ﬁ   participant_modeling ,        , ..            participant_modeling  . 
+:   ﬁ       , .. = ,   intrinsic_rewards    ,    . (),  .    gain     loss ,       ﬁ   participant_modeling  (= ). ,          .            ,       . 
+     situational_circumstance     ﬁ    ﬁ              combining    participant_modeling. 
+ .:   ﬁ    ﬁ    ﬁ     participant_modeling      ,       ﬁ. 
+ + ()  (+ ) 
+(+) 
+(+) 
+>  , = (
+ ) 
+:        ﬁ   ﬁ     [function ],             ()  combining    participant_modeling ()         ().             constraint  (; ).           ,          
+ 
+  ﬁ.   . ()    ,  ﬁ 
+@ 
+= 
+(+ (
+ ) 
+@ + 
+  () ,      ,   
+@ 
+= 
+(  (
+ )) 
+(+) 
+@ 
+ 
+(
+  ()
+ ) 
+() 
+ = 
+(+)(
+ )((
+ )) 
+[(+)+(( )) ] 
+  ﬁ  
+ 
+    perceived_vulnerability      ()>    . 
+       : 
+@ 
+ 
+ 
+@ 
+ 
+= 
+ 
+@ @@ 
+ 
+@ 
+@  
+() 
+@@ @ 
+   ﬁ     . ()  ()      ,    . (),     ,
+"
+ (+( 
+#
+ )) (  ( )) 
+= 
+(+) (+)( )) 
+(  ( ))  (+) 
+(+)( (
+   ()
+ )) )) 
+() 
+, belief = (
+ ); 
+       ﬁ : 
+= 
+
+ (+ 
+) 
+ [(
+ ) 
+
+ (+ )(+ ) 
+] 
+[(+ ) 
+ 
++  
+ 
+] 
+     ﬁ,    ﬁ   = 
+@ 
+@ 
+<         certainty_effect, .. 
+ 
+()> .      . (), 
+@ 
+@ 
+=
+ (+) 
+(+) 
+< ,  ﬁ  ﬁ . , ﬁ    
+ 
+: ()=
+ (+ ) 
+ 
+(+  
+ 
+ 
+) 
+(+ ) 
+   ()
+ 
+(+  
+ 
+  ) 
+(+ ) 
+()     . ()   certainty_effect      ,      ﬁ: (+ ) 
+(+ ) 
+<  + ()  (+ ) =)  + ()  (+ )
+ 
+(+ ) 
+(+ ) 
+>  ()  ﬁ       constraint    ﬁ  (; ),      ﬁ      . ()  ()     .           , 
+= (+ )  () ()+ () 
+(+    ) 
+ 
+(+ )=  ()               ,        .   ﬁ            participant_modeling         (). 
+   () ,            ﬁ.     personality 
+================
+     [function]           constraint  . 
+.    
+      process    ,  ﬁ   [goal]      ﬁ                  ﬁ      . ,     extrinsic_rewards ,       ﬁ  participant_modeling      ,             .   extrinsic_rewards  ()        extrinsic_rewards /  ﬁ          .   ﬁ       ﬁ  ,   [rewards]   ﬁ     certainty_effect  . ,          ﬁ     combining  ,           ﬁ.   ,         protection_effect    .  extrinsic_rewards     ()                   certainty_effect  participant_modeling ,          ﬁ    participant_modeling    ,             .     ,   extrinsic_rewards   ﬁ        : 
+=
++   (
+ ) 
+(
+ ) 
+          ﬁ    . ,   combining ()  ﬁ        participant_modeling   .. (
+ ) 
+    extrinsic_rewards      ,    ﬁ     . ,    ,  (
+ ) 
+ ,  ﬁ     ,   [rewards]     protection_effect  behavior. 
+.    
+,                  .                 ﬁ,         . ().       perceived_vulnerability    : = ; = .   [function ], ()        
+   
+ 
+,  > .     (
+ ) 
+       combining combining       ﬁ  
+,  (
+ )= 
+=  
+.   ,   
+  ﬁ  combining    participant_modeling ()   combining  ()    . 
+ 
+  ()  
+  
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+     () 
+      
+. :     () 
+ 
+  ()  combining 
+   
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+combining       ( 
+    
+) 
+. :     () 
+      (),  ﬁ ﬁ  possibility_effect     (
+ ) 
+ 
+ . ().     ( 
+ 
+; ;(
+ ))  ﬁ   (),           ()            ;  .  . ,  ﬁ  = :      ()  ﬁ   (), ()         /     extrinsic_rewards .   ,    ;(
+ ) 
+ ﬁ.        ,       (= :)           ;(
+ ) 
+ ﬁ.     .        (),            . ,  
+       ( 
+ 
+; ;(
+ )) ﬁ   (),        ﬁ  ﬁ . 
+          ﬁ ,    ﬁ participant_modeling  ﬁ combining  ,       . .         combining      ()            .    experiential_awareness     combining    ﬁ        . ,       ﬁ    gain   ,   loss     
+================
+ 
+ 
+ 
+=   =   =   =   =   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+    
+. :   .     
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+−5 
+−10 
+  
+−15 
+−20 
+−25 
+−30  
+ 
+ 
+  ( 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ combining    
+ 
+ 
+. :       
+       .   ,     ﬁ   extrinsic_rewards        . ,  gain    combining   gain     .                 ﬁ  intrinsic_rewards  ﬁ. ,    combining     combining           . 
+ . ,  ﬁs     combining           [function ]. belief  combining    perceived_vulnerability       ﬁ,       gain  ﬁ          (; ),   ﬁ     . ().   ﬁ               ﬁ ()         [function ].                     . 
+.  
+  ,              protection_effect       protection_effect   .                    .         ﬁ  participant_modeling      .            [function]   ﬁ    ﬁ    ,      (combining        participant_modeling)    ﬁ  extrinsic_rewards. 
+             ﬁ         ﬁ     participant_modeling   .  ,    focus          perceived_vulnerability   ﬁ,                     . 
+ 
+[] ://.ﬁ.////  
+.. 
+[] ://..///// 
+. 
+[] ://../// 
+///. [] ://../. [] .   . , "     
+ ."    , . , . 
+, . 
+[] . , "   ﬁ   ," 
+     [policy ], . , . , . [] . , " ,"    
+ , . , . 
+[] . . , . . , . . ,  . . , " 
+   :     
+," . 
+[] "     , 
+://..////.." [] . , "   perceived_vulnerability  
+," & , , . , . , . , . [] . , . , . , . , . , 
+. , . , . , . , . ,  . , 
+":      (.)," 
+ . . ., . , . , . , . 
+. []. : ://.././. [] ://./////.. [] . . , . . ,  . , "  
+   :   ,"   
+   [policy ], . , . , . , . [] . , . ,  . , "[knowledge]   
+    ,"  protection_effect 
+, . , . , .  - , . []. : 
+://..//// [] . , . ,  . , "    
+ vulnerabilities  personality ,"     
+belief  . , , . . 
+[] . , : behavior, ,  . 
+  , . 
+[] .   . , " ," , 
+. , . , . , . 
+[] .   . . , " appraisal    
+,"   (  .   
+  ), . , . , . 
+[] . . , . , . , . . ,  . , 
+"       
+,"         
+ (), . 
+[] .   . , "      
+        ﬁ ,"  
+  , . , . , . , . 
+[] . . , . , . . ,  . , " impact 
+     [modeling]  ," , 
+. , . 
+[] .   . , "      
+   ," perceived_vulnerability , . , . , . , . [] . , . ,  . , "   
+       ,"  
+,   . , , . . [] . .   . , "  evaluating  ﬁ  
+    ," 
+   , . 
+================

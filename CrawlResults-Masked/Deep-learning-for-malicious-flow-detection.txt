@@ -1,0 +1,351 @@
+      
+ ,  ,  ,   
+ 
+   ,     
+    ,    
+ 
+  ,     
+:. [.]    
+            .   combining possibility_effect     task.    ,       participant_modeling ﬂ    . ,                  .     ,                   learning    . 
+  ,           ()  ﬁ      .   learning    ,       ()     [knowledge]     .         . experiential_awareness     perception       ﬁ          ﬁ   .      ﬂ               ﬁ   [capability]      . 
+.  
+          . ,     , ,    perceived_vulnerability     .                 perceived_vulnerability         . 
+   behavior_control-ability      ,                 behavior.    ,      fear_arousal    . ,   [], []      .              ,     ,          ,      .      gain        participant_modeling   ﬁ,          personality    possibility_effect   [capability ]. 
+            perception task []   perception task []    .               ,      possibility_effect  personality perception     . 
+         .   perception                 ,   ,     [knowledge ],  task                     task    .   ,           . 
+            [], []                  . ,            .               task.     ,           ()        ()     [knowledge]       ﬁ     .             .           : 
+//$.   
+        
+ ﬁ      . 
+     participant_modeling   
+       
+  .
+        
+ [knowledge]      
+   ﬁ   . 
+experiential_awareness       
+       
+       .         
+     ﬂ   
+================
+       
+     
+     . 
+        .            .                 .              .     experiential_awareness      experiential_awareness . ,  generalizing     . 
+.   
+         ﬁ .     [], []     ,           ,   intrinsic_rewards    . 
+.   techniques 
+       intrinsic_rewards,    []     [].               . ,    ,            .          ,       mental_calculation         . 
+.    
+    possibility_effect       [].                   .                   . 
+.   
+                     loss [function ].      ,                     .                   ,            .    ,    simplifying         .   ,          . ,               .  combining        combining 
+               : 
+@loss 
+ 
+= 
+@ 
+@ 
+= 
+@ 
+() 
+ 
+@loss 
+@ 
+   combining       , 
+@ 
+@ 
+            ,            . 
+    (),          ,    
+@loss 
+ @ 
+= 
+  
+@ 
+ 
+@ 
+() 
+      ,   
+     ,       ,   
+ 
+  loss    .   (),   comply_effect                   .          ,             combining                 .                            . ,                    .       . 
+ ,    ﬁ       certainty_effect   ,              .   ,            certainty_effect  ,             .   ,         certainty_effect             certainty_effect . 
+               .        , 
+; 
+ 
+  task,                      learning    .    impact           ,             , mental_calculation          ,       ﬁ. 
+================
+ 
+ 
+ 
+[, ] 
+  
+ 
+() ()   
+()  () 
+  
+     
+ 
+ 
+[, , ] 
+       
+()()  
+. .      ﬁ   . ,      ﬁ   ﬁ        ﬂ   ﬂ. ,      ﬁ    ﬂ,  ﬁ          behavior. ,     ﬁ-grained ﬁ 
+  . 
+.  
+.    ()         .      : 
+ 
++ 
+ 
+=  
+@loss 
+@ 
+()     
++ 
+           ,    evaluating, 
+@loss 
+@ 
+      loss  
+ 
+  . 
+,     learning -  evaluating    ﬂ                        personality  .     ,            learning         .    ,        ( ())                    .      : 
+ 
++ 
+ 
+=    loss
+ = 
+ 
+; 
+ 
+; :::; 
+ 
+ 
+   @ 
+; 
+@ 
+@ 
+; :::; 
+@loss 
+ 
+@ 
+ 
+@ 
+() 
+() 
+= 
+() 
+     ,         ,     
+        ,      ﬁ         .                      .            loss       .  ,        ,    ﬁ     ,  =   = .   (),    : 
+ 
++  
+= 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+@ 
+ 
+@ 
+() 
+= 
+[ [ 
+; =  = = 
+() 
+      ,   
+     ,        .   
+ 
+ 
+ 
+ ,   , 
+ 
+@ 
+ @ 
+      
+ 
+       ;      
+ 
+= . 
+  ,         combining              .   ,  ﬂ      ,   ﬁ        .   persistence . 
+.     ()      ,        (. )   - ﬁ     .  ﬁ                 .       loss [function]           . 
+            ,           ﬁ   . 
+   .  (),  ﬁ combining         ""  participant_modeling   ﬁ    ﬂ    .   ,                                ﬁ.    ﬁ,    ""  ﬁ             
+================
+,         ,   participant_modeling   ﬁ. 
+      (.  ()),        ﬂ     behavior.      personality,   behavior                 .  (). ,            .         
+ 
+   ﬂ    ﬁ     ,     
+ 
+ ﬁ    process        
+ 
+   ﬂ   ﬁ       
+ 
+   ﬁ         
+ 
+= [ 
+; 
+ 
+] 
+        . ,     
+ 
+         ,  intelligence   
+ 
+   ﬂ      
+ 
+   ﬁ  .  ,      
+ 
+  ﬁ     
+ 
+= [; ; ]       
+ 
+  
+ 
+= [; ],              
+ 
+= [; ; ; ; ]. ,   ﬁ  ﬁ,                ﬂ  .     ﬁ    ,      . ,    -  ""      satisfaction_of_needs                ﬁ-grained ﬁ. ,    ﬁ-grained ﬁ   .  ().   ,          .  ,     
+ 
+     combining  [knowledge]       .   ,       
+ 
+  
+ 
+   ﬁ           
+ 
+  ﬁ    mental_calculation     
+ 
+= [ 
+; 
+ 
+; 
+ 
+] 
+        . ,       .    ﬁ    ,      ﬁ      . 
+       ﬁ  ,        intelligence          judging      . ,     
+ 
+  
+ 
+                 
+ 
+  
+ 
+     . ,  gain    
+ ﬁ         
+ 
+  
+ 
+    combining              . ,              ,                 ﬁ    .  gain        ,       . ,     ﬁ  ,           . 
+.  
+.  Collection 
+  ﬁ                 ﬁ.    ﬁ   behavior        combining (://..)  . 
+                  .         :, , ,  , , , ,    ﬁ    . ,               . 
+  
+  
+ 
+   
+ 
+            
+, 
+ 
+ , , 
+ 
+ 
+ 
+ , , , 
+.  
+.  .  .  .  
+.  
+.  .  .  .  .  .  
+combining 
+, 
+.  
+.   
+) syllogistic_rules :     . [],    syllogistic_rules   ﬁ   ﬁ  ﬁ  ﬂ. ,    syllogistic_rules   , ,     ﬁ ﬂ    .  gain,     . []    . [],           participant_modeling   role  ﬁ ﬁ.        . 
+================
+ 
+ 
+  
+ 
+ 
+  
+    
+  
+  
+================
+================
+     .         ,     focus      combining          .  personality       "  "    . ,  combining      (. )          possibility_effect    experiential_awareness     . .   experiential_awareness ,   comply_effect          .   ,       ﬂ.      ﬂ      syllogistic_rules,        process    .          possibility_effect    ﬁ                  ,       [capability]   . 
+ ( ) 
+ ( ) 
+ ( ) 
+ ( ) 
+ ( ) 
+. ( ) 
+ ( ) 
+ ( ) 
+ ( ) 
+ ( ) 
+ ( ) 
+ ( ) 
+ ( ) 
+ ( ) 
+ 
+   perception evaluating (%) 
+ 
+ 
+. .                  . 
+. belief 
+           ,      learning  learning    ,  participant_modeling  ﬂ .       ﬁ    ,        .      ﬂ         perceived_vulnerability             ﬂ.   experiential_awareness ,     
+ ﬁ.        possibility_effect ,                .  experiential_awareness            possibility_effect        ﬁ   perception        . 
+.  
+          , ,        . 
+ 
+[]  ,  ﬁ,  ., "    
+ intrinsic_rewards     ,"   
+  , . , . , . , . []  ,  ,  ,  , 
+ ,  ,   , 
+"         
+,"      , . 
+, . , . , . 
+[]  ,  ,    , " 
+ ﬁ     ," 
+       , . 
+, . 
+[]  ,  ﬁ,  ,   , 
+  , "    
+ ,"  , . , . , . []   ,  ,  ,  , 
+ ,   , "  
+physical_quality        
+  ,"     
+(), . , . . []   ,  ,  ,  , 
+ ,   , "   
+ personality        
+,"         
+ (), . ,. . 
+[]  ,  ,    , " 
+  techniques ()    
+ ,"    :., . []  ,  ,   , "  - 
+   ,"    
+ , ,  ,   (), . , 
+. , . , . 
+[]     , "   
+   perception , perception    
+:  ,"      & 
+[knowledge]  process, . , . , . , . []  ,  ,   , " 
+    ﬁ   
+  personality  ﬁ ﬂ ﬁ,"   
+   , . , . , 
+. , . 
+[]  ,  ,   , "simplifying - 
+     ( ),"    
+:., . 
+[]      ,  , 
+"    ,"   . ., 
+. , . , , . , . . []  ,  ,   , " 
+    ﬂ-based ﬁ,"  ,  
+, , . 
+[]     , "  
+  perceived_vulnerability ,"     
+    (), . , . 
+================

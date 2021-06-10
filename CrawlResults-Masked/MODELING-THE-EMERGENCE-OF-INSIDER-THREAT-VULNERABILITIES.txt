@@ -1,0 +1,388 @@
+       
+. . , . . , . , . . , . . ,  . . , . 
+[modeling]     perceived_vulnerability VULNERABILITIES 
+ .  
+ .  
+  perceived_vulnerability      
+      
+,  ,    , 
+ 
+ .   .  
+    
+      
+, ,    , 
+ isolation_effect          
+ .  ,     
+  ,      [modeling] ,   (  )   
+    perceived_vulnerability vulnerabilities    vulnerabilities  learning  intrinsic_rewards  
+.   ,         (  ,    
+belief belief,   belief,    <..//.>). 
+    belief .   ,          
+,      vulnerabilities (      [circumstances]   
+   )  personality       opportunity_for_criminal_acts  . 
+      ,  
+,     perceived_vulnerability   belief  
+ .        
+      
+  Vulnerabilities   
+      .   ,  
+    perceived_vulnerability     
+process      simplifying  perceived_vulnerability 
+, 
+ 
+ gain   ,  
+, 
+ 
+ ,        
+ 
+   intrinsic_rewards. 
+, 
+ 
+, 
+  
+ 
+, 
+ 
+         
+, 
+ 
+   (   ,  
+, 
+ 
+     . ).   
+       combining   
+-  
+      [knowledge]  
+    ,    
+protection_effect         
+  Vulnerabilities  
+. ,  ,  
+   , ,    
+ :   Vulnerabilities  
+,         
+           
+,      mastery_experience,  
+  opportunity_for_criminal_acts.   [circumstances ], learning - 
+      ,  
+    
+  Vulnerabilities  
+        
+ 
+                  
+ 
+//$. ©2006  
+ 
+================
+, , ,   
+ , vulnerabilities ( )  ,  ().       vulnerabilities    .   ,      ,     ,         (  . ). 
+ ,  /                        , , ,    loss  /  [Organization] (   ). 
+  . (),      perception      ,    personality  belief   perceived_vulnerability     belief         possibility_effect            loss.  belief       . (),           . ().          belief     . 
+ personality  belief (  )                   .       :   trap ,  intrinsic_rewards trap ,     trap . 
+- [Organization]   perceived_vulnerability 
+ 
+ 
+intrinsic_rewards 
++ 
+- 
++ 
++      
+ 
+ 
+ + 
++ 
+- 
+ + 
+ 
+ 
+  
+intrinsic_rewards 
++ 
+ 
+[capability] 
+   
++ 
+ 
+- 
+-   
+perceived_vulnerability 
+    
+- 
+ : personality  belief 
+ ,  [capability]        .      ,  [Organization]   perceived_vulnerability ,             protection_effect  (     ). ,   [Organization]    ,     segregating    .     ,     perceived_vulnerability ,     
+          .  behavior        [capability]          syllogistic_rules       . 
+               intrinsic_rewards.      [Organization]       ,    intrinsic_rewards     ,     perceived_vulnerability.    perceived_vulnerability ,      gain,               . , ,     ,    intrinsic_rewards  ,        [Organization] (     ). ,   intrinsic_rewards  ,   perceived_vulnerability  ,           .       ,  intrinsic_rewards         . 
+     ,           .  syllogistic_rules   perceived_vulnerability     ,                (      ). 
+   , intrinsic_rewards,      personality             /     (  . ). 
+                (   . ,   .,  ,   . ).                  process,     ,    ,    ,    .          ,     personality   ,        belief belief ( ,  ,    ),    belief (   ,  ),      ( ,   )     perception ( ,    ,  ). 
+             learning       perceived_vulnerability          perceived_vulnerability   . 
+ 
+================
+, , ,   
+ 
+  
+  ,      belief  ,   belief,        belief,  ,                [activity]  personality  . 
+ belief belief ()     (, )               ( ,    ,   . ). 
+  belief       belief belief.    belief          belief process   judging  .     belief,                 ,     (                  ),   belief (  ). 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+belief 
+ 
+ 
+ :    belief 
+      (     
+ 
+,.. .,  
+ 
+)         ()—when     . 
+                   .                : 
+                   . 
+∧ 
+=+ ++ ++       . ()  
+∧ 
+   appraisal  , 
+   physical_quality           belief, 
+     ,  
+    . 
+   [activity]           .                evaluating,    perceived_vulnerability,   self-efficacy       . 
+,            (certainty_effect  )     ().     belief (   ,  ),          process  :  ,  ,  ,    (  ). 
+ 
+certainty_effect  
+ () 
+belief certainty_effect 
+ 
+()   certainty_effect    certainty_effect  
+ :   belief  
+ belief belief,        belief process,     belief (   ,  ),            process,      focus       personality           perceived_vulnerability / . 
+∧ 
+     
+=+, ()            
+ 
+    ,   belief    , (    ), 
+∧ 
+   appraisal  ,  
+  [activity]  ,           (  . ).         belief process         perceived_vulnerability  ,   process     belief       
+ 
+================
+, , ,   
+  [action]      process            combining   .   , ,               (  ,    . ). 
+  
+[activity]  
+  
+belief 
+  
+  
+gain  (  ) 
+ () 
+[action] 
+  belief  
+  
+ 
+ 
+  
+ 
+belief   
+  certainty_effect certainty_effect     
+   
+    
+  
+ :   
+,      [function]                     process                     gain (..,    ,        , perceived_vulnerability     ,   , .). 
+,    ( )                  .            ,  ,  [action]  .  ,   belief   .      .,   [action]       belief     . ,   belief   ,       process.         process.   source      belief process.      belief   .      .    [knowledge]   syllogistic_rules                 .   source     self-efficacy    .          .     (    loss   )    . 
+,    belief (   ,  ),           process  :  ,  ,  ,    (   ). 
+,        intentionality    process          combining   ,        ,       .       process,          personality      process (                     belief  ). 
+ gain       ,            constraint,  ,    ,        belief ,   . 
+   behavior     .    ,         intrinsic_rewards belief            [Organization]   .              behavior.      live_modeling  [Organization]            belief    .      [Organization]          evaluating         evaluating             . 
+   ( ),     behavior     perceived_vulnerability  extrinsic_rewards       .     perceived_vulnerability  extrinsic_rewards      ,                 . 
+  [ ] 
+    
+ 
+ 
+  .  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  .  
+  
+  
+  
+ 
+   
+ () 
+combining              perceived_vulnerability  extrinsic_rewards          self-efficacy  
+ :  behavior ( ) 
+ 
+================
+, , ,   
+   [Organization]                (  ).      (             ),        perceived_vulnerability  (  ,  )        [Organization ].     ,         personality       ,      learning             gain .         learning                 . 
+   [ ] 
+.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  .  
+ 
+ 
+ 
+-1.  
+  
+   
+ () 
+       
+ :  behavior ( ) 
+                    ,     (  ., ,   . ). 
+ 
+  
+  [modeling] process,    ,           . 
+.  :        
+   
+    
+   ,     /,       behavior             .     ,         .      combining   ,       ,      
+    impulsive_effect     . 
+          : evaluating     .                           . personality  ,      ,          ,      . 
+,           vulnerabilities                .
+           : 
+. 
+. 
+. 
+. 
+  ( )—Intrusions              . 
+  ( )—Benign [activity]          [activity ]. 
+  ( )—Normal [activity]        personality     (   ). 
+  ( )—This                            [Organization ]. 
+             .              .  vulnerabilities   personality            . 
+ impact        (       [action]  :      )  .                 . ,         (    ).           combining vulnerabilities.            [knowledge]          . 
+ 
+================
+, , ,   
+.  :     
+    
+Vulnerabilities 
+     protection_effect vulnerabilities. ,           perceived_vulnerability ,             .                   .   ,   [policy]              . ,    evaluating            ,     personality       ,       . 
+belief         vulnerabilities.                  [Organization ].               /        . 
+,   belief  participant_modeling   role     perceived_vulnerability. ,                (    ).     perception    (      " ")   vulnerabilities   , ,         . 
+                                .           perceived_vulnerability         vulnerabilities     . 
+.  :      intelligence 
+     
+       vulnerabilities       ,    simplifying perceived_vulnerability            .               . 
+        "   "                     impact    (, perceived_vulnerability, perceived_vulnerability , .).    
+     ,   learning           .        : 
+. 
+. 
+. 
+. 
+. 
+. 
+         . 
+         perceived_vulnerability     .            . 
+           . 
+       . 
+       . 
+ 
+  
+           combining                  [activity ].                 [Organization ]. ,          combining               . 
+             perceived_vulnerability :    .       , ,      process           perceived_vulnerability   .         :        (   ).               personality          . 
+ 
+            . 
+ 
+, .., . , ..  .  
+, . , . , ..  .. 
+, . , . ,  . . 
+.        
+  .     
+       
+ , , . 
+ 
+================
+, , ,   
+, . .  intrinsic_rewards   
+ perceived_vulnerability.  , . . 
+. 
+, . . perception     
+   .   
+ , , . 
+, . .     :   
+      
+  perceived_vulnerability.  , 
+. . . 
+, .. .  .  
+,  . 
+, ..  .. . .    
+  .  ,  . , .. .  belief    
+:  perceived_vulnerability,  ,  - 
+ .   ,  
+. 
+, ..  ..  (.) .   
+ : , ,  
+.   , . 
+, .., ..  . ,  .. 
+. .  belief belief.  , 
+..  , . .  belief   
+   ,  , . 
+. 
+, ..  .. . .  perceived_vulnerability 
+focus :       
+ , . 
+, . .      
+.  , . . . , .., ..   .. . . 
+   process :   
+   .    
+ ,  . . . , .., . . , ..  ..  
+,  .. . .   
+belief   :    
+perception.   [modeling]   
+ (). . 
+, .., ..  ..  .  
+,  .. . .  belief 
+  :   
+     
+    ,   
+, ,  . 
+, .., ..  ..  ..  
+,  .. . .  perceived_vulnerability focus :  
+  [activity]       
+,       
+/   , . , ., .. , . , ..  
+..  ..  . , .. 
+, ..  ..  ..  
+..  . , ..  ..  
+ 
+, ..  . ,  .. . . 
+   :   
+       
+     ,  
+ , , . 
+, ..  .. . .   
+  [modeling ].   
+, ., . 
+, .. .  :  thinking 
+ [modeling]   personality .   
+,  . 
+, .. .      
+. ,  . . . 
+  
+ .    belief   [modeling]      perceived_vulnerability         [division]    .                      personality     , ,  [modeling]  belief           perception     .         combining     [policy]       , []    .   techniques  <@.>. 
+ .               . ..    ..          ()      [policy]    ().        [policy ], [knowledge] , ,    .   techniques  <.@.>. 
+ .             .       [modeling]     .   techniques  <@.>. 
+ .                      [policy ],    , []    .             . ..               ..          .    techniques  <.@.>. 
+================

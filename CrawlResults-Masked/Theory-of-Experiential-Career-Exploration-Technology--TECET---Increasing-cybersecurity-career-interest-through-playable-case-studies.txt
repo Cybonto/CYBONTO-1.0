@@ -1,0 +1,233 @@
+         |  
+belief      ():  
+       
+     
+ 
+ 
+@. 
+       
+@. 
+     
+ @. 
+     @ 
+. 
+isolation_effect 
+        .    ,           .           .    ,         focus ()          learning   .    focus                    .   focus         )         , )      persistence,  ) gain  belief          .   focus    belief      (). 
+.  
+  .         [],           [knowledge] [].     ,      perception                [,].          ,     intrinsic_rewards  focus  isolation_effect            . 
+               , ,    []    
+: ://..// :  
+(  .) 
+   
+  
+ 
+@ . 
+   
+  
+. 
+@. 
+    
+  
+@. 
+    .     personality           [].   ,                [].              , , ,   () ,                [].       belief (.., self-efficacy ),  personality ,    combining        gain     []. 
+           [,],           .          segregating     [,],         .   combining          []        [knowledge]     [].          , [knowledge ],  [experience]           , ,   ,   frustration_of_needs     , ,       [].          ,  isolation_effect   ,        . ,   , intelligence (.., intelligence  ),    focus (.., ;   ),    (..,  )   ,      , perceived_vulnerability ,    (..,  ) [,].                  
+  
+================
+ , perceived_vulnerability,   ,        [].           , , ,         . 
+           protection_effect   . ,     ,         ,       .    perception                       . ,        ,   ,     (  ),     evaluating [skill]   ,   self-efficacy          [knowledge] ,    techniques personality ,       ,         [,,].                 ,                  [].      []  perception ,          ,     .    physical_quality              .         ,      ,    mastery_experience, ,       . 
+ ,        ,   , gain             .               .    :()    ,    personality   , , ,     , ()     [knowledge ], ,          belief (self-efficacy ), ()  personality  , ()    combining    .            , ,       ,  physical_quality       . 
+     syllogistic_rules,         focus ()         
+.              vulnerabilities     [Organization ].                .    techniques    : 
+)      : )           , ) gain belief         ,  ) gain    persistence    ? 
+)         ? 
+.   
+.    
+         [,,,,].         perception   [,,,,]. ,               . , ,   [] []        learning         . , , ,   []        self-efficacy,  intelligence  ,                  . , ,   []         gain  . , ,   []        gain       ,   ,    .                     . 
+.    
+   ()        "participant_modeling"            [].       [experience]    ,   ,                  .   ""          .   " "   
+  
+================
+   ,         live_modeling,           .         intrinsic_rewards []           ,        , , ,  ,  ,      . 
+       []    []            , [knowledge ], perceived_uniqueness, , ,      techniques.  " " [],        role        mastery_experience       .  , ,             ,     "    " () ,         [].   personality   ,  participant_modeling     " " ,   combining   perceived_uniqueness    perceived_uniqueness    .            ,            . 
+.   
+             perception.                  , , /     /   [,,,].       ,    : ) combining    , )      , )      , )      , )   possibility_effect    ,  )           [].         .     behavior_control-ability         .      appraisal          possibility_effect  .         process,  ,  syllogistic_rules    perception  [].             appraisal   impact  . 
+.   
+            [knowledge ], ,       .                     . 
+                       . ,  belief        persistence    ,          . 
+,        gain  belief          . ,  gain   belief     persistence         . 
+.     
+           ,  [experience]     .                         .         (  SQL_Injection   )        .      ,                              .     ,              .                  ,         ,   .                      . 
+      ,          gain    (  ). , ,                 .   , ,         (     ).  ,    "    " ,             ,   ,   , , . 
+  
+================
+ 
+ 
+ 
+ 
+ 
+ 
+ .    
+ .     
+  ,  learning   ,   perception   ,          .  .  . 
+learning   .  
+     
+     
+.  .    
+   loss  
+   . 
+  
+.      
+    
+    
+    
+learning      . 
+       
+  .    
+. 
+   
+        .  . learning       .                    . 
+  . 
+  . 
+    
+.    
+learning       
+     
+ . . 
+        participant_modeling   , participant_modeling ,   certainty_effect    behavior, 
+     behavior        .     personality,        .         ,              .     ,              ( ). 
+           .   ,    ,        participant_modeling   ( ).        , ,           ( ).  gain,     protection_effect       (.., )          .   combining        ( )  [experience ],               .  [goal]          ,   simplifying         gain.  ,              " "         .  ,           ,                 . 
+,   participant_modeling       ,           ( ). 
+ ,              : 
+.  task     
+.     () 
+.   () 
+.   (..,    
+; . ) 
+ .    
+  
+================
+. appraisal  
+ .    
+ .    
+ .   
+                       .          perception    .      .  (.%)           (.%)     .   physical_quality      .      ..        () ,     ,             possibility_effect.         ,          .              ,  ,     .     focus  ,         .                  ,                 .           (..,  ,     )   [experience]         ,       personality . 
+          .   ,                     perceived_consensus    :     ,        ,    personality         .      perception            isolation_effect    belief         : , , ,  , , ,   learning   ,  perception  .                      .    ,                   :        persistence    ,      personality         ,           persistence    .   :           ,       
+  
+================
+ ,         .               ,                      []. 
+     .                      . ,                 .          (..,       ),        . 
+           process            .         . 
+. appraisal  
+     impact     ; %             persistence       ,       ( ), %                       ,  %                      .      gain,                    . 
+ .     
+         (= .),    gain ()    persistence       ,    ,   
+gain ()  belief     . 
+           ,        . ,     gain   belief         ,      gain   .  personality       ,      personality   role       .                    .           ,  ,         . ,    [skill]  "perception  "       ,         .  belief            .                behavior,         .  belief        .                .              ,            . 
+ .    (  /   )   
+(certainty_effect   / 
+  
+) (certainty_effect  
+ 
+)   -3. -0.  
+   . -6.   
+belief   .* .      
+ 
+personality  .*** .    
+:  . . :  .* . :  -1. -0. :  -0. -2.  
+:  -0. -7. :  . -1. 
+  
+================
+ .    : learning   . .  
+: perception  -3.* -1.  
+belief : . .  
+belief : -0. .  
+belief : . .  
+belief :  -0. -0.  
+belief :  -5.** -1. belief : .** .  
+belief :   . -2. learning 
+belief : perception -2. -3.   
+   -0.*    persistence  
+   
+   -0.  personality  
+     
+ 
+   .     
+  
+†  <= .,*  <= ., **  <= ., ***  <= . 
+,   ,   ,   , /    ,       (). 
+         ,        personality   perception.          perception.               .        intelligence  .       ,          . 
+        ,      .    .         ,    /    .        ,        .       intelligence .         ,    personality,   ,      ().        ,      thinking,   extrinsic_rewards,         ,  ,  
+ .     
+.  
+        ,      [].  belief                             .                          ,        
+  
+================
+   perceived_responsibility         possibility_effect           .                        . 
+                ,     ","    ,         .      belief                    [experience]       ;        extrinsic_rewards                 persistence .                possibility_effect         . 
+ process              mental_calculation                .              belief      () (  ).      belief      focus  ,           protection_effect     .         . 
+.       persistence    . 
+,         [,,,].          learning      [].            process,     [].     ()           ,              . ,       role    [experience]     ,        role         . ,  role    (..,         )         persistence  . 
+.    personality       . 
+,              ,      [].   belief [,] ,   ,                           .    ,              personality [,].     [experience]              personality.  ,                      personality . 
+.   gain belief   . 
+self-efficacy belief []            [activity ],        personality   .                .   ,   self-efficacy belief     belief    .      (..,  ;  )   personality ,    belief      personality,            . 
+     personality        belief            ,       isolation_effect  [goal ]. 
+ . belief    
+  
+  
+================
+. belief 
+                 .    ,        focus ()          learning           personality,  .             . ,  appraisal          perceived_responsibility    perception.   focus    belief          ,   . ,         )         , )      persistence   ,  ) gain  belief          . 
+. 
+ 
+[] , .  , .   :    perception.     ,  (), . [] , .      . . 
+[] , . self-efficacy :    belief   .   ,  (),  . 
+[] , ., , ., , .,  , .    : self-efficacy,           . &  , (), . 
+[] , ., , ., , .,  .   :        ,  .            , (), . 
+[] , .., , .., , ..,  .     belief  
+          task.       , (). 
+[] , ..  protection_effect  :          .   &   ,  (), . 
+[]     , (),   ,  ,  & .      focus        perceived_vulnerability. . 
+[] , ., , ., , ., , ..,  , .    personality      .         , (), . 
+[] , .., , .., , ., , ., , .,  , ..      :       appraisal   thinking.     ,  (), . 
+[] , .., , .., , .., , .,  , .    .          (), (), . [] , .  , . satisfaction_of_needs      .  &  ,  (), . 
+[] , ., , .,  , . :         perception.         , (), . 
+[] , .., , .., , ..,  , ..  belief    : , ,  physical_quality.  protection_effect  , (). 
+[] , .., , ..,  , ..       .    &  ,  (), . 
+[] , .., , ., , ., , .-xxx.,  , .       .  ,  (), . [] , ..      syllogistic_rules  .  ..  .,        . , , , . 
+[] , ., , .,  , .         .           , (), . 
+[] , ..  , ..          .     ,  (), . 
+[] , .., , ., , .,  , . :    focus    personality     .          , (), . 
+[] , .., , .., , .,  , .      .   ,  (), . 
+  
+================
+[] , .., , ..,  , .     .  &  ,  (), . 
+[] , .., , ., , ..,  , ..         :           fear_arousal .     ,  (), . 
+[] , .., , ., , .,  , . "      ": possibility_effect        .      ,  (), . [] , ., , .,  , .          .     (), (), . 
+[] , .., , ..,  , .   :       .   ,  (), . 
+[] , .,  , ., , .., , .,   , ..          .    ,  (), . 
+[] , ..  , ..     :      .    &  ,  (), . 
+[] , ..   : [experience]   source    . ,  , . 
+[] , .  , .   . , . 
+[] , ., , .., physical_quality, ., , ..,  , .     .           , (), . 
+[] , .., , .,  , ..   : ,  ,    .    ,  (), . 
+[] , ., , .., , .,  , ..      .        ,   intelligence , (),  . 
+[] , ..., , .., , ..,  , ..    impact     .   ,  (), . 
+[]  ., ..  , ..    perception   .      ,  (), :. 
+[] , .  , .    :        .    ,    ,  (), . 
+[] , ., , ., , ..,  , .         .      ,  (), . 
+[] , ..  , .        .  ,  (), . 
+[] . satisfaction_of_needs  :   
+  . . 
+[] , ., , .,  , . :    , ,        .       , (),  . 
+[] , .., , .., , .,  , ..       ?:            possibility_effect     .     ,  (), . 
+[] , ..     . &  ,  (), . 
+[] , ., , ., , .,  . ,   :       .                  , (), . 
+[] , ., , .,  , ..    , task ,       .   ,  (), . 
+[] , ..  , ..    perceived_vulnerability :  planning     .   ,  (), . 
+[] , .., , .., , ., , ..,  , .     : appraisal         .      ,  (), . 
+[] , .., , .,  , ..     :         .   ,  (), . 
+[] , .     .   ,  (), . 
+[] , ..  , .         :        .      ,  (), . 
+  
+================

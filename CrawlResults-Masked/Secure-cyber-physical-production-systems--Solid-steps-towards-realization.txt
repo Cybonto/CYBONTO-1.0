@@ -1,0 +1,134 @@
+protection_effect   : 
+    
+ ,  . ,  . 
+ 
+ , ,  
+(ﬁﬁ)()@. 
+        ()    intrinsic_rewards  ﬁ. ,         .    ()         ;                 .     ,               [goal] : satisfaction_of_needs   . 
+  ,              : ()             ; ()                    behavior     ;  ()   perception      techniques     ,         . 
+.  
+                ()               .    " " ()              ()     personality      personality     .         ﬁ  , judging,          .  ,  ,    ,      (..,  []),   [capability]    ,    . 
+     . ,         personality ,     fear_arousal          [], [].   intrinsic_rewards     ?   intrinsic_rewards            ?   intrinsic_rewards       ?          ()      ?            ,          ? 
+  ()    ﬁ   vulnerabilities   . ,   
+ perception          ,    , , ﬁ  .   behavior_control-ability     .                 ,  ,      ,  opportunity_for_criminal_acts.     ,    ﬁ          ;        ,       .  gain,  perceived_vulnerability     personality        . 
+ role     , ,      [].     possibility_effect   isolation_effect        protection_effect ;                 [].   ,  simplifying                ﬁ     .       ﬁ         .  ,      ﬁ     ,         ,    loss         segregating.     ,     ,  ,     ﬁ   . 
+.  
+      ()  ,            ;          [].            .     ,  ,  .       :       ,            ,         [].    ,            "ﬂ".           ( , ),        [goal]   ﬂ [].       , 
+================
+  
+ 
+  
+      
+  
+  
+perceived_vulnerability appraisal 
+process  process  process  
+. .       
+ 
+ 
+  
+ 
+  
+ 
+. .         /  
+               () . ,          . 
+       .  belief          .            ,     .                  .  ,     simplifying      protection_effect  ﬁ  .             (process  ) .    process     [resource]  (.., , ,  ).  ,     simplifying ﬁ      process . ,             ;          .  , perceived_vulnerability appraisal  ﬁ [preference]   ﬁ (.., personality     )    ﬁ (..,  ﬁ  ). 
+  ,    ﬁ, ,    ()             .    ()           . ,              (  )   .      perceived_consensus     imagination  ,     . 
+.                              ,  ,  ,  .      ﬁ        . 
+.  
+            .              techniques  .      ,     ﬁ     ,         .     symbolic_modeling              (..,   ).                      .             ,   Fuzzing [],  ,     []. 
+             protection_effect          . ,         ,    focus      ﬁ      . ,  perceived_vulnerability                          .      ,           ,        (, ),     personality      opportunity_for_criminal_acts .   ,          ""  ﬁ    .      ,   [resource] -        , , ,  ﬂ      .      ,                extrinsic_rewards. ,    ﬁ ﬁ   :            ""     ""  (     ). ,              .   gain ﬁ        ﬁ        protection_effect        . 
+.   
+       personality   .    live_modeling  behavior   segregating  
+================
+             personality .     ,     possibility_effect    behavior           personality .                 .    ﬁ behavior_control-ability                        ﬁ .              . ,       ,         ,      ,                     . 
+                          [].                        .            (  )   [capability]    personality      .  ,               (.., /         ﬁ     behavior ).    ,                    [].          ﬁ     ()  ,      gain                  . 
+.  
+                    .       techniques         . ,        perception      . ,    techniques     .           .  ﬁ     [knowledge]  techniques           .  ,    techniques           combining             personality. ,            . 
+            ""  [],  live_modeling  behavior    (..,   )     (..,     ).     loss   ( ﬁ,  )   gain        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+. .     
+.  ,      ﬂ         ﬂ  :            ?   ,   protection_effect    [],    perception  protection_effect    ﬁ    .  mental_calculation    ,     .          ( ,  ,  ,  )   ﬁ    .   perception      focus           ﬁ .  ,                personality .  ,         ﬁ         perceived_vulnerability             . ,         ﬁ,  evaluating        .               . ,               ,    [].             symbolic_modeling : ,      (  ),    .               gain : .      ,                  vulnerabilities         .  ,               -    [] -     ﬁ    (..,   )    []. 
+================
+    ()              isolation_effect  .  belief             belief  ""           .            techniques     ( )       ( ).             ﬁ     ,       .                     intelligence  [].     personality   ,         belief   [].         (..,  ,  [function]  (),    () [])          (.., [], [])       .       ,       possibility_effect                .   syllogistic_rules,            . 
+.     
+  physical_quality ,             .                        .  ,   possibility_effect     ﬁ   .  ﬁ   possibility_effect          ,            ,                 . 
+ participant_modeling                    personality. ,               ﬁ,  , ,   . ,        focus            .        ﬁ ,       [],      possibility_effect. 
+ 
+                      (). 
+ 
+[] . , . , . ,  . , " 
+    ,"    
+ belief   , . , . , .  
+, . 
+[] . , . , . , . ,  . . , " 
+  perceived_vulnerability        
+,"   , . , . , . , . [] . , "   frustration_of_needs    ,"  
+    , . , . , . [] .   . , "     
+,"     , . , . , . 
+::,  . 
+[] . , . ,  . , "    
+ ,"    (),   
+   ,  , . . [] ":      ." []. 
+: ://..// / [] . , . ,  . , "     
+()  , :  /  focus  -   
+  ," . []. : ://../ 
+/ . [] . , . ,  . , " 
+    ," . []. 
+: ://..//../ﬁ/ 
+/ Energetic_Bear . 
+[] .   . , "     
+Fuzzing intrinsic_rewards   ,"  , . , 
+. 
+[] . , . , . , . , . ,  . , 
+"        
+ ,"   ,    (), 
+    ,  , . . [] . . , . ,  . , "protection_effect :  
+  ,"     
+   . , , . . [] . . , . , . . . , . ,  . ,¨ 
+"    : satisfaction_of_needs   
+   ,"  , . , . 
+, . 
+[] .   . , "protection_effect  :   
+perception,"        
+ ( ), , , ..,  , . [] .   . . , "      
+      ,"   
+   (  ).  , : 
+ , . , . . 
+[] . , " ""      
+      ," . [].  
+: ://.//// 
+/ 
+[] . , . ,  . , " :    
+  ," . 
+[] ——, "      protection_effect  
+      intelligence ,"      
+      , .  
+.  , , : , , . . 
+[] . , . . ,  . , "  belief   
+ ,"          
+ . , , . . 
+[] . , . , . ,  . , "   
+ﬁ :  ,"   , , 
+. , . , . , . 
+[] . , . , . , . ,  . , 
+" :      ,"   
+    (), . 
+[] .   . , "    :    
+ ,"        
+  , ,   (), , .  
+. 
+[] . , . ,  . , "    
+    ,"     
+      (), . 
+================

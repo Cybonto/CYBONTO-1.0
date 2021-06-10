@@ -1,0 +1,492 @@
+impulsive_effect         
+ ,     .  
+    
+,   ,  
+{,.,}@. 
+isolation_effect 
+                     (&) .      personality      ,             (.. , ,  )        (intelligence) ,        .         focus              .   ,                ,                      ,       ,  simplifying                       .    perception                      perception         (.. Sandworm      )          evaluating       evaluating. 
+    
+.. [ ]:   ; 
+   
+ 
+ ,  ,   
+                                extrinsic_rewards   gain              .   ,  ,         ,     /  . 
+,  , , , , . 
+   //.. .$.. 
+
+  .  
+     intrinsic_rewards     .            perceived_vulnerability    ,        ,     () , , Phishing, ,  , combining    Exfiltration [].    ,  ()         (&)      (.. , ,    intelligence  ).   ,              behavior.           vulnerabilities .  ,           .  ,             techniques   ,         .          .     ,                          .   ,           .   extrinsic_rewards   ,       , ,      .     ,           ".. ".   ,        .         .            []. 
+  
+. 
+. .  
+ 
+ 
+opportunity_for_criminal_acts 
+ 
+.combining 
+. . 
+. 
+. 
+. 
+ 
+  
+. 
+  
+ .          
+  
+================
+ ,   frustration_of_needs    , ,     task             .                       . ,                 ,      [],   loss  [],  []     (perceived_vulnerability ) []. 
+     & ,   () &                       ,         combining         loss    . 
+          [,,,,,],    [,,,]     [,,,].           personality        behavior  .              personality        possibility_effect       (..   ,       ).                ,         ,            .          personality ,             . ,          : ()     ( )  ?        &         .             /     [modeling]     .  , ,       ( )             ()   &               /  (..        []); ()   combining    ?                  .                        .                  ,    segregating  .      focus            . , ,     :                 combining  .             ,          ,     %         . judging                       ,  
+         (intelligence) . 
+    ,               ,     : ()                 ,    ,   ,  ,  ,   ,   ,  (  )      (..       ); ()         ,                behavior      (    ).       : ()       perception           ,  ()          behavior          ,      ( )        ( ). 
+   
+ .    
+  
+  
+ .   
+  
+   
+ 
+  
+ 
+   
+   
+ 
+ .     
+ impulsive_effect   
+        .     ,             .       perception   .              .     experiential_awareness appraisal                           (..    []  Sandworm   [])     . ,             . 
+ 
+================
+.   
+            .           [],      behavior    ,   ,   ,  ,  ,           .       personality   behavior,                  ,   .           [,,,,,]. 
+  techniques   ,            ,         .           [,,,].  [,],   .   perception     judging     , ,                 .                  ,                 ,                [activity]   .  [],   .    intrinsic_rewards  combining     (&)    .      process : ()      ,  ()         .  [],           , ,             . 
+          [,,,].  [],   . focus             ,         combining    behavior  segregating   /  .  [],                           .        ,        possibility_effect .  [],   .              , ,      .       intrinsic_rewards   segregating    &  (..     )  segregating      (..  ).   .          , ,    personality      &      [knowledge]   [].           .,         impulsive_effect       behavior       ,                            combining      
+    [activity] ,                   .      [knowledge ],                ( , , ,  .)       , ,    .
+   .  
+                 .  ,              ,            .  , ,   segregating      gain     ,             []. judging         ,                    .         "         " [,,,,], "     " [,,,]  "       " [,].             combining            perceived_uniqueness   ,  ,    combining             , , . ,                  [].     ,    , combining           [].          .                    .                    . 
+   ,         perception,                  .
+     .  
+                .   ,               . ,                           .        ,   ,  , , , , , , ,   .  combining      .   ,           .   ,  
+ 
+================
+ .      
+   
+     
+ 
+   
+   
+  
+   
+  
+  
+   
+ 
+   
+    
+    
+  
+    
+   
+ 
+   
+ 
+syllogistic_rules                  source          "".     ,               . 
+      
+     ,     ()          [].            .   ,  ,  ,      source   ()       ,    combining       .                .             .   ,     ,            ,    .       %             . ,            techniques  . 
+ .         
+ 
+ 
+  
+ 
+ 
+ 
+   
+ .   -      
+     
+   .         
+  
+.        impulsive_effect   perception       source                  .   belief        
+   
+ 
+  *     .     
+   
+ 
+    
+focus   syllogistic_rules      .     ,                (    ).              .   [goal]                isolation_effect                  .            (.. ). , ,   personality             .                   appraisal        []. 
+ ,               source     .         .              .               . ,        ,      .                           .           perception    . 
+       intelligence         source       .   ()        syllogistic_rules    source      .          ,         ,         .     intelligence         (..      )           techniques    .   
+ 
+================
+       ,      ,        . 
+ . intelligence    { ,  } 
+        ,       .               .  ,                           .                   .  belief      [function]       experiential_awareness appraisal     .                  ,        "",    possibility_effect      . 
+ .  
+   .  
+             [modeling]     ( )     behavior ( ).  , ,         .           .   .        ,                                              (.. ) [,].                     .   .   perception            []. 
+ . intelligence    { ,  } 
+      ,                                  .                behavior : ()                ,    behavior  participant_modeling  [action]      possibility_effect thinking ,  ()         ,          .             []. 
+ .   
+ satisfaction_of_needs   (=    )       ,      
+ 
+================
+          .            personality   personality       certainty_effect evaluating            .  ,                   .   perception,         . 
+         <      
+   
+  , ,..., 
+>,   
+ 
+ 
+                ( ,,..., ,,...)=  =.           ~{| ,,..., }=,     =< 
+    
+ 
+   , ,..., 
+>,   perception     . 
+ .     perception 
+[function]  ()    
+: Collection       =< 
+    
+ 
+   , ,..., 
+>, 
+ =,,...,
+ : 
+     (..  =)  
+         
+      
+ :   − 
+         combining 
+       
+         
+: =  
+   ,    
+σ σ,., 
+ 
+,  ≤m 
+  σ σ σ σ= 
+ 
+(, ,..., )  
+ 
+      
+  
+     σ 
+ 
+. 
+ ,              .          : ()     ,        ,  ()                   []               .                              . 
+           
+        ,        ,   /       ,     ,   σ 
+
+    ,        .       σ 
+ 
+         ,       .   possibility_effect    ,   behavior              .       : 
+{< 
+ 
+   
+  , ,..., 
+  
+> ,< 
+ 
+   
+
+  , ,..., 
+  
+> ,.. .< 
+      , ,...,>} 
+ σ 
+
+           ,     σ             : 
+ 
+∑ 
+σ 
+σ= 
+ = 
+ 
+  ,                  , . 
+ .        
+   
+ .        
+   
+ 
+================
+                .                  .,                  .     .,          .  perception                   . 
+.  appraisal  
+       perception                (..        ).       :           ,     ,         ,      &     & , . 
+    ,                  (         ,            ).         Collection :     ,           .                               .        []            Sandworm      [].         .  mental_calculation   ,             ,      &            ,    &                 &       . 
+ 
+  
+  
+ (...) 
+  
+ (...) 
+ (...) 
+:   ... - ... 
+ (...)
+ 
+  
+ .    
+ 
+  perception    process (..           ),  appraisal      : ()       ,      [capability]   perception        ,            (..  )               ; ()   appraisal       ()        () .
+     .  
+mental_calculation     [capability]     task       belief                .   ,               .                 %  (..        %     perception    ).                        .    appraisal,        &          (.. %  evaluating   )      &         . ,          %             .               perception    evaluating    .   ,                         perception                      ,           ,        ,     
+  
+• • 
+   
+  :   
+ 
+================
+         , . 
+ .          
+  
+  
+   
+.  . 
+.   
+.  . 
+  
+  
+ .     
+     
+ 
+  
+      
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+   
+ 
+  
+ 
+ 
+ / 
+/
+     .  
+  perception        .                combining           .     ,  combining       appraisal   ,              ,.      ,,            (..      &  ).     ,          ,            .              ,  perception  %       &      . ,    [capability]   perception              .     ,              &                       .                      . 
+  ,     combining     combining          combining                .       &              combining .    perception     () /    /     %  evaluating     appraisal.    &             evaluating (..           
+  appraisal, ).      &          personality         combining   & .           .          personality         ,     personality  .    "  .  "      . , appraisal                                        ,       ,            (..   .      .    )     combining          . 
+ .        
+ 
+combining  
+     
+ 
+      
+{ }      
+{ }      
+{ } 
+ .      
+ 
+ 
+ 
+ 
+      & 
+ 
+   
+ & 
+ 
+ & 
+     
+ 
+   
+ 
+ 
+   
+ 
+ .         
+      
+   
+ 
+ 
+ 
+    . . . . . . 
+.   
+       .  [],       focus   behavior .                             (..     . []).           
+ 
+================
+          ,   ,        .      .,        possibility_effect      ,       focus          ,       . 
+  ,  techniques          perception.  ,            ,    (   ) ,  ,  ,    .        ,        .   ,  perception             possibility_effect             "" .  ,           appraisal     perception      evaluating ( %   )      evaluating     . ,     behavior                 ,  generalizing     ,          ,          .                 . 
+   ,     perception      appraisal      .                         source       (.. ,   )              combining         (     perceived_vulnerability  .       []).              [, ],   ,   focus              .
+  .  
+[] ://..//.?= 
+,    perceived_vulnerability ,  
+: ,  
+[] .   . , "    ," 
+    ,   
+ ,  , : , 
+. 
+[] ,        
+://..//// [] ,        
+://..//// [] ,        
+://../// 
+[] ://..///.// 
+/// 
+[] . , . , . , . 
+, . , . ,  . , 
+" :       
+,"        
+, , , . 
+[] ..  . , . ,  . , " 
+ perception  personality   
+,"        
+   appraisal, . , . [] . , . , . , . ,  . , 
+"  :   perception  combining 
+,"        
+,  , , , . , 
+, . 
+[] . , . ,  . , " 
+    perception,"   
+        ,  , 
+, . 
+[] ..  . ,  . , "  
+  ,"  :   
+  perceived_vulnerability,  :    
+, . , .., . , . , (.), 
+, : , . 
+[] . , . ,  . . " : 
+     protection_effect   
+ .       
+     (), . [] . , . , . , .   . , 
+"     : 
+  focus  perceived_vulnerability ",      
+       
+,  , , . 
+[] . , . , . , . , " 
+     ,"   
+      , . 
+, . 
+[] . , . , . ,  . , " 
+    behavior,"  : 
+    perceived_vulnerability,  :  
+  , . , . . , . , . 
+, (.), , . 
+[] . , . , . , . , " 
+  intrinsic_rewards  combining  ,"  
+        
+, . , . . 
+[] .   . , ": combining   
+    appraisal,"    
+ , . 
+[] . , . ,  . , " 
+   ,"     
+    
+
+      
+personality , , , . 
+[] . .   . , "    
+ ,"  :      
+ 
+================
+     , . [] ..  ..   ..  ":  
+       ,"  
+        
+  ,  , ,  . [] ..  . , ..   .. . ": 
+        
+  ,"    
+     (),  , 
+, . 
+[] . .   . , "   
+   ,"     
+     personality  
+appraisal, . , , , . 
+[] . , .   . , "  
+       
+ personality    ,"   
+  , . ,  , . , 
+. 
+[] . , . , . ,  . , " 
+    intrinsic_rewards,"  
+       personality 
+ appraisal, . ,  , 
+, . 
+[] . , . , . , "  
+      
+,"         
+ .  , . , . [] . , . , . , "  
+,"      
+      
+ ( ), , , . [] . , . , "    
+  intrinsic_rewards,"   
+ appraisal , . ,  , . , 
+. 
+[] . , . , . , . , " 
+    Fingerprinting,"  
+   , . , 
+ , , . 
+[] . ,. , . ,  ..  
+"     :    
+ perception    ,"    
+       
+appraisal, , , ,  , . [] . , ., . , . , "  
+ perception    ",  
+         
+ ,  , , , . , . [] . , . , .   . , "  
+     ,"  
+   /    
+  ( ), , , 
+, . 
+[] . , . ,  . , ": 
+     physical_quality,"   
+     , , 
+,     , 
+. , , , . 
+[] . , . , . , . ,  . 
+, "    ,"  
+   , . , 
+ , . , . 
+[]   ,      
+  ://../ 
+[] . , . , . ,  . 
+, " impulsive_effect ,"  
+       
+  [knowledge]    , . 
+, , , . 
+[] .  . . "   
+ ,"       
+       
+(),  , , . 
+[] .   . , "   
+   ,"      
+       
+ (), , , . 
+[] . . , . , . , . ,  .. 
+, ":      
+  ,"      
+ , , , . 
+[] . , . , . , . , . 
+,  . , "     
+      behavior,"  
+       
+    , . , . [] . , "       
+perceived_vulnerability ,"     
+    , . , 
+ , . 
+[] ,        
+://.//. [] Sandworm,        
+://...//Sandworm ++ 
++. 
+[] . , . ,  . , " 
+ ",    
+ ,  ,  , . , 
+. 
+[] . , . ,  .  "    
+ ,"         
+ 
+     personality , 
+, , . 
+[] .   . , "  
+   ,"    
+      
+, . 
+[]   ,     
+://.../.? 
+=/./ . 
+ 
+================

@@ -1,0 +1,178 @@
+   ()          .       . 
+ 
+     
+() 
+, ; , ; , ; ,  
+  
+ 
+  
+      [modeling]   ( ),  ,    
+ 
+    belief   
+ /  ://..// 
+  () 
+./... 
+ :: 
+        .  participant_modeling     .   ! (@) 
+©   personality.   ,      combining . 
+================
+     
+. , . , . ,  . ,  
+ 
+                   .      ,    loss     []  , (..,   ),              .         live_modeling  SQL_Injection     personality  .         ()       (),     .         live_modeling    , participant_modeling SQL_Injection      combining  .                     focus        . 
+ , ,    SQL_Injection . 
+.  
+             "        , Collection, , , , , ,                      ,          personality   ( Č& Č, ). 
+            protection_effect         .                ,    , ..,  ,   ,  ,      .                 (& ,  ). 
+   , .           , perception    ,   .     . 
+     , perception    ,    (.@.). 
+     ,    ,    (.@.). 
+      , perception    ,    (@.). 
+    combining ,    (.@.). 
+               .  ,                  .          .  ;                . ,                   (, ). 
+               -   .            intelligence    .     process         (, ).               .   protection_effect         .              .  combining                 ,    . ,        . 
+         live_modeling personality    loss    .              .     combining          live_modeling   , ..    .  gain,       . 
+      fear_arousal   .                   ,     , , ,     (, ,& , ).   ,          source      .    personality  source            , , , , , , , ,  ,   .                  live_modeling     ,           , ,  . ,         source, 
+================
+    syllogistic_rules 
+       . 
+.   
+                  intrinsic_rewards    .  gain,         focus     focus       .           :     SQL_Injection   ,     ,  process             intrinsic_rewards. 
+         intrinsic_rewards     .          process               ()                (, ). 
+            (, ).        : "   ,    ,      , ,       " (, ,& , ).           ,                   ,       loss. 
+                ,    process      .           (   , ),               . 
+         
+        
+  (, ).           intrinsic_rewards  .  (, ),        :  ,  ,           .       ,         protection_effect         .  gain,       .               .          ,       . 
+               .   [function ],       ,     techniques            .   [function]   [function]            intentionality  (   extrinsic_rewards , ).            . ,                . 
+.  arousal 
+   focus               .   ,                    .
+         ,                  .             ,                  .            protection_effect,   ,    .                     .           ,     
+================
+     , satisfaction_of_needs           extrinsic_rewards    . 
+     ,     gain          
+        focus 
+.  
+                    .                        ,       .     ,    ,   .  intentionality      intentionality  , , , , , , isolation_effect, , ,        [authority ],   [authority]            ,                  . 
+                .             .     ,    , ,  ,  ,     . 
+                    [knowledge]         .         loss   .        satisfaction_of_needs                     combining   .                    .           [activity ],   
+     [activity]   .           .         techniques   gain     ,                 .              behavior_control-ability .     
+    fear_arousal.                        .                   -    intrinsic_rewards     ,     ,     ,    , . 
+         [knowledge]   ,  ,    .      ,    techniques,    techniques    [knowledge]        .         gain,       ,             ,            behavior_control-ability     ,        ,        ,    .  [knowledge]        gain     . 
+        source ;    .  ,          .       ,        focus.  gain,    belief judging intrinsic_rewards      source   . 
+.   
+       
+  (://.../)        .             intrinsic_rewards          SQL_Injection, ,  ,           .    (     ). 
+================
+). 
+.    
+             [goal]         protection_effect            .                     combining   .          ,                        ,      -         ,        (). 
+         
+. SQL_Injection  
+        syllogistic_rules       .     SQL_Injection                  (    ). 
+.   perception  
+  
+ perception              .       perception      source          .  belief   perception   combining   Collection  ()    Collection process  ().                 (, ,& , 
+.   
+            ,    syllogistic_rules     focus .                syllogistic_rules.                  combining     . 
+     perception      perceived_consensus .  perceived_consensus                    [Source -  (combining ())]  , [  (combining ())]  [ (combining ())].      perception       .        personality      syllogistic_rules      .           perceived_consensus         process    source   . 
+  perceived_consensus            .    judging   .                  
+        
+================
+( Collection ). 
+.   
+    SQL_Injection                judging.           .  ,   . (      SQL_Injection )               SQL_Injection .          .   .  gain,        SQL_Injection    . 
+. belief    
+      focus   .                   participant_modeling           loss.                .   belief    focus   focus         SQL_Injection .  live_modeling        source      (),       . 
+         [activity]    (    )   gain,              .. 
+             .   ,      live_modeling      . ,   focus   modeling      process.  gain,                  process   personality  . 
+.  
+[] . . , .   . , 
+"      
+  ,"   
+    perception 
+, , . 
+[] . , . .   . . ,  
+   :     
+, ,  :    
+intrinsic_rewards   intrinsic_rewards , . 
+[] . , .   . , "focus    
+  ,"     
+ , ,    
+( ), . 
+[] .   . . , " belief 
+  -   ," 
+    , . ,  
+. 
+[] . , "    perceived_consensus : 
+judging  ,"    
+ , . , . 
+[] . . . -. . . ,  
+ ,   
+, . 
+[] . , ","     
+,  ,  , . 
+[] . , &    
+    , : 
+ , . 
+[]    extrinsic_rewards , 
+   , 
+  extrinsic_rewards, . 
+[] .   . . , "   
+     intelligence ,"  
+       
+(), ,  ,  , .. [] . .   . , " : 
+   ?,"   
+, . (), . , . 
+[] .   . . , "   
+   ,"   
+ -   , . , 
+. 
+[] . . , . , . , .. . , . 
+, . , . , . . , . 
+, . , . í , . . , . 
+, . , .   . , 
+   , :  
+, . 
+[]    , "personality   
+   ,"   
+ , . 
+================
+     , ,  ,     
+ .    ..   . .      
+          .    
+  , ,  ,          
+ .               
+  , ,   .          
+,                 , , ,  , .       ,       ,  .             ,     ,       . 
+  ,     ,  
+   ,   . 
+     ,  
+,  , ,  
+,   .      
+,  perception    ,  
+ , . 
+     , . 
+   . ()   
+     
+  .     
+    
+   .         ( )           ,    ,  . 
+..     learning 
+      
+   ,    
+.  , ..      
+      
+, .      
+ ..        
+          .            . ..      [experience] .    , ..           -  personality      , .  , ..          &     , , .  gain,    , ..        , . 
+     
+      
+   , .   
+      
+    . 
+      
+      .  
+          
+     &  ().         , .         ,   ,   ,   
+================

@@ -1,0 +1,1355 @@
+  
+           
+ ,  ,  ,  ,  ,   
+: () 
+: ://././.... :   
+  : 
+   
+ :     :     :    
+    :  ,  ,  ,  ,  ,  ,            ,    (), : ://././.... 
+             .               .     , ,             .       process         ,          . 
+================
+  
+ 
+       
+    
+ ,  ,  ,  , 
+ ,    
+   perceived_vulnerability       , , ,     ,                 .     segregating     . ,      persistence   .    ,      ,        personality   ,            . ,             ,          .  ,    ﬁ     ,   . ,                   loss,        .  ,              perception         .     ﬁ          ﬁ      .      combining  intrinsic_rewards       ,      perceived_vulnerability,     combining    ,          . 
+ ,  ,   ,  , ,  , ,   ,   , ,  . 
+.  
+               [].               .   impact         ,             ,     ﬂ   ,               .                   ﬁ [],            () ﬁ [],         [].       ,                .                   ﬁ , 
+  
+        Eavesdropping         ().           ,     personality       ﬁ,         ()  ﬁ  . 
+  ,     : 
+•    ﬁ      
+    
+•    ﬁ      
+   intrinsic_rewards   ,  
+ intrinsic_rewards   combining 
+•  combining        
+      impact                    ,    . []      ,       [],    . []   .            techniques ,              []    [].       intrinsic_rewards   ,     .                  [], , ,                ,    ,    ﬂ   intrinsic_rewards  ﬁ  . ,      .            [],    ﬁ       intelligence    ,     [],               . 
+,       ﬁ          ,         ,         ,    , Deadeye_Jackal  .           ,         techniques           ,          protection_effect           .    ,     
+================
+  
+                          .                      ,       intrinsic_rewards       , ﬁ     .                . 
+.       
+                       , ﬁ         ,      ,         .  belief               ,      (,  )   .                        .    ,      Collection              (    " ")           ,             .       ﬁ  ( . )      ﬁ              ,    combining  .           ,                   ﬁ ,   ,       certainty_effect,  ,  certainty_effect    .     ,      ,        ,             .  ﬁ            ,       . 
+ 
+    participant_modeling perceived_vulnerability    .              ,     ,    ﬁ  combining     perceived_vulnerability      . ,         ﬁ      ,  ﬁ     ,       ,            /. 
+.     
+    ,     ,       ,        ,     ﬁ   participant_modeling      .   ,  ﬁ   ,          (           )    possibility_effect    simplifying  loss    loss    (           ).    appraisal      ,              . 
+.    perceived_vulnerability 
+         ﬁ loss,        loss.    ,    , .   perceived_vulnerability       possibility_effect impact       ﬂ  ﬁ   .   ,         ,    gain  ﬁ,    loss,              certainty_effect evaluating        .  ,        ,  gain    ,   behavior_control-ability             certainty_effect evaluating.          ,             ,     ,       . 
+.   
+         .  ,       .       ,    .            ﬁ role,                ,  ,  ,  , , , , ,  ,  ,         .  ,                     intelligence        ,           isolation_effect 
+  
+.              opportunity_for_criminal_acts     ,         ,         .       ( )        ,              . 
+          , ..,         .                  
+================
+  
+. .      
+ 
+  segregating     .  process                .   ,         .   ,             ,   Collection                  .       personality   participant_modeling             ,       ,           personality      ﬂ         []. 
+,                  .         ,    ,      ,     ,      ,       ,                  .               ,        intelligence . 
+                        ( ). ,              [].           .                      ,   syllogistic_rules       ,       ﬁ    impact    
+  
+  .          ,       ,        ,              . ,       . ,     gain.        ,      []  ,    ﬁ     []     .            intentionality           .   , behavior -       certainty_effect  [].     behavior ﬁ [],      intentionality               ﬁ            .        [knowledge] -  perception  personality  ,     ,  combining  . ,     ,         ,       segregating     ,       ﬁ  ,          ,       ,       .      ﬂ   techniques ,          intrinsic_rewards (      ),        ﬁ (   )   ﬁ  ,    .             . ,         personality  loss,       
+================
+  
+       ﬁ. 
+  [goal]                 .   ,       appraisal perception (,    )     ,         ()     .                  [],                 ,       perceived_consensus.  ,       ﬁ          . 
+ 
+) ﬂ :                   ,     ﬁ  ﬂ   process     ( ),   [].   ﬁ       personality  (..,  )     personality    ,      ,         .  personality      certainty_effect    (,  possibility_effect     )     . ﬂ    ﬁ         ,            .     personality   ,                         segregating     . ,    task    ,        . 
+   , ﬂ    task     .        ,        .      ,    gain    .  ,    ﬂ   task,    ,     process      ,                       . 
+.   
+.    
+  ﬁ    ﬂ        .             .             .                . ,                      . ,                  . 
+)  :        possibility_effect ,            Collection,    ( ) [].  gain                            ,               .       protection_effect perception   ,             .   loss        perception   segregating     Collection   . 
+)  :    ,       []        [],         ,    participant_modeling  task      ( ) []          , belief  " " role [].  ,                              .   ﬁ          ,       .   gain                                   .   perceived_vulnerability                behavior_control-ability      experiential_awareness     . 
+  
+        ,   . []     ﬁ            (..,  ,  ,      , .).       .     [],     ﬁ            . ,     (Fuzzing ),    process              ﬁ,     impact   . ,   ,  belief      ﬁ          (..,        ),    ,    focus                     .                 ﬁ  appraisal     .                         .     ,   ﬁ    appraisal,       []. 
+================
+  
+ 
+  
+         
+ 
+ 
+ 
+           
+ 
+          
+ 
+              ,       
+ 
+     ,                   
+ 
+              experiential_awareness   
+ 
+                 (, , Deadeye_Jackal) 
+ 
+            personality /       
+ 
+         
+ 
+ ﬁ         / 
+. .            
+. .      
+  
+. .    ﬂ  
+.       
+ 
+. .      
+  ,           ,              ,   
+================
+  
+ 
+  
+     appraisal     
+ 
+ 
+ 
+ 
+                    
+[], [], [] 
+ 
+              
+[], [], [], [], [] 
+ 
+               
+[],[],[] 
+  
+                   
+[] 
+  
+                  
+[], [], [] 
+   (.  ﬂ) 
+              ,           
+[], [], [], [], [], [], [], [], [], [] 
+  
+      ,       thinking   ,             
+[] 
+  
+                  
+[] 
+  
+       
+[] 
+  
+   ,        ,         . 
+[], [], [], [], [] 
+Command_Injection 
+       intentionality,      
+[], [], [], [] 
+live_modeling (   ﬁ)  
+     perceived_uniqueness           
+[], [], [], [], [], [], [], [] 
+  
+           
+[], [], [] 
+  
+       
+[], [], [] 
+ Jamming 
+   ;     ﬁ 
+[] 
+ ﬁ 
+             ,     
+[] 
+Fuzzing ( ) 
+             Brute_Force ) 
+[] 
+   
+          /situational_circumstance perception 
+[] 
+   
+  , ..   ,     process    
+[], [] 
+ ﬁ 
+participant_modeling        
+[] 
+ 
+  
+    /ﬁ         
+[], [], [], [], [] 
+[resource]   
+   /, ,    [resource]   ,   , . 
+[], [], [] 
+  
+participant_modeling              
+[] 
+   
+           ,          
+[], [], [], [] 
+        
+      ﬁ        
+[] 
+  
+    intrinsic_rewards    /loss      
+[] 
+ loss 
+ loss        
+[] 
+   
+        
+[], [] 
+ ﬁ 
+        
+[], [], [] 
+  
+segregating                
+[] 
+================
+  
+           .      ,            .            ,    appraisal            belief      perception.   ,                  . 
+ 
+,   belief                     .        belief ,       perceived_vulnerability          .   ﬁ                   .  ﬁ    combining   ,  ,           . ,         . ,               .                live_modeling  behavior.          participant_modeling       ﬁ,  , , ,      ,       %     ﬂ  .   ,           extrinsic_rewards  live_modeling    behavior    . 
+• :    
+• /:  ()/   • /: behavior/ ()   ﬁ     ﬁ    ﬁ    
+• : ()   
+• : ()    • : ()       (experiential_awareness)    ( ) 
+• :  
+.  
+             .  ,       ﬁ     impulsive_effect   ().  ,    belief        ,        ﬁ        ,     .      ,              [].   ,                ,    personality           ﬁ . 
+  . []   ﬁ  mental_calculation     .  , ,           ,         ﬁ  perceived_vulnerability  [function]       .           .      ,         ,       (.., " "  " ").  ﬁ     judging    perceived_vulnerability  [function]         , belief          .    ,            . ,   perception   ﬁ             ,  gain  ,        ,        . 
+•  ():    
+• /   (/):  ( 
+ )/   
+•  / techniques (/): behavior/ () 
+      
+•   (): ()     
+•   (): ()   
+ 
+• appraisal perception (): ()   
+     (experiential_awareness) appraisal  
+   
+• :  
+  ,   . []          ()     
+  
+    ,        .                  ,   . []   ,         ,     .          ﬁ   ﬂ    ,     ,    ,  ,  ,  ﬂ  .    ,       ,         (.., "  "),     ,     .     behavior,          ,    ﬂ , impulsive_effect        ,     ,       behavior.                          .  behavior_control-ability  ,        ﬁ-programmable  .  appraisal      
+================
+  
+ 
+  possibility_effect     ﬁ,      Command_Injection. 
+• :     
+• /:  ()/   
+• /: behavior/ ()   
+• : () , ,    
+ ,      personality - 
+ behavior, () ,   
+ﬂ , impulsive_effect     
+• : () Command_Injection,  ﬁ, 
+()   ,  Jamming 
+• : experiential_awareness 
+• :  
+   ,   . []      loss,       ﬂ     .  perception            ﬂ      ﬂ .  techniques          appraisal       ,          ﬁ  .     perception           source ﬂ   ﬂ           ,      source       ﬂ . 
+• :     
+• /:  ()  /   
+  ﬂ  
+• /: behavior ﬁ/  
+• : () , , , , , , 
+ 
+• : ()  ,  , 
+ ﬂ  behavior 
+• :       
+ 
+• :  
+   []         ﬂ        learning  combining      .  ,        combining    "  ",    ""  ""  combining    personality " " ,   ,    ﬁ    . ,             ﬁ      ﬂ  ﬁ ,        .            ,     evaluating       ( .%     .%   / ). ,                , personality      loss.        ﬂ ,     
+  
+    ,     ,    ,       . 
+• :     
+• /:  ()  /   
+  ﬂ  
+• /: ()  ﬁ   
+[]  behavior ﬁ    
+ﬁ ﬂ / () ﬁ   
+[],  ()   ﬁ ﬂ 
+ 
+• : () , , , , , , 
+ 
+• : ﬁ 
+• :  
+• :  
+   ,   ,               .   ,   . []        ﬁ    ,    ,     perceived_vulnerability  ,   combining,    belief .  behavior_control-ability       ,    ﬁ      .                       ﬂ     .   belief               opportunity_for_criminal_acts       ,               .     ,     behavior          ,                 []  (   ).     perception       ﬁ-wing        ﬁ (           )         .            ﬂ,              . 
+• :   
+• /:  ()/   
+• /: / ()  perceived_vulnerability  
+,  combining   belief ,   
+  
+• : ()  ,  ,  
+ , belief   
+• : ()  ﬁ 
+• : ()     
+,     ﬂ    
+  ﬁ-wing  
+• :  
+    ﬁ                ,         
+================
+  
+ ﬁ ,         .      ,     ,   " ".            ,   syllogistic_rules     persistence    ,              .   . []      belief  constraint          . ,        ,        perceived_consensus ,          ,                           .    ,                    ,      .             (    ),    .           ,      ,   appraisal       situational_circumstance ,      personality  ,               . 
+• :    
+• /:  ()/  • /: behavior/  
+• : ()    
+• : ()    ﬂ  • : experiential_awareness 
+• :  
+ 
+   perception    behavior ﬁ,          [],    behavior  [] .        "        ", "        ", "       ", "     ", .   personality        (..,    ,   ),  []          ,        []  . ,  []         ,   appraisal     behavior   ﬁ         .  techniques              .   ,   certainty_effect evaluating  .%     evaluating    .   .%       ,       perceived_vulnerability .      [],     ﬂ   perception                     .    ,  perception         ,        ﬁ loss   
+  
+            ﬁ       situational_circumstance .        " "   ,           . 
+• :      
+• /: /  
+• /: behavior ﬁ/  
+• : ()  ,  , , 
+, , ,  . 
+• :   ﬁ (..,   
+ﬁ)   (..,    
+    ). 
+• :  
+• :  
+  . []             combining              .        ,      ,       ,        .    [knowledge] (   ,    )    (        protection_effect  ),          , , ,  .      ,           ﬁ      comply_effect  ,      ,      .              ,      ,       .   appraisal,      ,   certainty_effect evaluating    %.        [],   focus        ,          .           ,  ,         evaluating          evaluating      .                      ,     belief     (   participant_modeling )     (     )   loss  ,   [resource]     . 
+• :    
+• /:    ()/  
+• /: ()      
+    /  
+   (protection_effect  ) 
+• : ()   ,   
+   , ()   
+ ,    , ,  
+================
+  
+ 
+  
+        
+| | | | .|  | appraisal| 
+.   
+ 
+ 
+ 
+ 
+[]     []     []   []   []   []   []    [], []    []   
+ 
+  ,    history    
+• : ()   ,  
+ﬁ, () Jamming,  /  
+ 
+• :  
+• :  
+           .           ,         []      ,       personality         . 
+ﬂ 
+[knowledge] 
+behavior 
+ 
+ 
+ 
+ 
+ﬁ/ 
+ 
+ 
+ 
+ 
+experiential_awareness 
+
+??
+ 
+         
+.   
+           ,  ,      .     ,          ([], [], [], [], [], [])          ,           ,         . 
+)   :   ( )     ,        ,  ,  perceived_vulnerability     ,                            .         . [], [], [],                  ,        ,      .                       
+  
+     impact         .      ,    personality           ,    ,           ,          ,          .           experiential_awareness               loss  syllogistic_rules              physical_quality   .         appraisal  ﬁ,               behavior_control-ability situational_circumstance . ,      . ,   certainty_effect evaluating   .%  ,      .%  Command_Injection,      evaluating  Command_Injection   .%,      .%    . 
+• :    
+• /:  ()  /   
+  ﬂ  
+• /: [knowledge ]/ ()     
+  
+• : ()  ,  ﬁ,  
+, ()     ,  
+   
+• : () Command_Injection  , ( 
+)    
+• : experiential_awareness 
+• :  
+   ,   . [], []        ﬁ        ,       
+================
+  
+ 
+  
+          
+.| | | | .|  | appraisal| 
+.   
+ 
+ 
+ 
+ 
+[]-[]  /   [], []    . []  .   [], []  /  
+ 
+ﬂ 
+[knowledge] 
+behavior 
+ 
+ 
+ 
+ 
+ﬁ/ 
+ 
+ 
+ 
+ 
+experiential_awareness 
+
+ 
+    
+    ﬁ         .  ,        ﬁ       (  )    (  )            intrinsic_rewards         []  .   ,  [],               (   )      .               [],        perception          .         ,  experiential_awareness        .         .       . 
+• :    
+• /:  ()/   
+• /: ()    ,  
+   ﬁ    
+/ ()   
+• : ()   , [action] ,  
+ ,  evaluating, ()  , 
+, , ,  , ,  
+ 
+• : ()   ,  ,  
+,   , ()  
+   
+• : experiential_awareness 
+• :  
+            .                            ,        .  perception                 loss       .  ,        
+  
+evaluating           ,     ﬁ        .   . []    perception        ,          segregating                 .   perception            personality,     segregating     . ,         loss,                ,     personality   . 
+• :     (   ) 
+• /:  ()/   
+• /: behavior/  
+• : ()   
+• : ()  ﬁ 
+• : experiential_awareness 
+• :  
+       ,   . [], []     ,       ,    ,       task  ﬂ    personality ,       .       ﬂ      ,            .      ﬂ,    experiential_awareness ,               .  ,             ﬂ ,   personality        .       ,    ﬁ                   ,         ﬂ ,      .    ﬁ-           
+================
+  
+ 
+   . ,   personality        ,     ﬂ .          ﬁ  ( , protection_effect  ,  ,  )    persistence -       physical_quality       .        .%     ,      .%     ,   protection_effect  ,    . 
+• :    
+• /: / ﬂ  
+• /: [knowledge ]/ ()     
+   
+• : ()  ,  ﬁ,  
+, ()     ,  
+   
+• : () Command_Injection 
+• : (experiential_awareness) appraisal      
+     
+• :  
+) :                  , , ﬁ   [].   ,             ( ),         (),         . ,               ﬁ        ().            ,        Masquerading. 
+ perception    behavior ﬁ         .  ,   ﬁ        ,   . []  ﬁ      ﬁ-       (,    ﬁ   )   behavior    ( ,  social_circumstance,       social_circumstance ).   intelligence perception                 ,     personality   ,   ,            . ,      (  )        []   ﬁ          .   .  experiential_awareness    ,          ,        . ,                    . 
+• :     
+• /:  ()/   
+  
+• /: behavior ﬁ/ . 
+• : ()       
+    
+• : ﬁ,      
+     
+• :  
+• :  
+  ,   . []    perception       .         ,     ,       "  "     "  "   .   experiential_awareness          ,        .      ,    ,       ,       ,        .  [],    appraisal    perception     (   )       (             ).       segregating  ,    ﬁ       . 
+• :     
+• /:  ()/   
+• /: behavior ﬁ/ . 
+• : ()  ,     
+ 
+• : () Command_Injection 
+• : experiential_awareness 
+• :  
+   []                 ,                  .  syllogistic_rules             personality evaluating. ,      gain  evaluating    . ,                  evaluating    ,    -      .                    personality        ,      behavior_control-ability          .  ,          ﬁ    ,         . 
+• :     
+• /:  ()/   
+• /: behavior/ . 
+• : ()    
+• : () Command_Injection 
+• : experiential_awareness 
+================
+  
+ 
+  
+        
+.| | | | .|  | appraisal| 
+.   
+ 
+ 
+ 
+ 
+[]    [], []    []    []    []    []    []    []    []    []    []    [], []    []    []    []    []    []    []    .
+ 
+ﬂ 
+[knowledge] 
+behavior 
+ 
+ 
+ 
+ 
+ﬁ/ 
+ 
+ 
+ 
+ 
+experiential_awareness 
+
+??? 
+             ?    
+• :  
+  . []             ﬁ experiential_awareness       ,    process     , .. ,   ﬁ evaluating    . ,         process       process.        physical_quality          (/  ﬁ %      belief ),    ﬂ              . 
+• :     
+• /:  ()/   
+• /: behavior/ ()      
+process  
+• : ()     
+• : ()    
+• :  
+• :  
+   ,   . []             ,     ,      behavior     .  syllogistic_rules                   ,       
+  
+,      ,        .    appraisal,          (     ,         ,             ).              .           . ,             ,       .                         ,             ﬁ   . ,     %  certainty_effect  %           ﬁ   . 
+• :     
+• /:  ()/   • /: / . 
+• : ()    
+• : ()  , ()    
+• : ()         ,    ﬂ 
+================
+  
+ 
+• :  
+ ,              task,    ,          ,     ﬁ    .   . []    perception       .              () ﬂ   .  γ       ,                 γ         .          .     perception    gain  ,           µ,       personality  .                    .  ﬁ       . 
+• :   
+• /:  ()/   
+• /: behavior ﬁ/  
+• : ()   
+• : ()     
+• : (experiential_awareness)       
+  behavior 
+• :  
+  . []   ,        perception       ,     ﬁ          ,        .                 ,  ﬁ  ﬁ ,     ﬁ         .  appraisal,             protection_effect    . ,                    . 
+• :     
+• /:  ()/   
+• /: behavior/ . 
+• : ()       
+• : () Command_Injection     
+ (live_modeling   ), () 
+   
+• : (experiential_awareness)      
+protection_effect,        
+      . 
+• :  
+        , ü   []   perception   .    ,   ﬁ   ,   ﬁ       . ,      
+  
+://..// 
+   personality. ,  belief    ﬁ        possibility_effect  [activity ].   ,           , ﬁ    ,   ,          belief,  situational_circumstance  (        ),  (    ),     evaluating     .         ,                   ,                 . appraisal           ﬂ   ,      personality.   ,    ﬂ           , evaluating  source  ﬁ .    ,                       (..,            ). 
+• :     
+• /:  ()/   
+• /: behavior/ ()     
+      
+• : ()  ﬁ , ()  
+  
+• : ()   ,  
+, ()  ﬂ 
+• : experiential_awareness 
+• :  
+   []    focus           .    ,                   ,              .   ,        ,          . appraisal            %            ,    %   . ,          perception            personality,       ﬁ    .         ﬁ       ,         ,     . 
+• :     
+• /:  ()/   
+• /: behavior/  
+• : ()    
+• : () , Command_Injection    
+ 
+• : ()   ,    
+================
+  
+ 
+   []        (),            ﬁ .                 .  ,       ﬁ.      combining    personality ,        .    ﬁ         certainty_effect evaluating  .%,        perceived_consensus       .                    ,         combining        ,            .  ﬁ           ,             ﬁ  [].                 ﬁ,    ﬁ .        ,    ,   ,  ﬁ            ,     ﬁ          ﬁ,     combining   ,     .        behavior       . experiential_awareness appraisal         ﬁ evaluating   .%. ,              . 
+• :     
+• /:  ()/   • /: behavior. ()   ﬂ         • : ()     • : ()  Masquerading, ()    /    • :  experiential_awareness appraisal         
+• :  
+      
+• :  
+  . []                         .      ,          ,                    ﬁ.                     ,        ,         .                     .            live_modeling,   ,       ﬁ     ,             . appraisal   perception     . 
+• :     
+• /:  ()/   
+• /: behavior ﬁ/  
+• : ()   ﬁ 
+• : () live_modeling, ,  () 
+   
+• :  
+• :  
+  . []           ,                       behavior.                        [].  Collection        ,   , ,        .               .               ()            .          ,   techniques          .               . 
+• :     
+• /:  ()/   
+• /: behavior/ ()    
+• : () , ,   , 
+ ,   ,   
+belief    
+• : ()    
+• : () ,    behavior  
+   
+• :  
+  
+  . []           ()               .            "personality" (              )         .         ""     ,                  . appraisal         behavior                  ,   ,  ,        . 
+================
+  
+• :     
+• /:  ()/   • /: behavior/ ()      
+• : ()    
+• : ()   ,  ()   
+• : ()             
+• :  
+  . []             [action]       intrinsic_rewards. ,         ﬁ        - ﬁ             [action]             .  ,     ﬁ      ,   appraisal    ﬂ           . [].             , , ,        .     . 
+• :     
+• /:  ()/   • /: [knowledge ]/ ()   ﬁ  
+• : ()        • : ()   , ()    
+• :  
+• :  
+ 
+  . []  ﬁ             [activity]   / ﬁ   .          perceived_vulnerability     ,              experiential_awareness ,                  (..,     ).   ﬁ  ﬁ intelligence        perceived_vulnerability []       ,     ,        ,  appraisal    ,                    .   ,           perception. ,          ﬂ     . 
+  
+• :     
+• /:  ()/     ﬂ  
+• /: behavior/  
+• : ()  ,   ,  belief   constraint 
+• : ()       
+  
+• :  
+• :  
+ [],       ,  ﬁ ﬁ    ﬁ         ,          ,       ().                 ﬁ    .  syllogistic_rules      ﬁ          .   ,      ﬁ               .          ﬁ     .   ,               certainty_effect evaluating     .%,        ﬁ . 
+• :     
+• /:  ()/   
+• /: behavior/  
+• :    ,     
+  ﬁ 
+• :      
+• : ()     
+• :  
+         ,       ,   . []             .            ﬁ                .         ﬂ,                  .   possibility_effect      ,      ,            ,        .    ,              ,            .    ,   certainty_effect        %. 
+• :   
+• /:  ()/   
+• /: [knowledge ]/ ()    
+• : ()        
+ 
+• : ()   
+• : () appraisal        
+     [] 
+• :  
+          . [],           
+================
+  
+   ﬁ         appraisal    intelligence .  ,     .  ﬁ  ,                      combining     .      appraisal        .   perception  ,       ,    ﬁ     ﬁ    . 
+• :    
+• /: / ﬂ  
+• /: behavior ﬁ/  
+• : () intelligence  ,     /  ﬂ 
+• : ()    
+• :  
+• :  
+ 
+)   :            ,   ,                     . ,              ().          ﬁ     .  ,              (),  mental_calculation   ,       ﬁ     ,    ﬁ      [].          ,      []  []. ,       intrinsic_rewards             ,     . 
+    fear_arousal        possibility_effect,          - ,    ,                  .   . []             perception           (). ,                     .            (protection_effect      ),        ﬁ    ,    gain   evaluating  simplifying  . appraisal       certainty_effect evaluating  .%    evaluating  .%.      [],         .         (,   ),     
+  
+   [],         []        . 
+• :     
+• /:  ()/   
+• /: behavior/ () protection_effect   
+     [],    
+    [] 
+• : ()    , .  ,  
+, source, ,  , . 
+• : () , ,    
+   
+• : ()  
+• :  
+ [],   .     intrinsic_rewards            ,          .  ,        ()  ,         behavior. ﬁ,                  ,        perception        .  appraisal,                  .      gain       .  [],            certainty_effect . 
+• :     
+• /:  ()/   
+• /: behavior/ ()    
+[],       [] 
+• : ()     ()  
+ ,   ,  , source, 
+,  , . 
+• :  
+• : ()      
+   
+• :  
+        ,                ,       /  ﬁ   ,    intrinsic_rewards     .   ,    perceived_uniqueness        behavior. ,   . []            ,     combining ,           .   belief   perception        personality .               . 
+• :   
+• /:  ()/  
+================
+  
+ 
+  
+        
+.| | | | .|  | appraisal| 
+.   
+ 
+ 
+ 
+ 
+[], []    [], []    []   []   []   []   []   [], []   []   [], []   [], []   []   []   []   []   []   []   []   
+ 
+ﬂ 
+[knowledge] 
+behavior 
+ 
+ 
+ 
+ 
+ﬁ/ 
+ 
+ 
+ 
+ 
+experiential_awareness 
+
+ 
+                  
+• /: behavior.   ()  
+ 
+• : ()    
+• : ()    
+• :    
+• :  
+,        ,        . [],             .                       ,     ﬁ   ﬁ [authority ]. 
+• :   
+• /:  ()/   
+• /: behavior/  
+• : ()  ,  ,  () 
+    
+• : ()    
+• :  
+• :  
+  . []            ,  ﬁ     ﬁ     ,      ,    .    perception, 
+  
+ ﬁ           ,     perception,  ﬁ                .         perceived_vulnerability  physical_quality ()       perception       certainty_effect evaluating  . ,            . 
+• :   
+• /:  (), /  
+• /: behavior/ . 
+• : () ,   , 
+, () ,  ,  
+  
+• : ()    
+• :  
+• :  
+             ,        intrinsic_rewards     . ,          . []        intrinsic_rewards  .  ,                    
+================
+  
+ 
+    ﬁ  . belief                  .  syllogistic_rules        ,    appraisal   ﬁ ﬂ (  )             intentionality         .         ﬂ           . ,              . appraisal   techniques   ++          ﬁ            ,            . ,       %,   certainty_effect evaluating   %    certainty_effect evaluating    %. 
+• :   
+• /:  ()/  
+• /: behavior/ . 
+• : () , ﬂ, ,  
+• : ()    
+• : () ++ 
+• :  
+  . []           ,  ,       personality .  perception       ﬁ ,   "           behavior.          ,     ,      ,       ﬁ [authority ].    behavior         ,       ,  experiential_awareness   ﬁ. 
+• :   
+• /:  ()/  
+• /: behavior/  
+• : ()  ,    
+• : () ,  ,  
+ 
+• :  
+• :  
+  . []   ,             .           ,            [action]       [].         intrinsic_rewards ,          extrinsic_rewards  loss   .              behavior.             .  perception           . 
+  
+• :   
+• /:  ()/  
+• /: behavior/  
+• : () , ,  
+• :  
+• :  
+• :  
+  . [], []   ,                .   ,     ,         intrinsic_rewards     . intrinsic_rewards                  .          [],       ; ()                 ,  ()       , mental_calculation      . ,          () ,     intrinsic_rewards     ﬁ    . ,                      .       protection_effect      behavior.                            []   , ,  , [resource] ,    .       %  %,   certainty_effect evaluating   .%  .% . 
+• :   
+• /:  ()    / 
+ 
+• /: /    
+• : ()   ,   ,  
+ , ()    
+• : () ,  , , 
+()  , , [resource] 
+ 
+• : ()  
+• :  
+  . []          ﬁ                     personality.  ,      "belief" ﬁ    ,            .               ,       ﬁ            ﬁ   ﬁ  .            ,       .     
+================
+  
+ perception           .           physical_quality             .          perception   []  []        personality ,    certainty_effect evaluating  %   personality    %. 
+• :   
+• /:  ()/  • /: ([knowledge ])  (behavior )/ . • : ()      • : ()    
+• : ()  
+• :  
+  . []                         combining     ﬁ ,           [].    behavior        evaluating   ,     ﬁ    ﬁ,              .        ,     .               .       certainty_effect evaluating   %  %         %  % . 
+• :   
+• /: / ﬂ 
+• /: [knowledge ]/ . 
+• : () evaluating    ,  • : ()    
+• : ()  
+• :  
+ 
+  . [], []    ,               ﬁ.        ,       ,    ﬁ,  ﬁ,               . ﬁ,                ,           ﬁ                     ﬁ.   appraisal,      ﬁ ,       ,          ,         ("") .    ,       ﬁ       ,            .          
+  
+  ,              . 
+• :   
+• /:  ()/ ,  
+ 
+• /: behavior/  
+• : ()  
+• : ()    
+• : (experiential_awareness)      
+  
+• :  
+     . []    possibility_effect         ,             .   ,          .      ()      ()    ()   ;   evaluating    evaluating    ;      ;        . appraisal                      ﬁ   [], []  [].     ﬁ          perception  [modeling]                          . 
+• :   
+• /:  ()/  
+• /: behavior/  
+• : ()  / ,  
+ evaluating, ()  
+• : () , , () 
+/,    
+• : ()  
+• :  
+     ﬁ             ,       ,     "" .       ,     . [],              personality              .                .    ,            ,  perception     certainty_effect evaluating  %     evaluating  %. 
+• :   
+• /:  ( )/ ﬂ 
+• /: [knowledge ]/  
+• : ()  , ()  
+ 
+• : ()  
+================
+  
+ 
+• :  
+• :  
+         .  []        . ,     combining    ﬁ              .  belief        experiential_awareness     ﬁ           .    ﬁ      ,                       .    ,     certainty_effect evaluating,        ,         . ,   certainty_effect evaluating   %           %. 
+• :   
+• /:  ()/  
+• /: [knowledge ]/  
+• : ()   
+• : ()  
+• :  
+• :  
+   []         possibility_effect     .                ,            .     techniques,                    []    perception        ,   â    .    
+  appraisal   .             .              intentionality               . 
+• :   
+• /:  ()/  
+• /: behavior/  
+• : ()       
+ 
+• :  ﬁ,  ,  
+ 
+•  :  
+• :  
+• :  
+  . []      perception  ,      ,               ﬁ  ,   .    ,     perceived_vulnerability  
+  
+             intelligence  .  techniques    ,         ﬁ        .  ﬁ    intrinsic_rewards      [experience]        ﬁ  ,        .    ,     ﬁ      .          ,            ,     . appraisal               simplifying  impact              ,    certainty_effect evaluating   %     %   . 
+• :   
+• /:  ()/  
+• /: behavior/  
+• : ()    
+• : ()    
+• : ()  
+• :  
+          Jamming . ,                    combining.   . []                   .  Jamming                               Jamming . 
+• :   
+• /:  ()/  
+• /: behavior/  
+• : ()    
+• : () Jamming 
+• :  
+• :  
+              ,                .   ,  Jamming                   .                                   .   . []                  ﬁ           .  gain,                     . ,            
+================
+  
+    ,         Jamming . ,                . 
+• :   
+• /:  (,   )/  
+• /: [knowledge ]/  
+• : ()   
+• : () Jamming 
+• :  
+• :  
+ 
+      ﬁ .            . ,  perception           . appraisal        ()       ﬁ ,         .            behavior,       behavior. ,   certainty_effect evaluating  ﬁ      %. 
+• :    
+• /: /  
+• /: behavior/  
+• : ()      • : ()  ﬁ 
+• :  
+• :  
+  . [], []        ﬁ,     ,     combining    ﬁ      ,            .          ﬁ       ﬁ      ﬁ,         ﬁ,      ,      ﬁ      .                   perceived_uniqueness  ,  appraisal      . 
+• :    
+• /: /  
+• /: behavior/  
+• :   ,       • : ()  ﬁ 
+• :    ﬁ  ﬂ  • :  
+.  
+                .            combining     perceived_vulnerability  [],   []      .         vulnerabilities         perception ,         ,             "   loss" []. 
+           .    perceived_vulnerability        ﬁ          ,    []     ﬁ                ()    .            ,     situational_circumstance . 
+• :   (    
+)   
+• /:  ()/   
+• /: behavior/  
+• : ()    
+• : ()  ﬁ 
+• : experiential_awareness (     ) 
+   (  appraisal   
+) 
+• :  
+impulsive_effect ﬁ  ()                 .        ﬁ, belief, ,  ,                   . ,      ,       [],               (..,  ﬁ     ).   . []     ﬁ   belief  ,         ,        .        ,              ,        
+  
+  . []                   .  perception                  .  ,          ,                ,      loss  (     ,            ),     behavior        .                    (   protection_effect         )      perceived_vulnerability    .   appraisal,         ,       ,      .  
+================
+  
+ 
+  
+        
+.| | | | .|  | appraisal| 
+.   
+ 
+ 
+ 
+ 
+ﬂ 
+[]     []     [], []     []    
+????????? 
+ protection_effect           . 
+• :    
+• /: /  
+• /: behavior/  
+• : ()  
+• : ()  /  
+• :  
+• :  
+.      
+            ,          .    personality.        ,        ,                 .    ,            .     personality                    ,              .    personality           ,                % (    ). ,     mental_calculation              ﬁ. 
+[knowledge] 
+behavior 
+ 
+ 
+ 
+ 
+ﬁ/ 
+ 
+ 
+ 
+ 
+experiential_awareness 
+
+ 
+    
+  
+.     
+             ,    .      appraisal     segregating          ,     .           ,   ("    ")   ("     "),        
+     .         personality (..,   )   (..,            ),         . ,          ,    / ,       ,     [knowledge]    ﬁ       .           .      ,       .      [],       [],   []      []     ,                [],    perceived_consensus           [],       [],    ( ,   )      [],       [],        [].          ,         satisfaction_of_needs      ,       ,   ﬂ         . ,         behavior_control-ability      ,       [],            ,      Collection      behavior       behavior . 
+.          
+ [preference]          .         certainty_effect ,    personality               .          ﬂ  
+================
+  
+      ,     ﬁ        ( ).                   ﬁ          .          ﬂ     ,             ,                    .    perception          ,         perceived_vulnerability intelligence ,     perceived_vulnerability  [],    ﬂ   []. 
+. .        
+ 
+.           
+     ( )    ,   , focus            ,         . ,                 . ,          .  ,                  ,          behavior                ,    intrinsic_rewards appraisal           .        personality          . 
+. belief 
+          ,                     ,       .                 ,             combining            ,         ,             ,    ,  appraisal   personality        personality . 
+ 
+                     "       ",       extrinsic_rewards           perceived_consensus . . 
+ 
+.  ﬁ 
+          ﬁ-related  .      .  ﬁ                                    . ,    ﬁ        personality        . ,      ,    perceived_vulnerability      ,    techniques       ,       [].                   , ..,       ﬁ ﬂ        . , ﬁ      ,              behavior .  ,        ,         ﬁ  [],      ﬁ       ﬁ  ﬁ     [].   ,     intrinsic_rewards               ,      ()         (..,        ). 
+  
+[] . ,  :    perceived_vulnerability. 
+ (), . 
+[] . , . , . , . , . , 
+. , . , . , . , .   ., 
+" experiential_awareness     ." 
+   .  , . 
+[] .   . . , "      
+   ,"   , . 
+[] . , . , . ,  . , "   
+  :     ,"  
+ , . , . , . 
+[] . , . , . , . , . ,  . , 
+"     intrinsic_rewards  ,"   
+   , . , . , . , . [] .   . , "       
+ ,"  , . , . , 
+. 
+[] . , . . ,  . , "     
+    ,"    
+& , . , . , . , . 
+================
+  
+ 
+[] . .   . , "       
+      ,"   
+ & , . , . , . , . [] . , . , . , . . , . ,  . . , " 
+      ,"  
+, . , . 
+[] .   .-xxx. , "     intrinsic_rewards 
+  ,"    (), . , 
+. , . , . 
+[] .   . , "       
+ intelligence  :   ,"   
+, . , . , . 
+[] . .   . , "  :   
+   ,"      
+    ()      
+ ()   ,    
+ ()   intelligence  (). , 
+, . . 
+[] . , . , . , . ,  . ﬁ, 
+" ﬂ   â     
+    ﬁ  ,"  
+modeling   belief, . , . , . [] . . , "  ,"  , , 
+. , . 
+[] . , . , . ,  . , "  
+         
+,"         
+ ()       
+()   ,     ( 
+)   intelligence  (). , . [] . , . , . , . . , . ,  . . , 
+"    :    
+    intelligence ,"     
+ , . , . , . , . 
+[] . , . . , . , . . , . . , . . 
+,  . , ":    
+        ,"  
+  , . , . , . , . [] . , .  , . , . Ãnez, . , 
+. ,  . , "    
+     ,"    
+, . , . , . 
+[] .   . , "     
+    behavior  ﬁ,"   
+  , ,  : , . , . , . 
+, . 
+[] . , . , . ,  . , "    
+:    ,"  , 
+. , . , . , . 
+[] . , . , . , . , . , . , 
+. , . , . , . ,  . , 
+"experiential_awareness     personality ,"   
+  (),    . , , .  
+. 
+[] .   , . ,  .-xxx. . , "   
+:     ,"   
+ , . 
+[] .   . . , "     
+   ,"      
+  (). , , . . 
+[] ——, "   ﬁ    
+  protection_effect  ," &  
+, . , . , . 
+[] . , . . ,  . , "   
+       :  
+  ,"     
+  , . , . , . , . [] . . . , . ,  . , " 
+         
+ ,"    , . [] . . .   . , " intelligence  
+        
+,"      (),  
+ . , , . . 
+[] . , . . ,  . , "   
+          
+  
+ ,"    , ,  : 
+, . 
+[] . . . , . ,  . , "intelligence 
+          
+ ," , . , . , . , . [] . , . ,  . , " appraisal   
+      ,"    
+     intelligence   
+ (). , . 
+[] . , . , . ,  . , "  
+       ,"    
+     . , 
+, . . 
+[] . , . , . ,  . , "  
+      Command_Injection    
+,"         
+   (). , . 
+[] . . . , . ,  . , "  
+        
+   ,"       
+    (). , , 
+. . 
+[] . . .   . , "   
+   ,"     
+    (). , , . . [] . , . ,  . , "  belief   
+     ,"   
+ , . 
+[] .   . , "     
+,"  intelligence  . , , .  
+. 
+[] . , . ,  . , "      
+         ,"  
+     (). , 
+, . . 
+[] .-xxx.   . . , "     
+  opportunity_for_criminal_acts,"        
+     . , , 
+. . 
+[] .-xxx.   .-xxx. , "  techniques  
+   ,"     
+  , . 
+[] .-xxx.   .-xxx. , ":   
+     ,"   , 
+. , . , . , . 
+[] . , . , . ,  . , "  
+      ,"    
+    (). , , . 
+. 
+[] . , . ,  . , " perception  ﬁ- 
+     ,"  intelligence  
+. , , . . 
+[] .   . , "      
+    ,"  intelligence   
+(),  . , , . . 
+[] . . , . . , . ,  . , "   
+        ,"   
+       (). 
+, , . . 
+[] .-xxx.   . . , "Fingerprinting     
+  ."    , , . 
+. 
+[] . , . , . , . ,  . , "  
+    ﬁ   intelligence  
+,"          
+  . , , . . [] . , . , . ,  . , "  
+ﬁ    ,"     
+     (). , , . 
+. 
+[] . . , . ,  . , " :  
+    ,"     intelligence 
+  ( ). , . 
+[] .-xxx.   . . , ":  ﬁ   
+,"         
+ (â ).´ , , . . 
+================
+  
+ 
+[] . , . . , . , . ,  . , 
+"     ,"    
+  ( ). , , . . [] . , . , . , . ,  . , " - 
+       appraisal," 
+       (). 
+, , . . 
+[] .   . , "ﬁ     
+  ,"     ﬁ   
+     . , , 
+. . 
+[] . , . ,  . , ":  
+        ,"  
+       ﬁ. 
+, . 
+[] . , . , . , . , . ,  
+. , "      
+ﬁ,"     (),   
+ . , , . . 
+[] . , . , . . ,  . , " 
+        ,"  
+       
+         
+(). , , . . 
+[] . , . ,  . , "     
+  [policy]    ,"     
+   intrinsic_rewards,      
+ /       
+   (/). , , . 
+. 
+[] . , . ,  . , "    
+      ,"   
+, . , . , . , . 
+[] . , . ,  . , "  
+     ,"   
+      & perceived_vulnerability 
+appraisal (). , . 
+[] . , . ,  . , "  appraisal   
+ ﬁ ,"       
+   . , , . . [] . , . ,  . , "        
+ appraisal   ,"      
+     (). , , . 
+. 
+[] ——, " appraisal       
+     Deadeye_Jackal,"      
+     ( ), , . 
+. 
+[] . , . ,  . , "     
+        ," 
+     , . , . , 
+. , . 
+[] .   . , "      
+     ,"    
+     (). , , . 
+. 
+[] . . . , . , . ,  . , 
+"         
+ ﬁ,"        
+ (). , , . . 
+[] . . . , . . ,  . , "  
+        
+   ,"  , . , . , . , . [] . , . , . ,  . , "   
+    .   ,"  
+ , . , . , . , . [] . , . , . ﬁ, . , . ,  . , 
+"        
+,"  , . 
+[] . , . . , . ,  . , "perceived_vulnerability  
+   impulsive_effect      
+,"         
+  ( ). , . 
+[] . , . ,  . , "  
+          
+ ,"  .   , . , , .  . 
+  
+[] . , . , . Ã, . , . ,  
+. , "satisfaction_of_needs    :   
+,"  /   , . [] . , . ,  . , "    
+  - personality      
+,"  , . 
+[] ——, "      -   
+  ,"    belief  
+, . , . , . , . 
+[] .   . , "      
+,"   , . 
+[] . . , . . , . . , . . ,  . . 
+, "[modeling]        
+    :   perception   
+ ,"         
+    . , , . . [] . , . . ,  . . , ":    
+        ,"  
+    ,   intrinsic_rewards (), 
+. 
+[] . , . ,  . , "    
+        ," 
+          
+ (). , , . . 
+[] . .   . , "     
+ [activity]   / ﬁ   
+," .  ,   ,,. 
+[] .   . , " ﬁ, [modeling]  
+      ,"   
+, . , . , . 
+[] .-xxx.   .-xxx. , "      
+      ,"    
+   ( ). , , .  
+. 
+[] . , . ,  . , "    
+    intelligence :     
+,"      intelligence . , 
+, , . . 
+[] . .   . , " (     
+):       
+ ."         
+, , . 
+[] . , . ,  . , "     
+   intrinsic_rewards     ,"  
+    intelligence . , 
+, . . 
+[] . , . , . , . ,  .-xxx. , 
+"        ," 
+      , . , . , 
+. 
+[] . .-xxx. , . , . , . , . , . , 
+. ,  . , "  extrinsic_rewards   
+ﬁ,"          
+ . , , . . 
+[] . , . . , . , . ,  .  
+, "    :   
+perception    ,"     
+, . , . , . , . 
+[] .   . . , "    () 
+     ,"   
+ , . , . , . , . 
+[] .   . , " intrinsic_rewards  intelligence 
+   ," &  , 
+. , . , . , . 
+[] . . , . , . . ,  . , ":  
+   personality       
+,"  , . 
+[] . , . ,  . , "     
+,"   , . , . , .  
+, . 
+[] .   . , "    
+       ,"    
+ , . , . , . , . 
+[] . , . . , . , . ,  . . 
+, "physical_quality : experiential_awareness     
+   ,"     
+(),  . , , . . 
+================
+  
+ 
+[] . , "    ﬁ  
+  ," .. ,  ä, 
+. 
+[] . , . , . , . ,  . , ":  
+     ,"    
+   , . , . , . , . [] . , . . , . ,  . . , "  
+  perception     ," 
+          
+  . , , . . 
+[] . , .-xxx. ,  . , "   
+        ," 
+    , . , . , . 
+, . 
+[] . , . ,  . . , ":  
+Jamming      ,"  appraisal, 
+. , . , . 
+[] . .   . . , "  ," 
+   , ,  , . , .  
+, . 
+[] . . , "     ,"  
+        , . , . [] . . , . ,  . , "    
+  ," &  , . [] . , . , . ,  . , "  
+  :  ,"   protection_effect   
+, . ., . 
+[] .   . , "    
+  ,"      
+     , . 
+[] . , . ,  . , "   
+ belief ﬁ    ,"    
+     (). , 
+, . . 
+[] . , . , . , . , . ,  
+. , "    perception  combining  
+  ,"    , . , . 
+, . 
+[] . , " perceived_vulnerability ," , . 
+[] . , " : ﬁ   ﬁ ," 
+     , . , . , . , 
+. 
+[] . , . . ,  . , "   ," 
+  , . , . 
+  
+================
+  
+..                intelligence ,   ,      .        .                    .               modeling   belief. ..           . 
+..  ()      ()   segregating.             , &  ,   .     ()         , .           ()         (). ..    ()               .     mastery_experience   belief    ,       ,   .            ()      , . 
+..  ()       protection_effect      ,          ,            . ,           protection_effect  .             , ,                ,   ,           ,   .           . 
+..     ..  ..      ,    , , ,     .  ,            ,    , , ,   .          , personality       ,     .  ,      ,         ,  appraisal     ,          .        , ,   . ,                 , [resource] ,  ,   .      .
+ 
+..       combining         ,      ,  intelligence    .             .
+ 
+..            .          ,      ,     . 
+  
+================
+ 
+ ..  
+ ..  
+ ..  
+ 
+..  
+ ..  
+ 
+  
+..   
+================

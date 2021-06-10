@@ -1,0 +1,237 @@
+     
+ ,   
+, ,      
+     , ,   
+   
+@.. 
+@.. 
+@.. 
+isolation_effect : 
+            .             ()  .   ,           .         ,       participant_modeling  .    ,         (  , )          .       combining              protection_effect [activity ].  role                ,               . 
+           ,        .                protection_effect  .     ,           ,   personality.  /         motivation         thinking. ,           participant_modeling   role       . 
+,     personality           ,         protection_effect   .            [knowledge]      .        personality            .   ,        [knowledge]               personality    protection_effect . 
+: , , , , ,  
+.  
+            possibility_effect                     ()  (,  ).  gain,          protection_effect           . 
+               .   ,          .   ,      isolation_effect      .               combining   ?                  ,  protection_effect        .                     . ,        : , , , , ,    .          . ,          .             [knowledge]       ,                 . 
+================
+.    
+   (),              .    ()         personality             [knowledge]   .  gain,    behavior_control-ability        (.. )             [knowledge]  . ,    ()        : 
+  participant_modeling   personality          
+. 
+      [knowledge ]. 
+     . 
+  isolation_effect  [knowledge]    [knowledge ]. 
+  simplifying  [knowledge ]. 
+   ()       : combining     ,   ,   .           :  ,  coding    .                           .  coding           .            coding process (,  ).     behavior_control-ability           . 
+.     
+      participant_modeling  .    ,                   .           combining           .  role              ,    ,       ()   . 
+            .                     protection_effect  fear_arousal.              , coding           (  , éé),      .        [knowledge]     .         [knowledge]     . 
+éé         [knowledge]          .              . éé      ,   .          ://éé... éé                    (  . ).                ,     . 
+     appraisal    .    éé    generalizing           appraisal process. éé        belief                (    ).    ,             appraisal .          (   )           (  belief   )      .  process   loss            (  . ).               . 
+================
+        .    (),                    .                      . ,      ,      combining        .  process          .          (,   ).               éé. 
+.      
+    ,    ()                .    .         .    ,     ,            techniques       . 
+          ,  , , , ,   .  ,        , , , ,   .  [goal]    (          )               ,         .         ,           . 
+.  
+ ,    ()        : 
+  
+ 
+  
+   
+    
+    
+   
+        
+                    .  ,      " " syllogistic_rules.  ,    éé              . 
+================
+ : 
+  
+ intelligence                     ,  , ,  ,  physical_quality   ( ).  intelligence                                .    ,     . 
+.  
+ ,    ()      , ,             (  ). 
+ : 
+  
+    ()  ""       , ""   loss, ""   loss  ""   loss             ,     .      ,      ,     : 
+  
+  
+ -    . 
+ -  loss   (      ). 
+ -    loss   ( personality   ).  -  loss        ( perceived_vulnerability - ,    ). 
+       ,          . 
+================
+.  
+         motivation   .      . ,         .  ,    ()     , , ,   . 
+ ( (,  ))                 personality   .  gain,          ,          . ,  personality       personality,    ,        .           personality,   .           .  ,              .        . 
+ : 
+  
+.  
+                 (   )    (   protection_effect [activity] ).       ()   (),       : 
+     
+  
+  
+   
+  
+  
+    
+  
+  
+  
+  
+ protection_effect  
+  
+ intelligence 
+  
+ planning 
+  
+  
+================
+   (protection_effect     )   
+    .  ,          ,       Organization. ,      .                ,   .                  ..             . 
+.  
+ ()                    .       ,   ,  ,       ,    ,    ,   perceived_responsibility    . ,              ,  ,    (,  ).      ,       : 
+  
+    
+  
+   
+    
+  
+   
+    
+  (,   ) 
+  
+  
+  
+ perceived_responsibility   
+  
+  
+ Phishing 
+   
+  
+  
+  
+  
+  
+   
+  
+  Defacement 
+  scripting 
+ SQL_Injection 
+   
+  
+  
+  
+  
+  
+  
+  
+  
+               .    intrinsic_rewards     ,               .               protection_effect   .       . 
+================
+.  
+                   .        [activity ],        ,        ( !  source  .): 
+    
+  
+  
+ : 
+  
+ ,             .         techniques                      .               , , perceived_vulnerability, ,  ,    ( ). ,     Organization             , ,   . 
+        .                   . 
+.  
+                     ,       . 
+    "  ,    certainty_effect,              ,            ,  ,      , ,  " (,  ). ,                  role.  ,  intrinsic_rewards,             ,         , ,  ,     ( ). ,              ,        protection_effect    .       ,    ,      .      , , ,   . 
+================
+ ,            .          .        , ,       .            ,                     .  ,         ,    Defacement.             Defacement   .                            . 
+,   ,                        .           : 
+         -           
+. 
+      personality    -    , 
+   certainty_effect. 
+          Defacement -    
+ behavior           ,  
+ . 
+       Organization,     -      
+       fear_arousal. 
+      ,    : 
+       personality    -    , 
+   certainty_effect. 
+       ,     -    
+  protection_effect  protection_effect   ,   planning. 
+           ,     .
+ 
+.    
+   , , , , ,                        .                  . 
+.  :    () 
+             .     ,       .                   ,   . ,                         . 
+                 .        internalization         ,       .  internalization         . 
+.    
+          ( ).            segregating   belief  .    ,  internalization    : 
+     . 
+   . 
+    loss. 
+       . 
+     ( ). 
+================
+ 
+    . 
+    ,          . 
+.    
+ personality            : 
+    . 
+   personality. 
+    loss. 
+       . 
+    Defacement. 
+   ,             . 
+.   
+,          syllogistic_rules  protection_effect : 
+     . 
+    loss. 
+    protection_effect   . 
+     . 
+   . 
+ belief   éé       protection_effect . 
+.    
+           ,           , , ,    .           . 
+.    belief 
+        simplifying    .                  protection_effect  .          personality            gain. 
+                           .  combining        ,   personality     .  ,                             , ,   .  gain,        , , , ,   .     personality perception           . 
+ 
+, ..& , . (), "    techniques    
+",     , . , . , . . , . , "        ",    
+       . 
+, .& , . (), "?", & , . , . , . . 
+, ., , ., , ., , .& , . , " personality    
+    éé-OWL      .",   
+ . 
+================
+, .. (), "  perception    ", [knowledge] 
+, . , . , . . 
+, .& , .. (),     ,   
+. 
+, .. (), "  physical_quality  "  ,  , . . 
+, ., , ., , ., , ., , ., , ., , ., , .., 
+, .& , .( ), " éé  [experience] ", . :  
+  . 
+, . (), "      ", , , . . 
+, .& , . (), "        ",  
+   , . , . , . . 
+, ..& , .. (),   :       
+,  [knowledge]    . 
+, . (), "  perception   ",    
+, .  .    ,, . . 
+, .& , . (), "     ",    
+   [knowledge] . 
+ , .., , .& , .. (), "      
+",           . 
+ . 
+, . (), "     ",    
+, . , . , . . 
+, . (), "     ",     
+      , . . ,  
+ ,  , . . 
+, .& , . (), "     :   protection_effect  
+ ",           
+.  , . . 
+================

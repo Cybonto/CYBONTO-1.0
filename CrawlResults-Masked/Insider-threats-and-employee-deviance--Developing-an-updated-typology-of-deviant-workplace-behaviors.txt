@@ -1,0 +1,118 @@
+://././      ,  , . ,  
+    :    
+     
+ ,  [] , @. 
+isolation_effect 
+      [Organization ],      , , ,   (  ., ;   , ).    perceived_vulnerability          [knowledge]   [Organization]   , , , ,    (  , ).                [policy ],   perceived_vulnerability   ()       [policy]   , / ()       [policy]  satisfaction_of_needs   (, ;   , ). 
+:  ,   behavior 
+ 
+      [Organization ],      , , ,   (  ., ;   , ).    perceived_vulnerability          [knowledge]   [Organization]   , , , ,    (  , ).                [policy ],   perceived_vulnerability   ()       [policy]   , / ()       [policy]  satisfaction_of_needs   (, ;   , ). 
+          , ,          .  gain,         , ,  ,      , ,  /  (  ., ). 
+    perceived_vulnerability   (  , ),           opportunity_for_criminal_acts. 
+          ()                  ()                     focus.      gain     intrinsic_rewards   ()       ,         ()                . 
+  
+  ,    , ,      ,        [Organization]  , ,   (  ., ).      focus        focus    
+     possibility_effect        .              segregating             [Organization]       . 
+    ,         learning    .     frustration_of_needs              (  ., ).                   combining possibility_effect .             protection_effect .     syllogistic_rules  ; history  
+ 
+"    ;         . (""  "  "        .) " ://..// [  , ] 
+ 
+================
+     ,  , . ,  
+   ;  ;  ;  ;     (, ,  , ). 
+  
+        ,  ,   ,    ,  ,      , ,   (  ., ).           .     " behavior     [norms]           [Organization ],  ,  " (  , , . ).      ,      , ,  .                   
+          (  , ). 
+               .      perception            "" ,      .                                                     .  ()              ()     "                   (. )." 
+ focus     intrinsic_rewards   ()       ,         ()               . 
+     
+    ., ()           ,  appraisal   behavior  .                 intelligence       gain     loss  ,   loss   [Organization ], , intentionality,     behavior (  , ).                 perception           ()       .  internalization    : 
+ 
+      perception             ? 
+ 
+      perception  loss             ? 
+ 
+      perception  loss   [Organization]           ? 
+ 
+      perception             ? 
+ 
+      perception  intentionality           ? 
+ 
+      perception             ()       ? 
+    
+         behavior ()      focus.  intelligence       focus     . 
+ 
+================
+     ,  , . ,  
+            .  ,   () intrinsic_rewards  generalizing          [preference]                      mental_calculation .  gain,              (  ., ). 
+ 
+ 
+personality 
+ 
+ .     behavior (  , ) 
+  -        
+      ,      ,    [Organization ],          .      . 
+         () focus,           "         , ..,       ." ,           "          (..,           , , ,  )."              . ,            .     , physical_quality,    [experience ],     mastery_experience   . 
+        ,     , ,        protection_effect         , ,  .             .           ,     (..,     )     behavior                        . 
+ 
+================
+     ,  , . ,  
+  -  appraisal   
+                                           behavior.       evaluating   behavior        behavior,      (= , = ). 
+          [()/].             ,           (, ). 
+  - internalization     
+ isolation_effect               ,  evaluating                .          () focus       internalization   /,  personality /personality,    /   ,    /  ,  /,  /. 
+       appraisal  syllogistic_rules             .           , ,        (  , ). 
+     
+                   ,    intrinsic_rewards. 
+           ,    ,                    , ,     gain  judging . 
+        ,        (  ., ).   perceived_responsibility   "       perceived_consensus         [Organization]"  "      " (, ;   ., ).   perceived_responsibility      personality      ,       perceived_responsibility    "    syllogistic_rules       opportunity_for_criminal_acts        " (, ).   belief             (, ;   ., )      certainty_effect syllogistic_rules   .    techniques       ,         ,         ,       behavior       gain. 
+                         .  , mental_calculation       ,   ,          .             ,              [action]         behavior    .   ,  ,           , ,     .   ,                     .           /  . 
+        ,    [experience]           mental_calculation       behavior.    techniques     behavior      ,       personality          .  gain     intrinsic_rewards belief 
+ 
+================
+     ,  , . ,  
+(,  ., )      belief                  . 
+ 
+, ., , ..,  , . . "intrinsic_rewards   ,   : 
+     ,"    behavior (), . . 
+, . . "  ,"        ,  , 
+. 
+, .,  , . . "   perceived_vulnerability,"         
+    intelligence :         
+ intelligence  ,  , . 
+, ., , .,  , . . "   : judging   
+  perceived_responsibility    ,"     (:), . 
+. 
+, ., , . ., , .,  , . . "       : 
+  focus judging        perceived_responsibility  
+ ,"     (:), .  
+, .., , .., , ..,  , .. .   ,   , : 
+ . 
+, . ., ., .., , ., , ., , .,  , . . " perceived_vulnerability focus : 
+      ,"  perceived_vulnerability appraisal ,   
+,    /  ,  , .. 
+ ://..///.   , . 
+, ..,  , . .          
+    , .    : . 
+, . ., , ., , ., , .,  , . . " perceived_vulnerability focus :   
+[activity]      ,"  perceived_vulnerability appraisal ,   ,  
+  /  ,  ,  . 
+://..//. 
+, ..,  , .. . "     :    
+focus,"     (:), . . 
+, .., , ..,  , .. . "     " .. , .. .    : personality    , 
+ , : . 
+, ., , . . "    perceived_vulnerability ,"    (), . 
+. 
+, . . "      ,"   
+appraisal (), . . 
+, .,  , . . "  [policy]     :   
+perceived_vulnerability,"      (), . . 
+, .. . "     :    
+  ,"  [resource]   (), . . 
+, ..,  , .. . "   :    ,"  
+   , ..  . ,  ..  (.),  , :  
+, ., . . 
+ 
+================

@@ -1,0 +1,515 @@
+  [policy] 
+:  ()  ()  : ://..// 
+        role   
+ .  
+   :  .  ()         role  ,   [policy ], :, , : ./.. 
+ combining   : ://././.. 
+©   ().     segregating,   &   
+ :   . 
+comply_effect      
+ :  
+   
+   
+ :     
+ &          ://../[action] /?= 
+================
+  [policy] , . , . ,  
+://././.. 
+        role   
+ . ﬀ 
+, 
+   ,  ü, ü, ;   &  ﬀ,      ,   , ,  
+isolation_effect 
+        personality       .            ﬂ      ,  personality, ,   .  gain,             ,       .       ( , ,  )               role    techniques      .        ,        , ,   .               ,      focus  ﬂ,        . 
+ ; ; perceived_vulnerability intelligence; ;  ;  
+ " ,"  ﬃ  ﬁ    ,            focus   ﬂ (, ; & , ;  , , . ; , , . ; , ; , ; , ; , ; & , ). ,            [capability]  internalization,     participant_modeling  ﬁ  .   , ,  persistence . 
+    ?                    .         ,  ,  , ,  .       ,   [action]   perceived_vulnerability    personality . 
+  . ﬀ ﬂﬀ@. 
+©   ().     segregating,   &   
+            intelligence     (://.///./),    ,  ,  live_modeling   ,   intelligence    ,    , ,      . 
+================
+ 
+. .  
+     extrinsic_rewards        
+ ,       focus    
+.           
+ [policy ],   isolation_effect    process   : 
+            
+   .         
+    .   ,   personality 
+   [policy]   personality   perceived_vulnerability 
+,         ,  
+   perceived_vulnerability       . 
+     focus      , 
+,           . 
+personality    ,       
+              
+    ,    perceived_vulnerability perception  
+  .        
+,  personality ,        .  
+  [knowledge] ,       , 
+ﬂ   source  [knowledge]      ﬂ 
+  [knowledge]    personality   ﬂ, 
+      (personality, ,  )   .  physical_quality,        personality     personality     ,      ﬂ       
+    . 
+     focus       
+        .  
+     .   ,   
+     ,        
+          . 
+,           .   
+  , ,  perceived_vulnerability  ,    
+  ,        
+.     :      
+          
+   ?      techniques  
+? 
+judging          
+            
+ .          
+       ,   
+    .         
+   ,      intelligence 
+================
+  [policy] 
+ 
+    ,            .            .      ,  ﬂ                      personality      . 
+  ﬁ ,            . ,  ,              .     motivation    perceived_uniqueness          personality     []   ﬂ. ,               .          (   ),        []   ﬂ    .                         ,       focus  ﬂ,                  . 
+      : ,    situational_circumstance              belief            . ,       ﬂ            , ,            ,          ()  ,       .    ,               ﬀ role  ,          .  belief ﬀ            focus        . 
+        ﬂ 
+  [policy]         .            ,  ﬁ   ﬂ    [knowledge]   ﬂ  .    ,     comply_effect     perceived_vulnerability      . ,  [knowledge]    ﬂ    
+================
+ 
+. .  
+ﬀ  .   ﬁ ,  ﬁ                ,  ﬂ               ﬂ              . 
+           
+    ﬂ             [policy] ,        [] .  ,  ,            : ,          ,   ﬃ    ﬁ  ,         (& , , . ). 
+ ,      ,         [Organization]    (, , ; & , , . , ; , , ,& , ; , ; , ). ﬂ   ,           simplifying    [function]     (, ; & , ),      [policy]   possibility_effect        (ﬀ& , ; , , ;   ., ; , ). ,    ﬁ ,            ,        [policy]     .        ,       (,  )—has         , , ﬁ,         ,        .            ,        personality   gain      ,   ﬀ   personality              . 
+     ,                     perceived_vulnerability. ,  personality                    [activity]    .   ,              
+================
+  [policy] 
+ 
+    . ,                  ﬂ,     ,   ,  ,   personality    . ,  personality                    [policy] ,  ,         perceived_vulnerability.  ,               ﬂ,    ,   ﬀ      focus.           process, ,        . 
+ ()          personality perception   ﬀ      .    ,               impulsive_effect   (. ).      ,          ﬁ           ,  ""    .           belief      . ,      ,   ﬀ   intrinsic_rewards  physical_quality    (& , ; ,  ,& , ;   , ).  ﬀ          ,                   . ,   ﬂ  perceived_vulnerability perception,    perceived_vulnerability   possibility_effect      .    , ,       ,      mastery_experience  ,  ,             perceived_vulnerability (. ). 
+,        ,   perception               (.., "        ( )     ﬁ            ." ﬁ  , ;   , , . ). ,               .  gain,    [policy]     ﬀ , perceived_responsibility  ﬀ      .    ,  () , 
+================
+ 
+. .  
+               perceived_vulnerability    .                    ,          .     perceived_vulnerability       . personality   participant_modeling  role         ﬁ         belief   ﬂ .        personality        mental_calculation          . (. ) 
+      ,          ,            .     , belief ,   ,       isolation_effect.     :            .   ,   ﬁ          ﬂ.     ﬂ       [knowledge]   ﬂ. ,            ,   focus                  personality   .       belief  . ,                ,     role       .           participant_modeling       .    (    ;   ﬀ   & , ),    perceived_responsibility   process       ﬂ   personality      . 
+  ()    ﬂ 
+        personality        ,            .           [knowledge]    ﬂ.      ,            ﬂ. 
+ﬁ    . , ﬀ    .     ﬀ behavior           . ,              ﬀ behavior.  ,  
+================
+  [policy] 
+ 
+        [activity] ,          (& , ). ,          ,    combining       impact   ﬂ.         : ,         [knowledge]   ;  ,                 . 
+          [knowledge]   ﬂ. ,   ,           learning   ﬂ,  segregating ,  ﬁ         .  ,    ﬁ          (  personality     ,  , ).       [knowledge]        ﬀ .                    perception   ﬂ.  gain,     judging  (perceived_vulnerability intelligence )        ,  ,   perceived_vulnerability intelligence     perceived_vulnerability [activity]   (   ).      ,    personality  ,     ﬀ personality     ﬀ  , perceived_vulnerability intelligence        (    perceived_vulnerability intelligence     ,  , ). 
+,     .         personality     personality .  ,              ,    ,    (  & ﬀ, ).               :  ﬁ       ,     personality           ﬀ  .     ,            . , ,  ,         intelligence perceived_consensus (      ,  , , ,   ),     internalization   . , ,   ,            . 
+ personality    ,      ﬀ    ,   [knowledge] 
+================
+ 
+. .  
+  ﬂ.        ,      personality  ,   personality     ,      ﬂ              . ,        ,                        ﬂ. 
+         :        .    ,         ,    personality perceived_vulnerability  ﬁ    .      ﬀ     personality      . 
+     
+    ﬀ       .       ,        perception   ﬂ,        . 
+      (,  , , ).   ,        ,                  . ,           , ,   : "                   " (. ). , ,               .           , ,            ,       ( ),             ,     certainty_effect,  ,       . 
+ isolation_effect,   ﬀ     .     ,       .         ,     ,     .   ,              .    ,       ﬁ     . 
+     ﬀ     ﬁ.    ,             ﬀ.       
+================
+  [policy] 
+ 
+,     . ,           :         perception    ,       .        perceived_vulnerability        ,           .     ,   ,          . ,             ﬀ,           fear_arousal    . 
+              : ,  intrinsic_rewards      intrinsic_rewards   ,  ,      ,      syllogistic_rules,  , " belief             [experience]  personality    " (& , , . ). ,         ,      extrinsic_rewards   [experience]  personality   ,    ,       . 
+   process,      ﬂ   . ,    ﬀ              .  ,  ()          "    ."      ﬀ   participant_modeling     ,            .     experiential_awareness   .   ,        ,     physical_quality     . 
+          ,              ﬁ          (   , ..).         ,       comply_effect   ,        [policy]  techniques         .           ,           ,        ﬀ  .    ,         ,      .          () ,             ,       ﬀ   personality   .       
+================
+ 
+. .  
+      personality        () personality . ,      /          [policy]      techniques        participant_modeling     . ,   intrinsic_rewards ﬁ     ,          personality physical_quality     :      . 
+       
+   ,            ,        .                  :  .     ,      (Silent_Chollima)   ,   ,          ,           . 
+         ,        .          perceived_responsibility,               ﬁ "   " (, ).        Silent_Chollima    ,           .      "         isolation_effect       !" (, ). 
+      ,    perceived_vulnerability                  personality.            intelligence      ,         (, ; , ;     &    , ).           ,       .   ,                    .  ,    ,  ,      ,      ﬀ  : "    ,        ,          situational_circumstance.            .  extrinsic_rewards    " (, ). 
+================
+  [policy] 
+ 
+   ,           ( , ).    ,   ﬃ          (, ).   ,     ﬁ      (, ).     ﬀ ﬁ ,     belief          , ,           .       belief.  ,   ()          possibility_effect        . ,   ()             .   ()      ﬁ      personality   .  ﬁ,    ()        appraisal      . 
+,      .                .  ,   ()     "       ,"    (, ),    ,      fear_arousal      . 
+  ()       "     ?"          .     ,      "fear_arousal persistence       role   " (, ).                .  ,     .  ﬀ                ﬀ  (, ;  , ). ,  intelligence  /          ,            ,            [authority]   physical_quality    .    ,     perceived_consensus      ﬁ  "personality  ,"                   (, ). 
+           .   ,       ,  ,            (, ).      ,                 ,       Careto    . ,   
+================
+ 
+. .  
+  .   ()      ,         ,  ﬀ  : 
+           .           intrinsic_rewards  ,  ,   intelligence .    ,            "ﬃ ."   [authority]          " ,"      belief        . 
+  .           . , ﬀ                ,      fear_arousal          ( , ;   , ).  source ﬀ   ﬁ            ,     . ,  source            perceived_responsibility -      [] (, ; , ).  :  ﬀ           (, ). 
+                  .               ,         personality . ,                 . ,    [authority]            ﬀ. ,        ﬂ  ,                  .      ,  ""    .  ,  ,     ﬁ  ,                 (, ).   ,  ,        intrinsic_rewards ,        frustration_of_needs      (   .   , ). 
+        
+       ()                        . 
+================
+  [policy] 
+ 
+  ,           .      perceived_vulnerability   personality    ,         ,     .    ,  ,     ﬁ ,          isolation_effect   , Sofacy  APT_29 (   APT_29   ). ,       .     ﬁ  ﬁ,  ,  (), protection_effect -  (),   (, ; , ). 
+      ,    ﬁ      intelligence  (      ).    ,        " ."      fear_arousal      (   .   ., ).           ﬁ ﬀ ,          .     ,      .   isolation_effect          fear_arousal     .  (),      ,               ,     . 
+,    ,     ﬁ       ,     ﬂ  (, ; , , , ).               .        intelligence . ,     ﬃ   internalization     .         ,             (  ),                 (  ) (& ﬀ, ;     &    intelligence, ). 
+ ,     .     perceived_vulnerability           ﬁ      ,        , ,      (, ).   ,         personality  [exposure ],       ,           .      belief    .                 
+================
+ 
+. .  
+intelligence   " belief    ,  ,  .         " (, ). 
+     ,     intelligence  appraisal    ,   .,     ( intelligence  (ﬃ      intelligence ), ).    ,       .     syllogistic_rules  .    ﬁ  ,         ,             (, ).   ,        perceived_vulnerability        (   .   ., ). 
+                           process.    ,      impulsive_effect             ﬃ.          ﬁ    process.  ,   ,                    process     ( ﬃ    , ). 
+                .   ,     ,     ,   ,             .        ﬂ     ,                   (   & , ).  ﬀ    ,   ﬃ   (, ,& , ). ,        , fear_arousal     persistence,  ﬁ            intrinsic_rewards      .            ,        ,       [activity]              (, ). 
+    
+, ,    ,          , ,    techniques                    . 
+================
+  [policy] 
+ 
+               .     ,   loss .      ,    ,     .    ,              .                 (, ).       ,            Sandworm ,                ( , ;  , ).   segregating    (, ). ,      .     ,   intelligence    ,  , , ,   ,    internalization      . ,   segregating   (    , ). ,  personality     ﬀ    .    ,   (),    : 
+                  appraisal.          ,   internalization   [activity ].                    extrinsic_rewards         . 
+  perception         [] ,               (ﬃ      , ). ,                 .     ,  perceived_vulnerability      ﬁ         ,         . 
+ intentionality,       ﬃ,       behavior,     behavior  "." ,       ﬁ      ,    "        (..   )  "   "         behavior  ,"       perceived_responsibility   ,      ﬁ  "           " ( , ..). ,    
+================
+ 
+. .  
+ﬁ         behavior            .           ,    ,            [] ,         (  & , ).          [norms] :    [norms]   ﬀ,        (& , ; , ,& , ).    [activity]       []      ﬀ. 
+    [experience]        ()     ,    , ﬁ      protection_effect          gain    .        (,  , ),      ﬀ  ﬁ       .        :    ﬁ       ,       ﬁ      .      ,           personality  ,          () intelligence           . 
+       role   
+  ﬁ      ﬂ                ﬂ,    ﬁ            .     ﬂ      [knowledge]    ,     ,              ,         ﬁ. 
+              ,       .          :     .      ,  ,  appraisal        ,      personality   perceived_vulnerability   ﬁ .    ,        ,       .      ,             ﬁ  .    , 
+================
+  [policy] 
+ 
+personality         ,  ﬀ       ,     personality . ,    ,     ,  perceived_vulnerability    . 
+   ﬁ        . ,  perceived_vulnerability     persistence. ,      ﬁ  ,                .      intelligence         ,      ﬀ      live_modeling           .             thinking (, ).   ﬁ      , ,   ,        (& , ). 
+,         ,     perception             ,   ﬁ  ﬃ (       ﬃ   perceived_vulnerability   ﬁ     ,    ()     ﬀ           ).  , ,               :   [] [action]      , ,    (   ).     perceived_responsibility,               ﬂ           (  , ; , , ,& ä, ). 
+,        certainty_effect  personality  ﬁ .    [policy]  , ,  () intelligence ,        .  ,         perception      (ﬃ      intelligence, ). , intelligence             persistence     [] .   personality          ,      satisfaction_of_needs     ,      .    ,   personality ,    internalization .       intrinsic_rewards ﬁ,          . , [] intelligence  persistence          ﬂ. 
+================
+ 
+. .  
+,              .     personality        , personality       ,             . ,                  .   , ,                             .     intrinsic_rewards     .      ,       [knowledge]    ,     intrinsic_rewards         . ,     intrinsic_rewards  [knowledge]   ﬂ     ,    ﬂ              . 
+, ,  ,     ,             ﬂ ( & , ).            ,          source     .    ,  [knowledge]      .  ,                   ,   ,    ,       ﬁ          ,   ,     . ,              .  gain,        ,      [knowledge] (, ).              (,  ,     , ).           intrinsic_rewards .     , ,    ﬀ   intrinsic_rewards,   ,        ,   , .  gain,       personality      .    simplifying,  ,       ﬂ     . 
+,         ,    participant_modeling,    ,      , ,   .      ,     intrinsic_rewards      personality .       protection_effect ,  
+================
+  [policy] 
+ 
+ personality    ﬁ  process,         process.      ,        [knowledge ]. ,      ,        , ,   . ,               perceived_responsibility   .         . ,           , , "             personality            ,          " (, ).      personality        ,             (  , , ).         ,       ,     :. 
+belief 
+      :    ""           ,        . ,       ,         ,  .     .       personality      ,  ,   .  ,         , ,                .       techniques   . 
+  , ,   ,     physical_quality,     [capability]  participant_modeling (     )   ,        ﬂ.        ,   intelligence  ,   ()   ,    ﬂ  personality      . 
+   , ,    perceived_vulnerability       .  Tactics     ﬁ  ,         " "       .                 .   focus       ,         
+================
+ 
+. .  
+       ,  ,  ﬂ   certainty_effect       .       ﬃ            ,       intrinsic_rewards      .              ,      belief          . ,              .  ,       ﬀ     ﬁ                . 
+        ﬀ        .  ,     behavior_control-ability      ﬀ. ,   intelligence ,       belief      personality. ,       certainty_effect        "" perceived_responsibility      .   ﬀ  ,        " "  " ,"           .   ,    ,     ,    ,           (., ). 
+     role          . ,    personality    .  :    ,                ﬂ     .          ,    (       ),           (, ).   belief     participant_modeling     ,     possibility_effect      source  .      perceived_responsibility,       ,         persistence   .                ,                  (  ,    , ). 
+,   behavior_control-ability         . ,  ""            .            , ,   
+================
+  [policy] 
+ 
+ ,   intrinsic_rewards   ,  process,            . 
+,         .  ,     impact     .        ,   ,         .     role,         "   "  "   ﬁ ."     ,  ﬁ     .  focus        ,   ,                   . 
+  possibility_effect   .             . perceived_vulnerability intelligence           ,  ,     perceived_vulnerability . ,             ,  ,   personality   , combining            .          :       ﬁ      physical_quality        ,      ,         . 
+ 
+.    ﬁ  isolation_effect   process   
+   (ﬀ, , ., ).  ﬁ,  
+ process        
+ process    ,    
+process      ﬂ      
+  .     ﬁ personality   
+ process,     isolation_effect       
+   . 
+.      ,      (..). .         ﬁ   ﬀ, 
+. 
+.             intrinsic_rewards,  
+   (). 
+.   ,           ,  
+       ﬁ     . .       ,        
+,        . .       ,   (). 
+.   ..      . 
+================
+ 
+. .  
+ 
+               ,                 .      ,       ,  ,    ,     .               . 
+  
+ possibility_effect ﬂ       . 
+   
+ . ﬀ                ü, .         ,     intelligence [policy ],   role     []   .    focus              personality .      ü,     (..)             :   symbolic_modeling   , ,  .      combining        ﬀ                     (     ). 
+ 
+ . ﬀ 
+://./ 
+  
+, . (,  ).        
+    ?     .   
+://./ 
+, . .,& , . ().   :  belief    
+   .  [Organization ], , . :./ 
+ 
+, . . (,  ).     ?   . 
+  ://./ 
+,..,,..,&,.().     
+:       perceived_uniqueness     
+.   , , . :./.. 
+.. 
+, . ., , . .,& , . ().    : personality 
+        . , :    
+. 
+================
+  [policy] 
+ 
+, . (,  ). , , , :     
+ﬁ .   .   ://./ 
+ 
+, . (,  ). :          
+  "".   .   ://./ 
+ 
+, . . ().      .  . .  (.), 
+      :     
+    [policy] (. ). ,  :   
+ . 
+, . (,  ).       
+ .   .   ://./    . (..).     .   
+  .   ://./ , . (,  ). TeleBots  :    
+.   .   ://./ 
+ 
+, . .,& , . ().  .  . .  (.), 
+      :     
+    [policy] (. ). ,  :   
+ . 
+, . (,  ).          
+    .    .   
+://./ 
+, . . (, ).     perceived_vulnerability.   
+         , 
+  , . 
+, .,& , . . ().     :  [action]   
+ .  ﬀ, , . :.// , . . (,  ).   /        
+ loss. .   ://./ , . .,& , . ().   - behavior_control-ability    
+:        .  
+ ﬀ, (), . :./... 
+, . ().    : , , . 
+:   . 
+ , . ().   perceived_vulnerability :  ﬀ  protection_effect  
+ physical_quality. : . 
+ , .,& ﬀ,..().    : evaluating 
+ﬀ    [].    , (), . , . . ().      .    
+ , , . :./ 
+ﬀ, . . ().    physical_quality  .  . ,& . 
+ (.), personality ﬂ:   (. ). 
+,  :   . 
+ﬀ,..().    :   symbolic_modeling   
+ , ,   ( ).   
+, . 
+ﬀ, . .,& , . ().     .   
+  [policy ], ,.:./ 
+================
+ 
+. .  
+, . . ().   .  , , 
+. :./.. 
+, . . ( ).  &    . 
+  , . 
+. (,  ).    .     . 
+  ://./ 
+, .,& ﬀ,.(,  ). , ﬀ    
+.     .   ://./ 
+ 
+, .,& , . . ().  [norms]   . 
+    , , . :./ 
+ 
+, .,& , . . ().    :   
+   .      , 
+,. 
+ . (,  ).     . 
+    .  .  
+://../?= 
+, . (,  ).    :   
+!.   .  ://./ 
+, . . ().     :  perception    
+intelligence .intelligence   ,(), .:./. 
+. 
+.. ().     .:  
+ .  ://./ 
+, . (,  ).       . 
+ .  ://./ 
+, ., , ., , .,& , . ().      
+?   .  ://. 
+/ 
+, . ().  ( ).   
+, . 
+ . (,  ).  Sandworm  . . 
+ ://./ 
+. (,  ).   [policy]     
+.     . .   
+://./ 
+, . . ().   .  syllogistic_rules ,(), . 
+:./ 
+, . ().      :   belief  . 
+ ,(), .:./ 
+, . (,  ).  :     .  . 
+ ://./ 
+, . (,  ).   ?      
+   ?  .  ://./ 
+ 
+, . (,  ).    .  role   .   
+ .   ://./ 
+, . (,  ).          
+ .    .   ://./ 
+================
+  [policy] 
+ 
+, . . ().   :        
+  .   , ,.:./ 
+/ 
+, . (,  ). ﬁ     
+ ,   .    ﬀ  
+    .  ://./ 
+, . (). " "     " 
+":       .  
+,, .:./. 
+, . ().  :  .   ().  
+://./ 
+, . ().  physical_quality -        
+    .& [policy] ,   , 
+(), . 
+, ., , .,& , . (,  ).     
+     .    . 
+ ://./ 
+, . . ().       belief  
+  .  . .  (.),      
+:        [policy] (.  
+). ,  :    . 
+, ,. ().          
+  ( ). ,  :    intrinsic_rewards. 
+, .,& , . . (     :   ). 
+     . , :   . 
+, . (,  ).   ﬁ    
+   .    . 
+ ://./  
+, . ().     perceived_responsibility . 
+ [policy] ,, .:./ 
+, ., , ., , .,& ä, . ().  
+ﬂ   :     vulnerabilities.  . 
+,& .  (.),    :  
+physical_quality     (. ). : . 
+, . . ().     . , 
+(), .:./ 
+, . . (,  ).         
+ [].    .  ://. 
+/ 
+ﬃ      . (,  ).    
+           
+ .    []  .   
+://./ 
+ﬃ      intelligence (). ().  " 
+       ":   process  
+  . ﬃ      intelligence 
+.   ://./ 
+ﬃ      intelligence (). (). "     
+".  ﬃ      intelligence .  
+ ://./ 
+================
+ 
+. .  
+, . (,  ).    personality    
+.   .   ://./ 
+, . (,  ).  :   perceived_vulnerability    . 
+  .   ://./ 
+, .,& , . ().    :   
+  .     , , . :./ 
+/ 
+, .,& , . ().  : ,     
+. :   . 
+, . (,  ).          . 
+  .   ://./ 
+, . (,  ).    ﬀ       
+history,   .   ://./ 
+, . (). :     personality   ﬂ 
+.      intelligence  .  
+ ://./ 
+, .,& , . ().   .    , 
+,.:./.. 
+, . (,  ).   **          
+ .   .  ://./ 
+ 
+, . (,  ).  . ,      . 
+   .  ://./ 
+. (,  ). .       
+,  .  .  ://./ 
+ 
+     []. (,  ). #   
+       @:     
+,  mental_calculation  , .     
+          / 
+→ ://.//. .  ://./ 
+ 
+, . (,  ).     . 
+   .  ://./ 
+. (,  ).          . 
+  .   .   ://./ 
+ 
+, . (,  ).      ?.   
+ .   ://./ 
+, . ().     perceived_vulnerability       
+perceived_vulnerability.   , ,. :./ 
+, . (,  ).       . self-efficacy physical_quality  
+.   ://./ 
+. (,  ).  perceived_vulnerability    . 
+ .   ://./ 
+, . (,  ). fear_arousal persistence       role 
+  .   .   ://./ 
+, . (,  ).  :      
+ .     .   ://./ 
+ 
+================
+  [policy] 
+ 
+, . ().  :       
+      .   [policy ], , 
+. :./.. 
+, . . ().       [policy] . personality 
+ , , . :./ 
+ . (,  ).        
+  ,  .   .   :// 
+./ 
+ . ().   :  ,  .   . 
+  ://./ 
+. (,  ).  :     
+ .   .   ://./ 
+ 
+       ,    
+ﬃ. (..).  perception      .  .     &    intelligence. 
+(,  ).          
+ﬃ      intelligence   .  
+  .   ://./ 
+    &    . 
+(,  ).          
+.     .   ://./    .   ., . :. ().  
+ ,    .   ://./ 
+ 
+   .   , . . ().  
+ ,    .   ://./ 
+ 
+ ﬃ    . (, ).      
+         intrinsic_rewards  gain   
+ .    intrinsic_rewards .   :// 
+./ 
+, .,& , . . ().     ﬂ   
+, .    , , . :./ 
+ 
+, . .,& , . ().    syllogistic_rules  
+intrinsic_rewards, ﬀ,  perceived_vulnerability perception :     . perceived_vulnerability ,  
+(), . :./.. 
+, . (,  ).           
+.   .   ://./  . (,  ).  ﬁ      . 
+    .   ://./ , . (,  ).        . . 
+ .   ://./ 
+, . (,  ).         ﬂ. 
+  .   ://./ 
+, . (,  ).           
+   ﬂ.   .   ://./ 
+================

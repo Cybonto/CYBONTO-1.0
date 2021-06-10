@@ -1,0 +1,1114 @@
+  
+ 
+,  
+belief 
+        perceived_vulnerability 
+ 
+ 
+ .  
+  
+belief : ..  
+: personality  
+   ;    
+================
+   
+   .  
+  perceived_responsibility   Collection          ,      ,    ,      ,      Collection  .     perceived_responsibility appraisal       Collection  ,      perceived_responsibility,    ,      ,    ,  ,   .           ,               Collection     
+        . 
+.     
+.   / 
+.    
+.   - 
+. perceived_responsibility  
+        perceived_vulnerability 
+ 
+. () 
+.  [Organization] ()  techniques ()    ,   
+. /  ()  techniques () 
+. /  
+   ,   
+.   
+. isolation_effect 
+.   
+.    
+.   
+. task  
+.    
+.  [Organization]   
+. / () 
+. /  () 
+         perceived_vulnerability   .          loss      perceived_vulnerability   .      ()      combining possibility_effect   .         combining       .      [action]                   perceived_vulnerability         .  belief           ,    perceived_vulnerability     ,                   ,          Exfiltration   .                      combining  protection_effect possibility_effect            
+   [action] . 
+.   
+.   : 
+.   
+. isolation_effect  
+.    
+.   
+isolation_effect 
+ 
+.    
+ 
+.     
+   (. ) 
+     
+================
+     
+================
+   
+   .  
+  perceived_responsibility   Collection          ,      ,    ,      ,      Collection  .     perceived_responsibility appraisal       Collection  ,       perceived_responsibility,    ,      ,    ,  , ,  ,        ,    ()   . 
+.   
+  
+.    (behavior_control-ability ) 
+.    
+.      
+ belief 
+.   
+       
+ perceived_vulnerability  . ()  .  
+.  [Organization] ()  techniques () 
+   ,   
+.  [Organization]   
+.  /  ()  techniques () 
+/ 
+. /
+    
+.        belief             [policy]  belief         .    ____N/. 
+. /      ;    . isolation_effect (  ) 
+.   
+         perceived_vulnerability   .          loss      perceived_vulnerability   .      ()      combining possibility_effect   
+. 
+        combining       .      [action]                   perceived_vulnerability         
+. 
+ belief           ,    perceived_vulnerability     ,                   ,          Exfiltration   .                      combining  protection_effect possibility_effect              
+ [action] . 
+.    perceived_vulnerability,      ,  
+  
+.     
+   
+.  
+   
+ 
+ 
+ 
+.    
+ .   
+.  .     isolation_effect isolation_effect 
+  
+   (. ) 
+   .  
+================
+     
+ 
+================
+   ;    
+       
+ perceived_vulnerability  
+ .  ,   ..,   
+   extrinsic_rewards   
+     
+learning        
+  
+   
+  
+:  .  
+ : ..  
+belief  
+personality  belief  
+  
+,    
+ 
+================
+    
+ 
+ 
+================
+isolation_effect 
+         perceived_vulnerability   .          loss      perceived_vulnerability   .      ()      combining possibility_effect   . 
+        combining       .      [action]                   perceived_vulnerability         . 
+ belief           ,    perceived_vulnerability     ,                   ,          Exfiltration   .                      combining  protection_effect possibility_effect               [action] . 
+ 
+================
+     
+ 
+================
+   
+. 
+. 
+. 
+. 
+........................................................................................................ .   ............................................................................. .  .................................................................................................. . [Organization] ...........................................................................................  .......................................................................................................... .     ( 
+ )....................................................................................................... .   ............................................................................................... .  perceived_vulnerability  ....................................................................   ................................................................................................ .    .............................................................................. 
+.   ........................................................................................ 
+.   ............................................................................ 
+. .......................................................................................... 
+.  .................................................................................................. 
+.  .................................................................................................... 
+.  ......................................................................................... 
+.    ............................................................................. 
+.   ......................................................................................... .    perceived_vulnerability ..................................... 
+.   .............................................................................. 
+.  perceived_vulnerability .......................................................................... 
+.  ............................................................................... 
+.   .......................................................................... 
+.   ............................................................................   ................................................................................................. .  perceived_vulnerability    .............................. 
+.   .................................................................................. 
+.  ...................................................................................... 
+.  perceived_vulnerability .......................................................................... 
+.   perceived_vulnerability [policy]   
+ ,  ............................................................................. 
+.  .  ,  , 
+    perceived_vulnerability .................................... 
+.    perceived_vulnerability  ........................ 
+.    ........................................................ 
+. judging   ................................................. 
+.   ................................................................... 
+.   .................................................................. 
+.  belief ........................................................... .  perceived_vulnerability  ........................................................... 
+ 
+================
+. 
+. 
+.     ............................................... 
+. behavior_control-ability     loss    
+ ................................................................................................. 
+.     ............................................ 
+.     ................................................ .  perceived_vulnerability  ......................................................... 
+.      .................................. 
+.        ..... 
+.     : ................ 
+. /   perceived_vulnerability  .................................. 
+.       
+  ............................................................. 
+.    [activity]      
+ ....................................................................................... 
+.    [activity]     ....... 
+.    [activity]    
+    ........................ 
+.   ................................................................... .   possibility_effect    
+ ......................................................................................................   ,  ,   extrinsic_rewards ............................................................. .       
+ ....................................................................................... 
+.      ..................................... 
+.   ................................................................... 
+.  process ......................................................................... 
+.      ......................... 
+.        
+ appraisal  ......................................................... 
+.  appraisal    ....................... .    ...................................................... 
+.  .......................................................................................... 
+.   .................................................................... .     ............................................... 
+.    ................................................................................... 
+.    .................................................................................. 
+.    ................................................................................ 
+.    ................................................................................ 
+.  ............................................................................. .  ....................................................................................................        ........................ .  Exfiltration      
+   ....................................................................... 
+.  ............................................................................................... 
+ 
+================
+.   .............................................................................. 
+.   ........................................................................ 
+.    .......................................................................... 
+.  ................................................................................................ 
+.   .............................................................................. 
+.   ........................................................................ 
+.    .......................................................................... 
+.  ................................................................................................ 
+.  ................................................................. 
+.  ................................................................. 
+.    ............................................................... 
+.    ........................................................................ 
+.   ............................................................................................ 
+.  ..................................................................................... 
+.   ...................................................................................... 
+.        .............. .   .......................................................................................... 
+. , protection_effect, ,  ..................................... 
+.  .................................................................................................... 
+. protection_effect ................................................................................................ 
+.  ................................................................................................... 
+.  ................................................................................................ 
+.   .................................................... 
+. personality  ......................................................................................... 
+.  .................................................................................................. 
+.     , personality 
+,    ................................................................ 
+.  Exfiltration  ...................................................................... 
+.   ................................................................................... 
+.    ..................................................................... 
+.   .................................................................................. 
+. ,  ,   Exfiltration  ............ 
+.      ........................................... .     ............................................................... 
+.  ............................................................................................ 
+.     ............................................................................ 
+.   ...........................................................................................    ......................................................................................................    ......................................................................................... 
+ 
+================
+     
+ 
+================
+   
+ . 
+ . 
+ .  .  . 
+ .  .  .  .  .  .  . 
+ .  .  .  . 
+ .  . 
+     (   ., , . ) ......................................................................................................       (   ., , . ) ......................................................................................................    (   ., , . ) .............      (   ., , . ) .......     behavior perception  (   ., ,   ., ,   ., ,    ., ) ...........................................................................................   ( /, )   ..............................................   ( /, )   ............................................   ( /, )   ...........................................   ( /, )   ...........................................     ...........................................................   personality      ..........................     Exfiltration  ( & , ) ................................................................................................................       .............................................   [action]     ...................................       ...........................................      personality      .............................................................................................................        ..................................        personality      .................................................................................... 
+ 
+================
+     
+ 
+================
+   
+ . 
+     ( , , . ) .......... 
+ 
+================
+     
+ 
+================
+     
+   appraisal  
+  
+      
+    
+     
+                  
+   
+         
+          
+    
+         
+ 
+ 
+================
+     
+ 
+================
+ 
+                . ,           protection_effect      . 
+ 
+================
+     
+ 
+================
+. 
+ 
+. 
+  
+      gain  .           ,     possibility_effect  vulnerabilities         . ,              .   vulnerabilities  ,     ;        perceived_vulnerability ,   (  vulnerabilities),    (   ),    . ,      possibility_effect vulnerabilities,          " "  physical_quality       . 
+  perceived_vulnerability          perceived_vulnerability  protection_effect  .  ,  ","          .        [knowledge]        .               protection_effect, ,    .                      [activity ];         "   ." ,         ,    ,    possibility_effect  ,                  ,       . 
+. 
+ 
+          [goal]     .       ()                    .     ,    
+ 
+================
+[Organization]     ,              [action ],  . ,     ,  [Organization]   perceived_vulnerability       (    ) , ,   (       );    ,   . 
+               perceived_vulnerability,    .                 ,       ,                planning        (& , ). 
+     ()   simplifying                 /     (   , ).  ,      (),                   .  ,                       ,           . ,          /     perceived_vulnerability     perceived_vulnerability      . 
+ gain,          ( , behavior ,    , .)            perceived_vulnerability    (, ).             ,    personality               .     ,                      . 
+ 
+================
+  possibility_effect       process     ,                behavior.  ,        ,   [activity]               perceived_responsibility  .            perceived_vulnerability,      [action]     ,    ,        protection_effect               . 
+             possibility_effect         techniques      perceived_vulnerability.         [action] ,                ;    [goal]   possibility_effect     [activity ]. 
+. 
+[Organization] 
+       : 
+         ,         perceived_vulnerability. 
+          .  , ,     ,          .  possibility_effect   perceived_vulnerability       . 
+    perceived_vulnerability   .                     . 
+       , ,  [action ],     extrinsic_rewards process   .     
+ 
+================
+       process .   [action]                    ,          .      process           ,              [action] . 
+             isolation_effect ,  ,   .                . 
+            [action] .             .        ,     personality ,        personality .   ,    ,  . 
+        ,      extrinsic_rewards                 . 
+ 
+================
+. 
+ 
+. 
+    (  ) 
+      ,        (),               (  ., ).     ,         ()         .                perceived_vulnerability        . 
+                  . ,         .                    , ,                  .    [goal]           "   protection_effect   ,   " (  ., , . ). 
+     [Organization]   perception    vulnerabilities    protection_effect  perceived_vulnerability  .         process     "  combining      ,          " (  ., , . ).    process      judging  ,   ,      (  ., ).                         . 
+ 
+================
+        "    combining    [activity ].. .   perceived_vulnerability  ,  ,  ,     () " (  ., , . ).                    ,    ,   ,     ,                    [action]   . 
+. 
+  
+ gain                [Organization]               ,        .                [capability]                combining  ,            . 
+              ()     ().         .                   possibility_effect .          personality  (, ).            () (, ).   ,         .              ,   ,  , .,        combining   (, ..). 
+ 
+================
+. 
+ perceived_vulnerability  
+                                 .        loss                   ( , ),     loss    .                ,  .,         ().       loss        . 
+        combining  loss     .      gain,       ""    [Organization]     .          [Organization]    perceived_vulnerability             [Organization]     .         behavior_control-ability    behavior       .       [Organization]  ,   ,   perceived_vulnerability   ,    ,   .          .        focus            gain    perceived_vulnerability. 
+ 
+================
+     
+ 
+================
+. 
+  
+. 
+   
+       ,             ,   ,    ,       (& , ).                   . 
+. 
+  
+       [Organization ].           ,           ,      .                  Collection.    , ,     ,  arousal ,       .                  .            ,   ,     ,     ,        .                   (, ). 
+. 
+  
+        ,                   . "      ,           ,     protection_effect .  gain,            " (& , ).           .      ,   
+ 
+================
+    ,       ,    (, ,& , ). 
+. 
+ 
+       Collection  ,        combining     .          source    .         process   combining           gain    .          personality   simplifying  combining    possibility_effect       .             ,    .         simplifying .                 .                 [activity] (, ). 
+ ,                        (  ., ).  gain,            [activity]    .            ,        [activity ].    ,            ,  possibility_effect       . 
+            .       [Organization]          . ,  ,       isolation_effect personality          comply_effect  .   ,    ,  ,               (, ).    [capability]   
+ 
+================
+combining        perception           appraisal   (  ., ). 
+. 
+ 
+     ,                . ,   ,              .     simplifying   combining      .                .  ,               ,      ,     .      focus     appraisal            .     ,         .    "    focus    " (, , . ).                .         ,                         (, ).                         .               personality (, , , ,& , ). 
+. 
+ 
+                   .              " "    (.., , , ).  intentionality      participant_modeling    [action]             ,  perceived_vulnerability  ,    [policy] .      
+ 
+================
+               .              simplifying       .                ,  ,  ,            () (  ., ). 
+           ,          ,        (, ).  gain    ,     participant_modeling   .    : )     ,  )     [action]        (  ., ).               . 
+. 
+ 
+               [Organization]   [activity ].                    .                    ,             [Organization ].              ,                       simplifying  [activity] (, ). 
+. 
+   
+                      .           ,                [Organization ].                     . , 
+ 
+================
+                     .            ,         [Organization ].        mental_calculation            (, ). 
+. 
+  
+       .  [Organization]           (      )       .        (   ),  [Organization]                        (, ).         combining          .      loss      .  ,            ,          personality               possibility_effect . 
+. 
+   perceived_vulnerability 
+   ,      perceived_vulnerability    , ,          [Organization]    .           perceived_vulnerability   .         [Organization]        . 
+. 
+  
+ gain                  ,                   .              ,        ,     combining    
+ 
+================
+          participant_modeling   .                              [Organization]  . ,        combining        ,             (, ). 
+. 
+ perceived_vulnerability 
+                   .    [Organization]  ,     protection_effect  [Organization]   gain        .    mental_calculation      , , ,     ,         . 
+  combining               . ,  loss     appraisal   loss          : ".. .           " (, , . ).   process      impact   [Organization]                .                 . 
+. 
+ 
+            [Organization ];        .     possibility_effect       [Organization]        . ,                  .        ,     .      ,     
+ 
+================
+,             (, ). 
+. 
+  
+ possibility_effect loss        syllogistic_rules        [Organization ].               ,       certainty_effect      .    protection_effect    process      protection_effect    :   ,    , ,  ,          .  possibility_effect         perceived_vulnerability           ,    personality    opportunity_for_criminal_acts (, ). 
+. 
+  
+  ,          ,  ,  ,        .                possibility_effect   . ,             combining, simplifying,  ,       .  [Organization]  protection_effect                [Organization ].   [Organization]      ,           ,       [function]  (, ). 
+                      ,    (, ). evaluating     [Organization]      ,  ,       [Organization ],                    perceived_vulnerability. 
+ 
+================
+     
+ 
+================
+. 
+  
+                        ,    ,    ,  protection_effect      .    [Organization ],              perceived_vulnerability      . ,      protection_effect  perceived_vulnerability,    perceived_vulnerability [activity]         [goal]      loss. ,  perception   perceived_vulnerability  [capability]            perceived_vulnerability ,     perceived_vulnerability    .        [policy]   [policy]    persistence            perceived_vulnerability. 
+    personality      Tactics, intrinsic_rewards,       .  personality         , ,       .      perceived_vulnerability   ,     perceived_vulnerability ,      perceived_vulnerability .  [goal]    possibility_effect       .               [activity]   ,   [goal]    . 
+. 
+ perceived_vulnerability    
+                     .           perceived_vulnerability        perceived_vulnerability.    focus     ,       ,        perceived_vulnerability . 
+ 
+================
+. 
+  
+. 
+ 
+     "           ,  ,   syllogistic_rules  " (    [], ). 
+. 
+ perceived_vulnerability 
+    perceived_vulnerability  "    ,    ,   ,  loss         ,  , , ,      loss      " (    [], ). 
+. 
+  perceived_vulnerability [policy]    ,  
+             perceived_vulnerability  .      ", ,          perceived_vulnerability   " ( , ),    [goal]   ,     .  gain,         "[capability]  , ,   simplifying     [] perceived_vulnerability  " ( , ).             [capability]  combining        . 
+. 
+ .  ,  ,     perceived_vulnerability 
+  " [policy ],  ,      ()          ..." (    [], ).                  
+ 
+================
+.           "      combining   ,  ,     perceived_vulnerability." (    [], ).             [action] ,       perceived_vulnerability  [capability]         .         "    ..." (    [], ). ,                    . 
+. 
+   perceived_vulnerability  
+  .   ,          ()  perceived_vulnerability .           belief   . 
+. 
+   
+             .                  participant_modeling       intelligence          (    [], ).              participant_modeling      intelligence         [function] .    [capability ],                  . 
+. 
+judging   
+        process             .     process                 (    [], ).          possibility_effect  .     
+ 
+================
+           intelligence        . ,                ,  ,   .                . 
+. 
+  
+               .,     :    . ,      , possibility_effect       ,             (    [], ).              physical_quality   ,   .                  possibility_effect   .                  .              persistence  .  ,       ,   protection_effect    .   appraisal process                  intentionality   / . ,               ,          possibility_effect     . 
+. 
+  
+                  "    , ,  ,      ..." (    [], ).               . 
+ 
+================
+. 
+ belief 
+                    perceived_vulnerability       perceived_vulnerability .             , ,  belief,  /    participant_modeling  perceived_responsibility            (   , ).           .         ,    ,   possibility_effect  perceived_vulnerability              .                  . 
+              .   ,             possibility_effect extrinsic_rewards     .         ,  focus        combining possibility_effect    .              . 
+. 
+ perceived_vulnerability  
+        perceived_vulnerability      .          perceived_vulnerability  .       ,    personality       .  [goal]      "   perceived_vulnerability    " ( belief   , , . ).             "     ,.. . ,.. . /" ( belief   , , . ). 
+ 
+================
+                         perceived_vulnerability .    perceived_vulnerability             .       [Organization]      . .      "   , ,     " (,  ., ).      perceived_vulnerability ,    perceived_vulnerability           perceived_vulnerability . 
+. 
+    
+      perceived_vulnerability source "     loss  ,       " ( belief   , , . ).              [knowledge]         .                .          perceived_vulnerability  (  ., ). 
+. 
+behavior_control-ability     loss     
+  ,    loss           .        ,    ,               ( belief   , ).          intentionality,               .        personality    .    [knowledge]               .          "loss    "     (  ., ) 
+ 
+================
+. 
+    
+ opportunity_for_criminal_acts          .       perceived_vulnerability              perceived_vulnerability (  ., ).        loss;  loss  .    syllogistic_rules  loss,    source    ,   ,    loss ( belief   , ). 
+. 
+    
+  "" ,      ,     ,    opportunity_for_criminal_acts    .             .           (  ., ). 
+   focus        perceived_vulnerability : "   "      .           loss   [Organization ],        ;                                  perceived_vulnerability   . 
+. 
+ perceived_vulnerability  
+   focus   perceived_vulnerability                .              possibility_effect            personality       . 
+ 
+================
+. 
+     
+      ()     .  [Organization]             .              "      "  "    : ." 
+. 
+       
+                       (    , ). 
+. 
+    :  
+         perceived_vulnerability     .                  .           ,   ,     (, ).                               .                  . 
+ 
+================
+ . 
+     ( , , . ) 
+                  .        "        gain   ,  [preference]      ,   perceived_vulnerability           " (, , . ).       possibility_effect perceived_vulnerability            .    "   ,  ,  [preference ],   " (, , . ). 
+      ,        certainty_effect   ,        motivation.     certainty_effect          
+ 
+================
+      .. ,    extrinsic_rewards    motivation       ;    extrinsic_rewards    motivation      . 
+ gain  extrinsic_rewards   ,       frustration_of_needs  . frustration_of_needs    "           ,       " (, , . ).       gain        "     ,  ,   ..." (, , . ). 
+        ,  ()       ,  ,  frustration_of_needs    possibility_effect    .                     .              . frustration_of_needs                     . ,    combining   certainty_effect     gain     belief             ,          behavior /    perceived_vulnerability . 
+. 
+/   perceived_vulnerability  
+              perceived_vulnerability.           .            perceived_vulnerability   ,   ,    ,  . 
+                       .          ,           
+ 
+================
+   .          perceived_vulnerability   (    )         . ,  intentionality    ,        ,               . 
+. 
+        
+      focus                       .      "     []  " (  ., , . )   " []      frustration_of_needs    " (  ., , . ).                 . 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+%
+    
+ 
+techniques  frustration_of_needs 
+ frustration_of_needs 
+  
+ . 
+     
+(   ., , . ) 
+ 
+================
+. 
+   [activity]       
+    focus,                .          certainty_effect        (, , , ,& , ).  ,     ,                .          . 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+ intrinsic_rewards    
+ 
+ frustration_of_needs 
+  
+ . 
+      
+(   ., , . ) 
+ 
+================
+. 
+   [activity]     
+  perceived_vulnerability focus          .          focus.       focus       techniques   ,         Collection process           (  ., ). 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+ intrinsic_rewards    
+ 
+ frustration_of_needs 
+techniques frustration_of_needs 
+ . 
+   (   ., , . ) 
+ 
+================
+. 
+   [activity]        
+    ,                   (, ,& , ).              . 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+  intrinsic_rewards   
+ 
+techniques  frustration_of_needs 
+    frustration_of_needs   
+ . 
+     (   ., , . ) 
+ 
+================
+. 
+  
+              perceived_vulnerability .  gain         ,                      perception              .                   . ,                     behavior   perception     .            . 
+% 
+% 
+% 
+% 
+% 
+% 
+  
+behavior perception 
+% 
+% 
+% 
+% 
+  
+   
+    
+ . 
+    behavior perception  
+(   ., ,   ., , 
+  ., ,    ., ) 
+ 
+================
+. 
+  possibility_effect     
+  ,         .     perceived_vulnerability   ,     protection_effect         .      participant_modeling  role                   . 
+   ,        mental_calculation      perceived_vulnerability  :  , ,  frustration_of_needs.    ,      mental_calculation :     intrinsic_rewards,  frustration_of_needs /          . ,            perception        certainty_effect  ,             .              ,    ""          perception    .        (  )      .                      .          . 
+        possibility_effect          possibility_effect  perceived_vulnerability .                mental_calculation     perceived_vulnerability  : 
+    
+ /    
+frustration_of_needs / behavior  history 
+ 
+================
+        process           Collection                . 
+ 
+================
+     
+ 
+================
+.   ,  ,   extrinsic_rewards 
+. 
+       
+             , frustration_of_needs   comply_effect     .               .          ,         ,         belief   .      ()       process    (   , ).           process                       (   ). 
+. 
+     
+                .         ().  ""   ,    ,                       .         ,    (   , ).             ().             /, , . (   , ). 
+            perceived_responsibility  ().    ,       perceived_responsibility     ,  ,          .         
+ 
+================
+       ,    .       "             " (   , , . ).   personality ,     ,           . ,                ,           Collection   .                            ,  , ,         (   , , . ).  physical_quality,    ,   ,         . 
+. 
+  
+              .          (   , , . )           persistence       . (           .)               .        [activity]        . 
+ gain    ,                   isolation_effect  .             ,      ,  (    , ).   (),    ,     ,           (    , )    [circumstances]        .       
+ 
+================
+""   possibility_effect perceived_vulnerability                    . 
+. 
+ process 
+ process                    ,        ,      (    , ).            self-efficacy        .           ()            (    ).          (   , ).                   .      ,                  (   , ). 
+. 
+     
+  ,                                belief  .      comply_effect     ,  ,  ,  ,  ,    ,      .               perceived_vulnerability      .     / ,  ,   history.   , frustration_of_needs,              .            [action]    (    , ).         .             
+ 
+================
+    fear_arousal,               intentionality   personality   protection_effect     .   intentionality   syllogistic_rules   " " perception (   , , . ). ,      syllogistic_rules           behavior      .           .           perceived_vulnerability       behavior      fear_arousal. 
+. 
+        appraisal  
+   vicarious_experience              (),      .              ,     ,      ,      ,       (   , ).                          (, ). ,             ,           . 
+         ,                   ,           (   , ). , "                " (   , ).                               possibility_effect      perceived_vulnerability . 
+ 
+================
+  ,              appraisal.            ()         .         " loss            protection_effect " (, ).          appraisal  (),            (, ). 
+    " process            combining, simplifying,            possibility_effect " (, ).  [goal]   intrinsic_rewards     ,                perceived_vulnerability                .                    ,      ,   /       (    , ).       ,           possibility_effect  fear_arousal                      (    , )                (, ). 
+. 
+ appraisal    
+           ,                    .             appraisal     (   , , . ).       
+ 
+================
+    , ,       ,  , , . (    , ). 
+  ,                       .          persistence  , ,    (   , , . ). ,            ,      ,            ;            .          appraisal     (   , , . ). 
+            "      " (    , ).                   [activity]     .               .                                 .      process,     ,          .       appraisal process    . 
+. 
+   
+  [Organization ],              .         combining      perceived_vulnerability     .          .      ,  ,   (  , ). 
+ 
+================
+                          .    ,                                  possibility_effect frustration_of_needs. 
+. 
+ 
+  "           ,  behavior,       " (    , , . ).               .                           .              /   ,        .          ,  certainty_effect  ,    . 
+                    loss        .                ,              (   , ).               ,                  .          ,        perceived_vulnerability     . 
+           ,                     appraisal     frustration_of_needs.   appraisal             
+ 
+================
+               [activity]   .                          . 
+. 
+  
+  ()—also    ,  ,          ,    [circumstances ],    (  , ).                 (  , ).     /      .      ,            /   (  , ).     impact   ,    possibility_effect           frustration_of_needs. 
+                            possibility_effect  perceived_vulnerability [activity ]. ,                   ;     ,              . 
+             self-efficacy        possibility_effect frustration_of_needs. ,                          .                     .                      
+ 
+================
+                    . 
+. 
+    
+        ,       process.        ,          .                     .                       belief.               .            ,           ()  / .                 .       . 
+. 
+   
+         , ,  ,  , .             , ,  ,    belief    .          : 
+ 
+================
+ . 
+  ( /, )   
+. 
+   
+            ,    ,    ,           .          perceived_consensus perceived_consensus    .             perceived_consensus  .               : 
+ 
+================
+ . 
+  ( /, )   
+. 
+   
+                        .          (, , .),    ,      ,        .                  .     ,    segregating   personality  ,         personality   (   , ).       . 
+ .
+   ( /, )   
+ 
+================
+. 
+   
+     combining             .        . 
+ . 
+  ( /, )   
+. 
+  
+                        .  ,   ,           ,                        perceived_vulnerability       perceived_vulnerability.              .           possibility_effect         ,  / ,  , frustration_of_needs,   . 
+ 
+================
+   process intentionality             ,                combining          .  ,          ,                         combining           .                         possibility_effect  perceived_vulnerability  . 
+. 
+ 
+                           .              ,               possibility_effect  perceived_vulnerability                .                      . ,               ,     possibility_effect  frustration_of_needs. 
+ process      :       ,                 possibility_effect  perceived_vulnerability             .            .                      .                    protection_effect    . 
+ 
+================
+    process  [function ],               [activity]   .        ,      ,                loss. ,       possibility_effect    ,       ,                 possibility_effect  .            , ,       ,       protection_effect     [activity ]. 
+   [activity ],     ,     ,   ,        .              .                . 
+ 
+================
+. 
+       
+. 
+ Exfiltration         
+personality           loss   [Organization]         perceived_vulnerability.            [Organization]    .      ,         . ,       ,             possibility_effect gain   .        loss, personality loss,         . 
+       behavior_control-ability     ,                    experiential_awareness.              isolation_effect    [Organization ]. 
+. 
+ 
+                ,             intelligence.        ,      .           ,    ,             (    , ).        ,       .             intelligence         .      ,          (    , ). 
+ 
+================
+ ,  , ,  ,      .                 extrinsic_rewards    .         [Organization]        .                            participant_modeling. 
+ loss  ,          .       [Organization ],           [function ], ,   .                            belief   [Organization]           participant_modeling     . 
+ personality          ,  ,  ,  ,                    .         combining, ,             .        [function ],         [Organization]                . ,     perceived_vulnerability              ,   fear_arousal  perception,         .                   (& , )    [Organization ],         belief    ,  ,             simplifying  . 
+. 
+   
+            possibility_effect   (& , ).       ,    
+ 
+================
+                .    :       ,       ,     personality     . 
+. 
+   
+                   (& , ).  impulsive_effect gain                     ,     ,    possibility_effect . 
+. 
+   
+             possibility_effect     .                    ,        (& , ).      , ,     ,     ,     .                    .  ,           ,               ;        perception. 
+. 
+ 
+ [Organization]                possibility_effect    .                ;           . ,                     perceived_uniqueness       . ,       ,          .  ,   ,      ,       
+ 
+================
+         (    , ). 
+. 
+   
+  ,               ,             .         simplifying  . 
+. 
+   
+                  perceived_vulnerability [activity]        . 
+. 
+   
+           [Organization ],             .            , ,  ,   . 
+. 
+ 
+ , ,    combining          .       personality    [Organization]   . ,    ,         (  ., ).         [activity]       ,        .      personality   ,      personality        (    , ). 
+   [Organization]   ,               possibility_effect    perceived_vulnerability . 
+ 
+================
+. 
+  
+    [function]      ,        .  .        .    , , ,               ; , ,         behavior      simplifying .                ;      ,             (& , ). 
+. 
+  
+              . ,                ,           [Organization]    (  ., ). ,                .     ,            [activity]       isolation_effect          combining    [policy]  . 
+. 
+   
+                 (& , ).        [activity ];       perceived_vulnerability      [Organization]          [activity ].                   [action ],     .                    [action ]. 
+ 
+================
+. 
+   
+    belief   ,            (& , ).       possibility_effect           protection_effect    ,             ;     .           ,          ,                        .                  . ,   [activity]      ,      . 
+. 
+  
+                 .            ,   belief ,        , .           (  ., ).   [activity]        ,                   . ,                  ,              .  gain       ,             [Organization]  . 
+. 
+  
+   gain        ,        ""     .  ,       (),       
+ 
+================
+     (  , ).        ,    possibility_effect     Exfiltration    . 
+frustration_of_needs          ,                       .   ,           /      behavior,         ,       . 
+. 
+  
+                  . ,                   physical_quality  . ,                 ,             . 
+. 
+       
+  Exfiltration                   behavior_control-ability  [Organization]   .            [Organization]      perceived_vulnerability .                                     .          possibility_effect  perceived_vulnerability    Exfiltration                   extrinsic_rewards process. 
+ 
+================
+     
+ 
+================
+.   
+. 
+, protection_effect, ,   
+          techniques       []     process      perceived_vulnerability.     , protection_effect,   . 
+. 
+ 
+  [goal]      perceived_vulnerability  fear_arousal    .          satisfaction_of_needs  [goal ].            [knowledge]       [capability]     .  ,     process,                  ,        .            process                 perception. , ,    certainty_effect  perceived_vulnerability              . 
+. 
+protection_effect 
+       )        combining          perceived_vulnerability,  )             ,            loss.       ()      Exfiltration,       protection_effect  (    )        .                possibility_effect          perceived_vulnerability    .       [activity] 
+ 
+================
+   ,        behavior,     focus     .                 protection_effect       . ,       protection_effect   [activity ],               . 
+. 
+ 
+                             .  ,               ,           / combining        ""     .       [activity]     ,        combining           .  ""               [activity]     [action ]. 
+. 
+ 
+     ,         simplifying   impact     .            possibility_effect   personality ,         ,    ,          . 
+. 
+   
+     ,              focus       ,   [goal]       
+ 
+================
+ .     , personality , ,            [capability ]. personality              . 
+. 
+personality  
+personality              . personality         "            " (, , . ).             . ,  personality    "  /  " (, , . )     .  gain        , personality          (, , . ). personality             . 
+. 
+ 
+          "      focus       " (, , . ).            ,       (, , . ).          .  ,         ,    .          ,     ,    ,    ;         (& , ).                 . 
+. 
+    , personality ,    
+  ,    possibility_effect                   perceived_vulnerability.   [Organization]          personality , ,        possibility_effect  
+ 
+================
+.       personality     ,  ,    ;    personality      .       possibility_effect           , ,  , . 
+  ,      ,  personality .                   techniques  .         .        . 
+ .     
+ 
+================
+ process         .                         (             ).      ,          . ,            .   process      .       ,      ,  , .,       . 
+    (  )       ,               .              possibility_effect           ( ,  , frustration_of_needs,  )      ( )        personality .   personality       .  ,                      personality    . 
+  ,    personality        .        ""     .                          .     personality          : 
+ 
+================
+ .   personality      
+           personality           personality .     .     ,       ,                :        .    personality         ()      ,        .           ""              possibility_effect   .       personality        focus                 , , frustration_of_needs,    personality . 
+ "personality"                        .        possibility_effect  Exfiltration        ,   ,   .         possibility_effect             .   
+ 
+================
+               .        process    ,            .                   . 
+. 
+ Exfiltration  
+                 ,   ,         (& , ).     ,   possibility_effect       .       ,      personality ,             personality .    Exfiltration          .             .   ,     ,           ,         .      .               .  ,                possibility_effect .   behavior                      .                   . 
+ 
+================
+ .     Exfiltration  
+( & , ) 
+. 
+  
+          focus    [activity ]. ,   focus          possibility_effect     .  ,            . ,             .            ,                      .          possibility_effect  .             source,   : ,   ,              (& , ). 
+. 
+   
+            [activity]   ., ., ., .,  . .    [activity]          .            (  , ).  ,          possibility_effect    , 
+ 
+================
+     .       ,           appraisal. 
+. 
+   
+                       personality .  personality               .  personality     ,  ,              :   ,    ,    Exfiltration .                     personality . 
+. 
+,  ,   Exfiltration  
+               personality .                 ,           [activity] personality .           : 
+ .       
+ 
+================
+                personality  .           ,        [activity] personality .         .     Source                personality     [activity] personality    . 
+ .   [action]     
+   [activity]       personality      .  personality         appraisal     . 
+. 
+     
+             .   ,   ,    personality    personality             personality ,   personality , frustration_of_needs personality ,    personality .              personality ,       [activity] 
+ 
+================
+personality ,          personality        . 
+ .       
+                [activity] personality ,     [activity] personality ,    Exfiltration personality ;               personality     ,           personality      .        personality    personality             . 
+ 
+================
+ .      personality  
+    
+         [activity]                 [action] history.    perceived_vulnerability  appraisal      [activity]             personality .                      [activity] (, ,   Exfiltration ).          personality ,         (    )          . 
+ 
+================
+ .        
+          .       "."                      ;    [action]            personality . 
+             .          personality           [activity] personality     Exfiltration personality     personality ;                    personality .                personality        [action]                   [activity] personality ,           appraisal. ,    
+ 
+================
+     personality        Exfiltration personality ,          appraisal            personality . ,          personality             personality ,           personality .       possibility_effect        .  ,            loss.            .                . 
+         ,          personality       Exfiltration personality     personality ,       appraisal          personality .              personality     Exfiltration personality     personality .  ,        personality           personality            (..,   ),         combining        personality             personality . 
+   ,          personality       personality ,         personality .                         ,             .       . 
+    personality        ,                .  ,   ,    combining    personality     [activity]    personality      possibility_effect   .      
+ 
+================
+         personality   . 
+           personality ,     . 
+ .        personality  
+    
+               ,           personality .    personality                   . 
+      personality               appraisal .        personality       ,             . ,         personality        fear_arousal   , 
+ 
+================
+         personality . ,        fear_arousal,      combining      personality              [activity] personality            . 
+         personality         possibility_effect   ,        appraisal          , ,  .        personality     ,         .  [activity]     gain   personality              . ,                     certainty_effect      fear_arousal.          , ,       ,      ,      [resource] .   ,    ,  personality         .        personality     ,                [action]       . ,                . 
+                         protection_effect  .   ,                  . 
+ 
+================
+.     
+. 
+ 
+ belief     ,  ,        Exfiltration .     belief                       , ,    . 
+   certainty_effect       .   process                   .  process   personality             [activity]      possibility_effect  .        [activity ],         personality        . ,        focus         .            appraisal   possibility_effect                 . 
+. 
+    
+        ,    intentionality,     perceived_vulnerability       ,   .       perceived_vulnerability   ,  ,   .      belief       combining        . 
+        perception     ,           perceived_vulnerability.      ,   
+ 
+================
+         [action ],  gain  perceived_vulnerability   . 
+           process    ,        ,         perception     .       combining  [activity]     ,          [activity]    ,      . 
+. 
+  
+                           perceived_vulnerability .         , personality      .                   ,    personality      .            possibility_effect               . 
+ , ,               .               ,      , , ,          . ,                       fear_arousal      .              process                   . 
+                   .                ,   ;          personality 
+ 
+================
+  persistence    .    combining  personality     ,  ,        combining [activity]  . ,                         .   process          personality          .      perceived_responsibility     .           gain          ,         . 
+ 
+================
+     
+ 
+================
+   
+  . ().     ( ).  
+ ://..// 
+ (,  ).    :   .  
+    . 
+ (, ).  :     .. 
+, ., , .,& , . ().      .  
+ , : . 
+. (,  ).  perceived_vulnerability :       possibility_effect 
+   . , :     
+.   ://..// 
+   . (,  ).   . , 
+ : .   ://..//. 
+_Physical_Readiness_program. 
+, . . ().     . , :  . 
+     (,  ).    
+   .   
+://..///. 
+     (,  ). :  
+ appraisal  ().   
+://..//. 
+, ., , ., , ., , ., , ., , ., , 
+.,& , . (, ).     
+()      . ( ). 
+, :      .  
+ ://..////. 
+    . (, ).    , 
+ . , : .  : 
+://.../ 
+////%. 
+, .,& , . (, ).  perceived_vulnerability :   
+    Exfiltration   . , : 
+  ,   .   
+://..///. 
+ 
+================
+, .     (, ).    
+ : .   
+://..///. 
+, .,& , . (,  ). personality  .  
+, : .   
+://..// 
+ belief   . (,  ).   
+perceived_vulnerability . . , :    . 
+  ://..//?= 
+  . (,  ).      . 
+  : .   
+://...//. 
+    (). (,  ).    
+.   
+://...////=/= 
+/=/=/=/=/=+ 
++. 
+, ., , ., , ., , ., , .,& , . (, 
+).  perceived_vulnerability focus :       
+. , :     & 
+,  :   .   
+://..///. 
+, ., , ., , ., , ., , ., , .,& , 
+. (, ).  perceived_vulnerability focus :   [activity]    
+. , :     & 
+,  :   .   
+://..///. 
+, ., , ., , ., , .,& , . ().   
+   () .  :   
+, ., , .,& , . (, ).  perceived_vulnerability focus :  
+ [activity]       . 
+, :     & , 
+ :   .   
+://..///. 
+, .,& , . (,  ).     
+   . , : , . 
+ 
+================
+ / (, ).      ( 
+).  : ://.../ 
+////. 
+, ., , ., , ., , .& , . (,  ). 
+ perceived_vulnerability focus :   [activity]      . 
+, :     & , 
+ :   . 
+://..///. 
+   . (, ).     (  
+.). ,  :    
+://.../%/.. 
+. (..)  personality    .   
+://..////..  
+ ,  . 
+, . ().      () .  
+.. & .  (.),    , 
+ ,  .  :  . 
+    . (, ).    (): 
+    .  : 
+://..///. 
+    (). (,  ).    : 
+  .   .,  . 
+,  : . 
+    (). (,  )  ,  
+    ()  perceived_vulnerability (  
+.). ,  : . 
+    . (,  ).    () 
+ .   : .   
+://...///%% 
+%%%/%%%%( 
+). 
+, . (,  ).        . . 
+  ://.///. 
+  (,  ).   perceived_vulnerability [policy]   
+     perceived_vulnerability .   
+://..///// 
+ 
+ 
+================
+    ()  [policy ].   
+.   
+://...////..   
+,  . 
+ 
+================
+   
+.     . ,  
+.       ,  
+ 
+================

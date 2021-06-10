@@ -1,0 +1,356 @@
+         |  
+[modeling]     perceived_vulnerability   : 
+    perceived_vulnerability     
+personality .  
+, 
+, ,  personality @. 
+  
+   [Organization ], , ,  
+@. 
+ .  
+   [Organization ], , ,  
+@. 
+isolation_effect 
+              perceived_vulnerability ()      [knowledge]  focus.  focus     perceived_vulnerability appraisal               .              perceived_vulnerability perceived_vulnerability. ,           .    ( )              participant_modeling    perceived_vulnerability         perceived_vulnerability perceived_vulnerability.              perceived_vulnerability  protection_effect . 
+.  
+ personality perceived_vulnerability        , ,   personality ,        [Organization]   .   perceived_vulnerability  "    , ,             [Organization]  , ,      ( )          , ,     [Organization]     " [].            perceived_vulnerability,    ,  
+: ://..// :  
+(  .) 
+.. ()  
+   [Organization ], , ,  
+@. 
+   personality , , 
+,  
+.@. 
+        [][].  personality              , ,       ()    perceived_vulnerability perceived_vulnerability [][][]. 
+         perceived_vulnerability  [][]         protection_effect ,   perceived_vulnerability  appraisal ,   personality   personality  perceived_vulnerability .            perceived_vulnerability ()—is    , ,     gain   /      perceived_vulnerability perceived_vulnerability.             [].             ,             perceived_vulnerability    ;              .     Collection  . ,                     perceived_vulnerability appraisal  .          focus             perceived_vulnerability perceived_vulnerability.      ,             . 
+  
+================
+.   
+             . .    possibility_effect                     ,         [].           ( )   [][],     . 
+    ()    ,      .       ,   [norms]  ,   (.., [knowledge ], , ), ,     ,  gain     .       perceived_vulnerability    [activity]    .    ,    ,     [Organization]   impact .      ,        impulsive_effect /     .         .             ,                  combining         . ,     personality   participant_modeling   possibility_effect   perceived_vulnerability.             ([capability] / /)  (.., []), 
+ .   
+    [],   /   (.., [][][][][]). 
+          .      [] [],                  generalizing ,   perceived_vulnerability .     perception   perceived_vulnerability ,      ;       generalizing  (    );     generalizing  .  (perceived_vulnerability)                   .   perceived_vulnerability     personality,   process          , ,   .     perceived_vulnerability appraisal process    syllogistic_rules   [modeling]       [knowledge]      []  []   . 
+.   
+       ,   perceived_consensus   ,  ,      perceived_vulnerability  .      ,       ()       [].,       ,   :            [][][]. 
+  
+================
+.            . ,             gain         perceived_vulnerability  .         ()  ,             (..,    possibility_effect ,   ,   ).          perceived_vulnerability  (.., [][]).    (    ),  (   [Organization ])   (  )        perceived_vulnerability .                .             . 
+          perceived_vulnerability ,  role,    fear_arousal. 
+           ;           . .         ()  ,         ( )      (     possibility_effect ,   ,   ).    , ,  ,    ,    ( )      perceived_vulnerability.   (..,    perceived_vulnerability)      .                       ,  
+ .     
+ .       
+  
+================
+,      ,    ..          ( [][])         personality ,               (.., [][])            (.., [][][])    (.., [][])  perceived_uniqueness. ,     history          (.., [][][][]).    " "      belief             []. 
+.         : .,           , ""  " appraisal."        (  "     ");          . evaluating          
+ .     
+   
+ (..,                 ).   physical_quality   ,    [Organization] -       gain          . 
+.   
+             focus                  .        perceived_vulnerability     perceived_vulnerability  []: 
+● 
+● 
+● 
+● 
+● 
+ :        loss   [Organization]   .   /Exfiltration :   personality   . 
+ : , gain, ,  ,   [Organization]     intrinsic_rewards,    perceived_uniqueness  (.., perceived_uniqueness , perceived_responsibility  ). 
+  perceived_vulnerability ():    loss     ,   intentionality,   loss     perceived_vulnerability   loss   [Organization]   . 
+ :    perceived_vulnerability   , , ,    personality behavior      . 
+    ,  (, , , )    perceived_consensus         perceived_vulnerability .    personality  [knowledge]   ,        protection_effect          perceived_vulnerability . 
+    ,       perceived_vulnerability           role    perceived_vulnerability :  , ,  ,  ,  ,    (      ).             role, .        (..,  ,  ,  / ). 
+  
+================
+ .      role   perceived_vulnerability  
+ 
+ 
+  
+          
+    
+  
+        
+   behavior 
+  
+  [action ], ,             
+    [activity] 
+  
+  [action ], ,              
+    [activity] 
+  
+           (   " "  " ") 
+  
+    (  ) 
+ 
+......  [action] .......     
+......   ....... personality ......  
+...... frustration_of_needs ......   
+.....      ....   
+.....    .....      -   
+......   ..... physical_quality 
+.....  
+ .     role "" 
+... .... ..... ... .... ..... .... ..... ...... ...... ....... ....... ....... ...... ....... 
+         
+ appraisal 
+       
+personality  impulsive_effect perceived_vulnerability/ [neuroticism]  [conscientiousness] personality 
+ 
+    
+  
+            .                       . role     vicarious_experience     role       . ,        . ,                     .      :      (..,  
+....... ...... ...... ..... ...... ....... ...... ....... ....... ....... ....... ...... ....... ....... ....... 
+personality -      physical_quality  
+ personality 
+ 
+  
+ 
+      
+ 
+    
+,  ,    )         perceived_vulnerability?     [knowledge]  focus  techniques    . 
+.  [knowledge]  focus 
+             perceived_vulnerability . ,                 perceived_vulnerability perceived_vulnerability.  ,  
+  
+================
+           [Organization]          . ,  role              .  ,                       motivation. ,     role       [modeling]    possibility_effect  perceived_vulnerability . 
+..   
+      belief      perceived_vulnerability /perceived_vulnerability appraisal (  fear_arousal)          personality         (.., perceived_vulnerability /perceived_vulnerability   ).       [][],    focus      : 
+)   perceived_vulnerability /perceived_vulnerability    
+   perceived_vulnerability   ? 
+( ) 
+)          
+          
+evaluating   ? ( ) )          
+        evaluating  
+ ? ( ) 
+)       
+      
+ evaluating? 
+)        
+ evaluating    ? 
+..    
+             [experience]    focus.         (      / ).      combining   [experience]   perceived_vulnerability   ,          [experience ].      focus (    ),         fear_arousal    (     )    [     ,  =  fear_arousal    =  fear_arousal       /    ).    ,      
+  [experience ],          focus (      ).   ,               .              fear_arousal          , ,   fear_arousal.           "",       .      (       fear_arousal)   ,     : 
+[] [ frustration_of_needs] [ ] [  combining  ] [    ] 
+        ( );       .     task       ""      fear_arousal (, , , , ),            fear_arousal   fear_arousal.          .                . 
+..  
+...  .                perceived_vulnerability   ,       .    , ,       perceived_vulnerability  perceived_vulnerability      . 
+•  . = Σ,      
+      ,  . ,  
+      ,  perceived_vulnerability   , 
+     perceived_vulnerability   
+ . 
+•  . = Σ,     
+ physical_quality   .   
+ appraisal   
+     . 
+•  .  perceived_vulnerability      
+combining     fear_arousal ()   
+     , ..,  
+= Σ,      appraisal  
+fear_arousal   . 
+•        
+        
+ , .., = Σ(),  ()   
+  
+================
+• 
+ physical_quality        . 
+       ,  = Σ(),,  ()    physical_quality   role    . 
+... [modeling] .     [][],        (      experiential_awareness)     intentionality   appraisal    (= .); ,       physical_quality     evaluating     intentionality (= .). 
+              intentionality        .               (= .).       (= .)      .                  .        fear_arousal,     . 
+   (= .)          combining -  .             . ,              perceived_vulnerability /perceived_vulnerability,  role       certainty_effect physical_quality (β= .). 
+      role -       ; ,     possibility_effect  .         role          personality. role      , (,)= ., = ., Δ= .. ,      role , (,)= ., < ., Δ= ..   protection_effect   belief     role   personality       perceived_vulnerability evaluating.   , 
+ 
+ 
+              ( );    focus,    (.., , )              .         , satisfaction_of_needs       .. 
+   role      ,              personality    role    segregating. 
+ .       
+  β   
+   -0.***    .   -0.***   -0.***   -0.  [policy]  -0.***   -0.***    -0.***   
+ -0.  .  appraisal -0.**   
+/ -0.***    -0.***   -0.***    -0.***   -0.***   -0.***   -0.***   
+  -0.  fear_arousal -0.  history /   -0.    -0.  -0.***   .    -0.***   
+ -0.* perception -0.*** () personality  -0. physical_quality  -0. *<. **<. ***<. 
+                   perceived_vulnerability .    ,             , = ..             gain   physical_quality      , Δ= ..  ,    personality ,      combining    fear_arousal (β= -0., < .); 
+  
+================
+, role    (β= -0., = .)         (  ). 
+,       fear_arousal      fear_arousal     . ,  belief process              .               combining        .       role          role     role         fear_arousal. 
+ .     role  
+role  
+ **  ***  ***  ***  ***  * *<. **<.
+ β 
+-0.** 
+.*** 
+-0.*** 
+-0.*** 
+-0.*** 
+-0.* ***<. 
+ .     evaluating   
+ 
+ ***
+ ***  ***
+ ***
+  ***
+ role  
+*<. **<. 
+ β .*** 
+-0.*** .*** 
+-0.*** 
+-0.*** 
+-0. 
+***<. 
+.  
+                  perceived_vulnerability .  ,      ,  ,           perceived_vulnerability   .  role         , ,          syllogistic_rules. 
+     fear_arousal      ,          ( )     role  (role ). 
+          ,    
+     protection_effect         .   protection_effect  belief                   fear_arousal   perceived_vulnerability .  ,                 fear_arousal            role.                 perceived_vulnerability.          role      impact     perceived_vulnerability perceived_vulnerability. 
+ ,       ,     ,  focus      fear_arousal            (.., >    -  ).       role          fear_arousal (certainty_effect β physical_quality   ).  role    combining     fear_arousal,           role     fear_arousal.          segregating,           .                        ,       . 
+.  
+    protection_effect    /    perceived_vulnerability  [modeling]  ,          belief  extrinsic_rewards   protection_effect      .  ,  generalizing   protection_effect    perceived_vulnerability        .         impact   role . 
+..  
+        [knowledge]   []     judging         .          
+  
+================
+intentionality      .        perceived_vulnerability                       . 
+..   
+           perceived_vulnerability ,   [knowledge]     . 
+       protection_effect     perceived_vulnerability appraisal .                     ,             behavior_control-ability    appraisal.   [knowledge ],              . 
+              [Organization]    perceived_vulnerability  perception.         [Organization]         perceived_vulnerability     .           appraisal      [],    protection_effect       perceived_vulnerability task          /      []. 
+     . .   gain    perceived_vulnerability . ,               perceived_vulnerability appraisal         perceived_vulnerability  .            ,   protection_effect    perceived_vulnerability appraisal. 
+.  
+      perceived_responsibility .      perceived_responsibility               .   focus         (      , ).    
+      ,    .     . 
+.  
+[] , .., . . ,& . . . 
+().      :  
+ protection_effect, ,     
+  (, , ). 
+. 
+[]  . ().   , 
+      
+  ,  . " 
+  ." . 
+[] , ., . , . , . , 
+. ,& . . ().  perceived_vulnerability 
+focus :      
+ . ,  
+( perceived_vulnerability appraisal ),  
+    , 
+/  . 
+[] , . .,& . . . (). 
+combining      
+  :   
+[modeling]   perceived_vulnerability.     
+ . . , . . ,  ., 
+.,  , ,  -114. 
+[] , . ., . . , . . , . . 
+,& . . ().  
+[modeling]   perceived_vulnerability perceived_vulnerability   
+    .  
+, (), . 
+[] , . , . , . , . . , 
+. . , . . , . . ,& . 
+. . ().     
+    
+   perceived_vulnerability perceived_vulnerability.  
+    
+  intelligence, ,  
+ ( ), , ,  
+, , . 
+[] , . ., . , .. & .. 
+. (). :   
+    perceived_vulnerability.  
+  & ,   
+   perceived_vulnerability (),  
+, ,  , . 
+[] , . .& . . ().   
+      . 
+  intelligence, (), . 
+[] , . ., . , . , . , . 
+, . ,& . . (). 
+  perceived_vulnerability :  , 
+  
+================
+[] ö, . ., . . , . . ,& . . 
+[] , . ., . . , . . ,& . 
+[] , . , . . ,& . . (). 
+[] , . .,& . . . ().   
+& , (), .  ./..  
+. ().           frustration_of_needs ():    [] -  frustration_of_needs  ().  appraisal, (), . 
+. (). :  perceived_vulnerability   -  . , :  , ,  [policy] ,   . 
+ appraisal    perceived_vulnerability :        . .   , (), . 
+ :  perceived_vulnerability   
+    
+.     
+.   ,  
+. , :     . 
+,   .  
+     
+ (),  , . [] , . ., . , . , . , 
+. ,& . . ().   
+      
+ .     
+     perceived_vulnerability 
+(),  , ,  , . [] , . . ().    
+personality    . 
+& , , . 
+[] , . ., . . ,& . . 
+. (). /   
+  perceived_vulnerability . :  physical_quality 
+(.),  belief    
+ personality :  
+. , :  
+.  , .. 
+[] , . ., . , . . , . . 
+, .. & . . 
+().     perceived_vulnerability 
+.  . . , .    
+..  (.),     
+     
+intelligence, ,   ( 
+), , . 
+[] , . ., . . , . . , . 
+. , . . ,& . . . (). 
+  perceived_vulnerability  . 
+, :   
+/. 
+[] , . ().      
+.       
+:  .   
+ &    
+: ://../ 
+/////. [] , . ., . . ,& . . . 
+(). imagination    : 
+     . 
+  personality   , 
+(), . 
+[] , ., . , . ,& . . . 
+().  belief    . 
+.    , , . [] , . ., . . , . . , . 
+, . , . . ,& . . . 
+().      
+ [modeling]     : 
+[modeling]   [] .  
+, (),. 
+[]  , .,& . .  . ().  
+   : , perceived_vulnerability  personality  
+   . , 
+[], . ., . . ,& . . . (). 
+[] combining, . ., . . , . . , . . 
+[] , . . ().   : 
+[] , . .& . . ().  
+[] , ., . . . , . ,& . 
+[] 
+     .  
+,  (), . 
+, . . ,& . . . ().      :   .  , /  . /. 
+     .  ,  :  & , . 
+     :     perceived_vulnerability [modeling]    ().  . , :    . 
+. ().  perceived_vulnerability   & :   personality  -physical .        perceived_vulnerability (),  , . 
+  . ().    perceived_vulnerability [policy]        perceived_vulnerability .  , . ://../ ////   
+  
+================

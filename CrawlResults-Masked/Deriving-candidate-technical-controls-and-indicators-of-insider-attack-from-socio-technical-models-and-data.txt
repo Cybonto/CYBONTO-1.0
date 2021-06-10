@@ -1,0 +1,343 @@
+              
+  
+  
+  / 
+  
+     . 
+://... 
+================
+   
+   .  
+  perceived_responsibility   Collection          ,      ,    ,      ,      Collection  .     perceived_responsibility appraisal       Collection  ,      perceived_responsibility,    ,      ,    ,  ,   .           ,               Collection     
+        . 
+.     
+.   
+.    
+.  
+    
+. perceived_responsibility  
+         
+     
+. () 
+.  [Organization] ()  techniques () 
+.   
+.    
+.   
+. task  
+.    
+.  [Organization]   
+  ,/,  , 
+,, 
+. /  ()  techniques () 
+. /  
+   ;   
+.   
+. / () 
+. /  () 
+          perceived_responsibility              ,       .            , ,    ,         ,         ,           
+  .. 
+. isolation_effect 
+  perceived_vulnerability                 .              ?,     ?   ,              perceived_vulnerability   .    ,                       [modeling]         .                     perceived_vulnerability  . 
+.   
+.   : 
+.   
+. isolation_effect  
+.    
+.   
+isolation_effect   
+.    
+ 
+.     
+   (. ) 
+     
+================
+      
+   / 
+   
+ ,   
+               belief.            . 
+         .                   . 
+    . 
+  
+             "" .         personality,    ,     ,   segregating ,       , ,        .           personality      , ,   . 
+                     . 
+ .   live_modeling               ,     " "         . 
+ .        ,  ,            .        /  .             @... 
+          perceived_responsibility              ,       .            , ,    ,         ,         ,             .. 
+    ,         (.../). 
+================
+   
+ 
+ 
+isolation_effect 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ perceived_vulnerability  
+ 
+ 
+ 
+ 
+ 
+belief 
+ 
+ 
+ 
+/|  
+================
+/|  
+================
+   
+ : 
+ " personality "      
+ 
+ : 
+              
+ : 
+                    
+/|  
+================
+/|  
+================
+   
+ : 
+   perceived_vulnerability   
+ 
+/|  
+================
+ 
+/|  
+================
+ 
+                 perceived_vulnerability,    , ,   .         , ..      ,            personality      . 
+,         perceived_vulnerability           ,   . ,  . ,   . . 
+,           ,     ,         .
+ 
+/|  
+================
+/|  
+================
+isolation_effect 
+  perceived_vulnerability                  .              ,         ,              perceived_vulnerability   .    ,                        [modeling]         .                     perceived_vulnerability  .
+ 
+/|  
+================
+/|  
+================
+  
+  intelligence  focus   perceived_vulnerability                  ,           [ ].                                       [ ].                perceived_vulnerability . ,                 .    perception     perceived_vulnerability                        .      ,     . 
+             [modeling]     personality   behavior       perception.     perceived_responsibility       combining     ,  ,                    perceived_vulnerability.      perception         perceived_vulnerability .  perception              .   ,                               . 
+®
+              . 
+/|  
+================
+  
+   perceived_vulnerability   : 
+        , ,             [Organization]  ,                  , ,      [Organization]     . 
+                .      ,       .       ,  gain     ,                      syllogistic_rules   [Organization] [ ]. 
+/|  
+================
+     
+    ,         ,             .  ,       Collection    .  ,       source              , ,    .    personality,   combining  ,  , ,   ,          .       ,  learning                 [Organization ].   intrinsic_rewards   personality         . ,   ,            . 
+        vulnerabilities            [activity ].                    perceived_vulnerability                  . ,   ,   possibility_effect   belief,     ,               ,              .  ,      Exfiltration    source      :          .            . 
+mental_calculation                 .  ,             , ,                                [ ].  , ,        ,       ( )     internalization        ( )   fear_arousal    ( ).    ,         ,                 , ,     . 
+        ,  ,                [modeling] ,      .               ; ,   ,       persistence ,  intelligence,    perceived_vulnerability . 
+                      .                          
+/|  
+================
+  ,         ,  ,   .                        .                  ; ,            .         personality  ()  [modeling]       [ ]. 
+ :  " personality "      
+             perceived_vulnerability             .            , ,   [ ]              ()      [ ],    focus    .        ,     ,        source     [ ]. ,      ,     loss  ()    participant_modeling      Collection                  .      ,               experiential_awareness    . 
+/|  
+================
+   
+     ,    perceived_vulnerability ,     "  ,"                    belief   .         ,  ,     .  ,  ,          physical_quality       .              ; ,             . 
+       .              ()      [Organization ].               .         [ ].          ; ,          . 
+/|  
+================
+  
+      ,             ,    ,    Exfiltration,              .          .        .
+  :    perceived_vulnerability   
+internalization 
+  
+  
+  
+  
+                     .                     . 
+: / 
+ ,  ,     
+Source 
+ ,   
+  Exfiltration 
+  ,     
+Exfiltration  
+          . 
+ 
+ 
+ 
+simplifying [ownership]  ,   ,           ,    personality ,  ,    . 
+ 
+ behavior    ,   ,      ,    [activity]  ,   /  . 
+  
+  ,   ,   [activity ],    ,   ,   /   . 
+/|  
+================
+  internalization,     .         [experience]    ,             Tactics            ,   ,                  . 
+             .                               perceived_vulnerability    .                   . ,                      .  source       ,    ,  ,  personality   . 
+,      : ,             ,    ,  , source ,  ,   ,   .  internalization       : ,   personality          :                .            ,           : .                .   ,          .      ,      :     . 
+    source        ,     , ,  ,   .              personality  ,     ,       ,       perceived_uniqueness        focus. ,   personality      ,              [Organization] (    )      (   personality )    . 
+,          .                . ,    combining           ,        ,     ,   .               Exfiltration   Exfiltration           .     ,    ,      Exfiltration       :   ,                   .  ,              .      
+
+ , . .,  . "         personality  ." 
+  ,   , . 
+/|  
+================
+    ,             ,        . 
+        [ ]        :    ,    ,         .      protection_effect   ; ,             perception   .  ,  [Organization]                extrinsic_rewards          .      perception   perceived_vulnerability               [Organization]   .        isolation_effect ,  focus            [policy]        [Organization]    [capability ]. 
+,     combining         segregating                 loss      perceived_vulnerability personality .                           [modeling] .    ,   focus                     , ,           .      ,                    . 
+/|  
+================
+   
+,   perceived_vulnerability               focus.           ,  ,            .                     , ,         perceived_vulnerability . 
+                        .          , ,  .            .               [ ].  Exfiltration          ,      ,         .    ,  ,           ,   [knowledge]                    .             ,               .              ,                      .          personality     evaluating  , ,     techniques. 
+    ,               . ,  mental_calculation                         . ,  combining   : :   . ,  mental_calculation  source   :,         personality ,    . ,           ,      ,                . 
+,    ,  focus    segregating  ,      ,             .      mental_calculation,   . ,     ,              . 
+     , ,       gain.   combining   behavior           mental_calculation                  .   ,                             . ,  ,       [modeling ],      
+/|  
+================
+       [ ].      behavior                     . ,    appraisal          certainty_effect      Exfiltration,          extrinsic_rewards       .     ,  ,                      [Organization]           . 
+        ,     Exfiltration  ()  opportunity_for_criminal_acts           .    ,        ,  intentionality      " "                .                     .                       ,      perception             [ ]. ,           ,      ,              .                 .                        . 
+  ,      ,         .                         .    ,     ,          [experience]        [ ].                   .          . 
+/|  
+================
+ :            
+   
+       ,     ,                        ,                     ,     .       ,              [modeling] ,                   physical_quality        .                                          belief.                participant_modeling                                 .              ,      ,               . 
+/|  
+================
+ :                
+    
+/|  
+================
+  perceived_vulnerability  
+       perceived_vulnerability      combining   , ,             .         [Organization]  perceived_vulnerability    perceived_vulnerability    appraisal   [Organization]              .                          , experiential_awareness     vulnerabilities     .                 vulnerabilities      . 
+        ,                                      combining     .  intentionality      appraisal                         .          ,    ,          simplifying  perceived_vulnerability    .        intelligence                 . 
+/|  
+================
+  
+                            ,                      ,  , .                 . ,                   ,     .    fear_arousal,            perceived_vulnerability personality    ,                    [Organization ].     , ,  ,                      . 
+    fear_arousal      source  .      perceived_vulnerability          ,     mental_calculation          perceived_vulnerability .   ,           ,            internalization       . ,                                           .        Collection,                       . 
+            appraisal              gain.           [Organization]      ,                  .                          gain,    ,   ,    .  ,                    internalization       ,   .         ,           ,          personality  perceived_vulnerability             . 
+,                 [Organization]   , ,   .             behavior        ,       ,   ,         [Organization ]. ,                        .  ,   [Organization]              . 
+/|  
+================
+      ,                                    .                     ,  behavior,  [policy ]. 
+/|  
+================
+ belief 
+   [modeling]           ,        combining     extrinsic_rewards           .   ,                   .            extrinsic_rewards          . ,      perceived_vulnerability             [Organization]         .              perceived_vulnerability ,      , ,           [Organization]    ,                 fear_arousal. 
+            (       )         perceived_vulnerability       .          focus         .        extrinsic_rewards             . 
+/|  
+================
+ 
+          . 
+[ ] 
+, . .; , . .; , . .;& , . .  syllogistic_rules         perceived_vulnerability   .. ../// . (). 
+[ ] 
+, .; , .; , .;& , . "     ."          [knowledge] .  , ,  .  , . 
+[ ] 
+&   .  perceived_vulnerability focus. ://..//focus . (). 
+[ ] 
+ ;   ; ;& .    . ..///. (). 
+[ ] 
+, . .& , .          ( ).  ,      , . 
+[ ] 
+ .  perceived_vulnerability [modeling]  . ://..//[modeling] . (). 
+[ ] 
+, . .; , . .; , . .; , .;& , . . "        gain :   ."            .  , ,  . , . 
+[ ] 
+, .; , . .;& , . . "  perceived_vulnerability   :       ."  perception  ,  (): . 
+[ ] 
+.   ? ://./ (). 
+/|  
+================
+[ ] 
+, . .; , . .; , . .; . . .;& , . .  :  perceived_vulnerability    . 
+://..///. ().
+ 
+/|  
+================
+/|  
+================
+   .  
+   
+  perceived_responsibility   Collection          ,      ,     ,      ,      Collection  .      perceived_responsibility appraisal       Collection  ,      perceived_responsibility,    ,      ,    ,  , ,  ,        ,    (), ,  . 
+. 
+   (behavior_control-ability ) 
+. 
+    
+. 
+   
+. 
+     
+ 
+. 
+           
+   
+. () 
+  
+.  [Organization] ()  techniques () 
+   
+   
+,   
+. /  ()  techniques () 
+ / 
+   
+ ,   
+.   
+ /  
+/, ,  . isolation_effect (  ) 
+   
+. 
+ [Organization]   
+/ 
+. / 
+   
+   
+  perceived_vulnerability                 .              ,        ,              perceived_vulnerability   .    ,                       [modeling]         .                      perceived_vulnerability  . 
+.   
+ perceived_vulnerability,  ,  ,  [modeling ],  , 
+,   .   
+.    
+ 
+ 
+.   
+    
+  
+.    
+ 
+.   
+ isolation_effect 
+ 
+.   
+isolation_effect 
+ 
+   (. )    .   
+================

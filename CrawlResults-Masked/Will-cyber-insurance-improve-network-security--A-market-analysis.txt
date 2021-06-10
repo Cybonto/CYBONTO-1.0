@@ -1,0 +1,601 @@
+    ? 
+   
+      
+: @. 
+     
+    
+: , @. 
+                        .    perception    ,           perceived_vulnerability  techniques.   perception   possibility_effect          (.., , , .),  (.., ,  ,  , .),   (.., ),    (  ),           . 
+  ,   ,   certainty_effect      :         ?  techniques  ,     perception. ﬁ,  simplifying    personality  ,        ,   ,   ,   .     ()  perceived_responsibility   ,           ,     ﬁ      ,  ()   , perceived_responsibility            ﬁ,        gain - ,       ﬁ.      ﬁ           ,       .                    . 
+: , , ,  
+.  
+ ,  ,                           ,    , Eavesdropping, , Phishing, , , , .      perceived_vulnerability    ,          , ﬁ,   (),     simplifying       .  ,    (  , , .)                intrinsic_rewards                   impact   . 
+    perceived_vulnerability  intrinsic_rewards       ,     ,       /    [][].         : ()      , () ﬁ          , ()     , 
+  ,   -  : .@. 
+  ,            , ()    gain   certainty_effect         ,             , ()    ﬁ    opportunity_for_criminal_acts  , () ﬁ  appraisal        perceived_vulnerability  , ()       [],      extrinsic_rewards       , () perceived_responsibility      ,  ()       ﬁ   .           % perceived_vulnerability ,        perceived_vulnerability    
+.   ,         ﬁ    possibility_effect    perceived_vulnerability . 
+   perceived_vulnerability  techniques             (.., ,  ,   ),     , ..,   .                      perceived_responsibility   ,      .             protection_effect           , ﬁ,  protection_effect  , .     possibility_effect             ,  ( /), [policy] ,    , ..,     ﬁ   appraisal ,       possibility_effect          ,  [policy]   protection_effect  gain    ,           ﬁ-mover       [experience]  gain         . 
+.   
+  ,       personality  .   ,            $        [],                        .          (..,     )                 personality . 
+        []   ,          perceived_responsibility      simplifying      . 
+ 
+================
+             ,         []. 
+    ﬁ      ,             (   perceived_vulnerability) , ..,      ,     perceived_responsibility     loss     perceived_responsibility  , ..,      .                     (..,    )   .         ,          . ,         certainty_effect  (  )      .                          ,        .    ,  perceived_vulnerability     (       )  ,          ,   . 
+        :     ﬁ        ?          perceived_vulnerability          [].     .   process   gain      ,     judging     ()       (   ). 
+.   
+         .
+         
+         
+         
+  . (  .)
+          
+    perceived_responsibility     
+   ﬁ     
+   . ,   perceived_responsibility 
+,        
+ﬁ        
+    .   process  
+    ﬁ. (  .)
+      personality    
+ ,    ﬁ   
+     . (  .) 
+.    
+    ﬂ                     .             [].            . 
+:      (certainty_effect  )            (  )              .   ,                   . 
+perceived_vulnerability perceived_vulnerability :    perceived_vulnerability              loss    combining. 
+ extrinsic_rewards :     combining  extrinsic_rewards           /  . 
+ perceived_vulnerability :    (     )          ,    perceived_vulnerability     .                 , ,  $  % belief,   %    $.          [preference]  ,      $      .  ,      focus   " "  %  $,         %    $. 
+:      ,            , ..,   .      personality, ,  .    personality         ( )   ()           .           personality    ﬁ,   personality                ﬁ ﬂ   appraisal   .   ,     ,             . 
+:        , ,       ﬁ          extrinsic_rewards     .     mental_calculation   : ()    (     personality ),  ()    (   perception   personality ). 
+:                   .           (.., ,  ,  ,   ),   ,       ,        . 
+ ﬁ:      ﬁ              .    ﬁ       . ,      combining            /  . 
+.   
+            .     :   ﬁ         ( ) ,            () .           .         . 
+.      
+ mental_calculation          .     belief      [],        (, , ,   , .)   ,  personality   Collection  .                      .  ,        .  
+                . 
+ 
+================
+   extrinsic_rewards     perceived_vulnerability   <   perceived_vulnerability , ..,     perceived_vulnerability     perceived_vulnerability     perceived_vulnerability  perceived_vulnerability  .     [function]           (learning      .).         () , ()[],    [function]   ﬁ extrinsic_rewards,    , ,   .      loss       ,           [function]    [function] ,  ﬁ   protection_effect [; ].  ﬁ      loss     , ..,    loss             .                .      ,          .              ,     loss        . 
+         loss   , ..,    ,        :   vicarious_experience.   loss               (perceived_vulnerability ).  vicarious_experience loss                   .     perceived_vulnerability    loss   .  ()   perceived_vulnerability          ,              () ,      [function]  , ..,   loss         . , = ()= (()).     syllogistic_rules    : 
+ 
+ 
+= (= )= ()=  (): () 
+ 
+, 
+() 
+ 
+= ()< ,                 ﬁ          . 
+  syllogistic_rules    (),      (),       .    (())> ,   (()) .        [function]        ,     ()= .            ,       perceived_vulnerability ,      ,  perceived_vulnerability  vicarious_experience loss     .                (      ),              .         loss   vicarious_experience loss      personality.           loss  ,        loss        vicarious_experience loss.   ,  perceived_vulnerability    loss        
+= ()= (()): 
+ perceived_vulnerability      loss            
+= ()= +(())
+ (())= +(
+ )(()): 
+        . 
+ 
+ 
+  
+ =  
+ 
+ 
+ 
+  () () () 
+  (()) 
+   
+
+  
+ 
+   [function] 
+  ( ,  ) 
+  ( ,  ) 
+ extrinsic_rewards    
+perceived_vulnerability ..      
+loss        
+ loss     
+  loss    
+  loss       loss    
+            ( ) 
+perceived_vulnerability      perceived_vulnerability ( ) 
+perceived_vulnerability      perceived_vulnerability perceived_vulnerability     vicarious_experience perceived_vulnerability ( ) 
+        
+         
+    ,  ; 
+     perceived_responsibility 
+ ﬁ     
+      
+.      
+    mental_calculation    personality (   )  .          role   protection_effect ()   ﬁ   ,  ()     .         ,   ,   ,    .              (),          (    personality ).          [],   ﬂ            ﬁ   []. ,     [],                gain .   ,              gain .           protection_effect       .    ,  perceived_vulnerability                .                 .     ,  perceived_vulnerability               ,     .  protection_effect               . 
+     perceived_vulnerability     ,           
+    ,  [],          (     /  )  ,              ,           .   [policy] perception,   personality  ,    ,     ,         . 
+ ,   ,                             . 
+ 
+================
+      loss            protection_effect.     behavior          .       combining     loss       perceived_vulnerability       loss      combining       loss         .     ﬁ   .  loss               .     participant_modeling    loss        perceived_vulnerability .        ( +)(),        perceived_responsibility,  ()    loss    .      combining  ﬁ  perceived_responsibility       /  participant_modeling     loss   .       physical_quality     (),          (). 
+.  :    
+    simplifying               .                       . 
+                   
+[]= [(())]= (
+ )+ (
+ ); 
+    perceived_vulnerability     vicarious_experience loss        
+= (())(
+ )+ (
+ (())(); 
+ = (()). ,     loss     . ,                 
+[]= [((); )] 
+ 
+[]= (())(
+ 
+ )+ (
+ (())(
+ ): 
+       loss    [] []. 
+ﬁ ((); = )  
+((); )= [((); )]
+ [(()]: 
+() 
+ = ,   
+((); )= (
+ )(
+ )
+ ()< ; 
+() 
+  =    
+(();)= (
+ )()
+ (
+ )> : 
+() 
+  personality ,          () (     )    ()         perceived_vulnerability  loss   ,         simplifying  loss,  loss      , ()          perceived_vulnerability  ,       ,  ()      ,  < < ,  
+ 
+,      personality   () loss   .        loss                      ,                ﬁ     . ,                 []. 
+(  (()) [(()])= (  []);  = (),         
+= ( (())  [()]+ [()]: 
+ []   perceived_vulnerability      combining               perceived_vulnerability   perceived_vulnerability    perceived_vulnerability  . 
+  :  ﬁ                combining        . ,         ()     
+ 
+ 
+()= [((; )]()+[(()](): 
+ 
+ ﬁ   ()   combining          ,      combining            .   ﬁ    ()   ﬁ ,  loss      .  ﬁ   ()      
+() 
+ 
+= + + + ;  
+= [((); )](); 
+ 
+ 
+= [(())]( 
+) 
+ 
+; 
+ 
+= 
+[(())] 
+ 
+(); 
+ 
+ 
+ 
+= 
+[((; )](): 
+ 
+ 
+  physical_quality   ,       
+() 
+() 
+ 
+= + + ; 
+() 
+ 
+= [((); )]
+ [(())](): 
+           , ((); ).         .        certainty_effect  =  ) 
+  = ,     
+( 
+ 
+ ,         .      
+= (): 
+() 
+ :    []= []     loss             .  = ,   loss       .   , 
+((); )= [((); )] [ 
+  
+(( 
+))]= : 
+    ,       
+() 
+()= 
+> : 
+ 
+ 
+() 
+   >   ()< (). ..,            
+================
+        .       belief. 
+belief .      ,        ,       () loss    , .          ,     .   loss             , .., ..,                    . 
+belief belief  personality :  belief  belief     ﬁ  belief    []              (..,       ﬁ),          ,      . , perceived_vulnerability -           ,       , ..,     combining   perceived_vulnerability  (  ()),   .       ,      loss      loss         ﬁ    behavior_control-ability    .                 vicarious_experience .        ﬁ        .            ,        . 
+.  :   
+    simplifying            (     perceived_vulnerability ).       role     () protection_effect     , ()             perceived_vulnerability ,  ()     behavior    .  isolation_effect     :   ﬁ   simplifying       perceived_responsibility   .      simplifying      perceived_responsibility . 
+.    perceived_responsibility  
+                  
+[]= [(())]= (
+ + )+( ); 
+    perceived_vulnerability     vicarious_experience loss   ,     
+= (())(
+ +
+ )+ (
+ (())(
+ ): 
+ (; )= (+ ) =           ,  ,      (   ),            loss (  +   ),  =    perceived_vulnerability    .     loss     .                 
+[]= [((); )]= (
+ 
+ ); 
+ = (((); )= (+ )(())          ,  ,        .        loss    
+[] []. ﬁ ((); = )  
+((); )= [((); )]
+ [(())]: () 
+ = ,   
+(();)= (
+ )
+ (
+ )> ; 
+() 
+  =    
+((); )= (
+ )
+ (
+ )< : 
+() 
+  personality ,          ()    ()         (; ),   
+((); )= [((); )] [(())]= : 
+()  :  , ,  [] []     () loss   ,   ,   loss       .        loss       ﬁ  ﬁ      ,       . 
+,                 []. 
+(
+ )= (
+ () ); 
+() 
+        
+= () : 
+() 
+  :  ﬁ           combining        . ,         ()     
+ 
+ 
+ 
+ 
+[((; )]()+ [()]():   
+ ﬁ   ()   combining         ,      combining               .   ﬁ    ()   ﬁ ,  loss      . 
+ ﬁ   ()      
+() 
+ 
+= + + + ;  
+ 
+ 
+= [((); )]() 
+ 
+ 
+) 
+= [(())]( 
+ 
+; 
+ 
+= 
+[(())] 
+ 
+(); 
+ 
+ 
+ 
+ 
+ 
+= 
+[()]() 
+  
+ 
+  physical_quality   ,       
+() 
+() 
+ 
+= + + ; 
+() 
+ 
+= [((); )]
+ (())() 
+ 
+================
+,  ﬁ           , ((); ),         .        certainty_effect  =     = ,   =   
+() 
+ 
+ ,         .      
+= (): 
+() 
+      ,       
+()= 
+ 
+> : () 
+   >   ()< (). ..,                    .       belief   ,  . 
+belief .    ,       () loss    , .          ,      .   loss              (..,                     .),           . 
+belief belief  personality :  belief  belief                   ,            . 
+    belief  ()           , ()      , ..,                 .   syllogistic_rules    perception        loss           perceived_vulnerability     , ..,     physical_quality combining,  ()   gain    (       )        gain    .             ﬁ.          []   personality  .     ,      ﬁ.             , ..,    ,           . 
+ :         perceived_responsibility ,    ﬁ , ..,          .            . 
+.   - perceived_responsibility  
+               ,        .                   ,           
+  ,              perceived_vulnerability                [].  ,   loss         ,   ,    ﬁ      ﬁ       loss. 
+   .  syllogistic_rules         (  )    simplifying (gain)         simplifying (gain)        loss.      ,     ﬁ  combining      perceived_vulnerability ,      combining      perceived_vulnerability .       perceived_vulnerability         ,      perceived_vulnerability        .              loss      ﬁ/.                :   -            ﬁ/ .   -               loss      perceived_responsibility ,    -      ﬁ  ,          /ﬁ                .        comply_effect   learning           . 
+     perception  possibility_effect           personality .      personality ,                         physical_quality     ﬁ.                 . 
+            ﬁ    .               (),       ,            . 
+(  )= ( (+ )); ()                     , ..,  perceived_responsibility .  [goal]    ﬁ    loss      .  
+= (
+ )
+ ; 
+ 
+ 
+ 
+= 
+(
+ 
+ ) () 
+ 
+ 
+= 
+(( )()+ 
+ 
+; 
+ 
+= 
+ 
+ 
+ 
+ 
+( 
+ 
+
+  
+ )() 
+         ,                , .      
+    [],            ,     protection_effect          .         belief []     . ,                   [goal ], ..,       . 
+ 
+================
+     = .  = ,  =    ,   
+(
+ 
+ )= (
+ (+ )); 
+() 
+  ﬁ = ,  
+ 
+ 
+= ( ) ( ( 
+ 
++ ))() 
+ 
+     loss            perceived_vulnerability    ﬁ       . 
+                .               (),       ,            : 
+(
+ 
+ (
+ ))= (
+ ): 
+() 
+ [goal]     ﬁ    loss      .  = ,  =    ,   
+(
+ 
+ 
+ )= (
+ ); 
+() 
+       .  
+= (  ( ))
+ : 
+      ﬁ    (  combining    .): 
+= : 
+,     loss            perceived_vulnerability          . 
+   ﬁ      perceived_responsibility (  ,,     ﬁ   .)      perceived_responsibility     
+=  (
+  (
+ ()) : 
+() 
+      belief   ,  . 
+belief .       ,             .  ,     ﬁ,         . 
+belief belief  personality :         ﬁ  ,            ,                 .                 ,      .  ﬁ,     ﬁ,         gain     (  ﬁ)            . 
+ :        perceived_responsibility ,     ﬁ  (  > )          . 
+        
+    certainty_effect,    certainty_effect  ﬁ. 
+.  : personality  
+    personality             physical_quality .    ,                 .                        
+[]= [(()]= (
+ + )+( ); 
+    perceived_vulnerability     vicarious_experience loss        
+= (()(
+  +
+ )+ (
+ (())(
+ ); 
+ = (()). = ( = ; )=      physical_quality            ,            loss.      loss     . 
+                 
+[]= [((); )]= (
+ 
+ ); 
+ = (= ; )=      physical_quality            ,            loss.    < .        loss    [] []. 
+((); )= [((); )]
+ [(())]: () 
+ = ,   
+((); )= (
+ (+ )
+ (
+ )< ; () 
+  =    
+(();)= (
+ )
+ (
+ )> : 
+() 
+  personality ,          ()         ,  < < ,   
+((); )= [((); )] [(())]= : 
+() 
+ :   , ,  []= []   personality   (     []   personality ) loss   ,   ,   loss       , ..,  loss             .        loss        ﬁ  ﬁ      ,       . ,                 []. 
+(
+ )= (
+ ( ); 
+         
+= () : 
+   ,     perceived_responsibility appraisal   personality () . 
+    ,      ﬁ       physical_quality  [].        ﬁ   . 
+ 
+================
+  :  ﬁ           combining        . ,         ()      
+ 
+ 
+[((); )]()+ [()] (): 
+ 
+ ﬁ   ()   combining          ,      combining               .   ﬁ    ()   ﬁ ,  loss      . 
+ ﬁ   ()      
+() 
+ 
+= + + + ;  
+= [((); )](); 
+ 
+ 
+= [(())]( 
+) 
+ 
+; 
+ 
+= 
+[(())] 
+ 
+(); 
+ 
+ 
+ 
+= 
+[((); )(): 
+ 
+ 
+ physical_quality   ,       
+() 
+() 
+ 
+= + + ; 
+() 
+ 
+= [((); )]
+ [()](): 
+,  ﬁ           , ((); ),         .       certainty_effect  =     = ,   =   
+() 
+ 
+ ,         .      
+= (): 
+() 
+    ,       
+()= 
+ 
+> : ()    >   ()< (). ..,                    .       belief   . 
+belief .         ,       loss    , .             ,      .    loss                        .  gain,      ﬁ. 
+belief belief  personality :  belief    belief        belief .  belief       personality     physical_quality      
+   certainty_effect ?? 
+ 
+/ 
+ 
+    
+ 
+  
+ 
+ 
+  intrinsic_rewards 
+ 
+ 
+personality  
+ (  ) 
+ 
+( ) 
+ (  
+) 
+ ( ) 
+ ( 
+) 
+  ( )   (# >) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+     certainty_effect 
+ 
+ 
+ 
+ 
+ 
+ 
+(perceived_responsibility ) 
+ (       
+) 
+ 
+( ) 
+ (    ) 
+ 
+ 
+. .  focus   
+                 . ,     personality     .    syllogistic_rules     combining     ,     syllogistic_rules         perceived_responsibility . 
+ :    ,   personality (  )      perceived_responsibility  ,    ﬁ , ..,         ,             . 
+    :   live_modeling  (  personality)   ﬁ   .   ,    ,              ,       (        )      physical_quality    . ,     [],       ,   ﬁ     physical_quality    .       personality ,       ﬁ (    physical_quality   )?           ﬁ                   certainty_effect  ﬁ,    frustration_of_needs     .         ﬁ       ,    []             . 
+  focus             . 
+.   
+  ,               . 
+ ﬁ              combining                protection_effect   .    [][][] [][][]                 ﬁ ,       .     role  certainty_effect        
+ 
+================
+  . ,               ﬁ combining       certainty_effect   [experience]       . 
+    ,    [][]           , ..,        ,            ,           ,      . ,    []         . 
+      [][],             []      ,        ,          .                     ﬁ      .    []        .        extrinsic_rewards              personality,          .     [],                 ,           ()           participant_modeling. ,    ﬂ            . ,              mental_calculation          protection_effect        . 
+    [],    ,      perceived_responsibility       ,    techniques  personality   ,       .     ()        (       )  ,           perceived_vulnerability -   , ()      perceived_responsibility          ,      ,  ()   intelligence              . ,     simplifying   ,     mental_calculation   ,   ,    .   ,   perceived_responsibility              . 
+perceived_vulnerability :           belief    , ..,            .      techniques            certainty_effect ﬁ,            .  gain        .   ,    perceived_vulnerability     ,  belief        personality       . , [modeling]       . 
+. belief    
+        extrinsic_rewards  possibility_effect  .      perceived_responsibility  ,           , ..,     ,        certainty_effect ﬁ.  
+         ,       ,      .                   ﬁ.          perceived_responsibility                     . ,          certainty_effect ﬁ   . 
+                 syllogistic_rules    (   /         ﬁ    )  gain  ﬁ          certainty_effect ﬁ     [] .            .       syllogistic_rules          . 
+             comply_effect     generalizing  perceived_vulnerability .          . ,             ﬁ            ,        .         ﬁ         . 
+ 
+[]  .   Source. 
+[] . . .     -  perceived_vulnerability   
+ .    , (), . [] .   . .     . 
+   , . 
+[] . .  . 
+[] .   . . [modeling] :   
+ .  , . 
+[] . , . ,  . .    
+     .   , . [] . , . ,  . .    ﬁ  
+   .    /   
+, . 
+[] . , . ,  . .      
+    .   , . [] .   . .     extrinsic_rewards   
+.  , . 
+[] .   . .    ﬁ    
+  .   , . 
+[] .   . .       
+      .   , 
+. 
+[] .   . .    gain   
+  :    .   , . [] . , . . ,  . . .  belief. 
+  , . 
+[] . . , . , . ,  . .  
+    .  , . [] ., ., .,  .. personality  
+   .  , . 
+[] . , . ,  . . .    
+:    .   , . [] .   . . judging     
+   .   , . [] . , . ,  . . :    
+.  / , . 
+[] . . . perceived_vulnerability fear_arousal       . , 
+, . 
+[] ...     loss.     , 
+, . 
+[] .   . .     :  
+ﬂ   .   , . 
+ 
+================

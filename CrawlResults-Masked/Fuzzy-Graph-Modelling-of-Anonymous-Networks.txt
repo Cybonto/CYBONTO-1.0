@@ -1,0 +1,232 @@
+  modeling    
+ ,  ,  .   
+ 
+    , ,  
+@. 
+ 
+   , ,  
+@.. 
+ 
+     , ,  
+..@. 
+isolation_effect.     protection_effect           persistence -     .        personality          persistence   protection_effect .   modeling      task. , modeling            personality      .   ,              live_modeling  simplifying   .  mental_calculation      personality    :   ,              . 
+:  ,  ,  , ,  
+  
+:. [.]    
+                  .            intrinsic_rewards           .      Collection   ,             .              personality  protection_effect  [][].                    perceived_uniqueness             source    .              .  personality    [], [], []  []. 
+                       .     
+================
+   . 
+()  ,    ,  ,   intrinsic_rewards     mental_calculation     .                  ,       personality    ,              [][]. []       []                      .  behavior_control-ability      persistence ,                  perceived_vulnerability   combining           . 
+     perceived_vulnerability        ,                 perceived_vulnerability        .   ,           ,        perceived_vulnerability      belief.        ,  ,        ( )    ( ),        ,           . modeling             
+()  personality                     .  intrinsic_rewards         [][]    . 
+()                                . 
+() simplifying                    . 
+  ,      : 
+-                      . 
+-      live_modeling                       . 
+-    simplifying  personality   : (   )  (     ())   .         ,       . 
+     :   ,        ;    intrinsic_rewards         ,         
+================
+  modeling     
+      .               . 
+   
+           [][][]       personality   . , judging                   . 
+                []    .                              , physical_quality  [].       []                 .  personality     ,                          ,     []. 
+,               .        ( ),           , , ,        ,         .  techniques ,             live_modeling     . 
+       
+      behavior_control-ability  perception             [][][].                   ,   extrinsic_rewards  ,     ,           perception     .       []    ,   syllogistic_rules           syllogistic_rules       .               ,       .        modeling                   [][][]. 
+================
+   . 
+.  :   
+  ,         = (; )                ,          source  .     ,      
+ .            : ! [,]            ,  () . 
+ .            .               (; ) ()^ ()   ,    ^   .           (; )= ()   .            (; )= (; )   ; . 
+ .        : (;)       ,      .                     .          : (;)     : (; )    .    (; )                (; )     . 
+ . (; )             (;)  ;    () ()      () ()    . 
+ . (; )        (;) = ;    ()= ()      () ()    .        ,      (;)           (; ),             (;)  (; )= ()^ ()^ (; )   ,   . 
+.    
+          ,   ,  ,   physical_quality     ..[].         : 
+{  :      
+{  :       : ,     
+   . .,           
+. 
+{  :       :    
+   ,           
+  , .,          
+    . 
+================
+  modeling     
+{  :       :       - 
+    , ,         
+  . 
+{  :     :   ,     
+        , .    
+ . 
+  ,                 .          ()    ( )     ()    ( ).   ,  mental_calculation            live_modeling                       .  perception      live_modeling                     .  focus   behavior_control-ability         . 
+        
+     perceived_vulnerability       ,     perception    live_modeling         . 
+.   
+       []  []       .                   protection_effect       .    ,               .                  .                     .           ,   ,           .            .   ,  focus        :   . .         ()  ()   comply_effect                        . 
+================
+   . 
+. .    )   )    
+ . ,     ,           .                    [].            , ,            [].   ,           techniques    .             protection_effect   .         [].    ,       personality     ,        . 
+ .                            satisfaction_of_needs   .     :   .         combining          ,     combining      []. 
+.  Collection 
+ judging          ,               ,              .                     source [][]            .  ,    
+================
+  modeling     
+   intrinsic_rewards     intrinsic_rewards        [].       source              .             isolation_effect  .        protection_effect        .      :  ,   ,  , ,          . 
+.   
+ live_modeling  perceived_vulnerability    ,   isolation_effect           .  appraisal                        . .   ,  live_modeling               live_modeling          simplifying     . 
+       live_modeling        
+: : =; ::;          =(,)     
+   
+:  :     isolation_effect    combining  
+:   
+:   =   
+:  ()       
+: .()         
+:  +  
+:   
+:   =(,)            
+  
+ 
+=        . 
+,              gain           gain      [].      ,  comply_effect          . ,             personality  behavior.                   (   .).       ,             personality,        .     ,          .              
+================
+   . 
+                   loss    .    ,          .                  .                   .         loss                loss. 
+. .           
+                        intrinsic_rewards          . 
+.   
+ .       combining       .                                             .                .       intentionality       .             .              : / 
+ 
+   . 
+ .   :    
+           
+ . .   -0. .  . .   -0. . 
+================
+  modeling     
+          .        .    .                              .        . ,    ,                   .             . 
+. .             
+  .   ()           (  )     . perceived_uniqueness                .              perceived_uniqueness               perceived_uniqueness .   ,               .                              .                     .                   personality    .                 . 
+   ()    /,                               .                         . .                     comply_effect         
+================
+   . 
+             .                    .          . 
+. .       
+.    appraisal   perceived_vulnerability              .        -1     certainty_effect                               ( ).   ,                         .                       (  )                         .  ,                    . 
+                         .                simplifying        [],  ,     []. 
+ belief 
+    fear_arousal          simplifying              perceived_uniqueness   .       
+================
+  modeling     
+              .  live_modeling     ,        isolation_effect     perception  simplifying  personality  :   .                         ,          . 
+    ,                    .        modeling personality                   .      simplifying,      vulnerabilities               . 
+ 
+.  . ://../// 
+ 
+.  . ://..// 
+. . ://./ 
+. . ://./ 
+.  . ://./ 
+.   . ://..//.. 
+ 
+.  . ://../.. 
+. , ., , ., , ..:     : 
+, appraisal, . :       
+    . . {.  ,   ,  
+, ,  (), ://.././.. 
+. , ., , ., , .:  perception   .   
+. (), { ( ), ://.././() 
+ 
+. , ., , ., , ., , .:       
+? :           
+ . . {.  , ,  , ,  (), 
+://.././. 
+. , ..:   ,  ,   
+. .  (), { ( ), ://../. 
+/. 
+. , ., , ., , ., , ..: :    
+     , . {.    
+, ,  (), ://././ . , ., , , , ., , ., , ..:   
+  :     . : , 
+., , ., , . (.) . . {.   (), : 
+//..////.# 
+================
+   . 
+. , ., , ., , .: :    
+. :          - 
+ . . {. ,  , , ,  (), 
+://../.?=. 
+. , .., , .., , ., , .: ,    : 
+     . :     
+  . . { ( ) 
+. , .:    :  ,  ,     
+ [].  ,  () 
+. , ., , ., , ., , ., , .:   : 
+     personality . :     
+     &#;  . . { 
+.  , ,  , ,  (), ://.././ 
+. 
+. , ., , .: impulsive_effect :     Collection. 
+://impulsive_effect ../ ( ) 
+. , ., , ., , .., , ., , .:  
+      . :      
+    appraisal. . {.  , ,  
+, ,  (), ://.././. . , ., , ., , ., , ., , .:    
+      .  
+/. (), ://.//. 
+. , .., , ..:    . :    
+ personality .   () 
+. : , ...:    [function]  personality .  
+ ,  ( ) 
+. , ., , ., , ., , ., , .:     
+.?:         . :  
+          . 
+. {.  , ,  , ,  (), ://../ 
+./. 
+. , ., , ., , ., , ., , .:    
+ . :       ,  
+, ,     . . { 
+.  , ,  , ,  (), ://../ 
+./. 
+. , .:  . : , , , .., , ., , . 
+(.)          , .  
+{ .   (), ://../// 
+/ 
+. , ., , .:    combining    protection_effect 
+.     (), { ( ) 
+. , ., , ., , .:    :   
+       . :     
+     . . {.  ,  
+      ,    
+ ,  (), ://././. . , ., , ., , ., , ., , ., , ., , 
+.: :      .  /. (), 
+://.//. 
+================
+  modeling     
+. , .., , .:   belief,    ( ) 
+. , ., , ., , ., , ., , ., , .: :   
+    . : . . { () 
+. , .:     :     .  
+. . (), { ( ), ://.././. 
+ 
+. , ., , ., , ., , ., , ., , ..:   
+ physical_quality :      . :     
+   appraisal . . {.  , , 
+ , ,  (), ://.././. . , .., , .: personality : ,   . 
+     (), { () 
+. , .., , .:  ,  ,      
+ . : , , , .., , ., , . (.)  
+        , . { . 
+  (), ://..//// 
+ 
+. , .:  .    (), {  (), : 
+//..//// . ,  :  .  (), { ( ), ://../ 
+./. 
+. ,  :       ? . . (), { ( ), 
+://././.... 
+================

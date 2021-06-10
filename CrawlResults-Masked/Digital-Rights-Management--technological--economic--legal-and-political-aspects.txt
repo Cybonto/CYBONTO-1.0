@@ -1,0 +1,829 @@
+ ,  ,  ,   (.): 
+(  ) 
+   
+, ,   personality  
+  . 
+================
+ 
+ 
+ 
+ ,  ,  ,  ........ 
+ 
+ 
+  :  ................. 
+ 
+. 
+    
+ ............................................... 
+ 
+. 
+    
+ ............................................ 
+ 
+. 
+   .............................. 
+ 
+..    
+ ...................................... 
+ 
+.. ,  intrinsic_rewards  protection_effect 
+|   
+ ..................................... 
+ 
+..   
+ .. ................................ 
+ 
+..    (Fingerprinting) 
+  ........................................  
+..    
+ .......................................  
+..  extrinsic_rewards  
+ ,  ................  
+..   
+personality .......................................  
+. 
+    
+ .............................................  
+. 
+  |    ? 
+ ,  ..............................  
+. 
+ ,    
+ ,  . ..........................  
+. 
+  :     
+ ,  .............................  
+. 
+    ,    ? 
+ , perceived_responsibility ,  ,  , 
+  .......................................  
+================
+ 
+ 
+  :  ....................  
+. 
+   belief   
+ .........................................  
+. 
+  : {  ,            . ...........................................  
+. 
+        |     focus 
+ ,  ...............................  
+. 
+       
+ ,  ...............................  
+. 
+mental_calculation  belief  
+   
+ ...........................................  
+. 
+  {{   
+ ...........................................  
+. 
+  |    
+ ,  ...............................  
+. 
+        
+ ,  ,  ,  ..  
+ 
+  :   personality ............  
+. 
+           
+..      
+ .....................................  
+..   | 
+         
+ ......................................  
+. 
+          perceived_consensus ...........................................  
+..  | , ,  
+ .......................................  
+..     | 
+     perceived_consensus 
+ . ......................................  
+.. personality   appraisal  {  
+{     
+ 
+ {..............................  
+================
+ 
+..         : 
+  {frustration_of_needs  
+ ...................................  
+. 
+   | ....................  
+..   | , ,  
+ ,  ...........................  
+..         : 
+  
+ ...................................  
+..        
+        
+ 
+ .......................................  
+..      physical_quality : 
+personality    
+ ......................................  
+. 
+ :         ? 
+ ...........................................  
+. 
+,   | 
+       
+ .........................................  
+. 
+     | 
+     
+ ...........................................  
+  :      
+ ,  .................................  
+.   : ............................  
+.   : ...........................  
+.  ....................................  
+ ......................................................  
+ ....................................................  
+ .........................................................  
+================
+. 
+ ,    
+ ,  .  
+ 
+ 
+                  ,                 .  , ,                    ,           . 
+                perceived_consensus ().           gain    ,                   protection_effect .    ,       ,  ,               . 
+   ,         possibility_effect    perceived_vulnerability"    "      "    behavior"          . mental_calculation      :                  ,     gain     .              personality .       ,          protection_effect. 
+      .           ,       ,       , ,           .      personality          (..,  )                 . 
+               .                   .   :       [policy]       source    [policy ].         behavior           
+ 
+  , .  
+  . 
+================
+ ,    
+ 
+         .         techniques            behavior  . 
+         fear_arousal  possibility_effect   .         (. .)     ,  ,     ,                  intrinsic_rewards           perception    .     simplifying        {  .  generalizing             arousal   . 
+ 
+   
+  vulnerabilities         .   ,          ,     .   ,     fear_arousal     personality  . 
+          .      : 
+{       belief         
+  .         
+ personality        .{            .    
+,           
+      . 
+{         protection_effect,     
+         . intrinsic_rewards  
+          combining  
+ . 
+                        | ,  perceived_vulnerability  ,        . ,                                    .   ,  perceived_vulnerability    possibility_effect.  ,      . 
+                    ,           , ..   
+ 
+:  (). 
+================
+ 
+   
+  .        ,           ,      . ,          perceived_vulnerability           . 
+           combining     .     personality    ,    belief     [goal] :     ,       protection_effect     .     persistence      {             intrinsic_rewards  .                    [policy]     .    ,   techniques     .               []      .      []               . 
+..     perceived_consensus 
+    perceived_consensus ()       , , , ,  ,           .   extrinsic_rewards,             .           ,   ,  ,    ,         ,     . 
+  perceived_consensus       ,                 ,  ,  , ,   .       ,       ( ),       process           . 
+  ,  perceived_consensus        " .   {  .     ,    " (),      ..            appraisal belief  +. 
+ 
+   , ..,   ();  ();  ().  
+ .      : 
+://..//.. 
+ 
+: {. 
+ 
+: {. 
+ 
+: {. 
+================
+ ,    
+ 
+.. |   perception 
+       constraint  ,            .  ,  extrinsic_rewards       segregating.                            . 
+    () opportunity_for_criminal_acts    ,       , ,                   .   ,                        .         :    ,        possibility_effect          ,        protection_effect       . 
+           .     ,            .                   .      opportunity_for_criminal_acts             personality .                 techniques.            perceived_consensus     ,         ,    personality       .       constraint    participant_modeling   role .   ,   personality      protection_effect   .      ,     certainty_effect    : 
+{            
+,        .{            
+  appraisal    . 
+{               
+   {  {,  {  
+     . 
+{ ,   ,          
+   possibility_effect        . 
+ 
+:  (). 
+ 
+            
+  " / "      
+ .         
+(")    :  (). 
+================
+ 
+   
+      ,            .   protection_effect          ,                .           .  gain,                 . 
+                   []   .          , personality            ,       .           techniques  . 
+                 [action ].               intrinsic_rewards           ".       "   experiential_awareness belief    protection_effect ".    protection_effect      perceived_vulnerability       . protection_effect      [goal]  behavior_control-ability   perceived_vulnerability. , protection_effect          . 
+              protection_effect           .       [policy]               ;           [policy]   
+..     
+       : , ,   ( ). 
+  
+ 
+ 
+ 
+. .   
+       personality         .     ,      
+ 
+  ,      . . 
+================
+ ,    
+ 
+    .           ,   , . 
+ 
+   (    )            []    .      ,      ,     combining  { .  {       :       {,       . 
+   {              .     ,  extrinsic_rewards ,                   .   ,    ,       [ownership]   . 
+  process   [ownership ],                      .  personality     extrinsic_rewards           .       personality   extrinsic_rewards      .                extrinsic_rewards , [knowledge]      . 
+    {           .     ()          history        ()       .                      . 
+            :  ,  ,  ,      .  ,    : 
+{           ,   
+  , 
+{       ,  personality  
+       
+{   [capability]        [] 
+          ,        protection_effect. 
+ 
+: ,  , ,  ().  
+: {. 
+ 
+: {. 
+ 
+:  (). 
+================
+ 
+   
+ protection_effect 
+         .  ,    protection_effect  (),     personality            .   ,     intrinsic_rewards  appraisal" (),      .                   .  task                            . 
+  belief        appraisal"           (),    .             .                    {personality. 
+ 
+                    .           .      ,   protection_effect   ,     . 
+        ,    .     personality extrinsic_rewards         ,             .            extrinsic_rewards            .         personality  ,                          ..,          :     perceived_consensus   . 
+     combining       .      perceived_uniqueness         .    : 
+{ perceived_uniqueness             
+,   combining ; 
+{           perceived_uniqueness  
+,   ; 
+{   perceived_uniqueness        [ownership] 
+   . 
+              . 
+ 
+: {;   . (). 
+================
+ ,    
+ 
+  = (  +    intrinsic_rewards+ 
+  protection_effect ) 
+  
+  
+() 
+ 
+ 
+ [authority] 
+  
+, , , , , . 
+ ,  , ,  
+. .     
+  ()    perceived_uniqueness                               
+ ,            .  ,     ,   perceived_uniqueness   . 
+..   
+ perception    "           ,           . 
+ personality  ,    , perceived_vulnerability       :   process                              belief     . 
+ 
+Source:   . (): . 
+================
+ 
+   
+            .          . ,    , ,      ,   { .          . 
+         : 
+   
+    persistence            protection_effect           .           ,  ,        ,   . 
+    
+     possibility_effect    , ..     {.                     . 
+      ,             .             ,            . 
+    
+      ,              .                  {        combining          . 
+    
+                .       ,            . 
+    
+       possibility_effect      ,   personality .      ,                          . 
+ 
+     , .., :  ();  (); 
+ ();  ();  () (  ,  
+ ). 
+================
+ ,    
+ 
+   {  
+                perception.  fear_arousal ..   ()      {      ; ()      ; () possibility_effect {        extrinsic_rewards  perceived_uniqueness    . 
+ 
+  :             ,  ,  |     ,                   segregating personality   ,    belief            personality    personality            :     . 
+    generalizing               . 
+ 
+  .  |    
+       personality              perception .     belief       ,       .             .    personality belief   ,            ,   ,   .  focus                  . 
+    ,         . 
+ 
+   (). 
+ 
+     ,      protection_effect, 
+     "       isolation_effect  
+ [policy] ",     "     isolation_effect  
+"     ,        
+       (       
+). :  (): . , . 
+ 
+        , .., : {;  
+(). 
+ 
+, ..:  ();  ();  ();  (). 
+================
+ 
+   
+..   perception    
+         . ,                      .        appraisal  ()    ,      ,       .        ,     focus   .     ,      , 
+ 
+        
+. 
+            perception   : 
+{    perception     ;{  {()         .  
+   . . 
+      ,            .    [policy] ,      personality    .                .    perception,    ,        .                (           ).  perception   ,               personality          . 
+  physical_quality           perception   personality     .            perception. 
+   perception 
+  ,        perception   isolation_effect         ."           . 
+ ,             [policy ].         [policy ], ..   ,      (..,   
+ 
+, ..:  (): ;  (): ).  
+:  (): . 
+ 
+:  (): . 
+ 
+: , ,  (): .  
+:  (): . 
+ 
+:  (): . 
+================
+ ,    
+ 
+      [policy] (  ,   )  . 
+ 
+ 
+  ([policy ]) 
+ 
+   - :   - :   
+. .     
+      perception       " ()     : ()    ; ()    ; ()        .   ,    " ()  .     ()         |  , ,  |         [policy] ." 
+ 
+Source:  (): . 
+ 
+:  (): . 
+ 
+ ,      " .      
+{  " , : ,  (/); , , 
+, , ,  (). 
+ 
+ , ,           
+       ",     
+. ,         . . 
+://..///// 
+///.. 
+ 
+:  (): . 
+================
+ ,    
+ 
+     {           ".       personality   : 
+              . 
+     ,       
+ ,       ." 
+   perception            : 
+,           
+, ,    .  ,    { 
+ { ,    protection_effect   - 
+          
+   ." 
+   perception   ,  ,           perception       "| {   "     [] ." 
+     combining      perception   ,      : ()  ; ()  ; ()  ; () ; ()   . 
+ symbolic_modeling       perception,         . 
+   ( )           (        ).                         . 
+ protection_effect     ,            .             source     ,           . 
+     ,             :                 .   
+      ",     
+      (: ). ,   
+ mental_calculation        ". ., .., 
+ ()   (). 
+ 
+:  (): . 
+ 
+:  (): .  () . . 
+ 
+:  (): . 
+ 
+. 
+ 
+    ,         
+   .  ,         
+         (..   ). 
+================
+ 
+   
+      ,     [policy]        [policy]    . 
+&   
+ 
+ 
+ 
+ (  ) 
+ 
+   
+   - :   - :   
+. .      
+           perception           [policy ]{ personality       [policy] { 
+               ".                            ,    , 
+ 
+              
+".    |     
+ ()   ,     //  |  
+        . 
+ 
+    (): . 
+================
+ ,    
+ 
+        persistence . :                . 
+..        
+  
+          perceived_uniqueness    () [policy] {personality   () [policy] intentionality .        ?    (  :   perception      ),        personality belief : 
+            { 
+   appraisal         
+   intrinsic_rewards      ."      (appraisal )     (     )     appraisal  ,     ".      possibility_effect    protection_effect ,  appraisal    ,       belief  belief     .      ,       intrinsic_rewards             appraisal .        perception   .    /                    appraisal process         . 
+      personality.       .       :         .     , appraisal ",    " (  : |       )        perception      certainty_effect    perception. 
+    ,     {       .  ,  behavior            :              ,         . 
+ 
+:  (): . 
+ 
+:  (): . 
+ 
+, ..:  (): . 
+ 
+     intrinsic_rewards       , 
+       .   physical_quality  
+   :  ():  .      intrinsic_rewards"  
+   ;         loss  
+personality       .    , 
+..:  (); , ,  (). 
+================
+ 
+   
+  
+  
+  
+ 
+. .      
+   (  )           ,    {".    ,            "           .  "   ,     ()       ".               . (             .) 
+  
+  
+  
+ 
+ 
+ 
+. .      
+     , ..     ,              " .            .      :    [policy]     impulsive_effect |            . ,   ,                   .     perception   ,         . 
+ 
+       { ,     
+, ,  (),      perception. 
+ 
+  ,    . 
+ 
+: ,  , ,  (): . 
+ 
+    ()    " ()  
+  . :   . (): . 
+ 
+       . 
+ 
+    [experience ],        perception  possibility_effect    
+. 
+================
+ ,    
+ 
+         /          protection_effect    protection_effect  intrinsic_rewards . ,        .  {  ,  ,      .         .     intrinsic_rewards        intrinsic_rewards                 
+  
+  
+  
+ 
+ 
+ 
+. .   
+, intrinsic_rewards       [knowledge]           .    ,    intrinsic_rewards "  . 
+     "   ,   []         .      ". 
+ mental_calculation  [],                      [policy ].           intrinsic_rewards     ,  ,         . 
+  
+  
+  
+ 
+ 
+ 
+. .   
+ 
+:   . (): .  
+:   . (): . 
+================
+ 
+   
+     process      []                ." 
+ , [       ]             .                     ." 
+ extrinsic_rewards                .     fear_arousal       . 
+  .       ,      ".   "      -       "       .    ,        , "         . 
+            .  ,    [policy] {    ",      [policy] {personality,          .         ,   . 
+           .         ,           ,  focus               : ,  ,    (  ),   . 
+..  physical_quality      
+   ()      : 
+   ()         , personality  [ownership ],                       ,      .    ,     [policy] ,          ." 
+ 
+:   . (): . 
+ 
+: : . 
+ 
+   :   . (): {.  
+:   . (): , . 
+ 
+:   :  ().  
+: ,  (). 
+================
+ ,    
+ 
+        perception          perception,      
+     : 
+     [policy] 
+   
+ 
+  () [resource] "{ 
+"{ 
+[policy] { (  [policy] {personality (   " ) 
+  (       (, ) //)  
+  [policy ])     ()  
+ 
+  
+()      {"  {"  {" 
+ { { { 
+ 
+{ 
+ 
+ 
+      
+ 
+  ()   () 
+  
+ () 
+   
+ 
+       
+      
+ 
+()   isolation_effect 
+    () 
+()    ,   ,        
+  . 
+()   |    |            " (    ),  {                frustration_of_needs . ,     {" ,        .           []   appraisal           ." ,           ,         ,  
+  . 
+()         (    )       . 
+()          [goal]   ,    ..    extrinsic_rewards,        ,    []   ,   Collection      
+ 
+ ,  ,  ,  ()()(). 
+ 
+, ..:  (/). 
+================
+ 
+   
+             perceived_vulnerability             .". 
+()     ,           ,  ,      protection_effect   . 
+()                protection_effect.   , ,        . ,       personality              
+ 
+    
+          .      techniques {           .    perceived_consensus ,          ,     ( ). 
+    physical_quality combining  .   ,    belief  {    ,                   ,     personality .  , ,  personality ,              belief. 
+      possibility_effect    "|               (  "              protection_effect  "  ).   ,        /  perception       :   .             Source          . 
+..    /  
+    participant_modeling   , ..  ,            . 
+ 
+: { (): . 
+ 
+, ..:  (); { ();   (). 
+ 
+:   . (): . 
+ 
+:  (): {. 
+ 
+:  (). 
+ 
+             
+ protection_effect  . :  . (). 
+================
+ ,    
+ 
+         protection_effect                 ( ),       . 
+        protection_effect " (),       ,    ,        .       ( ),             (  )         ,  ,  ,  ,   ,     isolation_effect . 
+         ,  { ".           "                 . 
+   ,        {  ,            ,  {      .    , ,       {       ,              personality      ,        . 
+  
+  
+ 
+. 
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+/ 
+ 
+ 
+. .  /  
+ 
+:  (). 
+ 
+       perception    
+  protection_effect  .         
+ (): . 
+ 
+Source: . 
+================
+ 
+   
+                   ()        ,            [capability]   . 
+..       
+   ,                       .     "             , ..,     [capability]   ,     {  " perception      .             protection_effect    . 
+        { ,         belief   .       vicarious_experience     {  loss  ,      .      , ,           . 
+..  Source   
+         {       .        ,           .        motivation      ,       {         .     techniques         protection_effect  {    . 
+ , ,     impact     Source      . 
+ 
+:  (). 
+ 
+:  (). 
+ 
+:  (). 
+ 
+:  (). 
+ 
+ a_memory   belief     Source": 
+ source         
+ ,       extrinsic_rewards   
+  ,         
+      intelligence ." 
+  ,      Source     
+ . :  (): . 
+ 
+, ..: ,  , (),     , 
+,      (). 
+ 
+:  (). 
+================
+ ,    
+ 
+Impact     Source   
+   possibility_effect      process  {      ,     ,      Source    perception : 
+.   ( %)        
+   extrinsic_rewards   .      
+     {  
+.               
+    Source .  combining     
+  , ,       
+ , ,   . 
+.         Source .    
+    ", ..    
+ motivation       ,   
+  extrinsic_rewards    protection_effect       
+   . 
+  isolation_effect    Source     ,      /  process           . 
+Impact    
+                    Source ,   ,      "      {  .  intelligence          belief     "                          , ,      :         Source      , ,  process,  ? 
+         source        .            source :     ,     intelligence    . 
+ 
+      " focus (, , ,  
+)       , .  { 
+focus (, , ,  )  "     
+   , ,     
+ , , , |   |  
+. 
+ 
+, ..:  ():  . 
+ 
+:  (). 
+================
+ 
+   
+        Source     . ,      source        "        .  source      "            process,              .   , ..,           , ..,     appraisal. 
+   personality ,          Source perception         .    combining      Source         ,         . 
+,  Source,    
+                      .     personality -  ,              / Source  ..  source  "    , ,               Source . 
+..     
+       ()   
+. 
+    .         Organization      perceived_consensus  gain         ". , , ,     ,          .  gain,        , .., , ,  . 
+ 
+       Source " :  (/); 
+, , , , { (); , , 
+, ,  (). 
+ 
+..:   ,  ,         
+ personality           
+  . : 
+://..///.. 
+ 
+, ..:  (). 
+ 
+: , ,  (). 
+ 
+:  (). 
+ 
+  ,  .  , ,      
+ ,          
+.   ,   extrinsic_rewards  possibility_effect  
+     perceived_vulnerability         
+   personality  ." .  (): . 
+================
+ ,    
+ 
+ ,    ,      Organization   : 
+ ,  ,    , ,  
+,    {     
+            
+ ." 
+     perception,        segregating .       ,              persistence . 
+            perceived_consensus ()        ." 
+  ? 
+          , 
+ perceived_responsibility               ,  ,             protection_effect       ,         .    focus                      .  , ,        ,   ,   "  . 
+ 
+ 
+     [experience]      ,        personality mastery_experience,    persistence. ,        . 
+          ,           perception     .    ,            . 
+ 
+      , ", : 
+://../.  :   .  
+   : ://..///.   
+:   . 
+ 
+   .  :   (). 
+ 
+   . 
+ 
+: { (). 
+ 
+:  (). 
+ 
+      , ", : 
+://../.  :   . 
+================
+ 
+   
+     ,              perception     protection_effect     [action ].            []      perceived_consensus "         .               .    ,    protection_effect   .            .                  .      source         "              :    ?                  -       ? 
+combining     Source             .        ,  possibility_effect  protection_effect intrinsic_rewards          ,  source .      source            ,     perceived_vulnerability"          . 
+              .                     ,  ,       , personality       { .         [knowledge]      . 
+  , ,       .                constraint  { .        {  ,        personality  . 
+    personality  
+     ,   ,   ,     internalization    .             .    ,             .          
+ 
+:  (). 
+ 
+:  . (). 
+ 
+ ,   ()         
+personality     .  ,    
+  personality     [:::]     
+          ." 
+================
+ ,    
+ 
+         motivation         personality" ( )    .  ,  personality                 . 
+   
+        .       syllogistic_rules,             .   ,       physical_quality             . 
+                     . 
+ 
+              
+     ,   . 
+================

@@ -1,0 +1,383 @@
+      
+() 
+//$.    ./.. 
+"   .       .          ,      ,   /       ,    ,        ,            ." 
+:. [.]    
+================
+       
+ ,  ,   ,    
+∗ 
+.  intelligence     ,  
+  ,  / ,  
+{, , , }@. 
+    ,              .              gain      .                 . 
+  ,        ,                    . ,          ﬁ,      ﬁ         .    .              ﬁ       .  perception            ,       . 
+   ,  ,  ﬁ,  ﬁ,  ,  
+.  
+                   [],       ,      .        []                     [].    ,          ﬁ            :          []. 
+         ,   perceived_uniqueness      .  ,  
+       ,                 .                 [activity] [],     combining   $  ( ).      ﬁ    extrinsic_rewards            [knowledge]    perceived_uniqueness,    ﬁ         [].    ,      -  [knowledge]         ,     gain   .            ,    - protection_effect   . 
+   personality       ,               ﬁ (extrinsic_rewards        )    .     "   "           ,  
+================
+  [].      .          ﬁ ,    personality          .                []. ,          ,    [].       gain     ,       extrinsic_rewards    .       extrinsic_rewards       gain               .   intrinsic_rewards                    ,                [].  ,                 segregating    .                    judging     ;            . 
+  ,     perception           ,  , techniques     .    ""  ﬁ,   ﬁ  ﬁ   techniques, 
+ ,    ,          ﬁ ,    ﬁ       . ,  perception              . 
+    ﬁ      perception,    : ﬁ,   ﬁ           .    ,  ﬁ ﬁ             perception.           . ,  ﬁ     : ,     . 
+        .      .  ,                  .       learning -          . ,   ,         . 
+.   
+          extrinsic_rewards           . ,              ﬁ        [], [],       .    ﬁ       []    
+================
+           ,        ,         .  []      ,        techniques         .        [],     ()    techniques ,   []            ,    . ,  [],            live_modeling      [activity]       .  [],       ﬁ-                .   . []       combining      ,          combining -           . 
+            .  [],           combining     extrinsic_rewards .   . []    ﬁ       [activity]     .  focus      behavior,         [],    -       
+        . ,         []   - protection_effect             .  [],   intrinsic_rewards        ﬁ  combining         []       ()    physical_quality   ()           . 
+,   perception    [],   perception       .             combining        .        techniques      > % .      ( )   ﬁ    ﬁ    personality       .  [],   perception           (, techniques, , )       ﬁ  ﬁ : , , ,     .   combining   ,     .   . 
+   personality ﬁ    [],       perception    ,          .      ﬁ   
+================
+   [],      personality     ,  .   ,              .   belief       ﬁ,    ﬁ            ﬁ ﬁ. 
+.   
+.    
+      ,          ( ).                 appraisal   ﬂ        .       (, , ..., )    (, , ..., ).    ( )         ,            .           , , . 
+. :     
+     ,        
+ techniques    ,           .    ,         ,    ﬁ      perception  .    ﬁ    [Organization]         .  ﬁ            ( ). 
+. :       techniques  
+               (techniques ).     personality,                process,    [], []  [].    ,      (, , ..., )    (, , ..., ).    techniques -  ,           ,            .    ()      
+://.// 
+================
+        extrinsic_rewards ﬂ    . 
+.    
+     []   certainty_effect     , ﬁ    . ,     ,     []    perception     .   ,  ﬁ     ,     perception   []. 
+ﬁ :                    .  (, .., ) ∈        (, .., ) ∈      ,   ≤ + , : 
+ = (, , ..., , )          [action]         . 
+                          .                (= +),      ,      .    ﬁ          ,    τ()< τ()< ..< τ(),  τ    . ,         .           (   ),        
+   (   )     . 
+.   
+           , :: ,   , ,    ,,     ,,,.           ,      ,    Collection            .          ,     (  ): 
+• :      
+   ﬁ    
+ (  ) 
+• :      
+       
+ (ﬁ , ,  
+, .) 
+• :     
+ (, , , .) •  :     
+       
+      simplifying  
+    
+• :       
+      
+ 
+• :     
+ personality       
+      
+ 
+    ,           % 
+://../ 
+================
+ # # techniques% techniques    ,, .    ,, .    ,, .     , .    , .    , . combining  ,,  
+ :        focus 
+ ,            .% (            ). 
+                intelligence          .  ,  focus      .     ,   (                )      : 
+•      
+        
+   .  
+:  combining   /, 
+    ,   
+       
+  /,    
+      
+  / extrinsic_rewards. ( 
+      
+   ) 
+• techniques     
+   .  
+:       
+  techniques     
+/,  combining    
+/ /  techniques,  
+, perceived_uniqueness (  techniques  
+    )   . (     ,,    ) •             .   ,   :  combining /    ,       / extrinsic_rewards,    /        ,  ,            . (     ,,    ) 
+•           .    :      /   ﬁ       ,  combining /   ﬁ   ,       ,           ﬁ   ,         ﬁ                 ,   . (     ,,    ) 
+. :         
+================
+.   
+. ﬁ  
+  ﬁ     perception,      . ,      - ﬁ,    ( ),          ,  ()          .  ﬁ      process (  ).         ﬁ.   ﬁ       ,           personality ﬁ     []. 
+. :  :   ﬁ 
+   ,    ﬁ      ( ),    isolation_effect  ﬁ,      techniques,  ,         (+ + =  ).     ﬁ  ,     ,             ﬁ,       ()   . ,   ﬁ  ﬁ     ﬁ  ﬁ           (          
+    ﬁ  techniques,  ,  ).    perception,          ,    ﬁ      .  ﬁ    isolation_effect  techniques,             ( )     ( )     /.             techniques,  ,   ﬁ  (  ).  ,           ﬁ techniques,  ,        - ﬁ     ,  . 
+. :  :   ﬁ 
+ﬁ                 .      intelligence ( )     ,   combining        participant_modeling          :                      .           : 
+================
+∀ξ ∈ 
+ ξ| 
+ 
+=
+ ξ| ∗100                (=    focus ).   ξ|            ξ         ,   
+ 
+=
+ ξ|               ξ. 
+         (         )    ,    physical_quality   ﬁ        .           ,      .                ﬁ ﬁ,   ﬁ,    process ( )      .       ,    ﬁ   techniques,  ,     ﬁ  ,      . ﬁ,   ﬁ              evaluating   .              ,   [function]  appraisal     isolation_effect        .              ,   evaluating   .    
+  ∈ 
+ 
+ 
+  
+.    #  = #   = #   = ,, 
+.   
+#   =  
+[, , , , , ] 
+techniques 
+ 
+ 
+... 
+ 
+     ...  
+.  
+ 
+. 
+ 
+. 
+... 
+. 
+     ...  
+........................ 
+........................ 
+........................ 
+........................ 
+ 
+.  .   .   
+     ...  
+        
+...  
+.   
+       ( ) 
+  
+    .         .      . .........  .  
+.  &   
+             
+ ...  ...  
+   
+. 
+ 
+... 
+.  
+... 
+ 
+ 
+  
+ 
+ 
+ 
+ ...  ...  
+ ...  ...  
+ ...  ...  
+ ...  ...  
+ ...  ...  
+ ...  ...  
+.  &   
+         
+      
+ %%%%% 
+ . . . . . . 
+  . . . . ......................  . . . . . . 
+  . . .  .....................   . . . . . 
+% . ....  ... . 
+ 
+  
+. :            techniques  
+         . 
+. appraisal  
+ ﬁ        ﬁ     process.  [goal]     simplifying                  []. ,   ﬁ  ,        .              . 
+        personality                 intelligence   (ﬁ). ,                      
+================
+  .   process     ,        ,    .   process,     : 
+•   ﬁ    
+       
+combining       
+  
+•      certainty_effect  
+    combining   
+ certainty_effect   .  
+  appraisal   ﬁs  
+        
+,       • a_memory   appraisal    - 
+ﬁs      
+    
+•        
+  a_memory.     
+  ,       
+  a_memory 
+=  ∗ 
+ ∗ a_memory 
++ a_memory •   ﬁ 
+()      
+      
+,    
+.     −1  
++.  ﬁ  +   
+ ,     
+  −1   . 
+   [],      
+        
+   × ,     
+ :
+ 
+ =( )( ) 
+  ,|=
+ 
+= 
+   
+ −  
+  ∗           ( )    ﬁ          ( ﬁ)    .       /      =       , a_memory    mental_calculation  ﬁ . 
+.    ﬁ 
+          ,      () ()   @ . ,       , ,       .   ..,              .   ﬁ          .        . 
+.  
+   ﬁ     ﬁ ,          (.% )   (.)       ﬁ,      ( ). 
+ =
+ 
+://arousal ../ 
+( )( ) 
+://../ 
+://./ 
+ 
+ 
+,|= 
+://./ 
+================
+,        - ﬁ (.  .),     ﬁ   personality   .         perception,           ﬁ-     . 
+ ﬁ % %     . . .     . . .     . . .   ﬁ . . .    ﬁ . . .    ﬁ . . . 
+ :    ﬁ  ﬁ        ()   ﬁ           ﬁ 
+judging   techniques,      ﬁ    ,            ﬁ             ﬁ ( >%   ). ,      techniques ,    ﬁ  techniques         ∼ %.    ,          ﬁ      .    - ﬁ           ,          ﬁ . 
+ ﬁ ﬁ  ﬁ       ,     intelligence                 techniques, 
+      
+ techniques%  %  % 
+. . . 
+. . . 
+. . . 
+ :    techniques,      ﬁ       
+          .    ( )          ﬁ           .     gain -  ﬁ       , satisfaction_of_needs      % ( ∼ %  ∼ %          ). , ﬁ       ,       .%  .%        .,     .   ,     , a_memory       ()   ﬁ () ﬁ   ﬁ .       ﬁ   -    ﬁ   -         (        ). ,                    intelligence  .      ﬁ    personality          perception ( >.). 
+       ,   - 
+================
+                     
+      a_memory  
+ . . . 
+ . . . 
+ . . . 
+ . . . 
+ . . . 
+ . . . 
+  . . . 
+  . . . 
+     
+  . . . 
+  . . . 
+     
+  . . . 
+  . . . 
+  . . . 
+  . . . 
+  . . . 
+     
+ ﬁ   a_memory  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ :  , a_memory           
+ﬁ   ﬁ     ,        ..          ﬁ   .              , a_memory     .   ﬁ      ﬁ    .     ﬁ        ﬁ impact  ﬁ    gain - ,               .                 . ,                       .     internalization      ,        .          
+. :        ﬁ 
+ internalization    ,           . 
+        ﬁ     ﬁ   ﬁ.  ﬁ        ﬁ      techniques,     .      ,  ,    ,     ,   ﬁ.           ﬁ (ﬁ    )       . 
+================
+. belief      ,               . ﬁ,                       (  techniques )                . []     ﬁ        extrinsic_rewards  .  ,            .%      .%     ﬁ-  ()  .              perception. 
+ ﬁ              (, , ,   , , )  , a_memory      ..   . []          ﬁ,   focus  segregating   techniques ﬁ.   . []            . .   gain -    perception   personality         combining     . 
+ perception    ﬁ-     "ﬁ "            ﬁ ﬁ,        . 
+ ,         ﬁ  ( techniques,     )  ﬁ           =           ﬁ .  ﬁ ﬁ       ,      %       .     focus  judging      ,     simplifying         satisfaction_of_needs   ﬁ .     process     . 
+     perception                            .    isolation_effect        ﬁ      . ,                   ﬁ     ﬁ .      focus                           . 
+ 
+        extrinsic_rewards         ,     ""  ( perceived_consensus  ). 
+================
+ 
+[] , ., , .., , ., , ., , 
+.: mental_calculation    . :    
+    . . .  () [] , ., , ., , .:      
+ . :       
+ (). . .  () 
+[] , ., , ., , .:   
+    . :      
+      . . 
+.  () 
+[] , .., , ..:        
+     appraisal.    
+  (),  () 
+[] , .:    :  appraisal    
+   . :     
+     . . .  
+() 
+[] , ., , ., , ., , .,  .: 
+ :  .   (), 
+ () 
+[] , ., , ., , .: impulsive_effect  techniques 
+. :        
+   (). . .  () [] , ., , .., , .:    . 
+  :. () 
+[] , ., , ., , ..: , ,  :   
+ [activity]  ﬁ  ? () [] , .:        
+ ﬁ.     (), 
+ () 
+[] , ..,  , ., , .., , ., 
+, .:  :       
+    . :    
+       () 
+[] , .:      
+. :   ,  impulsive_effect 
+,   belief, . .  () [] , ., , ., , .:    
+  behavior     .  
+.  ,   () 
+[] , ., , ., , ., , .:  
+    .   :. 
+() 
+[] , ., , ., , .:      
+    ﬁ. :    
+    . . .  
+() 
+[] , ., , .., , ..:    : 
+   . /    
+    () (),  () [] , ., , ., , ., , ..:   : 
+appraisal       . :  
+      (). . . 
+ () 
+[] , ., , ., , .:       
+ . :      
+ ,     (). . 
+.  () 
+[] , ., , .:    . 
+:        
+. . .  () 
+[] , ., , ., , ., , ., , 
+., , .., , .:  ﬁ  :  
+     . :     
+   appraisal . . .  
+() 
+[] , ., , ., , .:     
+  . :       
+(). . .  () 
+[] , ., , .:   :   
+================
+  perceived_vulnerability. :     
+   . . .  () [] , .:     () 
+[] , ., , ., , .:  perceived_vulnerability    
+. :      
+  . . .  () 
+[] , .,  .: :    extrinsic_rewards  
+() 
+[] , ., , ., , ., , ., , .: 
+    () 
+[] , ., , .:        
+  .   :. () [] , ., , .., , ., , ., , .., 
+, .., , .:        
+[action]  . :     
+   . . .  () [] , ., , .:        . 
+:      , . .  
+() 
+[] , ., , .:        
+[action] . :      
+  . . .  () 
+================

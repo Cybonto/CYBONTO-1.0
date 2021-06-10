@@ -1,0 +1,254 @@
+  :    
+   perceived_vulnerability 
+  
+    
+    ()  
+#  
+perceived_responsibility#  
+    :   -   
+      
+ : 
+..  . ,     
+  
+   , ,   
+:   :  
+  :  ,     
+  
+ ,    
+  
+   , ,   
+:   :  
+  : 
+..  . , ,   
+    
+ .   ,   
+:  :  
+ : 
+   ;  ,  . 
+     process         loss 
+  perceived_responsibility  . 
+ : 
+  
+:  : .@. 
+================
+   
+   .  
+  perceived_responsibility   Collection          ,      ,    ,      ,      Collection  .     perceived_responsibility appraisal       Collection  ,      perceived_responsibility,    ,      ,    ,  ,   .           ,               Collection     
+        . 
+.      
+.    
+.    
+.   
+   -    
+  :      
+ perceived_vulnerability 
+. () 
+ . ,  .  
+.  [Organization] ()  techniques () 
+. perceived_responsibility   
+.   
+.    
+.   
+. task  
+.    
+.  [Organization]   
+ ,  .  , ,      ,    ., ,  
+ 
+. /  ()  techniques () 
+          
+   , ,   
+. /  
+   ,   
+.   
+ intelligence    . 
+. isolation_effect 
+. / ()  
+. /  () 
+ 
+                         personality           .  focus                    , combining  protection_effect  behavior .     personality     :   ,  ,   .                :        ,             .                opportunity_for_criminal_acts :  .       personality         learning,   . 
+.   
+ perceived_vulnerability,  ,  , ,   
+.   : 
+.   
+. isolation_effect  
+.    
+.   isolation_effect 
+ 
+.    
+ 
+.     
+================
+isolation_effect 
+                         personality           .        (  ,  ,     )       .      ,        ;      ,       .  focus                    , combining  protection_effect  behavior . 
+   mental_calculation                       . ,          ,           (   )        .   ,  behavior           , ,      .                self-efficacy       intentionality.          ,    isolation_effect     .    isolation_effect          .   ,   process ,                  . 
+    personality     :   ,  ,   .                protection_effect.             :        ,             .                opportunity_for_criminal_acts :  .       personality         learning,   .             . 
+================
+.      
+, ,  personality        personality   .                         :           .    ,          .           :     intrinsic_rewards      intrinsic_rewards.    behavior_control-ability        intrinsic_rewards   .     intrinsic_rewards   :    perceived_vulnerability.      personality ,             intrinsic_rewards   .   /  appraisal  %           .         ( )   ( )     simplifying  perceived_vulnerability    . 
+,              .                  personality .    ,        personality    : 
+.         (..  ,   .) .        (..    
+) 
+.        (..   , 
+    , .) 
+        ,    : .   ,               simplifying.     ()                 . 
+  combining  extrinsic_rewards            evaluating       protection_effect .         ,    :       ();           ;         .   ,       . 
+================
+   ,       ,            : .  -    ,    -      .               .                  ,         .           personality    . 
+          .           . 
+  -          
+                                .           . 
+.      
+           (,    ).              . 
+         ,          .  perceived_vulnerability                . 
+================
+    ,        mental_calculation. ,       .                     . 
+..   
+             perceived_vulnerability  perceived_vulnerability   .                personality    ().  (      )             combining      .                             personality .  extrinsic_rewards             .    extrinsic_rewards      isolation_effect            .  , ,      participant_modeling                 .      " "  isolation_effect   .      intrinsic_rewards        . 
+.       
+             personality , ,    personality  .                    .       ,  ,                .    fear_arousal       personality    . 
+..   
+             , ,     .    ,         (   )  protection_effect         (  )   .  Interception    protection_effect   ,          .      Interception ,      -     -  :            . 
+================
+.      
+              .            ,                perceived_vulnerability   learning     .  ,  , ,     personality            [exposure]      . 
+         .             gain    personality       persistence . 
+..   
+   personality  [exposure]     protection_effect        .       perception. ,     Interception              .          % - %      .          ,   impact               personality     process   .         :   .   ( Interception)          personality    .             (   ).          [capability]   . ,           . 
+.     
+            participant_modeling   . ,      protection_effect       .                 .         possibility_effect     .   fear_arousal               .  self-efficacy     intrinsic_rewards     
+================
+ .       combining         ,      . 
+..   
+             .                .     .          ,         .               "   ".      ,                           learning   personality .          .    Interception    " "         .  ,              participant_modeling     .     extrinsic_rewards                    .  gain     ,          combining           .  "isolation_effect"     ..                , combining   ,   isolation_effect    . 
+.     
+ 
+        combining        .      intentionality              .                Interception    ,   simplifying            .         " "        . ,           personality        . 
+.    
+         ""   ,              source  ,  ,   .  combining  behavior,       
+================
+      .          ,   mental_calculation           .                    . 
+..      
+  comply_effect        .          : 
+).    source   . 
+                 .     [policy]         .         ,        (.. ).              (..  [policy]              ). 
+).       [Organization] 
+                    [Organization ].                      . 
+..         
+        .                .            ,         .  , mental_calculation          participant_modeling       .  [action]      .  mental_calculation            participant_modeling.  [action]        ,                 behavior.      : 
+).       
+================
+           [Organization]      .    participant_modeling  [action]       ,    [activity ].   , ,                         .   ,            . 
+..     
+             learning  . ,  ,     .     personality ,       protection_effect                              . ,          source  ,  ,                 [Organization ]. 
+).  . 
+                         .            . 
+).   personality   
+      [activity]  .                    .                          .       personality                      . 
+).   .
+ 
+
+        " "       process     learning, ,   process      personality . 
+================
+               ,                 personality . ,      ,                    . 
+).        source  / . 
+               source         ()   .    possibility_effect         source             [knowledge ].               intelligence []       . 
+). ""    
+                  .  [policy]                         . 
+.. situational_circumstance  
+             −        .     personality .         ,              process.         process,         .  gain             .       [activity]    situational_circumstance   .         : 
+).           /. 
+================
+              .         segregating          .    protection_effect                     . 
+).    "" . 
+,       ,   segregating  satisfaction_of_needs             .    protection_effect       personality    (..         ). 
+).      "" . 
+ [resource] [policy]                            .    " " .           . 
+).   
+               personality perceived_vulnerability.               persistence      .             , /    satisfaction_of_needs  . 
+).    
+  ,      .           [knowledge]           personality       .             , / protection_effect   satisfaction_of_needs          . 
+).     Interception  
+================
+   ,  Interception  Hooking      [function] ,  ,  ,         .  [capability]    Hooking    personality .                       protection_effect   . 
+).   
+                .                            personality . 
+                    .  .. 
+.  
+ protection_effect                       .              personality .                                     .       mental_calculation.                     .           .       .          possibility_effect       ""           process    .     .  [goal]           impact    .              Interception .                 . 
+          .                    (  ).                .              . 
+================
+  -            
+ . 
+. personality    
+    [capability]              personality . personality                    combining        .       ,    persistence             .       ,  process        : 
+.       . . protection_effect       . .   . 
+.            . . combining      . 
+         /  /      .    
+================
+                                           .           . 
+      ,          .       . 
+..    
+    ,                      .    ) combining   , ) combining   ,  ) combining   .  gain,                . ,     protection_effect    ()            . 
+...        
+ combining ,                       : 
+ :          . 
+================
+        ,  ,  .        isolation_effect      . 
+ :                
+. 
+                     .    ,           .       ,     .  ,                   . 
+ :               -    
+  -    . 
+      .                .         (       ),   combining       combining    .                  ( ). 
+================
+ :    combining      
+,      ,    ( ). 
+ :            
+             .  ,            .   ,            .              ( ). 
+================
+ :             combining      
+  . 
+            .              "  " .          ,       ( ). 
+ :           
+              .     isolation_effect  ,           ( ). 
+================
+ :      isolation_effect   
+      .       ,    , ,  ,  learning . ,       learning      .     [action ],   combining        ( ). 
+ :           
+          ( ). 
+================
+ :           
+        ,   , ,   protection_effect        ( ). 
+ :         
+         ( ). 
+================
+ :                
+             . 
+.   [ ] -                 
+            perceived_vulnerability          .                           personality       appraisal      loss     impact.  [experience]                 .  ,              .  ,                           ( #  )       .                                 . 
+       ,             appraisal    personality      perceived_vulnerability.                 -      " " -    . 
+================
+.   
+                perceived_vulnerability.  ,          .                 . 
+            extrinsic_rewards .         ( ) perceived_responsibility      (     ).  gain        : 
+     
+%         
+  personality  
+. 
+%       
+     
+ perceived_vulnerability. 
+%         
+   personality 
+   . %       
+     %        
+   
+%         
+    
+      
+. 
+      -    ,  
+      
+     
+   . 
+================

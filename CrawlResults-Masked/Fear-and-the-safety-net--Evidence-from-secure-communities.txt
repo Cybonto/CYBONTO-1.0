@@ -1,0 +1,775 @@
+    
+fear_arousal    :   protection_effect  
+    
+   ://..// 
+     
+   
+,   
+ ,    
+       ,   ,   ,    , , , ,  ,    ,  , , , ,    ,        ,    ,   , , ,        personality   .  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,          .  ,  ,  ,  ,       .                .  Collection       focus                 ,       extrinsic_rewards     .        [policy]     [policy]  .                       . 
+         .                      . 
+©       .   personality. physical_quality   ,     ,          perceived_responsibility,  © ,     source. 
+================
+fear_arousal    :   protection_effect       
+   .  
+ ,    
+ . ,,, 
+isolation_effect 
+       fear_arousal      protection_effect  (),     ,          .  appraisal               ,       .      impulsive_effect   ,     .           .           fear_arousal     extrinsic_rewards , appraisal ,  . 
+  
+      [policy] /   ,   ,   
+  
+@. 
+       ,     
+@.. 
+      ://..// 
+================
+.  
+personality                         ( ,  ).         .  ,                   (, ,   ). ,               .  ,    ,  participant_modeling          (impulsive_effect)   .          perceived_vulnerability    (, ,   ; , ,   ),   participant_modeling       gain ()   .     . 
+       ﬂ  ,   [action] , ,   (..  ;    ),  gain         (   ;    ;   . ).         ,       ﬂ       .  , , ,   () focus perception   role    participant_modeling    ,       . , ø,   ()              ,     () ﬁ    ﬁ         ,          ( ).  ..-based  , ,                fear_arousal. 
+  ,     fear_arousal        , ﬁ   .       fear_arousal  .          ,       ,  ,       .       fear_arousal,     ,  ,        perceived_vulnerability         , ,   .  
+        ,    . (); , ,   (); , ,   ();    ();  ();   . ();  (). 
+    . (),       ,                      .                ﬁ (    .         ). 
+       .  gain,     impulsive_effect,   participant_modeling   .     .    ( ; ﬀ ). 
+           . ﬁ,       : () "   ,     ,          
+ 
+================
+  ()              simplifying     participant_modeling   .  ﬁ       ,    ,  fear_arousal              .      , "                    ,      ."             ﬂ          perceived_vulnerability    . 
+  gain   ,  focus           protection_effect  ().               ()    ,    .                   ﬁ              situational_circumstance   .   arousal     ,        ﬁ , .  ﬁ ,   ,      .                 combining     ,       history . 
+       ﬀ      ,      vicarious_experience  ﬀ,   focus   .   possibility_effect  ,    ﬀ   ﬀ  possibility_effect              ( ).      ﬁ             .   ﬀ     ,           ﬁ   fear_arousal   .   ﬀ           (   ;   . ;    )          ()  , ,   (). 
+  , vicarious_experience  ﬀ   ,      personality ﬁ   fear_arousal    .   , vicarious_experience  ﬀ appraisal  ﬀ  possibility_effect               (..   ),          ,     ,   
+           ?"  () "    ,                perceived_vulnerability          ,    ?" 
+ ://..///. 
+       ://. .//// . 
+  ,     ,       . 
+ 
+================
+   .     ﬃs      (),     ,      vicarious_experience  ﬀ     perceived_uniqueness     . 
+ appraisal  ﬀ,             (" ")       .          ,  ,        .  combining              (impulsive_effect ),     ,      gain ().             ()       focus  gain  ().  focus                 ,    appraisal vicarious_experience  ﬀ. impulsive_effect                         .     ,  focus              , ﬁ               . 
+ appraisal  impact                       ﬀ ﬀ.                    .     ,          arousal.   ,                  ,        ,     arousal.   ﬁ belief  possibility_effect,               ﬂ  personality             . 
+ arousal             .   ,    .           arousal  .   evaluating           arousal    ,           arousal.     .           arousal,          .         , ﬁ          . 
+   ﬁ      . ,      belief    perception,  ﬁ              arousal. ,   ﬁ       ﬁ ﬀ  techniques  possibility_effect fear_arousal       
+ ﬁ    ﬀ            . 
+ 
+================
+  ,  ﬁ ﬀ                 (    ),   ﬁ ﬀ,  ﬁ ﬀ,   [] -            ﬂ         (, ,   ;   . ). ,     ﬀ   -                ﬁ,    belief       ﬀ  behavior       ﬀ    . 
+  focus   vicarious_experience ﬀ,  focus          .                   . ,         ﬁ     ﬁ   ﬁ       ()          (  . ).              . 
+ techniques  appraisal ,               .      . () ,  ﬁ                       .   mental_calculation      appraisal             ﬃ   , ﬁ        .. ,              physical_quality      .       ,    , ,   (),     .      ﬀ       impulsive_effect ,  ﬁ           . 
+      ,   possibility_effect        simplifying                 .    ﬁ ,  ,  ﬃ     fear_arousal     . fear_arousal           (   ).                        .              participant_modeling      .  ﬁ 
+                ()  segregating      . 
+ﬁ,  ﬁ        : ()     ?; ()           ?;  ()        ? 
+      ﬀ    . 
+ 
+================
+          . ,  ﬁ             (.. )  impulsive_effect       ,    loss   personality  ﬀ     . ,    fear_arousal    arousal ,      ,        . ,           (.. " "),  arousal     ﬀ. ,     participant_modeling     ,       perceived_vulnerability          ,     . ,   ,   arousal,          ,      perception      fear_arousal   possibility_effect . 
+       .       fear_arousal     [knowledge ],             behavior_control-ability ﬀ     ﬁ.    perceived_vulnerability     ()   ﬀ              arousal.            ﬁ.      (),  ﬁ           :                   arousal.       perceived_vulnerability                  ,  ,  ,    .  gain,    ﬁ ﬁ ﬀ    ,    ﬁ           . 
+ combining,  ﬁ               ,    fear_arousal      .      fear_arousal    role          ,          intrinsic_rewards   . 
+       ﬁ  , , personality ,   .   judging  ﬀ       -  ,              .  ,  ()     () ﬁ            . ,    () ﬁ   , ,   () ,       ,   .    ,        ﬁ      gain  perceived_responsibility (   ).         ﬁ  appraisal 
+         fear_arousal    perceived_vulnerability   
+ 
+================
+  vicarious_experience ﬀ       behavior   . 
+,  combining                    (    ),      gain   ﬁ,     (      ;     ). ,       fear_arousal,          ﬀ  fear_arousal   behavior ( ;    ). 
+  gain  .         .           focus.              ﬁ .     ,    possibility_effect ,    . 
+.   protection_effect  
+protection_effect                 .          isolation_effect          ,         ﬁ   ,       /   syllogistic_rules   .     : ()  combining      , [],         personality  ﬀ     ; ()      protection_effect perception       personality  ﬀ;  ()          .          []     ,      ( ),       ( ). 
+,          []     ,    ﬁ       .     ﬁ        ,      []   .      ,        ﬁ        ,     ﬃ   [policy]       ()   ﬃ      ,   () .    ,      ﬃ               ,           (   ). 
+     ﬁ .  , ﬁ           . ,    ﬁ 
+              ( ; , ,   ),           (   ).    , ó,   (). 
+               . 
+ 
+================
+          participant_modeling              ( ... Ÿ()()).  ﬁ           ﬁ  (),               : ()         ,        /   ; ()                       ;  ()      ﬁ      (    ).    ﬁ   , ,  ,  gain        behavior_control-ability   , ,      ;         .              ﬃ        . 
+    ﬁ ,      ﬁ    perceived_uniqueness  gain   personality              .    possibility_effect   ,        "" (   " ")   .      []                         .       ,            (               )    .     () ,           learning       , situational_circumstance   .    ﬃ     ,   ,          [action]   personality      belief, ..,  ﬁ                     . 
+, []          .  ﬁ                ,           comply_effect  ﬁ    .    ﬁ ,           : "protection_effect          []       combining        ,        ."            []  [] ﬁ ,     perceived_consensus ()       [] ﬁ  ﬃ. ,     , 
+ ://..///////. 
+://. .///// . 
+   ://..////.. 
+ 
+================
+  ,  ,        .              impulsive_effect ﬀ     .   intentionality  ﬁ     "      protection_effect    ."  ,  ,    ,         " ,"      " "   "  intentionality               ...   []        ﬁ     ,  perceived_consensus   []            participant_modeling    ." 
+    ,          .       (),                ﬁ .             ﬂ   .      , ,       .                  , .    ()      arousal          ,     ,       () perceived_consensus  , ﬁ       ﬁ  . 
+   ,         ,         ,                .      " ." 
+  , ,    segregating       [policy ],         .    segregating,        "  " ().  ,      ﬁ-based       []     . ,            ﬁ-     ﬀ,              [activity]   ,          .  gain,                  ﬁ         ﬃ possibility_effect   ﬁ     .   , ,       . 
+://..///.. 
+ .   task   protection_effect :   , ://. ./ //.. 
+ ﬁ    ,    ﬃ       ,        ,         .            ,  ://./  ://../. ,         ﬂ            .            .   opportunity_for_criminal_acts  .  ://. .///ﬁ//.. 
+ 
+================
+,          .             ,         ,     gain. 
+.    
+  focus,  focus    impulsive_effect  ,         . impulsive_effect                    - $  -   ( ).        ,   .  ﬁ    .   ,      $    extrinsic_rewards ﬁ   (   ; , ,   ). ,          ,     appraisal vicarious_experience  ﬀ.      . 
+impulsive_effect / :      (impulsive_effect ),       ,     extrinsic_rewards        , impulsive_effect   $ ,          perceived_responsibility ($ )       ($ ) (  . ). impulsive_effect                        , ,   .                         (  . ;    ; physical_quality ;    ). 
+    ﬁ  impulsive_effect,       .  ,      gain        . ,       $,    ($,        ). 
+           ﬁ.  , ﬁ   (..      ﬁ      )    impulsive_effect         ﬁ ,      ,       ,  gain   gain  [resource] .    ﬁ,       ,       impulsive_effect .   ,    ﬀ   impulsive_effect      ,  ,          ,        
+ ://.../impulsive_effect /#. 
+     impulsive_effect gain , ,         , ,    []   .         ,        ,          .          .  ://.../impulsive_effect/ . 
+ 
+================
+ﬁ.        ,   ,          .   ,                ﬁ   (protection_effect) ,   simplifying ﬁ .     [] impulsive_effect       . 
+   protection_effect                   .  ,           "     ...,       ." ,     impulsive_effect              .   impulsive_effect           , "     ...    ,     .           .       ,          ." 
+:   gain (),       (),    extrinsic_rewards      (   ,   ).  gain   ,         $    ,        ﬁ  []  ﬁ (  . ).   ﬁ     ,     physical_quality ,          ,            .    , combining  ﬁ          ,   $.   $.     (  . ).         gain ﬂ           ﬁ      .  ,     ,     source  gain (  ).         ﬁ  personality      (   ). 
+    ,           gain  : .  ,   " gain"    ﬁ evaluating     .     :       $,    $,   combining.  impulsive_effect,   ,  ,  "ﬁ "    .       . 
+    ,          : physical_quality,   .          physical_quality    physical_quality   .     ﬁ      
+ ://.../////.  ://. ./ //////.. 
+ ://../////// /?=.. 
+ 
+================
+/ perception             ,      perception     . 
+            ﬁ ﬃ,      gain /:   . []  ,      ,   .     self-efficacy,         participant_modeling    [activity]          loss       loss      .  process   self-efficacy                     loss.     segregating    . 
+  impulsive_effect,    ﬀ         , ,           .            .     belief                      ﬀ  combining     ﬁ. ,           fear_arousal       ﬁ-granting ,        ,             self-efficacy               . ,        ,    ﬁ           ﬁ      . 
+.   
+   ,   ﬃs ()                 ﬀ    .              -   .     loss   , ,     loss           .   ,       ﬁ     ,         ,      loss   ,         .          ﬁ   physical_quality       ,        physical_quality     . 
+ ://..///.. 
+  perceived_responsibility       ,   , Ÿ.       participant_modeling                    ( ... Ÿ()).  ://protection_effect ../. //. 
+ ://..////. 
+ 
+================
+       ,       ﬁ     loss      -     vicarious_experience  ﬀ    combining   .  ,        ,       ﬁ  . ,          ,            .   ,              perceived_vulnerability  . 
+.     
+ [goal]   appraisal   ﬀ             .   ,        ,   ﬁ     belief,  techniques appraisal . 
+.  
+     :      ,    ,    ,                              (  ,  ).               /,      ,       ,     ,     (physical_quality  ).           ( )       ﬁ       ,  gain         ﬁ         . 
+       combining                    .                 .  ﬁ       ( )       .          ﬀ (..  ﬀ)  personality, impulsive_effect ﬀ   ,  ,     participant_modeling     .                  ,     certainty_effect       .    . 
+    gain   .     ﬀ-in-ﬀ appraisal   impact   arousal     .       (),  ﬁ   arousal   ﬁ ﬀ  ﬀ 
+         perceived_uniqueness  vicarious_experience    ﬀ          . ﬁ,       vicarious_experience : 
+(+)()
+ 
+= 
+() 
+ 
+,    : 
++ 
+=  . 
+ 
+================
+   .  ,  ﬁ ﬁ      ﬁ    , ﬁ ,     arousal.  focus appraisal   impact           ,       gain            arousal      arousal. 
+  :                (  . ).  focus                    .                      , ,   .                   ().     ,        [] .   arousal         ,  isolation_effect           ﬀ      . 
+ focus  gain :        focus  gain  ()   ( ).     ,        .                        .         ,                                 .                    ﬂ       ( ).      ,   ,  ,        . 
+  :  appraisal perception    fear_arousal    ,           .                               .    , ,   (),         ,        participant_modeling   (  )     :
+ 
+(; )=  
+participant_modeling (; )
+ 
+(; ) 
+#(; )>  () 
+ participant_modeling (; )   participant_modeling       ,                   ,  (; )   
+                  .  ://..../////  ://../ /..           . 
+ 
+================
+ participant_modeling         . ,   , (; )            participant_modeling         certainty_effect             ﬃ     . 
+              : , , , ,  ,    , , .    (.. , ,   ),     combining                personality    ,   "" ()  " " ( ).     ﬀ            . 
+.   
+         arousal        impact      . ﬁ,  appraisal       arousal ﬀ      /             . 
+       ,         ,  appraisal   ﬁ: 
+=+ + (  
+   
+ 
+)+ ( )+ +   
+ 
++ + +  
++ 
+ 
+ 
++ 
+ 
+(
+ )+ 
+ 
+(
+ )+  
+() 
+   /,   ,   [],    .      .    participant_modeling        .   ﬁ,                   role  arousal (    ),    ,  ,        arousal      .          ﬀ  ,          ,           .  ﬁ   ,       ,      . 
+  ﬁ ,           , .      .             arousal  .        ,          .      evaluating,   ,  participant_modeling ,    evaluating    , ,  .                . 
+              ﬀ   . 
+ 
+================
+   ﬀ   .  ,   extrinsic_rewards       ,   extrinsic_rewards            ,  (  . ).  ﬀ extrinsic_rewards ﬀ   ﬀ          (  . ).     perceived_vulnerability    /         . 
+ ﬁ ﬀ ()      ﬁ   [] - ﬁ       ﬂ ,      []                 (   ).  ﬁ ﬀ    ﬀ  ﬀ    .   / ﬁ ﬀ ()         []  ﬀ ﬀ  .  ﬁ ﬀ ()      ﬀ ﬀ ﬀ  ,      . ,    ﬁ ﬀ ()          ()       ﬀ  ﬀ         ﬁ        . 
+,      , ,            ,        ﬀ ﬀ   ,   .                  (   ,    ,    ).     ﬀ,   /       ﬀ     (, ,   ;   . ).  ﬁ        .                 .    ,  , ,        ,    ,  ,       . 
+   ,  physical_quality     combining      .      appraisal   ,             .              .        . 
+ appraisal   (vicarious_experience) ﬀ   fear_arousal,      ,         ,        .                         gain  :               . 
+    . , , ,   () simplifying       combining      ﬀ      . 
+                 
+ 
+================
+ ﬃ       ,  appraisal  impact   arousal          ,        .      ,   ﬀ                      . 
+  appraisal   focus ﬁ,             ,         arousal.    ﬃ   appraisal   ﬁ         : 
+   
+=+  
+ 
+(;=)+ ( 
+
+ ;=)+ ( ;=)+  
+=  =  =  
+() 
++ + + + + 
+ 
+ 
++ 
+  
+ (
+ )+ 
+ 
+(
+ )+ : 
+  ﬁ, ;=       (      arousal = ),     ﬃ                arousal    . ,   ﬃ                arousal.   ﬁ,         ﬁ   ,      ,    evaluating   ﬀ  . 
+ﬁ:  ﬁ belief    perception           arousal        ﬀ      ,     .   ,     ﬀ                  arousal, situational_circumstance     ﬁ ﬀ  . 
+ gain        focus ,         . ,                       self-efficacy    ﬁ   . ﬁ,      ﬀ      ﬁ ﬀ   arousal  , [] ﬁ ﬀ,  ,     ﬀ.        .      ,          ﬁ   arousal   ﬁ ﬀ.              .      ﬀ,  ﬁ    ﬁ ﬀ   arousal .  ,  ﬁ     ﬁ ﬀ            arousal .   protection_effect 
+               . 
+  ﬁ           ﬁ   , ,   ()  . 
+ 
+================
+              ﬀ       . ,         ﬁ-            .             arousal ﬀ    ﬀ     ,             .. 
+,                  ""  arousal    ,             "" arousal .     arousal ,   appraisal   ﬁ,  ,     .    ,         ﬀ  , ﬁ     ﬀ        (  )         appraisal, .      arousal      ﬀ     . 
+  arousal :                  arousal ﬀ  ,          ﬀ     arousal       .  ,         [activity]       gain,   [activity]   ,               ,  -         ﬁ ( ).    ,            (       ),                     ,         ﬁ. 
+       arousal,           arousal  ,          .  ﬁ       (),  ﬁ   arousal      -    [goal]      isolation_effect   - ,  arousal        ,     () perceived_consensus,     . 
+     simplifying             arousal. ,                               . ,                ﬀ   arousal. ,     ,             
+ ()                   ,       . 
+ 
+================
+       . ,         ﬃ    combining    ﬀ  .       ,        ,  combining     ﬀ      : ()    , ()      , ()  ,  ()             () perceived_consensus.              arousal .            arousal  . 
+  ,      syllogistic_rules   arousal    , personality      ﬁ ﬀ   .       arousal          ,       arousal.  ﬁ        arousal    arousal (  ). 
+. appraisal 
+appraisal  :   fear_arousal                 .               ﬁ    $,,    behavior             .       fear_arousal    ﬁ . ,             ()       ﬁ      ﬁ  (  . ),                  ﬁ    . ,                 . 
+,                ,                     . ,     ,     . () perception                            . ,             ,                     .     (    ),                  
+  ,     ﬀ,   perception     ()     arousal              .       ﬁ-stage syllogistic_rules (= .)   perception,  ﬁ   appraisal. 
+     ()  ()    . (). 
+  . () ﬁ  %           %    ,         . 
+ 
+================
+       .  perception   personality           . 
+,    ﬁ         .               . (   ). ,   techniques  fear_arousal           ,    ﬁ     arousal ﬀ  participant_modeling          (  ). ,   gain                           . 
+appraisal   :  gain  appraisal      ,         . , ,   ()              ,       ,              .    ﬁ    ﬀ     ,     appraisal       syllogistic_rules      .           fear_arousal     ( ). 
+  , fear_arousal    appraisal             .          fear_arousal,  appraisal               gain   .   ﬀ   ,    ﬀ [policy] . 
+ mental_calculation       ,        impulsive_effect      appraisal  .     impulsive_effect                (,  , , ).    ,  ﬁ   appraisal          ﬃ   appraisal. , ,                 /  (   ).   ﬁ    ﬁ                    ﬁ  (     ).  ﬁ     segregating ﬀ     . 
+  ,   ﬁ               arousal. 
+        ( 
+^ 
+=  fear_arousal ), ^= 
+(;fear_arousal) 
+() 
+ (; fear_arousal)   certainty_effect. 
+ﬃ  appraisal      /  .  ://../ [policy] ///.. 
+ 
+================
+.  
+      focus appraisal   arousal     ( )    ( )   ,  ,      ,     .      ,     isolation_effect    ﬂ          ﬁ       arousal.   , ﬃ                    arousal,       ,                . ﬁ,    ,   simplifying      .      ,           . . ,    ,   simplifying      .      ,           . .         (   )     . 
+             .                    .   ,  ﬁ    arousal,      simplifying       .     ,         .   ,     ﬁ     combining         .          ﬁ    ﬁ  ﬃ ,       ﬀ  behavior        ﬀ   .   ,  ﬁ       simplifying      .     arousal   ,         . ,   persistence              ,      ﬁ ( ). 
+  ﬁ        ,    .                     .   ,  ﬁ    arousal,    simplifying       .      ,           . .   ﬁ           arousal   .    ,   simplifying    .     ( ),           . .                ﬁ   ,       ,     appraisal    ﬀ   . 
+         appraisal ﬀ       . ,    ,        ,     ﬀ  
+ 
+================
+       ,  ﬁ                       ﬁ.           .    possibility_effect    . ,    ﬁ        ,  ﬁ     ﬀ         ,        . 
+               ( )    ( ).               .           ﬁ ﬀ         .       arousal     arousal .          (  ).     personality         perception  , ,   ( ).                 .    ﬁ  ,    ﬁ     ﬁ              arousal. 
+        .   ,  appraisal                        , ﬁ     appraisal            appraisal       .   ,  mental_calculation              .  ﬁ               .   ﬁ              ( ).       ﬁ     ﬀ   fear_arousal.   ,  ﬁ          ,  , , ,     ,         . 
+      ,    belief     ﬀ             arousal,         physical_quality     physical_quality   . ,  ﬁ             ,             .    ,  appraisal           techniques   appraisal           . 
+     ,      . ,   ,   ﬁ                      . ,             .                ,  ﬁ      appraisal (      .) 
+ ﬃ          ﬁ. 
+ 
+================
+ ﬁ         arousal    ,           process     . 
+  ,       ﬁ          ,  ﬁ             ,     ( ). ,                  ,                     .  ﬁ   appraisal         ,    ﬀ             . 
+,          .  ,             ( ),           ,   ﬁ        .         perception            ,    ﬀ           ( ).       personality   participant_modeling       ( )           ( ),         ﬂ            arousal. 
+.  
+  ,   possibility_effect    .    judging  role fear_arousal         ,     .   mental_calculation  role     behavior. 
+. fear_arousal 
+            ,      fear_arousal. ,        certainty_effect                       (  ).  syllogistic_rules    
+          ﬀ-in-ﬀ   (..     ()   ())   ﬁ ﬀ        ﬀ,        .         ﬀ    .     ()         :  ,        (..     ,       )             . ( ).  perception    self-efficacy       ( ).          (.. impulsive_effect  )    .           ﬀ appraisal    .                   . 
+        : "       ,  ,   ,   frustration_of_needs  ,   ,       ?    
+ 
+================
+        arousal,      task    protection_effect  ( task  ). 
+    fear_arousal      ﬁ  ,    . ,                           gain     arousal.     ﬁ ﬀ,  personality  (  personality  //),     ﬁ ﬀ,         .  ﬁ   ,      gain        arousal (  ),      perception       fear_arousal   possibility_effect . 
+,   [activity]        ﬀ       fear_arousal      ,                     ( task  ).   ,         , ﬁ   ﬀ                        (    ﬀ)   impulsive_effect (     )   .        (       ),   simplifying           .  .  , . 
+,    ,               fear_arousal     [division]  ( ﬁ    ).  ﬁ      gain  fear_arousal      .        ( )   .           arousal ( ). 
+,    role     .   ,   participant_modeling          participant_modeling      .  fear_arousal   ﬁ,          fear_arousal        .     ,             personality   [policy]      arousal.  ﬁ       ﬀ            [policy ]. ﬁ,  ﬁ  ﬁ  certainty_effect ﬀ   arousal         ,   
+  frustration_of_needs  , ,  ,    ?"   ,  ﬁ      frustration_of_needs       ""                ﬀ.           ﬁ .  ,     ﬁ   [knowledge]  /: "                      ?"        . 
+  ,  ﬁ   appraisal      appraisal             . 
+ 
+================
+ arousal     ﬀ     .       focus appraisal   ﬀ ﬀ   arousal        . 
+,    belief   fear_arousal    ,     participant_modeling         perceived_vulnerability       arousal.  ,  appraisal  participant_modeling           ,            ,        personality        perceived_vulnerability  .     ,  ﬁ          participant_modeling      [experience] ﬁ       (.  )   (.  ) . 
+,  ﬁ,    belief         [exposure]         ﬂ   arousal,        ﬁ. [exposure]               ,         . 
+  ,            ""  .     ﬃ    ﬁ,            participant_modeling      . ﬁ,          participant_modeling              .  .     arousal, .          participant_modeling     .          participant_modeling              .           .   . 
+,   participant_modeling        participant_modeling        appraisal  [exposure]   .    participant_modeling    ,         perceived_vulnerability     (  ).    participant_modeling      ,         .  "[exposure] "    perceived_vulnerability              .    gain   [exposure]        .        .     arousal  . 
+ ,   ﬁ   fear_arousal        . 
+         . 
+ ://..///.              .    ,  ﬁ            ,   .      .    . 
+     role  ,   belief   participant_modeling  participant_modeling   
+ 
+================
+.  
+  mental_calculation    -  role  .    behavior_control-ability  ﬁ                 ,                     (   .    ).  ,                 perceived_vulnerability  . 
+  ,     simplifying                      simplifying .     belief     ﬀ                              ().         ,           ,       .   ,     ﬁ,     ﬁ  ﬀ   arousal    . 
+                                    arousal, .    ,              arousal   ,              arousal.   ,                        arousal.  ﬁ                           .   ,  arousal           .        .     .       ﬁ                   simplifying  .  ﬁ,            ﬁ,             . 
+.   
+  mental_calculation  perceived_vulnerability   arousal   ﬀ                  ,   ,                  .           ﬀ ,     (  . ),     personality   
+    perception            ( ).   belief,                      . ,  ﬁ  ﬀ           ﬀ             , ﬁ         belief  . 
+ 
+================
+  (   ).            fear_arousal,               behavior     ﬀ     ﬁ. 
+   ,      ﬁ   ,            /   ,         ,      ..-born      .  ﬁ  ﬁ syllogistic_rules   arousal                    ,  ,   evaluating ( ).   ﬁ    ﬀ   ,    participant_modeling          ( )           ﬀ         arousal ( ). ,  ﬁ   ﬁ          participant_modeling      arousal ( ). 
+        behavior_control-ability  ﬁ,               /   .   appraisal   ﬁ        .            ﬁ               arousal,           . 
+. belief 
+  focus,    belief       simplifying           [activity ].     protection_effect     ,  ﬁ       personality          perceived_vulnerability   -   ﬀ.  ,  ﬁ ﬁ           .  ﬁ          fear_arousal     ﬁ , appraisal ,  .             ,           ,        fear_arousal         .  ,            participant_modeling            arousal. 
+ ﬁ       .  ,               .   
+  ﬀ-in-ﬀ perception,   . () ﬁ      evaluating     . .   perception   ﬀ        . 
+ 
+================
+        ,   participant_modeling             personality ﬀ,     fear_arousal. ,      " " self-efficacy,      protection_effect           ,   focus   ﬀ  fear_arousal.  ,       ﬁ          "       ﬁ,"       ( behavior_control-ability   self-efficacy ). ,           ..-born             ,   appraisal        ..-born        ﬁ     self-efficacy     (  . ).      [policy]                 fear_arousal               . 
+,         intrinsic_rewards    .           ﬁ        ,     $   $       ﬁ  , .       ,    [experience]      ﬁ      .  , , ,   ()             ,    . () ﬁ         evaluating  .     .   . () ﬁ                        . ,    () ﬁ                () ﬁ             experiential_awareness  gain      gain . , ,   () ﬁ            perceived_vulnerability.                           .  ,       role   [authority]       ﬂ     opportunity_for_criminal_acts ,   impulsive_effect   . 
+ 
+================
+ 
+[] , . . "   :      ?"  
+  , (): . 
+[] , ,   . . "  ?     
+     ."    , (): 
+. 
+[] , . . "  ,  ,   ."   
+  , (): . 
+[] , ,  ,  ,   . . "  Impact 
+ extrinsic_rewards    ."   , (): . [] ,  .,   . . "evaluating ﬀ  impulsive_effect     
+ ."    , : . 
+[] , ,  . ,    . . "  
+  :  Impact      ."    
+ , (): . 
+[] , ,  ,   . . " 
+          ." 
+   , : . 
+[] , ,   . . "     ﬁ:   
+   ."     , (): . [] , ,   . . "        
+ : belief  ."   , (): . [] ,  .,   . . "        
+."    , : . 
+[] , . . "     ."  
+     , (): . 
+[] , personality,  ,   . .   :  gain 
+     .  ,  :   . [] ,  .,   . . "fear_arousal     :   
+ ."   , . 
+[] , ,  . . ,   . . " ﬀ 
+  ."    , (): . 
+[] , ,   . . "personality  :   
+   ."    , (): . [] , ,   . . "     
+   ﬁ:      ."   
+, (): . 
+[] , ,   . . "   Impact    
+   : ﬀ     gain ."  
+ :   ,  (): . 
+ 
+================
+[] , ,  ,   . . "      
+  simplifying  []    ?"    
+ , (): . 
+[] ,  . . "    ."    
+, (): . 
+[] ,  .,   . . "    [] :  
+    ."    , 
+(): . 
+[] ,  . . "     ."  , 
+:. 
+[] ,  .,  ,   . . . "  , 
+impulsive_effect  ,   ."   , . 
+[] , . . "      ." ,  : 
+  . 
+[] , . ,  . ,  . ,   . . 
+"personality           ." 
+  , . 
+[] , ,  ,  é . . "   
+:  ﬁ."      , (): . 
+[] ,  .,  ,   . . . ", ,  
+ ."    , : . 
+[] , ,   . . "   ?     
+  ."   , (): . 
+[] ,  .,   . . . "    : 
+    ."   :  , 
+(): . 
+[] ,  .,   . . . "   ():  
+   gain          
+."     : . 
+[] , ,  . ,   . . "   
+     ."    ,  
+   . 
+[]   ﬃ. . "    ." 
+://..//. ,  :   ﬃ. [] , ,   . . "    :  
+   ."    ,  . [] ,  .,   . . . " ."     
+, (): . 
+[] ,  .,   . . . "   simplifying ? 
+  protection_effect ."     , (): . [] ,  .,   ø,   . . "   
+."    , (): . 
+ 
+================
+[]  , ,  . . ó,   . . . " ﬀ: 
+          ."  
+ , (): . 
+[] , . . "    ﬁ."   . ,  ,  
+ . , .,  [policy]   gain ,  :   
+: . 
+[] ,  .,  ,   . . "    
+   ?    ."    , (): 
+. 
+[]  , ,   . . "  intentionality ﬀ  
+    ﬀ."  . 
+[]  , ,  ,   . . 
+" ﬀ-in-ﬀ  ."  . 
+[] , ,   . . . "   gain ." 
+      ,    . ﬃ, . : 
+   . 
+[] , . . "   extrinsic_rewards?   ﬀ   
+     ."   , ():  
+. 
+[] , ,   . . "   ?    
+    ."   :  [policy ]. []  , ,   . . " physical_quality    ? ,  
+,  ."    , (): . 
+[] , ,   . . . " Impact       
+ ."   [policy]   , (): . 
+[] , ,  . ,   . . "   
+gain () ."          
+,  ,  ﬃ, . . , :    . [] , . . " ﬀ      :    
+  ."    . 
+[] , ,  ,  ,   . . "   
+ﬀ   ."   , . 
+[] , ,  . ,  ,   . . . " ﬀ- 
+      perceived_vulnerability  , ,    
+      ."     
+ , : . 
+[] , ,  ,   . . . " 
+     ."   . 
+[] , ,  ﬀ . . . " , ,   gain  
+impulsive_effect :      [policy] ."  
+  :  [policy ], (): . 
+[] , . . "ﬀ-in-ﬀ      
+."   , . 
+ 
+================
+[] , . . "   :    
+."   personality , (): . 
+[] , ,  ,  ,  ,  ,  , 
+ ,  ,  ,   . . . 
+" Impact        :  
+   , , ."    , ():  
+. 
+[]     task . . "task    
+    ."  . 
+://. .///. [] , ,   ,   . . "  
+       ."   , (): . [] ,  .,  . ,   . . "   
+    ."      
+,  . . 
+[] , ,  ,  ,   . . " 
+     :   gain ."  , (): 
+. 
+[] , ,  ,   . . "extrinsic_rewards  gain   
+  ,   ."    , 
+://..//// 
+/. 
+[] ﬀ, . . "       
+:   ." ,  :    ,  
+  . 
+[] ,  .,   . . . "   :   () 
+   behavior."    , (): . [] , . . " ﬀ         
+  ."   , (): . 
+[] , ,  ﬀ, .  ,   . . "Impact 
+     :   extrinsic_rewards     
+."   , ://../// 
+. 
+[] ,  .,  ,   . . . "    
+    ﬀ  appraisal     ." 
+  , . 
+[] ﬃ, . . "     ."   , 
+(): . 
+[] , ,  ,   . . "    ﬁ." 
+   . ://..//// 
+/. 
+[] , ,  ,   . . "     
+, ."     . ,  :  
+   ,   . 
+ 
+================
+[] ,  . . "  :   ﬁ   
+         ."  
+      . 
+[]  focus  gain . . "      gain 
+ /."    . 
+[]  focus  gain ,       ,   
+ﬁ.        ,    
+,   ,  , , . 
+[] , ﬀ .,   . . "   combining    
+   ." ://..//// 
+/.   :   . [] ,  .,   . . "     ﬀ 
+   ."  . 
+[] ,  .,    . . "  :   
+      ,  ,     
+." á:     , (): . 
+[] ,  .,  ,   . . "  perceived_vulnerability  
+  -   ."      , 
+: . 
+[] ,  . . "  ﬀ       
+ ."  , (): . 
+[] , ,  ,  ,  ,  ,    
+ . .  :  . []. , :  
+. 
+[] ,  .,   . . . "      
+  intrinsic_rewards   ."   intrinsic_rewards, : . 
+[] , ,  ,   . . " ﬀ    
+   perceived_vulnerability."    , (): . 
+[] physical_quality, . . "    appraisal : ."   
+  .   . 
+[] , . . "fear_arousal      ﬀ   evaluating  ." 
+ , (): . 
+[] , ,  . ,  ﬀ . . . "    
+?"    , (): . 
+[] , ,  ﬀ,   . . "     
+:   role  impulsive_effect ﬁ."    . , 
+ :    ,   . 
+[]  . ":   Source       
+   [activity ]." ,  :    
+,  . 
+[] , . .   comply_effect  . , :   . 
+ 
+================
+[]     . . "protection_effect :  
+      ,  ."   :  
+    . 
+[]     . . "   / 
+.     , ."   :  
+    . 
+[]     . . "   
+." ://..///.   : 
+    . 
+[]    . . "   , ." 
+  :    . 
+[] ,  .,   . . . "    :  
+ﬀ  perceived_vulnerability     ."   , (): . [] ,  .,   . . . "     
+:  combining  []  [policy]      ." 
+     , (): . 
+[] , . . "  :       
+  ."   :  [policy ], : . [] , . . "    :   ."  
+. . ,  :    ,   
+ . 
+[] , . .   :     
+ .  ,  :   . 
+ 
+================
+ :   
+   () 
+  
+() ()  
+  . .#  . . participant_modeling  . . participant_modeling  . . participant_modeling   . . participant_modeling  . .
+   . .#  . . participant_modeling  . . participant_modeling  . . participant_modeling   . . participant_modeling  . . 
+:    .    segregating               , ﬁ                      .            ﬀ      ﬁ ﬀ   arousal  .     [] ﬁ ﬀ,  ,     ﬀ    .                ﬁ   arousal   ﬁ ﬀ.            .         . 
+ 
+================
+ :  ﬀ appraisal -      
+   
+ participant_modeling   participant_modeling  
+() () () ()    :
+ 
+ :
+ 
+ :
+ 
+:
+ 
+(:) (:) (:) (:)  : : : : 
+(:) (:) (:) (:)   :  : 
+(:) (:) 
+ .  : : : : intentionality ﬀ , , ,         , , , ,   , , , , 
+:    .    segregating               , ﬁ                      .        ,   , participant_modeling , participant_modeling ,       .       ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ,         .             .            . ***= ﬁ    , **= ﬁ    ,*= ﬁ    . 
+ 
+================
+ :  ﬀ appraisal -      
+   
+ participant_modeling   participant_modeling  
+       
+() () () ()   :  :
+ 
+:  :
+ 
+(:) (:) (:) (:)  : : : : 
+(:) (:) (:) (:) 
+ .  : : : : intentionality ﬀ , , ,         , , , ,       
+:    .    segregating                                 .               /     arousal.         ,  ,   ﬁ ﬀ,  ,  , ,  , participant_modeling ,       .       ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ,         .           physical_quality.            . ***= ﬁ    , **= ﬁ    ,*= ﬁ    . 
+ 
+================
+  
+ 
+ :   
+   
+      / <  
+() () () () () () 
+ : participant_modeling   
+:
+ 
+:
+ 
+:
+ 
+:
+ 
+:
+ 
+ :
+ (:) (:) (:) (:) (:) (:) :  :
+ 
+: :  : (:) (:) (:) (:) (:) 
+  
+ 
+ : participant_modeling  
+ :
+ 
+:
+ 
+ :
+ 
+:
+ 
+ :
+ 
+: (:) (:) (:) (:) (:) (:) : : : : : (:) (:) (:) (:) (:) 
+intentionality ﬀ , , ,  
+         , , , , , , 
+:    .    segregating               , ﬁ                      .        ,   , participant_modeling , participant_modeling ,       .       ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ,   ﬁ ﬀ.             .   appraisal   ﬁ         .      ﬁ ﬀ   ﬁ ﬀ    ﬁ.   appraisal   ﬁ   arousal     arousal.   appraisal   ﬁ     .   appraisal   ﬁ    arousal      , ,   ( ).   appraisal   ﬁ            .            . ***= ﬁ    , **= ﬁ    ,*= ﬁ    . 
+ 
+================
+ 
+  
+   personality 
+   fear_arousal 
+    
+ % / 
+ 
+intentionality ﬀ    
+ :       
+   
+participant_modeling   participant_modeling  
+() () () () () () () () 
+: :
+ 
+:
+ 
+:
+ 
+: :
+ 
+:
+ 
+:
+ 
+) (:(:) () () (::::) ()) (:) (: 
+:
+ 
+: 
+:() :() 
+:
+ 
+:
+ 
+(:) (): 
+:
+ 
+: 
+(): )(: 
+:
+ 
+:
+ 
+:() (): 
+, , ,  
+        
+, , , , , , , , 
+:    .    segregating               , ﬁ                      .  personality   participant_modeling       ﬀ        personality ﬀ.  fear_arousal      participant_modeling                  .  appraisal  ﬁ    [division] .        personality   [policy]      arousal .% /   participant_modeling             .  ﬁ             ,     .        ,   , participant_modeling , participant_modeling ,       .       ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ,         .             .            . ***= ﬁ    , **= ﬁ    ,*= ﬁ    . 
+================
+ :   
+   
+#   % %   physical_quality% %  
+() () () () () () ()   : : : : : 
+(:) (:) (:) (:) (:) 
+ :  :
+ 
+:  :  : : :
+ 
+(:) (:) (:) (:) (:) (:) (:) 
+ .  : : : : : : : intentionality ﬀ , , ,  
+          , , , , , , , 
+:    .    segregating               , ﬁ                      .          ,     , participant_modeling ,  participant_modeling ,      , participant_modeling ,  participant_modeling ,      ,  ,  participant_modeling ,      ,   , participant_modeling ,  participant_modeling .       ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ,         .             .            . ***= ﬁ    , **= ﬁ    ,*= ﬁ    . 
+ 
+================
+ :    
+ : combining  
+ 
+ :   
+ 
+ :     impulsive_effect ﬀ
+ 
+:    (). 
+ 
+================
+ : protection_effect  arousal 
+ 
+ 
+ 
+ 
+ 
+ 
+:     (). 
+ 
+================
+ :  protection_effect  arousal 
+ 
+ 
+ 
+ 
+ 
+ 
+:          (  ).      . 
+ 
+================
+ 
+ :  focus      
+ 
+ 
+ 
+ . participant_modeling   
+ 
+ 
+
+ 
+
+ 
+ . participant_modeling   
+ 
+  
+
+ 
+:     . ﬃ  % ﬁ   .    segregating               , ﬁ                      .        ,   , participant_modeling , participant_modeling ,    
+ 
+  .       ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ, 
+ 
+ﬁ ﬀ,         .             .         .        protection_effect  arousal. 
+================
+ :   focus       
+ .  
+ : participant_modeling   
+ 
+ 
+ : participant_modeling  
+ 
+ 
+:     . ﬃ  % ﬁ   .    segregating               , ﬁ                      .      combining      .        ,   , participant_modeling , participant_modeling ,       .       ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ,         .             .         .        protection_effect  arousal. 
+ 
+================
+ :   fear_arousal    
+ 
+:      .        ﬁ    . fear_arousal   fear_arousal          .  [knowledge] appraisal    participant_modeling    ﬃ          .            .    participant_modeling fear_arousal  participant_modeling    ..       . 
+ 
+================
+ :     focus
+ 
+:    . ﬃ  % ﬁ   .  ﬁ   focus appraisal      arousal              .  ﬁ      ﬁ ﬀ.        .        protection_effect  arousal. 
+ 
+================
+ :     
+ 
+:     . ﬃ  % ﬁ   .  " ,"    ﬃ  *    ﬁ.  "participant_modeling ,"    ﬃ  **%  %    participant_modeling         .    ﬁ                .  "participant_modeling ,"    ﬃ  **%  %     participant_modeling       . ,  "[exposure] ",    ﬃ  **[exposure]   [exposure]     %  %     perceived_vulnerability              .    segregating               , ﬁ                      .        ,   , participant_modeling , participant_modeling ,       .       ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ,  ﬁ ﬀ,         .             .         . 
+ 
+================

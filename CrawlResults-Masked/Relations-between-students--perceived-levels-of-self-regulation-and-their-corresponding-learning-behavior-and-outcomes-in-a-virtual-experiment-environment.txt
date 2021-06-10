@@ -1,0 +1,512 @@
+   . 
+           behavior  ... 
+  
+   behavior 
+   
+  .  
+  , ,    
+  
+          
+    protection_effect        ,   
+[modeling]         
+   appraisal         ...   
+================
+   behavior  ()  
+     
+   behavior 
+ : 
+..// 
+   
+           behavior       
+ 
+ , é . ,  , loss ,  ,∗ 
+ 
+   ,  & ,     ,   ,  
+      ,  & ,   
+  
+isolation_effect 
+: 
+      behavior 
+  
+  
+   ()     ﬀ         .      ,      () .  focus           behavior        ﬁ  .              (, ,  ).    behavior (..,      )            [knowledge]   .          perceived_responsibility   ,          [activity ].          behavior,     .         syllogistic_rules      ,          ,    behavior.        gain  ,       planning behavior.     belief             . 
+.     
+..   
+                       (& , ).       ,    [experience ],  ,   ,  Collection  ()  , planning,     (& , ; & , ; ,   , , ,& , ). ,                      (,   , ,& , ). 
+       participant_modeling    role      [knowledge ],                
+∗ 
+ . 
+ techniques :.@. (. ). 
+://././.... 
+,             (& , ). fear_arousal     [knowledge]        (& , ; , ; & , ; & , ; & , )         (  ., ).         ,  ( - ) , ﬁ     ,     ,     [action ], .   ,           ,      planning ,    [knowledge]   ,        ﬁ  (, ). 
+ gain,    personality        , ,   segregating ,  , ﬃ   ,  ,  ,       gain   (& , ).        ( 
+   ;       ;     
+     
+/ ©   .   personality. 
+================
+. ,  . 
+& , ),   ﬀ  ﬃ               (& , ). 
+personality    ,           ,    gain    [knowledge]     (, ;   ., ; & , ).              (& , ),        ﬀ    ,                (& , ). 
+..      
+       ,  ﬀ         ,     (, , ,& , ),  (& , ),  , , ()  (, , ,& , ; & , ;   ., ;   , , , ,& , ),   (  ., ; & , ). ,   ,     ,       .    (, , .)   ﬀ                  "  intrinsic_rewards                 ([knowledge]  personality,  , personality ,  ,  ,    ﬁ )".         ﬀ                            (,  ,&   , ).       ,     . ,         [activity ], certainty_effect ﬀ     mastery_experience    task     personality       [activity] (  ., ). 
+            ,   ()  ,         ().    "   source      /      /  process ,   simplifying   " (  ., , .).                 .  ,  ,    ,   ,     ,              ,   ,  process   syllogistic_rules  .      ,     personality    , ,     . 
+..   
+          ,       ,  ,       (, )     (, ).  , ,   personality               () (, ).       ,   ,  , , ,   ﬁ ,      process,       ,  participant_modeling   (, ää,& , ). 
+   behavior  ()  
+     [activity] (, )     process (, ).    , ﬀ         ( ,   ();  ()).      ,   focus  ﬀ   .       ,     ,        ,                (, ).        ﬀ     perception  ﬀ              (& , ). 
+    (, ; & , )    ,  forethought_capability,    .  ,  ,      .  forethought_capability      task    .   task ,          planning,           task,    (..,          task ), , ,  .          .    ,      perception  task,  ,  ,     ,   .  ,        .       , ,          appraisal      forethought_capability  (..,       ),      .  combining,     process         ,   task ﬁ, planning  ,  gain,  ,    , ,  ﬂ (& , ; , ).      gain ﬃ          (& , ). 
+     (),        [activity]     ,  ,    .          perception  ,  ,  ,   .    ﬂ           ﬂ      .          .  ,       , learning    ,          -    . 
+..       behavior 
+     ,    ,   ﬀ,           mastery_experience  ,     certainty_effect    ﬀ  learning (, ).     ﬃ                 intrinsic_rewards (& , ).          personality,        intrinsic_rewards (, ; & , ). 
+     ,   ,  , ﬀ ,   thinking         intrinsic_rewards (& , ; , ,& combining, ; & , ).              intrinsic_rewards    (& , ; & , ; & , ). 
+ 
+================
+. ,  . 
+ ,          (..,     (, , ,& , )     (, ,& , ))                        ,          (, é-í,& , ; , ,& , ).  behavior                ,     .         intentionality         (, ,& , ).             ,   task,        ,    ,      ﬀ   (šć, , ,& , ; ć  ., ;   ., ). ,  ,    perceived_responsibility            (  ., ),  ﬁ                 ,         (šć  ., ;   ., ).  focus             ,      (..,   ., )    (.., šć  ., )  . ,        ﬀ         ﬁ ,             behavior (šć  ., ; & , ).            ( )          .  ,              behavior        ,       . 
+..    focus 
+    focus    ﬀ    ,                ,          ﬀ  (.. )    .      : 
+.    syllogistic_rules       
+  behavior? 
+.    syllogistic_rules       
+   ? 
+.    syllogistic_rules    behavior   
+       ? 
+.  
+..  
+ focus        .   (= ),         ,           .           : %   , %      ,  %  .         focus ,    (%),  (%),   (%).   focus       .   [knowledge]         ﬀ   ,  focus ,  .    .  
+   behavior  ()  
+ (= .)  .  %          . 
+.. personality    
+ personality    focus    ,   ,    .       behavior (..,      ,   ,   experiential_awareness ,  ,    ,  ,   )         [knowledge ].   [knowledge]                ﬀ   . 
+..    
+              .                   (  , , ,& , ),     ( .., ,  ) (    ., ). .        ,    . 
+.                   behavior (..,   ),        .       ()    ,  protection_effect       [knowledge]         . 
+  ()     task      learning        .  task      ,        (. ).   ﬀ,  ﬁ  belief    . ,    experiential_awareness       ﬂ  (.   ),         .   ,     combining          .       ﬂ ,         ().    ﬂ   ,          .   ,       ,     (. ): )  , )  (    ), )  ( 
+. .   . )  . )           ﬂ ,    ("")       ﬂ . )     ﬂ . )       . 
+ 
+================
+. ,  . 
+. .     :      .   -     behavior  ,      ... 
+ ), ,  , ) .       ,       ,            ()   .        ,       combining      ().                .         ﬀ   ﬂ     .  ,    ﬂ   ,        .   ,     gain  ,    process  participant_modeling       .     ﬁ       , /       (),      /    .        ()        /   .       ,        ,     combining    .            .          ﬁ,          ,     ,  ﬁ     .          perception (..     ),    (.   )        gain. 
+..  
+       ,        .          .                  .      .    ,           ()  .   [knowledge]      ,    ﬁ     .          ,             .  appraisal          ,     .  
+   behavior  ()  
+         ﬁ .     (= )             appraisal     .       .     (= )    ,        .      (= ., = .)     appraisal     [knowledge ]. 
+   ,           ,     ()   .      ,  combining       ().         .     ﬁ        .                   . ,        ,        .   ,                         (..,    ).   gain   perceived_vulnerability,  %                     .       ,      . 
+          . ,      ()                .         ﬀ    .  appraisal             .         ,      .   (= ., = .)     appraisal     [knowledge]   (= )          . 
+            [knowledge] ,    .          ,  protection_effect    .      [knowledge]             .       ()      , personality   . 
+... appraisal    behavior 
+ behavior     (. ,   - )      ,              (, ,  , ,& , ;  & , ). ,          ,      behavior      . 
+ focus     ,       segregating      appraisal    ,     . ć  . ()    focus   ﬀ    ,           ﬀ    .      ﬀ :      .    ﬁ,    "      appraisal  ,   ﬀ-task ,[.. .]              " (ć  ., , . ). ,          mental_calculation     ,     ,       focus.       "  combining  [activity]           " (ć  ., , . ). 
+ ﬁ            .   ()           ,     protection_effect 
+ 
+================
+. ,  . 
+  
+   behavior  ()  
+    appraisal ()   . 
+  [activity] 
+appraisal 
+      
+ 
+ 
+  [knowledge]    
+ behavior        ()  behavior  .  
+ [knowledge]    
+/ 
+,    
+        
+      
+ 
+        .             . 
+   .  ,            ,          ,          .            ,    ,  ,   ,       . ,    ﬁ    ()   ()     ﬁ    . 
+... appraisal     
+         () (, ),     ,    appraisal     ().   ,                            (& , ).         ,   "   ﬃ       ,    simplifying    ﬃ  "  "           ".       ﬁ-point     "     "  "    ".                (, ,& , ; & , ).   focus,   ﬃ           ( α= .).      (= )         ﬁ          .          ,          :     (= , = ., = .),      (= , = ., = .),      (= , = ., = .).       ﬁ ﬀ  ( (, )= ., < ., η= .). 
+..  
+       ﬁ        ﬁ ﬀ      behavior,  ﬁ ﬀ              .             [knowledge] 
+  
+      . 
+   
+   [knowledge]   .     ﬁ      appraisal ,              .   ﬁ  ﬀ      ,        focus  ﬀ    . 
+             syllogistic_rules           [knowledge]    behavior. 
+.  
+..         behavior 
+    behavior    , ,   
+          
+     . 
+       ()   
+  ﬁ  ( (, )= .,= .,η= .)  
+       (= ,= )    
+       (= ,= ).  combining  
+      ()     ﬁ 
+ ( (, )= .,= .,η= .)      
+   (= ,= )      
+    (= ,= ).  combining    
+  ()     ﬁ  ( (, 
+)= .,= .,η= .)         
+(= ,= ),          
+(= ,= )         (= , 
+= ).  ﬁ ﬀ       
+            
+           
+  (),       
+  (),          
+(),        (). 
+..           
+            .              ﬁ ﬀ  
+           
+          (= combining         extrinsic_rewards ())         
+             experiential_awareness  
+        
+            (= combining         extrinsic_rewards ())             
+      
+ 
+================
+. ,  . 
+   behavior  ()  
+    
+    behavior ,           [knowledge]   behavior   .   . 
+      η 
+   
+   . . . . .         
+  . .  
+ . . 
+combining . .  .. -.. -. -... 
+    . . . . .  ... . -. -. -.. 
+  . .  ... -. -. -... 
+ . . 
+combining . . 
+  ﬁ   .  ().     . . . . .  ﬁ   .  (). 
+experiential_awareness  . . 
+ . . 
+combining . . 
+.  
+    . . . . . 
+ . . ..         behavior 
+ . . 
+combining . . 
+    . . . . .           
+  . . 
+ﬁ ﬀ      ,   combining 
+ . .         (),  
+combining . . 
+    (),        
+    . . . . . 
+ . . 
+  ().         
+ . . 
+  , ,    ,    (.., 
+combining . . 
+< < ).      
+    . . . . .   [activity ],          
+ . . 
+.     belief,     
+ . . 
+combining . . 
+        personality ,   
+      process ( &  
+*ﬁ   . . 
+ë, ).        ,  
+   ﬁ ﬀ  
+     [activity]     .     
+.        (, ). ﬁ- 
+  ,          
+  ,             
+   [knowledge]     .        .    
+           process gain,     
+   personality,   behavior     planning 
+   (   [activity] ). ,      
+ . . . .     ,  [activity]      
+ . . . .          . 
+ . . . .ﬁ           
+ (., ,& , ; , ),  
+  behavior       
+[knowledge]  ( (, )= ., < .,η= .).  ,     process,    
+      ﬁ ﬀ      ,     
+(= .)             . 
+     .          ()      
+ ﬁ ﬀ (< .)         ﬀ   [knowledge]   
+        .      . ,  
+       ,               
+         .()     ,   ﬀ    
+[knowledge] ﬀ,        .  
+ behavior_control-ability          
+..        behavior,  [knowledge ],    .          
+             .  
+           
+           process,   ,  ,    
+   .                ﬃ 
+ﬁ,    .      (  ., ).      ﬀ 
+certainty_effect      [knowledge]             ﬁ (ﬁ& 
+     ,   certainty_effect , ). ,        
+    .  ,   behavior       . ,     
+    .          .   
+     ﬁ ﬀ   
+   ,  ,  ,      
+     ( . ).   
+ 
+================
+. ,  . 
+          ﬀ perception             ,       .          (    )                  "  " (, , ,& , ).               opportunity_for_criminal_acts  ,      (, ).          perceived_responsibility  (  ) ,   ,       intrinsic_rewards,      (, ).   ,     ﬁ               ,     .              , ﬁ       . ,          ,  ,       , , ,      , ,     .                behavior (  ., ).      gain        (, ,& , ). ,      ,               learning     (, , ,& , )   . 
+    ,         (),      (),         (),       (),    ﬁ ﬀ      .        ()      ()          ,     (, ).           ,    perceived_vulnerability      intrinsic_rewards (, ,& , ). ,               behavior. ,  ﬁ             (.., ),       ﬀ  ,                        (& , ; , , ,& , ). 
+,  ﬁ      ()    ,              (, ),      protection_effect   (..,   , ,  ),  behavior_control-ability    ﬁ     . 
+..           
+    "  extrinsic_rewards  ,  , ,   extrinsic_rewards  " (, , .).    ﬁ (& , ; , ),               ,       focus. ,          ,  ﬁ       syllogistic_rules     ()    . ,   gain         ,            . ,   (..,  )         gain      ( ﬂ        ),     ,  
+   behavior  ()  
+       ,     planning   [activity ],       behavior   ..                 process (ää, , ,& , ). ﬀ     (& , ),         (& ć, ). ,     protection_effect        ,        ,   satisfaction_of_needs         .   ,    ,       behavior.         ,               (, ;   ., ;   ., ;   ., ). 
+    ,  ,          ,               [knowledge]     ,    [knowledge]       ( ). 
+..        behavior,  [knowledge ],     
+       . ,  [knowledge]         ﬁ          .      , ,            extrinsic_rewards (, ).           ,       [knowledge]     . 
+ [knowledge]    gain,         (, ). ,     ﬃ  [knowledge ],        protection_effect  [knowledge]   ﬀ .    behavior_control-ability      [knowledge]         ,            .      ,  [knowledge]         (= .)        ,        (= .)  ,  %     (= .)    ,           . 
+,  ,  behavior     .         combining   [activity]          ﬁ  (, ; & , ; , , ,& , ).    [activity]          intrinsic_rewards (  ., ).   protection_effect     syllogistic_rules   behavior  ,       .           ().    ,    [knowledge ],            ﬁ (  )  .        ()          ,     .     ,     behavior (  ., )   (, )   .        behavior          ﬃ             ,      ""   .              . 
+ 
+================
+. ,  . 
+.  
+  ,         ,      perceived_vulnerability           ,  intrinsic_rewards personality,       . ,    ,      , ,        -  ﬃ ,     satisfaction_of_needs      personality  .    ,          ,      gain             ,  ,  [knowledge ],  . ,       [ownership]    .  ﬀ      ,      ,    techniques ,   gain   ,   ,            .   ,        ,               (, ),       (  ., ). 
+  focus,     (.., , , )        behavior (..,     ,    )      ,  personality    [knowledge ].  gain,     behavior            .    ,    ,  ,         ,     ,  syllogistic_rules      ,        .     behavior     [activity]  planning,       [activity]         ,         .    behavior,      (  ﬁ        ,           ).  behavior,     ,          (  ., ).  ﬁ             ,        , [ownership]    process      ,     [activity]   planning      .             personality  ,   []      .       behavior   ,    perception         ,   protection_effect            ,    ﬁ   gain  ,          intrinsic_rewards   ,     .      process       ﬂ      (, ). ,      [knowledge ],              perception. 
+  focus,       [knowledge]     ,     ,         .       ,        [knowledge]    ,       [knowledge]     . 
+ ,     ,  behavior      .          ,   role     .           perceived_responsibility  behavior_control-ability      behavior (  ., ).   ﬁ   
+ 
+   behavior  ()  
+segregating    ,      task               . ,                     .        (, ).          ,    .    ,  protection_effect   ,     learning   participant_modeling  .      ﬀ  protection_effect          .        ,      (  ., ). ,        protection_effect   ,  ,   (, ,& , ). 
+       focus    (, ).                 (& , ),        (& , ). ,         appraisal   (, ),   ﬁ      (  ., ).             ﬃ    ﬁ     focus    (, ,& ää, ). 
+   focus      ,    protection_effect        ,    ﬀ         behavior    . 
+ 
+, .,& , . . ().       
+ .    , , . ://./ 
+./..... 
+, . (). ﬁ  evaluating perceived_responsibility    : 
+, , ,   .  
+, , -94. ://././... 
+, ., , . ., , . . .,& , . . ().     
+  :  , ,  impact    
+      ﬀ   
+.     , , . :// 
+././..... 
+, ., , ., ﬀ, ., , ., , .,& , . ().  
+ participant_modeling  "  " behavior     
+.     , , . 
+, . ().    perception  [action] :   . 
+ ﬀ, : . 
+, . ().        belief. 
+  , , . ://././() 
+. 
+, . ., , .,& , . ().   : ,  
+,  imagination.    , , . ://./. 
+/. 
+, .,& , . ().    :    
+appraisal  .  , , . ://./. 
+/..... 
+, . . ().   intrinsic_rewards   (   
+)   () :      . 
+& , , . ://././.... 
+. 
+, .,& , . (). ﬁ     
+       .   
+& ,. ://././. 
+, .,& , . ().   &  
+intrinsic_rewards      :   . 
+   , , -13. ://././.... 
+. 
+, . .,& , . (). , ,      
+        .   
+ , , . ://././. 
+, . ., learning, . ., , . ., , . ., , . ., , . ., ... , 
+. . ().         (): 
+           
+    .  :   
+, , . ://././. 
+ﬁ, .,& , . ().     ﬁ   
+.   experiential_awareness : , ,  , , 
+. ://././.... 
+, . ().         
+================
+. ,  . 
+intrinsic_rewards       .  
+, ,   , , -25. 
+, .-xxx.,& , . . ().        
+  .    , , -75. ://. 
+/./..... 
+, ., , .,& , . ().      ﬀ  
+   behavior  ()  
+ ﬁ    .     , 
+, -55. 
+, ., , .,& , . ().   combining    
+        .   
+ , , . ://././.... 
+, .,& , . ().    :    
+       .        ﬀ.     
+ , , -36. ://././... , ., , ., , .,& , . ().   ! 
+combining     ﬂ      
+   intelligence  (, ). 
+, .,& ć, . ().     behavior ﬀ 
+?        intelligence  . 
+    .    , , (, ). 
+. ://././.... 
+, . ., , . ., , , . ., , . ., , . ., , .,  . 
+().         isolation_effect    
+.     , , -23. 
+, ., , . ., , . .,& , . . (). :   
+, . .,& , . ().     :   
+    role.   , , -15. ://. 
+/.//. 
+, . ().      :      
+ .   , , -28. ://././.. 
+appraisal         .   . 
+, , -71. ://././.... 
+ , . . .,&  ë, . . . ().      
+  :   perception     
+ .   , , -9. ://././. 
+.... 
+, ., , ., , .,& , . . ().   appraisal  
+, ., , .,& ää, . ().    appraisal    
+  ﬁ:  appraisal      . 
+    , , . ://././ 
+... 
+, . . ().        protection_effect . 
+   , , . ://././. 
+       .   ... 
+  , , . ://././. , . . ().      .    
+, , . ://././. 
+šć, ., , ., , .,& , . ().     
+   ﬁ :  ﬀ       
+ extrinsic_rewards.    , , -84. ://././. 
+.... 
+, . ., , .,& , . (). intelligence  .  . , . 
+, . . ().  role  [goal]    .  . 
+, . . ,& .  (.).   (.  
+).  , :  . 
+, ., , .,& combining, . ().     
+  :     . 
+ , , . ://.././. 
+, ., , . . . ., , .,& , . . ().   ﬁ   
+( )     .     
+. , . . ,& .  (.).     , , . ://././... 
+ (. ).  ,  : . 
+, . .,& , . ().  appraisal     
+        . 
+ , , . ://././.. 
+. 
+, . ., ää, .,& , . (). , ,   
+   .  . . ,& . .  (. .), 
+, ., , .,& , . ().      
+:       .  
+appraisal, appraisal  perceived_responsibility, , . ://././ 
+. 
+, .,  , . .,&   , . . ().   ﬀ  
+    . & , , . 
+://././..... 
+      : . , (. ).  , . ., , . .,& , . ().      : 
+,  : & . 
+, . ., , . ., , ., , .,& , . . (). 
+  ?   , , -114. ://././ :. 
+judging      .   , , , . . ().     ( .). , : 
+. ://././. 
+, . ., , .,& , . (). ﬀ     
+ [activity] :         
+    .  , , . ://. 
+/./. 
+, . .,   , ., , . .,& , . ().   
+. 
+, . .,& , . ().        
+. ,  : & . 
+, ., , ., , .,& , . . (). , , :   
+  simplifying          
+  .  :   , , -44. 
+   .  . ,& .  (.).   ://././. 
+   :      (. , . ., , .,& , . ().       
+). , :  . 
+   :      .   
+, . . ().      .    , behavior, , . ://././..... 
+, . 
+, .,& , . . ().   .  :   
+ , .,& , . ().   behavior ﬁ    
+     . .[knowledge]  
+ ﬀ   ?  :  . ://././. 
+, , . ://././. 
+, . ().  physical_quality history    .  . , . .  
+  , ., , ., , .,& , . ().     
+   protection_effect :   focus    . 
+, . . ,& .  (.).        , , . ://././. 
+(. ). : . 
+ää, ., , . ., , .,& , . ().   
+    .  . , . . , . ,& 
+. .  (.).     (. ).  :  : 
+. 
+, ., , ., , .,& , . (). :   ,  
+ possibility_effect.  intelligence , , -77. ://././. 
+.. 
+, .,& , . ().     ;  
+  , ., , ., , ., , .,& , . (). : 
+ protection_effect    ﬂ .      
+     (, ). 
+, . . ().      .    
+ , , . ://././... 
+.. 
+, . .,& , . ().        
+  : []      .   
+, , . ://././. 
+ personality .     , , . , . .,& , . . ().     :  
+://././. 
+, .,& , . ().      : 
+,   .  , , -98. ://./. 
+/. 
+, . ., é-í, .,& , . . ().   
+   behavior  [goal] extrinsic_rewards     
+. & , , -33. ://././.. 
+... 
+, . .,& , . . ().      
+  , imagination  ,   . 
+  , , . ://././ 
+. 
+, .,   , ., , ., , .,& , . ().  
+ possibility_effect         . 
+     (, ). 
+, . .,& , . . . ().   focus    
+ : ﬀ    .     
+ , , . ://././.. 
+    .    , , . , . . ().     .   
+://././. 
+ć, ., šć, ., , ., ć, ., , . . . .,& , . 
+().   appraisal ?       
+ ﬁ.    , , -110. ://./. 
+/.... 
+, .,& , . ().       
+ 
+ , , . ://././.... 
+, . . ().  .  . .  (.).   
+   &  (. ). ( .). : . 
+, . .,& , . . ().    .  . . , 
+. ,& . .  (.).    belief   
+(. ). , :   . 
+================
+. ,  . 
+, . .,& , . . ().  .  . .  (.). 
+   behavior (. ).  , :  . , . . ().        . 
+   , , . ://././. 
+... 
+, . . ().      .  . . 
+,& . .  (.).   :     
+ﬂ  (. ).  ,  : . 
+, . . ().  :    .  . 
+, . . ,& .  (.).    (. ). 
+ :  . 
+, . . ().   [modeling]  :    
+ .  , , . ://././ 
+... 
+   behavior  ()  
+, . . ().   : , ,  .  
+. .  (.).     &   (. 
+). ( .). : . 
+, . .,& , . . (). :    
+ isolation_effect.  . . , . ,& . .  (.).  
+    (. ).  ,  : . 
+, . .,& , . . ().       
+      .   
+ , , . ://././. , . .,& , . . ().  :      
+   .  . . ,& . .  (.). 
+ :     (. ). , , : 
+   . 
+ 
+================

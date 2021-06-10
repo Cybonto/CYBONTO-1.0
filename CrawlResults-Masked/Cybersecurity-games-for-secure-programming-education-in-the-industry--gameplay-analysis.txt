@@ -1,0 +1,244 @@
+   protection_effect     :   
+  
+ , ü,  
+ä   ü,  .@. 
+  
+ä   ü,  .@. 
+  
+ , ü,  
+ﬁ.@. 
+  
+ á   (), ,  .@. 
+isolation_effect 
+ behavior_control-ability  perceived_vulnerability   vulnerabilities  source ,      perception  protection_effect coding .         perception    coding ,  possibility_effect  perception   . ,    ,     [resource ], , ,          [experience]      ﬀ     protection_effect coding .   ﬁ       ﬀ ,            ﬁ,    ﬁ    extrinsic_rewards.              perception.    simplifying           protection_effect coding         .                focus. 
+   ﬁ    →   ;    →   ;   →   ;   →  
+   , , protection_effect coding, , , ,  ,   
+  ﬁ ./... 
+              personality .                ,         . 
+  
+       gain   vulnerabilities    ,    gain      .                  (..,  )      . 
+  ,     ,  ,    ,          .            coding . ﬀ 
+©  ,  ,  ,   ; 
+  intelligence    
+      ( ). 
+:  ó,  , á ,   õ;  . ; . :: 
+    
+  -  ü ,  ,  
+================
+:    protection_effect      
+     protection_effect   , perceived_vulnerability  perceived_vulnerability [modeling ],   personality  ,   .  ﬁ   coding    protection_effect        protection_effect. ﬁ , .., ,     intrinsic_rewards       .  perception       ,   -xxx    possibility_effect     protection_effect coding .     protection_effect coding ,       .           intrinsic_rewards  protection_effect coding   protection_effect    ,     protection_effect .  perception      personality :    (). 
+    personality   ﬁ  personality  () .   .        [].       .      Collection            ﬂ.     participant_modeling    .                   .      ﬁ               .    , ﬂ    ,       combining     .      .               protection_effect    [experience] , ,  certainty_effect impact  protection_effect coding perception  .      ,    ,      combining   ,     .         perception     protection_effect coding    [knowledge]  intrinsic_rewards       protection_effect coding.           protection_effect coding. 
+ ,  ﬁ  [],  )    ﬁ focus      protection_effect coding, )     techniques       , ..,  , segregating , focus    .    ﬁ    .  focus      () :        , , ,    ,              . ,   techniques            . 
+    ﬁ      .  focus                 .   ,       combining         .             ,  combining            [experience]  .     ﬁ   evaluating  gain  perception  protection_effect coding     . ,  combining  ﬁ    ,     perception            .     [resource]   ,  ,                . 
+================
+. , . , . ,  .  : 
+   
+       ,      personality ,       .  personality   "        [goal]     " []. personality      perception            perception [, , ].        perception    ,  ä  . []. 
+   ()   personality       .     personality  :  ,         , .. possibility_effect .   ,                .             [, ].      [experience]  , ,  intrinsic_rewards      ﬀ, ,      task   [, , ]. 
+appraisal      personality        appraisal     [].        ﬁ    ,      ﬀ       protection_effect coding perception   . 
+  . []      techniques          .        planning    , ﬁ        ( ).  syllogistic_rules                 combining         . 
+ä  . []     appraisal    gain.   ,             .          gain  ﬀ  ﬃ    [experience ]. 
+    []       [modeling]       .                 .          combining  ﬁ. 
+ perception    
+    ,   [],    , ,       .              ,      ,      ()    .      [],      .         .          ﬁ. 
+     ,        participant_modeling,      (     ),      ﬁ.        satisfaction_of_needs   ,     ﬁ   satisfaction_of_needs     extrinsic_rewards . ,         [experience]   physical_quality   ﬃ   . 
+             ,      .         , ..   protection_effect coding    SQL_Injection    
+  
+================
+:    protection_effect      
+ 
+ 
+ 
+ 
+ 
+ 
+:: 
+ 
+ 
+ 
+     . 
+  "SQL_Injection" .           isolation_effect  ﬁ.      ( loss )       .             . 
+   ,        ﬀ   (     ﬀ ),    , ,                 .                  focus . 
+     . 
+   
+  focus 
+     
+     
+     
+     
+     
+     
+     
+     
+    /++ 
+        [experience ], ,   focus     protection_effect coding .     focus                .    focus : 
+: protection_effect coding       , 
+/++: protection_effect coding      ++  , 
+:    /++ protection_effect coding . 
+        : 
+/++:    /++ protection_effect coding , 
+:      behavior      (.  
+[]), 
+:    , ..,     ﬁ   
+ﬃ    ﬁ   , .., , 
+: protection_effect coding  ﬁ    , .., protection_effect coding 
+   , 
+================
+. , . , . ,  .  : 
+:       ,    ﬁ  protection_effect coding  
+:    protection_effect coding   (   ) 
+        .      ﬁ  protection_effect coding    [Organization ],      .               segregating       . 
+      Collection        ,     ,       ﬀ      . 
+           .  ,    :                  .      ,          .  ,     combining  %     %  . 
+   ,    () perceived_consensus           ﬁ .     ﬁ              . , ,            ,          .    ,     ﬁ       [experience]   . 
+  focus,     .            .       :   ,       ,                .   ,  ﬂ               .           . 
+    
+                        .              ...   .     ,  .    ﬁ    .    ﬁ  ﬁ    .    .       perceived_vulnerability       . 
+.     
+ ﬁ         , ..,       .   ,      combining         .            ( , ä  . []).     perception   ,    appraisal         .          ﬀ ()=                          .      constraint                 ,                  . 
+  
+================
+:    protection_effect      
+  
+  
+ 
+ 
+     
+     
+        . 
+          :  (.),  (),  (),   (.), %  (), %  (), %  (), %  ()   (). 
+     . 
+. ()       
+. () 
+ 
+ 
+ 
+ 
+ 
+ 
+. ()       
+. 
+ 
+ 
+ 
+ 
+ 
+/++      
+. . . . . . 
+      
+    
+  
+      
+      
+. . . . . . 
+    ﬀ      gain ﬀ   .                  /++ ,     ,           .       /++        .             ,  . ,   ,   ,        ,             .   internalization     ,      ,   (  , ) .        ,      ﬁ       . 
+,          experiential_awareness     .   intentionality      ﬁ          (      ,  []).               . 
+            .         ,      .          ,          ,           .      [experience]      ﬀ         .     ,         .       ﬀ     ,     ﬁ             .   /++   . 
+================
+. , . , . ,  .  : 
+  ,                      :   ,  /++ ,       belief.          ,  [skill]       . personality   [knowledge]      physical_quality  .    protection_effect coding,   -  ,  ,     ﬀ   possibility_effect    ﬀ     .    experiential_awareness,              . 
+.  ﬁ 
+      ﬁ         .                         (  ).             ﬁ: ,   .   ﬁ ()  segregating   focus        (  . )      .    ﬁ            .  ,   ,   ﬁ        : 
+ -              
+, 
+ -           ,   
+   . 
+     ,    intentionality          : 
+τ (τ)= 
+ 
+
+ , >  
+, 
+ ≤ τ ≤ . 
+() 
+ , τ     ,  >          ﬁ   <        ﬁ.         .         ﬁ.            ,        personality            . ,      ﬁ       ()        . 
+      ,     ﬁ,         .  ,  ,   ﬁ experiential_awareness      ,     ,      ﬁ. 
+           (  )      ﬁ:   . 
+               [experience]     .            perception , ,                       .  participant_modeling             [experience]  . ,            .    
+  
+================
+:    protection_effect      
+. 
+. 
+ 
+ 
+ 
+  
+. 
+ 
+ . 
+. 
+# 
+# 
+. 
+# 
+   (%) 
+.. 
+. . . . 
+  (%) 
+. 
+      .  combining . 
+     ﬀ    .            :    syllogistic_rules         . ,    ,   combining              protection_effect   . 
+. ﬁ    
+               ﬁ       (   ).     ﬁ      (  )    ,    ,      ﬁ   .     ;     ,     ﬁ    ﬁ      ﬁ    ﬁ,       . 
+    ﬁ  . 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+       ,      ﬁ   ﬁ , %     ﬁ  %     ﬁ. ,    ﬁ,    ,    % %     ﬁ .           ﬁ  ( )= .  ()= .,     . 
+          ﬁ       . ,   ﬁ         ﬁ. ,   Collection        ,                  ﬂ    . 
+================
+. , . , . ,  .  : 
+           ﬂ    ,    , ﬁ       perception, [knowledge]  .          ﬀ     ﬁ. 
+.      
+ focus   ﬁ                 combining   .               .             -                  .   , ,                       ( )             . ,              ,                 .       ,   ,        [experience]     personality   .  , ,   ﬀ , ..,            ,     ﬀ,        . 
+     simplifying           .   , ,             combining  simplifying    possibility_effect :  Collection    ,     ,          . 
+         ( )             .          . 
+           . ,        isolation_effect       ﬁ    (..       ). 
+,    ,       ,       ﬂ           .    ,       . 
+    
+  ,       personality    perception  protection_effect coding,       protection_effect coding intrinsic_rewards.     , ﬁ              ﬀ          .           .                   .     experiential_awareness   simplifying         , ..        . 
+  combining,           ﬁ: ,    ﬁ.  ﬁ          ﬂ  behavior.        
+  
+================
+:    protection_effect      
+ﬁ,      ,      .     simplifying   experiential_awareness :       ,      syllogistic_rules        .      judging      . 
+          .            . ..,     ,      /++          . ,        :            [goal]     [experience]    . 
+  ,     simplifying    [experience]       ,    protection_effect coding [knowledge]   protection_effect coding . ,               .  syllogistic_rules   perception appraisal           ﬃ , ..    ü          personality   perception      ().  ,                ﬀ     .          , ,                [experience]   perception  protection_effect coding  protection_effect coding . 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ ,   ,  ,   .     appraisal       .      ,  ,  ,  . :./ . 
+ ,   ,   ,  ,   .     .          (),  . ,  . : ://..////. 
+ . perceived_responsibility   .      , ,  perceived_responsibility ,  . ,  . :./.  .  :      . : ://./.  ,  ,  ,   .          , ,   . .    , ():,  . : : //../.?=.. 
+ ö,  ö,  ﬀ,   . personality : ,   .   ,  , . :./. 
+ ,  ,  ,   .     personality        .   . ,  ,   , ,      ,  ,  ,  (),  , . , . : ://..////. 
+ .   perceived_responsibility process -        .   -       :   participant_modeling. /    ,  . : ://. .////... 
+================
+. , . , . ,  .  : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ä   .    perception.          , , ,  ,  . :./... 
+ ,  ,  ,   . perceived_responsibility  .  ﬁ    ,    ,  .   , . :./. 
+     .      ﬀ   .           ,  . , . 
+ ä. mental_calculation    personality .              ,   ,  , , , .    .  ä,  ,   . satisfaction_of_needs    personality personality     .      ü, ,        (), , ,  ,  . 
+ . :    ß.   -   ,  ,  ,  . 
+ ,  ,   .  ﬁ perception   intrinsic_rewards    perceived_vulnerability   .  & :   -        ,     ,  .  ,  . 
+  
+================
