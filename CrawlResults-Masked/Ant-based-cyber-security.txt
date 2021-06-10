@@ -1,0 +1,287 @@
+   
+ . ,  . ,  . , 
+.   
+    
+ ,  
+.@. 
+ .  
+  ,    
+, ,  
+@. 
+    -agent-based,   perception           behavior_control-ability            
+ .          :                participant_modeling       .   ,  ,    -based perception         protection_effect    -  ,  gain   perception        .            . 
+; ;  ;   
+.  
+ ,   personality [action]      .              ,           personality    [Organization]      [].   [],[]  personality                 . 
+ ,    ,   segregating           . ,                    .  ,   [Organization]     ,                      .   , ,    protection_effect   
+,     isolation_effect  
+ .  
+  , , .    
+, ,  
+@. 
+ .      ,      comply_effect       .    perception                      . 
+       ,          ,        .         .   perceived_vulnerability,      participant_modeling   , , , , ,   .        .                   .                      perceived_responsibility        []. 
+       ().               .        ,             . 
+                      .      intelligence                  .      intelligence (        ),         perception,  ,  , ,   .   ,   combining         . , possibility_effect                 combining     possibility_effect   
+================
+   .  ,   participant_modeling   ,               .         ; ,    ,     [action]    .       , personality,     satisfaction_of_needs  personality  .     intrinsic_rewards               . 
+  ,        ,    ,       .   ,      ,       [] .              []                  (://.../).           
+   gain  . 
+              ,  ,   intrinsic_rewards    .                .      
+ .  belief          . 
+.   
+ ,        
+participant_modeling    satisfaction_of_needs           .                 ,           ,        . 
+              .      ""  ""     ,       "    "  "  ".           personality    " "   . 
+    : 
+•  [function]  .   
+         
+.   [action]     
+       
+ .     
+          
+. ,      
+  segregating,    
+  impact    . 
+•  ,   ,  
+    []    . 
+      
+   .    
+  intrinsic_rewards      
+       
+.      
+    . 
+•  ,  ,   
+      Collection   
+        
+.      
+        
+     . 
+•  ,  ,   
+       
+       
+.   ;    
+        
+ .     
+   []  . 
+ perception                     [],  [],   [],        .   intelligence            , ,   .                .        ,          .             []                .        ,                . 
+ .        ,  -  intelligence ,   .      
+     . 
+.  
+                   .            ,     
+================
+        [Organization]  .           [Organization]            .     [policy]            . 
+ .       . 
+.  
+        .    ,        .    perception   ,     .           [policy]       .                .   " physical_quality" intelligence       .            [].                     .      situational_circumstance              personality    .    "" (      )   .   perception         .            .  protection_effect      ,     isolation_effect         .       ,    perceived_responsibility    [Organization ]. ,             [authority]    vicarious_experience   .     ,  ,     
+             . 
+.  
+   intelligence   ,    (), [function]         .   ,      ,        .    
+            .  ,         ,  ,    ,     ,        .    [policy]     . 
+      :         possibility_effect     .               .    [rewards]     .   combining         ,  [knowledge]   ,      (   ),              possibility_effect .          []. 
+             "[rewards]"       .    symbolic_modeling             .    ,                  .            possibility_effect  learning         focus    . 
+.  
+  , ,           combining   possibility_effect . ,        belief        . ,    []               .            .       
+            intelligence [].        ;         .         ,            .     ,                  
+.       []            .       :  ()  .                   .             
+================
+   .  ,      evaluating   ,      ,  ""  (    ),      .                               . 
+           [] . ,               ,     [].  intrinsic_rewards           personality ,     []. 
+      (        )  
+    .             .             .        [] perception,              . ,           perceived_consensus;           . 
+.  intrinsic_rewards 
+intrinsic_rewards         behavior         .    [],[]    intrinsic_rewards , ,                    ,  intrinsic_rewards             .       intrinsic_rewards   [],[]   intrinsic_rewards.      (  )      ,          ,        ,    intrinsic_rewards perception   . 
+ gain,   , intrinsic_rewards  intrinsic_rewards               [authority]      ,  intrinsic_rewards  intrinsic_rewards           . 
+.   
+             .   (://..//)            
+        behavior      .         . ,                        .    perception           
+      .           , 
+            [resource]       impact    .                     ,       [],[]   []   (        []).        
+   (   )     .  [goal]        
+    .               .            impact          .               . 
+.    
+                  perception  []   .      ,         .    ,    .  vicarious_experience              .   ,    mental_calculation         behavior    .   ,       mental_calculation  arousal     . 
+       ,      perception         .                .        [activity] ,  ,      .   ,    , ,          , ,   [activity]  .        .   ,   ,      ,     .         behavior  [function]     . 
+================
+ .     
+.    
+ [goal]          
+          .               
+   ++.  ,     self-efficacy    perception,           .     . 
+  process     .   [function]             .       ,   []      .                   [] .       [] ,  extrinsic_rewards  loss,  appraisal,     .     ,   process      isolation_effect   ,    [function]       .     ,        .      .            .      ,      .       . 
+) :         "".        
+.         perceived_uniqueness,   [].        .       .      ,       .    loss    ,    evaluating      ,          .          segregating .       ,   []    .  ,          perceived_vulnerability    . 
+     extrinsic_rewards          combining     .   . ) :  persistence  [],     ,     
+.   : 
+• 
+ :      ,    .      [action] (..,  )    .     physical_quality          . 
+================
+ . 
+   
+ 
+ 
+     . 
+  
+      . 
+  
+     . 
+[] 
+, , , .       .      . 
+          . 
+      [function]  . 
+      , .. , ,  , .    . 
+physical_quality 
+ 
+  
+  
+  
+      .        .       . 
+  
+     . 
+        (..  ).                    . 
+      .              
+          .              . 
+• 
+ :    learning       . 
+• 
+ :       physical_quality,    .      
+.  physical_quality           [].      ,   ,      physical_quality. ,      (..,               )      loss .     [] (, , , ),       .  ,           [],    (.., ) [],      . 
+• 
+:    []  "".       ,     [function]     .         ,   []     "".             
+ ,   ,   perceived_vulnerability,    []  "". 
+• 
+:  []    .        ,    []  .               ,                .     ,   []     .      ,       [],         . 
+• 
+:      ,   [function]   . ,     []                    (..,   ). ,      segregating   ,          .    ,   []    . 
+• 
+:        ;     ,         .                   []     .   persistence   []   intentionality   .       .       []      . 
+• 
+ :                    .     persistence       perceived_vulnerability ,          personality    perceived_vulnerability. 
+• 
+ : combining                 [] . 
+•  :     
+      [action ].  
+:  ,  combining   . )  :            combining      .       []      [activity ],   "  / ?"  "         ?" .        [function]     .             [function ].      [function]  "  process   ?"   "  process  . ?"    ,     self-efficacy      -positive (.., 
+================
+       [circumstances] ),       behavior_control-ability   . 
+      .        .            [function ],      [function]    .   ,     protection_effect  ,   ,   . 
+) :   ,  combining         .          .  ,     [function]  ,  combining [activity]    .       ,    []                     . ,    protection_effect ,              . 
+)    :              .        (, , ,  );         belief.       .                       . 
+        :   ,   ,   ,    .          .         belief        .  ,              belief.      ,            .  combining   combining      ,             
+ .            . 
+                     .     judging            .                 []   (  ) [] .         .       ..      ,    intelligence     .   intelligence             ,       .            ( )         .   intelligence ,    
+      ,       . 
+              ,         ,         .  protection_effect      ,   behavior_control-ability        .            . ,   intelligence ,          ; ,       . 
+          .    ,      (  )  (,) belief    .         process    belief,  -device ,          (    ).    personality    . 
+  ,      ,        ,             .              .                   ,             . ,       personality    ,            .       ,             . 
+   extrinsic_rewards,           physical_quality  
+ .       ,    perceived_vulnerability . 
+  ,    extrinsic_rewards     
+  .           process (.., hypervisor)        ,    .            . 
+.   
+        [resource]  satisfaction_of_needs   personality   ,   perceived_vulnerability     ,   .  ,      mental_calculation   impact       perceived_vulnerability ,         simplifying   . mental_calculation          ,  %  
+             ,   %           .   
+         ,    %     participant_modeling              
+================
+[ ].     %         ,     . 
+          .             .   mental_calculation  %        
+      (,  ;   ).     
+ impact    ,    %         . ,  %               ,     %        perception [].               , ,  . 
+.   
+           behavior   ,     behavior         .          -Sentinel             , ,   .                     perception.                        [policy]   . ,                      .          -xxx   learning  generalizing [knowledge]      .             generalizing         . 
+. belief 
+                        . ,    : 
+•        
+  . 
+•       
+     [resource] 
+. 
+•    perception    
+    . 
+•       
+,     . 
+                      intelligence,       , ,  . 
+ 
+       emotional_intelligence           . 
+                  perceived_responsibility . 
+      . .         perceived_responsibility  . 
+                     . 
+ , ,             ()              . 
+ 
+[] . , . ,  .  , "    
+," . , . , , .  -1238. [] ...  "intelligence   intentionality :   
+     ?," .  . ., . , 
+, . . 
+[] ..  "   possibility_effect," ;:,  . , , . 
+. 
+[] . ., . , . ,  . , " 
+ ,"       
+   (), , 
+..//.. 
+[] . , . , . ,   
+  , & , . 
+[] . ,    :    
+ ,  , :  
+,    , . 
+[] ...  . , . ,  . , " 
+ :     ,"  
+ , , . , ..  ., . , . 
+,  . , . : , , .  -14. [] . , "     ,"  
+   , . , , .  -106. [] ..  ":     ,"  
+:   , ...  , . 
+, . , :  , , .  -122. [] ..   ..  " perception   ," 
+, . , , . . 
+[] ..   ..  " :  belief  ," 
+     -Agent  (), 
+ , , . . 
+[] .   ., "  :  
+    ,"  
+:   ,   
+  ( ), . 
+[] .   ..  "  :  
+  perception     ," 
+ .  , . , , .  -66. [] ..   ., "     ?,"  
+ :     ( ), . 
+, ..  . ,  ..  .,  : 
+, , . . 
+[] .    . , ":    
+  ,"  .  intelligence , 
+. , , . . 
+================
+[] . ,  ., "      
+intelligence  ,"   ,   
+, . 
+[] . , " ," . , . , , .  
+. 
+[] ..  ..  ..  ..   .. 
+, "intrinsic_rewards      
+,"     ,   
+  ( ), , . . 
+[] ..  :  intrinsic_rewards     - 
+   ,  belief, , 
+:  [] , , 
+://.../belief // 
+.. 
+[] ..  . , ..  ..  .. 
+, ":   intrinsic_rewards    -based 
+  ,"     
+ impulsive_effect  (/  ),  
+, .   ., . , ,  . [] . ,  ., "[experience]  :     
+,"    (   
+        
+& ),  . 
+[] . ,  ., ", ,      
+",         
+    (  ), , : 
+ , . 
+[] , ://..//. 
+[] ":     ", ://... []  perceived_consensus, ://..//.. 
+[] " :    -  
+    ",  
+ extrinsic_rewards (), 
+://..//. 
+[] ..         
+  ,  belief,   
+, , 
+://...////. 
+================

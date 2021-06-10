@@ -1,0 +1,253 @@
+. . , . ,  . ,       .:     ",          .     ,  , . , . 
+ . : ://.../ 
+    
+  .:      
+ . ,  ,      ,   , 
+   /, , ,  
+,,@.. 
+isolation_effect 
+,                    ,                [Organization ].             .. ,     ,         ,       impact    .   ,                            . 
+: ,  , , , ,  ,   ,  ,  
+  
+,           (    ) ,                 ,     ()  . ,             participant_modeling      .                ,         /      .     . 
+              .    ,     ,   . [],                   /         .  ,    extrinsic_rewards  
+ 
+================
+    ()          ( ),    .              ",  ",   ",  . 
+       ( )                    [].           impact       gain    . ,         ,     focus               ,      extrinsic_rewards     . 
+  ,         focus   ,     :              perception   .,                  .         ,    focus           . . ,                                  .  ,       ,        . 
+  .  
+  .          .  perception   personality      perceived_consensus               (.., ,  , ). ,                     .           (, , ,    )    ,       []. 
+       .     ,    perception    .            ,      :  ,   process       ( ),        (.., )     .     ( )        process (.., , ),       (..,  ),    . ,        , ,   planning. 
+ 
+================
+ 
+ 
+,  
+ 
+,  
+,  
+ 
+,  
+ 
+ 
+,   
+ 
+ 
+ 
+ 
+  
+  
+  
+()   
+()   . 
+()   .  
+ :       . 
+   ,             .           .   simplifying             personality      [],     .       ,             ,                       [].                  :
+ .          
+ .  protection_effect        
+   .
+ .   .,        
+      .
+ .       .     
+    ,     , 
+  .
+    .       
+      .
+  .     .     
+isolation_effect      ,   
+         .  gain,  
+         .
+ .   .    [function]    
+ ,          
+       . 
+ 
+================
+ .  .          
+            
+. 
+                 :    ,    ,    . 
+,  [goal]      ()     combining     {  "{   ,       .      ,       ()        ,            . ,      ,           ,       (    )    (   ).          ,     (),        .    focus     (.., )     ,       . 
+            .     .    ,               process,    .    ,   protection_effect           {     (..   )       " []. ,    ,       ,                (   ,     ).    ,              [],  focus            . 
+,  .         ,                   .              intelligence,          .              (..,  personality                   )   perception    -            ,              , process ,     . 
+,                      ,       .       extrinsic_rewards    
+ 
+================
+ (..   [])          process.          ,      extrinsic_rewards       perception   ",          protection_effect      .    ,    personality   ()        ,                    .  gain,      (, , ,  , .)             . 
+       
+ .   
+                .    ,  ,   ,    []. ,         . ,                      .    ,         .              [],                   : , ,   . ,               .          ,        ,     . 
+   .    ,       ,         ,  , .               .          ,  ,       (,   )         (. []).           vulnerabilities             perceived_vulnerability :    ,   personality  (..,   ),    personality        .    ,      :,    (..,  ,  ),            . ,    ,  
+ 
+================
+          .   syllogistic_rules,   perceived_uniqueness     (..,   ),         .      ,             . 
+/ .             ( { {  { { )     ,     protection_effect             []. ,         ,        ()     .       ,             ,       hypervisor.         (..,           learning   ),       intrinsic_rewards    ,   combining     .   ,       ,     simplifying       combining    .    ,         Phishing,              .               behavior   ,                 ,   . ,         ,      . 
+ .           ,     ,                 ,    .        ( combining ),  (  )   ( ),                     [].                protection_effect       (.., ,  , .),                perceived_vulnerability [].     ,               ,         .                 (..,   , ,  , .).  gain,           ,           behavior      [Organization ].          personality  (  
+ 
+================
+ :      .   
+ 
+ 
+   ( ) [exposure]  personality   
+/   ,  
+ 
+ 
+    ,  
+ 
+ 
+      
+  
+ 
+perceived_uniqueness   
+Phishing 
+     loss 
+    loss 
+   ,          ,      
+    physical_quality 
+         
+                  
+   )    . ,             ,     ,   ,  . 
+. 
+  extrinsic_rewards             ,         protection_effect                    []. ,    ,     (     vulnerabilities)        belief          (..,  /  , ).   ,                     (..,     )          .              (..   ,      ),   perceived_vulnerability  .  gain,      ,              . ,                ,              ,               .       intrinsic_rewards       ,    personality        . 
+ 
+================
+     .  
+  
+                  ..                       .    :          ,             .   ,              . []   ,         [].                . 
+ .                   personality  ,     ()   participant_modeling    .   possibility_effect    ,                    ,               .    ,    mental_calculation         behavior (.. process )      .       ,          behavior. ,   ,         ,             loss    . ,            ,      . 
+           .             []. ,            .       (..   )       :                      loss,               .    ,          "         behavior     .    impact    ,             :     combining         . 
+ 
+================
+  .       .        protection_effect       [].  extrinsic_rewards                 :             ,      ,     {     possibility_effect          :     protection_effect             personality intelligence. ,            personality  .         ,        impact      . 
+ .          extrinsic_rewards       gain      [].                    :            ( ),        ().          ,       ,    /     syllogistic_rules, .      ,         personality ,   personality    . ,        personality          . 
+.              ,         [].              , .          ,       .        ,     mental_calculation        ()    behavior   .         ,     ,                    ,         . ,     , /       . 
+  .  ,  .        extrinsic_rewards       " (   )   " (   ).                     . 
+ 
+================
+ :      .   
+ 
+ 
+ 
+. .           behavior   
+ 
+     
+ 
+      loss 
+[exposure] 
+    
+ .     
+ 
+  
+ 
+ 
+   
+  
+   
+ 
+ /   
+    
+  
+ 
+ 
+ 
+   
+   
+     
+  
+/  
+/  
+       
+         ,     loss    :      participant_modeling        (),        (),    (),   Privilege_Escalation  ( ).    ,       ,  loss   .  ,             participant_modeling   [action ]{ 
+   perceived_vulnerability  . 
+     . 
+           .     personality        .         ,    {      opportunity_for_criminal_acts ,      possibility_effect     (..   ). ,         ,         . ,      gain  combining                 .           ()   ,      personality  .   ,        ,           .
+ .      ,      
+ protection_effect  possibility_effect       .  
+.  gain,           
+ . 
+ 
+================
+ .       mental_calculation       
+ {  ,  , possibility_effect  
+ loss      {      
+ ,            
+   .
+ intelligence.   Protocol_Analysis    
+ ,         
+     combining     
+    .
+ .           
+ ,      ,    
+   . ,    ". 
+      possibility_effect    ,           {           (..           perceived_vulnerability, behavior_control-ability  impact        ,  []). ,  , personality  personality    .             ,        impact   . 
+,           ,   []           (. [])    protection_effect    ,    mental_calculation      . ,             behavior   .  ,   ;                  . 
+   extrinsic_rewards         ,        :       []        /       .  ,           [knowledge]     ,      focus     . ,         behavior     []. 
+,                     . ,    personality           ,  impulsive_effect    ,             []. 
+ 
+================
+  
+                         ..       ,           . ,             focus                   . 
+ 
+          ,       () .                    (/). 
+ 
+[]  .  ..     intrinsic_rewards.  
+   , , . 
+[] .    vulnerabilities. ://. 
+.//,  . 
+[]  ~,  ,   ,  
+  .    :  
+ .        
+(),  {, . 
+[]   ,  ,   . 
+       .   
+   ,  {. , . 
+[]  .      .   
+ , ():{, . 
+[] .   . .   :      
+.     , ():{,  . 
+[]  ,  ,  , ~ ,   
+ ,   .  process     
+     . perception.    
+    (),  {, . 
+[]     .    
+ :      . : 
+ 
+================
+//..///_// .?__blob=&=,  . 
+[]  ,  ,  ,  ,  ,   . 
+  perceived_vulnerability          
+ ().  , . 
+[]  ,  ,  ,   .   
+        .     
+, ():{, . 
+[]   ,  ,   .   
+ :  . , ():{, . 
+[]     . :    
+  .    , ():{, . 
+[]      . Vulnerabilities    
+   .      , ():{, 
+. 
+[]  ,  ,  ,   . 
+ ,        
+ :   . .   
+ ,    , ():{, . 
+[] .   . .      
+ ..  , :{, . 
+[]    .   :   
+. ://..//,  . 
+[]  ,   ,  . ,   . 
+ :  perception  .   
+ , ():{, . 
+[]  ,  ,  ,  ,   . 
+ intelligence    .:     
+       .  , 
+:{, . 
+[]  . ,  ,  ,   .  
+       .    
+      (), . 
+[] .  intelligence . ://.//,  . 
+[] . , . ,  . .     
+  :    .   , ():{ 
+,  . 
+ 
+================

@@ -1,0 +1,975 @@
+   ()  
+     
+  
+ : ..// 
+ intelligence         
+ 
+ ,∗,    
+, 
+ü  
+ 
+   ,  , ,  ,  
+ 
+     ,  , ,  ,  
+       
+    
+        
+ history : 
+                 
+: 
+      
+     
+    ()                  ﬁ          . ,        ﬁ        .  focus   intelligence              :                     .                           .                    isolation_effect     .                 () .                . 
+.  
+    ()            .                  impact          .                           .        ,                 [].        personality     ;                      [].      ,      intelligence   ,      [].         ﬁ                . 
+                  
+∗ 
+ . 
+ techniques : .@.. (. ). 
+://././.... /©   ..   personality. 
+©2018Elsevier ..   personality. 
+      ()  .   personality                () [].      ,     .         ,       ,     ,     .     ,              .                        . 
+                    [].     certainty_effect  possibility_effect ﬁ ﬁ,              perceived_vulnerability. ,          ﬁ          []. 
+                ,       ﬃ.            ﬁ  .         ﬂ       combining  .                  ﬃ 
+================
+ 
+.   ./   ()  
+   .   ,            ﬃ     . ﬁ       ﬂ          possibility_effect   .        ,         . 
+                      []           ﬃ.            ﬃ  /             personality   .  gain        ,  ,     perception   ﬃ .        experiential_awareness  ﬃ   ,          .      ﬃ           []          [function ].            [function]        .                 [].  ﬁ                [function ].     ﬁ,         ,       .      focus           ,        .     -   personality ,               , ..,  . ,   ﬁ          personality         belief   .             ﬃ   ﬃ . 
+  ,                .     ﬁ                history      []    .   ,                ()  .             .                     . ,                  . 
+.   
+ gain     ,                 [].       ,   ,  focus    . 
+    vulnerabilities    .        ,          ﬃ     .   ,       intentionality   segregating           .    , ..,     ,    .          []: 
+•   :         intrinsic_rewards  ﬁ ﬁ       . 
+• Eavesdropping, Interception  ﬁ :             [goal]   personality . 
+•  :     ,  ﬁ                perceived_uniqueness      . 
+• ()    (()):   focus      protection_effect            ﬁ       .       ﬂ            ,   , , .    ,             .         ,  ,       .   ,               learning ,      . 
+        ,       ()   Fuzzing  [,].   ﬂ         ,      techniques intrinsic_rewards,      ﬃ     .  Fuzzing ,    ,           .           :    ,   ﬂ ,   ﬂ,  ﬁ    vulnerabilities, ..,    []. 
+        protection_effect     .  ,     ﬂ-  ,   ﬁ []  ()               [].   ﬃ       ﬁ     ﬃ      ,   [action]  .                [].        ,           , ..,  ,  ,  ,  .  ,    ,         . 
+ [],             () ﬂ.                 ﬁ    ﬃ.    ,     - ﬁ           ﬃ .  [,],         ﬃ   ,        .                 ﬃ      .                    .              ,     ﬁ  . 
+      ,           Fuzzing      .   ,       ,       ,  , ..,      ,  .             ﬁ             ﬁ [].  experiential_awareness focus           
+================
+.   ./   ()  
+       [].                  .  ﬁ           ,       ﬃ.                .   ﬁ                 .           ()        ﬃ,     []   .                     .                        ﬃ . 
+    ,      ,    [,].            ﬃ        ()      .       experiential_awareness      ﬁ    . ,           experiential_awareness        .                     ,          .      ﬁ              . 
+   intelligence           .         ([capability]     )              protection_effect       .       ,   learning       intelligence       / .       (      learning)            [].   focus    intrinsic_rewards           .  internalization ﬁ     ()     .    ,        ﬁ      []. 
+           [].                 ﬁ         []. 
+     ﬁ, ,       personality       focus  ﬁ  [].         : )           ,    ,   . []; ()     ﬁ      []; ()        [function]    ,        ,       []; ()  ﬁ        ,        personality  ,        personality  ,            ﬁ [,]; ()       ,         ,     . 
+ 
+,            ,          ﬃ   []           . ,            [].   ,     ,           ()      ﬂ [].   focus, ,                .                       combining       behavior . 
+   ﬁ                   [].                . , ,       .        :      ,            ﬁ       ﬃ. 
+.   
+ ﬁ    ﬁ    , .., , .   ,     =     behavior           .   perception , ..,   ,        .   [activity] experiential_awareness               (, ,  .)             . 
+     ,    [activity]       ,                .                               (()< < .     personality   perception .  personality ,     ,        /          perception ,      ,= ,...,||,  ||      . 
+           .       combining        personality .   personality       >     perception .    [activity]   , = ,...,,          ,    .       
+  ,        
+  .  = 
+ 
+= 
+,             ,    . . 
+,       , ,   [] ,        || personality     .  [] ,    combining              combining   personality   , = 
+|| 
+= 
+,      . . 
+      ﬁ          . ,       ,  ∈d    []       perception .      []        ﬃ     . 
+     certainty_effect () ﬁ  ( ∈ +   ∈ ++). (, )               . (| : )   [function]   ﬁ          
+================
+ 
+.   ./   ()  
+ 
+ 
+··· 
+ 
+··· 
+ 
+, 
+ 
+ 
+··· 
+ 
+··· 
+ 
+, 
+ ... 
+ ... 
+··· ... 
+ ... 
+··· ... 
+ ··· 
+, → 
+, ... 
+ 
+ 
+··· 
+ 
+··· 
+ 
+, 
+ 
+ 
+··· 
+ 
+··· 
+ 
+, 
+ 
+ 
+ 
+ 
+ 
+perception   ( 
+) ∗ Δ   ∗ Δ 
+. .        gain    
+  (= 
+ 
+= 
+)   perception . 
+, 
+, 
+··· 
+, 
+··· 
+,|| 
+ 
+, 
+, 
+··· 
+, 
+··· 
+,|| 
+ 
+, ... 
+, ... 
+··· ... 
+, ... 
+··· ... 
+,|| 
+··· 
+→ 
+ ... 
+, 
+, 
+··· 
+, 
+··· 
+,|| 
+ 
+, 
+, 
+··· 
+, 
+··· 
+,|| 
+ 
+ 
+ 
+ 
+|| 
+ 
+perception   ( − ) ∗ Δ ∗ Δ 
+. .   []    combining     (= 
+|| 
+= 
+) 
+ 
+= 
+ 
+. .                    ( ∈ +). 
+     :      −  −     . (, )   [function] ﬁ      ,   . 
+        opportunity_for_criminal_acts    ,  ,      ,...,    -long  ,      , ,    ,  .   combining             , ,  ,  : ()= (( ), ). ,           .    ∈ +       
+   
+ 
+        
+,  
+ 
+,    . . 
+  ﬁ ,   ,       ,           : = [||...|]  = [||...| 
+  
+].              (, ),  
+  (, ). κ( , 
+ 
+ 
+)  ﬁ     
+                 :        
+ 
+   .      ,    ,          ||×||. 
+.       
+             process       .    ,                process         .    belief,  ﬁ                            .     ()                  .      ,   impulsive_effect       ﬃ    /   [resource]           .      (),     , ﬁ                       .      [function]           .   ,             learning     ﬁ     .   ,            . 
+..   
+     ,  ∈d       . ().     ﬁ    certainty_effect  () , ( ∈ +) ,                     .      evaluating   ,,  gain        ( ∈ ++),                  belief,               .  ,           ,   : == . 
+(,)= ( − )( − ) () 
+  certainty_effect       =           . ,      . 
+(,)= ( − )( − ) 
+= ( − )( − ) 
+= (( − ))( − ) 
+= ( − )( − ) 
+=  − = (,) 
+= (,) () 
+ =     ,       . . ()                   . 
+..     
+        combining      ,   , 
+================
+.   ./   ()  
+                   .       combining      , ,        possibility_effect     .           ,     .          learning  physical_quality   (      )   loss [function]               ﬃ     .                 ﬂ   . 
+          ﬁ   [function]    certainty_effect ﬁ ,  ∈ ++,  : 
+ (| : )= 
+ 
+( − )( − ) = 
+() 
+             ,  (| : )> ,     .             loss [function]  : 
+++ 
+(| : )+ λ(,)+β(,) 
+() 
+ . (),      , λ(,)  β(, ), ,          [] ().  [function]              ﬁ  . ().      [function]      .                 .              perceived_uniqueness   protection_effect                . ,           evaluating               appraisal - .             (  ),    loss , λ  β,    α  .      ,      perceived_uniqueness , = .       [function]  ,     ﬁ     ﬁ ,      . (). 
+(,)= ( 
+−1 
+) 
+− () −  
+() 
+ (•)    [function]   . 
+    ()         . ()     .
+ 
+= 
+λ 
+−  
+ 
++ 
+β 
+λ+β λ+β 
+
+ 
++λ 
+ 
+−1 
++ β 
+( − )( − ) () 
+= 
+         .         . 
+..      
+           ﬃ  ,       ,       .,                 impulsive_effect .   focus       . 
+ 
+         . 
+:   ( ). 
+:  , λ, β  α ( ). 
+:  
+:    ﬃ       ,  
+   . 
+:  (| : )>   
+:  . 
+:      ﬁ   . :   
+:  . 
+:  = . 
+:   ﬂ  
+experiential_awareness             combining       .                μ=      perception , = .  ,           ,                 μ     ,  = ()( )= ()−1()       . 
+      personality,              ∼ χα,,  ∼ χα,, ...,  
+ 
+∼ χα,.       
+ 
+personality  ,  combining           + + ···+    .  , 
+ = + +···+ 
+ ∼χα,++···+ () 
+,         = χα,.  α    perceived_vulnerability     ﬂ   .         ,        ,    ,   perceived_vulnerability   α      .                perceived_vulnerability  − α.    α                       α∈{., ., ., .}.     perception      combining  experiential_awareness . 
+ ,    ,    [function]       : 
+ 
+=   
+ 
+() 
+      .  ﬁ          (),     ()    .   possibility_effect         [function]   ,  comply_effect     (  )      χ .                         .               , ..,    Deadeye_Jackal -  . 
+ ,          ,                   .     ,        
+================
+ 
+.   ./   ()  
+, 
+, 
+, 
+, 
+, 
+, 
+. .    = [||]  = [ | ]. 
+      .      ,         personality    appraisal ,          . 
+.    
+         ,   task   combining               .   ,    behavior history   perception      ,    . .  process                       .            .  ﬁ                        .               perception , ..,        opportunity_for_criminal_acts.             . 
+..    
+ mental_calculation                 ,  (),...,( ),   .            ,        .   ,                       perception ,              .  [goal]   appraisal            .   ,          .          , .,    ,   intentionality   combining      possibility_effect .              , ..,   ,      live_modeling  . 
+      , ..,   , (, )     (, ), = [||]  = [ |]      ,  . .            .   ﬁ ,      ,  : 
+• (, ),(, ),(, ),(,) • (, ),(, ),(,) • (, ),(, ),(, ),(,) 
+• (, ),(, ),(,) • (, ),(, ),(, ),(,) 
+        [],   personality             .        ,                   . 
+...     
+     = [||...|]  
+= [||...|]     (, )   [] ,      ,  ,=   = ,...,, ,=   = ,...,,  ,= .         [function]  appraisal                     , κ( 
+ 
+ 
+, ).   (, ) ∈ {,...,}×{,...,},   ,  : ,= ( 
+, 
++  
+  
+, 
++ ,)κ( ,) () 
+,       (, )           ,  : 
+(,)= , 
+() 
+           ,     ||×||  ,  ||     personality    ,       : 
+(,)= 
+(,)
+ ,,= ,...,|| 
+(,) (,) 
+(,) → [,] () 
+         . 
+...    
+                . a_memory                . 
+  [function] (  [function ])     
+ , ()= ((), 
+  
+)  ()= (( ),)   : 
+κ( 
+      
+ 
+,)= (−γ( , )−ρ| −tr |) () ( ,)= ( 
+ 
+ 
+−  )( 
+ 
+ 
+− ) 
+          
+   . ().   κ( 
+ 
+,)=    
+ 
+=  
+ 
+  
+ 
+ 
+= .  ﬃ γ  ρ           , .   focus    γ= ρ= . 
+..    
+               .       (  )        ; ,       (  ),     .             . 
+  ,   ,           ,  ∈d,  : 
+(,)= (−( − )( − )) () 
+================
+.   ./   ()  
+        . (, )    =                 ,      ﬃ   .               evaluating  behavior  .  . (),  mental_calculation       perception ,             .  . ()  (),            evaluating ,     ,      perception . 
+..   
+              . ()  ().   , ,         ,             .           :         behavior ,           behavior .          ,         .       ﬁ       .         .                          ,              .         ,    []. 
+    personality     ,    combining    physical_quality     personality ,        :
+ 
+|| 
+= , () 
+= 
+ ,= (,). 
+               , ,,...,||.   , ,     . ()           . 
+     . 
+:  ,    ,     ||×||. 
+:   ﬁ  , ψ  ψ,    
+  = λ <λ     
+  ψ= ψ,        
+λ,...,λ||. 
+:  ψ  ψ    ∈ ||×2.    
+         ,  ∈ . 
+  . 
+:         . 
+=  −  
+() 
+    ||×||     , (, ),     . ()  (). 
+.. impulsive_effect ﬁ     
+            ,             .    
+ 
+  ,   ﬁ task         . 
+     ,               .              ,               .  ,               ,         . ,       ﬁ      .  ,                ,                 .      
+    . 
+:       ,    , 
+  . 
+:    ,       
+   . 
+:       =   
+:   . 
+:  
+:        . :        
+:   
+    . 
+     ,           . 
+   . 
+:        
+:   physical_quality  γ  ρ     
+. 
+:        ∀ (,)∈  ×U,  
+ ,=  (,),       
+  ,           
+ , ,    ,   
+    personality . 
+:      . 
+:   
+:        
+:        ∀ (,)∈  ×U,  
+ ,=  (,),     combining   
+ ,             
+, ,    ,      
+ personality . 
+:   
+:        
+   # = ,  ﬁ   . :            
+      ﬁ   . :          . 
+.  
+      ,      satisfaction_of_needs              ,                 . ,        simplifying        
+================
+ 
+.   ./   ()  
+. .    . 
+,    ,      ﬁ-  ,    .    personality - ,  ,            [].  live_modeling  ﬃ    ,         ,             [,].             .      source  []      .   ,  perceived_vulnerability  ,     ﬁ       live_modeling      [].          . .             ,        . . 
+ ﬃ ,     ,     ﬃ    [].                     ﬃ    .     :  possibility_effect    (  ),        (  ),     personality (     ),         (  ),       (  perceived_vulnerability ),        (  perceived_vulnerability ),         (  ).         behavior           .  situational_circumstance                        ,      ﬁ                   .                    .      personality            ;   personality      . 
+                .                   (         )    ,        ,    .    ,         [],          : 
+• : , , , , , , , , , , , , ,  
+• : , , , , , , , , , , , , ,  
+ experiential_awareness       :      ﬃ,  ,    ﬃ       ﬃ.            personality  .        ﬃ        .    ,      combining  , , ,        (.  . /),   perception () .  extrinsic_rewards   ﬃ        . .    ﬃ      .                       ,         experiential_awareness   .                    . 
+  ,            .     ,         ,      ,       .   ,      ,      ﬁ    (, , ,   ),              .      ,                       . 
+   ,    ,        ,    ,       , participant_modeling  role  .  ,           .     ,        ,     ,  evaluating     .   ,      ,      ﬁ    (, , ,   ),             .       ,                       .  .       . 
+        .              ,           . a_memory          ;       ﬁ    (= {,,,}, λ= {.,.,.}, β= {.,.,.}      
+================
+.   ./   ()  
+. .   ﬃ     . 
+ χ  α= {.,.}).                (γ= .  ρ= .).    ,  participant_modeling     ﬁ    = {,,,,},= {,,}  = {,,,,,}. 
+     (     perceived_uniqueness  )    ,              .         ,             (..,  = ),     ﬁ  (.., a_memory = ),       ﬁ     .  , a_memory      ,      : 
+ ()= 
+#    
+#    
+() 
+a_memory ()= 
+#    
+#    
+() 
+ ()=  
+ 
++  
+() 
+    ,               ,    ,     . 
+        perception  . .          perception      ﬃ .  ,      ,      .        behavior_control-ability . :          perception      , = ,,...,.     ,          experiential_awareness  ,       . ,    perception  ,          ,        . 
+ 
+..      
+.                  .  ﬁ          ﬃ ,             .           .         ,       ,           .            .                 ,          .          impulsive_effect        ﬃ; ,             ,    persistence          .                      ﬂ   . ,       . 
+    self-efficacy :   ,  mental_calculation         .  ,  appraisal                       (   ﬁ      ).    ,           situational_circumstance       .       behavior    (),                 .   ,                  physical_quality . 
+                    .     .                       .   
+================
+ 
+.   ./   ()  
+. .   ﬃ    [function]  perception .  ﬃ     . 
+  
+        ﬃ     (   = ,λ= ,β= ,= ,  χ  = ,λ= ,β= ,α= .,   = ,= ,= ). 
+  
+ 
+a_memory 
+ 
+  χ -    
+. ± . . ± . . ± . 
+. ± . . ± . . ± . 
+. ± . . ± . . ± . 
+ ,                 ()      (). 
+         (   )       ,            ,      [].  syllogistic_rules                 ﬁ           .           ,  χ    . (),     gain  .                  .               .          .       ,                        ﬃ . 
+..    perception   
+     perception       ;                 .         perception     ﬃ       .   gain        intrinsic_rewards, 
+            . 
+..   ﬃ  
+      ﬃ          .               ,    a_memory  .  χ          ,        .    ,                 .       ﬃ  ,     .   ﬂ    ﬃ    ﬃ,    . ,    ﬃ  ,  impulsive_effect          .           ﬃ . 
+..      
+.    ﬂ    .   ,                ,                           .  ,                 ,    combining      ;                  ,    combining       .  ﬁ           .    λ= β= ,   ﬁ   ,                .    ,             α>.. 
+================
+.   ./   ()  
+ 
+. .         .  ﬁ ﬁ    (   ),    ﬁ    (   ). 
+================
+ 
+.   ./   ()  
+  
+        ﬃ      (   = ,λ= ,β= ,= ,  χ 
+,α= .). 
+ 
+ 
+ 
+  
+ 
+χ 
+ a_memory   a_memory  
+.. .. .. .. .. .. 
+. . .. .. .. .. .. 
+  
+ = ,λ= ,β= 
+  
+  
+  
+.. .. .. .. .. .. 
+.. .. .. .. .. .. 
+.. .. .. .. .. .. 
+        ﬃ      (   = ,λ= ,β= ,= ,  χ  = ,λ= ,β= ,α= .). 
+ 
+ 
+  
+  
+ 
+ a_memory   a_memory  
+.. .. .. .. .. .. 
+.. .. 
+.. 
+χ 
+.. .. .. 
+. .        . 
+..       
+.             .      ﬁ          ﬃ   ﬁ    = ,λ= β=   = .  χ   α= .    .            .  ﬁ                  .  ,  ﬁ       (   
+∗ 
+ )                    . 
+..     
+ λ  β           .     λ        β,                     .    ,   β                  segregating . 
+    χ ,  α       .         (. α= .), 
+  
+  
+  
+.. .. .. .. .. .. 
+.. .. .. .. .. .. 
+.. .. .. .. .. .. 
+             impulsive_effect           .       (.., α= .),            role    α   χ ,          .      (.. = .),     ﬂ     ﬃ    . ,     (.., = ),     . 
+.       ()         ﬁ     α,      ﬃ   ﬁ , .    α       . 
+..    ﬁ  
+   ﬁ ,         ,               .       ﬁ,           [].    ,                 ,        .     
+================
+.   ./   ()  
+ 
+. .           . 
+. .            α   .  .  .      .  .  . 
+. 
+  
+     ﬁ.   χ        χ , . ,         ,        , ,           ﬃ           . 
+ 
+ 
+a_memory 
+ 
+ -   -    -  χ -  χ -   χ -  
+. ± . . ± . . ± . . ± . . ± . . ± . 
+. ± . . ± . . ± . . ± . . ± . . ± . 
+. ± . . ± . . ± . . ± . . ± . . ± . 
+  ﬁ      .     ﬁ       .    possibility_effect perception     ,  ,       .           , ..    ,         . 
+.      ,            ,  ,   . ()-().      behavior       ,        :  .  ,               .      (   behavior    − =       )    ,    .    .     behavior        (physical_quality ),           ( ).           (  ),        personality .            (  )           .  ,            . 
+.                  
+================
+ 
+.   ./   ()  
+)       (γ= ρ =) 
+)      
+)          
+. .         .              .    ﬁ,  physical_quality       . (         ﬁ ,           .) 
+ .  physical_quality      ; , 
+ 
+  (physical_quality )  (, )    .    isolation_effect          . 
+.        .       .     ,    
+)       
+)     
+. .             (, )   .                    ﬃ   perception    . (         ﬁ ,           .) 
+    .            . 
+     ﬁ      .                  .                 ,      .    ﬁ,           (    )           [],    .          .      []     .                  ,       ,     personality  
+================
+.   ./   ()  
+  
+     ﬁ   ,             . 
+ 
+  
+  
+ 
+          
+.. .. .. .. .. 
+. ±26. . ±26. .. .. .. 
+.. .. .. .. . ±1. 
+  
+     ﬁ   ,    perception . 
+ 
+  
+  
+ 
+          
+.. .. .. .. .. 
+.. .. .. − 
+− 
+.. .. .. .. .. 
+ .  experiential_awareness ,   ,            . 
+..     ﬁ  
+    perception           ,     .            ,    ﬁ  .         ﬃ     .        ﬁ-       ,  γ= ρ=      ,  ,         process     ,        .  perception      .           .   ,           .       ﬃ evaluating  ,      ﬁ   gain.                    .                      personality          . 
+             perception .    ,       combining  .                           .    ,       .       personality .                      . 
+.     
+ focus               ﬁ       .            :              ﬁ     . 
+               perception  .  syllogistic_rules     ()        impulsive_effect    ﬃ .  perceived_uniqueness , ..,    
+ 
+  ,      .              ﬂ   ﬃ.          ﬃ      appraisal         ﬁ        . 
+ﬁ            .    belief                 ,      .           .     [function]         ;    ,        perception      .          . 
+              ,     personality   .         ﬃ, perception     ,      .      ,          .     ()   .  .  χ   , . 
+   perception  ,  ﬃ              .   perception       ,          / intrinsic_rewards.    ,     ﬃ           :   ﬂ  ﬃ ,     ,      ..              . 
+  ﬁ       .             .  perception         gain  . ,     ﬃ   gain    .          ,               ﬃ .                           . 
+ focus      . ,  gain  experiential_awareness  ﬃ,      ,         [resource] , ..,  . ,         perception             ﬃ.      mental_calculation            .             ,  ,       . ,         ,          loss     .          ﬁ        .                      . ,       loss         .            ,                     .                   
+================
+ 
+.   ./   ()  
+ [action]         . 
+     ,         protection_effect,                 () .           (..        )         ,    [].             . ,                              . 
+ 
+ focus         "         ,  gain,  evaluating          ",   ﬁ       ().          . 
+         [function ]. 
+  ()        ,  ()  ()    perceived_vulnerability  ,  ,   :
+ 
+() 
+( )= () 
+() 
+ ()
+ 
+=   
+ 
+ 
+() 
+belief             μ  μ      , ,  :
+ ()= 
+ 
+− 
+ 
+( 
+− μ) 
+−1p 
+(π)/()/ 
+ () 
+() 
+()= 
+ 
+(π)/()/ 
+
+ 
+
+ − 
+( 
+− μ) 
+−1q 
+() 
+() 
+ ﬁ     . (),  : 
+ 
+(
+ 
+= 
+)    () 
+ 
+= 
+−  − () 
+−1p 
+ 
+() 
+()
+ 
+++ 
+−1q 
+() () 
+ 
+ 
+  
+= 
+  
++ − 
+−1p 
+ 
+() () 
++( − μ) 
+−1q 
+()
+ 
+() 
+ 
+ 
+ 
+= 
++ 
+ 
+−1p 
+   
+− ( ()())
+ 
++( 
+−1q 
+()()) () 
+    perceived_uniqueness = ()   ,   .         , 
+    :
+ 
+ 
+)= 
+ 
+ 
+ 
+− 
+ 
+−1p 
+( 
+  ( 
+( 
+ 
+)( 
+− μ) ) 
+( 
++( 
+−1q 
+ 
+)( 
+− μ)) () 
+= 
+ 
+ 
+ 
+  
+−1p 
+ 
+− 
+( 
+) 
+ 
++( 
+−1q 
+ − μ − μ 
+ 
++ μμ 
+ 
+) 
+() 
+= −12  
+ 
+− 
+ 
+ 
+ 
+() 
+(  
++( 
+−1q 
+ − μ − μ 
+ 
++ μμ 
+ 
+) 
+() 
+ 
+−1q 
+ 
+ , 
+ 
+ 
+=  
+ 
+, ()=   = + μμ.    :
+ 
+ ( )= −1  
+−1q 
+
+ 
+−1 
+  
+  
+− 
++ 
+ (+ μμ 
+
+ 
+−μμ 
+ 
+− μμ 
+ 
++ μμ 
+ 
+) () 
+= −12  
+−1q 
+− 
+  
+−1q 
++ ( 
+)
+ 
++ 
+−1q 
+(μμ 
+ 
+− μ 
+μ 
+− μμ 
+ 
++ μμ 
+ 
+) 
+() 
+= −12  
+−1q 
+− 
+  
+−1q 
++ ( 
+) 
++(μ − μ) 
+−1q 
+(μ − μ) () 
+,              , μ= μ,    generalizing :
+ 
+( )= 
+ 
+ 
+( 
+−1q 
+)−logdetp 
+−1q 
+−  ()
+ 
+= 
+ 
+( 
+−1q 
+)−logdetp 
+−1q 
+ 
+−  () 
+= 
+ 
+(,) 
+() 
+(, )     ()           appraisal     .   [function] : [, ∞) ﬁ         ,  ,   , , : 
+. (, ) ≥0  (,)=   =  ( 
+) 
+. (,)= (,) () 
+. (,) ≤ (,)+ (,) ( ) 
+ 
+(, )      , , ,     ,          . 
+ 
+[] . , . , ..         
+    , . .  () () 
+, :./ . 
+[] . ,     ,  perceived_responsibility  
+  , , (://.personality ../ 
+/// 
+.), [;  ]. 
+================
+.   ./   ()  
+[] ..  . ,    intelligence  : , ,  
+ ,  , . .  () () , :. 
+/. 
+[] . , . , . , . , . , . , 
+. , . , :   ,  , . : 
+//..//. 
+[] . ,      , , (://. 
+.//// 
+.), [;  ]. 
+[] . ,      , , (: 
+//../// 
+/), [;  ]. 
+[] . , . , ..  . , . , ..    
+    , :      
+     (), . 
+[] ..          , 
+ . . .  () () . 
+[] . , . , . ,         
+:     ,    
+() () . 
+[] ..  . ,     Fuzzing , :   
+       ,  
+  ., , , . . 
+[] . , . , . ,      
+    , . .  () () 
+. 
+[] . , . ,   simplifying          
+ ﬁ [] , :      
+  intelligence   , , . . [] . , . ,       
+    , . . . .  () () , :./ 
+ . 
+[] . , ..  . ,   perception   
+[modeling]        ﬁ, :  
+          
+ (), , , . . 
+[] . , ..  . , . , ..      
+     , :    
+         (), 
+, . . 
+[] . , . [], . ,        
+, :          
+ (), , . . 
+[] . , . , . , . ,    
+   :      ,   
+ , , . . 
+[] ...  . , ..         
+            
+,  . .  () () . 
+[] . , . , . ,   
+    :  belief  , . . . . 
+ () () , :./.. 
+[] . , . , . , . ,   
+ perception         ﬃ, : 
+        , 
+, . , :./... 
+[] . , . , . ,     : 
+  appraisal, . . . .  () () , :. 
+/. 
+[] . , . ,        
+   intrinsic_rewards, . . . . () , :./ 
+ . 
+[] ..  ..  ..  ..  :  , . . 
+ () () . ://././.... 
+ 
+[] . , . , . , . ,  
+  : intrinsic_rewards,   , .  
+.  () () . ://././.... [] . , . , ..  . ,     :  
+,  . .  .  () () . 
+[] ..  . , . ,     , 
+:           
+, , , . .  , , ,  , 
+ 
+[] . ,    , :      
+    , , , . .  
+, , ,   -  ,  
+[] ..  . , . ,     
+ ﬁ, :       
+  , , . . 
+[] . , . , . , . ,    ﬃ   
+, :         
+  [knowledge]    , :  , ,  , 
+, , , . . 
+[] . , . , . , . ,        , 
+ . .  () () . 
+[] . , . , . ,        
+  personality  , :       
+, ,       , 
+. 
+[] . , .-xxx. ,         
+, :          
+, . 
+[] . , . ,      ﬂ    
+ belief , . .  ( ) () . 
+://././.... 
+[] . , . , . , . , . ,  
+evaluating   ﬁ    , . 
+.  () () . ://././.... [] . , ..  . , . ,   ﬃ [modeling] 
+  , :       
+     , , . . 
+./.. 
+[] . , . , . , ..  . ,   
+:     ,   éé- 
+  () () , :./. 
+[] ..  . , . , . , ..    
+, :         
+ , , . .  , ,  
+[] . , ..  . , . ,        
+ , :        
+,    , , , . . 
+[] . ,     , . .  () () 
+. 
+[] ,    , , (://../ 
+), [;  ]. 
+[] . , . , ..  . , . , . , ..   
+    , :     
+     (), , , . . [] . , . , ..  ..  . ,   , 
+ ,    ,  , 
+. 
+[] , , , (://../), [;  ]. [] ,  , , (://.//), 
+[;  ]. 
+[] . ,  source , , (://.// 
+), [;  ]. 
+================
+ 
+.   ./   ()  
+    ..               (  ),  ,     ..       ,  ,        ,   , , ,  .     ..    .      ,     . 
+     ..    ,                  .,   , .     combining      ç , , .        ,  belief,  ,    . 
+ü            .           ,   ,    .          ,    ,    é  éé, .        ( ,   .)            . ..     combining        éé,    ,     . 
+================

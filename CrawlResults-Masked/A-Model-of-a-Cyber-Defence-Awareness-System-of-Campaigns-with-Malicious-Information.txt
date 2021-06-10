@@ -1,0 +1,476 @@
+. & .  
+. , .  ():  ://././. 
+     
+  (),   () 
+      perception        
+  
+(),   
+   ".  ",  ".  " .,  ,  
+://.../ 
+      : 
+  [experience]           .  perception            simplifying  .            perception ,    protection_effect        perceived_vulnerability.     combining ()         -      ,         ,       .                   belief  .               perception    -   
+. 
+           : :    :    :   
+        : 
+ ,  perception,  ,  
+  : .@..
+ intelligence   . 
+================
+  perception      
+ 
+      learning                .          ,         .   ,  perception        perceived_vulnerability . 
+,  perception ()   [activity]    . ,          ,       ,           combining        .        , judging     /       . 
+                perception       perception   -time   ()     protection_effect     . 
+      perception 
+    -  
+ [goal]     ,       ,     , ,  ,        perception ()   ,     , personality   : 
+•          
+     ; 
+•          
+     . 
+                     -   behavior. 
+  , , , ,    ,     ,      perception () : perception, mastery_experience, .,                source ,                 .     ,   [capability]    personality   
+   perception 
+ focus             , ,       .          personality    personality behavior. 
+         [experience]         . 
+,  
+    
+ 
+================
+. & .   , .  ():  
+perception  " perception              ,  mastery_experience             ."     ,                     : 
+ : perception      
+  ,         (  , ,      ,  , ). 
+ : mastery_experience     
+         .   [activity ],      judging                   intrinsic_rewards. 
+ :     
+  ,                  ,        : 
+•         ; 
+•   ( )   ; 
+•       ,     
+  ,   . 
+   perception        .     impact               appraisal ,    .                     ,    belief.    belief           perception,         perception     source  ,       . 
+   intrinsic_rewards appraisal     -   belief             .  , ,  mental_calculation           ,    perceived_vulnerability            . 
+             perception       .     perception                 belief,            belief. 
+ 
+================
+  perception      
+  belief 
+ belief       
+ 
+          perceived_vulnerability,       .       belief  . 
+ belief 
+, , ,  
+   belief     belief   possibility_effect . 
+ :            () ={, ,.. ., },       perception,          ,     . 
+                . .. 
+:  [, ] (). 
+ [function] ()     [function] (   perceived_vulnerability   - )      ()  (): 
+�(∅)=  () 
+∑�⊆Θ �(�)=  (). 
+  , ()   appraisal  belief       ,        
+. 
+ : belief [function ].  belief [function]        perception   : 
+:  [, ] () 
+ ()=∑�⊆� �(�),��� ���ℎ � ⊆  (), . ()     protection_effect    . 
+ :  [function ].   [function]         perception   : 
+()=∑�∩�≠∅ �(�),��� ���ℎ � ⊆  () 
+      ,        perceived_vulnerability    intentionality               ,    belief ()     ( ). 
+    : 
+() ≤ () ≤ (). (). 
+ :    : 
+               perception,     .   ,    [function]        , : 
+,(Ø)=  (). 
+  Ø,  ,()= (  )() (), 
+ 
+================
+. & .   , .  ():  
+ 
+(  )()= 
+ 
+ 
+∑�∩�=� �1 (�)�2(�) (), 
+ 
+=∑�⋂�=∅ �1(�)�2(�),� ≠  (). 
+ ()   perceived_consensus               ,     . 
+       perception          perception       perception             behavior perception,      ()    ,      perception. 
+       
+    
+         .         ,        judging  ,    : ,   .                 -     loss. 
+       (..   [activity]  task .),   focus  .    focus       ,     %   ,     .   %   ,       (..        loss 
+ 
+  ,  . 
+          ,           perception : 
+•      ; 
+•        ; 
+•       -   
+ . 
+    
+    perception                     ,    protection_effect      .   possibility_effect         ,      ,  ,  , 
+ 
+================
+  perception      
+ appraisal,   .              .      ,                perception () . 
+             perception      ,     .,    .       combining        -      behavior,         ,      ,   ,           personality   .     participant_modeling               ,  . 
+        : 
+•  ; 
+•  ; 
+•  ; 
+•  . 
+ .        Collection    ,       source .     -    ,      ,           /          .           .  ,    ,      source  ,    ,        ,     , . 
+ .     combining        ,      .                  ,       .               . 
+ .         appraisal  ,      .      ,  ,  , .                 .           []   perception. 
+ .                      []   perception    protection_effect   .     ,  , .               .       
+ 
+================
+. & .   , .  ():  
+      ,          /. 
+          ,     .     combining ,     .                    .    : 
+•  ; 
+•       behavior; 
+•          
+/    . 
+ :         perception       . 
+ 
+================
+  perception      
+           opportunity_for_criminal_acts,          vulnerabilities.         [activity]    ,    ,   ,   behavior,         , .
+ 
+      ,         source      ,,   . 
+    perception //           
+ 
+      . 
+       combining   ,        . 
+  process              . . 
+  
+ 
+ 
+   
+ 
+Collection 
+  
+ 
+   
+ 
+ 
+ 
+ 
+  
+  
+    perception 
+     
+ 
+  
+ 
+   perception 
+ 
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+  
+[] 
+  
+ 
+ 
+  
+ 
+ 
+ :      . 
+            source .        ,        ,       []     perception       
+ 
+================
+. & .   , .  ():  
+   protection_effect   process.                 .                    .       (  )        (        ,       protection_effect    ): 
+•     ; 
+• Source     (.  source  techniques /  
+   ); 
+•  ; 
+• physical_quality     (  ). 
+            . 
+            (perception)         .   .   perception  perception         . 
+                 belief 
+            ,       .          ,          .                    . 
+ :  Collection 
+combining      source       (   ///).        . 
+ :  ,   
+     , ..      .                     .              -Shafer ,            (). 
+                . 
+  isolation_effect      -             -      .  [division]     .  ,     
+ 
+================
+  perception      
+,           perception ,     ,   personality  (. %-80%/%-20%). 
+ .        
+        internalization    : 
+ perceived_vulnerability      .  perceived_vulnerability       [, ]    perceived_vulnerability               internalization . 
+ = ���� ,� 
+ 
+-    perceived_vulnerability          
+   internalization . 
+-                
+    internalization . 
+-    combining          
+    internalization . 
+-   ={ ,  ,  , } 
+- , 
+-   -      ; 
+-   -     а    
+ ; 
+-   -      
+  . 
+-      ,   internalization  . 
+           ,      (, =, , )                 internalization       . 
+, 
+���()=,  =, 
+���(�)= 
+���−�� 
+ 
+ �� 
+��()=(),  >. 
+���({�})= 
+�� −��� 
+� 
+ ({�})=({�}),  <,� 
+(���(�)= ,      ). 
+  internalization      ,   perceived_vulnerability         internalization      perceived_vulnerability   ,                internalization,        internalization. ,   perceived_vulnerability         internalization      perceived_vulnerability,                 internalization,       
+ 
+================
+. & .   , .  ():  
+  .   perceived_vulnerability         internalization      perceived_vulnerability,   appraisal (syllogistic_rules)      , ..,  perceived_vulnerability    . 
+      [function]    () - (). 
+ .      internalization 
+      internalization          .      : 
+-      , combining (   () - ())  
+            (  
+    ), . �1= �� 
+-      , combining (   ()  - ())  
+            (  
+   а    ), .. �2= �� 
+-      , combining (   () - ())   
+            (  
+      ), . 
+�3= ��3�. 
+ . combining               
+     , combining (    () -())              , . �= �1�2�3. 
+ .    
+  ,          combining        . 
+ . simplifying  perception     
+    ( )          simplifying     perception process.             simplifying      . 
+-      appraisal      ,   
+  ,      . 
+= ��+��+��+�� 
+��+�� 
+(). 
+-     belief  perception      
+. 
+= 
+�� 
+��+�� 
+(). 
+- a_memory    appraisal     certainty_effect evaluating, .   
+         . 
+ 
+================
+  perception      
+= 
+�� 
+��+��. 
+(). -            a_memory. 
+     ,        : 
+=√ 
+�� �� 
+��+�� ��+�� 
+(). 
+          certainty_effect     . 
+   () - (), , , ,        ,  ,        ( - ) . 
+                 belief 
+            ,        .          ,          .                     . 
+ :  Collection 
+combining      source       (   ///).        . 
+ :  ,   
+     , .      .                     .              -Shafer ,            (). 
+                 . 
+  isolation_effect      -     
+        -     .  [division]     .  ,      ,           perception ,     ,   personality  (. % -80%/%-20%). 
+ .        
+        internalization    : 
+ 
+================
+. & .   , .  ():  
+ perceived_vulnerability      .  perceived_vulnerability       [, ]    perceived_vulnerability               internalization . 
+ = ���� ,� 
+ 
+-    perceived_vulnerability           
+   internalization . 
+-                
+    internalization . 
+-    combining           
+    internalization . 
+-   ={ ,  ,  , } 
+- , 
+-   -      ; 
+-   -     а     
+; 
+-   -        
+. 
+-      ,   internalization  . 
+           ,      (, =, , )                internalization       . 
+, 
+���()=,  =, 
+���(�)= 
+���−�� 
+ 
+ ���()= 
+��(),  >. 
+���({�})= 
+�� −��� 
+� 
+ ({�})=({�}),  <,� 
+(���(�)= ,      ). 
+  internalization      ,   perceived_vulnerability         internalization      perceived_vulnerability   ,                internalization,        internalization. ,   perceived_vulnerability         internalization      perceived_vulnerability,                 internalization,         .   perceived_vulnerability         internalization      perceived_vulnerability,   appraisal (syllogistic_rules)      , ..,  perceived_vulnerability    . 
+      [function]    () - (). 
+ .      internalization 
+      internalization           .      : 
+ 
+================
+  perception      
+-      , combining (   () - ())  
+            (  
+    ), .. �1= �� 
+-      , combining (   ()  - ())  
+            (  
+   а    ), .. �2= �� -      , combining (   () - ())   
+            (  
+      ), .. �3= ��3�. 
+ . combining                
+     , combining (    () -())              , .. �= �1�2�3. 
+ .    
+  ,          combining        . 
+ . simplifying  perception     
+    ( )          simplifying     perception process.             simplifying       . 
+-      appraisal      ,   
+  ,      . 
+= ��+��+��+�� 
+��+�� 
+(). 
+-     belief  perception      
+. 
+= 
+�� 
+��+�� 
+(). 
+- a_memory    appraisal     certainty_effect evaluating, .   
+         . 
+= 
+�� 
+��+��. 
+(). 
+-            a_memory. 
+     ,        : 
+=√ 
+�� �� 
+��+�� ��+�� 
+(). 
+          certainty_effect     . 
+ 
+================
+. & .   , .  ():  
+   () - (), , , ,        ,  ,       ( - ) . 
+belief    
+      perception       perception                .    ,            .     personality          perception             .      source         . 
+          -      (), " "    (    ),    .                 participant_modeling      . 
+ 
+              -   extrinsic_rewards . ,            ( ) . 
+ 
+ 
+ ,  ,  .  (е.),     
+perception,   (:   , ).  
+    , "  perception -xxx   
+  ," &   (): . 
+ 
+ , "  appraisal   perception ,"  
+        , .  (. ):  
+. 
+ 
+ , "  belief   perception  personality ,"  
+ :         , .  
+(): . 
+ 
+ ,  ,   , "    
+.  ,"     
+   (), , ,   ,  
+, ://././... 
+ 
+.    . , "self-efficacy   behavior    
+    ,"     personality 
+ "   [modeling]    ",  
+,  , , . . 
+ 
+ . , "         behavior  
+,"    "     
+ 
+================
+  perception      
+      ,",, , 
+. . 
+ 
+   ...      ( 
+ , ). 
+ 
+ ,      ( , ).  
+ ,    ( : , ). 
+ 
+    , " focus   perception  
+        ,"  
+ , , , ,  ( ). 
+ 
+ ,  ,  ,   , "  
+    ,"   experiential_awareness&   
+ intelligence , . , (): . 
+ 
+ . , "         
+," . . .  (): . 
+ 
+    . ,   belief  . 
+    ( , , :    
+ ., ), . 
+ 
+ ,   belief   (  , ).  
+ , "   perception    appraisal 
+  ,"       
+    (),    , 
+.  (). 
+ 
+ ,  ,  ,   , "   
+    perception,"       
+,      () , 
+://.  .////,   
+  , . 
+ 
+ ,   ,   , "   perception  
+   ,"     ():  
+. 
+ 
+   , ://../ (  //).  
+       , ://. ./ 
+///.,    , . 
+ 
+"      - ," , , 
+://...// -detection-of-security-inci- 
+,     . 
+ 
+    , "     
+:        ,"  
+ ,  , ://../ 
+/,   , . 
+ 
+, ://.//,    , .  
+, ://..///,    , .  
+, ://.,    , . 
+ 
+================

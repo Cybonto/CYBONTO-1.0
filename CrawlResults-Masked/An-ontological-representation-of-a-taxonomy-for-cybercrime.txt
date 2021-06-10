@@ -1,0 +1,328 @@
+    
+     
+   
+,   ,  : ://./ ()  
+      .   . :       ( ),   , , . 
+. [   ] 
+   (  ) 
+    : 
+: 
+         . 
+            /      .       personality      intrinsic_rewards   .       , ,   focus      . 
+,     ,         ,      ,       ,  ﬁ satisfaction_of_needs       ().                      (). 
+        ,         ,     ,     (, , ),  ,        ,    ,      extrinsic_rewards. 
+            ,             techniques : 
+@.. 
+             . 
+   :  [policy] : 
+================
+      
+  
+ 
+, ,     , , .@.. , ,  , , .@.. 
+isolation_effect 
+ personality                .    fear_arousal                 loss  .    fear_arousal        [policy]            .       personality  .                      .      -formal perception                      .  perception     , éé    [modeling]  ()                .             éé     . 
+: , , ,  , éé. 
+  
+                 personality .    fear_arousal               loss  .    fear_arousal          [policy]            .       personality   . 
+  ,   loss  £27       ()              perception  [modeling]          ( :).            ()             (& , ). 
+        appraisal                 . ,           extrinsic_rewards               imagination   (  , , & , ).     techniques     -formed      -formal               .   personality   ,                               .    
+      (), ,,  
+================
+                 .  ,          .                       (, ). 
+        :         .      ,         .        .                     .       modeling  (),    ()       , éé    (é- é, )  .  ,       perception      .    syllogistic_rules           .                .  ,         . ()    . ().                    [capability]          .             éé .           belief    syllogistic_rules  &  ()       appraisal    focus    . ,   ,                  . 
+    
+,   ,        situational_circumstance,       personality    (, ).                     .                      .                  (, ; , ;  perceived_consensus, ;   , ).   ()     situational_circumstance     , ()        ,  ()       .    , ,    [preference]      -fold  :      (& , ).             , ,  ,         , ,       .    ()     ,        ( )   ().        -  ,         .        role    .  () ,   role        ,                   belief        personality    .  ()    intrinsic_rewards    ,        impact    . ,    (),        [activity]              .       focus   impact     . 
+       ,            belief     -     (& , ).  extrinsic_rewards           . ()       -    . 
+      (), ,,  
+ 
+================
+        perception.    . () : "        ".                     intrinsic_rewards           (://.). ,               .   ,         ,      (),      :      (    ),     (  ),           (      ).        ,    ,         ? 
+                                        :"                      (         ),               ?" (& , :). 
+         perceived_consensus                           .   personality           ,   .     , ,              ( ).    , ,          possibility_effect   ,        [activity ].      ,                   perception.   persistence -    ,                . 
+    [modeling]  () 
+,                    .            .   ,    physical_quality                     . 
+     [knowledge]     .                 .              ( :): "         ."                ,                 belief   .         ,             [knowledge]  (  ., )      focus  "...       " (& , :). 
+                - ,  ,   .       -defined    ;    ;          ,  /     (  )  protection_effect      ( belief)   [knowledge]    . 
+      .           (  )          (://..//// ).      ,   . ,      .       
+      (), ,,  
+ 
+================
+    combining   .        combining         .           .         /       . 
+  modeling  ()              (, ).        (     )    [modeling]         .  syllogistic_rules                              (& , ;   ., ).   ,              . 
+ perception    internalization      
+ / éé   
+ 
+ 
+ 
+         
+  
+          . ( )  ,       . ,        ,   appraisal (  . ).      .   ,   .                     perception (  )    perception (  ). ,  [division]          .    :  "" (    )     ,   "" (     )      (, ).               " " (     . ).                   .                             perception.                     ,         : 
+•              
+   . 
+•          
+ (   . ). 
+    
+•    perception     self-efficacy  "  "   &  () 
+            /  
+(://..////). 
+• protection_effect                  
+           . 
+• protection_effect          . 
+      (), ,,  
+ 
+================
+                 .       process.     . 
+      
+    
+         . ()       . (),      combining          .            ,                ( ).     ,          [modeling] perception          .  (, ).          [activity ].                   . 
+  
+                        focus                  personality ()     . appraisal        .  extrinsic_rewards       perceived_vulnerability      . ,           Collection          .           . ,                     .            ,  ,                 . 
+   
+       .             ,                .                                   .    ,               (    ,  ). ,               -based    éé.         /éé     ( ).                         . 
+      (), ,,  
+ 
+================
+     
+                         . , &  ()         [function]  . ,     (),           .        -dependency                 . 
+           ,        (   )          source     éé   . 
+.    
+   ,       .          .         . 
+  ,            .    isolation_effect ,     [] :    certainty_effect    intrinsic_rewards         [action ].           perception.   [action]    (    perception  ),         .  ,           .  [action]            Impact    .  Impact             ,    .     [action]       .     ,               intelligence ,      [activity]     []   ,  ,               (& , ).                            (, ; , & , ).          ,   possibility_effect /,    ,  possibility_effect intrinsic_rewards     . ,    motivation       focus.       behavior_control-ability          ()      . ,                      ().   , , , ,           .    intrinsic_rewards     , ,    .              . ,  ,  ,        ,          .              (, ).            ( )     [action]      perception .       .                      role    .    extrinsic_rewards      &  ().       (),   . ()   ().    []        .   ,    role                              :  -     -enabled  (& , ).    ,   perception   (isolation_effect) :   situational_circumstance    
+      (), ,,  
+ 
+================
+.               -physical   (.. )     (& , ).  perception     constraint      . 
+      
+           .     isolation_effect  ,             [action ].       : , [],     (   ). 
+  &  ()        ,      .       (  & )  situational_circumstance    belief   (    extrinsic_rewards         impulsive_effect)               .  ,           - ,           . ,              (,   "     ").      role           .         syllogistic_rules    . 
+. 
+ 
+             ,               .     
+      (), ,,  
+ 
+================
+      constraint  (& , )                  . 
+.. 
+isolation_effect  
+       isolation_effect.  ,       .   : , , , , Impact,  .    constraint     : 
+ 
+. ->(=) 
+/*          */ 
+ 
+.>(=) /*          */ 
+.. 
+  
+   ,      protection_effect                   .      ,     . 
+             impact   .  ,        ,    impact      .    constraint  : 
+ 
+.[action] .impact.= 
+.. 
+   
+      perception   [action]         [action]     syllogistic_rules.           syllogistic_rules  perception    [action ]. 
+ 
+.[action] ->(()) 
+[action]  
+.[action] ->(([action] )) 
+.. 
+ 
+            .              , ,                 .            : 
+ 
+.> ∧ .>(:| (.>)) 
+      (), ,,  
+ 
+================
+. 
+    
+             .     ,    ,                 .           ,   (  )     .        .      personality          . 
+      /éé 
+[experience]                    perception  (& , ).                       . 
+ [action] 
+  /   / 
+ 
+/ 
+ 
+/ 
+ / 
+ 
+/ 
+ 
+/ 
+ /   /   /   /    /  / 
+  
+Impact 
+[action] 
+    
+ 
+ 
+[action] 
+ 
+[action] 
+ 
+ 
+      (), ,,  
+ 
+================
+Impact 
+ /  /  /  /  /  /  
+   /   /    /   /  /    /   
+ 
+perception 
+  
+perception 
+[action] 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+    ,                   . 
+           /éé 
+ appraisal 
+         . ,         /éé        :            . ()         . ,               (, )             . 
+. 
+     
+        . ( :) : "   (          )        (.. )  ()   ,  ()                    combining  extrinsic_rewards   physical_quality .      ,     participant_modeling       ,  %   combining combining  extrinsic_rewards ". 
+      (), ,,  
+ 
+================
+                            (, ). 
+    ,           éé               .   ,              (   )    .            
+  . 
+  
+     ? 
+       [action]         [action ]?    ?     ? 
+ role   ? 
+    
+       
+      
+   Impact 
+      
+  /Organization  intrinsic_rewards  
+ 
+      
+ 
+/   
+ /Organization  intrinsic_rewards  
+ 
+ 
+    
+ 
+/   
+        . ,         éé      , , ,      .       -        
+. 
+       
+                     ( 
+, ). 
+. 
+   
+  
+  ,             é    Collection       .                              .               " -xxx ".                             (, ). 
+,            , ,                .         .       ,        certainty_effect    fear_arousal       [action ]. 
+ ( )   [action]            
+   . 
+    
+           ,         Organization   [action]         situational_circumstance    ,      ([])    -political  ()      , 
+      (), ,,  
+ 
+================
+       .         .            .              -criminal . 
+      /éé 
+          ?          &  ()                                    (& , :).                      .      ,       .  &                   ,      impact   .        mental_calculation                  .   ,  ,                         . 
+      (), ,,  
+ 
+================
+        
+.   
+                           (  ., , , ). ,    . , personality     personality    ,       / .  ,           . ,         .              -range belief,  ,    isolation_effect (..,      behavior_control-ability )   "   experiential_awareness          " (, ).                       personality .   ,          ://./. 
+   
+  ,           &  (),  generalizing              .     fear_arousal           -formal                         .         ,  ,       ,               /éé          éé   
+      (), ,,  
+ 
+================
+.      ,             . 
+            -formed               personality           .          protection_effect            loss,      techniques   . 
+ 
+, . ., , . . .,& , . (,  ).   [goal]     - 
+  :   appraisal     .   
+     (),     
+(. ). . 
+, .,& , .( ).      :   
+    .     modeling, , :// 
+ .//. 
+. (). .    ,  ://. - 
+.///. 
+, ., , . .,& , . . ().   ,    
+  ?.  intelligence , (), . 
+, . ().   combining  .  . 
+, .,&  -Bryson, . . ().   :       . 
+, . .,& , . . ().       belief :    
+ personality  [modeling ].    , (), . 
+, .& , . ().       .    
+ . :. 
+, .,& , . ().  appraisal        
+ .   , . 
+, . .,& , . . (, ). :       
+ .   ,   . 
+, . . ().        .    
+    . 
+, . . ().   perception    . [knowledge]  
+, (), . 
+, .,  , .,&  -xxx, ().      
+. :      . . 
+, . ()     . & , , , , .  -39. , ., , .,& , . (, ).     .   (. 
+). 
+, . ().  syllogistic_rules  :          
+.  & , (), . 
+, ., , .,& , . (). personality     [policy]   
+  intelligence  belief.  protection_effect , (), . 
+, ., , .,& , . ().       .  
+  Impact   :   belief   (. ).  
+ . 
+, . .,& , . . ().        . 
+ protection_effect  , (), . 
+      (), ,,  
+ 
+================
+, . ().       . : , . (.)  belief 
+  , .  -53.   ,   () 
+, . ().           ?.   
+& , (), . 
+, .,& , . ().  :     .     
+ .    , . 
+personality, . . ().   personality    mental_calculation     : 
+ []   . & [knowledge] , (), . 
+, . ().  :   .    
+   . ).    ,  ://./. , . ., , .,& , . ().       
+    .      , (), . . ().  ..    ,  
+://..///.// 
+, ., , ., , .,& , . (,  ).       
+ .     (),       (. ). . 
+éé. ().      ,  éé   
+ [knowledge]  , ://../. 
+ , ., , ., , . ()      . 
+     : -292. 
+, ., , .,& , . ( , ).        
+ ().  ,    , .  -ATC09.  
+    (. ). . 
+, ., , . .,& , . ().       .  
+      , (), . 
+, . .,& , . . ().      .   
+, . 
+, .. ().        [activity ]. : , . (.),  
+    intrinsic_rewards .  , ,  
+. 
+, . . ().  -Organised :       [Organization]    
+.      , (). 
+, .,& , . . ().  [modeling]  .    (. ).  
+ . 
+, .& , . ().   constraint ,  .   
+   ,  . 
+, . ().     appraisal  physical_quality   [activity] belief.  
+   , (), . 
+, . ().   .   , . 
+      (), ,,  
+ 
+================

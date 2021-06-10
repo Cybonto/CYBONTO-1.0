@@ -1,0 +1,498 @@
+  - :       
+ , , ,  
+judging       ﬁ 
+  focus       
+   &  
+  
+ &  
+ ,   
+@.. 
+  
+ &  
+ ,   
+@.. 
+  
+ &  
+ ,    ,   @.. @.. 
+isolation_effect 
+  ,  participant_modeling           . ,  judging         ,  ﬁ        ,    .   ﬁ   ,         ,       .  judging                ,              .   ,      ﬀ   belief          . 
+    .. [ ]:   ; . [ ]:     
+ 
+,   ,  
+.  
+             behavior     Phishing  [],   [, ],       (&)  [],      .   ,           [].   ,                         []. 
+    [, , , , ] focus      ,                 . ,                 ﬂ      .             ().      segregating   ,     . 
+ ,  , , , . 
+ //. 
+  
+ &   ,   @.. 
+ﬁ,          ,                -   satisfaction_of_needs  .   ,  satisfaction_of_needs  ,           " "  isolation_effect   "  [policy] ",     . , perceived_consensus -     [], "         ,    segregating  ,            combining     ." 
+,            .       combining     ?            ?               ,         ?      Tactics   ﬀ     ?        -   satisfaction_of_needs        -       . 
+ :      . 
+  ,   simplifying       ,        ,          
+   [policy ],      , ,          segregating     []. 
+ 
+================
+  - :       
+        ( )   , ﬁ       (  ). ﬁ- ,  simplifying                   combining   . ,                            .     ﬁ             . ,              ,         ""   (       ﬁ).   ,    personality    combining     ,       ﬀ    . 
+                        .           , ﬁ     ,  simplifying       judging    -  .  simplifying  ,         (.)    .   comply_effect                    . ,       belief  ( ),  generalizing                               . 
+ ,      focus : 
+•    ﬁ   focus   
+      .  
+   ﬁ: ()     
+  ,    ; 
+()    ,    
+     . 
+•      .    
+ ,       
+   .     
+       
+ .  ,  ﬁ    
+    ,     
+ ﬂ,       
+     (  ,  
+%       ),    
+   (  %)     
+.        
+   personality  ,   
+  combining  . 
+•        generalizing   
+       ,   
+judging       
+  .  ,   generalizing  
+          
+  . 
+ , , ,  
+.  [goal]   .  [goal] 
+  [goal]     ﬁ       combining        . ﬁ,         ﬁ    [],                   .  judging             (  ),       .        ?           ?    ﬀ    ﬀ    ?  judging    (  ),       .                   ?             ? ,      ,    belief        (  ). .  
+    ,  simplifying          focus [],          []      .     ,    ,,   ,, .     combining     ,      ,     ﬁ        . 
+ simplifying  ,         focus [],   ,  ﬀ    .     ﬀ , ,   ﬁ ﬁ   .                 () []     ,     [].              . 
+   ,    simplifying      ,      , ﬁ  . 
+.    
+  ,   simplifying    -            syllogistic_rules     syllogistic_rules . 
+.  syllogistic_rules  
+              syllogistic_rules     ,                  ,     syllogistic_rules   =(,).   ,   syllogistic_rules    ,   ,   (  ()).      ,                . (             personality     ,     
+ 
+================
+  - :       
+() syllogistic_rules  ()   
+ :  syllogistic_rules .  ""       ""          .      ,         . 
+    .)         (  ()). .  syllogistic_rules  
+     syllogistic_rules ,  simplifying       [knowledge ],  comply_effect     ﬁ. 
+ :       ,    .    (),   comply_effect        combining   .     ﬁ,  appraisal   :  , ,     . 
+                  ,      
+|| 
+| |·(| |−1) 
+.             .         .           syllogistic_rules      []  .    .  ,  ﬁ         syllogistic_rules ,   . × ,       ,   . × .        syllogistic_rules    . 
+             .  ﬁ           .  ,  %        .     ,    %       (   ) []    (  ()). ,  %             ., ..,       %       .                 . 
+     ﬁ                 .      appraisal   ﬁ   ﬂ   .             ,     [],   .,   
+    combining   ,    combining   . 
+ , , ,  
+      syllogistic_rules    ,   ..            .    ,        ,    ﬁ   (). 
+   ,   ﬁ           . , :      (  )    ? 
+ 
+ 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+  
+  
+. 
+. 
+. 
+. 
+. 
+        
+. 
+    
+ 
+. . . . 
+ 
+()  
+ 
+ 
+ 
+    
+ 
+   
+()   
+ :       ()    (). 
+  :               ,    combining    .  perception                       [, , , , ].     judging      . ﬁ,         ﬂ  , .., ,        . (  [knowledge]          appraisal     . ,     personality      ﬂ   extrinsic_rewards   [].)   appraisal       ,     ,  " ",            .   ,                 .   ﬁ     ,           (  ()).  %          ,,    %       .  perception             combining     ,   combining    . 
+  :  ,      ,   ﬁ/    .     ,   [],  ﬁ     ﬀ-   / (  ﬀ )         .              .   ,              . ,   ,     syllogistic_rules            .      .  combining       ,,    .%         
+ 
+================
+  - :       
+.  perception          (   ﬀ )       . 
+   ﬃ         ,  perception  ﬂ   perceived_vulnerability           ﬁ/ . 
+ ,             ,    ﬁ         . ,    "protection_effect" ()   ,          isolation_effect     [policy]              . 
+    (),        ,       ,            ,    .    ﬀ       ?     focus      .     ,                    syllogistic_rules       []. ,       ,    .()  ()        [authority]      .        ,      ﬁ   .
+ 
+=
+ 
+,= 
+ ,> 
+() 
+(,)∈E
+ 
+,= 
+= 
+ ,> 
+() 
+(,)∈E 
+   ,                   . ,          ,             =. 
+ :    ,           .    ﬁ,  focus            .   ,           "",         . ,    ,     (),              combining   .                 .   (),   ﬁ            . ﬁ,  %       .,   %      . ,         .,   %        ..                .    ,        . 
+ :        ﬀ      
+ , , ,  
+ (   ).                   ,       ﬀ,              . ,    ,          (   ). ,                    . ,              ,         . (     ,    .)   ,       ﬀ. 
+   ,  focus            . ﬁ,    ,     (),         ,           .                    , ..,     participant_modeling      .  ﬁ         .  %        .,   %       (  ()).  perception ﬂ     ,    participant_modeling      .                . 
+ 
+. 
+. 
+. 
+  
+  
+. 
+    
+ 
+. . . . . . . 
+   () 
+. 
+ . . . . . . . . .  
+    
+. . . . . . . . . 
+   () 
+ 
+()    ()    
+ :        . 
+   ﬁ,                .     ,     ,  ,   ,  focus    (         );     ,   ,  focus          (      ). 
+.    
+         ,        protection_effect []   generalizing []    ,      . ,                    combining      []. 
+ 
+================
+  - :       
+     ,    " "   ,               [].   ,  ﬁ    . 
+,     [knowledge]       . ,   ,    ﬁ            .      ,                combining    . 
+.    
+ ﬁ        (.)    .  - , .       ( )    , evaluating       .        " syllogistic_rules "  . ,  appraisal       : ()         ,       ; ()          ,       ; ()    protection_effect           ,       . 
+    ,        =(,)    protection_effect  .   ,  mental_calculation               .              ,        .      intentionality       -     .         ,    :   ,    . 
+  :    ,  ﬁ         .  = {|    },    
+  ∈       .   ,      . 
+  :              ,             : 
+[policy] :   .     combining          .   () ,          ,   combining        . 
+[policy] :   .  combining                    α     ,   <α<.   () ,           ,        α,<α<.     ,        α·α= α. 
+[policy] :   .  combining                    , 
+   ,   
+ =. 
+ , , ,  
+  physical_quality        . ﬁ,           ﬂ     syllogistic_rules      . ( belief        ,     syllogistic_rules           .)   () ,           ,          .. ,    [policy ],           = ,(, ) ∈ . 
+ :      . 
+         ,  ﬁ   .            .    [function] = {,}    (, ) ∈  (..,  (, ) ∈ ,  =;, =).    ()            ,    ,     = 
+ 
+() 
+.          (.., =  · ,() =;= 
+ 
+,−→ 
+ ()=).                         . 
+       ,   ,    ,          .(). 
+ 
+= α ·  ·  ·  () 
+= 
+ gain,          ,    (>),  combining     ()·M0i     . (  ,   α =.,         .) ,        
+       (>)  .(). 
+−→t −−−−−t−→ −→ 
+= α·  ·  
+ 
++( α)·  (>) () 
+        ,    ﬁ     .       ,          ﬃ       .  ﬁ    ,  ﬁ    []        .   ,                  . ,  comply_effect      -          .                .    ,           
+ 
+================
+  - :       
+   . ,   ,  ,        . .    
+   ,      ,  comply_effect      ( ﬂ,  ,   )    ﬁ . (           protection_effect -  ,                  ﬂ   .) 
+ ﬂ             .    ﬂ    ,                 .   ﬁ  ﬂ,   ,           [policy] [].     ﬃ         .   ,  ﬁ ,  ﬂ. 
+   belief       ﬂ                        personality . ,             ,     [].   ,   ﬂ         . 
+   belief,  ﬁ            .          (     )       , ﬂ. ,                    ,             ﬁ  .  behavior_control-ability  ﬂ    ,        .   ,  ﬁ .%    ﬂ      ,   .%      .%      .         ﬂ        belief            .            ﬁ       ﬂ.         ,   behavior   gain     ﬂ.                 personality  ,    intrinsic_rewards   . 
+           (           ),         .              .         (           )    .,                  .   ,      . 
+ , , ,  
+   belief                                      . ,           . 
+    ,         belief.             ,          ,  combining        . ,           ,      .   belief,         ,           ﬁ ,        ,          . ,         −
+ 
+ 
+ ,   
+= 
+                     combining    . 
+ 
+. 
+. 
+. 
+  
+. 
+    
+ 
+      
+ 
+ :      . 
+ :   focus   . 
+  ,   ﬁ  %       ,           . ,            . ﬁ,  %          .,   %         .  perception    belief              ,       .   focus          .               . 
+            .   ,         participant_modeling    ,                  ,     .  ,     ,     
+ 
+================
+  - :       
+           .   ,    . 
+   belief          perceived_consensus                 .   ,  simplifying         Collection. ,  ﬁ      segregating  ,         (),             ,      (ﬁ) Phishing . 
+ perception                         .   focus    ,            ﬁ       ,      .              extrinsic_rewards. ,      . 
+ :   focus  . 
+,  ﬁ    ﬂ   ,          .,        . ,        .              .               .,             . 
+ judging          ,          combining         . ,      ,                 [exposure]   . 
+.    
+      ,    personality                 .   belief ,           judging    segregating   ,   . ( ,      []        possibility_effect .)        ,  impulsive_effect  personality    ﬁ                ()  .   ,      belief  ()  generalizing             . 
+                . 
+ , , ,  
+.    
+ ,    belief  ()                             .     ﬃ  ,         . 
+ belief          : ()       ; ()    participant_modeling   (    )   ,        .  ﬁ perception        .               [, ],          ﬀ   . 
+ ,     ﬁ perception    .           .      ,    ,    ( ),           .    ,  ﬁ      ()   ,               [],           appraisal     . ,                . (    ,            . ,                  .) 
+     imagination,         .  generalizing         ,  ﬁ          . ,   .,         (+) ,    =(,).   ,           syllogistic_rules  . ,  .,    physical_quality     ∈  (    physical_quality  [function]  (, ))  ﬂ         .   belief    [function]          (  )   ,         .   belief,    ,           ,   . ,  physical_quality  (, ) (, )= 
+ 
+. 
+ 
+,   .,    ,               physical_quality  [function]  (, ) . ().   ,                            .         ,  generalizing         . 
+. appraisal   
+     belief  
+ 
+================
+  - :       
+()    ﬀ  -     .                focus [].               ﬁ       () . 
+   ﬀ   ,   []          ,                (    , )    () . (    ﬀ      ,           perceived_vulnerability   .) ,            ﬀ  generalizing  . 
+     belief             ,    belief      . ,     " "  []  appraisal   ﬀ     certainty_effect    evaluating. ,   ﬁ           combining    . .. appraisal    
+ ﬁ  ﬁ     ﬀ-        . 
+ﬀ  .   ,          ﬁ   ,      , ﬁ  . ,     ,     ﬁ    ﬁ ﬀ            :   (),   (),  ﬁ  (),        (),  .   (),            . ﬁ,   generalizing .      .           . ,   generalizing .       .         ,   generalizing    . ,   participant_modeling               . ﬁ- ,      .      .  ﬀ     . ,        .    .  ﬀ     . 
+ﬀ  :   ,     ﬁ        generalizing     ﬀ    , ..,              .   (),   ,   ,   gain         gain    . 
+ﬀ    .   ,       ﬀ    
+  ,   
+=    =,. ﬁ,      ,     perceived_vulnerability  %        ﬁ     . 
+ , , ,  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     ()   
+     
+()   
+ 
+ :  ﬀ     ﬀ    . 
+, ..,   ﬀ   .,     =,.   (),       gain    ,   generalizing          .         ,    [knowledge]        . 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ()   
+ 
+ 
+   ()   
+ 
+ :   ﬀ      ﬀ   . 
+ﬀ   .   ,       ﬀ      . ﬁ,       ()       () (    ),  ﬀ  (),   (),    ()        combining  , .   (),   ﬁ             . ﬁ,   ,   generalizing    , ,    ,   generalizing     ,,  generalizing     .  perception              . ,     ﬀ             generalizing   .  gain,    ﬁ              .                     . 
+   belief.    ,             ﬁ        generalizing  . ﬁ,   ,   combining     ﬁ                .   (),   ﬁ             (,    .%      )      ,   generalizing     
+ 
+================
+  - :       
+  (,    .%   ).  perception         generalizing                . 
+, 
+ 
+  
+ 
+  
+ 
+, 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+    
+()   
+ 
+()  belief 
+ : appraisal     belief   . 
+.. appraisal    
+   ﬀ                     ,         . ,         ,  ﬁ     ,   ,  combining  ﬀ  . ,   combining      ﬀ . ,  focus  ﬀ         ﬀ   . ﬁ,      ﬁ     ,     .   (),    ﬁ       .   generalizing         . 
+   ,   ﬁ       ﬀ generalizing   . ,             intrinsic_rewards,             ,                 .  gain,                     ,        . 
+.   
+         ()       . .     
+       ,      .   .    appraisal focus        , , ,   [].   .       focus    behavior [].   .    behavior    ﬀ             ﬁ   []. ,        ,       ﬀ       
+      
+      intentionality      ,              . 
+ , , ,  
+ , .., "      gain   ?".   .    focus         [].   .  ﬀ   appraisal   ﬂ-    [].   . focus    [modeling]              [].   .  impulsive_effect            [].   . simplifying personality  behavior     personality    [],    . simplifying        []. 
+.      
+ gain,          ,         .             [].          gain          .   . [, ]    intrinsic_rewards  combining     .   .   focus          []. ,         ﬁ   .  ﬁ   ,   [, , , ],    intrinsic_rewards                   ﬁ .      (.., [])       judging                   . 
+   ,            - judging                    -         combining     . ,  focus        . .     
+         . ,               intentionality       ,       ﬁ            . ,        ,      .   ,  simplifying    ,       ﬀ        .                         ﬀ  ,         . 
+                  ,    ﬃ   satisfaction_of_needs       . ,      ﬁ-in-its-kind                      . 
+   ,            .      
+ 
+================
+  - :       
+ simplifying  ﬀ    syllogistic_rules      .  gain,          combining       . 
+. belief 
+  ,             .          .  comply_effect  ﬁ                .         ,    ﬀ   generalizing                        . 
+. []   . 
+://.. []   . ://.. 
+////. []  . 
+://../. 
+[]    . 
+://..///. 
+[] :    . : 
+//..//.. []        . : 
+//./////. []   . 
+://../. 
+[]   . : 
+//..//. []     . : 
+//../.?=. []    . 
+://../// 
+/. 
+[]   . 
+://..//. 
+[]  perceived_vulnerability      
+. ://../// 
+// 
+$.. []   . ://protection_effect ../ 
+/// 
+// 
+. 
+[] . , . , . ,  . . 
+   .  , 
+ ,    ﬀ 
+(), . 
+[] .,.,.,., 
+. ,  . .     
+  .      
+     (), . [] .,.,.,., 
+. ,  . .     
+     .   
+  (), . 
+[] . , . ,  . .  
+  .      
+, (), . 
+[] . , . , . ,  . . 
+evaluating  ﬂ  :    
+.         
+ (), . 
+[] .   . . :   
+   .      
+   , . 
+ , , ,  
+[] . , . , . , . ,  
+. .    -  
+   .    
+   , (), . 
+[] . , . , . , . , . ,  . . 
+     .  
+    (), . [] . , . , . ,  . . @: 
+      .   
+      
+(), . 
+[] . .      
+.     , ., . , . 
+, . 
+[] . , . ﬀ, . , . ,  
+. .     .  
+       
+  (), . 
+[] . , . , . ,  . .   , 
+      ?     
+ ( ), . 
+[] . , . ,  . .   
+:  +  .  
+   (), . 
+[] .   . .   : 
+personality    .     
+   , . 
+[] . , . , . , . ,  
+. .    -  
+   .     
+      appraisal, 
+(), . 
+[] .   . . :   
+ ﬃ appraisal.     
+ , . 
+[] . , . , . , . , 
+. , . ,  . .   
+        
+.        
+   , . 
+[] .   . .    
+impulsive_effect  .   & 
+, . 
+[] . , . , . ,  . . 
+    .   
+   , . [] . .    :    .  
+      
+(), . 
+[] . , . , . , . , . ,  . . 
+     .   
+     , 
+(), . 
+[] . , . ,  . .     
+?  appraisal      
+  .       
+       
+ (), . 
+[] . , . , . ,  . . 
+     .   , 
+(), . 
+[] . , . , . ,  . . 
+:       
+.      , 
+. 
+[] . , . ,  . .   
+.      
+( ), . 
+ 
+================

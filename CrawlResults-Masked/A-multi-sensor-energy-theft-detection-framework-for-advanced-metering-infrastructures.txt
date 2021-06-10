@@ -1,0 +1,465 @@
+      , . , . ,    
+          
+ ,  ,  ,  ,    
+    ()       intelligence ,       intelligence . intelligence       ﬁ    ,                   [goal]   .  intelligence            ,  ,       .   ,   ,           combining        intelligence       .                     behavior.  experiential_awareness       ﬁ     combining      . ,   ﬁ   ﬁ      ﬁ  . 
+    ,     ,  belief    ,   ,   . 
+.  
+ 
+    ()  
+     , ,   .  intelligence      ﬁ-grained   ,       , ﬁ,     .   ,       perceived_responsibility  ﬁ      ,       . 
+,      extrinsic_rewards               , ..,   intelligence  .  ,  ,              loss              []. ,  ﬁ                  [].      vulnerabilities  intelligence        . ,   
+   , ;   , .              extrinsic_rewards  . 
+.   .       ,  []  ( : {, }@..). .   .     intrinsic_rewards ,    ( : {, }@.). 
+.       ,    ( : .@.). 
+  ﬁ ./... 
+//$.    
+              . 
+  ,     ﬁ              .   ,   ,        combining    .       mental_calculation         intrinsic_rewards    behavior    .  ,         techniques   combining          : )       ; )   ;  )          ().          : 
+•         
+       combining  
+       . 
+•     intrinsic_rewards  combining  
+    .   
+ :   perception   combining 
+      
+perception      . 
+•    personality       
+      intrinsic_rewards 
+        
+ personality   . 
+.   
+   intrinsic_rewards        ,           .      ,    intrinsic_rewards                            .                appraisal -     ,    ,     ﬁ  intelligence  [].      ,          (..,    )    ,             .       ,        
+           (          ) []. 
+================
+       , . , . ,   
+       .      (..,            )   (..,        belief      ).         gain  intelligence       gain  .  ,                        .              .              [], []. , intelligence                     intrinsic_rewards   personality    .   intelligence    possibility_effect  combining   , ,     .  gain    ,                intrinsic_rewards     combining             [], [].  ,               ﬁ   ﬁ ,       . ,    ﬁ                 (,  %       ).  ﬁ       ﬁ (..,   )     ()       combining. ,                       .        ﬁ        . 
+      intrinsic_rewards         ,                  . , intelligence       [], []          ﬁ     intrinsic_rewards    .  intrinsic_rewards   , satisfaction_of_needs      ﬁ,     ,             . ,        intrinsic_rewards          (      %   ﬂ   [])      ﬁ  task                   . 
+               [].  personality perception       ()    ﬁ [], [].  perception              
+      ﬁ         ﬁ. []     .%               .      perception  []         techniques             . []            (..,   ﬁ,    loss)         .  perception                 personality .            (..,  ).      perception             ,     perceived_uniqueness         . []     perception              .  perception       intelligence , combining   , isolation_effect  ,           .          intelligence                personality . ,    , loss       loss     . .    intrinsic_rewards,      ()  combining         ﬁ.   ﬁ        . [].  techniques       .       []             .     possibility_effect             ,         ﬁ    segregating   .      techniques         . []. ,       ﬁ            [] .      , combining          . ,             .   intrinsic_rewards        []     []      . 
+. perceived_vulnerability  
+      intrinsic_rewards                .      ,    intrinsic_rewards      source       ,         .                   []  ,       
+================
+  .:            
+  
+     intrinsic_rewards 
+ 
+      
+      
+      
+ techniques 
+ 
+        ﬁ/   
+      
+ / 
+/  
+    
+ 
+isolation_effect    
+   
+isolation_effect   
+    
+    intrinsic_rewards       isolation_effect   appraisal 
+ 
+    
+isolation_effect    appraisal        
+   ﬁ        
+   (   ) 
+  .    ,              ,             . 
+,  gain     intelligence          .  ,                .   intrinsic_rewards       [], []    , satisfaction_of_needs      ﬁ,      physical_quality,             . 
+ ,     intrinsic_rewards   : )  , )  ,  )     impact   .               ﬁ   .        .             protection_effect           . ,      intrinsic_rewards  live_modeling       . 
+.     
+ 
+.     
+intelligence        combining   possibility_effect          protection_effect      . ,          evaluating   .  ,             []. ,             ,       combining            .   ,    certainty_effect evaluating   
+             ( ).    , mental_calculation             ,     ,    ,              .      ,            certainty_effect      .    ﬁ        .   perceived_vulnerability     ,       . (       .) 
+• perception :      
+• perception :       
+• perception : isolation_effect     
+• perception :      
+.     
+ techniques          ,               ﬁ : )       ()   [],  )  ﬁ-                   [], [].            ,        ﬁ .          ﬁ   ﬁ , ..,    .  ﬁ-        ﬁ              .               judging ﬁ          protection_effect       protection_effect []      ﬁ  [policy ].             ,  ﬁ-based perception ﬁ  ﬁ          behavior.     ﬁ      ( .  .   )               Collection .   perception             . ,           ,     (..,          )       behavior    .     perception             .                     [policy ].  ,        ﬁ-based                ﬁ     certainty_effect       ﬁ. 
+================
+       , . , . ,   
+     .            (.., , ,    /,   learning / )       . 
+ ,         perception   protection_effect    perceived_vulnerability     : 
+• perception : .-based     
+  
+• perception :ﬁ     
+• perception : .-based     
+     
+• perception : .-based     
+    
+• perception : .-based     
+• perception : .-based     
+• perception :ﬁ     
+.                 ﬁ-grained  ﬁ    intelligence .  ,   ﬁ     combining      .         ﬁ   .  ﬁ            .  ,                intrinsic_rewards.                           ﬁ ﬁ   personality  . 
+      ﬂ,          . ,  perceived_vulnerability    ﬁ   situational_circumstance  (|,,···,)            ,  (  )   (  ).     .    belief, 
+(| , 
+ 
+,···, 
+ 
+)=()·Pr(,,···,|) 
+(,,···,)   ,    perceived_uniqueness belief, 
+() 
+ 
+(|,,···,)=()·∏Pr(|), () 
+= 
+         .    perceived_vulnerability ,   ﬁ       .  ,  belief       : 
+ 
+(, ,···, )=  ( =)·∏P( =| =).{,} 
+= 
+()   .   techniques          ﬁ   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+    
+. 
+ 
+−0. 
+  
+−1 
+ 
+ 
+  
+ 
+ 
+. .     ﬁ    /  
+   .            , ..,           .      . ,                  ().       combining       . ,                 .  ﬁ,          ()  =(,,···,)  /   ﬁ  .         .    )                  /      ,  )  ﬁ     .                    . 
+ .. 
+  ≤  +δ −Qx ≤−eti +δ  ≥0 
+() 
+  =[,,···,]||×1;  =[;−Qp],   ||-dimensional      ﬁ,  [;]         .          ||-dimensional   ,             . , δ         appraisal .        behavior_control-ability     .    possibility_effect belief        []. 
+          ﬁ,           . ,     ,   
+================
+  .:            
+. .   ﬁ  ﬁ perceived_vulnerability 
+ﬁ  
+⎛fa1, 
+, ··· ||, 
+⎞ 
+⎜ 
+⎜ 
+ 
+ 
+, 
+, ··· ||, 
+= ⎜ 
+⎟⎟ 
+⎝ 
+... ... 
+... 
+.. 
+. 
+⎠ 
+() 
+, , ··· ||, 
+    .       
+    ,    personality appraisal         .                      . 
+  .              
+  ﬁ .       : )             (     );  )   perceived_vulnerability         . 
+  ﬁ ()          ﬁ.         intelligence           ﬁ.  ,    perceived_vulnerability ()   ()         [],   situational_circumstance       ﬁ. ,           .     appraisal         .  ,  ﬁ                     .        ,   appraisal     ﬁ       (          ).          intelligence      [].            [], [].         []  
+  perceived_vulnerability   ,()    . [knowledge]                 .     .       
+      . ,   
+           . ,            .       belief   perception, mental_calculation        .       ,       ﬁ        . ,              , ..,  ,             ﬁ             , ..,   ﬁ    []. 
+    gain  .    ﬁ        {, ,...,} (certainty_effect   )    ﬁ.     ,          . ,     ,          .          ,            = {,,...,||}∀c ∈ .   
+ 
+= {,,...,}.  ,     ||            .  ,       
+================
+       , . , . ,   
+. 
+. 
+[] () 
+ 
+ 
+ 
+ 
+. 
+ ( ) 
+[] () 
+ 
+ 
+ 
+ 
+ ( ) 
+. 
+. 
+[] () 
+ 
+ 
+ 
+ 
+ ( ) 
+. 
+. 
+[] () 
+ 
+ 
+ 
+ 
+ ( ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. .     (),  (),   × ﬁ. 
+            . ,       ,             .        ||,       , ﬁ  . 
+= 
+ 
+|| 
+∑ 
+ ()−a() 
+ 
+|| 
+∑f∈cmax{(),()} 
+() , ()            ,  ()            .    ,                  .  ﬁ                . 
+                 .      . ()      perceived_vulnerability  [function] ()            . ()                      %  ﬁ   . ()    ×       .    ,         ﬁ       . 
+ ,        perception   protection_effect    perceived_vulnerability     : 
+• perception :     
+    
+• perception :   .   
+  
+• perception :      
+ 
+• perception :      
+ 
+• perception :      
+ 
+• perception :       
+• perception :        
+.                    . ,    ,             ; ,               .     ,          combining        .  ,          , ..,          ,  simplifying       . 
+          combining       .     ﬁ       intelligence .                  []      [goal]   ([] ) .   ,   []   intelligence   ﬁ      . )       :          ,     ∅     . )      :              ﬁ  ﬁ      . 
+ﬁ,   ﬁ       combining   [action]      .         ,                      , ..,      . 
+================
+  .:            
+. .  ﬁ      
+ participant_modeling   ,           () []        intrinsic_rewards     ∈ . ,           process, ..,    =(,,···,)  .  =(,),    []          ,   perception            .   perceived_responsibility    ( |:),  ,  perceived_vulnerability        ,          : =(,···,).  ,         [], ,   ﬁ , mental_calculation  perceived_vulnerability        []   ﬁ      ( |:).    ,            perceived_vulnerability          , .., (+: |).   perceived_vulnerability              ﬁ       perception : 
+( |:)=( |:,+:) ∝ (+: |)·Pr( |:), 
+()              situational_circumstance perceived_uniqueness  +:  :  .        ( |:),       []. ,    []   perceived_vulnerability     [] () techniques [] = ( |:)        
+= . 
+. experiential_awareness  
+.  
+     ,       intelligence             ()    
+    . ,                . ﬁ    .          .   . ﬁ     ﬁ-  .  intelligence           .  ,          intelligence ,   ,   Collection .  Collection           . 
+       combining    .                .       isolation_effect  .              Collection .                  .         ,              .   ﬁ     Collection       . ,    ﬁ-based        Collection     . 
+.  ﬁ  
+) :   personality  ﬁ         .       ﬁ      ,  , ,      . ﬁ       , ..,  ,       .        live_modeling       .       ﬁ            .   ﬁ      ,   ,       .  
+================
+       , . , . ,   
+  
+    :       
+ 
+   ([|],  ﬁ   ) 
+| ∅| ∅| |∅ | | ∅| ∅| ∅| | 
+  
+  
+ →∅|∅ ∅| ∅| || | . 
+ →   .      →    .     →         →      .   →         →   .      →    .     →     .  .  →   .      →    .     →     .  . 
+   .        
+  
+     ﬁ        ,      ﬁ.                        [].                   .           ﬁ       [].  loss       ,    ,               evaluating.               .               .           . 
+)  :  ﬁ       ﬁ: ,.  ,            ﬁ   ﬂ      .      /learning  ﬁ   . ,         .   : ()          %  ﬁ, ()           ,  () ﬁ        . 
+)  :    ,      ﬂ        . ,         .     : ( )      , .., ,   , ()   
+. . .   . . .          .                            . . .   . . .     . .    .          . . .   . . .     . .    .          
+| [goal] 
+[]    .          . . .    . . . 
+,             (  ).  ﬁ                 (       ).              [] .  ,        , .., (|)=.      ( ),        ,      generalizing        .     ,    ,        % ﬁ.             [goal] []           % ﬁ. 
+.  
+               ﬁ     .                 ()   , ()   ,  ()   ,         .                 perception    .        [action]  ,   ×    certainty_effect   .  self-efficacy       .    ,   perception        .               
+      ,  () 
+    [].  ,    
+    , ..,      . 
+               perception    ()    ﬁ. 
+.    
+           ,      [capability]     .  
+       .        ﬁ          syllogistic_rules                   . ﬁ-based . 
+                . ,     ﬁ    behavior.                    perception. 
+================
+  .:            
+ 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+    
+. 
+. 
+. .   evaluating 
+. 
+. 
+()    
+================
+       , . , . ,   
+ 
+ 
+ 
+ 
+ 
+   () 
+ 
+ 
+ 
+ 
+ 
+ 
+      (#) 
+ 
+ 
+ 
+ 
+. .    ( ,  )     perception  process     ( ,    ) 
+   .      ,  ,         [] appraisal            ,      ﬁ               . 
+.    
+        learning -       .   ﬁ              ,           .    ﬂ      learning   ﬁ ,    ,                 ,              .  ,                       .           .       ﬁ     ( )  behavior_control-ability          . 
+               .       .  ,      ﬁ  ,   =(/|/),  =(/|),  =(|),  =(|,),  =,      ( ).   ,      certainty_effect       , ..,  []     []   []  =(/|).       [] appraisal        .  ,  ﬁ        belief     []    , ..,       []   perceived_vulnerability     []  perceived_vulnerability .     []            . ,  perceived_vulnerability    []  .     []  ,    [] appraisal  , 
+  physical_quality  [] .      ,,  ,        generalizing   []      .     ,       ,    perceived_vulnerability    []    .. 
+.  
+                intrinsic_rewards  combining     .  ,              .   ,       ﬂ.                 . 
+       ,       participant_modeling                  .  ,     intrinsic_rewards (      )           .    fear_arousal         intrinsic_rewards . ,        intrinsic_rewards (  )         ﬁ    . ,                   . ,     ,           protection_effect      intrinsic_rewards         , .., []. ,              . 
+                      appraisal     .  ,                 . ,  perceived_vulnerability         . ﬂ,   extrinsic_rewards        (  ﬁ combining    ); ,     ,   intrinsic_rewards           ﬁ.    ,    -   extrinsic_rewards   appraisal ,       ,  ,             .  techniques       intrinsic_rewards,             protection_effect    ﬁ ﬂ   . 
+,     ,      :    
+================
+  .:            
+. .        intelligence    
+. .       /         
+    ()  ?    possibility_effect     intelligence  ,     ,      .          intrinsic_rewards   .  ,     perception,   ,            ,     ; ,                    .        intelligence     fear_arousal; , intelligence        , ..,   . ,           ,    ,      .                ,        ,    ,                . 
+.  
+  ,   ,       combining        .          ﬁ combining          [activity]     .  experiential_awareness                 ,              . 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+================
+       , . , . ,   
+  ,"    
+, . , . 
+[] . , " :     ,"  
+  , . 
+[] . , . , . ,  . , "  
+  personality  ,"     
+ , , . . 
+[] . , . ,  . , "protection_effect   
+  ﬁ     ,"  / 
+    , , . . 
+[] . , . , . , . ,  . , " 
+       protection_effect  
+,"      , , . . [] . , . , . ,  . , "   
+    techniques   ﬁ  
+  ,"        
+, , . . 
+[] . , .  , .  , . , . , . , 
+ . , "ﬁ      
+     :   perception,"  
+/      , 
+. , , . . 
+[] . , . ,  . , "    
+  simplifying   ,"      
+  , , . . 
+[] . , "   ," . , . , 
+. , . , . 
+[] . , . , . , . , . ,  . , 
+"  ﬁ,"   , 
+. , . , . , .-march . 
+[] .  , . , . , .   ., " 
+    ," . 
+[] .   . , "    ﬁ 
+       ,"  . 
+    ﬁ  , . [] .   . , "     
+,"   , . , . [] .   . , "ﬁ-based    
+  ,"   ﬁ   
+   , , . . [] . , . ,  . , "ﬁ-based  
+      intelligence ,"  intelligence   
+ (),     
+, . , .  -213. 
+[]      .   ://.. 
+/extrinsic_rewards /// .. [] . , "intelligence   :     
+,"        extrinsic_rewards, . [] . , . , . , . ,  . , 
+"personality    intelligence ,"       
+         
+, , . . 
+[] . . , . . ,  . . , "  
+   ,"     
+, . , . , . , . 
+[] .   . , " intelligence ,"  
+, . . , . 
+[] . , "         
+   perception," . , . , . , . , 
+. 
+[] . , "       
+   ," .. ,  , 
+. 
+[] . , . , . , . ,  
+. , "  ﬁ    
+     ," .   
+, . , . , . , . 
+[] .   . , "   personality   
+  personality appraisal,"     
+  , . 
+[] . , " techniques :      intelligence ," 
+      , , . . 
+[] . , . , . ,  . , "    
+      intrinsic_rewards,"  
+    .  / 
+, , . , . . 
+    ..            []       .                  .            . 
+    ..        ,    .     ..          [] .               belief     .         loss . 
+           ,      .    ..             . ,          intelligence        intrinsic_rewards   belief,  belief,     . 
+         
+    ,   
+.  . .     
+      
+   .     
+.  ,       
+     .  
+     gain   
+   ,   
+       
+   .                . 
+        
+      
+   .    ..  
+       
+   .     
+   ,  ﬂ- 
+       
+,      
+  .   
+ :     
+, / belief,     ,    ,   ﬂ   . 
+================

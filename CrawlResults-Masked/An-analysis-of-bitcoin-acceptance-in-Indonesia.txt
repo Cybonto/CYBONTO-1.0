@@ -1,0 +1,329 @@
+    belief   
+ .     
+ 
+,,  ,    - learning   , 
+   
+.    . ,   ,  
+@.; @. 
+:   / :  
+
+  / :  
+
+   
+isolation_effect -          belief     .       belief  belief     (),       .    , extrinsic_rewards ,  ,   .      physical_quality               .             .            .           = ,.       .                            , (= ,)      , (,)    . ,            . 
+evaluating    ,   .    ,   evaluating         , .               . 
+: ,  belief  belief     (), ,  
+             
+. 
+ 
+                    .           .                 (, ö,& , ).   ,     extrinsic_rewards     extrinsic_rewards    .   ,      extrinsic_rewards   .                .      ,           segregating.               .                 perceived_uniqueness. 
+             .                        .              . ,          . . 
+     gain.               
+    evaluating     
+           .     .. ..                , , , ,  .   ,                .   ,        . 
+       .   protection_effect            .           . , 
+    belief .....( . ;  ) 
+ 
+================
+             (& , ).       .   ,                      .   ,      ,     . 
+      . , ,   ()          .    perception. ,         . ,       [activity]      .      judging             ,       . 
+,    ()       .               .       .            .        , extrinsic_rewards gain,        .     physical_quality,    ,  ,   ,  ,  personality          extrinsic_rewards, ,  . 
+,    ()   perceived_vulnerability        .         .     ,              .  personality       personality . 
+  . ()   simplifying                   .  judging          ,    ,    .            gain  .      ,         . ,      . ,              . 
+   (),       .   , , , ,  , , , , ,  .          . ,     .             . ,    belief      . ,     focus            . 
+.  
+      belief         intrinsic_rewards  .   belief appraisal       belief  belief     () ,         belief  (& , ; & , ; , ; 
+ 
+  ., ; , ,& , ; , ). 
+  ,          source    .        ,   (& , ).               ,         .           personality belief   ,      . 
+            
+     
+    appraisal     belief   .   ,      .            belief       (, ;   ., ; , ,& , ; , ).        . 
+               .        ,       .      personality    belief      . ,  belief        .    belief          .    , extrinsic_rewards ,  ,   . ,      .                   
+, .  .   ,  
+================
+belief .      .    personality  belief         Collection   .    ,        .           .  gain,            :    , extrinsic_rewards ,  ,  ,  ,   behavior. ,      ,   physical_quality,   .     belief ,                 . 
+        . ()   . ,     belief     .        .       . 
+, ,  , extrinsic_rewards ,  ,        physical_quality        . 
+      ,      .              .        experiential_awareness      , ,   .      ,        . 
+=     certainty_effect   
+behavior . 
+=    behavior  
+    . 
+=    behavior  
+    physical_quality. 
+= extrinsic_rewards    certainty_effect   behavior 
+. 
+= extrinsic_rewards   behavior   
+   . 
+= extrinsic_rewards   behavior   
+   physical_quality. 
+=     certainty_effect   behavior 
+. 
+=    behavior    
+  . 
+=    behavior    
+  physical_quality. 
+=     certainty_effect    
+behavior. 
+=     behavior   
+  physical_quality. 
+=     certainty_effect    
+behavior. 
+     belief  belief     ()     
+      , 
+,   physical_quality 
+(Source:   ., ) 
+,            ,         .    personality      .. .  ....       .        , ,   , .  combining,        .  ,             . 
+             .         .      learning  ()      .  ,             .         behavior .      personality 
+        
+    
+.    
+      .    ,  (%)    ,    (%)   (  ).             .    physical_quality,   (%)       .    (%)       (  ).          . 
+    belief .....( . ;  ) 
+ 
+================
+   , extrinsic_rewards ,  ,  , behavior ,   behavior .               .           appraisal   . 
+           
+           
+# 
+ 
+ 
+ 
+ 
+ 
+ , , , , , 
+ , , , , , 
+      
+         
+       
+  extrinsic_rewards  
+           
+# 
+ 
+ 
+ 
+ 
+ 
+ , , , , , 
+ , , , , , 
+      
+       
+    
+        
+       
+# 
+ 
+ 
+ 
+ , , , 
+ , , , 
+    
+           
+         
+# 
+ 
+ 
+ 
+ 
+ , , , , 
+ , , , , 
+     
+   physical_quality     
+       
+  behavior  
+,          evaluating  .   ,        .         ,     personality.           .      
+       
+# 
+ 
+ 
+ 
+ , , , 
+ , , , 
+    
+ 
+, .  .   ,  
+================
+       
+   behavior 
+     
+# 
+ 
+ 
+ , ,
+          behavior      
+ , , 
+   
+    () 
+extrinsic_rewards  () 
+ 
+, 
+, 
+ 
+, 
+, 
+ 
+, 
+, 
+        
+   
+       
+   extrinsic_rewards      behavior   behavior 
+  
+, 
+, 
+, 
+, 
+, 
+, 
+ personality personality personality personality personality personality 
+  ()  () physical_quality ()  ×  
+ ×  
+ ×  
+ ×  
+ 
+ ×  
+-0, , , -0, -0, , -1, -0, , -0, 
+-0, , , -0, -0, , -2, -0, , -1, 
+, , , , , , , , , , 
+          behavior     
+ 
+  gain       ,      .       appraisal    .       .              ,  ,.          ,. ,    personality  
+appraisal  . 
+ 
+  
+ 
+-0, 
+, 
+ -0, 
+, 
+ 
+, 
+, 
+            .  
+     . 
+() 
+ ×A 
+  
++ β ⋅Age 
+, , 
+, , 
+, , 
+         
+= 
+ 
++ β ⋅Effort + β ⋅SocialInfluence+ β ⋅PerformanceExpectancy⋅Gender+ β ⋅SocialInfluence⋅Gender 
++ β 
+ 
+⋅Effort + 
+ 
+β+ β ⋅PerformanceExpectancy 
++ β ⋅Gender 
++ β ⋅Effort  
++ β ⋅PerformanceExpectancy⋅Age 
+β ⋅SocialInfluence⋅Age 
+() 
+ 
+, 
+ 
+, 
+ 
+, 
+      . 
+= β 
+() 
+ 
++ β() ⋅Facilitating+ β() ⋅BehavioralIntention 
+ 
++ β() ⋅Facilitating 
+   extrinsic_rewards    
+ 
+  
+() 
+ physical_quality 
+ . extrinsic_rewards .  
+ . 
+ .physical_quality 
+-0, , , , -0, -0, 
+-0, , , , -0, -0, 
+, , , , , , 
+, 
+, 
+, 
+-1, -0, 
+-2, -0, 
+, , 
+       .      personality     . ,           . ,     .         .   ,    personality .    , extrinsic_rewards ,  ,   . ,      (behavior    behavior ),     (  physical_quality ).           .  ,    .                    . 
+extrinsic_rewards .physical_quality  .physical_quality extrinsic_rewards .physical_quality behavior . 
+behavior 
+, -0, , , 
+, -1, , , 
+, , , , 
+    belief .....( . ;  ) 
+ 
+================
+      ,   generalizing   belief       ,   certainty_effect   behavior . ,   . ,    -0,,    certainty_effect      behavior      . ,   segregating. ,       (-0,),    certainty_effect      behavior      physical_quality.     segregating. 
+ ,    -0,.      certainty_effect   extrinsic_rewards   behavior . ,   certainty_effect   extrinsic_rewards   behavior      .            .      . extrinsic_rewards   certainty_effect     behavior      . ,  ,     certainty_effect     behavior .    . ,    certainty_effect      behavior      . ,   segregating. 
+ -0,   ,    certainty_effect      behavior      physical_quality. ,   segregating. ,  ,   certainty_effect       behavior.     . 
+   ,,   certainty_effect       behavior. ,   .  gain,       certainty_effect    behavior   . 
+       protection_effect            ,      certainty_effect     behavior. ,                        .                intrinsic_rewards                   . ,              , techniques       .   ,                 .    ,   extrinsic_rewards        behavior . ,   behavior       behavior.    ,    .      ,              gain      process  .     perception       persistence     . ,      ,      .            , ,       extrinsic_rewards . 
+ 
+.  
+       .               .           ,          belief   .     ,          ,     ,              .   ,                     .       ,    gain      process  ,  perception     persistence     ,    . 
+          ,          .                  .             . 
+ 
+, .,& , . . ().   
+   belief  belief  
+   ()   
+     
+   .  , (),  
+. 
+, ., , . ., , ., , ., 
+& , . (). mental_calculation    
+.      
+    (. ). 
+, , . 
+, .,& , . ().   ?  
+    .   
+     , 
+  intrinsic_rewards () (. ). . , . . ().  ,    
+,   belief   . 
+ , . 
+, ., , .,& , . ().  
+  belief  ()  
+focus      
+ ()    . 
+   & , (),  
+. 
+, ., ö, .,& , . (). judging 
+        
+ .   , 
+, . 
+, ., , . .,& , . ().  
+  .   
+:.. 
+, . ().     . 
+:  . 
+, .  .   ,  
+================
+, .,& , . ().   : 
+    perceived_vulnerability.  
+     
+   (. ). . 
+, .,& , . ().     
+.    , 
+(), . 
+, . ().        
+.   ://../ 
+/ 
+, . (). personality  : 
+ belief  belief     
+()  (learning belief ).  
+. 
+, ., , . ., , . .,& , . . 
+().  belief   : 
+   .  , (),  
+. 
+    belief .....( . ;  ) 
+ 
+================

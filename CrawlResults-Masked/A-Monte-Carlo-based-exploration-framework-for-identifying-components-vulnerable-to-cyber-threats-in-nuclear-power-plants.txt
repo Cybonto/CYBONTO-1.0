@@ -1,0 +1,1490 @@
+  modeling       opportunity_for_criminal_acts     
+   
+ ,  ,   ,  ,  , 
+ ,   ,    ,  ,         ,     (), é, é  -Saclay,    ,   -Malabry, 
+ 
+isolation_effect :        (&) , 
+   ()     ().  
+ , ,       (   ). 
+ loss  (  ,   )  ,     
+      . ,   
+     appraisal     opportunity_for_criminal_acts 
+.  ,    perception     
+    ().     
+     ()-driven       
+      .   , ,   
+     opportunity_for_criminal_acts  .    
+        . 
+:   ; ;  ;  
+ ;       
+(). 
+ 
+================
+   
+ 
+ 
+ 
+ 
+& 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+  
+ 
+   
+  
+   
+  
+   
+  
+ 
+ 
+  appraisal 
+  
+    
+ 
+  , , Г 
+      
+   , ,  
+  Δ  () 
+,  () 
+   
+  
+physical_quality    
+    
+    
+   evaluating 
+    
+    
+ constraint 
+   evaluating 
+   evaluating 
+    
+  
+ intrinsic_rewards 
+ intrinsic_rewards 
+    intrinsic_rewards 
+    intrinsic_rewards 
+ 
+  
+  
+ evaluating   
+ ( ) 
+    
+                    ()   
+    
+    
+    
+ 
+================
+() δ()   , , 
+ 
+ 
+  appraisal   
+ evaluating  
+  
+     
+         
+ γ            
+, ˆmax, 
+, 
+ , 
+         
+ , 
+ 
+ belief β 
+ 
+ , 
+      
+ γ            
+ , 
+         
+ˆ 
+, , 
+  
+ 
+, 
+ belief β 
+, 
+ 
+ 
+, 
+, 
+ 
+, 
+ 
+ 
+, 
+, 
+ 
+, 
+ 
+   
+,, 
+, 
+ 
+        
+         
+        
+         
+           
+            
+. 
+ 
+            personality 
+ (, ;   , ; , ;   ., ; è- 
+éè  , ).        segregating 
+      gain,      (é-Cornell, ; é- 
+, ). 
+[modeling]           behavior   
+, ,   ,   ( 
+ ., ;   ., ).  ()    
+  focus   ,    simplifying   
+       : , , 
+ 
+================
+,  , . (  ., ;   ., ; & 
+, ).     ,     ,   
+    (  ,    ) 
+        loss (   , ; , ; 
+ ., ; , ). 
+  ,  mental_calculation   ().      
+  (  )      
+ .         
+            
+   , personality    protection_effect  
+        .  ,     
+           (.., 
+         ,  
+  ,    ,       
+      (  , ; , )).  extrinsic_rewards 
+   [capability]          
+, ,   ,    (, ; 
+  , ;   , ). 
+     ,       
+ (&)      ()   gain   
+     (, ).       
+extrinsic_rewards       : () situational_circumstance  ( participant_modeling 
+  role     ,      
+           intelligence 
+ (  ., )); ()      ( 
+     (  ., )); ()    
+      (      
+    (  ö, ));  ()  
+  (       ,  
+ 
+================
+  ,      (  ., )). 
+ ,           , 
+     ,     
+(  ., ;   ., ;   ., ).     
+    ,        
+    (..,    loss      
+     (  ., )). 
+     ,       
+            
+ (  , ;   ., ). 
+           [modeling]  
+    (  ., ;   ., ;   ., 
+).    (    (  ., ; 
+  , ;   ., ),   (, ;   
+., ),   (  , )),   (   
+belief (  ., ;   ., )    ( 
+ ., ;   ., )),   [modeling]      
+(  ., ;   ., ;   , ). 
+ ,   ()   [modeling]   
+      process (.., , constraint,  evaluating, 
+.),  ,   ,   .  
+        , ,   
+,           
+           
+     (..,   loss ). , perceived_vulnerability 
+        protection_effect   
+/ , , ,        
+      . 
+  ,   ,    modeling     
+ 
+================
+          .   
+perception , ,       , ,  
+   appraisal    ""   () 
+perception (  , ;    ., ;    ., ;   
+ ., ),   opportunity_for_criminal_acts   . 
+            
+   appraisal :       (, ; , ; 
+, ;   , ),       ( 
+ , ),    (, )   -based  
+ (  , ).  ,     personality  
+     personality      
+ ,       loss    
+(  , ;   ., ;   ., ).   focus, , 
+,   ""  perception       
+    . 
+  perception  ,  loss     
+ ,           
+&           
+() (  ., ),     
+ (  ., ;   ., )     
+  (  , )  .     
+    &          
+     :    ,  
+ () constraint,       ( " " ) 
+  .  ,   loss  , 
+   
+ 
+  
+, ..,            
+ ( )   . 
+ ,  ,  "" ,   
+  protection_effect       . 
+     .        
+ 
+================
+  ,         ,   
+         .   
+,         ,   
+ loss .      opportunity_for_criminal_acts   
+     .   ,   . 
+. 
+      
+ 
+             
+        .  ., . 
+.   
+    ( )  ,    
+    .  (  ., ).     
+ ,  ,      (),  
+    ,        .  
+         ()   
+    ,      .  () 
+              
+  extrinsic_rewards   ,       
+     (  ., ). 
+    ,   (.., )     
+      ,     ,    
+ ,             ,   
+ ;  ,            . 
+   ,             
+  . 
+     constraint     .     
+vicarious_experience      ,  constraint      
+  ,           ,  
+ 
+================
+           (    
+).      ,          
+evaluating       constraint      
+   (),   .      
+     ,          , 
+         ,      
+ evaluating . 
+,            . 
+. .     (  ., ) 
+         vicarious_experience   
+   . .            . 
+ 
+================
+    ,      
+   , , Г        
+    
+physical_quality    
+           evaluating 
+         constraint 
+   evaluating          
+  .        .   
+ 
+          -  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+, 
+ 
+ 
+ 
+, 
+  
+ 
+. .    
+.    
+   (  )  , ..,   
+ ,          
+        (  ., ). , 
+          (   ) 
+  (, ). 
+     live_modeling    ,   
+         (. ).     
+ (, )       (, 
+),           
+ 
+================
+       ( ,    ., ;  
+ ., ). 
+           
+( .   ).        
+   personality    (  ., ).   
+            . 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+, 
+ 
+ 
+ 
+  
+ 
+, 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+, 
+ 
+ 
+ 
+ 
+ 
+: 
+-  
+ 
+. .     
+      
+ 
+    
+       ()  ()  ()  (-) , ()  ()  ()  () 
+,     
+  
+, 
+ 
+ 
+ 
+ 
+            
+    [] ,      .  
+             
+.           fear_arousal,   
+      protection_effect     .  
+ 
+================
+   ,    ,       
+    segregating :  ,  ,      
+         personality  
+     . 
+ . ,     ,       , 
+ .      . ,        
+    ,     ,   
+evaluating  ( ). 
+,  
+ ()  () , ()  () 
+          
+ , ,     
+   ,  ,  
+ -  
+   
+  - 
+   
+. .              : ()    ; ()  constraint; ()    ; 
+ ()   
+.         
+         ,      
+ 
+================
+            . 
+    ,            
+ role  [modeling]         .  
+       .    . 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+, 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+, 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+, 
+ 
+ 
+ 
+ 
+: 
+-  
+ 
+ 
+ 
+ 
+-   
+.           
+()  
+         ,   
+     .            
+     ,    (  , 
+): () , () , ()    ()  (    .  ), 
+), )  ), ).       loss    
+   (),   . (): 
+y               , ,, , ,     
+ 
+                &   , , , ,   
+ 
+ 
+                              ,,,     
+() 
+ 
+ 
+                   , ,, ,,     
+ 
+        ,,  
+ ()            , δ()    
+evaluating ,       (,σ),     
+ 
+================
+ ,      , δ()    evaluating ,  
+     (,ασ)      δ() (α>). 
+() 
+() 
+() 
+ 
+() 
+ 
+ 
+ 
+()=() 
+ 
+  ()  
+ 
+ 
+  ()  
+ 
+ 
+() 
+() 
+() 
+ 
+ 
+() 
+ 
+  ()   
+ 
+ 
+  ()  
+ 
+. .  loss : () ; () ; ()  ;  () .           ,       
+     
+,             
+          , , δ()   
+     , ,       
+        .    
+        , , ,  possibility_effect 
+       ( )    
+( )        loss , ; 
+,     (   , )     
+  possibility_effect      ,  live_modeling   
+   ""   . 
+     
+ 
+  
+δ() 
+  
+loss  
+  
+  δ() 
+ 
+================
+ () (,)  () (,.) ·105 , () (,)  () (,.) ·106 ()  
+(-200,) 
+(-100,)·105 
+(-30,) 
+(-300,)·106 
+(-1,) (-0.,.)·105 (-1,) (-0.,.)·106 
+(,) (,) ·105 (,) (,.) ·106 
+     &       
+   , :        ,   
+      evaluating       
+      evaluating.   ,    
+              
+ ,   .    ,  ,  
+        (),     
+ (  ):     &        
+ , ,  ,    . . 
+     
+ 
+  
+      
+  
+  () 
+ () 
+ (-) 
+() 
+ 
+ 
+ 
+ 
+. .   loss 
+()   
+  
+loss  
+.  
+(,) (,) 
+ 
+(,.) 
+ 
+  ,   (..,   )      
+,  intentionality    ,     process    
+ 
+================
+  .      . ,       
+           ( 
+ ),             
+         .      
+       (   ),     
+             perceived_vulnerability  
+      . 
+     
+ 
+ ,  
+, 
+    
+  ,  
+    
+  
+, 
+ , 
+,   ()   ()   ()   () 
+(,) (,) (,) (,) 
+ (  ) 
+, (,  ,) 
+ 
+  
+    
+ 
+ 
+ ,  
+(,) (,) (,) (,) 
+(,) () (,) ·105 () (,) () (,) ·106 () 
+ 
+.    loss      
+        & , 
+ loss           
+     behavior,       
+  personality loss       
+ appraisal,           
+  opportunity_for_criminal_acts  . ,       
+       "personality"       
+  loss, , ,  ""    :    
+            
+ 
+================
+(  "personality"  ,      , 
+             perception 
+      "" ). 
+. 
+  appraisal      
+  opportunity_for_criminal_acts    
+    perception   (  ., ;    
+., ;    ., )      appraisal     
+       . 
+. appraisal    
+()    
+          ,   
+ ��,��     ,        , 
+              , 
+         ( . ) (  , 
+;    ., ;    ., ): 
+     Uyya 
+, 
+    , , 
+ 
+ 
+ 
+  
+ 
+ ,  
+ 
+ ,   
+() 
+() 
+ 
+ 
+, 
+ 
+  
+, 
+ 
+ 
+.    ,�� 
+,    ��,��          
+  ,    : 
+ 
+================
+      
+, 
+    , ,  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+,  , 
+() 
+, ,      ()   loss  . 
+  
+     
+ ( . )    
+        
+γ        
+ , ��1���,�,  
+�̂�1,�1���,� (..,  appraisal  
+belief 
+β(   ,  
+ 
+ 
+ 
+ , ,Pr 
+yy 
+  
+ 
+  
+   
+ , , 
+yy 
+ˆ 
+, 
+  , 
+��1���,�)   
+ 
+),  
+: 
+ 
+ 
+   
+, 
+ 
+() 
+ 
+, 
+   ˆ 
+   ,, 
+    
+   
+, 
+    , , 
+ 
+ˆ 
+ 
+ 
+ 
+() 
+ 
+ 
+  
+ˆ 
+, 
+, 
+ˆ 
+, 
+,  
+  ˆ 
+
+      
+,,  
+ perception, 
+  
+satisfaction_of_needs appraisal   
+γ         ( 
+   ),  personality   loss   
+  
+       (  
+  
+  
+,
+    perceived_vulnerability 
+. 
+  
+     . 
+N111 
+)    
+β      
+γ 
+,  
+γ  β   
+. 
+( ) 
+ 
+================
+() 
+() 
+ 
+ˆ11,, 
+β 
+, 
+, 
+ 
+  
+, 
+, 
+ 
+ 
+, 
+γ 
+, 
+ 
+ 
+ 
+  
+. . 
+     
+, 
+      appraisal 
+ˆ, 
+,,  
+, ,  appraisal 
+ 
+ 
+, 
+, 
+ 
+,             
+  : 
+ 
+, 
+   ˆ 
+   ,,, 
+    
+    , , 
+   
+ 
+ˆ 
+   
+ 
+ ˆ  
+() 
+, 
+, 
+ 
+  ˆ  
+, 
+, 
+, ˆis 
+, 
+, 
+  appraisal    γ       
+  ,   belief β, 
+, 
+, γ  β : 
+ 
+ 
+ 
+ 
+ , ,Pr 
+yy 
+ 
+ 
+ 
+ 
+ 
+   
+ , , 
+ 
+yy 
+   
+, 
+ˆ 
+ 
+() 
+       . ,  γ  β . 
+N22  11  () 
+()    
+   ��,��           
+(     )  ( . ),      
+      ,   : 
+       ,, , , 
+   
+ 
+() 
+ 
+================
+           . ()  
+,  
+, 
+, 
+ 
+, 
+ 
+(): 
+        ,,, ,     ,, ,min, 
+    
+   
+ 
+() 
+,             ,  γ, γ 
+ β  (  , ),   . (): 
+           1        
+ 
+N   
+() 
+() 
+() 
+ 
+ˆ11,, 
+β 
+, 
+, 
+  
+  
+, 
+, 
+γ 
+,a 
+ 
+ , 
+ 
+ 
+ 
+, 
+ˆ22,, 
+, 
+β 
+ 
+, 
+ 
+, 
+ 
+ ˆ 
+, 
+, 
+ 
+  
+ 
+. .               appraisal 
+ˆmax, 
+, 
+ 
+ˆ 
+, 
+,, , , 
+ appraisal 
+   
+,, 
+, 
+ 
+.    
+        ,     
+   .    ,   
+      (.., , , ,,  )  , 
+           .  combining  
+=       ,       
+            ., 
+     (=,  ) γ= , β=,  ) γ=, β=) 
+ 
+================
+  (=,  γ,= , γ=, β=) . , = 
+     appraisal       ( 
+    )  , (     )  = 
+    appraisal         ( 
+    ). 
+             
+      perceived_vulnerability  (  ).    
+              
+(        ). 
+   perceived_vulnerability            
+    
+: 
+ 
+# # 
+# [., .] [., .) [., .) 
+ 
+) #   "γ,β"  ,,   "γ,β"    ; 
+) #   "γ,β"  ,   "γ,β"    ; 
+) #   ","  ,  ,  ,,   ","    ; ) γ= , γ=, β=, β=, β=. 
+    appraisal        
+ () 
+ ˆ 
+# 
+,  
+ ˆ 
+# 
+,  
+  
+# # 
+# 
+- 
+. 
+ 
+. 
+. 
+ 
+.  
+ () 
+, () 
+. 
+. 
+. 
+- 
+. 
+. 
+ () 
+. 
+. 
+. 
+          appraisal   
+   loss      evaluating      
+, .., , , ,,  . 
+    appraisal           
+  
+  
+ 
+ 
+ 
+, 
+, 
+ , . . 
+   
+,, 
+, 
+ , . .  
+. . 
+ 
+, 
+, 
+   ,, 
+   
+,, 
+, 
+ , . . 
+================
+  
+,  
+  
+                  
+. . . . . . .  . . . . . . 
+. .   .  .  . .  . . . 
+. . . . . . . . . . . . . . 
+. . . . . . .  . .   . . 
+              
+         .  
+         , ,   ,  
+        (      
+impact     , ,    , , .., 
+, ,  ,  impact    ). 
+ , .           , 
+      loss .  ,      
+ , ,()         (. ()),     
+    ,,().,       
+       (. ()),   
+     (. ()).  constraint  (. ())   
+          evaluating     
+.          .  ,  
+   , ,,      ,   ( )  
+    ., .,  ., .  
+   "" 
+,     perceived_vulnerability   .    ,  
+constraint          , , , 
+""     . 
+ 
+================
+. .       = ,  ,   : ()        ; ()      ; () 
+   constraint;  ()      
+    appraisal      ,    
+  
+  ()  () , ()  () 
+ˆ 
+# 
+,  
+- . . . 
+ 
+ˆ 
+# 
+,  
+. . - . 
+ 
+ 
+# #  
+# 
+. . . . 
+: )      ,  ,        live_modeling   personality     ,      ,            . 
+.  
+       appraisal     
+     .       loss   
+ ,           
+            ..    
+  fear_arousal,       
+   
+      opportunity_for_criminal_acts . 
+    
+  
+ appraisal      
+ 
+, 
+, 
+   
+,, 
+ , 
+, 
+ , 
+ 
+      
+, 
+, 
+   
+,, 
+   ,, 
+, 
+ , 
+================
+ physical_quality        
+.  . 
+   
+. . . 
+  . 
+  , .          
+                
+  (,)    ,     .    
+ evaluating                 
+.   ,        , (. ())  
+     (. ())   . ,   
+     constraint (. ()), ,    , ,  
+          (. ()).   
+    .    ,     ,  
+   .,    "" ,    perceived_vulnerability  
+  .    ,     , ,  ,     
+ ,          ""   
+   . 
+.        = ,             : ()        ; ()      ; ()    constraint;  ()     
+    appraisal        -stuck 
+   
+ 
+================
+ ˆ 
+# 
+,  
+ ˆ 
+# 
+,  
+  
+# # 
+# 
+ () 
+ () 
+- 
+. 
+. 
+. 
+ 
+ 
+ 
+, () . 
+ () 
+. 
+- 
+. 
+. 
+ 
+: )        ,           personality                ,            . 
+.   
+   appraisal           
+    .       intrinsic_rewards    
+          (   
+     ).         [capability]  
+            ( ) 
+intrinsic_rewards               . 
+   ,         (.., ,, 
+,,, ,)        .  
+    intrinsic_rewards  participant_modeling   ,    
+   appraisal     , (). 
+    appraisal          
+    
+  
+ 
+ 
+ 
+ 
+  ,   ,   ,,   , 
+ 
+, 
+, 
+ , . . . . . . . . . . . . 
+   
+,, 
+, 
+ , . . . . . . . . . . . . 
+ 
+, 
+, 
+   ,, . . . . . . . . . . . . 
+   
+,, 
+, 
+ , . . . . . . . . . . . . 
+.              
+                  
+ 
+================
+(,) (  ). 
+  [circumstances ],       (. ())  
+ .   possibility_effect         role  
+,      appraisal     
+  ,, ().            
+   . ,     constraint  (. ()),  
+      , (. ()),       
+(. ())       .    , 
+, ,      ., ., .,  ., . 
+.        = ,     intrinsic_rewards      : ()      ; ()    constraint; () 
+       ;  ()      
+    appraisal           
+    
+  ()  () , ()  () 
+ˆ 
+# 
+,  
+- . . . 
+ 
+ˆ 
+# 
+,  
+. . - . 
+ 
+ 
+# #  
+# 
+. . . . 
+: )            ,           personality      intrinsic_rewards             ,            . 
+ 
+================
+.       
+      intrinsic_rewards       
+,             , 
+,    ,     loss    
+ ..    ,   intrinsic_rewards       
+         ,      . , 
+          (     
+). 
+     .          
+ ,       ,       
+          ,  
+        .      
+       ,     
+       . 
+    appraisal         
+      
+   
+, 
+   
+,, 
+ 
+, 
+   
+,, 
+  ,_ 
+ 
+ constraint, 
+ 
+   , _ _ 
+ 
+  ,_ 
+  & , . . . . 
+& , 
+. . . .  & , .  . . 
+& , 
+. . . .  & ,, . . . . 
+& ,, 
+. . . .  & , . . .  
+& , 
+. . . . 
+.  
+     loss    ., .  .  
+intelligence .   ,      (  
+physical_quality,      )         
+    .           
+  segregating   vicarious_experience   , ,   
+ .          , , 
+ 
+================
+           ,   
+       .     
+    ,          
+   .    ,          
+       intrinsic_rewards    ,   
+ .,         
+  ,    loss   . 
+ generalizing   ,  , ,      
+   personality   ,      
+ opportunity_for_criminal_acts           
+ .           
+     ,    ,    ,  
+ . 
+. 
+ 
+  focus,      modeling   
+          
+ ()     loss      
+ ,              , 
+           
+. 
+    appraisal perception      
+perceived_vulnerability .          
+ ,         perception, 
+       . 
+    &        
+ ()  focus,       
+             
+,       .     focus 
+     ,     
+ 
+================
+   loss     ,      
+,               
+. 
+   ,   ,       
+personality          
+   , ,    , [modeling]   
+       ,  
+ ,  , .,    , 
+     loss   .     
+         .  ,   
+fear_arousal            ,     
+   ,        
+   role       personality  
+,      . 
+ 
+, ., , ., , ., .      
+()   . :      
+      :     
+ ( ), , ,  , . 
+, ., , .., , ., , .., , .  , ., . 
+        :   
+focus  personality   . , (), .. 
+, ., .    perceived_vulnerability : personality    
+  .  &  , , 
+.. 
+, .  , .., .       ,   
+ perceived_vulnerability   .  &  , , 
+.. 
+, ., , ., , ., , ., , ., , ., , .  , 
+ 
+================
+., .  :   belief     
+  .    intelligence , (), .. 
+, .  , ., .      
+belief .      .   
+(), .. 
+, ..  , .., , .     
+      .    
+, .     (. , . ). . 
+, ..  , .., .      
+ . , (), .. 
+ , ., , ., , ., , .., , .  , ., 
+.        
+     segregating     isolation_effect  
+.  &  , , .. 
+ , ., , .  , ., .  personality    
+ perception  protection_effect      
+ .  &  , , .. 
+ , ., , ., , .  , ., .    
+          
+appraisal.  &  , , .. 
+, .  ( ). :  è.   
+://..////. 
+, .  , ., .     , belief 
+,      .  , .. 
+, .  , ., .       
+ .  &  , , .. 
+, .., , .   , ., .      
+.  &  , (), .. 
+, ., .    [modeling]     
+ 
+================
+..  & . 
+, ., , ., , ., , ., , .  , ., , 
+.        perception :  
+  .  .        
+    :     . 
+, ., , ., , .  , ., .        
+perception    :   . 
+ &  , , .. 
+, .., á, .., , ., , .., , ..  , ., . 
+personality          
+.      , (), . 
+. 
+, .., .   belief     
+  .    , (), .. 
+, .         
+    .   .. . 
+, ., , .  , ., , . personality   
+   .     , 
+. .   (. ). . 
+, ..  , .., .  intrinsic_rewards    
+ :  .   , (), .. 
+, ..  , ..., .        
+     .    intelligence , 
+(), .. 
+, ..  , .., .  :     
+.    , (  ), . 
+. 
+, ..  , ., .     /   
+ . , (), .. 
+ 
+================
+, ., , ., , .  , ., .    
+ combining       . 
+ &  , , .. 
+, .., , .   :  .    
+   (),     
+  (. ). . 
+, ..  , ., . belief   appraisal.  & 
+ . 
+, .., .   .  . 
+, ., , ..., , ..., , .  , .., .   
+    .    
+intelligence  , (), .. 
+, .., , .., , ..  , .., , . 
+  perceived_vulnerability  appraisal      
+ .   , . .     
+     (. , . ). . 
+, .  , ., .         
+   .    , (), .. 
+, ., . impulsive_effect       
+.    , , .. 
+, ..  , .., . appraisal        
+      .  & 
+ , (), .. 
+, .  ö, ., , .     : 
+   .     ,  
+[experience ],   (. ).   . 
+, ., ö, .  , ., .      
+ .    impulsive_effect , (), 
+.. 
+ 
+================
+é-Cornell, ., .     :   
+    perceived_vulnerability . perceived_vulnerability , (), .. 
+é-Cornell, ., .  " "  " ": perceived_vulnerability   
+     . perceived_vulnerability , (), .. 
+è-éè, .  , ., .     
+ .  &  , , .. 
+, ., , ., , ., , .  , ., .  
+modeling      . gain   
+, , .. 
+, ., , .,  , ., , .  , ., .  
+        . gain   
+, , .. 
+, .., , .., , ..  , .., .  perception 
+         . 
+    , .. 
+, ., á, .., , .., , ., , ., . 
+perceived_vulnerability             
+       .  
+&  . 
+, .., , ..  , .., .       
+.  &  . 
+, ., .  . ..  , (), .. 
+, .  , ., , .     judging  
+.          
+ (. ). , , . 
+, .., , .., , ..  , .., .   
+  :   .  
+ , (), .. 
+, .  , ., .   :   
+ 
+================
+ (. ).  : . 
+, ., , .  , ., .       
+    impulsive_effect   personality  . 
+perceived_vulnerability , (), .. 
+, ., , .  , ., .     
+     impulsive_effect .  
+&  , , .. 
+, ., .         .   
+  , (), .. 
+, .,  , .  , ., .       
+     situational_circumstance .  
+     . 
+, .,  , ., , ., .     perception 
+   [modeling]    appraisal.  
+&  , . , . . 
+, .., . self-efficacy       .  
+   , (), .. 
+, .., .          
+ .     , (), . -409. 
+, ., , .  , ., .       
+   .    , , . 
+. 
+, ., , .  , ., .  appraisal     
+   vulnerabilities.     
+&  , , .. 
+, ., , .  , ., .       
+ .  &  , , 
+.. 
+, ., , .., , ., , ., , ..  , ., 
+ 
+================
+.    evaluating       
+ . , (), .. 
+, .  , ., .   [modeling]     
+ appraisal. process   situational_circumstance , , . 
+. 
+, ., .    perceived_vulnerability  perceived_vulnerability    . 
+ &  , , .. 
+, .   , ., .  personality      
+         .   
+ , (), .. 
+, .,  , .  , ., .   belief appraisal   
+    .  &  , 
+(), .. 
+ 
+================

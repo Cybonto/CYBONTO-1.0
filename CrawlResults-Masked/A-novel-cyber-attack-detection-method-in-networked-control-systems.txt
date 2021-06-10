@@ -1,0 +1,818 @@
+ 
+      
+     ,  , ,  ,  , , 
+ ,  , ,   ,  ,  
+            .      ,     : )     )  appraisal  ,  .  appraisal                appraisal .         ,               (..,   )              .                            appraisal       .                        appraisal       .                         .        ,         ,          . 
+   ,    ,    (),  ,  ﬁ. 
+.  
+ 
+,    ()  
+    role        ,  ,  ,  ,       []-[].       ,    ,           
+   , ;   ,    , ;   , .              .      combining  .-xxx. . ( :  .) 
+. , . ,  .       , ﬁ ,  ,  ,  ( : .@ﬁ..; .@ﬁ..; .@ﬁ..). 
+.-xxx.          ,    , ,  ,  ( : @..). 
+        ﬁ        ://... 
+  ﬁ ./.. 
+          []-[].  personality                ﬁ     .   ,                  ,  () [],        ,  () [],          [] ( []     ). ,       opportunity_for_criminal_acts           .   ,           protection_effect         . 
+ satisfaction_of_needs , personality       ( []-[]).  ,           ,  loss           .  ,                           []. ,  extrinsic_rewards           ,        : )     [], []; )    ()  []-[];  ) χ-detector     ﬁ []-[].   ,          belief    perceived_vulnerability.       ,           [].        []        .   ,   perception       intrinsic_rewards   ,       [],           evaluating   [],    perception   impulsive_effect       physical_quality      []. 
+                      behavior_control-ability       []. judging              ,  ,                    . 
+================
+ 
+,             . 
+       ,     [] appraisal  (..,  ﬁ)    (..,   ,    χ-detector)     .  ,  [],                .              ﬁ-   χ-detector.   ,               gain    χ-detector    .  [],   ﬁ techniques       []          appraisal    [] . ,          χ-detector           intelligence  .      ,   ﬁ,                     [].  [],     perception      .       ﬁ appraisal  appraisal        . 
+  ,          [] appraisal       ,     []  .   , appraisal       perception,    ﬁ  ,           []      (    ). ,     ,      ,    , % ﬁ   []      . ,         []        () .  gain,      , ..,     (χ-detector)             behavior      .    ﬁ  ,          ,     []     . ,          ﬁ,     simplifying     .      appraisal      [] appraisal techniques [].  belief   techniques       [] appraisal  []       []    [], [].   ,   appraisal     []      . ,  personality  techniques        []   (ﬁ). ,   perception      ﬁ  ( []-[]).    ,         appraisal   intentionality     ,     
+   [] appraisal    . 
+certainty_effect            ﬁ techniques,             ﬁ       .  ﬁ          [] appraisal         []    .  [] appraisal         appraisal  .   combining                          appraisal      appraisal .                 appraisal  ,    . 
+)             
+        
+ appraisal       
+() appraisal . 
+)             
+        
+ appraisal        
+. 
+                  : )     )  appraisal  .    ,     ﬁ  appraisal               .   appraisal  ,   [] appraisal      appraisal ( )       appraisal     .                                     ,                             appraisal       .      [knowledge ],     ﬁ         ﬁ perception                            appraisal . 
+        .                      ﬁ   appraisal   .                            .                          .  belief     . 
+:             .       
+================
+. .       . 
+  "certainty_effect ﬁ."       .   ()     . 
+:        {ζ : ζ= + ,},  ∈Rn      ∈Rn×m  evaluating () = ≤n       .             "ﬂ"      .             certainty_effect.    ,       =>    =(ζ − )(ζ − ) ≤ . ,          {ζ:(ζ − )(ζ − ) ≤ }.      [function]               (), ..,  combining     []. 
+.     mental_calculation         . .   ,     appraisal                        [], [].         ,  appraisal                      . 
+ personality ,            : )    , ..,     )            [].  ,    . : 
+)            
+    ,   ,   
+     , ,      
+        
+     ,   , 
+        
+ , ; 
+ 
+)            
+    ,   ,    
+ , ,        
+,   ,     , 
+,      . 
+  ,                     (    ). ,  appraisal              =    =˜uk, ,            , .         ,  =   = . ,                 .                                 .  belief                 .                     , .., , ,  . 
+  ,        , . ,      .               
++= + +  = +  
+() () 
+  ∈     [];  ∈      
+ ;  ∈    appraisal ; , , , ,         
+;   ∈    ∈    process  appraisal , ,     belief. 
+belief :  process    appraisal    ,         ﬁ  :
+ 
+  :   ≤  ()
+  
+  :  
+ 
+  ≤  () 
+ =    =        . 
+ :    personality        appraisal       .  ,     ,                   ;  ,               . ,               ,         process . ,    appraisal       intentionality      appraisal . ,  belief    
+================
+ 
+     [knowledge]          syllogistic_rules    [knowledge]   intentionality     . 
+belief :   []         
+ 
+
+ 
+|
+  :  −ˆ 
+ 
+| 
+|  −ˆ
+ 
+| 
+≤1 () 
+,  [goal]       
+ 
++| +: 
+  
++ +| 
+
+ 
++|++| 
+≤1. 
+() 
+            [] +           ﬁ . 
+ ˆ|    appraisal  ,  |= |  
+  . 
+. appraisal   
+      appraisal      ()  (),       
+ˆ+|+ =ˆ+|+
+ 
++ 
++
+ 
++| 
+() 
+ +  ﬁ    intentionality.       +|(),  [] +    
++=ˆ+|++|. 
+() 
+           
+ :  personality ,         evaluating   []   ,        appraisal    [].             . , belief        []    . 
+ physical_quality    ﬁ perception,            . 
+)        appraisal 
+. 
+)      +|+  
+  
+, .., +|+ 
+      . 
+) ,      +|+ 
+    +|     appraisal +.   , 
++|= ∅,        +|+    
+ˆ+|+     +|+   [] +, 
+    appraisal     
+ +|, .., +|+ 
+    appraisal    
+  . 
+)         . 
+)      +|   
+    |   
+, .., | +|= ∅,   
+    . 
+) ,      +|  
+       
+ |, .., | +|= ∅,    
+        . 
+,     |   []  ,              +| (..,   )     +|+ (..,  appraisal  )     appraisal ,  .   ,         . 
+        + . ,       
++|= ∅,   
+ 
++ 
+−ˆ 
+ 
++|+  
++|+ 
+ 
+++|+ 
+ 
+≤1 () 
+.   
+,   ﬁ       
+ˆ+|= ˆ|+  
+() 
+ ˆ|   appraisal   []      ﬁ    intentionality. 
+   [] appraisal   |    ˆ|     |,   []      
+ =ˆ|+|. 
+() 
+   ( constraint) 
++=+ˆ+|+++| +++ 
+() 
+     ++. 
+.    
+  
+  ,   ﬁ           . ,   ,        [] +. ,          [] appraisal                 [] +   appraisal. ,                 . 
+.       
+    (),   ﬁ ()  (),    ++|    
+++|= + + −ˆ| 
+=( −Gk)ˆ|+| +. 
+() 
+ 
+⎡ 
+ 
+⎤ η, =⎣  
+⎦. 
+ 
+================
+ ()        
++ −ˆ+|= 
+ˆ 
+| 
+η, 
+() 
+
+ 
+ 
+ˆ
+ 
+| 
+=( −Gk)ˆ| 
+| 
+
+  
+. 
+,    () 
+  
++ +| 
+
+ 
++|++| 
+≤1 
+    
+ 
+ˆ
+ 
+| 
++|
+ 
+η, 
+ 
+ 
+ˆ
+ 
+| 
+−diag{,,} η, ≤ . () 
+ ()  (),          : 
+ 
+ 
+  ≤  
+ 
+     η, 
+  
+η 
+, 
+−1,, η, ≤0 
+() 
+η,{−1,,}η, ≤ . 
+  []()  (),      ()       τ,  τ,   
+ 
+ˆ 
+
+ 
+ˆ|
+ 
+| 
++| 
+− {,,}
+ 
+−τ,{−1,,} − τ, −1,, ≤ . () 
+ gain,  ()        : 
+ 
+ˆ 
+| 
++|
+ 
+ˆ
+ 
+ |
+ 
+−   − τ, − τ,,τ,,τ, ≤ . () 
+, 
+ 
+, =−diag  −τ, −τ,,τ,,τ, 
+        
+ 
+ˆ 
+| 
++|
+ 
+ 
+ 
+ˆ
+ 
+| 
++, ≤0. 
+() 
+    , ()    
+−Pk+|
+ 
+ 
+ˆ
+ 
+|
+ 
+ 
+ˆ| 
+≤0., () 
+    ,     . 
+belief :    ()  (),    []     [] appraisal   ( −ˆ|) |( −ˆ|) ≤1.     [] +    []   
+(++|) +|(++|) ≤1,    +|> , , τ, ≥0,  τ, ≥0   () . ,     []    intentionality  (). 
+belief        []    +.         simplifying  ,       (),      +|         extrinsic_rewards  ﬁ   
+ 
+     
+behavior_control-ability >,,τ,,τ, +| 
+  (). 
+
+ 
++| 
+() 
+.       
+ appraisal 
+  ,              +|+ 
+ 
+  ﬁ intrinsic_rewards +   constraint (). 
+   ()  (),     (),   ﬁ     appraisal (),   appraisal  ++|+ 
+ 
+    ++|+ 
+=ˆ+|++|+| 
+−Lk+++| −Lk+++ 
+=( −Lk++)+| −Lk+++. 
+() 
+       +,   ﬁ 
+ 
+⎤ 
+η,+=⎣  
+⎦. 
++ 
+,   appraisal          
+++|+ 
+=η,+ 
+()  
+ = ( −Lk++)+| −Lk+
+ 
++ 
+. 
+ ()  ,   ()        
+ 
+η,+ 
+−1 
+ +|+  
+−diag{,,} η,+ ≤ . () 
+   ,  ()  (),    +,      : 
++++ ≤  
+ 
+     η,+ 
+η 
+,+{−1, 
+,+}η,+ ≤  
+η,+{−1,,}η,+ ≤ . 
+() 
+    ()  (),      ()        τ,  τ,   
++|+ − {,,}
+ 
+− τ,{−1,,}−τ, −1,,+ ≤0 ()         : 
+−1 +|+ −diag  −τ, −τ,,τ,,τ, 
++ 
+≤0. 
+() 
+
+ 
+, =  −τ, −τ,,τ,,τ,+. ()    () : 
++|+ −2, ≤0. () 
+================
+ 
+,      constraint ()   . ,     
+ 
+ 
+ˆ
+ 
++| 
+η,+=  () 
+
+ 
+ 
+ˆ
+ 
++| 
+= 
+ 
++ˆ +| 
+− + ++| +. 
+() 
+     [],   () [.., ()]  constraint () [.., ()]       +   
++|+ − 
+, 
++ + ˆ
+ 
++| 
++  ˆ+| + ≤ .     ,  
+, =−2, ++
+ 
+ 
+ˆ
+ 
++| 
++ ˆ+|+. 
+() 
+() 
+,    , ()    
+−P 
++|+ 
+ 
+
+ 
+
+ 
+≤0. (), 
+      belief. 
+belief :    ()  (),   [] +    []   
+  
++ +| 
+
+ 
++|++| 
+≤1    []      [] appraisal  
+ 
+−ˆ 
+ 
+++|+
+ 
++ +|+  
++|+  
+ 
+≤1    intentionality  (),  +|+ 
+> 
+  ﬁ   ()     +, τ, ≥0, τ, ≥0,  +. 
+    perception            . +|+ 
+ 
+       : 
+behavior_control-ability >,+,+,τ,,τ, 
+ 
++|+ 
++|+  
+ 
+  (). () 
+ :     ,     ()  ()       
+   [] appraisal 
+. : 
+   |(ˆ|, 
+|), 
+     , 
+  ,= .  ˆ←x0 ˆ 
+| , 
+ ←  
+| , 
+ ← . 
+. : 
+)  + 
+| 
+       (). 
+   + 
+| . 
+)        ˆ+| 
+  
+ (). 
+ :       )   
+ 
+|  +| 
+= ∅,    ; 
+)  
+ 
+  
+|  
+ 
+ +|  
+= ∅,        
+ 
+ +|  
+←  
+|  
+. appraisal : 
+)   
+ +|  + 
+ +     
+ ().    +|+. 
+)       appraisal  ˆ). 
++  |+   
+( 
+ : 
+ appraisal    )   
+ 
+ +|  + +| 
+= ∅,    ; 
+)  
+ 
+  
+ +|  + 
+ 
+ +|  
+= ∅,        
+ 
+ +|  + 
+←  
+ +|  
+.  
+  ==   ,   ← +  . 
+.      
+       ﬁ-     []            . 
+       +|    +|+    appraisal +.                . 
+ :            ﬁ               ()  ()      . ,     ,              [] +. ,        ,           []           . 
+ () ()  ()     +|, ,   generalizing       
++|+, , +, +,  τ,, = , ,..., . ,          ﬁ         .         (),    combining           combining          ()  ().       , , , ,  ,        ,                    [].    [],  personality ,    ﬁ                  . 
+          impact   . ,            .         ,      ,           +| ← |,         appraisal   +|+ ← +|.  ﬁ                 satisfaction_of_needs    . ,              . 
+ :   ,              ,          . ,     +|     . ,   appraisal  |,    
+================
+       , .., |,      . ,   generalizing            +|    appraisal   |,        . 
+ :   ,    appraisal -         + ,      +     .   ,  appraisal   +|+     appraisal +     . ,     +|,          , .., ,      . ,                   appraisal  ,   appraisal     . 
+ :            personality   ,                    impulsive_effect                .          ()  ()              . ,     behavior_control-ability          ,        .   ,               process  appraisal         ,    ,       behavior_control-ability           impulsive_effect        . 
+ :         impulsive_effect              ,       , ..,           .           / appraisal        ()          .   ,             impulsive_effect      ,    . ,                 ()  (),                      . ,   perception             perceived_vulnerability         . 
+.   
+.   
+  ,                () .            . .          
+ 
+. .     . 
+appraisal  []    .   ,    self-efficacy    belief     ﬁ   ( )   personality     .     , .., , ,             . ,     opportunity_for_criminal_acts   . ,                   . 
+          
+⎡0010⎤ ⎡ 
+ 
+⎢x˙() ⎥⎥ ⎢ 
+= 
+⎢0001⎣0000 
+⎦x() 
++ 
+ 
+⎣⎢ 
+θ⎦u() 
+() 
+ θ 
+  ﬁ     []  ()     ,          , . ()      θ          . 
+ ﬁ      
+() ≈ 
++ −  
+ 
+  process              ∈ +,   
+      [] 
+⎡10T 
+ 
+⎡ 
+ 
+⎡2⎤ 
+⎢x ⎥⎥ ⎢ 
+⎦xk 
++ 
+⎢ 
+ 
+⎢1⎥⎥ 
++ 
+= 
+ 
+⎣⎢ 
+ 
+⎣ 
+ θ 
+⎦⎥uk 
++ 
+⎣⎢ 
+ 
+  θ  
+() 
+   process         ﬁ  . 
+  appraisal      
+ 
+= + 
+ 
+  
+() 
+     appraisal      appraisal -  . 
+================
+ 
+    . .         , θ= .                 
+  ±0./,          ﬁ.       .()  .(), . 
+√ 
+=   
+ 
+= .   []    =     
+ 
+|  : 
+ 
+ 
+−ˆ 
+ 
+| 
+|  −ˆ
+ 
+| 
+≤1. ˆ|  |    ˆ|= 
+,  
+|= {,,,}. 
+.    
+   ,  mental_calculation      ,       ,     appraisal           , . 
+  ,            participant_modeling   .   ,                .          . 
+)     appraisal :   
+() 
+() 
+. .       χ+|    appraisal   χ+|+  ()  −    ()  −   (""      ""     ). 
+ δ        . ,          
+= + . 
+       ,      .         .           . 
+ .    [],          .   ﬁ ,      ,                     , ..,     .   ,                    . ,                            . 
+         appraisal -           τ=  −    ﬁ . ,    ,           = +         = ,            .       
+=  − . 
+,         
+= + . 
+)       :     ,          [].        [knowledge]    .              ,            [knowledge]       .             
+       [knowledge]   
+.   
+mental_calculation    ()  ()    
+= δ 
+, .., =   = .             appraisal       [],           . .  ﬁ                ﬁ     [] ( −  )        [] ( −  )   . ()  (), . 
+.      
+  ,              appraisal              , ..,       . .   ,             =   =              =   = .  (),    experiential_awareness          ﬁ     [], ..,   . ,                  −  . 
+.              appraisal      .  ,       = ,          appraisal    =      . ,  appraisal         appraisal   = . ,             
+================
+. .       χ+|    appraisal   χ+|+   −x2  (           ). 
+() 
+() 
+() 
+. .   χ+| (,  )    appraisal  χ+|+ (,  ). ()  . ()  . ()   (  appraisal        ﬁ 
+      , ). 
+                       = , .., χ||= ∅,    . (). 
+  ,  +|+ ← +|  =   = ,   generalizing                  . ,    ﬁ  = ,       appraisal        appraisal   =      .   ,    ,        , .., χ| ∩ χ|= ∅,    . (). 
+ =        ,                      . (). 
+.        
+  ,                            
+ 
+. .       χ+|     appraisal   χ|   −   (           ). 
+() 
+() 
+() 
+. .   χ+| (,  )    appraisal  χ| (,  ). ()  . ()  . ()  . 
+, ..,       . . 
+,        
+ 
+=  =   = ,   
+= + . 
+ (),                  [], ..,   . ,                  appraisal            −  . 
+.               .        = ,        ()     ; ,            appraisal             = . ,                       appraisal        = , .., χ| ∩ χ|= ∅,    . (). 
+================
+ 
+  ,          =   = ,  χ+| ← χ|  =   =     ,  appraisal          = . ,    ﬁ  = ,               =       ,   appraisal          =            = .          =       ,    ,         = , .., χ||= ∅,    . (). 
+ =        ,                      . (). 
+. belief 
+            ﬁ perception     .         []   :      appraisal  .                 .    ,                     appraisal     appraisal       .                           appraisal      appraisal       .  personality             .  personality ,         ,      χ-detector   . ,    personality                        . 
+ 
+[] .   . , "intelligence :    ," 
+. , . , . , . ,  . 
+[] . , .-xxx. , . physical_quality,  . , "   
+         
+ ,"  . . ., . , . , . , 
+. . 
+[] . , . ,  .-xxx. , "   : 
+  ," . ., . , . , . . [] .-xxx. , .-xxx. ,  . , "     
+  ,"  . . ., . , . , 
+. , . . 
+[] . .   .-xxx. , "  :  
+  ,"  . . ., . , . , 
+. , . . 
+[] .-xxx.   .-xxx. , " modeling  personality 
+         
+," , . , . ,  . 
+[] . , .-xxx. , . , . ,  .-xxx. , "  
+    ﬁ-time     
+,"  . . ., . , . , . , 
+. , : ./... 
+[] . , . , .-xxx. ,  .-xxx. , "  
+ ﬁ        
+    ,"   ., . , . , 
+. , . . 
+[] . , .-xxx. , . , . ,  .-xxx. , "  
+         
+," , . , . , . . [] . , . , .-xxx. ,  . , "[] appraisal  
+   :     ," 
+, . , . , . . 
+[] . , . , .-xxx. ,  . , "    
+       ,"  
+. ., , ., ., . , . , . ,  . [] .   . , "      
+,"     (  
+   ), . , .   . 
+, . , , : , , . . [] . ,       
+    ,  . . . 
+, , , , . 
+[] .   . , "      ," 
+, . , . , . , . 
+[] . . á, . ,  . , "    
+   ,"  .  .   , 
+ , , , . , . . 
+[] . .   . . , "   
+     ,"  . ., , 
+.,., . , . , . , . . [] . , . . . ,  . , "    
+ ,"  . ., , . , ., . , 
+. , . , . . 
+[] . , . , . , . ,  . , "  
+    personality    
+,"  . ., . , . , . , . . [] . .   ., "     
+   ,"  . ., . , . , 
+. , . . 
+[] .-xxx.   .-xxx. , "    protection_effect  
+      ,"  . 
+ . ., . , . , . , . . [] . , . , . ,  . , "opportunity_for_criminal_acts   
+protection_effect         
+ ,"  . .  ., , , 
+, . , . . 
+[] . . , . , . ,  . . , " 
+           
+,"  .  process ., . , . , . , 
+. . 
+[] . , . . , . ,  . . , " 
+       ,"  . 
+ process ., . , . , . , . . 
+[] . , . , . . ,  . , "   
+  intelligence ,"  . intelligence , . , . , . , 
+. . 
+[] . , . , . , . . ,  . , " 
+         ,"  
+. intelligence , . , . , . , . . 
+[] . , . ,  . , "    
+    [] appraisal,"  . intelligence ,., 
+. , . , . . 
+[] . . , . , . ,  . . , " impulsive_effect 
+          
+ ,"  . .  ., , , , , 
+. . 
+[] . , . ,  . , "    
+ ,"  .  . ., . , . , 
+. , . . 
+[] . , . , . ,  . , "    
+       intelligence    
+ﬁ,"  .  . ., . , . , . , 
+. . 
+[] . , . ,  . , "   
+ :        
+  ,"   ., . , . , . , 
+. . 
+================
+[] . .   . , "     
+  intelligence   ,"   process. 
+., . , . , . , . . 
+[] . , . ,  . , " protection_effect   
+     ,"  . ., 
+. , . , . ,  . 
+[] . .   . á,    appraisal  
+,  . , , : ä , . [] . . , " [] appraisal :    
+   ,"  . . , . , 
+. , . , . . 
+[] .   . , " [] appraisal    
+   perceived_vulnerability,"  . . , 
+. , . , . , . . 
+[] .   . , " ﬁ     
+," , . , . , . , . [] . , . ,  .-xxx. , "      
+  ," . .  ., . , . , 
+. , . 
+[] . , .-xxx. ,  . , "   
+ perceived_consensus        
+     ,"  
+. . ., . , . , . , . . [] . , . ,  .-xxx. , "   
+ ﬁ    ,"  
+ belief ., . , . , . , . . [] . , . ,  .-xxx. , "   
+      ,"  . . 
+., . , . , . , . . 
+[] .   . , " ﬁ  [] ," 
+ . . . ., . , . , . , 
+. . 
+[] .   . , " ﬁ    
+   ,"  . . . ., 
+. , . , . , . . 
+[] . , .-xxx. ,  . , " personality  
+     appraisal  
+  ,"  . .,   , 
+: ./... 
+[] .    . ﬁ, " ﬁ   
+      perceived_vulnerability,"  . 
+. , . , . , . , . . 
+[] . , .-xxx. , . ,  .-xxx. , "    
+   perceived_consensus   ,"  
+. ., . , . , . , . . 
+[] . , .-xxx. , . , .-xxx. ,  . , "   
+         
+ ," , . , . , . . [] . . , . ,  . ,  ﬁ  
+perception    , , , : & , 
+. 
+[] .   . , "ﬁ ,"  ., 
+. , . , . , . 
+[] .   . . , " ﬁ  []  
+,"  . . . ., . , . , 
+. , . . 
+[] . , . é, . ,  . . , "  
+     ,"  .  . . 
+ ﬁ . ., , , . , . . 
+  ()   .. 
+      
+, , ,  ,  ..   
+  ()    
+  , , ,  ,  
+ ..     ( 
+)  ﬁ ,  , , 
+,  ,      
+   syllogistic_rules    
+ ()   ﬁ   
+. 
+        ﬁ,  ,  ,    ,  ,   ,  ,     . 
+ 
+  ()   .. 
+       
+    , , 
+,  . 
+    combining    
+ﬁ   , ﬁ , 
+ , , .     
+    , , 
+,    , , ,  
+   , , , 
+        , , ,   combining     , , , .             , , ,      ,  .         .        ,  ﬁ  , personality    ,    ﬁ  intelligence ,      . 
+..    combining        . 
+  ()   .. 
+      
+, , ,  ,   ..  
+..       
+       
+  , , ,   
+ , . 
+   ,     
+     
+    ( 
+,       é), É é    (, É  é   ), é  , , .    ,              ,     , , , .    ,     ,  combining          [division ],         intelligence   ,   , , , .    ,          ﬁ ,      ﬁ   , ﬁ ,  , , .  ,       , , , ,              .  ,        ( )        , , .        ,  ,  ,  ,  personality  . 
+.            ﬂ ﬁ : ,      extrinsic_rewards     . extrinsic_rewards   combining       ,       ,      ,     , .         . 
+  ()    
+       
+..  ..      
+     , , 
+  ,  , ,  , 
+. 
+        
+intelligence , ﬁ ,  , 
+, .       
+  ,      
+    intelligence      .             . 
+.       ,    intrinsic_rewards  (),     extrinsic_rewards,        extrinsic_rewards,        extrinsic_rewards.               . extrinsic_rewards        intelligence   ,     ,         ,         intelligence   .       ﬁ . 
+================

@@ -1,0 +1,354 @@
+      appraisal    
+   
+ ,  ,  ,  ,  
+ 
+ 
+ &    ()  .  ,    & , ,  
+ 
+.  ,   , ,  
+{@., @., .@., @., @.} 
+isolation_effect.      modeling   mental_calculation          ()  .                ,                   .         impact                       ( )     internalization   () ,   appraisal   .      focus           ()   .        physical_quality -  ()       ()  .           modeling,                     (    syllogistic_rules       ),       appraisal .                               modeling appraisal.                    .                 appraisal  . 
+:  ;  internalization  ; ;  ;  ;   . 
+  
+   ,     ,         gain .           ()                        ,        .    ,  , , , ,  ,       ,        ,    ,    .    , ,      personality    perceived_vulnerability            perceived_vulnerability       intrinsic_rewards     (  ., ).                             perceived_vulnerability (  ., ).           ()       , "       "        "   " ( , ). 
+================
+          ,             ,           loss     []                 .          fear_arousal            ,     (  ., ). 
+      ,       ( ),  ( ),  ( )   (   ). ,  personality  () (  , )             .     "GhostNet" (, ),        ; " " (, ),  Targeted_Malware          -    ; "" (  , ),           ;  "" (  , ),                (, ). 
+   behavior_control-ability               : ( , ).       techniques              .                    mental_calculation        . 
+              "" -                -xxx    (    ),   " personality      (, ).         ,   ,                    " "   .       combining              " " :    ""          /  loss,      ""      ( , ).   gain        techniques   ,       satisfaction_of_needs     perception      "  "         (  , ). 
+         modeling                             "  "     ,         []           [policy ].                    .        "  ",  []               "  "       , (personality) "  " -   " " (      )  personality . 
+       ""  ""  ,             ,            impact                       ( ). ,    ()    . 
+  ,   focus           ()   .             appraisal   .      
+ 
+================
+        appraisal                               .                appraisal appraisal           . 
+     :         modeling appraisal  . ,   appraisal        appraisal    .                . ,     ,    . ,  ""   appraisal    ,           "        ",  .            ()       ()  .             appraisal  .               appraisal                      . ,             . 
+     modeling appraisal 
+    ,         .     ,                      combining  .  loss     perception        ,     personality     loss      .     appraisal        .      focus   perception    :    personality   .  ,        appraisal                perception personality      . 
+     ()    appraisal       :  ,      perception  personality .            (..          perceived_vulnerability   ).     : 
+)   ()          : 
+   ,  , intrinsic_rewards , ,  
+   source      perceived_vulnerability ). 
+)  "   " ()        
+    : , ,   
+, ,   . 
+)    ()          
+ : , , ,         
+    . 
+)  " [exposure]     " 
+()    ().    intelligence     - 
+      :  , Ι- 
+ [exposure ], Ι   Ι . 
+)            . (). 
+            
+     :  ,  Impact, ,  
+ Impact  . 
+ 
+================
+) " "     . ()       
+     .  ""   ,  
+, , , , &  ()  [action]   
+. 
+         .   focus             perceived_vulnerability                process.     : 
+)   . ()   perception   modeling   perceived_vulnerability  
+. ,     mental_calculation   perceived_vulnerability   
+     (  ., ). 
+)   . ()      perceived_vulnerability . ,   
+    perceived_vulnerability          (  
+., ). 
+)   . ()    process modeling   perceived_vulnerability  
+ . 
+  perception  personality             focus            impact       .     : 
+)        () ()    
+   perception  .        : 
+, , , ,           
+     . 
+)      (, )     
+  , [policy ],       .   
+      [policy ]. 
+)   . ()       "   
+  ()           
+      persistence  perception.   intrinsic_rewards 
+  ,  ,  ,    
+   . 
+,      possibility_effect,       mental_calculation           mental_calculation   . ,   ,          combining    impact        , ,               .  gain,                    .   ,       modeling      mental_calculation                         "  "              []           [policy ]. ,     ,       ,               ,  . 
+          
+       (),                            ,    personality perceived_uniqueness   [] ( intrinsic_rewards ).  ,  ,                 .             
+ 
+================
+          . loss, loss  loss               "   ".      ""         .     (),        " "      ,       " "   "  ",               . 
+         : "    [action]  , , , ,           /         " (   , ). ,        " "    "  ,    personality,       loss  loss    loss  loss  "     "                  " ( , ). ,     () "      ""  " "            ,           ". 
+    ""    ,      (, ). ,             "   " (..,  ).    ()    extrinsic_rewards       techniques                          personality .          , ,        ,  " "       [policy ]. ,                . ,         gain              (  , ;  , )      " /                         perceived_consensus" ( , ),                      ( )     (  , ). ,                (, ). ,  perceived_vulnerability               . 
+        techniques                       .  "         " (, )                       (  ),   extrinsic_rewards  focus    [norms]    ""   .         simplifying  personality     ,   perception        ,         []           [policy ],     ,          (     ,         ). 
+  ,          belief            .  task                combining    .            ()          . 
+ 
+================
+,  ,              .  ,      : ()       "perceived_vulnerability    "       ()       (   , ); ()       "perceived_vulnerability   ,    ,    " (    , )                       ;  ()         " ",        []                  (      , ). 
+.       
+   ,                    ,   .          ,       ,      .        loss  appraisal   impact           . ,     combining              "  " (, ;   . ). ,                     ,           . ,        (, ). 
+ ,         ,      : 
+()                   []  .     personality ,    impact      .       "  "  perceived_vulnerability      . 
+()         satisfaction_of_needs    "  ".     ()     "   ,        perceived_vulnerability          personality perceived_uniqueness   [],             ".   ,                  ()   (, ). 
+()                    [action]    persistence      .       intrinsic_rewards      perceived_vulnerability   ,        ,    situational_circumstance  (    ),   [authority]           . 
+()          satisfaction_of_needs      .                .                  . 
+,                "  "    " ". ,              ,    ,     persistence       . ,      ,    ()     ,  "     "   "      perceived_vulnerability          personality perceived_uniqueness   [],               ,  " ( , ). 
+ 
+================
+. .       
+,                 gain      "  "            ()     (       ).                  , ..     "                          " ( , ).                 "  "       ,    extrinsic_rewards     combining             ,   ,    ,   ,  "  ". 
+    ,        ,        "   "   " []                        .              " ( , ). ,    ,                     ,      " ",     []          ,       .                 ,   "  "                                 "  "   " ". 
+.  "  "  appraisal 
+ "  " perception,                intrinsic_rewards ( , )   "         ",                   ,  personality       "  "      " ".    belief,      intrinsic_rewards   "  "             " "  "   " (, ).  ,     intrinsic_rewards     "        (    )     ",            .   ,           "  "                . ,              combining     
+ 
+================
+"  " ,  ,                   "  ". 
+                    "  ",      ( , )               "  "   " "      impact   .   ,        combining   "  "    " ",   impact         [action]       .   ,                  ,    loss  loss,       "  " . 
+,                      ()       loss, loss, loss, loss       ,      "  ",   certainty_effect         " ", ..,    intelligence    ,               " ( , ). 
+.      appraisal 
+               appraisal     ,      "  ",  impact     ,      combining        appraisal   "  "  " "   ,          perception,     (, ),    combining          "  ". 
+ perception     impact          impact     (  )        "  ".   ,                 "  "       appraisal    ()      appraisal.     ,        .        .    ,                    "  " . ,   , "     ".   ,         ,      ,       "  ".  ,               "  "     personality constraint   . 
+                          []  .  ,     ,   perception,       judging                .  ,        "  "         perceived_vulnerability             mental_calculation       . 
+   () ,    focus       ,                    "  "   .     participant_modeling       appraisal                .                 ,    simplifying  "  "   perceived_vulnerability                         . 
+ 
+================
+ 
+ intentionality   ,            . 
+ 
+       internalization . 
+ 
+    . 
+ 
+            []           []. 
+   
+              ,        []                      . 
+  
+                        . 
+[]  
+             []   ,               . 
+  
+      .        .         ,     . 
+ .      appraisal 
+          , ..,       ,  .                 .          ,     ,    .    ,    ,           .  ,              impulsive_effect      .                       . 
+   ()            ( , , , , , ,  ,  perceived_responsibility)              .                 perceived_uniqueness   ,                                  .        ,          ,    " "    .            ,                      .   ,  [action]    (      )   intentionality    intentionality   (,   ).             -          -                    perceived_vulnerability. 
+      modeling                               "  "      .             . ,     
+ 
+================
+    perception,          perception ( , ).    perception          "perceived_responsibility"    "[]  ",        ,        " "       self-efficacy      "  ". ,  internalization   ()   .                    ().                    " " internalization,           ,            .
+ 
+      
+ internalization   ()  " [preference]  (  appraisal,   )         ,   " (  , ).      ,        . ,     ,          ,    possibility_effect   (, ). 
+   ,        mental_calculation                     "  "      .     focus           ()       (, ),   focus           . 
+   (  )       , : () , () , () physical_quality      internalization,  ()           .              (=,,.. .,),    (=,,.. .,),      (=,,.. .,)          (=,,.. .,  =,,.. .,).         ,  task           /  evaluating     . ,              ,             (, ). 
+ 
+ - 
+ ()  - 
+  ()  -  
+- - - - - 
+ ()  - 
+ 
+ 
+ 
+ .       
+.     ()  
+                 .            .   mental_calculation          combining   internalization   . 
+      combining  (, ).           . ,  internalization    physical_quality,   combining      .         internalization.               : 
+ 
+================
+ .      
+    ,  ,     .             . 
+               ,       ().               ,   focus         extrinsic_rewards  , ..,  " "            .           ,   ().        . , " " internalization     physical_quality  .,                    "  ". 
+ 
+ 
+. 
+ 
+   
+  []  
+     
+. . . . . . . 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .        (, ,  ()) 
+  ,    ,          ,      .             . 
+  () 
+ . 
+ . 
+ .      
+ ()       ,             " "     (. ). 
+. .      appraisal   .  
+ 
+================
+               ,  impact                   .  impact             " "    . ,  "  "       ( ). 
+                " " internalization,            ,      appraisal     . ,         .      ,     . 
+        (),         "[] " internalization                 .                     " "                 . ,        "[] " internalization        ,          "  ".            []    ,          "  ".   "[]  "             "  ". ,            ,     .                   (  ., ). 
+.     () 
+        ().      ()         ,      .     ,   appraisal                process.              .        internalization .   ,              : 
+ .      
+         internalization, .. ,         physical_quality    internalization.             . 
+  ,                  .  comply_effect            .     belief ,            belief    ,     personality     possibility_effect appraisal           "  ". 
+   
+ () . . 
+ .      
+belief        ,   "[]  " internalization                 
+ 
+================
+ ,          (   )   .       ,       . ,                 "  "       .      personality       ,                    . ,   syllogistic_rules                           (   syllogistic_rules ). 
+           appraisal                       modeling  .
+ 
+.      appraisal 
+           modeling                       .                               modeling  .             appraisal.     . 
+. .          appraisal 
+,     , "", "", ""  ""         "". ""      loss     loss   .  , ,        . ""            ""      ( vicarious_experience          ).  ""            []           [].   protection_effect    ,    fear_arousal    . 
+        : )       ()   ,  )           (,   ).                    ""     .                      ""    .   ,           : "", "", ""  "".                       combining      . 
+ 
+================
+ 
+  
+ . 
+ 
+ 
+ 
+. 
+ 
+ 
+ 
+ 
+. 
+ 
+ 
+ 
+. 
+ 
+ 
+ .         ""   
+        ,    ""                .     " "           . 
+   
+ () 
+. 
+. 
+ .      
+,     ,  mental_calculation  ""       " " internalization    "combining " .          ,        []                    "  ".  "" internalization            .               (%) appraisal         .               .   ,    "combining "       -attacks        . 
+   
+ () 
+. 
+. 
+ 
+. 
+. 
+combining  
+. 
+. 
+ .   "combining "  
+   , "", " "  " "                 "  "  .    "[] "              []         .         []   ,                 []. ,                   "  ".  "  "                .                . ,           ,     .   ,   , ,              .      "[] ", " "  " "  ,  []         .   ,                  (  ). 
+  ,   "combining ", " ", "[] "  " "    . ,      ""               appraisal .      ,       . ,   appraisal   
+ 
+================
+                      . 
+  ,                      .   experiential_awareness           . 
+ 
+   
+combining  . . 
+[]  
+ 
+ 
+  
+ 
+ 
+    
+ . 
+  
+ .     
+,                 ,                                   . ,  "  "       ( ). 
+ belief    [norms]              [policy]   perceived_vulnerability  personality  . ,           "  "  .                "  ",                   combining   "  ".     "  "         []                       protection_effect    [action ].  appraisal                      . ,    () "    ,                 ". ,  [],      ,           personality ,       "  ",  perceived_uniqueness         .  ,            "  "   personality    ,     []        . 
+                        .     intentionality          " "   .             modeling appraisal  .        perceived_vulnerability                      "  " perception. 
+  
+  ,       modeling   mental_calculation                  "  "     ,         []           [policy ].     " "  "" perception,              ,            impact                      .,    ( )         ()       ()  . 
+,        []          .   ,            impact       loss        
+ 
+================
+ loss   . ,                      .  ,      impact   ,            "  ",   ,  " "          loss   . ,               impact   . 
+             modeling             .   ,   focus            ()   .                 appraisal  .              appraisal                              .                appraisal appraisal           . 
+      " "            .   [norms]               [policy]   perceived_vulnerability  personality  . ,              personality      . , []           "  "  . ,                           [norms ].   ,       ,    ,   persistence     "       (  , ).,   modeling       "  "      perceived_vulnerability                    .            modeling appraisal  . ,                  " "   . 
+    "  "         []                        protection_effect    [action ].  appraisal                    .  ,             perceived_vulnerability        ,               "  ".  gain,          appraisal                  . 
+                    appraisal         modeling   .                                           modeling appraisal. 
+ 
+ ,  ,     . . personality    opportunity_for_criminal_acts  .  .    /       , . 
+ ,  ,     . . satisfaction_of_needs     .  protection_effect  . .   . (). , . 
+ 
+================
+ . .        Vulnerabilities.    .    ,     . 
+  . .  .  .   .  ..  :    . &  , , , . 
+ ,     . .      .  .       . . , . , .  (.).    , . 
+   . .   perception.     .   ,  
+://..// 
+  . .   .    . 
+ extrinsic_rewards. .     .        :  ,   .   . 
+    . .                   perceived_consensus.       perceived_consensus. 
+     . .    :           . 
+ . ,  . .    perceived_vulnerability :       .      , , , . 
+ . .      :     .  , , , . 
+ .    . . .       .   . 
+ . ,  .    . . .              .  .           , , .  ,  . .  internalization  :    .  []    . . 
+ . .  ()   :       personality  ?.      , , . 
+ ,  ,  . .      .    ().   . 
+ ,  ,  ,     . .   perceived_vulnerability  .  .       intrinsic_rewards,      , , , . 
+ ,  ,  ,     . .    perceived_vulnerability   :   .  .          ,  , , . 
+ . . GhostNet :      . 
+..//// 
+    . . mastery_experience, perceived_vulnerability   :  focus       .     , , . 
+  (.). .     .        , . 
+  . .          . .  .     [] . 
+ . .    :       .     , . 
+ ,     . .        :   focus       .  .            , . 
+ . .   belief :            ()    .       , , , .  . .       physical_quality   .   . , , . 
+ 
+================
+ ,     . . , [policy ],           .    . 
+ ,  ,     . .    .  .        , , . 
+ ,  ,     . .            , &  , , , . 
+ ,  ,  ,     . .  appraisal           ,  .        ,  , . 
+ . . intrinsic_rewards      ///:   .  . 
+personality .    . . .     mental_calculation    .  .        , , , . personality . ,  . ,  . ,  . ,  . ,  . . .  [modeling]   perceived_vulnerability .   ,    . 
+    . .        .       . . , .  (.), personality   ,    , . 
+.  . .         belief      () .  -  . 
+ ,     . .  :   .  & , , . 
+ . .          .   . 
+ . .         .    . 
+ . .           : arousal    .     , , . 
+ . .        .   , , , . 
+ . .    .      , , , . 
+  (.). .          .   . 
+    . .    :      .   , , , . 
+ ,  ,  ,     . . :    .  : ,   . 
+ ,  ,     . .  process [modeling]   perceived_vulnerability   .  .       intrinsic_rewards, &    , , , . 
+     . .   . 
+ . .      :           ? 
+..// 
+ . . ,      .    &  , , , . 
+ ,     . .   :  .       ( ). 
+ . .      extrinsic_rewards :           , , . 
+         intrinsic_rewards. .      . 
+. .///. 
+ 
+================
+    . .    -         perceived_vulnerability ?.  .       ,   , , . 
+    . .   .  personality :      ?.  .           .  , . 
+. .          . ..////. 
+     . .  internalization  :  .           , . 
+ . .      ,   . . ..//// 
+ 
+================

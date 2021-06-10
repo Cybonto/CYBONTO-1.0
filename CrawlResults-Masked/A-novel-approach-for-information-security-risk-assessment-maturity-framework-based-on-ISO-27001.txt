@@ -1,0 +1,218 @@
+    
+    
+ 
+.. belief  
+  
+  perception    perceived_vulnerability appraisal      
+ 
+:  ő,  
+,  
+================
+    
+  perception    perceived_vulnerability appraisal      
+ 
+.. belief  
+@   
+:  ő,  
+,  
+================
+ 
+.       
+ 
+.    belief .........................  .          
+.     ..........................  .    ......  .     .......  .      
+.    ,    belief ................................ .............................  . ...............................................  .     ........................  
+================
+. 
+    
+  
+ perceived_vulnerability    perception           ,     appraisal       .         ,             ,    gain        .    ()  perceived_vulnerability        .     ,           intrinsic_rewards      .     [Organization]           (),   (),       ().        ,            protection_effect 
+================
+.        
+  . ,     
+       .   
+        intentionality ,     personality.          ,          ,      [knowledge]  techniques  . 
+  ,      personality       perceived_vulnerability     persistence      ,    . 
+   [goal]   belief      
+          perceived_vulnerability appraisal.       judging   .  
+          
+.     ,     
+     combining  
+         
+    combining   
+ 
+================
+   perceived_vulnerability   .           ,               perceived_vulnerability appraisal .              belief -   -         . 
+. 
+   belief 
+ belief   .      ,    .     [goal]           .              .                                .        .            perceived_vulnerability      
+ 
+================
+         perceived_vulnerability appraisal . 
+           ,    , , ,  ,    .                   role       . 
+     belief   judging         perceived_vulnerability appraisal   .          physical_quality, ,    .   ,              .          .                perceived_vulnerability . 
+      ,  ,    .            
+ 
+================
+        belief.              perception   focus   . 
+         . 
+                        :  ,     .                    .  ,              source            ,                    . 
+         perceived_vulnerability appraisal                  
+ 
+================
+ (   ).                 combining        vulnerabilities  .                     .           belief    perceived_vulnerability appraisal .             . 
+. 
+      
+ 
+   [goal]                perceived_vulnerability appraisal.       judging                      .     ,          combining         
+ 
+================
+ .           ,               perceived_vulnerability appraisal . 
+ focus      perceived_vulnerability appraisal            [Organization]         .                    focus.     focus   simplifying  appraisal   perceived_vulnerability           judging    .       appraisal      ..  (    ),  (   [capability]  ),       .                 
+ 
+================
+        (   ) (, ),                             [Organization]                    (,  ,  -CMM) (  ., ). 
+    ,  focus       : 
+  :       perceived_vulnerability appraisal ?  perceived_vulnerability appraisal                           perceived_vulnerability   appraisal ? 
+    ,          
+ 
+================
+  perceived_vulnerability appraisal           appraisal  (  - perceived_vulnerability appraisal   ).            ,              ,     . 
+  (    ):    perceived_vulnerability appraisal process               (   ,     )?              perceived_vulnerability appraisal,      ? 
+   ,                .            .       ,     
+ 
+================
+     .     ,   ,    . 
+   ..    ,     ,        perceived_vulnerability   [Organization ]? ,   ,              .         ,    ,          ,          combining       ,              . 
+  (    ):         perceived_vulnerability appraisal process      ? 
+   ,          focus        ,   
+ 
+================
+.            perceived_vulnerability appraisal       ,      .. 
+               (  ).            [Organization ],                  . 
+ perception        perceived_vulnerability           evaluating        .   (    ):     appraisal     perceived_vulnerability         perceived_vulnerability appraisal     ? 
+     ,            
+ 
+================
+       (  ).   ,          . ,              ,                ,      .         combining         . 
+            ,                      . 
+ 
+================
+. 
+    
+   belief     process    belief    ,                         participant_modeling       .    process         belief        .       ,              belief. 
+   ..                         ,       personality          . 
+ 
+================
+. 
+   
+  process        focus,        .     perception        .      , ,     ( )    , , ,           (  ., ).  perception                        . ,                     personality .  participant_modeling       , combining    .          ,  ,   .             
+ 
+================
+        .          combining  extrinsic_rewards  appraisal        ,                appraisal      perceived_vulnerability  .            .           process         : 
+      
+combining & :      &  &   appraisal 
+ 
+ 
+================
+. 
+   
+ 
+  perceived_vulnerability appraisal                  physical_quality,    (      belief ). 
+       ,             perceived_vulnerability  .    ,                . 
+                 ,            perceived_vulnerability appraisal         .          intrinsic_rewards      , "   perceived_vulnerability appraisal   
+ 
+================
+                       perceived_vulnerability    appraisal ?"              ,    ,                 ,    .                       .                   .                       .       intrinsic_rewards      ,     .     personality                   
+ 
+================
+       
+      .  extrinsic_rewards  
+      [Organization ],  
+         
+   .    
+         
+           
+       . .  perceived_vulnerability appraisal     
+     : 
+.  -     
+   
+.  -       
+          
+.   ,    , 
+          
+          
+ 
+.  -        
+       
+.   ,   combining   
+ 
+================
+  ,  ,       . 
+. appraisal -   ,            .              .  ,       appraisal    ,     appraisal      gain        . .  -   ,   combining  ,    ,        . 
+.  -                     .         ,     . 
+         learning          /  :   . 
+       appraisal,          / : 
+ 
+================
+.            /appraisal . 
+      ,                .            ,       ,    .   personality ,     .,                   
+.     
+       ,     .  process                  : 
+.   
+.    extrinsic_rewards  appraisal . protection_effect  (   ) . /   
+.   ( ) 
+ 
+================
+                         process     .            ,  combining     .     ,   process       ( )                                     .       ,          ( )     (, ).         appraisal  intrinsic_rewards      (, ).  intentionality                        .     belief  ()   , 
+ 
+================
+   appraisal      ( intrinsic_rewards     ).       appraisal    : 
+    -       combining      
+  -  protection_effect  
+  -     appraisal 
+ 
+================
+. 
+   ,    belief 
+             perceived_vulnerability appraisal     ,     .   ,     combining           .   combining        ,        . 
+            : )                perceived_vulnerability appraisal   [Organization]                 .   ,            focus                           .  
+ 
+================
+ ()                   ..  (    ),  (   [capability]  ),       ,  .    protection_effect                .                          . ,   ()          ,          perceived_vulnerability           evaluating    .  ,            ,            .    protection_effect      
+ 
+================
+    ,  intrinsic_rewards        . 
+ 
+================
+. 
+ 
+, .  . ()        ()     ,     .  : ://../%://. .//. 
+  . ()      ,  . : ./. 
+, . . ()    intrinsic_rewards :  appraisal    ,     . : ./. 
+, . ()     ,        , (), . . 
+================
+. 
+    
+ ,  ő () 
+   perceived_vulnerability appraisal   judging    .        personality     ,       
+ ,   () 
+         ()   [Organization]    .         -   
+ ,  ,   ()              ,       
+ ,  ,   ()               ,       
+ ,   () 
+               focus  .   (),  -  
+================
+ ,  ,   () 
+         .     ,  
+ ,  ,  ,   ()           .     ,  
+  () 
+ perception           belief        (),  
+, . () 
+ perception   impact             :  intelligence    .  , (), . 
+  () 
+   / Source      perception   loss  .         
+  () 
+         .         ()  (),  
+ 
+================

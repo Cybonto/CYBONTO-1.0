@@ -1,0 +1,216 @@
+&   ()  
+   .. 
+ 
+ : ..// 
+            
+ . ,  * 
+    ,   , ,  ,  
+  
+isolation_effect 
+ history : 
+  
+                      .                ,    combining   
+     personality .               combining        .                  
+perceived_vulnerability [modeling]  ,     personality   perceived_vulnerability [modeling]  
+. ﬁ           
+            
+       .       
+     syllogistic_rules         
+          . 
+          
+,            
+ .        ﬁ 
+       . 
+: 
+ 
+  
+  
+    
+ 
+       
+.  
+               ,           (, ).     ﬁ             protection_effect   .          self-efficacy             (  ., ;   , ;   ., ;   ., ).                ,  
+*  . 
+ techniques : @.. (. ). ://.././.... 
+/©   .   personality. 
+©   .   personality. 
+        [activity]      comply_effect            (  , ).    ,        simplifying        isolation_effect            (  ., ;   , ;   ., ;   ., ;   ., ;   ., ;   , ).  ,                      syllogistic_rules  personality,  ,     (  ., ;   ., ;   , ;   , ;  
+================
+&   ()  
+ ., ).    impact          combining      [action]  , protection_effect    loss   . 
+                            ,           ﬂ.             intrinsic_rewards      perceived_vulnerability ﬁ     (  ., ;   ., ;   , ; , ;   ., ;   , ).   perceived_vulnerability  [modeling]         ","              ,             participant_modeling     extrinsic_rewards    (  ., ). 
+         ,             ()        ,       intelligence    (  ., ). ,                  combining          ﬁ,   , task.     belief          techniques               .         ﬁ                        . 
+            ()          personality                certainty_effect     . ,                          ﬁ  ﬂ   perceived_vulnerability ﬁ   . 
+.   
+                            participant_modeling  ,    ,   ,   loss.        combining               extrinsic_rewards            ﬁ    . 
+ 
+,           [Organization]              combining .  ﬁ     ,  ﬁ   . .,     possibility_effect             vulnerabilities        (  ., ).  vulnerabilities               ,            ,   vulnerabilities    ﬁ;         ﬁ  ,             . 
+        ,     combining     ,             ﬁ             Phishing . ,  ""                  . ,      experiential_awareness       ; ,         ""       . 
+,    ﬁ                  vulnerabilities.           belief           ,       ﬁ-     . . ()      . 
+            (, ).               ,                 . ,                     .                   ,                 [action] .             ﬁ ﬂ   . . ()      . 
+              perception        ,                protection_effect     .           ,      ; ,                          .    ""     
+================
+ 
+&   ()  
+()   [] 
+()   [] 
+()   
+.  -   : ()   , ()   ,  ()  . 
+             experiential_awareness   .                      .        ,    Privilege_Escalation  ,    , ..      ,         ,   process     Code_Injection,   experiential_awareness         ﬁ     .            ,  ,    ﬁ          /intrinsic_rewards .  Privilege_Escalation           isolation_effect          ﬁ         .               [activity]         [activity]    . ,  ﬁ        ﬁ               . 
+           ﬁ          .  [activity]         techniques,    ﬂ        source  techniques       
+.           source  techniques      techniques          .  [activity]            ,   techniques             ﬁ.                       participant_modeling    .                        .                             . ,             .       ﬁ            gain            . 
+                      combining ﬁ   [activity]       .     ﬁ        : , , ,  .                      experiential_awareness  . . ()       
+================
+&   ()  
+              . 
+.         
+                             ﬁ          .   ,     appraisal ﬁ       ﬁ    ,       .       personality                . ,                       mental_calculation        . 
+                        ﬁ                .  ,    [activity]                     ,      ﬁ         ,   ﬁ,    /.                 experiential_awareness   [policy] ﬁ   ﬁ          .                 ﬂ       . .     process                 . 
+     ,                               . ,                      .   possibility_effect         ﬁ     ""    .     ﬂ , process,    social_circumstance          ﬁ     . 
+.       
+                   
+ 
+    [experience]           mental_calculation    .   ,        possibility_effect   ﬁ  combining  ,       . .     ﬂ           . 
+  ﬂ   belief             perceived_vulnerability     "ﬁ- "   experiential_awareness .  ﬁ            ﬂ ;      ,       ,     intelligence ,      ﬁ. ﬁ     [function]                  .       combining          .  ﬁ ﬁ  intentionality                      ﬁ          . 
+     judging      perception  possibility_effect    .                                combining            participant_modeling  . .         syllogistic_rules,     ﬁ         ﬁ   physical_quality      . 
+ ,                   source    .              .           ,               techniques.           , ,              . 
+ ,                  ﬁ ﬁ    ﬁ  ﬁ   . .  ,   ﬁ         ( ,   )    source  techniques      .          ,         ﬁ experiential_awareness   . 
+  ,             ,               .          [activity]    
+================
+ 
+&   ()  
+()    
+()    
+.  -      . 
+================
+&   ()  
+ 
+()    
+()    
+.  - () 
+================
+ 
+&   ()  
+()     
+()     
+.  -   ﬂ: ()  ﬂ    ()  ﬂ ﬁ . 
+ .   appraisal,           experiential_awareness   perceived_vulnerability .            ﬁ   
+    ,          experiential_awareness   . .             perceived_vulnerability      ﬁ  
+================
+&   ()  
+.  -    . 
+ ﬁ  ﬁ.           ,   ﬁ        .   ﬁ              perception        ,  ,  ,     . 
+. appraisal        
+                    ﬁ   ﬁ  ﬁ     . .          .             ﬁ      .        ﬁ                          .           ,     ,    ,    ,       ,     ﬁ,             ,     ﬁ          . ﬁ  segregating        ﬁ              ﬁ.  
+ 
+        segregating ,           ,               ﬁ. 
+             ,   ,      ,       .               extrinsic_rewards,        ,    ﬁ  ;     segregating   ,    segregating          .                     .        . 
+           ...       ...      .        combining  , intentionality               ,     ﬁ   .       Phishing                      perceived_vulnerability           opportunity_for_criminal_acts .                  .                           ; ,           .     
+================
+ 
+&   ()  
+()          
+()          
+.  -   . 
+================
+&   ()  
+  -   appraisal . 
+  
+   
+ 
+ 
+  
+ﬁ  
+ﬁ  
+  
+  Port_Scanning                 perceived_vulnerability        Phishing                                  Privilege_Escalation                                                 participant_modeling extrinsic_rewards                                    Privilege_Escalation                                            Privilege_Escalation                                                                
+                        Phishing         " "                  .             ,     Phishing .                                        .            ,     ,                   intrinsic_rewards  .                   participant_modeling           ﬁ ﬁ   ,    ,             .   ﬁ    techniques    ,  ,                            . 
+                        combining     
+              ﬂ        :     .                               segregating.                         ,    ﬂ     participant_modeling      .                    . 
+          ,         ,             *. ﬁ.    segregating      " "                       .                              participant_modeling   .                   participant_modeling       . ,      "   &&    &&   "               . 
+================
+ 
+&   ()  
+.  -    . 
+.   
+    focus             .       protection_effect - physical_quality    ; ,           ,       ﬁ  ﬁ   .     mental_calculation  ﬁ         ﬁ                          .   belief [function]     participant_modeling  [function]         ﬁ ,   self-efficacy               (  , ).                     . 
+.  
+        appraisal             ,     ,           .  ﬁ          (%  evaluating)         (.%  evaluating)     .        ﬁ   [activity ],  ﬁ                   ,     . . 
+             gain      .   gain                                             
+================
+&   ()  
+ 
+.  -     :          ...  
+     ... . 
+ .                   appraisal. 
+ vicarious_experience ﬁ        ﬁ                 .             ,  possibility_effect               combining     .                             .    ﬁ      combining                          . 
+        gain           
+    .              [action]                      . 
+       participant_modeling           behavior_control-ability  .          combining        combining         .    evaluating,                                 . 
+                                ﬁ       
+================
+ 
+&   ()  
+ .                       .              ﬂ                         . 
+ 
+ ,  ,  .     
+     ﬁ,  
+     intelligence , 
+, . , . 
+ ,  ,  .      
+   ,     
+     , , . , 
+. 
+ ,  .      
+,    ﬁ     
+    , , . , .  ,  .   [activity]   
+ ,      
+   , , . , . 
+ ,  ,  .  [knowledge]   
+,       
+,     
+, . , . , . 
+ ,  ,  .  
+        
+    ,   
+      
+( ), . , . 
+ ,  ,  ,  .    
+  belief :     
+ ﬁ  ,     
+ , , . , . 
+ ,  .       
+,        
+     , , . 
+, . 
+ . Comment_Crew :       
+,  . []. ://. 
+./.. [   
+]. 
+,       []   . 
+ . []. ://../// 
+-effectiveness/// 
+-survey.. [   ]. 
+ ,  ,  ,  ,  , 
+ ,  .    perceived_vulnerability : 
+Organization, ,    .  
+    ; . 
+ ,  .,  .   
+  ,     
+         
+ , , . , . 
+ ,  .      
+ ,      
+      , , 
+. , . 
+ ,  ,  .  belief   , 
+         
+  , , . :./ 
+. [   ]. 
+ ,  .  ﬁ     
+    belief,  
+      , , . 
+, . , . 
+  (..,  ,  [] , )     combining ,      ,                         ()             ().              ,  ,   ,   .                   . 
+ . , , , , ,                             .. .       +  [experience]       (personality  )     & .          . 
+================

@@ -1,0 +1,606 @@
+      ,  ,  ,  ,   
+  perceived_vulnerability     
+   
+   ,   ,  ,  ,  
+     
+,,,,    ,     ,   
+  
+@., ..@.., @.., @.., 
+@. 
+ :    
+:   , :   , :    
+                     [knowledge]  .  gain,           ,      perceived_vulnerability .    , perceived_vulnerability      ()       . ,                   combining    . ,                 . ,   , .. ,           . ,            . ,            ,      .      extrinsic_rewards             perceived_vulnerability. 
+     ,   ,  perceived_vulnerability  . 
+. 
+         loss       [Organization]    personality  [activity]         ,            , ,     []. 
+,     ,        -xxx      perceived_vulnerability         [].        impulsive_effect           [capability]         personality     loss   loss .  gain,      
+loss            loss    [capability ],    []. ,          [Organization]           [Organization ]. 
+       , []           ,   motivation,    .      motivation             perceived_vulnerability.  gain,                participant_modeling perceived_vulnerability   [knowledge]   [Organization]    . ,       [capability]                  .  ,     [capability]   () appraisal  , ,          . ,     perceived_vulnerability   ,         perceived_vulnerability,  motivation   ,        [], [], [], []   personality,         . . 
+.      perceived_vulnerability  (  []) 
+©        ,   
+================
+      ,  ,  ,  ,   
+   . , motivation        perceived_vulnerability .   [circumstances]   [circumstances]     motivation,           motivation  [capability]      [] ,    intrinsic_rewards, ,    []     perceived_vulnerability  personality gain [], [], [].           motivation,  [capability] (    combining       perceived_vulnerability,  )    (      ,     , )           ,          [knowledge] ,   ,              intrinsic_rewards           perceived_vulnerability.   .   personality,   ,           perceived_vulnerability       vulnerabilities    .  . 
+  []. ,   
+[knowledge]      
+,      
+       
+      /loss  
+fear_arousal    [].  ,  
+[]     impulsive_effect   
+        
+   .    
+   loss ,     
+[rewards]  .     
+,  []       
+  perception   [Organization]   
+   focus  motivation. 
+      perceived_vulnerability 
+,     participant_modeling  
+    [Organization] 
+    [capability]   
+. ,  [capability]   
+,   segregating   perceived_vulnerability 
+    [knowledge]   
+[Organization]        
+[Organization ].  ,      
+  [knowledge]       
+  [Organization]   .    
+    ,    
+         
+  .      , 
+    perceived_vulnerability   
+         
+  motivation  [capability]    
+.      perceived_vulnerability (  [])    [Organization ].   motivation  
+loss  [Organization]    
+        [capability]     [Organization ],   
+       participant_modeling perceived_vulnerability . ,   
+           perceived_vulnerability     Organization /Organization  
+[Organization]    loss  perceived_vulnerability.        vulnerabilities 
+ ,   ,    ()     perceived_vulnerability. , 
+              participant_modeling perceived_vulnerability   
+.  ,        [Organization]    
+,               
+ [Organization]       
+    perceived_vulnerability    impact  
+©        ,   
+================
+      ,  ,  ,  ,   
+    [Organization ].            perceived_vulnerability,              .            ,     
+  . 
+   . ,   
+ gain, []           perceived_vulnerability  perceived_vulnerability ,  personality ,      . 
+behavior,  ,    
+,          
+   . ,                  perceived_vulnerability   [Organization ]. ,     , ,  ,  ,     ,      ,      [knowledge]        .               personality             . ,     motivation           perceived_vulnerability  
+  .   ,  [] 
+          
+      ,             , combining ,    personality   perceived_vulnerability     .  gain,                       . ,         ,                      ,      personality  ,     .        vulnerabilities         personality                  
+  . 
+        []  [] , []      
+perceived_vulnerability    . ,           perceived_vulnerability       
+              . ,     gain                        belief           perceived_vulnerability       
+    perceived_vulnerability  .   
+  . ,  
+, []                  []             ,           . ,      ,    perception          . ,         [Organization]                                             perceived_vulnerability    loss       .  [Organization ].   , []          generalizing  
+          
+   ,     
+,    personality               certainty_effect .    focus. 
+,          [Organization ],            
+.   
+        
+ /[knowledge]  .  
+          constraint   [Organization]   
+  ,     .         
+     personality           
+  perceived_vulnerability              . , 
+        . 
+          
+©        ,   
+================
+      ,  ,  ,  ,   
+..      
+behavior   ,   
+, , impulsive_effect , 
+  , []    
+         
+       
+ []. 
+    .  ,  
+ []         
+       [action]  loss      
+     perceived_vulnerability   [Organization ].      
+     .          
+   perception     personality  perceived_vulnerability  ,       
+[knowledge]    perceived_vulnerability ,        participant_modeling   
+      belief   []     
+    .        frustration_of_needs  
+  ,   personality      
+  ,   ,   perceived_vulnerability [].          
+    .    
+               
+techniques   []     [].        
+ ,             [action]  
+  perceived_vulnerability .     gain  ,     
+               perceived_vulnerability 
+       
+  perceived_vulnerability     
+ behavior    perceived_vulnerability  
+. 
+ gain   , []   
+        
+    [Organization]  , 
+       
+        focus         , 
+    .   ,        
+       
+  . 
+,    ,  [action]   
+..      
+  intentionality,   loss     perceived_vulnerability   
+  []    [knowledge] 
+       , 
+personality loss   , ,  
+           [Organization]    , 
+            ,  ,  
+loss  ,     ,  .      
+   , ..  
+  .             
+       
+ perception              
+ ,    -based 
+  . 
+  (physical_quality, )    
+       
+ [].  gain, personality  
+   []. 
+,       
+      []   
+     combining 
+    syllogistic_rules  physical_quality 
+         personality ,    
+     participant_modeling    process      
+    perception    
+ .        
+    modeling        perceived_vulnerability      [].      []         -Factor  ()     personality    belief  personality ,  [extraversion ], [agreeableness ], [conscientiousness ], [neuroticism ],  perceived_vulnerability  [experience] [].  physical_quality       impulsive_effect personality     ,           
+    protection_effect               ,  Collection                                      .        ,       ,   perceived_vulnerability , 
+©        ,   
+================
+      ,  ,  ,  ,   
+      []. 
+ 
+[] 
+[] 
+ 
+    
+   
+  
+    
+  frustration_of_needs,  behavior 
+    , 
+   behavior_control-ability  [authority ], 
+  ,   
+      
+   
+behavior 
+        personality  personality    ,  
+    loss    
+     
+    
+  
+[] 
+ personality 
+physical_quality  personality  
+  ,  , impulsive_effect ,      behavior     ,   personality       . 
+[] 
+ perceived_vulnerability  
+        
+  personality intrinsic_rewards, personality, ,   ,  ,             . 
+     [exposure]  perceived_vulnerability      .  perceived_vulnerability         appraisal     loss            [].   , []                        ()       ()   appraisal  .                                . 
+  , []            loss perceived_vulnerability              () .   ,       source  appraisal     () techniques,  techniques          ()         .     perception   gain   perceived_vulnerability evaluating               ,     [Organization]          .            . 
+..           ,   [] 
+ ()      satisfaction_of_needs         
+, []    perceived_vulnerability 
+         
+  combining      
+         
+ [activity]   [Organization]    
+      .      .   
+                 
+        
+            .     
+       hypervisor         
+                  
+          .   ,  
+hypervisor.   ,      perception       
+possibility_effect               
+        perceived_responsibility           
+     
+  (&  )    gain,   []    
+techniques      perceived_vulnerability. 
+ []. 
+ modeling   judging            ().    extrinsic_rewards       ,  perceived_vulnerability   perceived_vulnerability,    perceived_vulnerability   
+[]. , 
+©        ,   
+================
+      ,  ,  ,  ,   
+ 
+[] 
+ 
+        perception         behavior behavior   
+ 
+  
+  
+ 
+appraisal  
+  
+ 
+     
+ 
+ 
+  
+    
+[] 
+[] 
+  
+    
+appraisal        . 
+[] 
+perceived_vulnerability  
+loss    
+      appraisal        
+ , [capability]    [activity]           ,        ,  certainty_effect evaluating,   evaluating   ,   ,     .  perceived_vulnerability     perceived_vulnerability    
+          ()     ().           ()                     .  ,         opportunity_for_criminal_acts                 . 
+ ,  []           ()        ()      protection_effect        evaluating        [Organization ],            .            
+          perceived_vulnerability    syllogistic_rules  .  perceived_vulnerability          [].            . ,            perceived_vulnerability             .      ï ,     protection_effect   []. 
+                          () perception. , []            perceived_vulnerability         intentionality             perceived_vulnerability     perceived_vulnerability   perceived_vulnerability              perceived_vulnerability,  perceived_vulnerability    perceived_vulnerability.  perceived_vulnerability         ,            loss    ,  perceived_vulnerability           perceived_vulnerability              .         personality  perceived_vulnerability [capability]     , []         ()                 .            .    ,  []   isolation_effect    personality techniques  protection_effect      personality     , ,          personality    .  ,          ,               []. ,  []                  .       perception                      intrinsic_rewards    isolation_effect 
+©        ,   
+================
+      ,  ,  ,  ,   
+     perceived_vulnerability               .        .  
+  ,        intrinsic_rewards  protection_effect isolation_effect ,      -level                  evaluating   [].            . 
+  
+    
+ 
+   
+  
+   []  impact self-efficacy   
+    perceived_vulnerability   
+    
+   
+  
+perceived_responsibility  
+   
+  [] 
+  
+  
+  
+  
+ 
+ 
+   
+  
+ 
+[] 
+ 
+  
+ perceived_vulnerability  
+   
+  
+ . 
+(   
+   
+perceived_vulnerability  ) 
+ 
+ 
+ ( 
+,  
+   
+ ) []  personality 
+  
+  
+   
+ 
+   
+ 
+  
+ 
+  
+  
+  
+  
+ 
+ 
+  
+ 
+.    
+                          .  gain,  focus                    ,  ,   
+       ,              syllogistic_rules  combining   . ,           ,      ()      .     simplifying            , , ,      . 
+                 learning    ()  .                .               () .            ,     perception.  ,        ,    simplifying   (),         .               . ,           , ..            . 
+ extrinsic_rewards     ,      /            .  ,     extrinsic_rewards             .   task                 .         [activity]          . ,                                  personality     perceived_vulnerability  .   ,                 focus.          ( ),  ( )   ( 
+ .      )     . 
+ . 
+    . . 
+                   
+©        ,   
+================
+      ,  ,  ,  ,   
+.        
+  (). 
+  ,     
+       []. 
+ []        
+  . 
+        
+ personality []      
+  behavior_control-ability   constraint [] 
+             perceived_vulnerability     ( ).  ,         ()          ()   ()         . ,    ,                  . 
+    ,  focus               behavior []          loss           .   , 
+  ,  [Organization]    
+  intrinsic_rewards     . 
+ [capability]    personality. 
+       ,  
+ []        extrinsic_rewards   [Organization]     
+ loss             
+   Phishing .  ,   
+    ,      ,       
+               
+      
+     []   ,      ,  
+         , ..       belief 
+ loss []    
+    . 
+   [activity]    
+. ,    participant_modeling 
+      ,    ()      
+personality     perceived_vulnerability        process  
+  loss   [Organization] [].  
+,           ,    belief  
+     impulsive_effect   
+ []   ,     syllogistic_rules  impulsive_effect impact   
+               
+ ()            [].  ,    
+     ().            , /   
+    ()     
+     ()     ,      
+    . 
+.       
+      ,  
+               
+.   [],  [Organization]      protection_effect   
+        extrinsic_rewards.         
+             participant_modeling perceived_vulnerability    
+protection_effect        []  []     
+,  ,     personality  [] ..   process  
+               Organization /Organization   
+ ,    perceived_vulnerability   
+    [knowledge]       ,       
+vulnerabilities  .  personality             
+              impact  
+    participant_modeling  .        , 
+,   ,   focus, , perception,   
+ perceived_vulnerability        
+   Organization  Organization   
+©        ,   
+================
+      ,  ,  ,  ,   
+perceived_vulnerability    [].  perceived_vulnerability  //                  (). 
+   []             
+  
+      .   
+[] . , . ,  . , "   
+               ()   
+ ,"        (), ., . 
+         
+[] . . ,  . . , "  
+   ", . , . , 
+(),          
+. 
+    .            . 
+ gain,        
+  process        
+[] . , . ,  . . , " physical_quality 
+   :    perceived_vulnerability    physical_quality  personality ,"          (), . , , . 
+    perceived_vulnerability,  
+[] . . , "     
+  ,   
+perceived_vulnerability    perceived_vulnerability []            []. ,            
+ ,"    , . , . , ., , []:  : ://.././..... 
+       perceived_responsibility  
+[] . . , . . , . ,  . , 
+"  :     
+    [].  ,               (). 
+ ,"       , . , . , . , . . 
+, /      
+[] . , . , . ,  . , " 
+     ()  /           .   ,   focus         
+       ,"          , . , . 
+     . 
+ loss  ,      
+[] . , "personality     
+perceived_vulnerability -    ," 
+. belief 
+   , . , . , . . ,  : ://.././..... 
+               
+          
+[] . , . , . , . . , 
+ . , " perceived_vulnerability focus :   
+ .       
+[] . , . . ,  . . 
+      []  []   generalizing      .         
+[activity]        ," . . 
+, "personality      :          ,"   , . , . , . , ,  : ://.././..... 
+ loss    ,   
+[] . . , . . , . , . 
+,  loss   . ,       ,        . ,    
+, . . , . . . ,  . , "     ;     personality  ,"       , . , . , . , . 
+              ()   . 
+          
+[]  . , ó ,  ,  
+ 
+          /// 
+ , " .:   
+ ,"  .:  
+  , . , . 
+. 
+[] . . , . . , . . . , . 
+, . , . ñ,  . . , 
+"       
+   intelligence  
+,"     
+©        ,   
+================
+      ,  ,  ,  ,   
+    (), . 
+, ,  : 
+://..///. [] . á-Armesto, " .   
+," . , ., . , . 
+[] . , "    
+ ()," , .  . , . [] . . , . . , . . , . . 
+,  . . , "  
+: [modeling]    
+possibility_effect  ,"    
+    , . [] . . , . . ,  . . , 
+", ,     
+  perceived_vulnerability   
+,"  , . 
+[] . .   . . , "   : 
+ perceived_vulnerability      
+    ," 
+. 
+[] . , . , . ,  . . 
+, "    
+perceived_vulnerability :       
+ ,"    
+  , . , . , .  
+, . 
+[] . . , . . , . . ,  . . 
+, "    :   
+      
+process,"     :   
+      process, 
+. , . 
+[] . , . . ,  . , " 
+Phishing ,"     
+       - 
+ , . 
+[] . . ,  . . , "   
+personality   ," . , 
+. , . , . 
+[] . . ,  . . , .., " physical_quality 
+  personality : , , 
+ , . , . . 
+[]  ,  ,  , 
+ ,  Í , "perception  
+:     perceived_vulnerability , 
+, [modeling ],  ," . [] , ..  ., . "perception  :  
+   perceived_vulnerability , , 
+[modeling ],  ." 
+[] . . , " ," . [] . . , . . , . ,  . . 
+, "     
+  ,"    
+     (), 
+. 
+[] . . , . , . ,  . , 
+"       :   
+appraisal   perceived_vulnerability,"    
+      
+(), . 
+[] . , . ,  . , 
+"       
+   ,"  
+   , . , . . 
+,  : 
+://.././..... [] . , . , . ,  . , "  
+    intelligence  
+,"   & 
+, . , . , . , . []  ,  ,  ,  , . . 
+,  ,   , "   
+      : 
+  appraisal,"     
+     : 
+  appraisal, . , . 
+[] . ,  . , "    
+     
+      ," 
+      
+ , . , . . , 
+ : 
+://../// 
+/.. 
+[]  ,  ,  ,  . . , 
+"   isolation_effect ," 
+. , . 
+[] . , . ,  . , " isolation_effect 
+ protection_effect ?," , &  
+  &  (), , 
+. 
+[] . . , "  intrinsic_rewards   
+,"   , , .  
+, . . 
+[] . .   . . , "   
+      ,"  
+intelligence   (), . 
+[] . , . , . , . , . 
+,  . , " isolation_effect 
+:   perception 
+ protection_effect  intrinsic_rewards,"  / 
+     
+(), . 
+[] , "     
+   ," . . [] . . , . , . . , . , . 
+, . . ,  . , "personality 
+ perceived_vulnerability :     
+,"      (), 
+. , , . 
+[] . . ø, . . , . ó,  . 
+. , "     :  
+      ," 
+  , . , .), .  
+, . 
+[] . . ,  . , "   
+ :     
+,"      
+ (),    , . 
+, , . 
+[] . , . . , . , . , .-xxx. , 
+ . . , "   
+    ,"  
+       
+ -  , . 
+©        ,   
+================
+      ,  ,  ,  ,   
+[] . . ,  ,  ,  
+ , "  perceived_vulnerability  
+      
+appraisal,"   perceived_vulnerability  
+      
+appraisal, . ,  . 
+[] . , . , . , . , .-xxx. , . 
+,  . , "     
+    :   
+appraisal," gain   , . , . 
+, . 
+[] . , . , . , . . , 
+ . , "   ?,"   
+        
+  -  , . . 
+[] . . , "     
+  ," (. /). 
+      
+   , . 
+[] . ,  . , "  
+/  :    
+," .,  
+[] . ,  . , " perceived_vulnerability 
+    ,  
+      
+, . . ,  : 
+://..///. [] . , "    
+ ,"   
+   , . ,  
+. 
+©        ,   
+================

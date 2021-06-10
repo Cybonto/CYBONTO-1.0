@@ -1,0 +1,465 @@
+      
+ ,  ,     
+  [division ]
+     [activity] 
+  
+    
+  
+    
+,  , 
+   . , 
+ {, , }@.
+ @ . 
+                
+              
+      ,      
+,      ,   {, }@.. {,, }@. @. 
+      
+          
+         
+ @. ,   ,   .@. @.. @.. 
+:  perceived_vulnerability,  ,  belief,    ,   
+, ,  ,  , , ,   
+isolation_effect  ( ,  , 
+    ,   
+  ), evaluating  
+     
+ 
+   .
+ 
+     
+ 
+      
+.  perceived_vulnerability :  
+  intelligence .  
+      [Organization]  
+ 
+  personality focus     , 
+, ,  [knowledge]   ,
+ 
+         ,  .   
+ 
+,  , (  
+()   certainty_effect   impact  
+ 
+) ,   . 
+        
+ 
+     intrinsic_rewards   , , / 
+ 
+       
+.      
+ 
+[activity ],      
+ certainty_effect   focus  .
+ 
+    .    
+ 
+       
+.          
+ 
+       
+,        
+ 
+   .
+ 
+
+  extrinsic_rewards        
+ 
+    ()    .     
+ 
+       [activity]   (..,   , , 
+ 
+  (),     
+,  )      
+ 
+          
+ (..,  .  )  
+ 
+       segregating   
+, , , ,  .
+ 
+       
+ 
+. 
+      intelligence , ,  
+================
+   
+   .  
+  perceived_responsibility   Collection          ,      ,    ,      ,      Collection  .     perceived_responsibility appraisal       Collection  ,      perceived_responsibility,    ,      ,    ,  ,   .           ,               Collection     
+        . 
+.    
+.   
+.    
+      
+. () 
+.  [Organization] ()  techniques () 
+.  
+    
+. perceived_responsibility  
+.   
+.    
+.   
+. task  
+.    
+.  [Organization]   
+ ,  ,,, 
+. /  ()  techniques () 
+. /  
+   ;   
+.   
+ intelligence    . 
+. isolation_effect 
+.   
+.   : 
+.   
+. isolation_effect  
+.    
+. / () 
+. /  () 
+.   
+isolation_effect 
+.    
+ 
+.     
+   (. ) 
+     
+================
+.     [knowledge] (..,  role, :   )      behavior (..,    ). 
+  gain    ,     :        ,      ( participant_modeling    ),   ,      ,            . 
+.          perception       .          ( ,    ),       .   . ()              "" ,      (),      ().         belief, motivation,  ,  perceived_consensus, ,  [skill ],  [experience ],   ,  intelligence ,    ,     ,  ,        . 
+  impact          ,   intelligence ,     [policy ],      ,   loss     .   ,        .     ,      .      .            ,          , Exfiltration, /  .     intelligence     /   .        comply_effect   /    behavior    . 
+ gain    ,         role              [skill]   .   ,  ,    (..,       participant_modeling      personality      )                    ,  physical_quality    . 
+  : , ,       personality  behavior,            [activity ].              .     .   ,  ,          , loss,        .         ,         ,   ,     .   behavior          .                   . ().            () .                  (),  (),   (),  (),  (, ),  (),    .          (   )     , personality    appraisal. 
+  process , ,       Collection  techniques     .          Collection           (..,    ),    (..,          ),   (      ),   (..,   ,   ,   ).      ()            ,        . 
+ 
+     
+     
+ 
+ 
+ 
+role  
+     
+protection_effect 
+ 
+    
+    
+ [knowledge] 
+ 
+  
+  
+ .   
+   
+.        , ,  loss ,        participant_modeling (     process participant_modeling)      intrinsic_rewards ,   
+================
+ .       ,                perceived_responsibility       .                .          ,    ,      ,     ,   ,  ,   ,  intelligence,  behavior,   .         ,             (..,    ). 
+         ()                   possibility_effect             perceived_vulnerability.     ,          : 
+ 
+ 
+   
+  
+(, (..,  
+, )  )   
+  
+  
+ ,   extrinsic_rewards,   
+  
+  intelligence [activity] 
+ 
+ 
+•     ()    
+   . 
+•       ,  
+,   . 
+•      behavior 
+     ,  ,   
+  . 
+•     ,  
+ ,  possibility_effect  . 
+•  ,      
+        
+  possibility_effect . 
+•     (..,   
+ [activity ],  , ,  ), 
+  ,   . 
+        
+     
+& 
+  
+intelligence 
+  .  
+Exfiltration 
+ 
+     
+   
+      
+ 
+    
+  
+  
+&  
+   
+  
+   
+Privilege_Escalation 
+     
+    opportunity_for_criminal_acts,    
+... 
+                 .   mental_calculation      . 
+ .  /                            .     , ,   ,    (.., , , ),  (..,     ),  (..,   personality         ),     (..,  , , ),  (..,  ,  ,   ),     (..,    ,     ),  intelligence (..,  ),          behavior (..,   ).               [activity ];        behavior. 
+     
+   
+   
+    
+ 
+    (+)(+) 
+ ,  , ,,    
+    
+ 
+ 
+ 
+  
+- , ,  , , ,  -   (.., , , ) -   (perceived_vulnerability ) -  ,    
+ .     
+   
+.   
+                   ,     [activity]       .            perception     , ,     . , 
+.        
+  personality      
+        
+     .  
+     possibility_effect  ,
+        
+         
+ .
+ 
+      intelligence , ,  
+================
+  belief       
+    process   belief        ()    
+.         ,   ,     
+      .          (..,  . 
+perceived_responsibility  ,    ,    . )   .    
+,     .       %        
+    .          %    %  
+     ,    . 
+          
+ ,      perceived_vulnerability.    perception     
+ , , ,  ,   .    
+       ,         , ,    
+          ()   behavior.        
+         .  .          
+   ,     ,     , ,     
+           behavior    .   ,  
+     behavior.      ,      . , 
+   (..,  )            ,   
+         (..,       behavior. 
+  )       
+, ,  . 
+.   
+.  
+     ,  
+  ,    perception  
+       protection_effect          
+perceived_vulnerability   .     ,    
+(://..)    (..,           
+  )          .     
+ (..,       ).         
+   fear_arousal  ()          (  
+,  [activity ],   . ).        
+  satisfaction_of_needs      ,  , ,    .  
+  .                 
+ , ,   .    (..,  , , , 
+     combining     )       (..,   
+    [activity ],       ). 
+. ,        
+   ,            : 
+ . 
+.   
+•        ,  
+        
+, .     
+      ,    
+•        
+ perception       
+    
+    participant_modeling ,  
+•          
+,    . [knowledge]   
+         : 
+       
+  physical_quality 
+         
+  , ..,    
+ behavior.      
+    
+ (..,      ),  
+(.., Privilege_Escalation ),  (..,    gain,        
+  ),   Exfiltration (..,   .     
+ ),   (..,        
+    ).                
+            .  ,     
+.            . 
+  perception        
+ . ,               
+ Exfiltration.          
+================
+                   . 
+            [activity]       ,   .     ,          .           .       focus .     simplifying  [activity]       .         .    perception     certainty_effect  (  %)        (  %)             . 
+, , physical_quality ,   ::,  .. 
+         /// ------------------------------------------------------------------------------------------- , , physical_quality ,   ::, 
+      
+------------------------------------------------------------------------------------------- , , physical_quality ,   ::,  .., 
+          ------------------------------------------------------------------------------------------- , , physical_quality ,   ::,  .., 
+       ------------------------------------------------------------------------------------------- , , physical_quality ,   ::,  .., 
+        @. 
+------------------------------------------------------------------------------------------- , , physical_quality ,   ::,  .., 
+   -- ...       ... 
+------------------------------------------------------------------------------------------- , , physical_quality ,   ::,  .., 
+      @. ------------------------------------------------------------------------------------------- , , physical_quality ,   ::,  ..,
+        @. 
+ .    
+. appraisal :      appraisal           perceived_vulnerability .              : 
+  ,          ,    certainty_effect            .        :  , %    ,  %    . 
+   ,              [activity] ,           ,        perceived_vulnerability  .  mental_calculation                         (      ,      ). 
+ 
+() // 
+////// 
+////// // // //// //// 
+// 
+ ( ) 
+// //// 
+////// // // 
+////// 
+////// 
+////// 
+// // //  
+// //// ( ) // //  
+  
+  
+    
+ 
+  
+    
+    
+ .     
+        ,  ,        : ,   .     simplifying                    .   ,                .           .       (   )   (    )     behavior     .           (   ),         ,          .  ,       ,    ,   
+•  =#               
+  
+[activity]        . 
+         
+•  = combining#    -# 
+ behavior  ,     
+  
+      intelligence , ,  
+================
+        
+ . 
+ 
+. ,  .; , ; , ; 
+.  
+, ; , ;   , . 
+      personality perceived_vulnerability  
+, .      
+  .   behavior  
+perceived_vulnerability    - #.   
+         
+. ://..///. 
+      .  
+. [ ]     ( 
+ ,         
+  ).         
+       
+  .   .        ,        
+         
+    . 
+   .      
+://..// 
+ : 
+. [ ]         
+•          
+, ,  judging   
+     behavior 
+      ,  
+    . 
+•        
+://..////. 
+   -     
+ (..,     certainty_effect  
+. ,    .  .   
+        
+perceived_vulnerability     .  
+  )     
+     
+ 
+   ()  
+. 
+•         
+://../// 
+     . 
+. 
+• extrinsic_rewards          
+. ,  .  ,  .  . 
+      
+       
+(..,  ),  / (.., 
+ .     
+, , ), /  (.., , 
+  . 
+,  ),    (.., 
+://..////. 
+, ). 
+. ,  . ().  , .  
+•      (  
+:     perceived_vulnerability   
+     ),  (  
+ .     
+)   (    
+ ,   . 
+  )      
+://..// 
+      
+. 
+          
+. ,  . .    perceived_vulnerability 
+      . 
+.  ,   .. 
+,        
+. ,    .  . 
+  ,       
+      ",  
+.         
+, (): . 
+  ,     
+/ ,    
+. , , , , , , , 
+,     . 
+, , , , , , 
+; , ; , , , , 
+ 
+, ; , ; , ; 
+        
+, ; , ; , ; , 
+    mastery_experience   
+; , ; , ;  , 
+ ,  ,     
+. .  perceived_vulnerability  :  
+   . 
+.    . 
+. , . , . . 
+://..//// 
+. 
+================
+. ,  .; ,  .;  ,  . 
+     . 
+://..//. 
+ 
+. , . ":    
+perceived_vulnerability" ,  ,   
+. ,  . ().  .   
+    extrinsic_rewards    
+  .    intrinsic_rewards. 
+://..//// /. 
+ 
+      intelligence , ,  
+================
