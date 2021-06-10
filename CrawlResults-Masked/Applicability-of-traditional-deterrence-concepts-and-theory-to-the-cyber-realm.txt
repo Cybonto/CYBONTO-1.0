@@ -1,0 +1,332 @@
+      
+:     
+   [policy]    :  
+   ;   
+ 
+: ,  ,  /  , ()      : 
+://..//. 
+     ,   source         ,     ,    ,     : 
+•        
+• learning    ,  
+•           
+•    
+•   
+•       
+      .    ,               ,          ,   ,      @.. 
+          ://... 
+ ©    .           ,  ,         ,   techniques   ,     ,     .               . 
+================
+      :        [policy] ://..//. 
+     
+ belief     
+ .     ,   
+       history         ,           .        [policy]               ,                        , ,  .             learning    ,       ,   .        ,  ,  thinking                . 
+      
+   ""               loss     .   loss       ,          ,     extrinsic_rewards    extrinsic_rewards.       . (      .)                    . 
+,             personality     .                      .          .                      loss   loss.  ,              physical_quality satisfaction_of_needs   .  personality              .   self-efficacy              ,    ,              .  
+     ,             protection_effect,     (),  , ,  loss .
+ 
+ ©    .   personality. 
+================
+      :        [policy] ://..//.
+ 
+        
+,              .                personality  ,        loss,   ,     . 
+personality          .       ,              possibility_effect,   : 
+•       ; 
+•       possibility_effect; 
+•      /        ; 
+•                   ; 
+•             . 
+    syllogistic_rules;  [goal]      ,  ,        .     ""   thinking,      .     thinking,       perceived_responsibility       ,      syllogistic_rules   . (     ).         ,     .           . 
+    [policy]     .             mental_calculation  loss.            personality       impact. ,      ""    ,  , " belief"    ,  ,     .                .        ,         ,     . 
+            protection_effect       loss.        ,  ,    loss.   extrinsic_rewards                               .          ,  personality   ,                      .                   protection_effect       .  ,          
+          [action ],           . 
+          : , . . 
+     .  :   ; , . .  belief .   : ; , . .       :    prospect  . ,  :   ; , . . . :   .  .  : ; , . .   belief :    . :   ; , . .     fear_arousal.   : ; , . .  -     physical_quality. :   ; , .   . :   ; , .  :   .  : ; , . . .    . , :   ; , . . .   .  :   ; , . . .   . :   ; , ., . .   . . , . .     :    ; , . .  . . . intelligence  belief :  ,   .   : ; , . .  . . . .      . :   ; , . .   :   belief   . :   . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//. 
+ . 
+ 
+         ,              . 
+   
+    fear_arousal            fear_arousal    .         ,   loss    ,  .      ,    ,      ,     loss,     ,     . 
+      .  perceived_vulnerability              .  personality      ,          ,         personality loss         gain.          ,               .    ,      ,       ,    "   ."   loss        loss ,  personality loss   ,       perceived_vulnerability,        ?     loss        personality perception,         satisfaction_of_needs  .        perceived_vulnerability,          personality            personality . 
+        .            ,             . ,              .      ,                         .           . 
+   ,    , .   . , ,  
+:   perceived_vulnerability         ,  : . 
+    appraisal  , .  .  perceived_vulnerability appraisal   intelligence        intelligence. , , ,   ://intelligence ..// .. , .  , .       .   ://.../ / .; , . .  . . . . satisfaction_of_needs   -  :       .   , : ; , . .     ,  . 
+      , . ., . . ,  . . , . .    .  ,  :    . 
+ , . . .    .  . . , . . ,  . . , .    . ,  :     .        protection_effect        .     " "          personality,      perceived_vulnerability    personality  ,    , . . .   .  :  . 
+     ,     ,             .  , . .       .    .             .             ,             ,            . , . ,  . . . :  ,   ,    .      ,  .           .         "  perceived_uniqueness"            ,         . , . .       .   ,  . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//.
+ 
+        
+ ,         .        loss         personality           .         .  personality    ?    perceived_vulnerability    segregating,           opportunity_for_criminal_acts    .     perceived_vulnerability              ,     ,    ,      .   .      .     segregating   ?  ,  ,      personality        ,       .                syllogistic_rules,            . 
+ personality                    .            ,         .        " ,"    . ,               .   .     " ,"       ,    ,        .        , ,   ,        opportunity_for_criminal_acts  .           ,   , . 
+       .         [authority ],      self-efficacy   intrinsic_rewards   ,     .    physical_quality       .     ,     /      [norms]      ,          .     ,               personality     (    )—and     ,        . 
+    ,  ,  ,      ,     ""         ,      ,           .    .    ,        loss,                   .                     ,    ,       loss   combining   .  ,      perceived_vulnerability      .           . 
+     personality         loss.           ,     protection_effect  ,       loss            .    ,       ,            .           loss  ,  loss               ,           thinking  [experience ]. 
+         ,            .               ;                personality    .                  ,         
+ ©    .   personality. 
+================
+      :        [policy] ://..//. 
+ . 
+ 
+ .        ,                  . 
+  ,   ,        frustration_of_needs        perceived_vulnerability  .      ,            ,   .          ,   ,    planning,     gain intelligence    .             "  "     focus  . 
+,                ,       ,                     .                               .          . 
+       
+       ,   belief         ,  ,       .        behavior_control-ability       , ,     .       gain      perceived_vulnerability   ,   loss    ,   gain      personality .        ,     ,     "satisfaction_of_needs" .     personality ,   ,       ,     ,     protection_effect         .     ,           ,       personality. 
+     planning           imagination.                            .     perception     ,   satisfaction_of_needs             perceived_vulnerability   ,           belief.       ,     combining  ,    ,      . 
+  , ,                ,    [experience]       behavior    .                ,     physical_quality   ,  , .        []    personality       protection_effect   .      : 
+•       physical_quality  ,  ; 
+•          ; 
+•             ;  •        . 
+        ,     ,  . personality   personality        ,            protection_effect.          (  )    ,       . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//.
+  
+        
+   
+                   personality .          .              .             ,     personality      ,  personality ,    thinking.             ,         ,      participant_modeling. 
+        . ,       ,  , belief, ,    .                , belief,   .    personality     physical_quality    belief      physical_quality   .                ,               .                            . 
+       perceived_vulnerability                     .    personality personality         fear_arousal   ,              .             .       fear_arousal     ,  ,    , .     .   frustration_of_needs     ,          ,   ,         fear_arousal. 
+    personality isolation_effect               .  isolation_effect    , ,           .                         " ." ,   ,      ""   ,              , [norms ], ,  behavior.   frustration_of_needs         ,    [resource ],  frustration_of_needs               perceived_vulnerability.     syllogistic_rules           belief       . 
+ ,  ,            .          (   )    .              fear_arousal          ,           .                 ,         .                  .          [policy] .              ?          ? 
+   :     ,  opportunity_for_criminal_acts ,       ,               ;     . (         perceived_consensus .) 
+ certainty_effect           perceived_consensus               . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//. 
+ . 
+  
+      ?              ( )   ? 
+         loss  loss ?      personality   perceived_vulnerability?           ,   ,   .     fear_arousal   ,              . 
+    ,                      extrinsic_rewards        .   combining     , , ,           ,             "" . 
+            .                    .    personality     !   ,  live_modeling    ,         .   .          . ,      ,            ,  ,   ,  .       ,     belief     , perceived_vulnerability        ,  .    ,       persistence      ;          ,      .            ,        "extrinsic_rewards"           . 
+                      .          ,          ,       .       loss     loss  ,    fear_arousal        (, ,  ) .      ,                   .       perceived_vulnerability  ;            loss   loss ,        . 
+          .                 .       ,  ,       . 
+        
+   belief,   isolation_effect (   )                 loss     ,      .               .        loss   "."  belief,       .            loss.              : 
+•  (personality / )                (  ); 
+       ,             . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//.
+  
+        
+•            (   );  
+•              loss               . 
+     perception          . 
+   
+  ,                 .        physical_quality        loss                     ,       ,  , .      personality        .           loss    mental_calculation , ..     . 
+  ,            .      gain             ,     ()  ,  personality  ,  ,       ,   thinking       personality   .  ,       physical_quality  ,     ,             thinking     .   [policy]     ;       . 
+               .             ,              .    frustration_of_needs              .      ,                  . 
+    ,        ,  focus   perceived_vulnerability          .    fear_arousal                  ,    .     fear_arousal       impulsive_effect     personality      .                      loss               loss              .             ""    . 
+                .  loss              [capability]               .          ? 
+   ,               ,        :  
+, . .      . :   .  thinking        ,     .                fear_arousal    . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//. 
+ . 
+ 
+   ,   ,  ,      ,  ,       .   extrinsic_rewards         ,    personality .     personality   ,                   .   personality         loss      . ,          ,         loss    . 
+     ,     , .           .               .  ,    ,     personality,   ,         . ,            fear_arousal,  ,       ,    ,        . 
+ ,      ,            ,    ,    gain              . ,  personality          (frustration_of_needs   )      . ,              .            .  ,        impulsive_effect,    .            frustration_of_needs    impulsive_effect        ,                       loss  .        ,   ,   personality ,       ,    .          personality        personality  personality. 
+                      .            loss.     personality               .   gain         :    [experience]       ,       ,          . ,  [experience]      ,      loss      frustration_of_needs      extrinsic_rewards,    loss      .                   ,            .            loss  ,     ,      . 
+       .  ,    ,        .     personality              fear_arousal            .         ( )         .  perceived_vulnerability                 ,      live_modeling    . 
+                        . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//.
+ 
+        
+        ,           ,       combining    .              .     personality         loss           .                         ,          . 
+        
+ gain         loss  ,        perceived_vulnerability   .         .         .  perceived_vulnerability       ,        ,     ","      ,       , , , , ,   . 
+       intrinsic_rewards perceived_vulnerability        ,    personality .          perceived_vulnerability    .        personality   :    ,       behavior_control-ability    ,        , .       .    behavior_control-ability    perceived_vulnerability;     ,          intentionality.     intentionality     .      perceived_vulnerability,            (     )      .           ,      (            ).     ,            loss        loss,        .    combining       extrinsic_rewards,             motivation  . 
+   
+            perceived_vulnerability     gain, satisfaction_of_needs    ,      ,     ,     , .                perceived_vulnerability      :               ,   personality         , , ,    process. 
+,         ( )      ,           .       behavior_control-ability         .              personality          .  , ,    combining                 .         ,    .                                .     behavior                    .  ,                    . intelligence  fear_arousal           ;     ,    . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//. 
+ . 
+ 
+         perceived_vulnerability     -    .        ,               .         loss      ,           personality    personality perceived_vulnerability    perception  [policy]   .   [circumstances]   ( )   perceived_vulnerability   loss  .       () ,    ;      loss                   . 
+     ,    ()    personality    ,       perceived_vulnerability   loss   behavior_control-ability       .                       ,  ,          .                perceived_vulnerability  .    ;  personality      ,             .                   . 
+        ; ,       .      ,    ,      perceived_vulnerability   loss           ,           .       possibility_effect            . 
+            
+      ,     perception        ,         physical_quality   ,   impact    symbolic_modeling (   )         . 
+fear_arousal                 extrinsic_rewards  ,   perceived_vulnerability    (       )     (       ).  gain    ,    "."                  .       ,    loss. ,  intelligence      ,   ,          behavior_control-ability        loss   ,   ,  ,      intelligence     perceived_vulnerability     loss    ?  ,                 :        perceived_vulnerability   ?  ,                  ? 
+ ,  ,             "[]  "      ,          . 
+  intrinsic_rewards           ,              .                -      motivation    .  , . . .   . :   ;  , . .   :   history. :   . 
+     . fear_arousal            loss          ,        ,       . 
+ frustration_of_needs              ,           belief       . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//.
+ 
+        
+      perceived_vulnerability                         .             .           impulsive_effect ,                  ""   .       ,      .   . 
+         ","      motivation          (      ),          .                   intelligence          ,   loss   ,            personality     . 
+     .         ,        .  ,                            , intelligence  personality . 
+                                       .       ,                     .                  loss ,                    ,       loss.     perceived_vulnerability   loss     . 
+     perceived_consensus           ,          ,  ,    .    segregating, /      loss            ;    ,   [policy] ,     .              loss.            loss  . 
+,         fear_arousal      [circumstances ].          perceived_vulnerability     ,              []     " ";         behavior. ,    perceived_vulnerability              fear_arousal  .              ,   ,             .                           .   
+            
+         .  ,               perceived_vulnerability     ,   ,      . 
+       fear_arousal  fear_arousal;  perceived_consensus  ;  belief        ;             ;        ,   ,  .   intelligence         :      combining     loss  ;       ;                   . 
+        history                        . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//. 
+ . 
+ 
+         ,  loss       physical_quality  extrinsic_rewards. 
+       (  ) impact        .              ,                 ,              .        perceived_vulnerability     ;    perceived_vulnerability   loss  () .           personality  ,     ,                ,  ,    history     (  ). 
+         
+   intrinsic_rewards            .        ,  ,     .   : 
+.      loss            
+       personality loss    ; 
+.    perceived_vulnerability    ; 
+.             ; 
+.        (    ); 
+.        , combining,  ; 
+.   personality     behavior;       
+  ; 
+.           ; .    ;  
+.         personality, . 
+       .    loss            ..      .                    . 
+                  .      ,   .                     .   .     combining     ,         .    personality .        thinking.   fear_arousal                    ""   .  fear_arousal     physical_quality                           ,               . (  syllogistic_rules          perceived_vulnerability                     .)          perceived_vulnerability             isolation_effect    ,     perceived_consensus .       
+        , .    .  : . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//.
+ 
+        
+   perceived_vulnerability           [action]            ?  physical_quality,          perceived_responsibility     . 
+                .                .         ,             .                          ,   ,       fear_arousal. 
+   ,             perceived_responsibility   loss    :     .                          .               ,      personality     . 
+             .           . ,   perceived_vulnerability               ,      .            behavior_control-ability,     ,        perceived_responsibility     . 
+      ? ,     impact     possibility_effect perceived_vulnerability        loss,      .   extrinsic_rewards ,  ,            .                 ;     perceived_vulnerability       .    ,         . 
+        .     ,                        .          ,        . 
+,            " personality"   .    belief   [experience]  .        behavior_control-ability .        protection_effect    []    ,               .          opportunity_for_criminal_acts    personality .         -           , , personality /personality,  . 
+  personality        ,      syllogistic_rules     ""   ,                   .    personality       , ,      segregating    constraint          ,  ,      loss         . 
+     ,   belief         
+, . . .  .
+ :    . 
+      
+    ,     ,   .           .                         loss. 
+ , , . .    .  , . ., . . ,  . . , .,    . ,  :     . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//. 
+ . 
+ 
+            .        ,           combining   .       []        ,                   .       ( )            ,               .              ,                   .                      ,  personality;       belief   . 
+ , ,        [policy]       personality loss          ,   loss   []              ,         .    behavior   .      ,         loss         . 
+         personality   ,       . ,               .         ,             ,            . [norms]         loss (   perception     ),    loss,   ,  ,     , .  belief      .    personality  [norms]   ,    ,    opportunity_for_criminal_acts   arousal. 
+         personality   loss        loss   .             perception :  loss      loss.                       ,        .    fear_arousal   loss  ,  , , ,   . 
+   ?             personality       ,   ,    loss.                     .            mental_calculation -  possibility_effect     combining .      possibility_effect  .  perceived_vulnerability            . 
+  thinking           personality,     .     .         - .           focus         (      ).             .      personality behavior     ,   loss      . ,     ,             segregating    ,        .        personality ,    . 
+    thinking              behavior        ,  ,     loss      . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//.
+  
+        
+             
+   belief, ""   perception,                 .  ,    ,     ,    ,              protection_effect             .                    .       ,       ,       ,  situational_circumstance loss    ,   , personality ,    .          .              .         personality             . 
+         loss,      .               .      mental_calculation        ,        .    personality    ,    self-efficacy         ;            .           . 
+   , ,            ,           ,  planning   ,   , .          perceived_vulnerability  .  ,  ()           thinking     .    ,  loss         . 
+           .              personality.       fear_arousal      ,     personality,    .      ,         .     ,     ,           .   fear_arousal                 personality . 
+         .            personality         .      ,               .   personality perceived_vulnerability       [capability]      extrinsic_rewards   ,     ;    .   personality perceived_vulnerability      ,         ,     ,    .              !       "perceived_vulnerability " . 
+  fear_arousal              .                       .   personality            ,            ,         .      personality  ,    ,    behavior_control-ability         .      
+ , . .   . :    . 
+  ,  ,      extrinsic_rewards            .      ,  , . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//. 
+ . 
+  
+    loss  .               (    ,   ). 
+   fear_arousal   extrinsic_rewards  .        ,        perceived_vulnerability          .        loss ()       .         .             ,  .  perception     gain          ,   personality       behavior. 
+  impact       syllogistic_rules         . personality                    persistence  personality         persistence.      :      protection_effect,  opportunity_for_criminal_acts   ,      .         .        . 
+        imagination                     .          opportunity_for_criminal_acts    ;        ;         ;     . 
+   
+  ,         .       ,      possibility_effect             .          .   satisfaction_of_needs     loss,  ,    personality   perceived_vulnerability.  . 
+                          .           .          .    physical_quality            ,              .          .   ,         ,            vulnerabilities.      ,      ,          .            combining                   . 
+               loss            .          .    persistence ,    ,                ,        .               ,            . 
+      , . .  . . .     :  .
+  : . . .     ,          . 
+ , . .   .  ,
+ , . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//.
+  
+        
+                  ,  loss     extrinsic_rewards          .    belief        ,      mental_calculation  perceived_vulnerability.                        ,   loss   .      personality   [capability]               ;            . 
+  [capability]   ,       ,                  ,      ,          .       live_modeling       gain     ,      fear_arousal    .      .      ,  ,           .         . 
+    fear_arousal           fear_arousal   .    ,   ,    gain      fear_arousal       . ,              .         behavior_control-ability                     .       . 
+   ,        ,                 fear_arousal,    perceived_vulnerability      .                       .   possibility_effect           .      personality         ,        ,       , ,   ,     .    possibility_effect     (    )   ,          personality     fear_arousal   .           perceived_vulnerability   ( perceived_vulnerability  )                ,  perceived_vulnerability                   . 
+          ,            .    ,       personality.             personality        .            perceived_vulnerability         segregating   . 
+        personality     .             , 
+   fear_arousal           opportunity_for_criminal_acts    . 
+          .                 ,      ,     ,  personality      . 
+  : . .  , .       .   ://.. .//.;   .  , .   participant_modeling    .     , .   ..//    . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//. 
+ . 
+ 
+    ,                . ,      mastery_experience    ,                 .            ,     syllogistic_rules                 .        behavior_control-ability         ()     vulnerabilities     , ()                       ,  ()                  . 
+               .            ,    ,             .       loss         .          .        ,      protection_effect     . 
+,                   .       personality            syllogistic_rules          .              ,       . ,          .    [experience]     ? 
+         perceived_vulnerability,    extrinsic_rewards  participant_modeling      participant_modeling.         ,      physical_quality  ,     ,    possibility_effect,      .         ;       .         ,    loss          .           ,      protection_effect ,        . 
+,        , ..  ,           .         ;    self-efficacy       .            loss       segregating (   ).           .   simplifying vulnerabilities   ,       ,             .          ,         . 
+,   extrinsic_rewards         personality ,      ,              personality .            extrinsic_rewards             protection_effect.           ,        .  ,           perceived_vulnerability. 
+      loss      ;           .         ,             .    [function]           . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//.
+ 
+        
+           ,                     .             ,   simplifying                     . 
+        ,         , ,  personality    .                       .         .    perceived_vulnerability ,  ,  /perception        .   [Organization]       .               .                            ,       loss.     perceived_vulnerability      segregating,    perceived_vulnerability                          . 
+,         ,             .     participant_modeling    segregating,        .              .         ,    ,        vulnerabilities           . ,       ,             perceived_vulnerability      .      . 
+                protection_effect           .     personality              [resource ],        .                  personality                 . 
+         .    , segregating   ,         personality   .  , personality,               physical_quality         ,          . 
+,         [experience]   ,   ,      extrinsic_rewards             possibility_effect  ,         ,       .                    .     ,       ,   ,         ,   ,                      .  gain      
+         : , , ,    .  ,               .  , .  , .       .   . 
+ ©    .   personality. 
+================
+      :        [policy] ://..//. 
+ . 
+ 
+   ,      ,    physical_quality .             .               ;              extrinsic_rewards. 
+,                         perceived_consensus    .        ,     .           ,        intrinsic_rewards       .                 . 
+                         .     ,     personality   ,  situational_circumstance       ,                .  ,    ,                . 
+belief :     personality       ? 
+                               .              .            .                       .      personality     ,     . ,                                      .     perceived_vulnerability          ,      physical_quality            ,   perceived_vulnerability. 
+            : 
+•      .  ,   physical_quality            .       ,    loss ,   [capability]   .         ,             .                 opportunity_for_criminal_acts      . 
+•       .        fear_arousal :  personality,   ,     .   ,    ,    personality   .                                  .  fear_arousal       ,          .        ,          ,  ,             loss       fear_arousal. 
+•           .       loss,   ,  , ,  personality                       constraint  ,           
+ ©    .   personality. 
+================
+      :        [policy] ://..//.
+ 
+        
+   .      loss     ,               . 
+•      .          .    ,                    situational_circumstance .      behavior_control-ability,   ,   personality    . 
+• personality          .    ,  .            . extrinsic_rewards      ,    ,         [norms]  .    ,      ,    [action ],          personality perceived_uniqueness. 
+ ©    .   personality. 
+================

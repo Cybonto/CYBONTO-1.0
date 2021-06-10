@@ -1,0 +1,338 @@
+   
+   .  
+   perceived_responsibility   Collection          ,      ,    ,      ,      Collection  .     perceived_responsibility appraisal       Collection  ,      perceived_responsibility,    ,      ,    ,  ,  , .           ,               Collection  
+           .          techniques. 
+.   () .      .    
+       
+.  
+  ,  ,  .  
+.  [Organization]    
+          ,    ,  
+ -3702 
+. /  ()  techniques () 
+   
+ ..  
+   ,   
+.       ;   
+.   
+.   ( - ) 
+ -  
+. perceived_responsibility   .   
+.    
+.   
+. task  
+.    
+.  [Organization]   
+. / ()
+  
+. /  () 
+. 
+ ,  /          ()            belief, [policy]  ,      . 
+. isolation_effect 
+                  .             .             intrinsic_rewards         ,      . 
+.      
+.   : .  . isolation_effect .     
+ 
+.   isolation_effect  
+.    
+.       
+.    
+   ( /) 
+   . . 
+================
+     
+  
+  ,  ,   .  
+  ,   
+   ,  , ,  
+isolation_effect 
+                   .              .              intrinsic_rewards         ,      . 
+.  
+                   [!  source  .].               ,  ,            .               .                         Rootkit      .               mental_calculation -      .  Rootkit                 .                     ,          . 
+       [Organization]   .   perceived_vulnerability, ,            .                         () [!  source  .].  
+================
+                   ,            ,               . 
+                   . ,     [activity]          ,     perception    .   -                  ,       [!  source  ., !   source  .],        .    ,            opportunity_for_criminal_acts       .         techniques   perceived_vulnerability .              ,      protection_effect, ,    . 
+                    .            gain      ? ,             . 
+     ,            ;   .         [Organization]          ,       [policy ],   [goal]     , ,      : [!  source  .,!  source  .].    /       ,         . 
+         ;           perceived_uniqueness        . perceived_responsibility          .      perceived_uniqueness   (..  perceived_responsibility    ),               perceived_responsibility    extrinsic_rewards. 
+         combining  [knowledge]  .       [knowledge]             .       [knowledge]   . ,              . ,         intentionality    .          mental_calculation     perceived_vulnerability.  perceived_uniqueness     .  ,                 perceived_uniqueness   .     ,  
+================
+perceived_uniqueness     mental_calculation           . 
+          behavior       ,  perceived_uniqueness   .    possibility_effect    [knowledge]       [Organization]    .              participant_modeling   .            .   behavior                   behavior.  ,    ,     ,       behavior   . ,                   ,      participant_modeling        behavior. 
+behavior        .   perceived_responsibility       combining           . ,           (     )  perceived_uniqueness ,  ,     perceived_vulnerability             behavior    .              perceived_responsibility .    perception   perceived_responsibility               ,   belief              . 
+   ,                                    .                                  .                                .               . 
+   ,                          .                         .           .           ,                  .  generalizing     
+================
+           ,        . 
+.   
+         ,     -           [!  source  .].  : 
+• • • • 
+• • • • • 
+ , ,  Exfiltration   
+   (     ) 
+loss      
+          
+      
+Eavesdropping    
+     
+   
+             
+       ,        behavior_control-ability        .      behavior_control-ability                   . ,     ,    belief      .         ,      . ,       extrinsic_rewards   protection_effect            persistence .   [Organization]        ( )        ,        . 
+   perceived_vulnerability focus      ,  . . [!  source  .]      .          : 
+•       
+•    
+•    intrinsic_rewards 
+•        
+•        
+•        
+     [Organization]         belief     ,  ,   .     focus                          ,    . 
+================
+       perceived_vulnerability   combining       [activity ],   [activity ],       .       .      ,       .            .       perception                        [!  source  .].          personality     . 
+.    
+..    
+personality  intentionality    [action]         .      ,        intentionality       source.        process        .         protection_effect  ,                .  gain,  task          perceived_vulnerability          . 
+ perception              (    [!  source  .]).        ,    source        : 
+•       
+•       / 
+• /   
+• [Organization] [policy]      
+        [modeling]   ,      ,    ,         ,       . ,         simplifying   intentionality   .  focus          .        Collection     focus    . 
+...      
+            [!  source  .].         process.  [goal]      combining  " behavior"             .      ,     ,  "  " () perception       
+================
+.            ,      . ,   perceived_uniqueness                .               perceived_uniqueness          ,        "" (..      ),  ""( ..     ). 
+  .           ""       [!  source  .]       .    ,               .          .         .               "",   ,             .          ,     "",  "",          .              ://...        ""       .                            . 
+     ,  "perceived_uniqueness"                (.     ),         ,(.      ).          perception.             .  perception,    [!  source  .],          belief   experiential_awareness           .         belief,     experiential_awareness        ,     belief           . 
+              [!  source  .]   .    ,    ,     belief                           ,         ""      . 
+ (  [action] [modeling] ),       ,       [!  source  .]         
+================
+    .                  . 
+  perception       [!  source  .].    ,   appraisal             .                .   appraisal                    physical_quality    .   appraisal               . 
+     ï  ,         ,      [!  source  .].                isolation_effect  [!  source  .],        opportunity_for_criminal_acts  ,         .           ï       [!  source  .]. 
+        . [!  source  .]          .       [rewards]        ,                . 
+ perception    ï       [!  source  .]       .        ï      .   ï                 , ..           . ,                . ,               . 
+  .   belief   personality behavior                ,          ,        ( ).   belief       perception       () [!   source  ., !  source  .].            ,      syllogistic_rules           .    syllogistic_rules          . 
+                           .             .        combining 
+================
+            .  ,                 .  possibility_effect  ,                 combining  behavior_control-ability  [Organization ]. 
+   (%)   (%) 
+perceived_uniqueness . .    . .    . . 
+ . . 
+  . . 
+ . . ï  () . . ï  ( ) . .   . .    . . 
+ï +  . . 
+ :         
+      
+            ,    perception.          [!  source  .]    ï     protection_effect   ()        .            .                    .            ,     ï    .  ,      ,   ,        . 
+   [!  source  .]  persistence -          ,     ,        coding.             .  process segregating            .         .           ,     focus          .        perception     (         ,             ),     ""   perception,     ,       
+================
+      . ,   perception  combining -               . 
+self-efficacy   [!  source  .]         .                  .                 .         certainty_effect    . 
+   [!  source  .]          extrinsic_rewards.    gain           . 
+physical_quality              [!  source  .].                     ,      .                 ,        ,                 . 
+                 task.     [!  source  .]. ,           (     ),         . ,  source     .        participant_modeling           .  ,  ,      combining  ,            ,      .      focus  personality     . 
+             ,   ï       ,             [!  source  .].                   .   evaluating          %       . ,    evaluating   %   . ,         ,             ,                  . 
+ ,            [modeling]   .   .          [].          ( ,  ,  ),      (..     ),      (    ,    syllogistic_rules ),    ,           ,   
+================
+    .  [goal]             ,                  .    intrinsic_rewards      :   ,   ,   ,   ,    .                    ()           .          ,      .
+      ...  
+                .              .       (, , .)                . 
+ . .                 [].           ,        .                behavior    -                  .  ,       ""             .    ""  ""    ,      ,    . 
+, &          [activity] [!  source  .].        ,  simplifying     ,   ,    .                               .  focus       (),          ,               intentionality   , ..  %   .   perception,    ,         [activity]  ,         personality       intentionality                . 
+ . .          possibility_effect         (        )      .  techniques               ().         (*)),                  , ,   
+================
+     ().    perception      . 
+   [!  source  .]                   .                  process   .  live_modeling         .    extrinsic_rewards  [modeling]   ,      certainty_effect . 
+      ,          .        behavior         ,        ,       [action ].    , process     behavior      ,       learning   . ,                      ,            (     ),     personality    . 
+             (  process )         [].          process       .       task.                         .                 ,         ( extrinsic_rewards   , ..    ,    ,   ).  ,   process       .                    ,         process  .     ,      .       ,            .                          . 
+...       
+             ""             .  ,            . , , , ,            .    "                   " [!  source  .].      
+================
+      :  (      perception)     [function] () .     , ..   ,      .                techniques,     ,    (, , , , , ,  ),    ,    ,     , .              . ,       perception  ,    generalizing           behavior. 
+...     
+   ,                  . ,                .           Code_Injection ,       .         . 
+  .        [!  source  .]          .            (        ).  [modeling]  segregating                ,     segregating   behavior      personality.  isolation_effect    behavior      process.        ,    ,   ,   ,       "".
+                    ,           ,         .                  .                         .      process  ,     ,   ,    ,   ,    .           ,     ,    ,   .      physical_quality             ,           behavior .
+            .    process behavior  opportunity_for_criminal_acts (..      ,  ,       ).   perception       ,           []    
+================
+,         ,      .,            .               . 
+  . [!  source  .]  . [modeling]           process     .               .        ,     ()  ,               .              protection_effect   ()     .    ,   ,     ,   %  evaluating     %   evaluating         focus. 
+..    
+...      
+             perceived_vulnerability.                           "  ".            ,    personality     .        ,  ,       [!  source  .].  focus       ,   , , ,  ,      personality  ,     ,   [activity ],        .      ,     .      perceived_uniqueness,  [activity ],   [activity]     [Organization]           . , , ,               ,        .    combining          ,               ,   ,       .             .        ,      .   perceived_vulnerability             . 
+        mental_calculation -  extrinsic_rewards.        : %       ,  .%    ,    
+================
+            .  appraisal           physical_quality   ,    . ,          , ,   ,        . ,                  .   ,   ,  focus     segregating         [policy]       .            . 
+...   
+          .         ()  trap        [Organization]  .                  ,                [Organization ].          perceived_vulnerability. 
+                 [!  source  .].         ,    ,        ,      , Organization                 .    "             " [!  source  .].                           ,      intentionality        .             ,      protection_effect     personality   .     syllogistic_rules  belief,             ,      . 
+    . ,              ,    perceived_uniqueness       . ,       , Organization /Organization          .
+   ..  
+                   .  [!  source  .].     ,         , ,   ,    ,                 generalizing   intentionality   . ,       gain     . 
+================
+  ,     ,            .     extrinsic_rewards   .              possibility_effect. 
+..   
+   ,          .    intrinsic_rewards              ,            .                  .      ,            ,  .                 .                   -       . 
+     ,        .        ,    [!  source  .]      ,     process    ( ,       , .). 
+   ,         .             .           .                            ,        [Organization]  . 
+                      . ,      ,        .  ,         participant_modeling      ,                    .        . 
+           .     perception      ,      ,             ,       [activity]   .           .     ,  perception  possibility_effect      .     segregating      ,  ,      . 
+        mental_calculation    .                . ,           ,                appraisal      . 
+================
+                        .        belief              source     ,          .  ,  belief          behavior                . ,                .  belief     combining   [activity]     .      personality     "  " ,                .             ,     . ,                ,    evaluating      source  .       focus    source     .                  
+. 
+================
+ 
+  
+ -    -      live_modeling   
+ behavior 
+     
+ :     
+: 
+    
+ -    -      live_modeling   
+ behavior 
+     
+    -    -   
+        
+  
+    -    
+    
+internalization    
+ -       internalization    
+    -    -   
+        
+  
+internalization    
+ -   
+    -   
+      
+ 
+ 
+ [activity]   -     -     
+        
+ 
+ 
+ 
+    -    -    
+         
+       
+ 
+ :         . 
+.    
+         behavior            .    ,            behavior    . ,  behavior   personality    possibility_effect       perceived_uniqueness .          ,         behavior    [activity ].                intentionality              .          
+================
+                     [policy ].  ,  belief  [modeling]    behavior         intentionality      ,     ,    ,         behavior.   ,       ,    ,      intentionality. 
+                 focus  appraisal    .   ,    ,  combining        .                   .             appraisal     : 
+•           
+•         focus 
+•           personality 
+     
+•       
+     ,                 ,     source       .       ,  . .   [!  source  .],                  . ,              .         ,      personality                . 
+  ,             personality            personality     perceived_vulnerability. 
+                 behavior. ,      combining      [modeling ],            . 
+ belief               .  ,                   /      ,         .            ,   [knowledge]       intentionality      intentionality      .           ,                       . 
+================
+                         belief           [knowledge]    .           perceived_vulnerability         . ,                         loss       . 
+            .  ,                    ?                  perceived_uniqueness        ? 
+        ,   extrinsic_rewards     intrinsic_rewards    .                         [knowledge]          .      trap                      [Organization]    ? 
+. belief 
+ perceived_vulnerability                .       [modeling]        extrinsic_rewards        . ,                   . 
+        possibility_effect                 appraisal  .  ,       ""   .        [modeling]             .     personality combining     . ,                     .  experiential_awareness            personality . ,      ,    ,          .   ,   ,             ,         personality .     segregating   
+================
+   ,          .  ,         participant_modeling -    ,          . 
+           persistence      .                ,                . 
+   ,      ,      ,     personality   ,            .
+  
+[]   ,   , protection_effect  :  .   
+, . 
+[]  ,  ,  ,  , :   
+         .  
+   , .   , ,  , . []  ,   ,          
+.      , . 
+[]    ,   ,  ,  ,  ,  ,  , 
+  ,  :       .  
+  intelligence . , , . 
+[]  ,  ,  ,  ,  :    
+.         , . [] self-efficacy  ,  ,   ,   ,     . 
+   , . 
+[]   ,  ,     . /  
+:, . 
+[]  ,           
+  .   :      
+, . 
+[]  ,   ,  ,   ,  syllogistic_rules     . 
+        :, . 
+[]   ,  ,  ,   behavior    
+.        , . []  ,        .     
+, . 
+[]   ,   ,  ,  , /     
+ , . 
+[]  ,  ,  ,  ,  ,   perception     
+ , . ://..../~//. []   ,   ,    :  ,   
+,    , . 
+[]  ,  ,           
+,    ,     , . 
+================
+[]  ,  , judging        , 
+      ,  , . 
+[]   ,  ,  ,  ,   protection_effect   ()   
+   ,       
+, . 
+[]  ,  ,          
+.          perceived_vulnerability  
+:,  
+[]  ,  ,  ,  ,  ,  ,  ,  
+  behavior   ,       
+   [modeling]  , . 
+[]  ,   ,     .   
+ ,        :, . 
+[]  ,   , :         
+.      (), . 
+[]   ,   ,      .  
+       :, . 
+[]   ,      .   
+   & , . 
+[]   ,   ,      .  
+   , . 
+[]  ,  ,  ,  ,  ,  , , , 
+ ,  ,  ,  ,  ,  ,  ,  
+    ,    intelligence , . []   ,   ,  ,        
+[activity ].     belief :, . 
+[]  ,  ,  ,       , 
+ ://...////.. 
+[]  ,  ,  ,  ,        
+  ,  , . 
+[]   ,   ,       .  
+     , . 
+[]  ,  ,   .  , ::, . []   ,  ,  ,  ,  ,  perceived_vulnerability focus :  
+ [activity]      , . 
+[]  ,  ,  ,   ,  ,  ,  : 
+ .   ::, . 
+[]  ,  ,          
+.    ,    . : 
+, . 
+[]  ,  , , ,  appraisal     
+    ,  , . 
+[]   ,    personality    .   
+   :, . 
+[]  , :    perceived_vulnerability.     
+, . 
+[]  ,  ,  ,  ,  ,  ,  ,   
+appraisal        .    
+  :, . 
+[]   ,  ,         
+.  belief  :,. 
+[] physical_quality ,   , " "      ,   
+  .      , . 
+================
+[]  ,   ,        . 
+ ,  , . 
+[]  ,  .,     .    
+     (),  
+[]  ,  ,  ,   ,  ,  intrinsic_rewards    
+    . ,   ,   ::, . []   ,   ï-Bayes   ,   
+     , . 
+================

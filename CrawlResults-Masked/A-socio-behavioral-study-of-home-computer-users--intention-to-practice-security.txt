@@ -1,0 +1,401 @@
+       () 
+   
+      
+() 
+  
+  focus         
+      
+      
+     :://../ 
+  
+,   , , "  focus        " ().   . . 
+://..// 
+              ()     ().                   ().   ,  @.. 
+================
+  focus  
+       
+,           
+@... 
+isolation_effect 
+,           
+@. 
+   participant_modeling   role  satisfaction_of_needs  ,              .   focus,  focus     ,   behavior                satisfaction_of_needs  .   belief   behavior                .            .     perception    intentionality     ,   ,    ,     self-efficacy              .         
+     . 
+:  ,  , belief   behavior,  
+ 
+.  
+    ,    personality    perception.      (   ),     focus         ,      impact     ,      ,      (    )       protection_effect    .                     (    ). ,  mental_calculation            certainty_effect behavior         
+     . 
+              [Organization]   ,             . ,  behavior                        . ,      impulsive_effect  behavior_control-ability      (  . ).            ,    possibility_effect                   .  loss   segregating    ,        .        loss   $   perceived_vulnerability   (. ). 
+ 
+================
+     ,    ,           . ,        .  extrinsic_rewards        behavior   (  . ).            combining    (. ).      focus                 .   perception      behavior   (   ).     focus                  ,     . 
+   , "               ?"   focus,        personality   behavior      ,                . 
+.   
+     focus   belief   behavior (),         behavior_control-ability  behavior. 
+. belief   behavior () 
+       participant_modeling  behavior       [action] ( ).    ,      participant_modeling    behavior,        ( ).       intentionality    - perception   behavior,  ,  perceived_behavioral_control ( ). 
+             ( ;    )    (   ).     personality        (  . )  physical_quality loss (   ).  belief            behavior (  . )    ( ;    ).             judging   (   )    (   ).  mental_calculation            certainty_effect behavior              . ,     focus  behavior    . 
+.  belief   behavior 
+  behavior_control-ability  syllogistic_rules  behavior  ,     ,          (   ).       ,          belief    (   ).   ,    ( )    gain     .           focus,      personality              .            ,   perception,      (   ;  ). 
+ 
+================
+  -  belief   behavior (   ) 
+   
+  
+  
+perception 
+  
+  
+ 
+ behavior 
+  
+  
+[resource]   
+perceived_behavioral_control 
+   
+  intelligence focus,         [resource]      (   ).       focus,   ,   ,         . ,              mental_calculation     .  ,     (   )                 [Organization ].   focus         .         ,   role    behavior   opportunity_for_criminal_acts.          (..    ),          " ",      . 
+.    
+              ()  behavior .              " "    .                [norms ],            ( ). 
+                    ( ).        
+ 
+================
+     perception,    ,     ,        (   ). ,    personality    ,            extrinsic_rewards . 
+   fear_arousal   role         ( ).        process           .   focus          ,      perception                       (  . ).    focus judging loss  behavior,                   ( ).                 certainty_effect behavior.   focus  ,   (   )           ( ). 
+.    
+                intrinsic_rewards        - ,   [resource]     ( ). 
+   ,                 ,         . ,                 perceived_vulnerability    ,   [authority]  source       perceived_vulnerability    ( ).              .      perception      ()                  participant_modeling  .          ,   appraisal, personality   ,     .            . ,   focus,        : 
+)      -                 .       task    participant_modeling. 
+)      -                   perceived_vulnerability        . 
+)     -        syllogistic_rules   .       ,              .         personality          . 
+.   
+     ,       . 
+          role        behavior ( ).          
+ 
+================
+  participant_modeling  behavior      ,         .    ,    focus  behavior   focus  focus  evaluating . 
+  -           
+(+) 
+  
+perception 
+(+) 
+    
+(+) 
+(+) 
+  
+ 
+   
+(+) 
+(+) 
+  
+(+) 
+  
+perceived_behavioral_control 
+(+) 
+         . 
+ () -            . 
+perception () -        [disposition] (..   )         .  : 
+:    certainty_effect syllogistic_rules      perception  
+         . 
+  () -      perception    constraint  participant_modeling    participant_modeling  behavior  ,   ,       .       belief : 
+:    certainty_effect syllogistic_rules       
+          . 
+perceived_behavioral_control () - perceived_behavioral_control    perception        behavior   /  (  . ).   focus,        perception    /     .       belief : 
+:    certainty_effect syllogistic_rules       
+        . 
+  () -  ()     "   
+ 
+================
+             ".   focus,                         .   belief : 
+:    certainty_effect syllogistic_rules       
+       perception    . 
+    () -        constraint         (  ,   )    .   : 
+:    certainty_effect syllogistic_rules  &     
+    . 
+   () -   focus,           , , , ,  ,     , .           (    ).          constraint        .   belief : 
+:    certainty_effect syllogistic_rules        
+   . 
+self-efficacy () - self-efficacy         participant_modeling  behavior ( ). self-efficacy  perceived_behavioral_control             behavior ( , ;    ;    ).   focus, self-efficacy         /       .   belief : 
+:    certainty_effect syllogistic_rules      self-efficacy  
+ perceived_behavioral_control    . 
+  () -  self-efficacy    ,             behavior.    ()     "         behavior ". ,                  /    .   focus,              belief : 
+:    certainty_effect syllogistic_rules       
+  perceived_behavioral_control    . 
+.   
+             .               intelligence        focus,      . 
+.  
+          ().            (   ). 
+ 
+================
+   combining     appraisal      .               .                 .     combining       .    appraisal              . 
+  -    (  ) 
+  
+  :            . 
+() 
+ :              
+. 
+perception  :            intelligence - 
+personality. 
+ :            
+. 
+ :            
+. 
+ :            
+. 
+ :            
+. 
+   :                
+      . (). 
+ :        behavior       
+      . () 
+   :                 . () 
+ :                
+ . () 
+   :              
+satisfaction_of_needs      . () 
+ :              
+satisfaction_of_needs      . () 
+    :     /            . 
+ :    /          
+   . 
+ :    /        
+   . 
+ :   /            
+ . 
+   :                 . () 
+ :              
+ . () 
+ :    constraint           
+   . () 
+self-efficacy  :           . () 
+ :              . ( 
+) 
+ :                   
+. () 
+  :              .  () 
+ :              
+ . () 
+   process      . ,         appraisal             .    ,           (   ).     ,     
+ 
+================
+ ( )     (   )         .   ,            ..      .      (  , ),         . 
+.  Collection 
+           .  physical_quality          focus,              ( )     .        . 
+  -   
+  (combining = )       physical_quality      mastery_experience     *    .     .    .*      .         mastery_experience. 
+ 
+.% 
+.%  
+.% 
+.% .  
+. 
+. 
+. 
+.   
+        .               appraisal   .  appraisal       experiential_awareness  ()      (),                personality  (  . ). 
+  focus,   , , ,         , ,      .    ,           ( ).   .  .   ( )     .   (   ).  judging  ,                .. 
+          : ()   ()    ()    ()  .   ,         .                   ( ).     .    ,             . (   ).    ,           . (   ). ,             . 
+         judging : ()    ()  .                   .         ,   () appraisal   
+ 
+================
+  .     , "  "     .      . " "  "   "     .  . ,      ""  ( ).        .    ,      %  combining  .                  . (  . ).        .                 (   ).       ,         .                        ( ).     . 
+,            ,     .   ,      personality   ,                   (   ).        . 
+  -      
+ 
+ 
+perception 
+&  
+ 
+   
+  
+              
+*      < .  
+ 
+ * 
+  
+ 
+. . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . 
+    ,             ()   .              .  , %        (   ).     . ,  mental_calculation          .        personality  physical_quality,        appraisal    
+ appraisal. 
+ 
+================
+  -     
+ 
+.* (), .* () 
+. *() 
+ 
+= . () 
+. () 
+. () 
+. *(), .* (), 
+.* () 
+ 
+.* (), . *(), . *() 
+.* (), .*(), 
+.*() 
+. **(), . *(), . **() 
+ 
+ 
+ 
+= . () 
+. () 
+. () 
+= . () 
+. () 
+. () 
+ 
+.*(), .* (), .* () 
+-0. (), -0. (), 
+. *() 
+ 
+-0. (), . (), . () 
+ 
+= . () 
+. () 
+. () 
+*   < . , **   <. , =, =  = 
+.    
+   ,     perception       certainty_effect syllogistic_rules   (  ).           role  perception       . ,  syllogistic_rules  perceived_behavioral_control   ()           .                              . , perceived_behavioral_control             behavior.                impulsive_effect  .         perceived_behavioral_control          (  . ;   . ). ,             personality        ,   perceived_behavioral_control    .           mastery_experience             . 
+   ,           perception ()     ( ).                  perception   . 
+ 
+================
+   ,             (  ).              .  ,              satisfaction_of_needs   .       [knowledge]     .  " "       .               satisfaction_of_needs   .       role    .                 . 
+  ,       syllogistic_rules  self-efficacy  perceived_behavioral_control (). ,                 . ,  belief       perceived_behavioral_control ()   .         participant_modeling                   .  perceived_vulnerability        behavior   perceived_behavioral_control ( ). 
+.     
+ focus  segregating     .                      ,      focus     ,          . 
+ focus      ,     focus      ,   ,   .             personality     .       focus            .    combining                  . 
+ ,     ,       participant_modeling   role        .             role   . 
+       protection_effect             focus        . ,              .         combining       .       protection_effect                 . 
+. belief 
+               .   focus,                                . 
+ 
+================
+ focus         behavior    .    participant_modeling   role           . ,   "   "       . 
+ 
+, .  , . "    ,"  
+  , . , . , , . . 
+, . "   :  belief   behavior,"  : 
+   behavior, .   . , (), : , . , . , personality  behavior,  ,   , , 
+. 
+, . " belief   behavior,"  behavior    
+, , . . . 
+, .,  , . . "   belief   behavior   
+,"    , , , . . 
+, ., , .. "   behavior - perception,   
+perceived_behavioral_control,"   experiential_awareness  , . , 
+, . . 
+, . .  , . . "         
+ ,"     , . , , .  
+. 
+, ., , .  , . "      belief   
+behavior :     behavior, ,   [action ],"    
+ , (), , . . 
+, . "self-efficacy :    belief   ," 
+ , . , . , , . . 
+, . "belief   :     
+,"    , ,  ,  , . , . 
+, , . . 
+, . "       -  role  , 
+   ,"     , . , . , 
+, . . 
+, ., , .  , . "    
+   ," .   , ,  
+://..//. 
+, . "    behavior : loss    
+,"   situational_circumstance , , , . . 
+, .  , . "  belief   :  
+  perception,"  , . , . ,  , .  
+. 
+, . . "    perception    modeling,"  
+personality    ,  .  (.),  
+ , . 
+, . .  , . "   :    ," 
+, . , .&, , . . 
+, . . . "        ," 
+   , . .,  , .. 
+, . . "   perceived_consensus   ,"   
+ appraisal, , , . 
+ 
+================
+, . . "       ," , . 
+, , . . 
+, . . " ,    ,   belief  
+ ,"  , . , . , , , . .    . "    protection_effect ," . 
+  , ,  
+://. .///. 
+, .  , . "     :   
+ ,"   ,  ,  , , .  
+. 
+, . .     ,  , ,  
+, . 
+.. "  combining,"  .    , ,  
+://..//.?= 
+ . .  , . .    personality [modeling ],     , 
+, , . 
+, .& , . . "mental_calculation      
+  appraisal ,"    , . , , . 
+. 
+ . .   . "         
+ ,"           , 
+, ,  , . . 
+, ., , .  , . "  [modeling]  : 
+   ,"    , ., .,  
+, .. 
+, ., , .  , . "   self-efficacy   
+behavior    [activity]    ,"    
+, , , . . 
+ . .,  . .,  . .   . .   ,  
+,  . ., . 
+, .  , . "  role       
+,"  , . , . , , . . 
+  . "     ,"  .  
+ ,   ://../. 
+ . .   . .    ,  , 
+ ,  , , , . 
+, . .,  .  , . "situational_circumstance perception   behavior," 
+  situational_circumstance , . , , . , .  . 
+ . . "    ," , , . , . . , . ., , . .  , . "    belief   behavior 
+  belief   [action ]," personality    , . 
+, , . . 
+, . "  :    belief  
+  belief   behavior,"   , . , ., 
+ , . . 
+, .   belief,  ,  , , . , . .  , . "     appraisal    
+    ,"   , . , 
+, . . 
+, . .  belief,  ,  ,  , . 
+ 
+================
+. "         :  
+   ," .   , ,  
+://..////. 
+. "personality   isolation_effect," .   , ,  
+://..////. 
+ .  , . "personality     : 
+    belief   behavior," .   ( ).  .,  ., , . "      : 
+   ,"  , . , , . 
+. 
+, . ., , . .  , . . "   
+belief  :      ,"  
+   , . , .,  , . . , . "  ," .   , ,  
+://../// 
+.. "  ," .   , ,  
+://../. 
+ ., , .  , . " behavior    
+:     belief   belief   behavior,"  
+   , , , .  
+, . ., , ., , . ., , ., , ., , ., , ., 
+, ., , . ., , .  , . "  
+:  ,  ,   ,"   
+.  , ,  , . 
+, .  , . . "personality   :    
+ ,"   ,  ,  , , . . , .  , . . "    loss  behavior -    
+    ,"   behavior, . , 
+. , , . . 
+   .    ,   , 
+. 
+, . .  behavior, : /, . 
+ 
+================

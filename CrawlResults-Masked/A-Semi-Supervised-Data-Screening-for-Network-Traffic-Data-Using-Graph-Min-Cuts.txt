@@ -1,0 +1,458 @@
+    
+. . 
+// 
+      ﬃ 
+    
+ ,,) 
+ , 
+  
+isolation_effect :         ﬃ           .  personality             .   ,    ﬁ         ,    impulsive_effect        (  , )    ﬀ     ﬃ. 
+:  ,  ,  ,  ,  . 
+.  
+       , ..         ,   personality .  ,        personality .      ﬁ     personality             .                     ()    .               . 
+                impulsive_effect   . ,  perception          .      techniques           , ..,      .  ,      . ,      physical_quality - ;  ,  ,  .             [Organization ].      combining   gain   . ,  ,    ﬃ          satisfaction_of_needs            . 
+          /  ,             .  ﬃ                 ,         
+ 
+ 
+ 
+) 
+   ,   ,  ,  
+  ,  , , ,  
+  ,     (), , ,  
+ :@... 
+       
+.  gain,      combining   ﬁ    .           .         ,                   ﬃ.  ,   combining  ﬃ     ,            .  ,   ﬃ ,          [capability]   physical_quality     .   ,          ( []   )          ﬃ . ,                   ﬁ  ﬂ, .., , ,  .                   ﬂ. ,                  ﬂ;                     .  ,  ﬁ,                    .    ﬁ   .  ,             combining         .       ,               .     gain   ,       . []     []   .             .                   physical_quality .       . ,   ﬃ                   
+ 
+================
+    
+        .    ,        ()        , ()     ﬃ   ,  ()      . 
+   ,    ﬃ           ( ,  physical_quality)  [].           ( []      ).   focus,            , .. certainty_effect, ,  .                  .   ,              certainty_effect  .           .    ﬀ         ﬃ. 
+.  
+.    ﬃ 
+             personality       .  ,         ,        [activity ].                  .            ,  ,  ,           ()  , ﬁ ,  [action]  ﬂ ,   . 
+    ﬃ     : Source  techniques  ,  ,  (  ), ﬁ,  ,   () .  judging  ,   simplifying     ,          personality loss.  combining  ﬃ  satisfaction_of_needs  physical_quality -    ,  ,     simplifying     . ,        intrinsic_rewards  simplifying  ﬃ. 
+.   
+            .  learning -               .     ﬁ     (certainty_effect  ).   ,                ()      . [].              .   ,     . 
+                           [].      ﬂ/    ﬁ         .  ﬁ   
+       
+. . 
+// 
+         . ,   ﬂ behavior_control-ability  .      ,        , .., = {+,−}.  +  −    certainty_effect  ,  .           ,    .          .  ,  [function]  :  →     gain.        .        [function]  :  ∪  → , ..,            ∪ ,   ()= ()    ∈ . 
+      .     ﬁ     ﬁ    (ﬁ) .    []     personality.                ﬁ.    ﬁ   personality ,         .              .         ﬃ ,      . ,   perceived_uniqueness      ﬂ  ,             .   ,          ﬁ    .    ,   ,      [function]      ﬂ/  , belief         .  ﬁ,  ﬁ       . ,  ﬁ  perception          .  ,              []. 
+.   
+   behavior_control-ability          .    ﬃ           .       ,  ﬁ      (   .).          ﬃ     ..    ,                               ( ≥ )  ,      certainty_effect      gain.                .. 
+.   ﬃ   
+..   
+     ﬁ    ,       .    source  techniques,    techniques,  (  ),   ,       . ,  ﬁ      source  techniques, ,  ﬁ    . 
+•  intentionality  source     
+,  isolation_effect  source  techniques     
+ 
+================
+    
+  
+       
+        
+  ..  
+    
+   
+   
+/ ()  
+  
+.  ,,,,,,  ,   , , ,      source  techniques  . ,  ,,,,,,  ,      source  techniques   .            ﬁ  source techniques  (, )                  . 
+⎪⎪⎧⎪⎪ 
+  
+⎪ 
+, ,, 
+⎪⎪⎪⎪⎪ 
+⎪ 
+(,= ,)∧ ( ⎪ 
+, 
+,), ⎪⎪⎪ 
+⎪⎪⎪⎪ 
+( 
+⎪ 
+,= 
+,)∧ (,= ,) 
+∧(, ,), 
+. . 
+// 
+        (  . []). 
+          
+ ≤  ≤   
+ ≤  ≤   
+ ≤  ≤   
+ ≤  ≤   
+ ≤  ≤   
+ ≤  ≤   
+ ≤  ≤   
+ ≤  ≤   
+       . ﬁ, .., ,    combining      .            ﬁ.  ()  ()   ﬁ    .  ﬁ  (, )  ﬁ  :
+ 
+(, )= 
+() (), 
+ . 
+(, )= 
+⎨⎪ 
+⎪⎪⎪⎪⎪⎪ 
+(=  )∧ (= ) 
+•   ,  (, )  intentionality  , 
+⎪⎪ 
+, , , 
+⎪⎪⎪⎪ ∧(= ) 
+       ﬁ  : 
+⎪⎪⎪ 
+, , 
+⎪⎪ 
+⎪⎪ 
+⎪ 
+∧(,&  ,& ), 
+⎩⎪ 
+(, )= (, )+ (, ) 
+ , 
++(, )+ (, ). 
+ "&"     ...   
+   , ,,,,,, ,  , ,  (  )    
+,        techniques ,     source ,  ,  
+,,,,,, ,       ,      . 
+  .  ﬁ   techniques  
+ intentionality  source    
+(, )      : 
+ 
+, 
+⎪⎪ 
+⎧⎪ 
+⎪ 
+ 
+,, 
+⎪⎪⎪⎪ 
+⎪⎪⎪ 
+(,= ,)∧ (, ,), ⎪ 
+⎪⎪ 
+⎪ 
+⎪⎪⎪⎪ 
+(,= ,)∧ (,= ,) 
+∧(, ,), 
+       ﬁ  .  ,      ""       syllogistic_rules  ,         .    ,  ﬀ        
+) 
+⎪⎨      source  .    
+(,= 
+ 
+⎪⎪⎪ 
+⎪⎪⎪ 
+(,=  (,= ,) 
+ 
+,)∧ 
+(= ,)   source      
+⎪⎪⎪ 
+⎪⎪⎪ 
+⎪⎪ 
+∧(= ) 
+ (= ,).   ( 
+, 
+ 
+)  
+(,  
+ 
+) 
+⎪ 
+, , 
+⎪⎪⎪⎪ 
+⎩⎪ 
+∧(&  & ), 
+     intentionality   source   
+, , 
+   
+ . 
+•  intentionality  (, 
+⎪⎧⎨⎪⎪ 
+)= ⎪2ifsp1
+ , 
+ (  )      , 
+⎪⎩⎪0 . 
+..,           
+ .         ⎪⎧⎪⎨⎪ 
+= 
+ 
+  .        (, 
+) 
+, 
+⎪⎪ 
+⎪⎩0 . 
+  .   . []       
+      .     combining -•  intentionality    
+   .  ()  ()            
+        .    (, )  ﬁ  :
+ 
+(, )= 
+() (), 
+ . 
+•  intentionality  ﬁ 
+       combining   , 
+       
+.               .        .          .           .            .   (, )      intentionality      ﬁ  : 
+ 
+================
+    
+⎧⎪⎪ 
+. . 
+// 
+⎨⎪⎪2if| 
+ 
+( 
+| 
+ 
+ 
+ 
+, )= 
+> , 
+  
+⎪⎩⎪ 
+:          + ,     
+ .   . 
+:  { ,,} . 
+•  intentionality   + 
+ 
+        ( )    , 
+ ∪ ,   (, ). 
+.       .  ( )     = (,)  : 
+   .        ( )  
+=  ∪  ∪{+,}     , +   
+         .  . 
+    . 
+( )    ∈ , ﬁ       
+ (, )   
+    .    ,...,. 
+     ﬁ  :    (,)     
+ ∈  ∪      ( ≤  ≤ )  ,  
+ − +  
+⎧⎪⎪ 
+  . 
+ (,  )= 
+⎪ 
+⎪⎨1ifack1 
+, 
+   
+⎪ 
+( )   certainty_effect    ∈ ,    ( 
+⎩⎪ 
++,) 
+ .  (,+),   ﬁ   . 
+( )       ∈ ,    (,) 
+•   ,  (, )     
+ (,),   ﬁ   . 
+ intentionality    ﬁ  : 
+(, )= (, )+ (, ) 
++(, )+ (, ). 
+..   
+ (  )      source   ,      .                   . 
+•  intentionality       
+             . 
+   
+(, 
+)         
+ﬁ  : 
+⎪⎧⎪ 
+ 
+(, 
+)= 
+⎪ 
+⎪⎨1iflen1
+ , 
+⎩⎪⎪0 . 
+•   (, )      intentionality 
+   ﬁ  : 
+(, )= (, )+ (, ) 
++ 
+(, 
+). 
+..   
+ (   )    ﬁ    .          .       . 
+•  intentionality       
+             
+ ,     
+(, 
+)  intentionality  
+       ﬁ  : 
+⎪⎧⎪ 
+( )              
+ ,       ﬁ  
+ . 
+( )          ,  
+  ﬂ/       
+ﬂ  +  . 
+( )          ﬂ, 
+isolation_effect      . 
+• + :         +, 
+•  :       , 
+•  :          +   . 
+( )     + +       −. 
+() +=  ∩ +,=  ∩ , =  ∩ . 
+. 
+.   :      
+   . 
+..     
+  (,)    ﬁ  : 
+⎪⎧⎪ 
+ 
+(,) 
++  
+(  
+,) 
+⎪⎪ 
+⎪⎪ 
+⎪ 
+⎪⎪⎪ 
+      , 
+⎪⎪ 
+⎪ 
+⎪⎪⎪⎪⎪ 
+(,)+ (,) 
+(,)= 
+⎪⎨ 
+⎪       , 
+⎪⎪⎪⎪⎪⎪⎪ 
+⎪⎪⎪ 
+⎪ 
+(,)+ (,) 
+⎪⎪⎪ 
+⎪ 
+⎪⎪⎪ 
+   
+⎩ 
+ 
+   , 
+∞ . 
+.      
+   
+                 certainty_effect   .         
+ 
+(, 
+)= 
+⎪ 
+⎪⎨1ifcode1 
+,       [].      
+⎪⎪⎩0 .certainty_effect      gain.    
+   = ,       
+•  (, )       
+ (  
+   ﬁ  :) . 
+(, )= (, )+ (, ) 
++ 
+(, 
+). 
+       
+.      
+        
+ 
+================
+    
+. . 
+// 
+  
+             . 
+   
+certainty_effect  +    
+  
+  
+ evaluating     intentionality  . 
+combining combining 
+   
+:    . 
+   . 
+   . 
+   .               ,      .           .         ,      ﬃ    .     isolation_effect               . 
+       certainty_effect  .               .            . [].           ﬃ .     ﬃ          certainty_effect ,        ; ..,        ,      {+,,}         +, ..,  ∪ .     . 
+.        
+       ,  ()            focus    behavior   ﬃ . ,           .  ,     ﬂ           .  ,              ; ..                      . 
+ ""   ﬁ      (),       .   ,  ﬁ             ,   , .    ,     intentionality             .             certainty_effect .       certainty_effect           +.                        ﬁ       ( ).          . 
+       isolation_effect           .            
+       
+              
+, , 
+, , 
+ certainty_effect  + 
+, 
+, 
+, 
+ 
+ evaluating 
+.% 
+.% 
+.% 
+.% 
+   ,  "",    evaluating. appraisal :              ,       .           ∪ ,      evaluating       , ,  .  ,               ,             .   evaluating    ﬁ  /. 
+ evaluating                      -     .  " "        .       evaluating            . ,                . ,    evaluating       .      certainty_effect                    .               intelligence  . 
+.       ,                   ().     ,    ﬂ              . .. intentionality   
+    (),             .  certainty_effect        % evaluating             .          +. ,          % evaluating          ﬁ      .          .              .                .      ()  = ,,...,.  combining         ,.            ,  , .        : 
+appraisal :    , a_memory,   appraisal       certainty_effect  ﬁ 
+ 
+================
+    
+       . 
+.% .% .% .% .% .% .% .% .% .% 
+.% 
+                
+intentionality   
+    
+.  
+. . 
+// 
+a_memory       . 
+.% .% .% .% .% .% .% .% .% .% 
+.% 
+                
+intentionality   
+    
+   ( )  a_memory ( )      ﬁ   .          . 
+     .  ()+           = ,,...,    ﬁ   certainty_effect, .., ,   .  ()+        ﬁ   certainty_effect       +, ,  ().= ,,...,,   (),  a_memory (),   ()  ﬁ  ()= |() ∩ ()|/|()|, 
+++ 
+()+= |()+ ∩ ()+ |/|()+ |,  ()=  · () · ()/(()+ ()), . 
+ , a_memory,        .%, .%,  .%, .  mental_calculation      .  ,   ﬃ     isolation_effect     . ,           . ,  a_memory   .           ﬃ    .     ﬁ  .         ,   ﬁ     .  ,            . 
+..     
+   ,   certainty_effect       ﬁ   . ,     ( ).   ,           .   ,     .         (= ,,...,): 
+( )  +      certainty_effect    
+   % evaluating  ()+,        
+        % evaluating 
+    ( − )-xxx     ﬁ 
+     . 
+( )       ()    
+  +    certainty_effect   ()+ ⊆ (). ( )   
+() 
++ 
+ ()+    , ..,   
+, a_memory,  ,   ﬁ    
+    . 
+       ,         .%.  evaluating     .%       ﬁ. ,  a_memory     .      
+       
+  a_memory     ﬁ    .   generalizing        . 
+. belief 
+       learning -    .        ﬃ   certainty_effect       .           a_memory    .                 (),     ﬀ  , ,       ﬁ  () (  )         (),    ﬁ     (  )     , , ,    (), . 
+ 
+[] , .  , .:       
+  ,       
+    (), . (). [] , ., , ., , .,  , .:     
+        , 
+        ( ), 
+(). 
+[] , ., , ., , ., , ., , ., 
+, ., , .,  , .: experiential_awareness appraisal  
+         
+ ( ),    ,   
+ , ,   , (), 
+, . (). 
+[] , .  , .:    
+      ,    
+     (), . 
+(). 
+[] , .  , ..:   
+, perceived_consensus   ﬁ intelligence   
+, &   (). 
+[] , ., , .,  , .:  ﬃ  
+    , intelligence    
+ , ,     , 
+., . (). 
+[] , .  , ..:    learning - 
+. perceived_consensus   ﬁ intelligence   learning - 
+, &   (). 
+ 
+================

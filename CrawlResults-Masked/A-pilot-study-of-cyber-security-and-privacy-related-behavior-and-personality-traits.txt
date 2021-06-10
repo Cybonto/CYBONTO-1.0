@@ -1,0 +1,405 @@
+  focus       
+behavior  personality  
+  
+   
+ 
+    
+  
+   
+,   @.. 
+     
+     
+  
+   
+,   
+@. 
+isolation_effect 
+     focus          Phishing       behavior   .  focus        personality    Phishing .             participant_modeling        (      personality   ). 
+        Phishing ,            ,  gain       .  focus          perceived_vulnerability               personality  ,          .  gain,          appraisal   opportunity_for_criminal_acts  Phishing      ,   perceived_vulnerability  Phishing       perception   Phishing       Phishing      gain   . 
+ [goal]   focus         extrinsic_rewards   perceived_vulnerability,           protection_effect perception ,   gain       . 
+    ... [    (.. )]:  
+  ,   
+ 
+, , Phishing, personality  
+.  
+      ,     .    personality            ,  
+           ().                    .   ,  , ,   , .  //. 
+  
+      
+  
+   
+,   
+@. 
+ .   ,            . 
+Phishing      gain []     .       ,      ,   . Phishing     ,       ,             evaluating   . 
+           Phishing perceived_vulnerability    .   ,  focus      combining     Phishing .                     . 
+    belief    Phishing      belief (    , []),      impulsive_effect .      impulsive_effect      ﬁ personality ,                  . 
+,     personality  internalization    behavior        behavior  .    [neuroticism]        ( loss   ).             (  ),    perceived_vulnerability   Phishing   . 
+  gain  Phishing ,  syllogistic_rules         behavior      .   personality      perceived_vulnerability                    . 
+       :
+   personality      
+  Phishing ?
+   personality      
+     ?
+    syllogistic_rules  perceived_vulnerability  Phishing  
+     participant_modeling    ? 
+================
+.   
+.   personality 
+   belief,    perceived_vulnerability         .   ,     intelligence     . ,   . []              . 
+                 intrinsic_rewards   .           ,      appraisal   perceived_vulnerability,    .                  .               (  extrinsic_rewards     ). 
+     vulnerabilities,        intrinsic_rewards,               .         " "     opportunity_for_criminal_acts  .       . 
+                     impulsive_effect .        [],         protection_effect             .    focus            (  %    )    opportunity_for_criminal_acts  .      ,      . 
+     syllogistic_rules  personality   ,     ﬁ      perceived_vulnerability  .  [],          ﬁ  perceived_vulnerability   ,                      certainty_effect      (  impulsive_effect ).  [],             (         ). 
+,             .  ,                [],                []. 
+. personality    behavior 
+                 .   fear_arousal                           . 
+     . [, ],     .  ,      , [neuroticism]     ,   ,    ﬁ . ,  ,  [neuroticism]   belief            ( [extraversion]     ).  ,    ﬁ .            personality   impulsive_effect             ﬁ  . 
+      . [],      personality       
+,            . 
+. Phishing perceived_vulnerability 
+Phishing         ()        source.  [goal]  Phishing         ,      .         live_modeling         ﬁ intrinsic_rewards.          ﬁ gain  Phishing  Spear_Phishing [activity ],              extrinsic_rewards            . 
+   Phishing       (    )      Phishing            .   . []                protection_effect       .                         ,           .       Phishing       .  .  []           . ,   Phishing perceived_vulnerability []         ,     opportunity_for_criminal_acts       .     ,  focus    %       Phishing   %        Phishing  (         ). 
+  . []    focus  Phishing perceived_vulnerability.  focus          Phishing.      focus    mastery_experience,       mastery_experience   .     belief    Phishing        ,     perception          Phishing . 
+      Phishing,      ,      belief.  [goal]              .  gain,              belief   behavior (        ).  extrinsic_rewards               . , personality                 Phishing . 
+, Phishing          intrinsic_rewards.  ,  Phishing focus           [Organization]    ( .).    ,           [].      intrinsic_rewards :  intrinsic_rewards  ﬁ intrinsic_rewards.        ﬁ    ,      .     Phishing,               mental_calculation     Phishing ,        behavior (    ).  focus    personality        intrinsic_rewards Phishing  (   ). 
+================
+.   
+     personality   ,       .        , participant_modeling        ,    , techniques,     .             .      combining       .        ,   behavior_control-ability                    . ,          ,              personality . 
+ [],   .                  .       focus    . [],              ,            . 
+,                .    [, , ]                 .   . []             ,            . ,  [, ]      ﬁ      ﬁ    perceived_vulnerability    .       gain          behavior_control-ability                . 
+     syllogistic_rules  personality     behavior.  [, ],       [activity] (       )  .  ﬁ     personality       personality. 
+personality     ﬂ               perception.            behavior.  [goal]               . 
+.    
+personality                 perception   .  ﬁ    personality appraisal            personality [].  [goal]    personality  ﬁ           .    [neuroticism ], , perceived_vulnerability, [agreeableness ],  [conscientiousness ]. 
+      ﬁ :
+ [neuroticism] : [neuroticism]      
+     , , , fear_arousal 
+ .   [neuroticism]      
+    personality arousal,      
+,      .
+ :     personality   
+        ,  
+   personality .
+ perceived_vulnerability : perceived_vulnerability       
+.      perceived_vulnerability    
+ intelligence   .    
+         . [agreeableness] :    ,   
+      .   
+   [agreeableness]    personality. [conscientiousness] : personality     
+    .     
+  . personality     
+  . ,      
+        
+  . 
+         ﬁ                [].    physical_quality       , personality,   appraisal       ﬁ    personality.               personality      personality   [].  gain,        ,       []. 
+    ﬁ             personality     ﬁ,   []   [].      ﬁ      personality  syllogistic_rules  personality    .     focus   syllogistic_rules       behavior. 
+.        combining personality     perceived_vulnerability  Phishing .         [activity]      personality           ﬁ.     ﬁ     Phishing, personality    [activity ].   focus      ,   ,       . 
+     personality         perceived_vulnerability  Phishing            .   focus   ,             .         protection_effect perception         . 
+. focus  
+ focus     :
+ personality :      personality   
+ ,     ( .).
+  :   ,   
+, physical_quality  .
+   behavior :      
+     ,     
+   ,      ,  
+    participant_modeling   [activity]   
+     .
+ Phishing perceived_vulnerability :       
+      Phishing ,   
+   Phishing .     combining  
+================
+ " ".                ﬂ.        /           .
+  , perceived_vulnerability perception  :     
+      . []   []  
+       behavior,  - 
+    participant_modeling .   
+    appraisal      
+   (, ,  , .). 
+         
+      [activity]    
+    . 
+ focus    :
+ :  personality      Phishing 
+perceived_vulnerability .
+ :  personality        
+ participant_modeling  personality  .
+ :  personality      personality 
+     .
+ :       personality   
+  ,        
+  perceived_vulnerability   Phishing    
+physical_quality .
+ : perceived_vulnerability perception    Phishing    
+ -         
+   behavior_control-ability  .
+ :    perceived_vulnerability perception :     
+           
+ .
+ :  personality   combining   
+  [activity ]. 
+.    .  
+              .     perceived_responsibility         focus     .       .          physical_quality  .          physical_quality.                  
+    :   ﬁ ,   ﬁ                 focus.    ,  Phishing      .      focus,  ﬁ                  Phishing  (  /)   .                 focus.   Phishing focus   ,    Phishing      perception  Phishing  [].  perception         ,          (               experiential_awareness ).  Phishing    ,  ﬁ      Phishing       (  ). 
+.  
+  ﬁ    ,      combining         ﬁ    .          protection_effect       . 
+    :    ,     , physical_quality,      .      [activity] .   ,    ﬁ        ( =     = ﬁ)   [activity]   appraisal   perceived_vulnerability       .               ,             .       ,   ﬁ  physical_quality     personality  . 
+.   
+               .    ,       . .  ,             certainty_effect    (    . []).      .        certainty_effect   ( ,   ),        .                       ( ,      ).     certainty_effect ,              .     ,               . 
+              ,   appraisal    (   []).  certainty_effect                   [activity ]. 
+. Phishing 
+     ,              .        possibility_effect      ﬁ     combining.          Phishing :  "" ﬁ      techniques (            ﬁ).  combining           combining techniques.  gain,          [action ],     Phishing . 
+       combining            . ,    techniques : 
+://..//.?=.       /             .  persistence ﬁ,                 . 
+ Phishing     " " .       intrinsic_rewards,       .        [authority] (" ",             ).       
+================
+ : Phishing  
+(           gain  ).       ,              (  ""    ). 
+    intelligence Phishing    Phishing        . 
+.  [activity] 
+ combining   [activity]   personality ,       personality       ,      ,            .              . 
+          ,  physical_quality, techniques,       .   (        )              . 
+                         isolation_effect    . 
+         : 
+ = (combining + :)        combining     . 
+    ,          :    ,  ﬁ ,  ,  ,             .         (  )   (      )     .               . 
+            . 
+  
+  
+    
+ .  . . 
+ [activity] 
+% 
+% 
+% 
+ :     .  %  %     ,     .         - .   ,     personality 
+.           ﬁ   .     ﬁ   .         . 
+. Phishing 
+  %    .     personality        ﬁ    .   ,      [neuroticism]  .   ,       personality .                . 
+    [neuroticism] .* -. -. . [extraversion] -. . . -. 
+perceived_vulnerability . . . -. [agreeableness] -. -. -. -. personality. -. . . -.** 
+* -   ﬁ   .  (). 
+** -   ﬁ   .  (). 
+ : Phishing  personality    .          appraisal   [neuroticism]  perceived_vulnerability     . 
+    protection_effect  belief     personality   impulsive_effect             ﬁ   (   [, ],  .).            Phishing ,          ﬁ    Phishing .    personality ﬁ   focus     .     , %     %     .          [],     ﬁ          .      possibility_effect     :
+       ﬁ   
+    focus,      . 
+,        ﬁ  
+    Phishing .
+   []     
+   . ﬁ,  focus  
+            
+================
+ .          
+           
+ (        
+). 
+..  perceived_vulnerability  Phishing 
+ focus      personality        .              evaluating       .          ,       . ,                .            possibility_effect        Phishing . 
+        mastery_experience.  focus          mastery_experience       .        . 
+       ﬁ   perceived_vulnerability  Phishing     appraisal,     Phishing      appraisal (       Phishing       ).          ,      intrinsic_rewards  possibility_effect    (  satisfaction_of_needs  )  behavior_control-ability  perceived_vulnerability     Phishing . 
+ . perceived_vulnerability mastery_experience 
+ . -. -.* -   ﬁ   .  (). ** -   ﬁ   .  (). 
+ : Phishing        perceived_vulnerability.  ﬁ   ,   perceived_vulnerability       mastery_experience  . 
+.  ,    
+               .                   .                        .  ﬁ         [neuroticism] : (= :).   personality      [neuroticism]      opportunity_for_criminal_acts   . ,           [conscientiousness] (= :).         focus     [].          opportunity_for_criminal_acts       opportunity_for_criminal_acts    ,    learning    [activity]   intrinsic_rewards  .        . .  [activity]  personality  
+ judging   [activity]   personality , perceived_vulnerability                         . , perceived_vulnerability       .      ﬁ     [activity]    .  perception    [activity]          -     personality     
+   
+[neuroticism] . . .** 
+[extraversion] . -. -. 
+perceived_vulnerability -. . . [agreeableness] -. -. -. [conscientiousness] . . -.* 
+  .** -. 
+ .**  .* -   ﬁ   .  (). ** -   ﬁ   .  (). 
+ :  behavior   personality .      .      [neuroticism]      . 
+     ( ).         . 
+       [neuroticism] . . . -. [extraversion] . . . -. 
+perceived_vulnerability .** .* . -.* [agreeableness] . . . -. personality. -0. . . -. 
+   .** .** -.**   .**  .** -.** 
+  .** .**  -.** 
+* -   ﬁ   .  (). 
+** -   ﬁ   .  (). 
+ :     personality . perceived_vulnerability                personality  . 
+            ﬁ  perceived_vulnerability   ,      participant_modeling    ﬁ  .            mental_calculation           . 
+   
+  . . .* 
+  .* .* . 
+combining  .* . .   -. -. -.* -   ﬁ   .  (). ** -   ﬁ   .  (). 
+ :  behavior    [activity ].          .         . 
+ focus           .  ,            ,       .      personality                         (     ).    belief              ,    
+================
+ﬁ .      .   ,         (evaluating     )         . 
+.     
+   ,  focus             .               .       ,            perceived_vulnerability          [extraversion ].         personality       . 
+   
+[neuroticism] -. 
+[extraversion] -. 
+perceived_vulnerability -.** 
+[agreeableness] -. 
+[conscientiousness] -. 
+* -   ﬁ   .  (). ** -   ﬁ   .  (). 
+ :         personality . perceived_vulnerability  [extraversion]          . 
+               (   perceived_vulnerability  [extraversion ])    [activity]         .               [activity]           Phishing .        ﬁ  ﬁ. 
+.  
+      focus :
+ :  personality      Phishing 
+perceived_vulnerability.      .  , 
+ focus    personality ,   
+, perceived_vulnerability      [extraversion]  
+     Phishing perceived_vulnerability .
+ :  personality        
+ participant_modeling  personality  .  focus  
+ belief   .    participant_modeling  
+      perceived_vulnerability .
+ :  personality      personality 
+     .  focus   
+  evaluating   perceived_vulnerability       
+    .     
+       participant_modeling  , 
+      perceived_vulnerability    
+physical_quality (   participant_modeling      
+participant_modeling    ).
+ :       personality   
+  ,        
+   perceived_vulnerability   Phishing   
+ .      ,    
+        vulnerabilities. 
+,           
+ perceived_vulnerability .
+ : perceived_vulnerability perception    Phishing    
+ -         
+   behavior_control-ability  .      
+.        
+           
+   Phishing focus -       
+/    . ,   
+ belief         
+     ,     
+         
+.
+ :    perceived_vulnerability perception.    
+    ﬁ      
+   .      . ,  
+  ,         
+  behavior_control-ability   .
+   personality   combining   
+  [activity ].      ,   
+  combining         
+      . 
+.                     .  focus      personality   Phishing   .        behavior   perceived_vulnerability   . 
+ ﬁ   ,       personality     Phishing perceived_vulnerability.  - ,  focus          Phishing   .  ,         Phishing   .   Phishing            personality , (           ﬁ intrinsic_rewards  ). 
+   ﬁ         [activity] (    )                .     focus    ﬁ     behavior_control-ability  ,           perception      . 
+      Phishing     .      ,      ( motivation ).  impulsive_effect          . ,        Phishing   ﬁ  personality                . 
+ perceived_vulnerability                personality .       , protection_effect     possibility_effect         . 
+.  
+         (  ).                        ﬁ ,    ,     . 
+================
+.  
+[] . . , . . ,  . .   
+: judging     
+.     , 
+  - , . 
+[] .   . .   
+ .    behavior, (): - , 
+ . 
+[] . . , . . , . . ,  . .  
+   ,    personality 
+  intrinsic_rewards    . 
+personality   , : - , . [] . , . , . ,  . . 
+    .   
+ behavior, :, . 
+[] . . .   behavior  simplifying  
+ perceived_vulnerability :  focus ,   
+. ://../// 
+/., 
+. 
+[] . .  ,     . 
+://..// 
+/. 
+[] .   . . .    . 
+ appraisal , , , , . [] .   .   .   . 
+  . .  personality  personality 
+ .        
+    (),  
+, . 
+[] . , . . , .-xxx. . ..,  . . 
+.    : , , 
+  .   
+ , :,  . [] . , . . ,  . .  Phishing 
+.        
+    (),  , . [] . , . ,  . . ,    
+:       . 
+        
+    (), . 
+[] . , . , . . , . , 
+. ,  . . personality    
+ :     
+.  - , . 
+[] .   . .    
+Phishing .     
+,      , . [] . . , . . , . , . ,  
+. .   personality    
+:     
+ ﬁ . , behavior, 
+  , :,  . 
+[] .   . .  perception    
+   . 
+"://..///.". [] . .   . .  syllogistic_rules  
+[extraversion]  [neuroticism]       
+.    behavior, ():, 
+ . 
+[] . .   . . .   belief  intrinsic_rewards. 
+     . , . 
+[] .   . . Phishing  : 
+personality      perceived_uniqueness 
+. ,  . 
+[] . .    . . personality 
+,        
+.   ,  . [] . . .   . . .   ﬁ   
+. personality   , 
+():,  . 
+[] .   . . prospect belief :   
+   perceived_vulnerability. ,  . [] .   . .   personality 
+   . 
+"://..///", . [] . , . , . , . . ,  
+. .       .  
+    (), (),  
+. 
+[]  belief       . 
+.  fear_arousal : personality   
+   . 
+://.////.. 
+[] . .   . . .     
+    .   
+personality, ():,  . 
+[] .   . . .     , 
+?   ﬁ   .    
+behavior, . 
+[] . . [policy]  . . .   :   
+    . 
+://..///ﬁ/ 
+/., . []  .     :  
+     â    
+. ://..// 
+, 
+ . 
+[] .   . . .    personality 
+   .    
+, (): - , . 
+[] . , . , . , . ,  
+. .    ?    
+ Phishing perceived_vulnerability    . 
+         
+  (),  , . 
+[]      .   
+ :      belief. 
+://.../// 
+/.. 
+[] . . .     personality : 
+   .     
+personality, ():,  . 
+[] . . .  :      
+ .   behavior, 
+():, . 
+================

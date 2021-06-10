@@ -1,0 +1,105 @@
+               
+       
+       
+ , ,  ,  ,   
+       
+   () 
+ ,  
+{, , }@., @.. 
+                , Phishing, ,     .  , , ,      perceived_vulnerability      .              perceived_vulnerability  .                evaluating   .            combining    .        intrinsic_rewards ,         ,          .         personality     intrinsic_rewards  [knowledge]        . 
+: ; 
+;  ;  ; 
+.  
+    "  perceived_vulnerability    " []        .     [, ],          ""          "".   ""      "";    ,     participant_modeling      .   ,                     [, ].          ,       ,  personality    ,    ,    []. 
+        (&) ,          (&) .     & ,         . ,          .                     .            & . ,      
+/ $. ©  / $. ©    ./.. ./.. 
+      () 
+   () 
+,  
+   . ,  &         [action]           [, , ]. 
+           .           ().     ,         loss.            .    ,    ()        .               .     ,       loss. ,         .   ,              [, ]. 
+ ,        ; ,     ,               .         perception. ,  process                . ,               persistence    []            [].             .              .  ,         ,     behavior.  gain,             . 
+ [goal]       [activity]        judging   . ,    intrinsic_rewards  [knowledge]          ,       learning   .                  intrinsic_rewards     .                  . 
+ 
+================
+        :   ,           . ,   ,           .             .                . ,        . 
+.    
+                        source ,       . ,  combining                   : source    , source    ,    .     combining        source      . 
+,        :    personality .   persistence       ,  personality        gain  .           . ,          ,  ,           .    ,         personality    .  ,             . ,       personality              []. 
+ [knowledge]        .     [knowledge]             .                .  ,        [knowledge]           .   [knowledge]    possibility_effect   ,           . ,  perception   perceived_vulnerability    . ,   personality   ,          ,   combining         belief      certainty_effect .  gain, [knowledge]             .         .        . ,             .        ,   intrinsic_rewards    []. 
+.      
+                [].    [knowledge] ,            .         ,      . ,   intrinsic_rewards      .  ,   intrinsic_rewards       . ,         ,             ,              . 
+,                          . ,         . ,  syllogistic_rules           ,            . ,      personality    ,     combining   ,              .   ,       [knowledge]       intrinsic_rewards.       intrinsic_rewards  , , ,  ,       [knowledge]     [, ]. 
+                .               .          .  ,           .  combining  ,             .                           .         ,          perceived_consensus.             []. 
+          .             . ,      perception    .   ,            .                    [, ]. 
+      techniques               .    
+ 
+================
+,         .   task     , appraisal,        . ,   isolation_effect            . ,         intrinsic_rewards,            [].      ,       , ,       .   ,    Collection               .   ,          ,          .    [, ]  personality        . 
+   ,  [circumstances]     belief   ,  intrinsic_rewards       .   , appraisal        belief. appraisal               .  techniques      -xxx  []. 
+      techniques           .                     judging        . ,     combining          .  ,     ,    source  techniques ,     techniques ,              .      appraisal       ,         [].      intrinsic_rewards,              internalization  . ,            .     ,          personality  judging   [, , ]. 
+.  
+    belief                  . ,        .   ,                ,  combining   ,   simplifying       . 
+                         
+,         . ,   ,         ,       . ,      learning             personality    []. 
+      combining    .          combining    extrinsic_rewards.              ,            .       simplifying    .                   [activity ].  ,          .                     .          [goal ].  gain,                   []. 
+.   
+,       " perceived_vulnerability "      .               .            combining    ,         techniques          .      intrinsic_rewards             .          ,    .   intrinsic_rewards      personality    .        perceived_vulnerability    ,  , , ,  . 
+                  .      [knowledge]    behavior        .    ,       learning     intrinsic_rewards  [knowledge ].    perceived_vulnerability         .     [capability]  , behavior_control-ability      .       perceived_vulnerability      . 
+                    .                ,  
+ 
+================
+. .     perceived_vulnerability  
+        ,       . ,         [knowledge]   .       intrinsic_rewards  ,  ,      [knowledge]    .  techniques          .          .       ,                          ,      .    ,        ,    .   ,   intrinsic_rewards      personality    . 
+           ,              .          .  ,       ,             . ,    ,                      . ,            [capability]     perceived_vulnerability . 
+. belief 
+   gain      ,             . ,                .       ,       
+     .                        . 
+          " perceived_vulnerability "     combining    .        intrinsic_rewards ,          ,          .         personality     intrinsic_rewards  [knowledge]           .    perceived_vulnerability       perception             . 
+.  
+           ()       ,     protection_effect      ()       . 
+.  
+[] . , "       ," 
+ ,  . 
+[] . , . , . ,  . , " 
+ perception  personality   ," 
+ .       
+appraisal (), , . . 
+[] . , . , "      
+,"     () ,  
+. 
+[] . . , . , . , . ,  
+. . , "      
+   ,"  .    
+ &  (), , 
+,  , . 
+[] . , . , . ,  . ,  
+    behavior .   
+ . , , . . 
+[] . , . , . , . . , .,  . , 
+"  ,"  .           
+( ), , . . 
+[] . . . , "  ,"     
+   intrinsic_rewards, . ,    
+, ,  . 
+[] .   . ,     
+      , 
+, , . . 
+[] . , "     
+      "  .  
+    , . 
+[]   , "     
+:    ," []. : 
+://..//// 
+/.. [: . , ]. 
+ 
+================
+ [] .   . , ": combining       appraisal,"  .       personality , . 
+[] . , . , . ,  . ,      behavior, .    . , , . . 
+[] . , . , . , . , . , . physical_quality, "      "  .       , . [] ..   . .  []. "       ",  .  .     , , . . [] . , . ,  . . "        ",  .    .     , . [] .   . ,  , , , , , . 
+[] . , . , . ,  . , ":          personality  ,"  .    , . 
+[] . ,, . , . , . , . , . ,  . . "  :          ,"  .    , . [] . , . .  , . ,  . , "        ,"  .  . 
+[] . . , . . , . ,  . , ":    ," []. : ://../~// 
+//.. [: . , ]. 
+ 
+================

@@ -1,0 +1,634 @@
+        
+   
+      
+ 
+ ,  .@... 
+ .      
+,  @.. 
+isolation_effect 
+  perceived_consensus               ,    ,  .   ,      ,                intentionality            . ,           ,         perceived_consensus ,          .   ,        perceived_consensus     focus   ,  ,    .         ,            perceived_consensus.     ,             ,  ,    ,   combining     . ,            perceived_consensus  [policy] (    ),           . 
+  
+•    →   ; •    →  ;  extrinsic_rewards;  
+ 
+     
+ ,  
+@. 
+     ,          .  ,         ,  perceived_consensus      .      techniques   (   )     : ,    . ,       .           ,   personality           [].              ,   loss           ,      [].   ,              : .  ,  techniques          :            . 
+  ;  ; 
+. 
+:. [.]    
+ 
+  ,     ,    ,   
+  
+     ,   .             ,    .               $  (   ) [].   perceived_responsibility           ,    (     )     .  ,         
+   
+ fear_arousal     ,                 ( ,         ,  [])           ,      ( ,    []          [])              . ,         . remembering       ,           perceived_consensus     /       ,     perceived_consensus . ,                 perceived_consensus   (),         perceived_consensus  source ( ,          )    ,    perceived_consensus      .             
+      segregating    : :   (  : []),    (    ),   (  , , ), , . 
+================
+,, 
+     perceived_consensus [resource]      ,           perceived_consensus  ,  possibility_effect     . 
+      techniques, : ()           : ,      ,    /    ,            ?;  ()    ,   [function]      [resource]    ,         ? 
+   
+  ,                 ,   focus        [] ( ).       . 
+() (  )      
+perceived_consensus      
+  protection_effect  (   ), 
+  [goal]   perceived_consensus     
+  [rewards]     perceived_consensus 
+,          
+       . () (  )     
+perceived_consensus ,       
+     perceived_consensus  
+.         
+  [, , ] ( ), ,   : () (    [])   
+  %  %   perceived_consensus [resource ], 
+         
+          
+   ( .),     
+ . 
+() (    [],    
+  [])      
+ %  %   perceived_consensus [resource ],   
+          
+      (  []),  
+         
+          
+   ( .),     
+ . 
+() (    [, ])    
+   %  %   perceived_consensus 
+[resource ],       
+         (  
+    [, ]),    
+      ,  
+   /    
+    gain    
+ ,   physical_quality participant_modeling    
+ . ,      
+%%  perceived_consensus [resource ],   
+ ,  . ,    
+   
+ 
+ 
+ 
+,   
+intelligence perceived_responsibility/   
+perceived_consensus   
+ perceived_consensus 
+perceived_consensus    
+perceived_consensus  
+ 
++  
+ :      
+perceived_consensus                ( .),         perceived_consensus [resource ]. 
+           [].                        . 
+  focus :    physical_quality  
+ 
+     focus         ,          . 
+.                 .   (  )     ,     perceived_uniqueness.          .      ,   [activity]       possibility_effect   .      ,        .           .   ,              ,   loss   .                ,                  []. 
+    ()             .  focus           (   )            [].  focus      ,                    . 
+================
+     
+.               (  ),       :    isolation_effect  .          ,        ,          .    ,       .    ,      :       ,        (    )        ,  []. 
+   focus []             loss     perceived_responsibility          .             process   .               ,         .      ,          . ()       ,             techniques    ,    .              . ,                    . 
+                        intrinsic_rewards ,     history    [].             protection_effect       (      .)  behavior_control-ability  loss          ,  simplifying  [activity]   . 
+ ,                           ,          [, ]. 
+  focus,              ,     ,        ,            ,  . 
+.      
+ 
+          (   ):   ,  perceived_consensus ,  intelligence perceived_responsibility ,     [].          ,            perceived_consensus          . 
+,, 
+    .        perceived_consensus ,  [policy]       intelligence perceived_responsibility ,               . ,         [policy]    intelligence perceived_responsibility : ()     experiential_awareness   .,           ,   perceived_uniqueness         .             (      intelligence perceived_responsibility ). ()  intelligence perceived_responsibility          perceived_consensus+     intelligence perceived_responsibility.        perceived_consensus     . 
+    perceived_consensus .  perception     ,  protection_effect     ,      perceived_consensus         combining ()     ,    perceived_consensus    .       perception, . 
+     
+ 
+       .     physical_quality       perceived_consensus,       .          (  )    . ,    perceived_vulnerability    . 
+.     perceived_consensus  intelligence perceived_consensus         (),    ,  ,       combining  ,  combining ()      .        ,       extrinsic_rewards      ,   .       [resource]      perceived_consensus,           []  gain      ,      ,   satisfaction_of_needs   extrinsic_rewards. 
+ ,        () perceived_consensus .  ,           [function]     /        ,       . remembering       [resource ],                           ,        satisfaction_of_needs   extrinsic_rewards.        []. 
+================
+,, 
+. , , , 
+  
+        ,       , . 
+•    :         :   .             .       .               .             .        perceived_consensus   ( )      . 
+•    :            ,                  [].         . 
+•  :               .       :    - .                 (belief :                          ).          . 
+•  :          perceived_consensus   perceived_consensus ,    physical_quality.         () ,     () .         ,      extrinsic_rewards/        perceived_consensus  (    belief    [, ]).       perceived_consensus [resource]     ,   [resource]      ,     .  ,         :   .           ,         ,         .             .      ,   mental_calculation  behavior   -       []. ,          ,     intrinsic_rewards  physical_quality        ,       personality [].                    [rewards ]. 
+ ,  . ,    
+ :      
+•    :      
+   (   []),    
+     ,    
+     ( ,     
+      []).      
+           
+       / 
+( ,        
+    []). 
+•     :      
+        
+     [].   behavior_control-ability  
+ ,         
+   ,      
+          
+   ( ,     [] 
+     []). ,    
+          physical_quality. 
+•     :     
+     (  
+)  perceived_consensus ,     
+        
+    .       
+        (    
+             
+).       
+         (   
+      ),    
+          
+.         ,  
+           
+      ,     
+       . 
+          .  �  perceived_consensus  ,      [�] := {,, ..., �}.  perceived_consensus [resource]    � ∈ [�]     ��.     � 
+     ,             /     . 
+================
+     
+(      ),  personality               .          (,), ,   ,  (�) := (�, (�)),    , ((�))= (     ).           �∗, possibility_effect       [function ].       ,    .    [�]          .          � (⊆ [�]).          � := [�] �.            ( �   )      �F� ( �   ).       /  �. ,       ,               ,  �.       . 
+.      .         . .    ,             role,         []    []. 
+.  perceived_uniqueness                    :       protection_effect    perceived_uniqueness,    perceived_uniqueness     [policy] [] -            perceived_uniqueness         . .                perceived_consensus            . 
+.    [policy]      perceived_consensus ( perceived_consensus ). 
+   appraisal       ,  [policy]           perceived_consensus    ,            / ,          ,    .       ,       : 
+.         intelligence                   ,              intelligence . 
+.   syllogistic_rules              intelligence  ,  
+            . ,           .      . 
+,, 
+      ,        ,        intelligence . 
+. belief             ,      ,        :         .                    ,         .    gain        . 
+.         perceived_consensus  ,           .  ,       (  ,,)  perceived_consensus      protection_effect       perceived_responsibility   perceived_consensus   . ,    (   )     : 
+•        
+  .       
+        
+      . 
+•          
+ .        
+        
+ (       )  
+       
+ (  ). 
+•      ,     
+ ,    . 
+         
+   gain   ,  
+      ( 
+ ). 
+•  perceived_consensus [resource]      
+        .   
+          
+perceived_consensus     ,     
+        
+(  ). 
+ techniques   [goal]    . 
+.  perceived_vulnerability          perceived_vulnerability    ,     . 
+     .            ,   generalizing     protection_effect     ,        
+     experiential_awareness  perceived_vulnerability ,          []. 
+================
+,, 
+ :        .   ()    (       extrinsic_rewards )    .           . 
+  ( ,     personality   [],    extrinsic_rewards   personality  > 
+   combining extrinsic_rewards   []). 
+        .        ,       .            . 
+  ,  focus      [function]    perceived_consensus [resource]      .             , ()      ;   , ()      perceived_consensus  :       ,          extrinsic_rewards.                personality,   -              physical_quality     extrinsic_rewards (    focus        []). 
+            . 
+  perceived_consensus             personality    perceived_consensus .    ◦     .        perceived_vulnerability ,      ≈�. 
+ ,  . ,    
+.   
+          ,                          . 
+               :       ,     Γ.  , Γ   || × ||     (�, �) ∈  ×              : �   �.         : �   �,   ( )   : �    �. ,       �            ��(⊆ )  :  ��(⊆ ).       (  �F� ),  �         Γ���. ,     
+  � (⊆ [�]),        � ∈ �     (  �F�)  �        Γ      .                �  ,      ��0    �0.           .      Γ,    �F�    �  � 
+ 
+� 
+  � ∈ [�]        .             ,         perceived_consensus [resource] (��, ��),     � (     ). 
+ :   
+ () 
+.    [�]: (, ��0, �,Γ). .    �,   
+�F� := (, ��0, �, ���,, ��, ��). .    � ∈ �,   
+�F� := (, ��0, �, ���,, �∗(Γ)).   
+.   perceived_consensus   : mental_calculation        :   (∈ ��),   � (∈ ��),   �     ,��.       �  (�F� ◦�� ,��)    .    :   [] perceived_consensus     ( )       ,    .           ,               
+            . 
+================
+     
+                 . 
+ :   perceived_consensus  
+: 
+  perceived_consensus  []. 
+  
+    ,   � ∈ �   
+     �∗(�F�)    
+  ,    �   �∗(� ◦ )  
+   . 
+  
+   (     .):            ( ) �∗  ,    . ,           �′     perceived_consensus ,    : �∗(�′ ◦ ) ≈� �∗(� ◦ ).             . 
+.    
+   [] perceived_consensus              .         ,     ,  ,            .       .            . 
+ :     
+: 
+  perceived_consensus  []. 
+  
+    ,   � ∈ �   
+   (   �F�  ). �   
+ �   � 
+∗(��� 
+◦ �F� ◦�)      
+   [function]    ��,      
+. 
+  
+    
+   
+  
+  simplifying        perceived_consensus   (  [goal]    .)      ,   [, ].       ,  []       �    � (       [, ] ),   [function]   combining perceived_consensus [resource]   . 
+    belief   ,     . 
+,, 
+.                   ,   . 
+    .          [, ],         ,    [resource] perceived_consensus   (⊆ [�],  �p< .)  mental_calculation      (        ),    ,    ,         . ,       [] (  [])             . ,      [, ]         intelligence   . 
+.           :     �     �.       perceived_consensus [resource]      : 
+�∈[�] 
+��= ;    / extrinsic_rewards            ∈ {�,�}    �p,    [function]  �p= 
+�∈p 
+��.           ( .),�� +��= .          ,          �,             �,             ,  ��0.    �  �             ,    ��0        ,     .        combining   extrinsic_rewards �F    ,  �          (.< ��< .),   ��+ �� ≥ .     �,             extrinsic_rewards ( extrinsic_rewards   []).    �        ��0   physical_quality �       ,      ,      . ,      combining    extrinsic_rewards        ( ,  �=    []).       ,   �= ∞,   . 
+       ,                   , .        ,            ,       �F ≥ ��. 
+  .       [action]  �F     [rewards]            .        .,  .,   .. 
+          ,           . 
+================
+,, 
+ :          .  �� ≤ .,           . ,  ��> .,      ,           ,       . perceived_consensus  ℎ��,ℎ�����,  ℎˆ��    .   .        ( [, ]),  simplifying  perceived_consensus          . 
+              �    �. 
+  (  ).  perceived_consensus       ()  ,                  . 
+ [rewards]             .     intrinsic_rewards    �   physical_quality    [rewards]           [],              � . ,       . 
+  (  ).  perceived_consensus        ()  ,     ()  ,  ( )    ,   ()              . 
+perceived_consensus  .  personality                    ,         [, ].    ,   intrinsic_rewards           perceived_consensus [resource]   .       ( ) perceived_consensus     
+ ,  . ,    
+ .        ,     ,      . 
+            �  . 
+  ().   perceived_consensus     ,     ()   ()              . 
+  ().   perceived_consensus      ,     ()              . 
+            �  .               (   .)    . 
+  ().   perceived_consensus   ,     ()              . 
+  ((�F)).   perceived_consensus     (�F) ,      ()              ,     �F (   [function]  ��)         ,      (). 
+  ().   perceived_consensus     ,     ()              . 
+    .  ,   (�F)       :   ,      combining          . 
+  .    ,     (  .   .),                  ,          perceived_consensus [resource]    .      (  .)                ,     perceived_consensus [resource]        . 
+.       
+ 
+            �     �,         ,   
+================
+     
+ 
++  
+ 
+ 
++ +  
+ 
+ 
++ +  
+ 
+ 
++ +  
+ 
+ 
+combining 
+→ 
+← 
+combining 
+ 
+ 
+ 
+ ≤ %) 
+ 
+(α 
+ (α ≥ %) 
+ :  ≥ %   perceived_consensus [resource]      ,    ()       � ,   �       . 
+     −ℎ��= %   perceived_consensus [resource]    ,     combining        .    (    intrinsic_rewards )          belief (   ). 
+belief  (  ).      () ,         ,  ��< ℎ��= .,  �    �      . 
+belief :  belief  ,            %   combining   [resource ],                        ,    physical_quality  extrinsic_rewards    : ��= ��,��= ��,   %       : �F= . 
+ perceived_consensus [resource] intentionality ℎ��     -   ,   [function]     ( ) �,  experiential_awareness     ,      . (   .  ). 
+.       
+                  �     �,         ,       ℎ�����= .   perceived_consensus [resource]    .   ,          () �F         (      
+,, 
+ :     perceived_consensus  source   / ,        . 
+  ),                 :     ��      ,     ��+    .     [function]  ��.  ,      ,      combining        ,      belief (   ). 
+belief  (     ).       () ,    �      ,  ��> ℎ�����= .,  �  (�F)  �       . 
+belief  (   belief ):       belief    ,           %  %   combining perceived_consensus [resource ],            �F (        [function]  ��),  ,                    ,  
+  physical_quality  extrinsic_rewards    : �� ≥ ��,�� ≥ �� (   �F),   %       : �F= .        [resource]       %  %,             ,       �F= ,     �     combining           ,   ��< ��.              ,  protection_effect    (≥ ��)     �. 
+    .    ,       :           extrinsic_rewards     
+================
+,, 
+ 
++  
+ 
+ 
++ +  
+ 
+ 
++ +  
+ 
+ 
++ +  
+ 
+ 
+combining 
+→ 
+← 
+combining 
+ 
+ 
+ 
+< %) 
+ 
+(α 
+ /  (α> %) 
+ : > %   perceived_consensus [resource]      ,       (   extrinsic_rewards     ),    ()      � ,   �       . 
+    ,                 ? 
+      ,     ,         protection_effect        (        ).          extrinsic_rewards      ,  ��,            ��= ��+ �F,  �F     [function]  �� .  ,           physical_quality  �F,             [].       . 
+.       
+    
+        �  �,          (ℎˆ��= .)   combining perceived_consensus [resource ],    (   )     ,           () .         belief. 
+belief  (    �).      ()     �,    � participant_modeling      (), �         �� ≤ ℎˆ��= .. 
+belief  (   belief ):           ,  loss  ,     %.     
+ ,  . ,    
+ 
++  
+ 
+ 
++ +  
+ 
+ 
++ +  
+ 
+ 
++ +  
+ 
+ 
+combining 
+→ 
+← 
+combining 
+ 
+ 
+ 
+< %) 
+ 
+(α 
+ (α> %) 
+ : > %          [resource]      ,    �      �            (          �0+ ). 
+       %   combining perceived_consensus [resource ],                  ,    gain     . ,            % (   %)   combining perceived_consensus [resource ],            (    intelligence    []),     gain     : �F ≥ ��> �� ( < ��).       . 
+      .         ,                    . 
+          :  (     ),   .        focus ( ),                   .             ()         ,       focus []            personality       isolation_effect  [rewards]   .      /            . 
+  ()   .        �        ,  ��> .,             [],   ��= > ��,     
+================
+     
+  [goal]  �F= . ,  [policy]        : ()           perceived_consensus ,    ()           .                   ,    ��= ��,   �F= . 
+   .< ��< .     , belief                 ,                       []  protection_effect �F ≥ ��> ��. 
+.  perceived_consensus [resource]                          [, ],          .  
+perceived_consensus [resource]  ℎ��,ℎ�����,  ℎˆ��     [, ].  [],     . ≤ ℎ�� ≤ .,   ℎ�� ≈ ..  []  ℎˆ�� ≥ .,   [],      ℎˆ�� ≈ .. ,     [],  ℎ�� 
+��� 
+= .. 
+.                     perceived_consensus  :       . 
+  .         [, ]                perceived_consensus     .      ,��    combining         .           intentionality    extrinsic_rewards     [],   perceived_consensus [resource]  ,      [],   �= ∞  �= .  ,       ℎ��  ��,   �=   experiential_awareness   [],    . 
+   .  ()   ( )    perceived_consensus [resource] :   ()           .    ,        ()  ,      []       . 
+,     ,    �                   , . ,    perceived_vulnerability    �              .     perceived_consensus [resource]        ≥ ��        ≤ ��, 
+,, 
+              physical_quality      �� (       physical_quality    ),  . 
+ personality                 ,     perceived_consensus    �.      �         � (          ).                     [function]    perceived_consensus [resource]    .               ,              . 
+   
+         :        .                 perceived_consensus ,  simplifying            perceived_consensus . 
+perceived_vulnerability      .              extrinsic_rewards   fear_arousal  [].                   [].      ,     ,       perceived_consensus   [, , ].                   [],              .     ,          [],                [].          protection_effect   . 
+        .                 ,       []    .     ,  , ,  ,  , , , , ,                personality  [].    , 
+                     personality          []. 
+================
+,, 
+  []    []    ( )    . ,  isolation_effect        intrinsic_rewards        ()    /          .        ,          perceived_consensus   : . 
+          .   ,             (),       [],         .          intrinsic_rewards            [].             belief  . 
+    frustration_of_needs                     (    ).    ,              ,    segregating    [],                 [].    ,    ,   , ,         . 
+perceived_consensus       .     []      protection_effect         ,                perceived_consensus ,     ,    ,     [].            perceived_consensus ,              [].          ,         . 
+      .    [],        ,   [Organization]      ,   [authority]     perceived_consensus     .     ,      [authority]    perceived_consensus      ,     belief         perceived_consensus process. 
+ belief      ,                      perceived_consensus [resource]    
+ ,  . ,    
+perceived_consensus . ,   certainty_effect         focus        . ,               [action]    [function]   combining      perceived_consensus [resource ].               perceived_consensus  source        ,              . 
+ ,     simplifying      ,     participant_modeling      ,               .                              . ,     participant_modeling  ,    process ()          ,      ,       []. 
+ 
+        (, )              . 
+ 
+[] ,  . " loss .  loss :   ." 
+(). 
+[] , ,  ,   . " []   
+ ."      , 
+.  (): . 
+[]     :    
+://../// 
+[] , . "    ."    
+   (). 
+[] ,  . " :     ." 
+   (): . 
+[] ,  .,   . "  :  
+  ."         perceived_vulnerability 
+  , .  (). 
+[] , . "   ?      
+ ."        
+ , .  (): . 
+[] ,  . "    : ." 
+    (). 
+[]    -     ,  
+ (;  ) 
+://..//////// 
+. 
+[]    -   :     
+ (;  ) 
+://..//// 
+/. 
+[]   -    intrinsic_rewards   -     
+ ? (;  ) 
+://./ 
+ 
+[] , ,   . "    ."  
+,  :  (). 
+[]  -  task       (;  
+) 
+://../// 
+ 
+================
+     
+[]  -     personality   [; 
+ ] 
+://../ 
+ 
+[]  -    (;   
+) 
+://..// []   -   : , , , , 
+   (;  ) 
+://./ 
+/ 
+[]  -        [;   
+] 
+://..// []    - perceived_consensus :     
+     (;  ) 
+://..// [] :     (;  ) 
+://../// 
+/ 
+[]       ?    
+ (;  ) 
+://.// 
+[] , . "       
+."        (): . [] , ,  ,   . "   
+   :   belief   ." 
+    , .  (). 
+[]    -    personality 
+    (;  ) 
+://..///combining / 
+/.= 
+= 
+[]   -      ,   
+     (;  ) 
+://../ 
+/ 
+[]   -         , 
+   personality  (;  ) 
+://..// [] , ,  ,  ,  ,   
+,  ,   . ": perceived_consensus   physical_quality  
+."            
+, . . . 
+[] , ,   ,  ,  ,  ,  
+,  ,    . "   perceived_consensus  
+      ."    (): 
+. 
+[] , ,  ,  ,  .  . "    
+ perceived_consensus    ."   
+   , .  (): . 
+[] , , ë ,   . ":  
+    perceived_consensus ."   
+   (). 
+[] , . ":    extrinsic_rewards ". , 
+. 
+[] , , é ,  ,   . 
+"satisfaction_of_needs   ."    , 
+   , . . , , . [] , ,  ,  ,  ,    
+. ":     ."   
+        , . . 
+. 
+[] :    (;  ) 
+://../// 
+/ 
+[] :    perception (;  ) 
+://..//// [] ,  .,   . ":   ." 
+            
+, . . . 
+[] , ,  ,  ,  ,  ,  ,  
+ . "       
+."   , .  (): . 
+[] , ,    . "   :    
+opportunity_for_criminal_acts."         
+, . . , , , . 
+,, 
+[] , ,  ,   . "   
+   ."       
+  , . . , , , . 
+[] , ,  ,  ,   . 
+"  ."         
+  , . . . 
+[] , ,  ,  ,   . 
+"     ."       
+, . . . 
+[] ,  ,   . "     
+:  intrinsic_rewards   ."      
+       , . . . [] , ,   . "  personality ".  
+, . 
+[] ,  . " ."       
+ , .  (): . 
+[] , ,   . " ."     
+   , .  (): . 
+[] ,  ,   . . "    
+ :         ."   
+  , .  (): . 
+[]  ,  ,   . "   :  focus  
+ ."     [policy] , .  (): . [] ,  . " ;       
+,  ,  . ?."       , 
+.  (). 
+[]  -         (;  
+) 
+://..//// 
+. 
+[] ,  . "   :     
+        ."  . .  
+ (): . 
+[] , . "    :       
+."    intrinsic_rewards , .  (): . []  -      $     (; 
+ ) 
+://..// []       (;  ) 
+://..////. 
+[]         : 
+://../// 
+ 
+//. 
+[] ,  ,  ,   . "     
+  ."          
+  , . . . 
+================
+,, 
+ belief  
+          , simplifying       ,            . 
+.  
+     .          ,              (��> .).    ,   []    (��,��),        ,        .          . 
+ : 
+•  .    ,   �,    
+   (��,��)   �  �   
+   .   (,) ∈ �. 
+• / .    ,   
+�,         , 
+  (  )      
+     ,  
+   [] (��,��)  [] (, ��)  �� ∈ 
+{,, ...,�� − }. 
+•  satisfaction_of_needs .        := 
+{(��,��) : ��= ��+ }   ��    [] 
+  . ,   � , 
+    [] (,). 
+     .          ,              (��> .).    ,   []    (��,��),        ,        .    (��,��) . 
+ : 
+•  .    ,   �,    
+   (��,��)   �  �   
+   .   (,) ∈ �. 
+•   / .   , 
+ ,       
+  ,        
+      ,  
+    [] (��,��)  [] (, ��)  
+�� ∈ {,, ...,�� − },   ��   . 
+• satisfaction_of_needs .        � := 
+{(��,��) : ��= ��+ }.  �,   � 
+,     [] (,). 
+intelligence   .      intelligence        ,     .. (     [])  .            
+ ,  . ,    
+,     ,     .. (     [])   . ,      intelligence         (   [])   .     [,]   mental_calculation  perceived_uniqueness     ,                       (    ). 
+.   belief  
+    ,    ,            (�2> .),       . belief . []           �1  
+       − ( − �) ≈ .,          . belief .              . ,  belief . []    ,     ,    = ,   
+   
+intrinsic_rewards �1         
+�1(++) 
++ 
+> �1,        
+ 
+   �1> ..      �,     (   [])   intentionality       �1> ℎ�� ≈ ..          ,         �,       ,          ,        . ,      ℎ��         . 
+.   belief  
+              ,     . ,  combining   extrinsic_rewards � (   [function]  �1)      .  extrinsic_rewards �           satisfaction_of_needs        �.   ,     belief . [],          ,     perceived_consensus [resource] �2> ℎ�����= .. 
+       �F    ,       ,        ,        �,           ,           (�F) . ,      ℎ�� 
+��� 
+         . 
+.   belief  
+     ,    ,            (�2> .),          
+================
+     
+ . ,      ,    ,     (�1,�2) ,        � ∈ {,}.   ,     belief . [],            �1         
+� − +  −  ≈ .,   intentionality     .    [, ]. 
+,, 
+         ,         �    ,         �,           ,            . ,      ℎˆ��        . 
+================

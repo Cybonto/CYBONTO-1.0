@@ -1,0 +1,492 @@
+..   
+  
+   ,   ,    
+@... 
+.   
+.     
+  focus 
+   
+ 
+  
+     
+  
+     ,      
+    () 
+  
+       , 
+ ,  
+   (.) 
+  
+ 
+     , ,  
+learning        (..) 
+ 
+ 
+ 
+  ,     
+ 
+ 
+ 
+.   
+  focus 
+  ,    
+ 
+  extrinsic_rewards 
+ 
+     
+       focus 
+================
+      
+ 
+    &       
+  
+   
+.   
+ 
+       
+     
+      
+ ,  
+intrinsic_rewards   
+.   
+.  
+. ..  
+      :    ,  . , . : .  & .   
+.     
+ 
+.  , "         [action] :    
+     [] ".  , ( ) 
+.  , "         -xxx  
+      . ".    () () 
+================
+.  , ",    :    
+         -1951"     
+  () () 
+.  , "     parent-child_experience : 
+       ".   
+   (),  ( (. 
+.  , "       : 
+,   ".     , 
+ [policy]    (),  (( 
+.  , "          
+  ".      ,  
+     (),  () 
+   
+ 
+.  ,   ,   intrinsic_rewards : ,  , 
+          . 
+ . () 
+   
+. segregating   :        
+     . 
+.      :  ,     perception. .       -       
+ . 
+.    :        
+   . 
+.          
+ 
+ 
+ 
+   
+evaluating /belief 
+================
+ 
+     
+  
+,  
+   . 
+ 
+   
+  
+      
+.   intelligence  
+. personality  
+ 
+      
+  / 
+role 
+  
+   ,    :          
+ "          [action] :             []"  
+  
+() 
+  
+  
+      
+  
+ 
+" :    " 
+() 
+  
+      
+   
+ 
+  ,  
+ : 
+     
+  
+() 
+  
+  [] perceived_responsibility :   
+   ,  
+  [] perceived_responsibility       
+  
+================
+  
+   
+  
+        
+ 
+  
+    
+   
+  
+,        
+     
+ 
+ :  
+  
+intrinsic_rewards           
+   
+  
+          
+   
+  
+history,   :  history  personality       ..   
+  
+    : 
+  
+  
+ 
+() 
+       ? 
+  
+() 
+      
+  
+     parent-child_experience 
+  
+       
+       :        ( )       
+  
+     parent-child_experience :            -1951 
+  
+  , 
+  
+     
+() 
+    
+ :       
+    :  
+  
+     
+================
+perceived_vulnerability -     
+  
+   :     
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+  :        : 
+, 
+ 
+ 
+ 
+ 
+     
+  
+ 
+  
+   : 
+ , 
+ 
+,  
+. 
+  
+  
+  : , "      
+ 
+ 
+       -1951 
+segregating   :                
+  
+      :     
+  
+() 
+      : ,     
+  
+   :            
+   
+() 
+       parent-child_experience  
+  
+() 
+================
+  
+:     :     
+ ?     & ,          
+  
+  
+  
+ 
+arousal 
+  ,  
+      : 
+  
+() 
+   
+. [Organization]     
+ 
+  
+  
+ 
+ 
+..   
+   
+ 
+[Organization]  
+& history 
+  , 
+ 
+  :   
+   role / 
+role  / 
+ 
+     history   
+     
+     
+     
+        
+      
+..   
+   
+  
+  
+ 
+        
+ 
+..    
+:  : 
+  
+. 
+     
+   
+                       
+================
+.     
+ 
+   
+   
+/ 
+  
+  
+   ,          
+           
+  
+  
+  ,    
+        
+     
+  
+ 
+                ,  
+ , 
+    
+     
+ 
+   
+    
+  
+          
+     
+  
+         .  
+ " 
+ " 
+    :         
+  
+   
+       ,    
+segregating   :         
+  
+  
+      
+  
+ ,   :     
+================
+    
+ 
+ 
+   -    
+  ( )   
+     
+  
+ 
+ 
+  ,      
+  , extrinsic_rewards      
+       :  ,    #  
+  
+       
+   , personality   
+ 
+         [action] :         [] 
+  
+  
+   
+        
+  ,   :      
+  
+  
+     
+          
+         [action] :         [] 
+  
+  
+       
+    
+  
+         [action] :         [] 
+  
+.  
+================
+     
+ 
+   
+   
+ 
+// 
+   
+/ learning /   () 
+ 
+                 
+  
+ 
+ 
+     
+  
+ 
+    .    
+   focus     
+ 
+,     
+        
+    
+ 
+.   
+.   
+role   
+ 
+ 
+ /  combining 
+ 
+ 
+    
+,  :  
+    
+    
+   
+  
+  
+================
+ (,$) 
+ 
+ 
+    
+   :  
+   
+    
+   
+  
+(,$) 
+  
+. ,    
+ 
+   
+ 
+ 
+     , ,  
+        ,        (,$) 
+
+     
+ 
+        .     learning    (,$) 
+ 
++  
+  +    :      . 
+ 
+ 
+         . 
+ 
+ (    ) 
+ extrinsic_rewards        gain       (,$) 
+ 
+     
+           (,$) 
+================
+ 
+ ä        
+   constraint - , ,  "  ,  ä        (,$) 
+ 
+       
+     ,  intrinsic_rewards   (,$) 
+ 
+    &       
+   (,$) 
+ 
+  
+    "  "  possibility_effect     
+ 
+     
+        
+.  
+ 
+   
+role 
+  . 
+ 
+ 
+ 
+:      "    ".  , [empowerment]    focus   .       .   
+  appraisal 
+        
+  &  
+  
+    , "      , , 
+" 
+ 
+        .  , .  ,   , "       
+." 
+================
+ 
+        .  ,   ,  
+ "     ." 
+.  [experience] 
+ 
+   
+role 
+  
+       
+,              
+ 
+   , 
+,  
+, judging []             []       . 
+  
+   , , . 
+,   , ,    
+  
+  ,   ,  
+  
+  
+  intrinsic_rewards, ,  
+ - "        " 
+ 
+     [empowerment] 
+       . 
+================

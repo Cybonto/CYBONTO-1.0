@@ -1,0 +1,1802 @@
+  
+ 
+    perceived_vulnerability : ﬁ,   intrinsic_rewards, ,  ,   
+   
+,* 
+,   
+,*, .   ,   ,   
+,     
+,    
+ 
+   
+ 
+ 
+ 
+ 
+ 
+* 
+      (),     ,     ,    ,   , ; @.. (...); ..@.. (..); @.. (..) 
+  ,  ,  , ; @..      ,   , 
+ ,  , ; @.. 
+ ,  , ; @. 
+: @. (...-xxx.); @.. (..) 
+:   ; :   ; :   
+ 
+isolation_effect :  perceived_vulnerability              .         , ,  ,              .     perceived_vulnerability            .        personality   . ,    ,       ,    ,     fear_arousal  persistence ,      focus             , ,      .           , , , ,  ﬁ,   ,                  perceived_vulnerability ,     ,  intrinsic_rewards, ,  ,  appraisal .               .  gain,              behavior_control-ability . 
+: ;  ﬁ;  ;  perceived_vulnerability ;  ;  
+.  
+    participant_modeling  ﬁ role   .  gain   ,     ,      .           , ,    [Organization ].       perceived_vulnerability       [].    ﬂ  loss   , ﬁ ,  personality   .       perceived_vulnerability          (%)          . , %             [].    ,     
+. . , , ; :./ .. // 
+================
+. . , ,  
+   
+     ;               []. ,     intrinsic_rewards,   ﬁ,  ,    ,         , ,  possibility_effect  . 
+ protection_effect   ,      perceived_vulnerability             . ,   perceived_vulnerability ﬁ    . ,                persistence . ,       perceived_vulnerability     [].           [knowledge]   perceived_vulnerability   possibility_effect loss  . 
+ focus      perceived_vulnerability                 ,    ,   ,  ,  ﬁ,   ,   ,        ,     . ,     focus , ﬁ,        perceived_vulnerability   , ,    ﬁ         ;  ﬁ       focus,        .             behavior [], intrinsic_rewards,       ,  ,  appraisal .   ,       :
+ 
+  ﬁ             perceived_vulnerability  . 
+judging   perceived_vulnerability         ﬁ.       ﬁ   . 
+. .          . 
+, ,     
+   
+ . .  . . 
+.   
+          .      , .., [].   . []       perceived_vulnerability ; ,              .   . []    . []   Exfiltration   . ,  .   . []        Exfiltration         .  gain,   []  []   personality      behavior     . ,   . []          . ,   . []    focus  [modeling ], ,   intrinsic_rewards        vulnerabilities        ()   .  gain, .   . []       intrinsic_rewards         intrinsic_rewards. , .   . []                       : , ,   . 
+                   . ,       ,          perceived_vulnerability         , ,      . ,  focus  simplifying          . ,              . 
+================
+. . , ,  
+   
+.   
+          .      , .., [].   . []       perceived_vulnerability ; ,              .   . []    . []   ﬁ   . ,  .   . []        ﬁ         .  gain,   []  []   personality      behavior     . ,   . []          . ,   . []    focus  [modeling ], ,   intrinsic_rewards        vulnerabilities        ()   .  gain, .   . []       intrinsic_rewards         intrinsic_rewards. , .   . []                       : , ,   . 
+                   . ,       ,    ﬁ      perceived_vulnerability         , ,      . ,  focus  simplifying    . . , ,     
+        . ,      .     
+       . 
+             .    ﬁ     .   focus       ,     .         .        ﬁ          .   focus       ,     .         . 
+ . . ﬁ   . 
+  . 
+        [],         , process,  . ,    :         [action ].   ,  possibility_effect           .             ,   , ,  ,    ,     , ,   . 
+          .      : ,  , intrinsic_rewards  , ,  ,  appraisal .          . 
+..  
+...  
+ ,      ,   ,      .                   .       ,                  personality ,   ,             [].            [Organization]  /.              ,             techniques         .       
+================
+. . , ,  
+   
+        [],         , process,  . ,    :  ﬁ       [action ].   ,  possibility_effect           .             ,   , ,  ﬁ,    ,     , ,   . 
+          .    ﬁ  : ,  , intrinsic_rewards  , ,  ,  appraisal .          . 
+..  
+...  
+ ,      ,   ,      .              ﬁ     .       ,                  personality ,   ,   ﬁ          [].            [Organization]  /.              ,             techniques   . . , ,     
+     .       ﬁ 
+    loss   [Organization ],           loss   [Organization ],            ,  ,      ,        ,    ,    ,      []. []. 
+       
+             ,   
+      ,    %    .             %    .  ﬁ                  .      Exfiltration,        .      ﬁ,                                           .          , ,   .          , ,     opportunity_for_criminal_acts,        opportunity_for_criminal_acts,       loss   [Organization]       [Organization]         vulnerabilities.    vulnerabilities. 
+ .  .     .. 
+...     
+     : , , ,  .     , ,     ,           . 
+ .   . 
+    ;       [Organization]               [Organization]   []. 
+                  perceived_uniqueness  live_modeling     intentionality []. 
+           loss    perceived_vulnerability   loss   [Organization] [].  combining       perceived_vulnerability       ,   . []                 .       personality perceived_vulnerability          ,     .     . 
+================
+. . , ,     
+   
+ loss   [Organization ],            ,      ,    ,     []. 
+             ,    %    .                   .      Exfiltration,                       .          , ,     opportunity_for_criminal_acts,       loss   [Organization]         vulnerabilities. 
+. . , ,  
+   
+ .   . 
+... ...        
+          : , , ,  .: , , ,  .     , ,        , 
+,     ,        
+ ,           .  . 
+ .  .     .. 
+    ;       [Organization]        ;       [Organization]                [Organization]           [Organization]   [[]].. 
+                         ﬁ        perceived_uniqueness  live_modeling     intentionality    perceived_uniqueness  live_modeling     intentionality [[]].. 
+                  loss     loss    perceived_vulnerability   loss   [Organization]   perceived_vulnerability   loss   [Organization] [[].  combining       ].  combining      perceived_vulnerability       ,  perceived_vulnerability       ,   . [  . []       ]                .                 .       personality perceived_vulnerability          ,     personality perceived_vulnerability          , 
+    .     .. . . , 
+  
+,    
+   . 
+   
+ . .     [    []]. 
+. 
+...  ...   
+ﬁ           ,           ,     ,    [  ,    
+[].    ].    [[]]        .      personality ,       .   
+   personality ,            perception   . ,         
+        perception   . ,      ﬁ            .                .      personality ;       ,         
+  personality ;       ,        ,            loss    participant_modeling    loss  [Organization ].              ,  ,     .                     /           .             loss      [Organization ]. 
+...   
+  ,     [,],       : , ,  ( personality ), ,  .            loss   [Organization]  .          [knowledge]   .            ,           [].   personality          personality             /    [Organization] (..,  personality                  [Organization] ).         (..,   )   (..,   )  [].            [Organization]   .   ,       extrinsic_rewards   [Organization] []. ,             ,       , ,     [,]. 
+             ,    loss  [Organization]            intrinsic_rewards      . 
+================
+. . , ,  
+   
+   ,            loss    participant_modeling    loss  [Organization ].              ,  ,     .                     /           .             loss      [Organization ]. 
+...  ﬁ 
+  ,     [,],  ﬁ  ﬁ   : 
+, ,  ( personality ), ,  .    
+        loss   [Organization]  . 
+         [knowledge]   
+.       ﬁ     ,      
+     [].   personality        
+  personality             / 
+   [Organization] (..,  personality           
+       [Organization] ).         
+(..,   )   (..,   )  [].    
+        [Organization]  ﬁ .   ,    
+   extrinsic_rewards   [Organization] []. ,      
+       ,       
+, ,    ﬁ [,]. 
+             , 
+   loss  [Organization]        . .     intrinsic_rewards ﬁ ﬁ    ., ,     
+   
+ .  .  ﬁ.. 
+...    
+...            ,   
+ ..,     
+            [Organization]  .        ,  ,  ,    ..,     (..,             [Organization]  .    ).      ,                   opportunity_for_criminal_acts . ,   perceived_uniqueness  ,               (..,           ).        loss   .                      opportunity_for_criminal_acts                  [activity] ..   perceived_uniqueness  ,                      (perceived_vulnerability   ﬁ), ﬁ   loss   .                          [activity ].         (perceived_vulnerability   ),  (perceived_vulnerability   ),  loss   (    )   []. 
+...    
+     ,       [,,]   : ,  ,  ,  combining,   .                [Organization]   .                      .    ,            .     , ,     .   ,               .   combining                  .   combining      , , ,   protection_effect.         [Organization]         . ,          .               [Organization] [,,]. 
+    ,               ,              perceived_vulnerability    [knowledge]   [Organization]    . 
+================
+. . , ,  
+   
+(perceived_vulnerability   ),  loss   (    )   []. 
+...    
+     ,       [,,]   
+: ,  ,  ,  combining,   .  ﬁ 
+             [Organization]   .                
+      .    ,            .     , ,    
+ .   ,           
+    .   combining       
+           .   combining  
+   , , ,   protection_effect.         
+[Organization]         . ,    
+      .        
+       [Organization] [,,]. 
+    ,              
+ ,             perceived_vulnerability . .    [knowledge]   [Organization]    ., ,        
+ .  .    .. 
+..  perceived_vulnerability  
+..  perceived_vulnerability  
+          perceived_vulnerability .         personality                  perceived_vulnerability .         personality          .        ,         .          intrinsic_rewards        .  ,                      intrinsic_rewards ,  intrinsic_rewards        .                  ,  appraisal . 
+  intrinsic_rewards,  ,  appraisal . 
+...   
+...   
+  
+ .   . [] ﬁ ﬁ        .   
+ (), protection_effect   (),     ()   .   . []          .    (), protection_effect  .   [  (),     ()  ]             .   behavior ;:    ,    ﬁ,   []           behavior ;:    ,    ,          [capability]       , . , .   . []               . ,   []            belief,  () ,   intrinsic_rewards,   ,   , . ,   []    ,    .  []  []              ,    . []        ,    . []                  ,            .   . []  .   . []         behavior          ()    , . ,   . [,]             ,        intrinsic_rewards.   []    [resource]     ,  ,         . [],  .    []    belief          [capability]  combining possibility_effect  ,    [],   .    , ,  [modeling]    .    []               ,           behavior    ,    process        
+================
+. . , ,  
+   
+       [capability]       , . , .   . []               ﬁ. ,   []            belief,  () ,   intrinsic_rewards,   ,   , . ,   []    ,    .  []  []              ,    . []        ,    . []                  ,            .   . []  .   . []         behavior          ()    , . ,   . [,]             ,        intrinsic_rewards.   []    [resource]     ,  ,         . [],  .    []    belief          [capability]  combining possibility_effect  ,    [],   .    ﬁ, ,  [modeling]    .    []               ,           behavior    ,    process           [],          [].        history     . ,  combining     ,   . []     techniques. 
+ [activity] behavior 
+        [activity] ,  ,          []    intrinsic_rewards.    []             ;    ()        .           ;     ﬁ techniques   belief    . [].   . []           . .   . []     ()   [modeling] perception      perceived_vulnerability .        perception   , appraisal,        behavior .       personality  .   . []     ,           ,  protection_effect    combining     intrinsic_rewards.   . []          , ,     () ,      ,     role   protection_effect .  ,          participant_modeling         . 
+                ,    intrinsic_rewards,    behavior   [].    intrinsic_rewards []   ,      (..,     ) []    .    [,],           ( ) [],     ﬁ    
+================
+. . , ,  
+   
+     [].     .,  intelligence        [].                     []. personality   []           belief         [].       [],    [], personality  ﬁ          [],    [],         []. 
+      ,   , ,   .  ,    []   perceived_vulnerability    behavior        belief.   .,    .,    . []  personality         ,  task ,     , .   []          ,   , , , ﬁ,            intrinsic_rewards. 
+       ﬁ        . []   ,          [],  protection_effect     simplifying  [],   [],   intrinsic_rewards   [].        ﬁ [],   [function] [],    ,     () []. perceived_consensus          [],      [],    [],    [],   [],    perception [].   intrinsic_rewards     ()  []  ,     ﬂ       [].  perception   ﬁ      process    [].   ﬁ perception              []. ,     loss        [],     ﬁ-grained  ﬁ      [].  process  [],    belief  () [], [knowledge]      [],    process [],      , , perceived_vulnerability,    []   . 
+  . []        ,    . []    perception        .   perceived_vulnerability ,    [],   . [],    . []              ,    intrinsic_rewards ,      , .   []        appraisal ()    ,       ,       ,     ,      ()      [resource] , . 
+   []          ,  ﬁ          .   . []           personality    personality ,  ﬁ  . []                       (  ),      perceived_responsibility  . 
+  . []  , ,         ,    . []     .  focus    . []        
+================
+. . , ,  
+   
+      .  gain,   . []        ,  ,               .    []      ()    .                 .    []  ﬁ-sharing   [policy]     behavior   ,    ,  ﬁ  . []   .   . []   behavior        intelligence     .   , ü   []       combining           ,    . []     . 
+  
+   behavior   .   . []   ﬁ                 , ,   . ,    []              combining     . ,    []   []               .   . []           impulsive_effect perception,   , fear_arousal,  frustration_of_needs.       . []   , ,               () . 
+ gain,   . []            : motivation, ,  [capability ].   . []   behavior   physical_quality  [personality_trait] belief            combining belief     belief. ,  []      behavior         ,    . []    [action] . 
+  
+  . []           ﬁ [modeling]  .  ﬁ       ,       .  focus    . []              loss     .   . []           perceived_vulnerability    . , .   . []            ,   , ,   . 
+  
+       behavior        . á []    perceived_vulnerability ,                 perception.       (&)       perceived_vulnerability appraisal () .   . []   [modeling]             perceived_vulnerability   techniques      intentionality.   . []   perception      techniques     .    techniques     combining     ﬁ. combining    ,   . []     techniques   
+================
+. . , ,  
+   
+     ( ),    ,     . ,   . []     ,    behavior,  ,   ,   intrinsic_rewards.    []   perceived_vulnerability   ()    [knowledge]             .   . []  , personality ,     ﬁ        .   . []        , [activity] ,  , [resource] ,     .     ,       ,     , , , ,   . 
+... intrinsic_rewards    
+ intrinsic_rewards       perceived_vulnerability .  .   intrinsic_rewards             .        ﬁ         ﬁ-based. ,      perceived_vulnerability           ,  ﬁ,   intrinsic_rewards. ,       ,      persistence ,            intrinsic_rewards      .         personality   ,              . 
+ . intrinsic_rewards . 
+techniques   
+  
+personality     perceived_vulnerability           [].   isolation_effect  ﬁ    possibility_effect   [modeling]  perceived_vulnerability            , 
+,   []. 
+           , 
+        , 
+  [experience]   [knowledge]    
+, ,  ﬁ.  mastery_experience   
+    
+ [].       
+perceived_vulnerability   ﬁ   
+    .  ,   
+    behavior  ,      
+  []. 
+protection_effect   () 
+                  ﬁ  
+  ,       personality .     ﬁ     ﬁ  [].                  
+  .  gain, 
+        ﬁ   protection_effect  [].   ﬁ          
+ [,]. 
+     ﬁ        ,             [].   ,   
+ . 
+     
+    
+ .    . 
+================
+. . , ,  
+   
+ . . 
+techniques   
+  protection_effect   
+() 
+  techniques     
+           
+ [,].     [action]   ,        [action] . ,       ,   [action]     
+  []. 
+  perception    
+      .  ,          ,         .   
+,    
+  [,] 
+  () 
+     personality   
+   [].     persistence. 
+, 
+,   personality 
+  . 
+ participant_modeling  . 
+ 
+   ﬁ personality      
+[,]. 
+     
+   ()     ﬁ    []. 
+    combining  
+ (        ). ,  ,   ﬁ (..,    ,        
+  ). 
+     
+gain. 
+      ,          .      
+  
+ . 
+    
+  . 
+     
+  
+          [] [].          ,      
+,    
+   perception  
+ .   
+ behavior,                 .  
+   learning  
+   experiential_awareness  ,     perceived_vulnerability 
+     
+ []. 
+  loss         . 
+   
+   ﬁ,    ,   ﬁ 
+         perceived_responsibility     ﬁ .     possibility_effect  
+   
+,     
+   []. 
+           perceived_vulnerability,     
+     
+ []. 
+      [knowledge]                    ﬁ.   
+      
+ . 
+================
+. . , ,  
+   
+ . . 
+techniques   
+    
+          
+.      
+    .     techniques    [,].  ,   
+      
+  appraisal 
+ []. 
+   perceived_vulnerability      
+      perception,  intelligence  combining       intelligence    
+ []. 
+      
+       
+ ,    ,    [experience]   
+[knowledge]    
+, ,  ﬁ.  mastery_experience   
+    
+ []. 
+    
+    perception, 
+   behavior_control-ability   
+  ﬁ  
+ []. ,             
+ personality   
+ process   .     [modeling] 
+    personality 
+perceived_vulnerability .        ,        learning   [experience] [].               ,            behavior 
+ []. 
+  . 
+    . 
+   personality         [modeling]            . 
+    
+       
+     
+,             [action]  [].    intrinsic_rewards,      (),          
+ []. 
+...  
+   ,               perceived_vulnerability    ,           .         : 
+ . . 
+.   
+: , , , , ,   
+: , , , , , , , , 
+, ,   [,,,,]  : , , , ,  [activity] (  ) 
+: , , , , ﬁ,   
+: , , , ,  [activity] 
+(combining /isolation_effect) 
+        
+[,,,]    
+ﬁ       , , 
+, , ,   
+    () 
+[]   , , process, ,  ﬁ  
+================
+. . , ,  
+   
+ . . 
+.   
+[]  
+     , [] 
+(  ?)  ,  ,  
+  ,  ,    
+     . 
+: ,  / , 
+  (      ), 
+  
+: ,  // 
+,    ,   
+ : ,  , , [] 
+      ,  ,    
+()  :  /, 
+ (..,   ),  ,  
+,    
+: , , , ,  
+      
+: ,  ,  extrinsic_rewards, 
+ ,   
+   Collection       perceived_vulnerability       .              .        ,    history, , ﬁ  ,  ,  ,   . 
+   ().      Collection                   [] .      ,   ,  Command_Injection ,    ﬁ      . 
+/.    appraisal           .              . ,          perceived_vulnerability  ,  ""         . 
+ .        ,               [Organization ].    ,  ﬁ        ,     .   ,           ,        , ..,           . ,            . 
+ .              live_modeling      intelligence .         ,   ,     . 
+.           []  [].           ,     ,    , ﬁ  , ,  ,  personality  . 
+.                        (..,   ).                            (.., , ,  ,  ,  ,  ),       personality  []. 
+================
+. . , ,  
+   
+... appraisal    perceived_vulnerability  
+ ﬁ        perceived_vulnerability  ,        .               . 
+ . appraisal . 
+    
+ 
+= 
+ 
++ 
+            
+ ,      
+. 
+[,,,,,, ,,,,,, 
+,,] 
+ certainty_effect evaluating 
+() 
+= 
+ 
++ 
+,        a_memory,  ﬁ      perceived_vulnerability       
+ ﬁ. 
+[,,,,,, ,,,,,, ,,,, ,,,,, 
+,,] 
+  evaluating 
+() 
+= 
+ 
++ 
+   ﬁ,     
+      combining   
+ . 
+[,] 
+ certainty_effect evaluating 
+() 
+= 
+ 
++ 
+               ﬁ      combining    
+. 
+[,,,,,, ,,,,,,, ,,,, 
+,,] 
+  evaluating 
+() 
+= 
+ 
++ 
+               
+combining  ﬁ   
+ . 
+[,,] 
+ 
+ = . 
+.a_memory 
++a_memory 
+   ,         
+. 
+[,,,,, ,,,] 
+ 
+= 
++ +++ 
+        certainty_effect     ﬁ.    
+      ﬁ. 
+[,,,,,, ,,,,, ,,,,, 
+] 
+   
+               .                     . 
+[,,,,, ,,,,, ,,,,, 
+] 
+  
+         ﬁ 
+task    ﬁ. 
+[] 
+:  certainty_effect, :  , :  ,  :  certainty_effect.           ﬁ   . 
+================
+. . , ,     
+   
+     
+  task   
+ . 
+:  certainty_effect, :  , :  ,  :  certainty_effect.              . 
+. . , ,  
+ .    . 
+   
+ process 
+  . 
+ﬁ   . perceived_vulnerability  
+ 
+      appraisal 
+.process 
+ 
+      perceived_vulnerability  
+     ﬁ.. 
+      ﬁ.     
+      ﬁ.. 
+ 
+     
+     ﬁ.. 
+...  ...   
+    ,      .  ﬁ      ,      .    ,       ﬁ    , ,   ,           , ,  .           .    .           .   ,  ﬁ           ,                       .               
+ 
+               techniques .                  ﬁ .            techniques      .           perceived_vulnerability ,                   perceived_vulnerability ,           ,           .    ,           . 
+% 
+% 
+   
+   
+% 
+ 
+ . .  . . 
+. .  
+     focus             focus           intrinsic_rewards   ﬁ   perceived_vulnerability.      focus   focus   intrinsic_rewards      perceived_vulnerability.      focus   focus        .              .             behavior, intrinsic_rewards,   ,    , appraisal , , behavior, intrinsic_rewards,   ,    , appraisal , ,   . 
+. 
+             
+                        . ,             . ,  ,    ,    perception.     " ,"     ,  intrinsic_rewards          .    ,                   . , ,  ,   ,       perceived_vulnerability  .    physical_quality       , ,   ; behavior ;   . 
+================
+. . , ,     
+   
+ ,    ,    perception.     " ,"     ,  intrinsic_rewards          .    ,                   . , ,  ,   ,       perceived_vulnerability  .    physical_quality       . ., ,   , ,  
+; behavior ;   . 
+   
+..  
+..            ; 
+      ,        .           ;       ,        . 
+...  
+ . .  . . 
+...          ,  belief                  [         ,  belief       ].         perceived_vulnerability      perception,             [activity]                [].       , ,     . ,       perceived_vulnerability      perception,  
+     .                   [activity]     [    ]. ,   , 
+,     . ,              belief,         .         [     ].   ,   certainty_effect      perceived_vulnerability        []. ,                .     belief,           [].   ,   certainty_effect      perceived_vulnerability ...  perceived_vulnerability  
+        . 
+   ...  perceived_vulnerability  
+          ,     ﬁ   persistence          [,,].      perceived_vulnerability            perceived_vulnerability        ,       . ,              persistence          [,,].      ﬁ   . ,           perceived_vulnerability            perceived_vulnerability   ,     []. 
+    
+  gain      perceived_vulnerability ,            ,       .           ,      ﬁ   
+================
+. . , ,  
+   
+  ﬁ     .   ,             ,        [,,]. 
+         
+    ,     ,      Careto  .         simplifying  ﬂ    ,            []. 
+...   
+  
+          gain    perception   .   gain,    [activity]                    [,,].            behavior ,            [].  intrinsic_rewards                    []. 
+   perceived_vulnerability  
+        ,        perceived_vulnerability . ,  impulsive_effect        combining ﬁ . ,            .          personality     , ,       . ,  ,           [,,,].             ,     segregating  , ﬁ-length ,       . ,        perceived_vulnerability      []. 
+...    behavior 
+      perceived_vulnerability                [,,].                  judging  perceived_vulnerability .                    []. ,      ,                       . ,       . 
+...   
+  perceived_vulnerability        ,         [].       ,           protection_effect          . ,          ,      frustration_of_needs   [].               ,    participant_modeling  role   . ,         ,    "   " [circumstances] []. 
+================
+. . , ,  
+   
+...    
+            perception,       ﬁ . ,            . ,             process       ﬁ   perceived_vulnerability .   ,  perception       [,,,]. 
+...  [policy] 
+ ,   [knowledge]      [knowledge ]. ,         ,       [].          intrinsic_rewards       ,   , ,  ,    task  belief        [Organization ].   ,               []. ,        , personality, ,    []. ,         perceived_vulnerability      opportunity_for_criminal_acts    []. 
+     [policy] 
+    intrinsic_rewards                    . personality ,        (..,     [activity]    ),    (..,     ),         (..,   ),   ,    opportunity_for_criminal_acts     [,]. 
+      
+    ,      personality        . ,                   .                   []. 
+...    perceived_vulnerability  
+       personality   task    . ,      participant_modeling  . ,    ,   ﬁ, ,   ,      [,,,]. ,   internalization   .  ,               personality .             . ,            ,     behavior           [,,,]. 
+...    
+            . ,          ,     .  loss         [activity]      , ,     ,       [action ]. ,         []. 
+================
+. . , ,  
+   
+...   perception   
+    focus        [].    ﬁ       ﬁ    .             ; ,        perception.       personality   intentionality       [].             ,             source .   ,    focus     perceived_vulnerability     .   focus              personality   intentionality     . 
+...     
+      ()     personality .        perceived_vulnerability      [].  participant_modeling   role   ,             . ,             perception    [].        ,            [knowledge]    .        ,        ,      , ,     ,     .       ()    opportunity_for_criminal_acts               ﬂ    []. 
+..  
+. .             , ,           . 
+ . . 
+ . . 
+...  
+  perceived_vulnerability    ,      a_memory evaluating       [].         possibility_effect perception   . ,                  [].              personality ,        []     (),        behavior   . 
+...  
+                 [].                  ,        [].        ,          ,       .                  personality     []. ,          [activity]                   []. 
+...   
+ ,   focus experiential_awareness                       ,     . ,  personality    perceived_vulnerability         personality  [].       , 
+================
+. . , ,  
+   
+...  
+  perceived_vulnerability    ,      a_memory evaluating  ﬁ     [].         possibility_effect perception   . ,                  [].              personality ,        []     (),        behavior   . 
+...  
+                 [].        ﬁ          ,        [].        ,          ,       .                  personality     []. ,          [activity]                ﬁ   []. 
+...   
+ ,   focus experiential_awareness                       ,     . ,  personality    perceived_vulnerability         personality  [].     ﬁ  ,        protection_effect      . ,    ,     ,      intrinsic_rewards,   . 
+...  
+    intrinsic_rewards        ,       .                       []. combining              , personality  ,  ,     [].    ,    ﬁ,         (), personality " "          ﬂ        ,      ,  ,          [].   . []          ,    [capability]      task              . , combining  judging                       . 
+... appraisal   
+,         appraisal   perceived_vulnerability   []. ,             task;        appraisal ,   , a_memory, ,  , . ,  focus            appraisal   perceived_vulnerability           
+================
+. . , ,  
+   
+mental_calculation   .      appraisal ,              .                 ,                [,]. 
+...   
+           ,   , ,  . ,              perceived_vulnerability  . ,   intrinsic_rewards     techniques       ,     (..,   ,  ,  perception  ) []. 
+...   
+             ,       ""  "" .  ,    (   )    ,             []. 
+...  
+         ,     ,    personality   ,  , possibility_effect    ,   .       ,    , ,  ,       perceived_vulnerability     []. 
+.  
+            fear_arousal     .        ﬁ,     ,         persistence . , personality  satisfaction_of_needs    perceived_vulnerability      .           personality   ﬁ          .              ,    ,    perceived_vulnerability   . ﬁ            ﬁ     ,            ﬁ   .  gain,      perceived_vulnerability ,      intrinsic_rewards    ,  .                  perceived_vulnerability .                ,       . 
+ : , ,   ...-xxx.,  ..;   ﬁ , ...-xxx.  ..       ﬁ    focus; ...,     ; ..  .., ﬁ  ; ...  ,   ;  ..,  .    learning         . 
+:          protection_effect       ()             /////    (/////). 
+ﬂ  :     ﬂ  . 
+================
+. . , ,  
+   
+  
+          perceived_vulnerability  ,          ,       :     ﬁ ,        ﬁ    , ,   ,                           perceived_vulnerability       .                    perceived_vulnerability.                         perceived_vulnerability        (),   (),  focus (),  (),   (). ,                 : behavior  ,  ,     . ,          . 
+================
+. . , ,  
+  
+ 
+   
+  ﬁ 
+ 
+ 
+[]
+ 
+ 
+  
+  
+ 
+[]
+ 
+ 
+  belief 
+   
+ 
+[]
+ 
+ 
+  
+intrinsic_rewards () 
+ 
+ 
+[]
+ 
+ 
+  
+ 
+ 
+[]
+ 
+ 
+   
+    
+  
+ 
+[]
+ 
+ 
+ ﬂ  
+ﬁ 
+ 
+[]
+ 
+ 
+   
+  
+ 
+[]
+ 
+ 
+ 
+  
+  
+     
+ 
+ 
+   
+ 
+behavior   
+  
+  
+  
+ 
+
+ 
+>  
+
+ 
+/ 
+
+ 
+= , = , 
+= . 
+
+ 
+= % 
+= %, 
+= % 
+
+ 
+ = .,  = .  = .,  = .  = .,  = . 
+
+ 
+: =  = , =  
+
+ 
+  gain 
+ .% 
+
+ 
+ %  %  evaluating 
+================
+. . , ,  
+  
+ 
+   
+  ﬁ 
+ 
+ 
+[] 
+
+ 
+  
+[] 
+
+ 
+   
+ 
+ 
+[]
+ 
+ 
+, ,    
+[]
+ 
+ 
+   , ,  , 
+  
+ 
+[] 
+
+ 
+   process       
+ () 
+ 
+[]
+ 
+ 
+       
+ 
+[]
+ 
+ 
+   
+techniques 
+ 
+[]
+ 
+ 
+personality perception   
+  
+ 
+[]
+ 
+ 
+  
+    
+ 
+[]
+ 
+ 
+ belief  / 
+   
+ 
+behavior   
+  
+  
+  
+ 
+
+ 
+= .%  =  
+ .  
+
+ 
+= ., = . = .,  = . 
+
+ 
+= .%, = .% 
+
+ 
+ = . 
+
+ 
+= %, > % 
+
+ 
+/ 
+
+ 
+/ 
+
+ 
+= %, a_memory= % 
+
+ 
+= %, 
+= % 
+= % 
+
+ 
+/ 
+================
+. . , ,  
+  
+ 
+   
+  ﬁ 
+ 
+ 
+[] 
+
+ 
+    ﬁ 
+ 
+ 
+[]
+ 
+ 
+  
+ 
+ 
+[]
+ 
+ 
+  belief     (  ) 
+/ 
+[]
+ 
+ 
+  
+[]
+ 
+ 
+   
+[]
+ 
+ 
+ perception  belief,  
+ 
+[]
+ 
+ 
+ ,  
+ 
+ 
+[]
+ 
+ 
+    
+  
+ 
+[] 
+
+ 
+ behavior  
+;  
+   
+ 
+[]
+ 
+ 
+   
+ 
+ 
+   
+ 
+behavior   
+  
+  
+  
+ 
+
+ 
+ = ., 
+= . = ., = . 
+
+ 
+= ., = . 
+
+ 
+/ 
+
+ 
+ . 
+% 
+
+ 
+= .%, = .% extrinsic_rewards 
+evaluating= .%
+ 
+ 
+/
+ 
+ 
+a_memory= %, = %
+ 
+  
+/
+ 
+ 
+/
+ 
+ 
+combining evaluating=  . 
+================
+. . , ,  
+  
+ 
+   
+  ﬁ 
+[]
+ 
+ 
+++ , 
+,   
+[]
+ 
+ 
+   
+   
+  
+[]
+ 
+ 
+ ﬁ 
+[]
+ 
+ 
+[]
+ 
+ 
+[] 
+  
+ ﬁ,  belief 
+[]
+ 
+ 
+   
+[]
+ 
+ 
+  
+[]
+ 
+ 
+     
+  
+[]
+ 
+ 
+ (protection_effect  )    
+[function] () 
+[]
+ 
+ 
+   
+[] 
+
+ 
+     
+ 
+ 
+ 
+behavior   
+  
+
+ 
+  
+
+ 
+ 
+& 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+   
+  
+  
+
+ 
+= ., = , = , 
+=  
+=  
+/ 
+= %, a_memory= % 
+= %, =  
+: []= . 
+ []= ., 
+ []= .
+ 
+/ 
+a_memory= ., = . 
+= ., = % 
+   
+ . 
+  ﬁ = %,  = %,  = % 
+/ 
+/ 
+================
+. . , ,  
+   
+  
+ 
+ 
+   
+  ﬁ 
+ 
+ 
+ 
+behavior   
+  
+ 
+  
+  
+ 
+[]
+ 
+ 
+ 
+/ 
+[]
+ 
+ 
+, , /, 
+   
+
+ 
+ 
+/ 
+[] 
+
+ 
+  ﬂ   [] appraisal , ,   
+ 
+
+ 
+/ 
+[]
+ 
+ 
+  
+ 
+
+ 
+  
+= %-2% 
+[]
+ 
+ 
+ perception 
+ 
+ 
+/ 
+[]
+ 
+ 
+   
+ 
+ 
+= ., .,  .  evaluating 
+ . 
+[] 
+
+ 
+   belief   
+/ 
+
+ 
+/ 
+[]
+ 
+ 
+ [function]   [function] 
+
+ 
+ 
+/ 
+[]
+ 
+ 
+  
+      
+   
+
+ 
+ 
+/ 
+[] 
+
+ 
+  
+ focus 
+
+ 
+/ 
+[]
+ 
+ 
+  perception 
+
+ 
+ 
+, = . = . 
+[] 
+
+ 
+   
+
+ 
+/ 
+[]
+ 
+ 
+  intrinsic_rewards 
+
+ 
+ 
+ 
+/ 
+================
+. . , ,  
+   
+  
+ 
+ 
+   
+  ﬁ 
+ 
+ 
+behavior   
+  
+  
+  
+ 
+[]
+ 
+ 
+   
+ﬁ  
+
+ 
+ 
+/ 
+[] 
+
+ 
+   
+ 
+ ., = ., = . 
+[]
+ 
+ 
+ belief  motivation, ,  
+ 
+ 
+
+ 
+/ 
+[]
+ 
+ 
+    
+    
+syllogistic_rules 
+
+ 
+ 
+=  % 
+[]
+ 
+ 
+ self-efficacy    
+   ""  (& internalization  ""),  
+   
+ 
+
+ 
+ 
+= . 
+[]
+ 
+ 
+     
+
+ 
+ 
+/ 
+[] 
+
+ 
+     ﬁ      
+
+ 
+ 
+/ 
+[]
+ 
+ 
+      
+
+ 
+ 
+: = .  .    ,  
+[]
+ 
+ 
+ belief  
+,  
+
+ 
+ 
+= ., = . 
+================
+. . , ,  
+   
+  
+ 
+ 
+   
+  ﬁ 
+ 
+ 
+behavior   
+  
+  
+  
+ 
+[]
+ 
+ 
+intrinsic_rewards  
+, ,    (),  
+ 
+   
+
+ 
+  , = % = %, 
+= % 
+[]
+ 
+ 
+ ﬁ 
+
+ 
+ 
+= .%  ,  .%    
+[] 
+    ,  
+  ,   
+  
+ 
+ 
+
+ 
+/ 
+[]
+ 
+ 
+impulsive_effect perception 
+  techniques 
+ 
+
+ 
+/ 
+[] 
+
+ 
+      
+   
+
+ 
+/ 
+[] 
+
+ 
+    
+         
+ ﬁ 
+ 
+
+ 
+[] 
+judging [capability]   
+ 
+/ 
+
+ 
+/ 
+================
+. . , ,  
+   
+  
+ 
+ 
+   
+  ﬁ 
+ 
+ 
+behavior   
+  
+  
+  
+ 
+[]
+ 
+ 
+    ﬁ 
+() 
+ 
+
+ 
+/ 
+[] 
+  / 
+
+ 
+/ 
+[] 
+  
+  
+ 
+
+ 
+/ 
+ (),   (),   (),   (),   focus (). 
+================
+. . , ,  
+   
+ 
+. , .; , .; , .; , .; , . perception  :     perceived_vulnerability 
+, , [modeling ],  .  . . , . [] . , ..; , .; , ..; , ..; , .; , ..; , ..   
+   :     personality  . . . . . . 
+, , . 
+. , .; , .; , .; , .; , .  perceived_vulnerability     behavior [modeling]  
+  . . . , , . [] 
+.       .   perceived_vulnerability  ; 
+ : , , , ;  : : //. 
+/////. (    ). 
+. , ..; , ..; , ..; , ...  perceived_vulnerability     . . . 
+. . , , . [] 
+. , .; , .; , .         
+        .  , , . 
+[] 
+. , .; , .; , .; , .; , ..; , .  ﬁ:    
+    . . . . . , , . [] . , .;  , .; , .-xxx.; , .; , .      :  . 
+ . . . , , . [] 
+. , .; , .; , .      :    intrinsic_rewards. 
+. . , , . [] 
+. , .;  , .. personality :     behavior. . . . 
+, , . [] 
+. , ..; , .; , .  :    perceived_vulnerability . 
+. . . . . , , . [] 
+. , .; , .; , .     ﬁ    
+.           ,  ; , ., 
+, .., , ., , .., , ., .; :  , , , ;  , 
+. . 
+. , .; , .; , .         . 
+                
+(), ,  ,   ; . . 
+. , .; , .; , .       . . . 
+. . , , . [] 
+. , ..; , ..; , ..; , .; , .; , .    
+   . . . , , . [] 
+. , .; , .; , .       .   
+        , , , 
+ , ,   ; . . 
+. , . :    , process,  ,  .;  : 
+ , , , ;  . 
+. , .; , .; , .; , .        ; : 
+, , , . 
+. , ..; , ..  perceived_vulnerability  : mental_calculation  perceived_vulnerability   . 
+. . , , . [] 
+. , ..; , .; , .; , .; , .; , .; , .   
+perceived_vulnerability :  , ,   .        
+     (), , , ,   ; . . . , ..; , .; , .; , .    .      
+; :  , , , ; . . 
+================
+. . , ,  
+   
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+, .; , .  perceived_vulnerability :     , ,  ; : ,  , ;  . 
+, ..; , ..; , ..      :   protection_effect, ,       (, , ),  .; : , , , ;  . 
+, ..; , ..; , ..; , ..; , ..; , ..; , .; , ..; , ..  syllogistic_rules     ,  .; ,   ,   : , , , . 
+, .      perceived_vulnerability.  : : //..///// ////. (    ). , ..; , .; , .; , .; , ..; , ..; , ..  :      . . . . . . . , , . 
+, . judging  :   .  belief,   , ,  , . 
+, .; , ..; , .. personality       .         (), , ,   ; . . [] , .; , .; , .; , .; , ..; , .; , ..; , .         , ,  ; : ,  , ;  . 
+, .; , .; , .; , ..; , .; , . :       .       intrinsic_rewards   ,  ; , ., , ., , ., , ., .; :  , , , ;  , . . , .; physical_quality, .; , .; , .; , .  perceived_vulnerability     behavior.              ,  , , ,   ; . . 
+, .; , .; , .; , .    perception   .  . . , , . [] 
+, .    ? personality      behavior     .            , , , ,   ; . . 
+, .; , ..; , ..; , .; , .; , .   :         .       ,  ; , ., , ..., , ., .; :  , , , ; . . , .; , .; , .; , .; , .   perception   perceived_vulnerability .         , , , , ,   ; . . 
+, .; , .; , ..; , .; , .       perceived_vulnerability .     /        /    , , perceived_vulnerability  intrinsic_rewards, ,  ,   ; . . 
+, ..; , ..; , ..; , ..              intrinsic_rewards.  . . , , . [] 
+, .; , .       perceived_vulnerability .          intelligence   , , , , ,   ; . . 
+ , .;   , .;  í , .      live_modeling.  . . , , . [] 
+, .; , ..; , .; , .; , .     perceived_vulnerability    .            ﬁ intelligence ,  , , ,   ; . . 
+, .; , .; , .; , .; , .; , .; , .   perceived_vulnerability    . . . . .  , , . [] 
+================
+. . , ,  
+   
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+, .; , .; , .    :   ﬁ  .     intrinsic_rewards,      ;  , ., , ., , ., .; :  , , , ; . . 
+, .; , .; , .; , ..; , .  perceived_vulnerability       .           , , perceived_vulnerability  intrinsic_rewards         , , , ,   ; . . 
+, .; , ..; , .; , ..    behavior        .           , , ,   ; . . 
+, .; , .            .       /     , , ,   ; . . 
+, ..; , ..          .      intelligence   (), , , ,   . 
+, ..; , .       :   .  . . . , , . [] 
+, .; , ..; , .; , .; , .; , .   perception      .            , , , ,   ; . . 
+, .; , .   perceived_vulnerability .          (), , , ,   . 
+, .; , .; , .       . . . . . , , . [] 
+, .; , .  perceived_vulnerability   impulsive_effect        .           belief  , , ,   ; . . 
+, .; , .  perceived_vulnerability ﬁ        .             , , , , ,   ;  , . . 
+, ..; , ..; , . :          .            (), , ,   ; . . 
+, .; , .; , ..  perceived_vulnerability     .          , ,  ,   ; . . , .; , .            .          (), , , ,   ; . . 
+, ..; , ..; , .; , .; , .; , ..   perception       perceived_vulnerability  .           (), , ,   ; . . 
+, ..; , .; , ..               intelligence.  . , , . [] , .; , .; , .   behavior intrinsic_rewards    belief    .          intelligence // (), , ,   ; . . 
+, ..; , ..; , .; , ..        .             (), , , ,   ; . . 
+, .; , .; , .; , .   :    intrinsic_rewards  .  . . , , . [] 
+================
+. . , ,  
+   
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+, .; , .; , .; , .           perceived_vulnerability .          , , , , ,   ; . . 
+, .; , .   perception   .               , , , ,   ; . . 
+, .; ü, .;   , .; , .           .          (),  , , ,   ; . . 
+, .; , .; , ..; , ...             intrinsic_rewards  . . . . . , , . [] 
+, .; , .     ﬁ-based            perception. . . , , . [] , .; , .; , ..; , .; , .; , .         ﬂ .          , , , , ,   ;  , . . , .; , .; , .          .             , , , ,   ;  , . . 
+, .; , .             .  . . . , , . [] 
+, .; , .; , ..; , .; , .. personality       .           ,    (), , ,   ; . . , ..; , ..; , ...; , ..  perception         .               (), , ,   ; . . 
+, ..; , ..   perception               .  . , , . 
+, .; , .; , .; , ..     intrinsic_rewards appraisal. . . . . , , . [] 
+, ..           . . . , , . [] 
+, .; , ..; , .. ﬁ        . . . . , , . [] 
+, .; , .; , .   ?          .                (), , , ,    ; . . , .; , .; , .      personality  .  . . , , . [] 
+, .; , .      .         ,    (), , ,   ; . . 
+, .; , . intrinsic_rewards       .           intrinsic_rewards,       , , ,   ; . . 
+, .; , .; , . :          .                  (), , ,   ; . . 
+, .; , ..; , .          .           ,  ,  ; , .., , ., , ., , .., , .., .; :  , , , ; . . 
+================
+. . , ,  
+   
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+, .; , .; , . intelligence       . . . , , . [] 
+, .; , .; , .; , .   :   perceived_vulnerability . . . , , . [] 
+, .; , .; , .     perceived_vulnerability   .          intelligence    , , ,    ; . . 
+, .; , .; , .; , .   appraisal           .       //, , ,   ; . . 
+, ..; , ..                 . participant_modeling. . , , . [] 
+, ..; , .    personality              .            (), , ,   ; . . 
+, .; , .     techniques ﬂ :    .               (), , ,   ; . . 
+, ..         intelligence  ﬁ.       /    , ,    ,  , ,   ; . . [] 
+, .; , .; , .          personality .              , , ,   ; . . 
+, ..; , .; , .; , .    ﬁ      [Organization]   ﬁ  source.             (), , ,   ; . . , ..; , .; , ..      .           , ,  , , ,   ; . . , .; , .  perceived_vulnerability       .             ();  ..: ,  , ;  , . . 
+, ..; , ..; , ..; , ..; , .. :    personality      perceived_vulnerability .            (), , ,   ; . . 
+, .; , .; , .; , .; , .     :   perception     .         (), , , ,   ; . . [] 
+, .; , .; , ..            .            , ,  ,   ; . . 
+, .; ﬁ, .; , ...       :       .                    , , ,   ; . . 
+, .; , .; , ..; , .   perception         .  . . , , . [] 
+, .; , .; , .; , .  perceived_vulnerability     belief   .           (), , ,   ; . . 
+, .; , .; , .; , .    internalization ﬁ  perceived_vulnerability    .              ,  , , , ,   ; . . 
+================
+. . , ,  
+   
+. , .; , .      ﬁ  [activity]  . 
+          intelligence  , 
+ ,   , , ,   ; . . 
+. , ..; , .; , ..; , .    perceived_vulnerability   
+     .        
+   ,   , , , , ,   ; . . . ö, .; , .; , .; , ..; , .     : 
+         .  . . , , . 
+[] 
+. ﬁ, .; , .; , .; , .; , .    perceived_vulnerability  : 
+   .           (), , 
+, , ,   ; . . 
+. , ..; , ..; , .; , ..; , ..    [knowledge]   
+    .           , 
+ , , ,   ; . . 
+. , ..; , .; , .; , .        :   
+appraisal   perceived_vulnerability.            
+  (), , , ,   ; . . 
+. , .; , .; , .; , .; , .; , .      
+perceived_vulnerability .          , ,  , 
+, ,   ; . . 
+. , .; , ..; , .; , .  appraisal     
+perceived_vulnerability . . . . , , . [] 
+.  , .; , .; , .; physical_quality, .-xxx.       
+.             () , 
+,  , ,   ; . . 
+. , .; , .  perceived_vulnerability     .     
+//,  ,  , , ,   ; . . 
+. , .; personality, .; , .; , .; , . ﬁ ﬁ     
+  ﬁ .          
+intelligence    (), , ,   ; . . 
+. , .; , .; , .       . 
+ .  . . , , . [] [] 
+. , .; , .   perception   perceived_vulnerability .     
+    , , , , ,   ; 
+. . 
+. , .; , .   combining       .   
+         , , , ,   ; 
+. . [] 
+. , .; , ..; , .         
+.          , , 
+,   ; . . 
+. , .; , ..; , .; , .       . 
+. . . , , . [] 
+. , .; , .; , .; , ..; , .; , .       
+   .       ,  ; , ., , ., 
+.; : , , ;  , . . 
+. , .; , .; , .; , .; , .   perceived_vulnerability     behavior 
+.        ,  ,  ; , ., , ., 
+, ., , ., , ., .; : , , ;  , . . . , ..; , ..  perceived_consensus     .    
+        ,  , , ,   ; 
+. . 
+================
+. . , ,  
+   
+. , .; , .; , ..; personality, .; , .; , . [modeling]    
+ .          intelligence   
+, , , ,   ; . . 
+. , .; , .; , .; , .         
+  .            
+intelligence   , , , , ,   ; . . 
+. , .; , .; , .   appraisal        
+  . . . . , , . [] 
+. , .; , .; , .; , .      .      
+     ,  , , ,   ; . . . , .; , .; , .; , . :      
+   .            
+&   ( ),    ,  , , , 
+  ; . . 
+. , ..; , ..; , ..; , .   evaluating     . 
+        , , ,   ; 
+. . 
+. , .; , .; , ..; , .   perception     
+  .         ; , ., , ., 
+, ., .; : /, , ;  , . . 
+. , ..; , ..           
+ .            , 
+    (), , ,   ; . . . , .; , .        .     
+          (),  , , , 
+  ; . . 
+. , .; , .; , .       .   
+       , ,   (), , , 
+  ; . . 
+. , .; , .; , .; , .;   , ...    process  
+  . . . , , . [] 
+. , .; , .; , ..      combining  
+  belief . . . . , , . [] 
+. , .; , ..; , ..; , .     
+  . . . , , . [] 
+. , .;  , .; , .; , .; , .     
+   . . . . . , , . [] 
+. , .; , .; , .; , .  process    perceived_vulnerability  .   
+    , , ,    ; , ., , ., , ., .; 
+: , , ;  , . . 
+. , .; , .   perceived_vulnerability      .  
+         ; , ., , ., .; 
+:  , , , ;  , . . 
+. , .; , .; , .; , .         
+ perception    .        
+       (), , ,   ; 
+. . 
+. , .; , ..   :       . 
+.  . , , . [] 
+. , ..; , .; , .; , .   :   
+   intrinsic_rewards  .         
+ : ,    (), , , , 
+  ; . . 
+================
+. . , ,  
+   
+. , ..; , .; , .; , .   perceived_vulnerability     
+  ﬁ appraisal.  . . , , . [] 
+. , .; , .; , .      perceived_vulnerability     
+.            ( ), , , 
+, ,   ; . . 
+. , .; , .  perceived_vulnerability     .     
+      , , , ,   ; . . . , .; , .; , .; , .-xxx..       behavior_control-ability 
+     . . . . . , , . [] . , ..; , ..; , ..     behavior     . 
+           ﬁ intelligence, , 
+,   ; . . 
+. , .; , .; , .. behavior     ﬁ   
+.              
+  , , , ,   . 
+. , ..; , .           . 
+         ,    
+ (), , ,   ; . . 
+. , .; , . belief   intelligence      perceived_vulnerability : . 
+         ,  ; , ., , ., 
+, ., , ., , ., , ., .; : , , ;  , 
+. . 
+. , .; , .; , .; , .; , .; , .    
+    :    perceived_vulnerability .     
+ , , , ,   . 
+. , .; , .; , .      [resource]    . 
+       intelligence ; , ., .; : /, 
+, ;  , . . 
+. , .; , .  perceived_vulnerability         
+ﬁ    .        
+    , , ,   ;  . . , .; , .; , .        .   
+           (),  , , 
+  ; . . 
+. ﬁ, ..; , .; , .; , .       
+.              
+(), , , ,   ; . . [] 
+. , .; , .; , .; , .          
+perceived_vulnerability   ﬁ-sharing.          intelligence  
+  (), , ,   ; . . 
+. , .; , .; , .; , ..         
+.  . . , .   . , , . [] 
+. , .; , .; , .  perceived_vulnerability         
+.               
+, , , ,   ; , .., .; . . 
+. , ..; , .; , ..; , .     combining    
+     . . . , , . [] . , .; , .       .     
+           ,  
+, , , ,   ; . . 
+. , .; , .    perception     perceived_vulnerability    
+ .            
+  (), , ,   ; . . 
+================
+. . , ,  
+   
+. ﬁ, .; , .; , .; , .      perceived_vulnerability . 
+        , , ,   ; . . . , .; , .; , .; , . : behavior   perceived_vulnerability   intelligence . 
+   . , , . [] 
+. ü, .; , ..     .      
+    ,  , , ,   ; . . [] . , .; , .; , .      personality . . . 
+, , . [] 
+. , .; , .; , .; , .; , .; , .; , .; , .   perceived_vulnerability 
+      .         
+   , ,  , , ,   ; . . 
+. , ..; , .-xxx.  perceived_vulnerability  " ﬁ       
+ . . .  , , . [] 
+. , .; , .   perceived_vulnerability   perceived_vulnerability     
+ ().  . . , , . [] 
+. , .  behavior     appraisal    
+.   , , . [] 
+. , .-xxx.; , .-xxx.; , .-xxx.; , .-xxx.  perception      ; 
+ impulsive_effect perception .  .  . . , , . [] . , ..; , ..; , ..; , ..; , ..; , .; , .   
+   .  . . , , . [] 
+. , .; , .; , ..  physical_quality    :    perceived_vulnerability  
+  physical_quality  personality .          
+  , , , , ,   ; . . 
+. , ..; , .; , .;  , .       simplifying 
+     . . . . . , , . [] . , .; , .; , .; , .         
+ :   perceived_vulnerability intelligence . . . , , . [] . ﬂ, ..; , ..; , .; , .   :      
+.  . .  . , , . [] 
+. , .         perceived_vulnerability.    
+      , , ,  ,   . . , .; , .; , .  possibility_effect  perceived_vulnerability : judging      
+. . . . , , . [] 
+. , ..; , .;  , .; , ..    perceived_vulnerability  
+.            , , , 
+, ,   ; . . 
+. , .; í, ..; , .; , .; , .       
+ modeling  perceived_vulnerability appraisal   . . . . , , . 
+[] 
+. , .; , .; , .; , .; , .-xxx.; , .; , .      
+    :   appraisal. . .  , , . [] . , .; , .; ø, .         perceived_vulnerability 
+.              
+ (), , , ,   ; . . 
+. , .; , .; , .; , ..          
+ ﬁ. . . . . , , . [] 
+. á, ..    appraisal       . 
+            (), , 
+, ,   ; . . 
+. , .-xxx.; , .-xxx.; , .  focus   perceived_vulnerability       
+ [modeling ]. . .  , , . [] 
+================
+. . , ,  
+   
+. , .; ü, .; , .          
+ .   . , , . [] 
+. , .; , .; , .; , . personality      , 
+ ,  ,   .  . . , , . [] . , .; , .; , .; , ..; , .; , ..; , .; , .; , . 
+intelligence     perceived_vulnerability.  . .  .   . . , , 
+. [] 
+.  , .; , .         ﬁ. 
+. . , , . [] 
+. , .; , .; , .; , .; , .  ﬁ     
+    .  . . , , . [] 
+. , .; , .; , .; , .       
+    .          
+   , ,  ,   ; . . 
+. , .; , .; , .        .   
+          (), , , ,   . . , .; , .; , .  perceived_vulnerability     .     
+    ; :  , , , ; . . . , ..    perceived_vulnerability :        [activity ]. 
+            (), , , 
+, ,   . 
+. , ..; , .; , ..; , .; , .; , ..   perceived_vulnerability 
+      . . . . . . . , , 
+. [] 
+. , ..; , ..       behavior [modeling] intrinsic_rewards  
+ . . . . , , . [] 
+. , .; , .; , .; , .. :      perceived_vulnerability behavior 
+   ﬁ . . . . . , . [] 
+. , ..; , ..      [modeling] perception;   
+;  ,   :  , , , ;  . . , ..; , .. [modeling]   behavior   . .  . . 
+, , . [] 
+. , ..; , .; , ..       ; : , , , 
+;  . 
+. , ..; , ..         :   
+   .   . , , . [] 
+.  , .;   , .; , .; , .; , . satisfaction_of_needs   
+  .           
+; :  , , , ; . . 
+. , .    Vulnerabilities   .  : 
+://.///// 
+. (    ). 
+.   .      ,  ,  
+ ,   , , , .  : : //. 
+../ﬁ//. (    ).
+    .  , , .                intelligence   ( )  (://.///./). 
+================

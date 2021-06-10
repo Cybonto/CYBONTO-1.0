@@ -1,0 +1,142 @@
+ role      
+ belief     
+  
+ .    .  
+    []   
+perception   belief    
+intrinsic_rewards                Collection         .             perception             focus        ,   extrinsic_rewards     . 
+                 intrinsic_rewards :  ; behavior_control-ability     arousal   ;       .  " "        ,    perceived_vulnerability     ,    loss           .                         () .  "behavior_control-ability"           ,      task        .  " " belief        ""      arousal,                 personality ,                     behavior. 
+            ,    : 
+◗  [activity]        
+  ; 
+◗        
+; 
+◗   impulsive_effect ,    
+ ; 
+ 
+◗ protection_effect   ;  
+◗          
+    . 
+ ,    ,       , ,   impact appraisal   . 
+  ,                 . 
+  
+       [].       vulnerabilities,    ,       :           ; behavior    protection_effect          ,    ,          ;   , isolation_effect,    , ,   []. 
+    ,     ,         (..,            persistence , ,             arousal  ). 
+ .                ,     . 
+   ,        ,    ,     vicarious_experience  (..,     vicarious_experience     ).  ,                [].           [].           
+           []. 
+  
+ & appraisal  
+//$. 
+ 
+   segregating :  .    ,  ::    .  . 
+================
+. .          behavior       Impact   . 
+         , , ,                ( ,        ).      behavior,                 . 
+                 [activity]   behavior   combining    behavior  (    ).    syllogistic_rules,  [goal]    "" ,             behavior.     isolation_effect, ,     [activity]     ()         (). 
+     ,          :               (    );          "" .                learning -       behavior        .                :  ,  ,  personality,  ,  / loss     ?                   . 
+ perception   belief       ,                 ([])    -      live_modeling             . ,                   ,           behavior  //   (. ). 
+ 
+ & appraisal  
+. .           . 
+       ,       protection_effect    .   ,       ,     ,   ,   Impact ;      , ,   situational_circumstance   .           ,     . 
+     ,       Collection    personality  :          [activity] (  , , )  " "  (,          ).     ,                 [goal]       process        ""  (         ).       syllogistic_rules   Collection        "learning   /"      syllogistic_rules      combining    "" behavior ().    Collection            . 
+          []           ()    . . 
+                .    ()     [].    ,   ,       .   ,           ()                    personality   
+  
+   segregating :  .    ,  ::    .  . 
+================
+  -   
+            
+        : " " behavior        Impact   []     []           "" behavior         Impact    []                           behavior    []     []                 
+  -  Collection   
+  
+  
+  
+  [activity]  personality      
+  
+ 
+behavior    Impact 
+     behavior  
+  [activity]  
+personality      
+  
+  
+  
+  
+   
+  
+behavior    Impact    
+behavior    Impact    
+behavior    Impact    
+   [activity]                 
+  [activity]     
+         
+          Exfiltration      personality       
+           mental_calculation  Collection           .           ,    :    . 
+. .   / Collection    learning, ,    ,   ,   ,       ()     . 
+    belief 
+                personality   process       .   [goal]       syllogistic_rules, ,     [activity]  combining    intrinsic_rewards       combining   [activity ].               
+  
+ & appraisal  
+ 
+   segregating :  .    ,  ::    .  . 
+================
+              (..,     ). 
+  ,         combining                     ,  impact          personality  ()        (  ,          : , behavior ,  perceived_responsibility Impact).   ,  ,   ,    impact appraisal,                 perceived_vulnerability      .       : personality  ;  ;  ;  ;    .              . 
+ [activity]            personality  ()                ,               .     persistence      -    [circumstances] ( ,  perceived_consensus ).                          []             ,         ,         behavior     (.., ,    ).     [Organization]          syllogistic_rules           .          "personality "     (   loss   ),        persistence  ()   . 
+    belief  ,   ,  "  [activity] "   ,          personality (   process   protection_effect  ).      , "  [activity] "                 . 
+                     .        "."  ,        protection_effect  " "    " ."     ,      
+ 
+ & appraisal  
+protection_effect     "  " ()      ,    "   " ()  segregating       .         ,        "" .  [goal]    " "   learning "  "  -                      ""   ""             .    ,  ,         (, , , , ),  []  (   ),     (,      )    (     ,        ). 
+  impulsive_effect                           ,          , ,  ,          .  gain,                  (:    )—air constraint, /  physical_quality,    (..,   ,  ),       ,   ( )  ,      (physical_quality, , , , , .).               .               . 
+                 ()        (  );        impact   ()    .  ,               syllogistic_rules   ,            personality     .         ,                                -  . 
+               impact.             ,           (      ).            . 
+                         behavior 
+  
+   segregating :  .    ,  ::    .  . 
+================
+(..,        ,       ,          [activity]  ).                   segregating          (      ,   ).                      intrinsic_rewards; ,      /       "  "  . ,                    , , ,    () . 
+protection_effect    
+                ,      ,     appraisal    . ,              (  ,     ).                     :     .  ,  ,                                ()     ()        .               .                              [capability ].   ,         ,                            . 
+     extrinsic_rewards                 ,                        , ,    .                         (   "  "                  ).             ()                     (learning)   (). 
+   
+                    
+  
+ & appraisal  
+  ,  .           ""   .     :      ( ,                                );      ( ,    []                   ).                        "  "    .   ,            " ,"      behavior       Collection /   combining  behavior       (     personality     Collection ). 
+gain,        extrinsic_rewards  ,                   .                     :            ;           combining     .                         .              :     ,  ,              ,  ,     .  extrinsic_rewards                Collection . 
+  Collection              " "       :  personality -           .  intentionality        live_modeling        Collection  ,    : "    Collection ?"; "      Collection    [action] ?";  "       Collection  protection_effect           ?"                   behavior            Collection               [function]     Collection          Collection .       ""               
+ 
+   segregating :  .    ,  ::    .  . 
+================
+    .       personality         perceived_vulnerability ,  ,                  intrinsic_rewards. 
+ 
+       : :  ,  ,  ,   ,         perception  ;  : :     ,        /  ,      . 
+ 
+[] .   . , " role    
+   belief     
+ ,"  .   , . [] . , . , .   . , 
+" :     
+," , .  . , . , . . [] . , . ,  . , "   
+    ,"  .   
+. .     (), . [] . , . , . ,  . , ": 
+     ,"  . .  
+ (), . 
+ 
+ & appraisal  
+[] . , . , . ,  . , "  
+    ," , . 
+ . , . , . . 
+[]          
+   ,   , . . []         , 
+  .,  . 
+[] .   . , " focus :   
+     ,"  .   . 
+.    intrinsic_rewards, . . 
+ .  (@.)           , .           ,   ,   / .         , ,  ,   ..          , , . 
+ .  (@.)  ,   -   : , .  , ,        ,    .     .     . ,       , .         [] , , ,  . 
+  
+   segregating :  .    ,  ::    .  . 
+================

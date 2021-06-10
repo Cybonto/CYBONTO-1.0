@@ -1,0 +1,297 @@
+       
+  
+ , 
+  &  -- "", 
+  ., 
+   , , 
+, ,  
+  ,  , 
+ -   ,  
+,  
+@. 
+ . , 
+  &  -- "", 
+  ., 
+   , , 
+, ,  
+  , 
+  , , 
+, ,  
+@.. 
+ , 
+  &  -- "", 
+  ., 
+   , , 
+, ,  
+     
+    
+, ,  
+@.. 
+ , 
+  &  -- "", 
+  ., 
+   , , 
+, ,  
+     
+    
+, ,  
+@. 
+  
+  ,  -   ,  
+,  
+@. 
+             () .                  ,   focus  .           , combining     ,    ,   .                        possibility_effect       .                        . 
+,   ,   
+ 
+================
+         
+ •  •  •  •  
+.  
+,      combining            .    ,      combining     ,    ,      .  ,   personality vulnerabilities,             , ..  ,          [].        vulnerabilities     protection_effect  personality                 ,      [].           vulnerabilities           (  )  .   ﬁ,      ,        ,       .  ,      .  perception                             []. 
+  ,  combining           . ,   extrinsic_rewards   ,           .  possibility_effect   , ,           ,  ,   , ,    [knowledge] .  ,              , ,   "" .                               [knowledge] . ,                  techniques   ,     ,      ﬂ              . ,        ,        satisfaction_of_needs , [knowledge]       ﬁ      []     .    ,   ,    ﬁ      
+     ﬁ []       []. 
+    personality   ,  [goal]     ,      ,   ,      combining,   simplifying   ,    .          ,      ,    [knowledge]      ,   personality, . 
+        .      .         .                     . ,                  . 
+.   
+    ,  ,   Source intelligence ()         ﬁ     [].    participant_modeling   role               .  ,                  .   . []    ﬁ            ﬂ .  ,   ﬁ    ﬁ intelligence ()   protection_effect   ()   ().         .      ﬂ          [].   . []                      .   . []          ﬁ          ﬂ .   []           .    possibility_effect     .                     ,     
+ 
+================
+         
+ •  •  •  •  
+         . 
+    protection_effect          perception   .   . []    [activity]     .         ,          .   . []     %    ,    ,          possibility_effect.   [],                  .            ,      . ,   ,      []  ﬁ     intrinsic_rewards   ﬁ      .    perception []        . 
+   personality ,   . []     ﬁ      appraisal     .                       .                .   . []                appraisal .    []               personality    ﬁ .   . []            modeling   .  , ,          []  , , extrinsic_rewards.   . []        personality   ﬁ intelligence              appraisal    ,     . ,   . []     ..          .  ﬁ        ﬁ               .    ,                    []. 
+       [activity]    ,   .   . []   " "  .   impulsive_effect          .   . []            .      intrinsic_rewards        [].   ,      ,                      . 
+    participant_modeling   ,   , ,   [activity ],   [].   ,     judging, personality       .  ,   ,  focus        personality intelligence perceived_vulnerability  perception. 
+.      
+          ()  .        source                   ,    .   ,  focus     . 
+,  satisfaction_of_needs         (..  ),      .             , judging,              personality  .  ,         ,          possibility_effect                         . 
+           .   ﬂ            : ()     :    ,     , .. ,                process        . ()   ():   ,  
+ 
+================
+         
+ •  •  •  •  
+                 ,   ,                .   ,                  ,                   . ()  Collection ():                     .           ,     . ()     :    intrinsic_rewards                ,  ,            . () modeling  :   ,   ,     intrinsic_rewards (..  ),         ,        . ()   ( ): ,          ,   ,  ,    ,               . 
+ :       () . 
+            .   Source intelligence ()          .                      
+ 
+.               ,             .        perception,           perceived_vulnerability  combining    ﬁ.     ,                       .   .      . 
+. &  
+..          
+     ,  ,                                     .   ,         ,     source             . ,  ﬁ                ,     (  ,   /)                 . 
+        : ()  , ,     . ()     ( )    . ()  /    . () ,  source     , ,  . ()         . 
+                  .   : 
+:       extrinsic_rewards     : #  #perceived_vulnerability #  # #  #  #   # #perceived_vulnerability  #perceived_vulnerability #  # #   # # 
+================
+         
+ •  •  •  •  
+:       : #  #  #  #  #  #ﬁ  #ﬁ  #  #  #  #  #  #  #  #  #  #  #Phishing  #  #Pharming  #  #  # 
+        possibility_effect   ,      , ,                .                     .  ﬁ                      . ,  , ,     ,     . 
+() 
+              ,     .        ,   process        .       combining          . ,      ()     Collection (       )    ,    . 
+() 
+ : []              []  . 
+..   
+                 .            .                . 
+           , ,                   .              ( , ).            , ,   . 
+ , , .,                   .  , ,      process              .    ,    ,       personality     ,  .         .              ,   , , ,   .    ()       ,  ,  , ,         .      ,  ﬁ   , ,  ...  (       ). 
+         ,    , ,   personality ,   
+   intrinsic_rewards            ,     , ,           personality   ,  . 
+ 
+================
+         
+ •  •  •  •  
+() 
+() 
+ : []               []  . 
+  ﬁ               . 
+                     .   ,                  ( ) : , ,  .     belief         Organization         ,  ,    personality         . ,    ,    ,       , , Phishing        .   comply_effect             ,     
+() 
+() 
+ : []               []  . 
+ ,         , , , ﬁ intelligence,     .        ( ),                  .  ,               belief .          ,     ,                . 
+..     
+  ,       ,         .                   .       ﬁ    /   ,      " "    
+ 
+================
+         
+ •  •  •  •  
+ focus           , ..            . 
+                       .  personality               combining        ,   focus  .   ,  [goal]   comply_effect       ( Collection)   extrinsic_rewards   ( Collection)          possibility_effect       .        ,           . 
+                  .  ,  ,       ,            .         ,    [function]              .      ﬁ     .                 Collection. 
+ : #    . 
+              ,      combining  .  Collection,                     .   extrinsic_rewards        personality         ,  ﬁ                  .  extrinsic_rewards       intelligence     intrinsic_rewards  combining  .            
+ .  ,    [action ],           . ,    experiential_awareness   ,                 ,        ,              ,          . ,        .                       source intelligence ,      perceived_vulnerability      .          . 
+() 
+() 
+ : Phishing     []   []  . 
+..   
+         ,       ()        .               /     . 
+                  ,    ,      . , ﬁ      .        judging    . 
+               : 
+ 
+================
+         
+ •  •  •  •  
+.       
+. 
+.   personality    
+     . 
+.         
+  . 
+  ,              ()     Collection     .    process         ..             combining     ,   , .        personality,  ,      (  ,    )        intelligence        . 
+       ,        Collection.              .. ,  participant_modeling            Collection     .   Collection        .  .            ,      ). 
+ :    . 
+.       
+    , ,          ().         , ,  judging     ,       .   
+                . 
+   ,      ﬁ             .  ,                          .  ﬁ            .     ﬁ     .                       .     , ,         . 
+                     .           ﬁ      ﬁ      .   combining       ﬁ     Phishing     .  ﬁ                      , ,     [activity ].  gain                     combining         . 
+  ,  ,    gain       intelligence      .     gain              belief   ﬁ       .        ,       combining            Source intelligence () .      process       .  ,     combining          protection_effect     ,  ,  [activity ],   Phishing .                    process  combining    
+ 
+================
+         
+ •  •  •  •  
+  combining  .    ,  ﬁ         impulsive_effect       . ,  experiential_awareness         .  [goal]               .     ,       . 
+ 
+                      perceived_consensus  . 
+ 
+[] , .  .  ().   
+   :     
+.  , . .  
+ . 
+[] , ., . , . , . ,¨ 
+. . .  , . , . ,  
+.  (). evaluating  loss  
+, . . , : 
+  . 
+[] , ., . ,  .  ().  
+ vulnerabilities  .   
+       
+,   ,  , 
+, , , . .  
+ . 
+[] , ., . ,  .  (). 
+      
+[activity ].  []. 
+[] , ., . ,  . .  (). 
+    :  
+   . . 
+[] , ., . , . , . , 
+ . .  ().    
+extrinsic_rewards ?:        
+ .  /.. 
+[] , ., . . . , . . ,  . . 
+ ().      
+       
+ . . 
+[] , ., . . . , . . ,  . . 
+ ().     
+     . 
+. 
+[] , ., . ,  . .   
+().    :   
+.       
+  ,  ,  
+, , , . . . 
+[] , . (). "    
+          
+" -       
+  .  /.. 
+[] , .  .  ().  
+ :      
+    combining ﬂ . 
+  (), . 
+[] , ., . ,  . .  
+().       
+       
+.  intelligence  (), . 
+[] , . ., . , . ,  
+.  ().   
+,       
+  .     
+, . . 
+[] , ., . , . ,  .  (). 
+ &#;     . 
+       
+      
+  ,  ,  
+, , , . . . 
+[] , . ().   perceived_vulnerability 
+:        
+.         
+ . 
+[] , ., . , . . , . , 
+. , . ,  . .  
+(, ).   focus      
+ ﬂ     
+      
+.     (), . 
+[] , ., . ,  .  ().  
+     behavior  
+    .  . 
+[] , ., . , . . , 
+. . , . personality, . , .  
+,  . .   (). evaluating 
+   : extrinsic_rewards, loss, 
+   .     
+      
+    ,  
+,  , , , . . . 
+[] , .  .  (). judging 
+      
+.       
+ 
+================
+         
+ •  •  •  •  
+         ( ),  , , , , . .   . 
+[] , ., . ,  .  (). 
+        
+ ﬂ .       
+    . 
+[] , ., . . , . , . . 
+, . . ,  . .  (). 
+combining ,  ,   
+    ﬂ .  
+  . 
+[] , . ().   
+    perceived_vulnerability   . 
+ &  (), . 
+[] , ., . . ,  . .  
+().         
+ [activity]   fear_arousal    
+  ﬂ   .  
+ , . 
+[] , .  .  ().   
+   impact   perceived_vulnerability 
+  ﬁ  .  
+    ,  
+. 
+[] , ., . , . ,  
+.  ().    
+:      personality 
+.      
+      
+ , . . 
+[] , ., . . ,  .  
+().      
+   .  protection_effect 
+ , . 
+[] , ., . . ,  . .  
+(). impulsive_effect     
+   .  . . , 
+. . ,  .  (.), 
+ ,  -  [modeling] 
+ , , , . . 
+  . 
+[] , .  . .  ().  
+ loss   .  & 
+ (), . 
+[] , .  .  ().   
+   .    
+      ﬁ- 
+ intelligence (), , , 
+. . 
+ 
+================

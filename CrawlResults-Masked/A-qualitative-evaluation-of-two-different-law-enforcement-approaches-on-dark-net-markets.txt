@@ -1,0 +1,599 @@
+  appraisal        physical_quality   
+        
+   
+,  
+..@.. 
+        focus          physical_quality   ()      .    impact       (       )  judging                physical_quality  .            ,   ,       .  ﬁ           ,                  impact    . 
+ , [policy ],  , ,  , physical_quality  
+.  
+ physical_quality                         . physical_quality   ()    personality      physical_quality          ,    .    ,            ,       ﬁ   .      ,        extrinsic_rewards    .              .       ,           perceived_vulnerability.              .           :            .       .     perception          ()           ,     .     ,   ,            [activity ].   ,          , ,         ,     [].  gain,      physical_quality          []. 
+  
+      
+  
+,  
+@. 
+    ,              .      perceived_responsibility       belief          (       ,         ) [].      ,     ﬁ       , .     ﬂ,                   combining         .       ,         . 
+         impact               perception    ﬁ       [activity]    .     ﬁ   focus           . 
+             //  //.                          focus. 
+ ﬁ                             . ,                    impact.  ﬁ   physical_quality   behavior       [policy ]. 
+.   
+            ,     [],    [], [],   []-[]   [],       [].            [], []-[]    []- [], []-[],  personality [], []   perceived_responsibility []-[], 
+================
+[], [].     coding     belief [],   coding         [],     () [],        [], [],       () []. 
+  . []                  (        )   .           [].  ,    ()         .   ,      personality    , .           ,       generalizing                      []. 
+ gain   coding ,               personality   ,  []            ﬁ,    .    ﬁ   coding        combining     .          (    ); perceived_vulnerability    ;  [knowledge] ;   protection_effect [].   . []    modeling  combining             .                .     focus            . 
+      intrinsic_rewards  .     []          .       perception  combining        "intrinsic_rewards"    ﬁ   .    ﬁ          , ..        certainty_effect    ,       intrinsic_rewards           intrinsic_rewards intrinsic_rewards    []. 
+  . []            ﬂ  .      intrinsic_rewards    ﬂ            [].           ﬂ  intrinsic_rewards     belief     ﬂ          ,  , ,          intrinsic_rewards []. 
+  . [],            .    
+               (       )     ,  ,   []. 
+        appraisal  impact                  .  [],    , ,       personality       ,  ,  .    ,         ,  learning         .             []. 
+       [],  focus   focus                  ..     combining  ﬁ       ""      [].                       generalizing     certainty_effect         . 
+       physical_quality   perception     ,           personality   . ,               .   perception  evaluating  impact            .         [], []-[]. 
+        []-[],    []-[], [],   [],     []      []     personality     [], []       [].    ,              [], []-[], [].       ﬁ    ﬁ          .        ,     ﬁ        . 
+.  
+    focus      //  //. //       segregating                 . //       segregating        . 
+segregating     , ,                        [].      , , 
+================
+       
+ 
+  . 
+                  ,              (..       appraisal -  .  process  ,   ,     //  ,   ,     //.     ,  combining       ,   ,          . 
+                          .          ,   ,     . ,            . 
+   process,   //  ,   ,     //  ,   ,    combining   ,   ,    . 
+%           ,            . ,    ,   experiential_awareness           (         ).                                    . 
+                   .   ,       //, ,     [].                  .   ﬂ  ,       isolation_effect  . ,                    .   process, ,      . 
+ appraisal    ,   .   . .                      extrinsic_rewards     . 
+ appraisal     ,                        .       //  : ( )   
+://..// 
+     //  :( )      . ,    possibility_effect    ,        . 
+            , ,     []  []   .     //, %      , %     %    .  // %      , %   %    .      possibility_effect  ,     ﬁ combining           ,                 . 
+       ,       personality,       ,                .     //       appraisal . 
+        ,   , .        ,   , .  (%)         []  []   .%     %   .                    //    .                   .         .       //              ﬁ   //        . 
+  
+         
+// 
+// 
+    
+. . . . 
+    
+. . 
+. . 
+.  
+     impact   ,  ﬁ   ﬁ          .          ﬁ,          ,           . 
+       intentionality   :     .        appraisal              . 
+================
+,                ﬁ   combining     .  appraisal  ﬁ   ﬂ,       /           . 
+            .   ﬁ    .  isolation_effect                combining   /          . 
+  ,  ﬁ                ( -   ).        ,        isolation_effect  ,  ﬁ    -   .        ﬁ  ﬂ                ﬁ    .      -  ,                  physical_quality        . 
+           .          isolation_effect      combining         perception               . 
+  process     ,                .. 
+         belief.     perception      combining          Collection.     ﬁ       ,         []. 
+ ,  process         .                    .   ,                     ,    ,       . 
+.  
+  ,  ﬁ            .    ,       perception     .      appraisal         .          . 
+. .   ,          appraisal  
+.  appraisal 
+.      ,           appraisal . ,        [activity]       .               .   ,       ,  ,,       ,  ,        ,  ,. 
+ combining  [activity]      (    ,       ,, ,  , ).  appraisal    ﬁ gain  [activity ],     .           ,    , ,           .     . , , . 
+  gain  [activity]         ,     satisfaction_of_needs . ,       ,     ( ,  ,, ,  ,,  ,  , )        ,  ,      .                        .    impact       combining        . 
+.   
+    combining                  (..     ).     ..              ,          . 
+  ,     //      //      
+================
+. .       . .        . .       
+    . 
+  . 
+,  , ,  , , , ,  , .., , , , , ﬁ, ,  
+. .    combining   
+ .       ()       ,       combining     , .  ,            . 
+     learning    .          ﬁ        (..       )     Tactics    .           []         belief (   perception   )       .            . 
+          "ﬁ- ", ""  ""     ""    .  gain,        .           //    //.  ,    ﬁ  . 
+,         ,       (     ""  )             ,         . 
+    ﬁ         :
+    :     
+         
+.          
+     , ,   
+   .     
+       
+       .  
+         
+., ..,   . 
+   . 
+, ,        
+      ,     combining. 
+        
+         . 
+,     ﬁ  
+ .        
+ experiential_awareness      ﬁ ﬁ  
+ ﬁ   . 
+,         
+         
+       
+  .    , , 
+      [experience]   
+   ﬁ       
+      .   
+        
+       ,   
+         
+        .        
+:       
+,        
+         
+.    personality belief    
+        
+      ..    
+          
+         
+        isolation_effect   
+     (    
+       ).    
+personality belief        
+   .     
+  ,   perception   
+  ﬁ       
+    techniques   . possibility_effect   :    
+         
+    evaluating       
+ .     impact ﬁ   
+          
+ ,        
+  .  ,      
+================
+physical_quality         
+            
+ . 
+        
+          
+.      ,   
+         
+         
+ ﬁ     .
+    :     
+  ,       
+        
+       . 
+    techniques     . 
+,        
+  ,     
+   .      
+          
+      (     
+ ).      
+    .    
+        personality 
+   .
+    :  gain   
+   ,    
+     ,      
+          [action] 
+    . ,    
+  ,       
+.       
+     ,   , 
+         
+. 
+ ,        
+        
+     .  ,  
+    ,   
+  ,   .    
+         
+       . 
+        
+     ,    , 
+        .                   ,          personality impact.                            . 
+.   
+    combining         "", "" (    ),  "".  ﬁ         ,   ""  .  ,       
+,           ,       ﬁ                     . 
+    ,   , , ,     .       ,          ﬁ  perceived_responsibility      (  )       . )  -  :  ﬁ  ﬂ   ,                   .         ﬁ     loss satisfaction_of_needs  ,      ,    . 
+%       ,       ,  ,     ,     loss      . 
+     ,    :
+ :     ,   
+       .  
+ﬁ    (     
+): loss extrinsic_rewards   , loss   
+      , loss   
+     ,  loss   
+  .       
+   loss extrinsic_rewards    
+       ( ﬁ 
+).   ﬁ  
+ gain       
+        
+Phishing . 
+       
+          
+           
+.       
+  ,     ,   . 
+  %      ,  
+         
+ ,          
+           
+         
+       , , 
+   . 
+         
+         
+       extrinsic_rewards  
+      extrinsic_rewards    .
+ : ,   ,     
+   ,     
+        
+.   personality belief,      
+,         , 
+     belief       
+================
+  ,       
+        .  
+         
+ﬁ (  ,       
+       ). 
+        
+     ,    belief 
+         
+          
+. 
+      . 
+        
+   ﬁ       
+      .   
+          
+         
+  ﬂ.
+   :       
+,        
+      .  
+        
+         
+,          
+           
+         
+ ,          
+         
+,         
+        
+belief       . 
+      
+perception        
+        perception  
+   .
+      :  ﬁ    
+perception          
+      .    
+        ,  
+      behavior_control-ability   
+         
+isolation_effect.    loss     
+          
+  . 
+      ,  
+        
+     .   , 
+     , imagination,  
+        certainty_effect 
+          
+.      
+         
+  .       
+, , , , , , 
+ . 
+)  -  :    ,   ,   ,       -   .  ,  (%)        , , (%)             , (%)  intentionality    . 
+       :   ;          ;           ;    ;   ;  ; ;  (    ); ,              . 
+   ,     :
+  :    ,    
+     loss   , 
+        
+  .      
+        . 
+          
+        loss. 
+        
+          
+         
+      personality,  
+          
+ . 
+       loss  
+  ,  perception     
+          
+        . 
+         
+      ﬁ 
+       .
+     :     
+         
+.        
+       ; 
+     ;  
+loss    , extrinsic_rewards   , 
+       , / 
+    ;    
+   Phishing ;    
+    ; ,    
+    loss     . 
+   ,      
+ ﬁ   (  %  %) 
+     fear_arousal   
+ satisfaction_of_needs    .   
+        
+       . 
+        
+   ,     
+     .   
+ ﬁ      ,  
+================
+        
+    ,    
+     . 
+ gain       ,  
+      ﬁ  
+[experience]  .  ,   
+certainty_effect        
+         
+      . , 
+     ,   , 
+         
+   . ,   
+     opportunity_for_criminal_acts    
+         
+  . 
+,      , 
+ live_modeling       
+           
+.  ,  ,     
+         
+  .
+       :  
+        
+         
+     ( ,   
+       ). 
+  ( %)      
+          
+   physical_quality    ,  
+     . , ,  
+        
+        
+  ,     . :        ,  
+   perception .   ,  
+ extrinsic_rewards     segregating   
+  extrinsic_rewards    segregating. 
+          
+        personality  
+          
+       .  
+,          
+combining     extrinsic_rewards   segregating, 
+       .  
+, ,         
+        
+   extrinsic_rewards   .  
+  ,      
+          
+          
+    .  ,     
+       . 
+         
+      .    
+  isolation_effect        
+         
+        personality 
+    . ,    
+          
+  perception     , 
+  segregating ,       . :         
+       
+     , ..   perception 
+      perception   
+. 
+,       
+          
+ .  ,  perception   
+personality          
+     extrinsic_rewards  . , 
+ ,  perception   [action]  
+         
+         
+. 
+   extrinsic_rewards    ,  
+         
+.         
+      (  
+   ""  ""),  
+        
+   .     
+        
+,      ,   
+         
+        . 
+    history     
+       . 
+    (  %  
+)       , 
+          
+       .   
+       fear_arousal,  - 
+belief  fear_arousal ()  perception    
+       fear_arousal. :        
+    ,     
+         
+  .    
+ (     )  
+,   isolation_effect  ,     
+        
+           
+ protection_effect     ( 
+   ).     
+      . 
+        , 
+     ,      
+      . 
+,       , 
+         
+    .      
+================
+,        
+         
+       
+ combining    .   
+         
+        
+ behavior_control-ability  ﬁ impact  . 
+    certainty_effect   
+ .   ,      
+       extrinsic_rewards    
+        
+         
+   .       
+        
+  . ,    
+        
+        
+ protection_effect .
+  :       gain 
+     .    
+ imagination (  ),  (  
+      combining ), , 
+, , , , ,  
+ .       
+          
+        ,    
+   personality  . 
+        
+imagination,    ,   personality 
+       perception  
+       . 
+,         
+    . 
+        
+     [activity ].    
+ ,        
+        
+        
+, ,       
+    .      
+ ﬁ    focus     .  :   [knowledge]  
+   , ﬁ   
+ , ,   (   
+     ), 
+   .    
+     , ..    
+   ﬁ. 
+        
+   Collection     , 
+         
+       . 
+        
+         
+    participant_modeling      
+.
+ :  ﬁ       
+         
+      .   
+   ﬁ     
+  . 
+      ,   
+   ﬁ     
+          
+   .     ,   
+     techniques   
+         ,  
+,     ﬁ   
+    judging     . 
+ , ,      
+,  " ", ..   
+  ﬁ      
+          
+possibility_effect  .      
+   ﬂ     frustration_of_needs 
+        perceived_vulnerability   
+,        
+      personality. 
+.  
+   appraisal             ,  ﬁ                       .                 (  loss extrinsic_rewards ),            isolation_effect       ,             . 
+                  physical_quality,                          . ,       .              ﬁ    ﬁ perception          mastery_experience     .      extrinsic_rewards     ,      (              extrinsic_rewards       )      possibility_effect      perceived_vulnerability.  belief                                          combining. 
+     appraisal                       
+================
+    ﬁ , ..            . ,         ,   personality     ,       vulnerabilities  ﬁ .            ﬁ       belief     protection_effect         ,                opportunity_for_criminal_acts. 
+,                  .                      ,     physical_quality ,          ﬁ      . 
+   ﬁ  generalizing               impact       .  ,     ,               perceived_vulnerability. 
+.  
+ ﬁ   focus  segregating            .            syllogistic_rules              perception     ,           .            combining      .  ,       . 
+          .                       . ,    ,   perception             . ,       (  , .)     ﬁ        [ownership]    .                         . 
+,  perception   combining                         learning.                          . ,             combining.    perception     
+             . 
+        ,                 . ,                . ,  focus  ﬁ         .  ,  ﬁ   focus          . ,           perception       . 
+. belief 
+        focus         .  belief                          .                         personality  fear_arousal            . 
+ 
+[] . ,      :   
+.     .(   
+    :  ), . (). [] .   . . ,       
+  : ,  [experience ],    
+[knowledge ].     [policy ], , . (). [] .   . ,     -  
+    personality    . 
+    [policy]  . (). 
+[] .   .  ,        
+  intrinsic_rewards           : intrinsic_rewards,  
+    . &  , 
+.  . (). 
+[] . , .   , . ,  . ,´ 
+ﬂ     .   
+ intrinsic_rewards  , .  . (). 
+[] .  , personality       ˇ 
+.  belief (). 
+[] .    ,     :   
+    .      , . 
+(). 
+[] . ,        
+  .  belief (). . [] .   .  ,    
+   :   . [policy]  
+ (). 
+[] .   . , evaluating      
+   .     
+ (  ), . (). 
+[] .   .   ,     " 
+ ﬁ    :   ,  ".  
+    [policy] , .  . (). [] .  , . , . ,  . ,   
+  "mental_calculation  ﬁ    ".  
+    [policy] , .  . (). [] . , .   . ,     
+    focus "mental_calculation  ﬁ    
+".     [policy]  . (). [] .     . , "    
+ ?         
+. ,     , .  . (). 
+================
+[] . . , mental_calculation  ﬁ    :  
+ ,  .     [policy] , .  
+. (). 
+[] . . ,    :  Collection  .  
+    [policy] , .  . (). [] . , .   . ,     
+  .    behavior& [Organization] 
+(). 
+[]    ,   
+   physical_quality     
+.   ://.// 
+. 
+/ (). 
+[] .   . ,    physical_quality     
+  .   ://..// 
+/ (). 
+[] ,  frustration_of_needs   physical_quality   
+    .  
+ ://.../// 
+ 
+(). 
+[]   ,  belief  .  
+ ://..// (). 
+[] .  , . , .   . ,    
+  :        ?.  
+, .  . (). 
+[]      ,       
+  . .     . 
+   ?.   ://../// 
+//      / 
+(). 
+================

@@ -1,0 +1,442 @@
+    
+    
+  
+       
+ ,  .  
+   intrinsic_rewards        .    intrinsic_rewards                  ,       .                                      ﬁ .            behavior_control-ability       .         [] -  intrinsic_rewards                     belief.                    -          . 
+ 
+  ( )     
+        
+     learning            ,    .                .  ,                    .   personality        ﬁ ( ;   . ). ,      ﬁ      ﬁ     ,   .      ,  gain    ,   combining, isolation_effect,           (  . )            .     ,   ﬁ          ( )        ( ).  ﬁ          ﬁ                ,    simplifying ﬁ    ﬁ     ﬁ. 
+ © ,    gain  ﬁ intelligence.   personality.   
+   
+================
+    
+      perceived_vulnerability        -  ﬁ ,     ﬁ   ,  ﬁ-       ,          .    ,      intrinsic_rewards       ﬁ      (  . ).    intrinsic_rewards   belief,  personality         , ,    (   ;  ;     ).  belief                                -           loss   .   ,  focus                   . 
+        .               belief.  ,             intrinsic_rewards. ,              [modeling]   ,  ﬁ  generalizing.      ,        ,           ﬁ     ﬁ   ,     ﬁ    .  ,          ,        ﬁ    .  ,         ,   , ,  . 
+     behavior,             behavior.  ﬂ  ﬁ     ,    (   ),   ﬁ .             ﬁ  ﬁ  .  ﬁ ,   ,            ﬁ.  process     learning   ﬁ   ﬁ  (    )      ﬁ  .   ,          ﬁ         vulnerabilities ( ,    ﬁ).         vulnerabilities  gain  ﬁs ﬁ evaluating     .         ﬁ      ﬁ.    . ()          .       ﬁ    ﬂ            intrinsic_rewards. 
+   ﬁ       ﬂ-based   —  ( )   ( ).     protection_effect     .               ϕ()             . 
+:     
+    intrinsic_rewards           ﬁ       .   . ()        intrinsic_rewards.               — ﬂ, ﬁ,    —    ﬁ . ﬂ                 . ﬁ            . 
+ﬂ               
+  
+       
+ ,  .   
+     ﬁ    
+       [resource]   
+     .  ,  
+   ,    (, , ).    
+   , ={},       
+  ,  = {},  (, )    
+        
+ ∈     [action]  ∈     
+   ∈ , = .     
+   [preference]     
+         
+ .     ﬁ   
+    .     
+       .    
+   intrinsic_rewards     
+         . 
+       
+         
+   ﬁ(,)≥Ui(,)  
+ ∈ .                           (   ).  
+   
+================
+    
+ ,  ﬂ            . 
+ 
+ 
+   combining    ,  ,     ,     , combining  .   ,  intrinsic_rewards         loss   loss       .   ,  ,          belief,                .                  .         ,  . ,    ()  experiential_awareness  belief         personality —   loss         intrinsic_rewards   . ,          . ,                     , ,  ,      intrinsic_rewards (    )             . 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ .         . 
+  
+   
+    ,         comply_effect       .  ,     ,       (   ). 
+             ﬁ    ,      ﬁ           (  . ;   . ).   ,    ,       comply_effect   ﬁ              .                               .     techniques, ,         . ,    ,     combining  perceived_vulnerability             ,   . 
+  
+                  [action ].  belief      
+ personality,                  .  ,    ,           loss      (   ;   . )            ﬁ loss (   ).         ( ),            .                 .            ,      perceived_vulnerability    .    ,      ,      .             ,               perceived_vulnerability    .                    ,         combining . 
+          ,                       .    (  . ),      ,            ,     .                
+   
+================
+    
+  
+ 
+ 
+  
+  
+++ 
+ 
+  
++ 
+ 
+ 
+ 
++   
+ intelligence protection_effect protection_effect 
+  
+ 
+ 
+ 
+ 
+ ++ 
++ 
++ 
++ 
++ 
++ 
++ 
+ 
+ [function] 
+protection_effect  
+ 
+++ 
++ 
+ 
+ 
+ 
+ 
+ 
+++ 
++ 
+ 
++ 
++ 
++ 
++ 
++     
+  
+ 
+  
+ø 
+ 
+   
+  
+ 
+  
+... 
+   
+ .   . 
+,       .             (  . ),   (  . ),   [resource]  (  . ).  ()        . 
+    intrinsic_rewards 
+               .             ﬁ,                 .  ,   [action]                   .          ﬁ      . 
+  ,     ﬁ- ,   . ()   ﬁ    personality           ﬁ-  .        ﬁ,              .             ﬁ , ,  ,           
+  .   ,     ﬁ       (ﬁ   )    loss       ﬁ . 
+,     ﬁ     ﬁ        ( ﬁ          )   loss        .     participant_modeling    . 
+                                ﬁ .                  ﬁ       gain certainty_effect ﬁ ,   ﬁ       . 
+   . (),       ﬁ            .     intrinsic_rewards        —                                  combining      ,      .           
+   
+================
+    
+          intrinsic_rewards. 
+ :  
+  intrinsic_rewards    ()       . ()    belief          ﬁ , ,  .    ,   ﬁ    (),      ,              intrinsic_rewards   .           (),          ﬁ    segregating       .   segregating [knowledge]    ﬁ,              loss      .          .    ,    ﬁ     loss   ﬁ            .                       ﬁ         ﬁ   %     loss       .   . ()     ε-instance   loss ,        ﬁ       ﬁ   ,   ﬁ. 
+     .     loss         ,    ,           ﬁ    .  Reverse_Engineering    ﬁ   perception,       (),   ﬁ    ﬁ   .  ,    (;    )     .   intrinsic_rewards   ﬁ  loss       -based loss                ,      perception     (  . ),         ﬁ         ﬁ        . 
+ ,        behavior      ,       , ,        .    ()    ,     isolation_effect                    
+   ﬁ  behavior_control-ability      loss.                 .     ﬁ             protection_effect   ﬁ    ﬁ   ﬁ.              , ,   ()      .         ﬁ   ,        .    ,          ,   task     .   ,   ﬁ  intentionality       ( )     techniques     ﬁ            ﬁsperformance.      , ,         ()    . (),     ,     techniques  ﬁ     intrinsic_rewards. 
+  . ()                .       :          loss [function ],  ,   ,         loss [function]        . ,      :                [function ],        loss [function]     [function ].   ,           —     ﬁ     perceived_vulnerability   ﬁs           .    ,                  ﬁ    ﬁ       loss    .    simplifying               ,    . 
+ ,                    . ,                 ,            ﬁ;            (, ,   ;    ).    ()                    
+   
+================
+    
+ 
+    
+     
+  
+ combining  
+ ;  ; 
+, , 
+    , ,  ﬁ  
+        
+ ﬁ 
+      
+ perceived_vulnerability  
+     
+        
+ ﬁ 
+, ,  combining  
+      
+, loss,  ﬁ 
+ 
+   ﬁ 
+ ;  ; 
+ ;   
+    , ,  ﬁ  
+        
+ ﬁ 
+      
+, ,  ﬁ 
+ 
+      
+  
+ ;  ; 
+  
+    , ,  ﬁ  
+       ,  ,        
+ ﬁ 
+ .       intrinsic_rewards. 
+ ﬁ    . 
+ﬁ       .         ﬁ   simplifying  ﬁ-        .              ﬁ    (  . ) , ,            ﬁ (   ). ,   (  . ;    )            ﬁ-based     ﬁ   ﬁ ﬁ   ﬁ  . 
+     ,                  . 
+,    ()                   ,     ,       .             simplifying  loss [function]  ,       physical_quality                   .     
+              . 
+   mental_calculation                                 ,  physical_quality  frustration_of_needs .                   ﬁ,                  . 
+ : 
+  
+   intrinsic_rewards         personality              (   ;   . ;    ;    ; , ,   )   loss           intrinsic_rewards        .       ,   mental_calculation  loss  
+   
+================
+    
+              ﬁ      ﬁ   . ,     perception             ﬁ        ﬁ .  , mental_calculation        ﬁ     ﬁ    : "           ,     ."          ﬁ    ﬁ        ﬁ . ,                          .  techniques  ,     appraisal      ﬁ          ﬁ    perceived_vulnerability. ,    mental_calculation  loss               ﬁ.   ,    ()        .                       .           —  ,  ﬁ                  —      . 
+    (   ),       ()         .    ()               . ,     role   ,      role        learning  perception      .                     perception   .       (),                    . , , ,   ()         .   (   )        . ()            ﬁ   physical_quality         . 
+         . ()            (   ). ,   mental_calculation             .    ,             
+.    ,    ,                     .           ﬁ    loss.       ,           perception (   )      . 
+      ﬁ-       , ,   ()   personality       .              .              ﬁ        .    ,     perceived_vulnerability       .     combining                ,        .        perceived_uniqueness       ﬁ       ,     ,     .                           .                loss          . 
+     [modeling] 
+           focus               .  perception      ,       belief,                       .         ,       ,     ﬁ    ,        .    ,       personality intrinsic_rewards              :          ,       ,      (). 
+   
+================
+    
+  
+   
+      ,  ﬁ                .         techniques      judging  intrinsic_rewards   ,  ,      possibility_effect .      ,          combining        .                        ;   ,        . ,      ﬁ,               .  ,    ﬁ ,            ,              ,    ﬁ ﬁ        .              ﬁ,                     ﬁ.             —         ,      ﬁ .    ,            ,  ﬁ     ,           (, ,   )             .              combining  . 
+        ,   . ()     techniques        [function]   ﬁ     [function]        combining        .   techniques                ﬁ      ﬁ,    ﬁ, protection_effect  ,    ﬁ.       combining         . ()     (). , ,   ()      personality                      .    , , 
+   techniques         combining        loss [function] ( , loss  )         .         intrinsic_rewards          combining         ,   ﬁ           ﬁ,   certainty_effect                perceived_vulnerability  .    ,      ﬁ  intrinsic_rewards          perceived_vulnerability            (, ,   , ),        ﬁs      (  . ),                      ﬁ           (  . ),               (   ).    intrinsic_rewards            .  ,    ()       .           ﬁ                ﬁ,            segregating.       ,      (   )  ﬁ             ﬁ   (   ).    ()              ﬁ.  ,       intrinsic_rewards  satisfaction_of_needs perception         ﬁ                 intrinsic_rewards              ﬁ. 
+ 
+  
+    intrinsic_rewards                                         ﬁ.       intrinsic_rewards    , 
+   
+================
+    
+          —            ﬁ         ﬁ.     loss                  ,              .  simplifying ,    ﬁ             ﬁ      ,            - ﬁ.  techniques                ﬁ    .                  techniques        ﬁ     ﬁ,    ,  perceived_uniqueness  ,    ,        . 
+       ,                ﬁ       . , ,   () ﬁ    physical_quality             ,            .                ﬁ      . ()                   . ,    . ()  
+                .             ( )             ﬁ             .    ﬁ       techniques     (  . ),     
+                       .     ,                        intrinsic_rewards. 
+                  .   ,     [function]    (  ﬁ),    [function]    .              combining ,              [function ].                    loss       . experiential_awareness    perception                 , .           ,             ( )        ,  ,   ,  ,  ﬁ ,                        - ﬁ.  ,        ﬁ                         .  ,   intrinsic_rewards     ﬁ    ,       task      ,         task        .       ,   , ,      perception        -  (, ,   ;   . ).     ,     (, ,   ),  (  . ),  (  . ),   (   ),    .           , personality ,    (  . ),        (  . ),     intrinsic_rewards      opportunity_for_criminal_acts    (   ;   . ).      ,                    . 
+     
+ 
+ (  . )         techniques  
+  ,  belief      [modeling]       . ,        behavior [modeling]  
+   
+================
+    
+,        ,                     .   combining    possibility_effect    . 
+   
+   behavior 
+                   history              behavior     .      personality     history                      behavior     - ﬁ . 
+             history -        .     ,   ,            behavior  ﬁ ,      evaluating      .   ,  combining  ﬁ     . 
+   
+  ( ) 
+               [resource ],  ,  ,           .  ,          - ﬁ,              ﬁ,  gain           ﬁ.    syllogistic_rules   intrinsic_rewards  combining        ,       - ﬁ ﬁ,        .  ,                ﬁ ﬁ  combining        . 
+  
+    
+               - segregating  ( ,    ,  )        .  ,            . ,   ,        segregating           impact      .             (, ,   )   segregating               (   ;   . ).    personality                     .  ,            personality     loss   .     ,              judging           behavior_control-ability loss.     combining         judging  . 
+  
+   
+  ,              .   ,            .        ,  personality, personality intrinsic_rewards,   ,          ,  ,    ,   . intrinsic_rewards    belief                  personality . 
+ behavior [modeling] 
+    
+  intrinsic_rewards                  ﬁ    ,            ﬁ.             ,          ,       .         ,   ﬁ            ﬁ   . ,     ,        frustration_of_needs  (   )            .     ,  belief         [modeling]      loss      , loss  persistence  participant_modeling history,  loss       history. ,                   
+   
+================
+    
+ ﬁ      extrinsic_rewards      extrinsic_rewards    . 
+ ﬁ 
+   
+  ,  protection_effect     ,        ﬁ       ,      .   ,                       .    ,  techniques            . 
+,      [knowledge ],            .              .  ,   intentionality   ﬁ        personality           ( ,    )   ,   ,             .       ﬁ       source   ,          source     . 
+ 
+     ﬁ     intrinsic_rewards    .           ,     ,    ,        belief intrinsic_rewards      behavior [modeling ],       ﬁ   [action]     .   ﬁ      .  intrinsic_rewards      ,        gain , ﬁ-based      ﬁ,     ,      perception           personality    . 
+ 
+      protection_effect    ﬁ                       . 
+ 
+, .; , .;  , . .   
+   .      
+    ﬁ intelligence, .  
+, :  . 
+, .; , .;  , . .  
+  .    
+  : . 
+, .,  , . .   :  
+  .      
+    ﬁ intelligence, . 
+ , :  . 
+, .; , .; , .; , .; ˇ , .;´ 
+, .; , .;  , . .   
+     .    
+     [knowledge]   
+, . : . ././ 
+ 
+, .,  , . .    
+  .      
+     [knowledge]  
+  ,.  :    
+ . 
+, . .; , .; , .; , .;  , . . 
+       .       
+ : . 
+, .,  , . .  mental_calculation  
+   .       
+    ,.  : . 
+, .,  , . .    
+:    .     
+      ,.  : 
+. 
+, .,  , . .       .     
+    , .  : 
+. ././.. 
+, .; , .; ; , .;  , . .  ﬁ.     
+     [knowledge]  
+  ,.  :    
+. 
+, .; , .;  , . .    
+    .   
+(): . ././ 
+, .; , .;  , . .   
+    ﬁ.   
+      : . . 
+/./.. 
+,.;,..;,.;,..;,..; 
+, .; , .; , . .; , .;  . 
+. .  —     
+   .  (): . ./ 
+./.. 
+, . .; , .; , .; , .; , .; , 
+.; , .;  , . .   
+        
+.    personality    
+ .   Collection ,.  : 
+. ././ 
+, .,  , . . belief. , 
+:  . 
+   
+================
+    
+, .,  , . . . fear_arousal   :     .          learning - 
+, .; , .; , .; , .;   , . .  ﬁ       ﬁ . 
+,.  :         ﬁ intelligence, 
+. 
+.  : . ././ 
+, . .; , .; , .; , .;  
+, .; , .; , .;  , . ., .; , .; , .;  , . .   
+  .          . 
+    , . 
+, . .; , .;  , . .     .   isolation_effect : .. ,  :   . 
+, .; , .; , .; , .;  , . . .   ()    .   isolation_effect : .. ,  :   . 
+, .; , .; , .;  , . .      .      (): . , .,  , . .        .          [knowledge]   , .  : . ./ ./ 
+, .; , .; , .;  , . .  ﬁ.             , .  :    . ././. 
+, . .        ,  .   perceived_vulnerability    .   (): . ././... 
+, .; , .; , .; , .;  , . .   :       .   isolation_effect : .. ,  :   . 
+, .; , .; , .; , . .;  , . . .   .           ﬁ intelligence ,. 
+./. 
+  isolation_effect : .. ,  :   
+ . 
+, .,  , . .  .   
+        
+ [knowledge]    ,.  : 
+   . 
+, .,  , . .     combining      .        ﬁ 
+intelligence, .  , :  . 
+, .; , .; , .;  , . . 
+  .   isolation_effect : 
+.. ,  :   . 
+, . . .  belief :   ﬂ. 
+, :   . 
+, .; , . . .; , .; , .; , .; 
+, . .; , .; , .;  , . . .  
+    ﬁ.   
+   : . 
+, .; , .; , .; , .; , . 
+.;  , . . personality    
+ .         
+     , . 
+ :    . 
+, .; , .; , .; , .; , . .; 
+ , . .       
+ .        
+    ,.  : . . 
+/./.. 
+, .; , .;  , . .    - 
+ﬁ:  perception       
+.         
+, .;  , . ., . .   :    belief    .  : . 
+ :    . ./ , .  :   . ././. , .; , . .; , . .; , .;, .; , . .; , .; , .; óñ,.;  , . .    :  ﬁ- 
+       .        
+.   [knowledge]  
+. ././ 
+, .; , . .;  , . .       .   isolation_effect : .. ,  :   . , .; , . .;  , . .      .   isolation_effect : .. ,  :   . , .,  , . .     ﬁ.         , . , :  . 
+,.,,..  .           ,.  : . 
+   , . , :  , .; , .;  , . .  ﬁ 
+       appraisal  internalization   personality  . 
+(): 
+, .; , .; , .; , .;  , 
+   
+. .  —Innovative    belief    .           ﬁ intelligence, .  , :  . 
+, .; , .; , .; , .; , .;  , . .      perceived_consensus.  . :.. ,  :    . 
+, . .  :        [Organization]   .  : . 
+, .,  , . . .   .          , . , :  . 
+================
+    
+, . .,  , . .    
+     ﬁ    
+.  : . ././. 
+... 
+, .,  , . .   
+— , ,   .  
+:   . 
+, .; , .; , .; , .; , .; 
+, .;  , . .    
+ .  . :.. ,  : 
+  . 
+, . .    belief : , 
+ ,  .: 
+ . ././ 
+, . .; , .; , . .;  , . . . 
+   .     
+     , . 
+, :  . 
+, .; , .; , .; , .;  
+, . . .   :  
+  .  /.. ,  : 
+  . 
+, .; , .; , .; , .;  
+, . .      
+.  . ::. ,  :  
+ . 
+, . . .    .  
+(): . ././.. 
+, .; , .;  , . .  
+    .    
+     ,  
+.,:. 
+, .,   . .   
+ﬁ   .     
+       
+, . , :    
+    . 
+, .; , .; , .;  , . . :  
+     [policy] .  
+       ﬁ 
+intelligence, .  , :  . 
+    perceived_consensus  ﬁ   , .; , .; , .; , .; , .; , .;  
+         , . . . :     
+, ,        perceived_consensus     . 
+    .        isolation_effect : .. ,  :  
+   ,  ,   . 
+,   belief.       , .,   . .                .                    .          , . :          ,  ,  . ././..             , . 
+, .,  , . . [modeling]  
+ .             .     
+           ﬁ-Asia     [knowledge]  
+  , , .        ,  , . ././ 
+  [experience]     ,   
+    perception intrinsic_rewards  , .; , .; , . .;  , .         .  protection_effect   .   .                   .        [knowledge]    , .  :      ,      . ././.    belief         . 
+   
+================

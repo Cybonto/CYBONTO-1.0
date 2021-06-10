@@ -1,0 +1,516 @@
+             ,      .       .  :  
+./..,      
+ 
+           :      
+ , , ,   ,  ,  
+ 
+      participant_modeling      .  intrinsic_rewards           gain          (). ,              .      ()          ().             intelligence    intelligence        intelligence , ,   .            intelligence          intelligence    perception    .       ()    .  gain,             .           , , , , ,      . 
+   ,   ,   ,  ,    . 
+.  
+   learning    evaluating 
+   .  ,                         evaluating  %.           . ,   . ,   . ,   . ,    . .         %   
+ 
+        ,   ,  ,  , . ( : .@..). 
+ ()  .       . ,                     @.. 
+ 
+ 
+ 
+ 
+ 
+ 
+participant_modeling   combining   [, ].       participant_modeling      %,  %,  %   % [].    personality      .  intrinsic_rewards         , ,     .               , protection_effect,    , ,   .         process,    personality           .  gain,        [experience]       . ,           .                 gain       simplifying  loss.    personality    . 
+              gain     physical_quality    .              ,   .  ,           intelligence      [].     ,               ,    personality       ,      situational_circumstance .                  satisfaction_of_needs       . ,       ,          []. ,                 . 
+  ,  gain            
+ ()  .    ,  /   .  
+://..////.   . 
+================
+             ,      .       .  :  
+./..,      
+ :     .            , ,   intelligence .               [].            ().    personality        , , ,     [].            .         ,  ,   .   ,              .                        .  [],  perception        .                           . 
+,  participant_modeling   role     .        () focus      ,  intelligence       .             ,       .   planning            , , situational_circumstance    [].      ,             :    ,   ,   intelligence ,   ,     .                          . 
+          perception  . ,               ,  ,   (),     ().    ,                 .             .  gain,             .         .          .     perception         .          .        ,     .          (). , 
+ 
+     . 
+.    
+      personality                .   ,          .  gain,          . 
+.     
+     ,  , ,   .    , ,       .         . .             .     appraisal          .   ,               .             . . 
+.       
+.     
+                 .      , ,  ()   . . 
+)  
+     personality        .    intelligence         .   role                , , ,      .        ,   ,               [].        personality    
+ ()  .    ,  /   .  
+://..////.   . 
+================
+             ,      .       .  :  
+./..,      
+.         
+ -connected      [].             [].                     []. 
+.        
+   intrinsic_rewards    ,                     [].    ,      []   , ,   .            intelligence    []. ,     personality        ().          [].          : ,             [].      []             . 
+)    
+                  .           []    . .         .  
+ 
+   intrinsic_rewards         .              .      []   () ,   intrinsic_rewards,      .   ,           .  combining     ,      gain    loss []. ,            simplifying loss  .   intrinsic_rewards             [].  [],    intrinsic_rewards    personality loss :  ,     .             [].              behavior      [, ]. 
+.         
+,   focus              loss              []. ,        .                [].    techniques         
+ ()  .    ,  /   .  
+://..////.   . 
+================
+             ,      .       .  :  
+./..,      
+          [].  [],                     .        . 
+         
+     , , ,  ,  
+,  , ,          
+    
+   
+ 
+       
+      
+         
+     , 
+   
+  
+loss ,   ,   
+       
+ 
+ forethought_capability         
+          [,    [,   ] ] 
+.        
+   perception    ,      personality    .     ,    . ,           .                       intelligence   . 
+.   [modeling]     
+            .             []. [modeling]                 .             [modeling] []: , , ,     . ,      personality            .     intrinsic_rewards      protection_effect   behavior         .  ,                .  gain,      
+ 
+         . ,           , ,        .       ,   intelligence         . 
+.      
+              .   belief       ,    . ,           .                            .  gain,      , ,             . ,      combining isolation_effect          []           . .     [modeling]    . 
+             ,   ,               .      [modeling]     [].       perceived_vulnerability    [modeling] .        ,               
+ , ,     
+.  personality        
+.            , ,     
+  : appraisal      ,         , 
+ ()  .    ,  /   .  
+://..////.   . 
+================
+             ,      .       .  :  
+./..,      
+    ,      []. 
+       [modeling]  
+ gain loss                        
+    personality  
+           
+            
+  
+   
+  appraisal      
+perceived_vulnerability     
+     
+     appraisal    
+    
+   
+               [function]         
+process    
+ 
+ [modeling] intrinsic_rewards     techniques  ,      behavior   [].  [modeling]                      . ,        ,                 protection_effect     [].  ,  perception     []  [modeling]        .  perception         satisfaction_of_needs       ,    . 
+.   [modeling]      
+ [],          .         ,  
+ 
+   protection_effect.              .  [],       [modeling]         . 
+.      
+             .       . . ,                .  perception              [].               [].              [].      perception               .              :   ,   ,        []. 
+.       
+    intrinsic_rewards               .                      ()     [].             . ,   personality      perception         .  ,          []             . 
+ ()  .    ,  /   .  
+://..////.   . 
+================
+             ,      .       .  :  
+./..,      
+.        
+personality                  .    possibility_effect        intrinsic_rewards      .                    personality             [].              [],     [],     ()    [].    ,        .  [],            personality       .  [],               .  [],          .               gain   .         ,   .              [].          []. ,               perception    .  [],                .              : 
+)     . 
+)   intelligence [knowledge] . 
+)    . 
+.     
+                 intelligence ,   .        intelligence .        , ,         . ,           gain     .   ,                . 
+.          
+       ,                . ,                   []. ,   
+ 
+     personality               , ,    protection_effect         [].  ,               :     [resource] planning ()   [resource]  () [].               . . 
+.         
+                  .  perception      []        process         .         ,        []    intelligence   .       perception      .      : intelligence , ,  .  perception                 [].    ,   perception        [].  perception      extrinsic_rewards                ,       . 
+              []. ,   ,         .  [],                .   ()      .    intelligence                [].               
+ ()  .    ,  /   .  
+://..////.   . 
+================
+             ,      .       .  :  
+./..,      
+     [].             , ,      [].          .  [],        intelligence     intelligence        .         process         []. ,      .  [],         combining           . 
+.       intelligence  
+         ,       .               .             .    , ,             . intelligence           process          mental_calculation    . intelligence      intelligence,        . , ,  ,        intelligence .   ,  $          intelligence            [].  perception  intelligence        .  [],          ,           intelligence . 
+intelligence            participant_modeling              personality      [].         personality      intelligence     [].                 combining personality    .                    [resource]    [].  [],   focus        intelligence , intelligence       . ,        intrinsic_rewards            .       []                   process   . 
+ 
+                .    ,    ,  ,     ,         [].                 .  /         intelligence       personality     .  perception                  [].     ,                             [].         intelligence    .       intelligence         .  [],          intelligence         . 
+.       () 
+               .      syllogistic_rules             [].                              [].               .   ,                    []. .        intelligence . 
+.   perception    intelligence  
+         .      
+ ()  .    ,  /   .  
+://..////.   . 
+================
+             ,      .       .  :  
+./..,      
+  ,               [].  [],              .                        %    [].  gain,                   .           ,     intelligence  [].              .           . 
+         
+      
+         
+        
+ 
+    personality, protection_effect  
+  
+    appraisal    personality appraisal  
+   
+     intelligence   
+  
+. , ,     
+ 
+     protection_effect personality        .  gain             vulnerabilities,    .  gain,             opportunity_for_criminal_acts    [].   belief      : ,    [].       ,      .   ,               . 
+.  
+            intelligence  . ,     intrinsic_rewards     combining   .      protection_effect         .   ,                [].    perception           [].                      behavior.  [],  intelligence      appraisal        
+ 
+             [resource ]. ,        personality     ()    ()     .  [],        [] ,    []       .     techniques          [].       []   [] appraisal    .  [],          belief  . 
+.  
+               .             loss.            . ,          []. ,          possibility_effect    vulnerabilities [].     fear_arousal    .             . ,  belief        .  ,       protection_effect            [].              [].  [],            .  impact           appraisal    .                 [].       vulnerabilities            [].                loss      loss.  [],                    .                         . 
+.  
+        personality   .         ,       .          process    . ,    perception         .        
+ ()  .    ,  /   .  
+://..////.   . 
+================
+             ,      .       .  :  
+./..,      
+       .      process                    loss  [].  [],                         .                      [].  [],   loss        ,    &        personality     . 
+             . personality       personality       .                physical_quality   .               loss       .  [],       ,  ,        .            .  [],                .       simplifying          .                          [].  [],            .        []   appraisal            .      []         perceived_vulnerability  ,       .   ,            . ,      []                 . 
+.      perception   
+     ,        .           ,      .            personality   personality [].        perception      personality  intelligence .           
+ 
+  , personality   ,       [].                      [].               ,   .  ,      ,       .           .       ,                   []. ,                   . 
+.  
+    personality     source   .              extrinsic_rewards        , ,      .   ,      ,       .  gain,          .                  intelligence   .         perception : 
+.     , ,  
+         
+perception  . 
+.           
+.     ,    
+ [modeling]     ,  
+    . 
+. personality      
+        
+     perception. 
+.          
+         
+perception. 
+.          
+ intelligence     
+   intelligence . ,    
+          
+       . .   ,        
+.      
+         
+  . 
+.         
+ perception  simplifying . 
+. ,      belief  
+ ()  .    ,  /   .  
+://..////.   . 
+================
+             ,      .       .  :  
+./..,      
+            . 
+ 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+   , "   ,"    . 
+   , "     ," , . 
+   , "        ",    . 
+. , . , . , . ,  . , " perception  : , ,     ,"    , , . , . , . 
+. , . , . ,  . , " :    ,"     (),   /, , . . "  —    ,"   , :   , , .  . 
+.  , . ,  . , "    :  ,"  ,   , . , . , . 
+. . , "      ,"    , , . , . , . 
+. , . , . ,  . , "  :       intelligence ,"    , . , . , . 
+. . , "          ,"     ( ),   , , . . 
+. , . , . . ,  . , "personality  gain       /  ,"      (),    , , . . 
+. . , . , . ,  . , "        ," , , . , . , . 
+.   . . , "focus          &;  focus,"     (),      , , .  . 
+  extrinsic_rewards, ":          -      ," . :   extrinsic_rewards, . 
+. , . , . ,  . , "       ,"      , .  .   , , . . 
+.   .-xxx. , "      ," , . , . , . .   . , "focus        ,"       ,  , , . . 
+.   .-xxx. , "        ," , . , . , . 
+. , . , . ,  . , "       ,"  ,   , . , . , . 
+. , . , . , . , . , . ,  ., "     ,"       ,  , , . . . , . ,  . , ", ,      ," , . , . , // . 
+.   . , "         ,"    
+ 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+   (),     , , . . 
+.   .  , "               ,"     , . , . , // . 
+. , . , .  , . , "          ,"   , , . , . , . . , . ,  . , "      perception    ,"  , . , . , // . 
+. , . . ,  . , "          behavior .  :  ,"  personality , . , . , // . 
+.   . . , "          behavior .  :  ,"  personality , . ,  , . , // . 
+. , . . , . . , . ,  . , "   :    ,"  , . , . , . 
+. , . . . , . , . ,  . , "             ,"     , . , . , // . 
+. , . . , . . ,  . , "loss -      ,"  ,   , . , . , . . .   . . , "            ,"   , , . , . , . 
+. , . á, . . ,  . . , "            ," ,  . 
+. . , . , 
+́ 
+ . . , "         ," ,  . 
+. . , . ,  . , "           intelligence ,"   intelligence   (  ),     , , . . 
+. , . , .  ,  . , "       ,"        (),     , , . . 
+. , . , . , . , . ,  . . , "           ,"     , . , . , . 
+. , . . , . . ,  . .  , "        [modeling] intrinsic_rewards,"     , . , . , // . 
+. , . . ,  . . , "[modeling]  ,"    , . , . , . . , . , . ,  . , "modeling personality     intelligence  ,"    . 
+, , . ., . , . . ,  . . . , "[modeling]          ," ,   ,  :   ,   , . , . , . . . , . , . ,  . . , ":       ,"  ,   , . , . , . 
+. , . . , . ,  . , "judging   :         ,"  ,   , . , . , . 
+ ()  .    ,  /   .  
+://..////.   . 
+================
+             ,      .       .  :  
+./..,      
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+. . , . , . . ,  . , "         ,"  ,   , . , . , . 
+. .   . . , "     ,"  ,   , . , . , . 
+. , . . , . , . , . ,  . , " :   perception    ," ,   . 
+. , . , . ,  . , "   perception         ,"  ,   , . , . , . 
+. , . , . , . ,  . , "         ,"      . personality      . . , . , . ,  . , ., :   , , . . . , . , . ,  . , "   :     ,"    , , . , . , . 
+.   . , "  :       ,"    , . , . , . 
+. , . , . , . , . ,  . , "          ,"    ,   , . , . , . . , . , . , . ,  . , "           ,"    , .  .    , , . . 
+.   . , "              ,"  , , . , . , . .   . , "           ,"  ,    & , , . . 
+. , . , . , . , . ,  . , "         ,"    intelligence   , . , . , // . 
+.   . . , "          ,"  , . , . , // . 
+.-xxx. , .-xxx. ,  .-xxx. , "       ,"    , . , . , // . 
+. , . , . ,  . , " personality        ,"      (),     , , . . 
+"    ," , ://..// / . 
+. , . ,  . , "      perception   -Internet  ,"      intelligence (),    , , . . 
+. , . , . , . , . ,  . , "            intelligence ,"    -      , , . . 
+. , . , . , . , . , . ,  ., " intelligence  ,"           (),   , , . . 
+.   . . , "      /   ,"    - 
+ 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+       , , . . 
+. , . , . . , . , . ,  . , ", [modeling ],          ,"  ,   , . , . , . 
+.   . . , "    :    ,"    , , . , . , . . , "      , ,      ,"    , , . , . , . 
+. , . , . , . , . ,  . , "  :      intelligence ," , , . , . , . . .   . , "    intelligence   ,"  intelligence   (),     , , . . 
+. , . , . , . ,  . , "focus          ,"      (),     , , . . 
+. . , . ,  . , "  techniques   ," :  , . 
+.  , "intelligence : ,   .     , [modeling ], ,   ,"    , . , . , // . 
+. , . . , . ,  . , "   :   intelligence  ," , , . , . , . 
+. . , . , . . , . ,  . , "   , ,    ()     intelligence ,"     , . , . , // . . , . ,  . , "         intelligence ,"    , . , . , . 
+. , . . . , . . . . , . , . . , . ,  ., "    :     ,"    , . , . , . 
+. . , . ,  . . , "    intelligence  ,"  ,   , . , . , . 
+. , . , . ,  . . , "intelligence            ," intelligence ,   , . , . , . 
+.   . , "     intelligence ," intelligence ,   , . , . , . . , . ,  . , "           intelligence ,"  ,   , . , . , . .   . , "    intelligence   ," , ,  : ,   , . , . , . .  , . , . ,  . , "intelligence     :          ,"   intelligence   (),   , , . . 
+.   . , "   personality            ,"  ,   , . , . , . 
+.   . . , "                 ,"   
+ ()  .    ,  /   .  
+://..////.   . 
+================
+             ,      .       .  :  
+./..,      
+   (),    , 
+, . . 
+[] . , . , . , . ,  . , 
+"        
+ ,"  belief& , , . , 
+. , . 
+[] . , . ,  . , "   
+    ,"     
+ (),     , , 
+. . 
+[] . , . ,  . . , " 
+          ,"  
+    (),   
+  , , . . 
+[] . , . , . ,  . , " 
+ loss        
+        ,"  [policy ], 
+. , . , // . 
+[] . , . , . ,  . , "   intelligence  
+ : ,   
+,"  & , , . , . 
+, . 
+[] . , . ,  . , ", protection_effect,  loss - 
+    ," intelligence , 
+, . , . , . 
+[] . , . . , . ,  . . . 
+, " , ,     
+  ,"    , . , 
+. , . 
+[] . , . , . . , . , . . 
+,  . , "  :   
+ focus   [modeling]  ," . 
+[] . , .  , . , . ,  .  , " intelligence 
+personality  appraisal      
+ ,"  ,   , . , 
+. , . 
+[] .   . , "  perception   
+ ,"  ,   , . , 
+. , . 
+[] . , . ,  . , "     
+     ,"  
+ , , . , . , . 
+[] . , . , . ,  . , "  
+      ,"  
+ ,   , . , . , 
+. 
+[] . , . , . . , . ,  . , 
+"  perception       ,"  
+ ,   , . , . , 
+. 
+[] . . , . . ,  . . , " 
+Vulnerabilities      ,"   
+       
+,  , . 
+[] . , "satisfaction_of_needs     :    
+  ," & , , . , . 
+, . 
+[] .  , . . ,  . , "satisfaction_of_needs   
+ :   ,"    , 
+, . , . , . 
+[] . , . , . . ,  . , "  
+    appraisal      
+,"   intelligence   -  ( ),  
+, , . . 
+[] . , . ,  . , "     
+     ,"  
+,   , . , . , . [] . , . ,  . , "    
+     impact ,"    
+   (),  /, , . . [] . , . , . ,  . , "   
+       ,"  
+ 
+    , .  . 
+  , , . . 
+[] .   . , "     
+    &;  loss 
+    ,"  ,  
+ , . , . , . 
+[] . , . . , . , . , . ,  . , 
+"[modeling]       & ," 
+situational_circumstance Impact appraisal . 
+[] . , . ,  . . , "    
+    protection_effect [Organization]   
+ ,"  ,   , . , . 
+, . 
+[] . , . ,  . , "   
+       ," 
+,   , . , . , . [] . , . , . , . , . ,  . 
+, "      
+ ,"  ,   , . 
+, . , . 
+[] . , . ,  . . , "    
+     ," 
+ ,   , . , . , . [] . . , . , . , . , . . , . 
+,  ., "        
+,"  ,   , . , . 
+, . 
+[] . .   . , "    
+       ,"  
+,   , . , . , . [] . . , . , . ,  . , " 
+       appraisal,"  
+,   , . , . , . [] .   . . , "    
+planning     ,"  , 
+  , . , . , . 
+[] . . , . . ,  . . , "  
+           
+  ,"  ,  
+ , . , . , . 
+[] . , "  ,"    , 
+. , . , . 
+[] . ä, "   :   ,"  
+  , . . , . . , . . , 
+ . , ., :   , , . . 
+[] . . , . , . , , , 
+.  ,  ., "   :     
+  perceived_responsibility   ,"    
+, , . , . , . 
+[] .-xxx. , . , . ñ-Ruiz,  . 
+, "  : []   ,"  , 
+. , . , // . 
+ ()  .    ,  /   .  
+://..////.   . 
+================

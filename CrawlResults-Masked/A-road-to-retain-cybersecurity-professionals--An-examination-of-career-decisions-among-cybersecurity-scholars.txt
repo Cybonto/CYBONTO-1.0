@@ -1,0 +1,681 @@
+情報保護學會論文誌 第  卷 第  號, .  
+사이버 정보보호 인력의 양성과 유지를 위한 방향: 정보보호 전공자들의 직업 선택 의도에 관한 연구 
+* 
+채 상 미, 김 민 균 
+ 이화여자대학교, 서강대학교 
+   protection_effect  :     
+    
+ ,     ,   
+요 약 
+최근 정보화 사회에서 사이버 정보 보호는 가장 중요한 분야로 대두 되고 있는 가운데 전문적인 정보 보호 인력에 대한 수요는 전 세계적으로 빠르게 증가 하고 있다. 전문적이고 능력 있는 정보 기술 인력의 보유는 정보화 사회에서 향후 경쟁력과 리더십을 얻는데 매우 중요한 이슈이다. 본 연구는 대학에서 정보 보호와 관련한 전공을 선택한 학생들 을 중심으로 어떠한 요인들이 그들의 전공선택과 향후 정보보안 과 관련한 직업을 선택하게 하는데 영향을 미치는 지 를 분석 하였다. 문헌 고찰을 통해 학생들이 전공 선택과 직업선택에 관한 영향을 미칠 수 있는 대표적인 요인들을 도 출하고 이 요인들과 학생들의 전공 및 직업선택과의 관계를 실증적으로 검증 하였다. 본 연구의 연구 결과는 향후 우 리 사회가 보다 우수하고 전문적인 정보 보호 인력을 양성하고 유지하는 데에 기여 할 수 있을 것이다. 
+isolation_effect 
+   ,             ,         . ,      ,             () ,         . ,                  perceived_vulnerability      .  focus     behavior_control-ability   behavior    .  focus         persistence   . certainty_effect           self-efficacy    [knowledge]      impact      . ,         certainty_effect      .                    . 
+: ,  ,  belief,  belief,     
+,     , self-efficacy,      
+접수일(년 월 일), 수정일(년 월 일), 게재확정일(년 월 일) 
+†주저자, @.. ‡교신저자, @.. 
+================
+ 사이버 정보보호 인력의 양성과 유지를 위한 방향: 정보보호 전공자들의 직업 선택 의도에 관한 연구 
+.  
+       ,          .            [],       .   frustration_of_needs   ,   ,  .% gain  .  ,   impact        $ [].    ,              [].                 .      perceived_vulnerability    ,       gain             .   focus,                  .       ,   ,     ,      ,               .              (),              belief       [].        .       focus       . 
+ protection_effect       
+      ,     protection_effect           protection_effect       .    focus,                       techniques       . 
+       . ,       focus       persistence     .     ,    ,                .   focus      ,      belief          . ,  focus                              . 
+.     
+         role         ,    ,   ,       ,     focus                 .                                   
+================
+情報保護學會論文誌 (. )  
+      .    ,    ,  perception,        .        .                         learning               .              impact                     . 
+     ,            personality      ,            [].  focus                             [].    .                               [].                    . 
+   ,          certainty_effect   [].         ""     .        .               (..,   ,  ,   ,  ,  protection_effect )[].   , 
+         .           intrinsic_rewards      []. 
+[]    [].  evaluating      .   ,       source   .    ,                [].                .          role    [].          protection_effect       [].      ,                          
+ belief   behavior () [,],     intrinsic_rewards    behavior     ,                     [,].  belief   behavior       behavior -    ()  perception   behavior, ()    [norms]  ()  behavior ,   [].   , perception      intentionality      behavior                appraisal   behavior. subjective_norms,       
+================
+ 사이버 정보보호 인력의 양성과 유지를 위한 방향: 정보보호 전공자들의 직업 선택 의도에 관한 연구 
+belief,    constraint     behavior.  ,  behavior ,        behavior  belief    [experience]      perceived_vulnerability  []            behavior  .   focus,         .         persistence          perception        .      ,    , ,  ,       persistence             persistence   . 
+  belief []     behavior_control-ability  behavior.  belief          ,    ,      situational_circumstance           .    belief,             gain      . ,     ,  behavior      . ,  behavior         [].   syllogistic_rules   , behavior  ,  []  self-efficacy         behavior.   self-efficacy   belief     participant_modeling  task.                . 
+self-efficacy            [action ].     behavior 
+ , ,     [].   .              [].     ,         self-efficacy      [, ]. 
+self-efficacy           behavior   [].     .[],  self-efficacy          .    []    self-efficacy               , intrinsic_rewards behavior,   . 
+  focus,   self-efficacy belief  behavior_control-ability         .           persistence            self-efficacy      [knowledge ].        ,           . 
+.    belief 
+.      
+ 
+  ,            .     appraisal     behavior      evaluating          .        [,].           
+================
+情報保護學會論文誌 (. )  
+   [].     ,               behavior. ,              : ()          belief    , ()             , ()            , ()    persistence       ,  ()       [preference ]. 
+.    belief 
+ belief        belief.    belief      ,    []. ,       belief      possibility_effect    vicarious_experience       behavior [].  perception         .  ,   .                  persistence              [].      ,   .              .        ,                         ,  , perceived_uniqueness         [].                    
+      physical_quality -    appraisal   [].   .               []. ,        belief    role           .                  belief   physical_quality                certainty_effect  []. 
+    ,     belief       appraisal       .     ,       ,      [experience]    ,   possibility_effect          behavior          .   ,                 persistence    (..   gain,    gain  ,  ,     ,    ,  ,          ).   ,      certainty_effect perception          behavior   persistence           .   []   : 
+:       certainty_effect          . 
+================
+ 사이버 정보보호 인력의 양성과 유지를 위한 방향: 정보보호 전공자들의 직업 선택 의도에 관한 연구 
+.  self-efficacy,   
+  
+   belief [, ],    , self-efficacy          behavior [,].  self-efficacy     behavior  , ,      [].   .    role   self-efficacy       certainty_effect syllogistic_rules    self-efficacy   [].     , self-efficacy             [].     .,  self-efficacy            [].      self-efficacy        ,      , intrinsic_rewards behavior,   [].       self-efficacy     [knowledge]                .   ,   self-efficacy       belief     [capability]      [knowledge ].    ,   : 
+:  self-efficacy   certainty_effect           . 
+:  self-efficacy   certainty_effect         . 
+:  self-efficacy   certainty_effect         . 
+      
+            ,    [knowledge]        persistence      .   ,             self-efficacy.         self-efficacy        frustration_of_needs.    ,    mastery_experience     extrinsic_rewards [].      self-efficacy          [experience]  [].        certainty_effect syllogistic_rules    self-efficacy          [].    ,  focus       impact           self-efficacy. 
+    : 
+:         syllogistic_rules   self-efficacy. 
+:          syllogistic_rules   self-efficacy .
+ 
+.      
+ 
+          ,          belief,        .     -   , ,                  [].       
+================
+情報保護學會論文誌 (. )  
+         ,         combining -        belief   .       ;  belief, &  ,    ,  , .   ,    role         judging        .      role       [,].  persistence              process. personality               [],  focus          .    "  "  appraisal     intrinsic_rewards   .           ,      vicarious_experience          [,].   focus,                   personality [knowledge]         .        :    : )    , )  personality        , )    [knowledge]     ,  )  intrinsic_rewards   .   ,             certainty_effect syllogistic_rules         . , 
+    : 
+:         certainty_effect impact        . 
+.   protection_effect 
+subjective_norms          (.., ,   )   frustration_of_needs    behavior.   focus,  subjective_norms      ,        behavior    .   .      [norms]    syllogistic_rules       . ,  [norms]  [].          protection_effect            [].   .        protection_effect  behavior          [].    ,  : 
+:   protection_effect   certainty_effect         . 
+.      
+         ,   []                       [].               .      (.., evaluating ,  ,     ), focus   (..,  focus ,     ), 
+================
+ 사이버 정보보호 인력의 양성과 유지를 위한 방향: 정보보호 전공자들의 직업 선택 의도에 관한 연구 
+ perceived_uniqueness  (..,        ,        ),    (..,      )[].                  , ,          . ,   / ,   role ,   ,  /  ,   /     [].   focus,                 :    (..    evaluating   ,       ),   (..           ,       ),    (..,       ,    ).   ,  : 
+:          syllogistic_rules         . 
+:         syllogistic_rules      belief. 
+.     
+  
+      ,       .  %       .  ,      .         ,          
+techniques     [].                , ,   [,].     ,            belief     [].                 .            .  ,  ,  ,          ,    ,       [].  focus    .                         [].                     [].                [],        personality         [,].                      [, ]      ,            .                      ,     . 
+:          syllogistic_rules       . 
+================
+情報保護學會論文誌 (. )  
+[ ]   
+:       syllogistic_rules               .          . 
+.     
+  focus             belief                             .       persistence              techniques,           ,   , ,            .   .           
+ belief             focus          focus,        .  .        [experience]     . ,                          ,         persistence           . 
+        ,    %  evaluating.   physical_quality     . ,  %    %    .               .    ,          .      (),    [modeling] () techniques     .         -          [].           . 
+. appraisal  
+    appraisal           physical_quality    . appraisal      belief   [,].         ,   protection_effect,               belief    belief  
+================
+ 사이버 정보보호 인력의 양성과 유지를 위한 방향: 정보보호 전공자들의 직업 선택 의도에 관한 연구 
+ behavior       physical_quality           focus.        appraisal,               .      .       . 
+      [].         focus    appraisal      belief [].                
+[ ]   
+  
+  
+            
+() 
+   perception        belief   
+belief 
+possibility_effect    
+() 
+vicarious_experience     
+ . 
+ 
+ perception    
+    
+  
+   ,     
+ ,     
+() 
+personality [knowledge]    
+     . 
+  belief     self-efficacy [capability]    
+()   [knowledge ]. 
+ 
+  
+  perception       . 
+     
+() 
+        (.. ,  
+protection_effect 
+() 
+ )   frustration_of_needs 
+    .  
+ 
+ 
+      
+  
+      
+ 
+       
+() 
+[ ]   
+          . . . -0. . -0. -0. -0. .  . . . -0. . -0. -0. -0. .  . . . -0. . -0. -0. -0. .  . . . -0. . -0. -0. -0. .  . . . -0. . . -0. -0. .  . . . . . . -0. -0. .  . . . -0. . . -0. -0. .  . . . -0. . . -0. -0. .  . . . -0. . -0. -0. -0. .  . . . -0. . -0. -0. -0. .  . . . . . . -0. -0. .  . . . -0. . -0. -0. -0. .  . . . -0. . -0. -0. -0. .  . . . . . . -0. -0. .  . . . -0. . -0. -0. -0. .  . . . . . -0. -0. -0. .  . . . . . -0. -0. -0. .  . . . . . -0. -0. -0. .  -0. -0. . . . . . . .  -0. -0. -0. . -0. . . . -0.  -0. -0. -0. . -0. . . . -0.  . -0. -0. . -0. . . . -0.  -0. -0. -0. . -0. . . . -0.  -0. -0. -0. . -0. . . . -0.  . . . -0. . -0. -0. -0. .  . . . -0. . -0. -0. -0. .  . . . -0. . -0. -0. -0. .  -0. . -0. . -0. . . . .  -0. . -0. . -0. . . . .  -0. -0. -0. . -0. . . . -0.  -0. -0. -0. . -0. . . . -0.  -0. -0. -0. . -0. . . . -0.  -0. -0. -0. . -0. . . . -0.  -0. -0. -0. . -0. . . . -0.  -0. -0. -0. . -0. . . . -0.  -0. . -0. . -0. . . . .  . . . -0. . . -0. -0. .  . . . -0. . . -0. -0. .  . . . -0. . . -0. -0. . 
+.[,].              .,             .[,]. 
+,      .   ,   ,            . ( )  . (      ).  
+================
+情報保護學會論文誌 (. )  
+[ ] ,    
+    
+ 
+       
+ 
+ 
+  
+ 
+ . . . .  . . . . .  . . . . . .  . . . . . . .  . . . . . . . .  -0. -0. -0. -0. -0. . . . .  -0. -0. -0. -0. -0. . . . . . :  , :   , :    belief, :  self-efficacy, :  protection_effect, :      , :     , :      , :       
+        .[],     appraisal     . 
+          ()   .                     .                 .      appraisal    [].     ,          . 
+   ,       (..     ).     ,              ,                  .         .      . .          
+. (.. .). ,                 [].                                           .       ,           [].        ,          -                        ,       ., .,  . . 
+.  
+,            combining                .        .     ,            belief        protection_effect         .  .%         persistence        persistence    techniques        belief,     ,   ,      ,       . 
+ belief ,      certainty_effect syllogistic_rules      belief    
+================
+ 사이버 정보보호 인력의 양성과 유지를 위한 방향: 정보보호 전공자들의 직업 선택 의도에 관한 연구 
+    (= .; < .).  belief ,  self-efficacy   certainty_effect syllogistic_rules          (= .; < .). belief          ,  self-efficacy   certainty_effect        belief (= .; <.)         (=., <.).       ,         [skill]    syllogistic_rules   self-efficacy (= -0.; < .).            certainty_effect syllogistic_rules         (= .; < .),  protection_effect  belief . ,  belief   , protection_effect        syllogistic_rules                 (= -0.; < .)              belief (=-0.; <.). belief          (=-0.; <.)            syllogistic_rules       . 
+    role    syllogistic_rules              ,                      ,  [].  focus                   ,    . [].       .,  focus  , .     
+<.   , .     [].                . 
+, belief ,         syllogistic_rules   self-efficacy,  belief ,   protection_effect  ,      certainty_effect impact         ,       .     belief   belief     -0.  ..             .                    [],                     . 
+   ,      ,   self-efficacy   certainty_effect           .  ,                            .  gain,  syllogistic_rules                                  . ,       protection_effect       ,                  protection_effect  .       protection_effect -  belief. 
+================
+情報保護學會論文誌 (. )  
+[ ]      
+belief 
+belief  
+:    
+   certainty_effect  
+       
+ 
+ . 
+:  self-efficacy   certainty_effect      
+    . 
+ 
+:  self-efficacy   
+certainty_effect       
+ belief. 
+:  self-efficacy   certainty_effect        . 
+ 
+:         syllogistic_rules  
+ self-efficacy. 
+  
+:       
+  syllogistic_rules    
+self-efficacy. 
+:     
+   certainty_effect impact  
+      
+ 
+. 
+:   protection_effect   certainty_effect      
+   . 
+  
+:      
+    syllogistic_rules 
+      
+ 
+ . 
+:     
+    syllogistic_rules 
+     
+ 
+belief. 
+:          
+syllogistic_rules    
+   . 
+ 
+:       syllogistic_rules           
+   . 
+ 
+      . 
+[ ]    
+.   belief 
+    focus     ,          certainty_effect perception    ,       persistence   techniques           certainty_effect  .   gain,     gain ,   ,    ,     ,  ,                       .                perception     .          perception           persistence       
+================
+ 사이버 정보보호 인력의 양성과 유지를 위한 방향: 정보보호 전공자들의 직업 선택 의도에 관한 연구 
+  . 
+       persistence         self-efficacy      [knowledge]  .          self-efficacy       [knowledge]    certainty_effect    belief       .                         [,]. ,                      . ,    [experience]      protection_effect        .  gain,     role                 .     ,            certainty_effect     .   generalizing     participant_modeling   role            .            [].      personality   [knowledge]                  . 
+  focus,             .            belief        persistence   . 
+             . ,                         .      belief.     ,                     .            focus    mental_calculation                  role .               [].  focus            simplifying            role   . 
+ focus       physical_quality   certainty_effect         [norms]          , ,            .     protection_effect    role    belief    normative_belief.                         .             (. certainty_effect   ,  self-efficacy)      protection_effect               .   
+================
+情報保護學會論文誌 (. )  
+,     role  self-efficacy          .     belief        [knowledge]      certainty_effect perception                  persistence         .       belief            .  gain,           impact           . 
+          ,  focus     protection_effect             ;   ,      .             constraint,  ,           .   ,                         .  gain,          techniques       protection_effect      . 
+  ,         ; ,  extrinsic_rewards      protection_effect    [].  protection_effect  
+       ,          ,      gain -  [],      ,   evaluating    .          ,           personality       techniques.             .           ,     certainty_effect                 techniques. ,  role                  . 
+참고문헌 
+[] .-xxx. ,  . . , 
+     
+  ,   
+      
+, . . 
+[] . , "    
+      
+" , [//,]. [] . ,  . , 
+"/ , ,  
+,"    , 
+. , . , .,  . [] . . , "  ," 
+   , . 
+, . , .., . . [] . ,  . , " 
+     
+  ."   
+ , . , . , . 
+================
+ 사이버 정보보호 인력의 양성과 유지를 위한 방향: 정보보호 전공자들의 직업 선택 의도에 관한 연구 
+. . . 
+[] . , . . ,  . , 
+"   :      
+    ."     
+    
+, ., . . 
+[] ..  . , . ., 
+"    : .  
+     extrinsic_rewards 
+  ."    
+     
+ , ., . 
+. 
+[] . ,  . , " 
+     
+:    ," 
+   , . , . 
+, ., . . 
+[] . . ,"     
+ techniques :   , 
+perceived_consensus   ,"  
+   , . , 
+. , ., . . 
+[] . . , "  
+     ,"  
+   , . , ., 
+., . . 
+[] . ,  . , "   
+  gain   
+   :  
+   [experience] 
+,"  ,.. , 
+., ., . . 
+[] . ,    :  
+belief   behavior, , 
+. . 
+[] . , " belief   behavior," 
+ behavior   
+ , . , . . . 
+, . . 
+[] . . ,  . , " 
+     : 
+      
+   .,"  
+, . , . , ., . 
+. 
+[] . . , " belief   
+behavior   ," 
+ , . , . , . 
+,  
+[]. . ,  . ,  
+  ,   
+ , . . 
+[] . ,    
+perception  [action ],  , . 
+. 
+[]. . ,  . . , 
+" self-efficacy -   
+ appraisal   ,"  
+, . , . , ., . 
+. 
+[] . , "    
+ belief,"  , 
+. , ., ., . . [] . , . , .  
+ . , " impact 
+ self-efficacy    
+,"  . . , 
+. , ., . . [] . , . . ,  . , 
+"  belief   
+   :  
+ focus,"  , . 
+, . , ., . . []. . ,  . . , 
+"    belief 
+    ," 
+  , . , . 
+, ., . . 
+[] . . , . . ,  . . 
+, " self-efficacy : 
+     
+ ,"    
+, . , . , ., 
+. . 
+[] . ,  . . , "  
+ perception     
+  ,"    
+================
+情報保護學會論文誌 (. )  
+behavior, . , ., . . [] . ,  . . , "task 
+self-efficacy  task    
+[function]      
+personality task,"    
+behavior, . , ., . . [] .  , personality,  
+behavior,  , . . [] . ,  . ,  
+     
+behavior, , . . [] . . , " ,  
+   ,   belief 
+  ,"  , 
+. , . , ., . . [] ,. , ..   , . 
+"     belief 
+    , , 
+ ."    
+behavior, . , ., . . [] . , . ,  . , 
+" belief   [action]    
+   ," 
+   , . , 
+. , .,  . 
+[] . , . , .   . 
+, "    
+ ,"    
+  . . , . , 
+.,  . 
+[] . ,   , , 
+. . 
+[] . , .,  . , " 
+    
+   ," 
+  , . , 
+. , ., . . 
+[] . . , . ,  . . , 
+"     
+     
+ ,"     
+, . , . , ., . 
+. 
+[] . , "self-efficacy   
+ ,"  , 
+. , . , ., . . [] . ,  . , " 
+  self-efficacy  
+     
+[goal] ,"   personality 
+  , . , . , 
+., . . 
+[] . , . . ,  . 
+, " mastery_experience :    
+extrinsic_rewards     
+,"    , 
+. , ., .,  . [] . , "   
+   :  
+ appraisal,"   
+  , . , 
+. , .,  . [] . , . ,  . 
+, "  syllogistic_rules  
+     
+:   ," 
+  , . , 
+. , ., . . 
+[] . ,  . , " 
+  :   focus," 
+ & , . . . , 
+., .-Feb. . 
+[] . . , self-efficacy   
+ , , . . [] . . ,  . . , " 
+      
+process     
+ "     
+ . . , . , ., 
+. . 
+[]. ,  . . , " 
+     
+belief :   
+ ,"  , . 
+, . , ., . . [] . . , . . ,  . . 
+, "  , ,  
+     
+================
+ 사이버 정보보호 인력의 양성과 유지를 위한 방향: 정보보호 전공자들의 직업 선택 의도에 관한 연구 
+"   , . , . 
+, ., . . 
+[] . , "   
+, [empowerment]  protection_effect 
+  ,"   
+   , 
+. , ., . . 
+[] . , . , .   . 
+, "   :  
+ belief ," 
+   , . , 
+. , ., . . 
+[] . ,  . . , " 
+  behavior : , 
+,    
+,"   experiential_awareness  
+, . , ., . 
+. 
+[]. . ,  . . , 
+"      
+  ,"   
+ behavior, . , ., 
+. . 
+[] . . , "    
+     
+ ,"    
+   , 
+. , . , ., . . [] . . ,  . . , " 
+      
+,"    
+behavior, . , ., . . [] . , . , . , . . 
+, .  "   
+personality    
+  ."   
+     
+ , ., . 
+. 
+[] . . , . . , . , 
+, .., , ., , 
+.,  .., , ., 
+...,"  , , 
+  :   
+[experience ],"    
+behavior, . , ., . . [] . ,     
+ focus, , . . [] . , :   
+  ?    
+:    
+,   , . 
+. 
+[] . ,  . , " 
+      
+:   focus     
+ ," , . , 
+., . . 
+[] . . , "   
+"    behavior, 
+. , . , ., . . [] . , . ,  . , " 
+    
+,"   , . 
+, . , ., . . [] . . , . . ,  . . 
+, "     
+     
+ ,"    
+, . , . , ., . 
+. 
+[] . , . , . . , 
+, ..,    
+      
+ .  , . 
+. 
+[] . , . , . , , 
+.,       
+   ,  
+ , . . [] . ,     
+   , 
+ , . . 
+[]. . ,  . . , 
+"     : 
+   belief,"  behavior 
+  , . , . 
+, . . 
+================
+情報保護學會論文誌 (. )  
+[]. . ,  . . , 
+" belief     
+,"  behavior 
+  , . , , 
+, . . 
+[] . . , . . ,  . . 
+, "     
+ [modeling] perception   
+  :    
+   focus   
+ / focus," 
+  , . , 
+. , ., . . 
+[] . . ,     
+perception     
+,   , 
+. . 
+[] . , . ,  . , 
+"    () 
+perception   [modeling] :  
+      
+,"  ,.. , 
+. , ., / . [] . ,  . , "mental_calculation 
+     
+   appraisal 
+,"    , 
+.  ,., . . 
+[] . . , "  belief  
+  [modeling ],"  
+, . , . , ., . 
+. 
+[] . ,  . , "   
+:     
+ ,"  ,.. , 
+. , ., . . 
+[] . .   . , " 
+  :    
+belief,"  , . , . , 
+., /. . 
+[] . ,     
+  ,  
+, . . 
+[] . . , ..  ..  
+..  .., "  
+,"  & , . 
+, . , ., ./. . [] . , . . , . . ., 
+"     
+isolation_effect,  ,   
+  ,"   
+[action]  , . , . , . 
+,  . 
+[] . ,  . . , " 
+    ," 
+   , . , . 
+, ., . . 
+[] . . ,  . . ,  
+    
+  .     
+     
+, . , . , ., . 
+. 
+================
+ 사이버 정보보호 인력의 양성과 유지를 위한 방향: 정보보호 전공자들의 직업 선택 의도에 관한 연구 
+ 
+   ..    ()    ()      . . . 
+   personality         . . . 
+    [knowledge]    (  belief ). . . 
+   certainty_effect          belief. . . 
+ 
+        ( belief)   
+ . 
+. .  
+          ( belief) 
+    . 
+. .  
+          ( belief) 
+    . 
+. .  
+          ( belief) 
+   . 
+. .    ( belief)     [preference ]. . .  
+     ( belief)      
+gain. 
+. .  
+-xxx     ( belief)     
+gain . 
+. .  
+     ( belief)     
+gain . 
+. .  
+     ( belief)      
+/. 
+. .  
+     ( belief)        
+   . 
+. .       ( belief)     . . .  
+     ( belief)      
+ . 
+. .       ( belief)      . . .  
+     ( belief)       
+. 
+. .              . . .          . ..   learning       belief. . .        . . .  
+               
+ belief. 
+. .           . . .  
+    protection_effect         
+( belief ). 
+. . 
+ 
+     protection_effect         
+( belief ). 
+. . 
+ 
+         ( 
+belief) . 
+. . 
+ 
+       ( belief) ,   [experience] 
+  (      ). 
+. . 
+================
+情報保護學會論文誌 (. )  
+   .. 
+ 
+       ( belief) ,   [experience] 
+    . 
+. . 
+ 
+       ( belief) ,   [experience] 
+          . 
+. . 
+ 
+       ( belief) ,   [experience] 
+       . 
+. . 
+ 
+       ( belief) , -xxx     
+        (      ). 
+. . 
+ 
+       ( belief) ,  gain   
+       . 
+. . 
+ 
+       ( belief) ,      
+ . 
+. . 
+ 
+       ( belief) ,   [experience] 
+       . 
+. . 
+       ( belief ),        
+  .        ( belief) ,  gain . . 
+         . 
+ 
+  (  )  personality       ( 
+belief ). 
+. .  
+  (  )  personality    [knowledge]    ( 
+belief ). 
+. .  
+  (  )         
+( belief. 
+. . 
+================
+ 사이버 정보보호 인력의 양성과 유지를 위한 방향: 정보보호 전공자들의 직업 선택 의도에 관한 연구 
+<著者紹介> 채 상 미( ) 정회원 
+년 월: 이화여자대학교 정치외교학과 졸업 년 월: 서울대학교 경영학 석사 년 월:    경영학 박사 현재: 이화여자대학교 경영학과 전임강사 <관심분야> 경영정보시스템, 정보보호, 지식경영 
+김 민 균( ) 정회원 
+년 월:      경영학과 졸업 년 월:    경영학 석사 
+년 월:    경영학 박사 
+현재: 서강대학교 경영학과 조교수 
+<관심분야>   ,      
+================

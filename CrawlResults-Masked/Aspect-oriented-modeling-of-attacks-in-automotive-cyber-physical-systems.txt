@@ -1,0 +1,249 @@
+  
+     
+ 
+ [modeling]       
+ 
+://./// 
+  
+ ,  ,  ,  
+   
+ 
+./. 
+  
+. 
+      
+   
+================
+ [modeling]       
+    , 
+ @. 
+  
+  , 
+ @. 
+isolation_effect 
+    [modeling] ()   personality,   techniques         ().          ,                personality  . ,                 .  [modeling] techniques         .   ,    intrinsic_rewards    behavior     . 
+    
+[  [Organization] ]:     ; [  ]:    |   
+ 
+ [modeling ], ,   
+.  
+ protection_effect          personality .              .   combining              () []. ,      
+           [action]            ()      (   ,       ),          ()    (      ,   # (: )  # (),     ( # ),    : ,  ,  ). 
+                                ﬁ   gain             ﬁ .              .   perceived_responsibility  .   ,  ,         ,   ﬁ  /  .    @.. 
+ ,   -  ,  , ,  
+   //... $.. 
+://.././. 
+     , 
+ @. 
+ ,       .  ,                   fear_arousal  . 
+       []     opportunity_for_criminal_acts   .   ,          fear_arousal         : ,        , ,       . ,   ,       .                 . ,     protection_effect                  .  perception           . 
+   [] ,  ,        mastery_experience   , personality - ,   .        ,         loss            [].       perception,                   process.      personality task           .                 . ,  participant_modeling          process  [modeling]    . 
+ ,        process    ,    [modeling] () intrinsic_rewards      ,          ,         . 
+ appraisal    behavior             .    intrinsic_rewards  combining     .                      .       
+================
+   .   ,                    . 
+ [Organization]      :                .   belief        process     .         focus , ,    . 
+.                    .          [modeling ]. 
+.     
+         / .  ,     []        . ,           ,  protection_effect      ,     personality  . ,        perception      . ,  perceived_vulnerability  possibility_effect          . 
+,            .         []   [goal]        intentionality - .         .   []          ().        [goal]                  .    []             .       intrinsic_rewards   possibility_effect     appraisal .        ,    ,  ,   belief . 
+    [modeling]      .        ,                            .   . []  belief personality  intelligence    .   . []                 .    []       [capability]         .   . []               .              , ,   ()        ,           . 
+.  [modeling] 
+           () [] ,               combining      .         , ..    isolation_effect   personality ,       fear_arousal  .         ,  ,      ,   . 
+.      
+ [modeling] 
+     [modeling] intrinsic_rewards    .   . []                .     mental_calculation   perceived_vulnerability        .   . []                 .                . 
+               .  ,  [modeling]   ,      , ,     . ,                     .  perception       impact             (..,      ). 
+. [modeling]      [modeling]   perception                   [goal]  mental_calculation     .          [],         . 
+            (). ,          .      ,     ,        .            behavior. 
+. ﬁ   [modeling]                   . ,                 personality       .  ,    ,    ,        .   ,     opportunity_for_criminal_acts    process. 
+================
+           process   protection_effect      .   intrinsic_rewards           . ,        : 
+  : 
+                 .  ,                .         . 
+  : 
+        ,     internalization            . ,  protection_effect      ,         persistence .         personality   . ,          ,          . 
+  : 
+     personality, ..,         .             . 
+ : 
+        . ,             .  ,                    .   ,                . 
+  : 
+           ,       .                            . 
+.  process   
+  intrinsic_rewards     ,          .          process : 
+. :        
+  .  , 
+   . 
+. :        
+     . 
+. simplifying :    .    
+  ,  , ,  
+  appraisal   , , 
+, .    ,   . 
+. combining :       
+ behavior_control-ability  . 
+          ,     ,       .      ,         .                 perception.        ,  ,        possibility_effect  .  , ,        . ,  combining,  possibility_effect   . 
+.    appraisal  perception     possibility_effect    internalization       [].              loss            .  ,                .                     []. 
+       intrinsic_rewards [knowledge]   .         personality   focus   behavior.       personality   (     ),         focus  behavior.   protection_effect      ,      ,     -    . 
+ behavior                 appraisal    .              .   ,  ,            , ..,         .                    .  ,   appraisal           . 
+,      .          personality   .              ,        . ,                       personality .  ,           ()      . ,          .      ,     belief         [modeling]  judging. 
+================
+.   focus         []      .  ,                .                      . 
+.         focus      [],  [modeling]       .    ,         .     .         intentionality    ,   .          ,     .       (),   (),  process  ().   ,      internalization   []. 
+   [].                 (     []).         ,  focus       .        :                 .    ,   ,        .                -       .                        . 
+ :             /     
+      (   )       :    (       ( ).      ,        ,         .                         .        .    ,       .        :     .         ;            .          :.   belief      :,   belief      :              .   [goal]   persistence         . 
+    , ,   .                 perceived_consensus -    []. 
+                .               .                             .   ,          .            . 
+.   
+      : ()     (  ),     , ()    (  ), ()    (  ),  (),   (  ). 
+     ,         Fuzzing.   , ,        .           process.           . 
+ :      
+         . 
+://...// 
+================
+                        .          .     , ,  personality    . 
+ :       
+        .       .           (         ,     combining             .                 combining   .             .             []    [].    [],          .    [],   
+ :       
+        .         
+ ,               .    , ,   ,            . 
+          .     ,      personality   .           .    []       .    [],            .    [],               . 
+ :      
+.  
+     behavior     .  ()  ()    .  (),               .   ()  ()              . , ()     ,    behavior_control-ability  . 
+ [modeling]    personality   participant_modeling -         .  perception                      .  ,       [resource]                  .  perception    ,            imagination           . 
+================
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+belief 
+.   
+.   
+. imagination  
+.   .   
+.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ () 
+ 
+ 
+ 
+ (/) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    () 
+ 
+ 
+ 
+ 
+    () 
+ 
+ 
+ :    behavior    
+. belief 
+  ,    [modeling]   personality [modeling] techniques         .             ,     .   techniques,                       . 
+.  
+[] . , .-xxx. , . ,  
+. .      
+  protection_effect .  
+    protection_effect , 
+():{,  . 
+[] . . , . , . . ,  . . 
+.          
+ appraisal    .  
+  ,  segregating,  . [] . , . , . , 
+. ,  . .   
+:      
+  .    
+, ():{ , . 
+[] . . , . , .-xxx. , .-xxx. , 
+.-xxx. ,  . .   process 
+ : perceived_vulnerability appraisal, ,  
+.        
+ ,    
+ (),  . 
+[] . . , . ,  . . protection_effect 
+:    .  
+       
+  (),  . [] . , . , . . , . . , 
+. , . ,  . . [modeling]  
+.  . , ,  , 
+[modeling ],     ,  . 
+., . 
+[] .   . . .       
+.        
+     , 
+ {, . 
+[] . , . . , . . , . , . , 
+. , . , . ,  . . 
+  -   perception. 
+   , ():{, . [] . , . . ,  . . . 
+.   ., ,  . [] . , . , . ,  . . 
+ :     
+.    ., 
+., , , , . 
+[] . , . , . , . , 
+. ,  . . .  
+    protection_effect 
+.    , 
+():{ , . 
+[] . .   . . .   
+    .  
+{,   , . [] . , . , . , . , 
+. , .  ,  . . 
+ .  . 
+, . 
+[] . , . ,  . . 
+    [modeling] :    
+     . , ., . [] . .   :  .  
+     
+   (), . [] . . .  .      
+  ,  ,  
+{,  , , , . . [] . .-xxx. , . , . . , . , 
+. , . ,  . .  
+    .  
+      
+   ,  {. 
+/,  . (    
+   extrinsic_rewards ). 
+[] . , . ,  . . .    
+  [] appraisal    
+.         
+   , . [] . , . ,  . .  
+     . 
+impulsive_effect ,   , 
+():{, . 
+[] . , .  , [modeling ],  
+   . ., . [] . .      
+   .   
+ ., , . 
+[] . . .     process.  
+       
+, . 
+[] .   . .  [modeling]  
+  protection_effect    
+ .  ,   
+, ():{, . 
+================
