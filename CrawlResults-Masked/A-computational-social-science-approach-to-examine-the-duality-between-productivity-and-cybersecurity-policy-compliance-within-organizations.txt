@@ -1,0 +1,114 @@
+    perception  focus       
+[policy]    
+     
+   ,    , ,         ,    , ,   
+.@. 
+isolation_effect.          .   ,        [Organization ];   ,   participant_modeling                .         ,              . 
+   ,     combining        .                   task.          intelligence  ,      . 
+    personality  -level                        .   ,     ,     (.., ),         (.., )    task     [Organization]    . ,      (   , ) combining         . 
+:  ,  [modeling ],   ,  , . 
+ 
+ 
+                .               ()  , , ,  , /      .    ,           
+================
+ 
+ ;            . ,                protection_effect           protection_effect .            frustration_of_needs     []—a      . ,    perceived_vulnerability     () ,  ,       loss        ; ,     [Organization]                 []. 
+               ,             segregating   [knowledge ].      , ,       ,          [policy] ,     ,  ,   (..,  combining                )    [Organization]        . 
+. 
+syllogistic_rules    
+  [policy]            .    perception    [],          [, ],  self-efficacy  [, ]. ,                 [],           []. 
+      ,     segregating    -level       ,  ,  -level      .      perception.                 / personality    [ ],       .           . 
+ . :   belief   . 
+  belief          " "   ;  , intelligence    impulsive_effect . [].  impulsive_effect    , impulsive_effect,     . ,  impulsive_effect  personality  ,         . impulsive_effect          []. ,    
+================
+ 
+      process    intelligence  .      perceived_uniqueness       self-efficacy   impulsive_effect process   situational_circumstance  [].                              loss  ( .., )  []. ,                []. ,                 / impulsive_effect . 
+role , ,   . 
+                       intrinsic_rewards   motivation []        [].  frustration_of_needs       []. ,           gain  ,           [, ]. 
+. 
+      intelligence,        ,           [action]   . ,   ,                       []    [policy]  [, ]. 
+ 
+ 
+    .. [modeling]   [].    ,   ,      [],   . 
+ . experiential_awareness  
+ 
+,  ,   
+         
+:     :  (..,  combining  extrinsic_rewards   [policy]     task ):  (. -1., . );  :  (,  );  (..,    extrinsic_rewards      extrinsic_rewards  ):  (, ., , , /, /., /); :  (. ., . );  (..,          .   ):  (., .)  :       [Organization] 
+================
+ 
+ process  
+  
+      
+perception 
+ 
+ 
+process : ()        ()      ()   ,  ,  simplifying  ()     ()  ,      ;  [rewards ]> ,          ()       evaluating   . ( evaluating* ( - ))   ()      combining                <=  [capability] 
+           [policy ],   ;      ;     ;  intelligence  ,     [rewards]  ,     participant_modeling   
+    ,  [policy] ,               
+ simplifying     [Organization]       
+      -weeks       ;     ,  ,    -week  
+  syllogistic_rules          
+         
+        .    , , ,  -queue ,  combining       .         (  ,  combining ) 
+               
+, , , , ,   
+ 
+  
+     .     : 
+-       ,   
+-       ,    
+    gain 
+-   ,   
+-   , ,   ,   
+  gain 
+-   ,   
+   : 
+-   ,      [Organization]  -        
+-           
+-   ,   
+-       ,   
+ 
+. .    
+================
+ 
+ .  
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+belief 
+                  .      participant_modeling         .      personality            .  ,                   . 
+ 
+. , ., , .., , .., , ..:   isolation_effect :       perception       personality  . &  , () 
+. , .., , .., , ., , .., , ., , .:          . :      , . . , () 
+. , ., , ., , .:   [policy] :   focus       perception.  ,  () 
+. personality, .., , ., , .:        [policy] .   ,() 
+. , ., , ..:    :     [policy]   .      , () . , ., , .., , ..:  impact   motivation        .      , () 
+================
+ 
+. , ., , ., , .., , .., , .:      personality  :     .   ,  () 
+. , .., , ..:  :    personality  .    [Organization] belief , () . , .., , .., , ..:   perception  [modeling]  perceived_vulnerability.    [Organization] belief , () 
+., ., , ., , .:   :     belief  .  &  , () 
+., .: thinking,   . , ,  ,  ,  () ., .., , .:    personality belief.     , () 
+., .., , ..:    :     ?     , () 
+., .., , ., , ., , .:     :    persistence    ? personality     , () ., ., , ., , .:   :       .  belief    , () 
+., .., , ., , ..:     thinking    live_modeling    .     , () 
+., ., , ., , ., , .:  role     ,  ,   .     , () 
+., .., , ..:    role      :   role  personality.      ,  () 
+., .., , ..:   :     .    , () 
+., .., , ..:  "personality"  arousal "" ?   role        frustration_of_needs      .     , () 
+., ., , ., , .: Impact     intrinsic_rewards  .      , () 
+., .., , .., , ., , ., , .:     .   personality    , () 
+., ., , ., , ., , ., , .:        behavior_control-ability     ?   focus.      , () 
+., ., , ., , .:  role      :      .      ,  () 
+., .: . ://..//.       [modeling ].  , ,  () 
+., ., , ., , .., , .., , ., , ..:   :     .  modeling , () 
+================

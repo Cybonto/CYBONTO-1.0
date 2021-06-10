@@ -1,0 +1,380 @@
+  focus       
+   * 
+ ,   
+     &  ,  
+ : @..; @.. 
+isolation_effect :      process,   belief ,     ,      .     "  "                   process. ,      personality               .   focus, "  "  ,         ,   :   ,    ,     ,         .     ,    ()             .      "    "           process,   &       . ()  participant_modeling   / role  "   "        .()            [knowledge] extrinsic_rewards,   .()      "    "          ,        . ,  generalizing                   . 
+:  ,  , [Organization] ,  ,  , . 
+
+ 
+* 
+  protection_effect          (  :  ) 
+================
+,                  " "      .     ,        [knowledge] .     [knowledge]    .  "   "     personality,  ,    ,       ,           . ,                      .        focus      belief      personality    . 
+       .             .        appraisal.                             .            . ,            ,   ,           . 
+  
+  , ,          [Organization]  [knowledge]                       .  ,                 participant_modeling                                    . 
+     
+      perception                    
+================
+                  syllogistic_rules      (& , ; , ; & , , ; , , ;   ., ; ,  ; & , ).  ,      &  (),      (),    ()  [knowledge]    ,  (, ),   & , (); ,  ., (); , ();  & , (),      &   (),     belief    ().              [Organization]        .  gain,             , [Organization]    extrinsic_rewards,      .        ( );   .( );  ();  (); &  ();  & ( ).         [knowledge]    .            [knowledge]   .              .   (, ); ,  ( , ); &  (, )                            opportunity_for_criminal_acts.  gain,             gain  .   ()   ,   ,        . ,               .  ();  ();  ();  ();  ();   (, );   ()         .   , [Organization ],                [Organization] [knowledge ].                  mental_calculation   [Organization]    . 
+ role   participant_modeling   [knowledge] extrinsic_rewards 
+&  ()        , 
+================
+    participant_modeling   role     .          .          .  personality      , ,  learning   [knowledge ],      .           .         role          ,        .    , &  ()                 . 
+       ,   ,   process   ,        .    (), &  (),  (),  -Hall (),    :    role        .      [Organization]      [resource ],    /.    :    role            ,   ,    .  (, )           focus   role    ,        [resource ], ,  .               role  [knowledge] extrinsic_rewards. 
+  [resource] 
+     process,   belief ,     ,       (, ;  , ; , ; , ;   ., ).      belief       [resource ],     ,              ,         ,                  (, ; , ;   .,  ).  gain,                  . ,     
+================
+[knowledge]              . &   ()                ,     intrinsic_rewards   .   combining        . ,  process       .       , ,      ,                  . 
+  / 
+    role     ,      extrinsic_rewards,  belief       ,         ,       ,      extrinsic_rewards process.    (, ; , ; & , ;   ., ),             (, ;  , ; &  , ; &  , ;   .,). &   ()                . ,    ,  ,      personality   .          ,   extrinsic_rewards          . &  ()         /.  gain,       "     "  "      "               impact      [activity ].                        (, ; , ; &  , ). &   ()       "  "        .          . ( , ; , )   "    ".      ,       ,     participant_modeling    .  ,    ,       
+================
+        . &   ()    [action]      "".                   .          . 
+     belief       /,       belief     [knowledge]         ,        role             .          combining            .   ,           extrinsic_rewards  . ,              -creation       .   . ()           [knowledge ].  ,            ,    mental_calculation         syllogistic_rules          . &  ()            [knowledge]         [capability ],   intrinsic_rewards  ,       [knowledge ],  intrinsic_rewards                gain      .  ,          ( ,   , )        .   simplifying     extrinsic_rewards       satisfaction_of_needs  [knowledge]   [knowledge ],        [knowledge ], gain    participant_modeling [knowledge]  ,       [knowledge ].  gain,          intrinsic_rewards          extrinsic_rewards  [knowledge ]. ,        ,         .   &   () ,             ,           protection_effect               . 
+================
+   
+ ,           protection_effect. 
+        role    .                      intelligence   (& , ; , ).      ,        .          ( &, ;   ., ). 
+ ,     protection_effect   .     [knowledge]      gain   [experience]        . ,                  (, ).         ,     protection_effect        loss        , syllogistic_rules       syllogistic_rules    .  ()          ,         belief   ,           protection_effect. 
+         ,   generalizing   ,    loss    , isolation_effect                     protection_effect. 
+belief       
+&  ()       process                 . (  ., ;   ., )      .                        .      
+================
+ . &  ()                  extrinsic_rewards   .      &,  ()              .  ()                ,   ,    .           , perception ,  , ,   .  ()             , perception ,   .         .  ()   "   "         ,       .  perception     perception    ().           process   ,      . &  ()                ,             ,    simplifying    simplifying . ,  ()       syllogistic_rules         extrinsic_rewards   . (& , ;   ., ; & , ; & , )       .              extrinsic_rewards     :      segregating [experience]  ,    segregating  [knowledge ],      ,      [knowledge ],  [exposure]   ,   extrinsic_rewards     . &  ()                       ,   participant_modeling   role   .         loss          . ,         ,  combining        ,   perceived_vulnerability          . &  ()           combining   
+================
+  ,       , ,  . 
+           ,         perception  learning       .         ,      ,          ,   ,    ""          ,        satisfaction_of_needs [knowledge]  . ,         process     ,    mastery_experience  ,                   .             ()   (),                    .           .           .  gain,            ,                intrinsic_rewards,    ,        /        .               .  ,            .      ,    , ()    ,       segregating       .             .     perception   .                        ,         . ()             ,      ,                    process    . ,        . ()             ,     . ,        
+================
+syllogistic_rules,   syllogistic_rules        extrinsic_rewards   .        . 
+  ,       . ,            .  gain,            . ,        segregating . ,    .                     . ,   &  ()             ,          possibility_effect         ,            process    .        perception  "          ",       ., ; , ; & , ;  , , . 
+belief         
+ ()                 . ,           .  ()         loss                 .           ,                      perception  .  ,            [knowledge]   . ,             experiential_awareness . 
+           ,      focus           .         , ,  perception  ,  intrinsic_rewards .            ,         
+================
+ ,          , extrinsic_rewards    . ,   focus      [knowledge]    . ,            ,      .         focus          .           participant_modeling     ,          . ,     . , "    "   &  ()           [activity]        focus.  gain,   &  ()        ,    ,         focus        . ,  perception  "   "                      &  (),      (),      &  ().        [Organization]   & ( ); &  ();  ();    . ().   focus        perceived_consensus     ,      perceived_consensus   . 
+   focus           ,   segregating            , ,  ,    segregating     .            "  ". ,               "  ",      . 
+        
+  
+ focus              : "   perceived_consensus ", "  ", "     ",  " 
+================
+  "          "  ", "    ", "    ", "  ",  "    ".        
+   : 
+ 
+  
+  
+             
+ 
+ 
+ 
+    
+   
+  
+     
+   
+  / [knowledge] 
+    
+ 
+ 
+  
+      
+  
+   /   
+ 
+combining 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   [knowledge]  
+ 
+ 
+ personality extrinsic_rewards  
+ 
+ 
+   
+ 
+    
+ 
+  
+ () 
+    
+ 
+ 
+ 
+. 
+  () 
+ (extrinsic_rewards) 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+      
+ 
+  
+/. 
+() 
+() 
+  
+  
+/     
+//   
+ 
+   .       ()   ()      .  ()           ,  ,  ,  ,  .            ():  , ,  ,  ,  .    
+================
+     ,      . 
+  .       ,  , /[knowledge]      ,      ,  . 
+ .        ,        combining       -term . 
+  [knowledge]      .  focus   [knowledge]      ,  ,  ()   [knowledge]   .    [knowledge ],  ,  ,   .  [knowledge]  [knowledge]    .       [knowledge]          .       ,   ,    process    [knowledge ],    intelligence    .     [knowledge]    .        [knowledge]         .     [knowledge]    ,       .    [knowledge]          .     [knowledge]    ,      . 
+     .     extrinsic_rewards                    belief. 
+.          process        appraisal. 
+     . appraisal             "       ",  "   ",  " ",  "  [Organization]   ". 
+       .                    appraisal . 
+   .             ,           .       (   
+================
+ )   .          [authority]        . 
+ .              ()   ,  ,  ,   .  ,  focus         : extrinsic_rewards, ,  .    ,      role         .         ""      process  ,               . , ""    extrinsic_rewards   .    ,   ,       .     "extrinsic_rewards" .    "extrinsic_rewards"  ""   "extrinsic_rewards"  extrinsic_rewards   ,    .   [Organization]   .   [Organization]             appraisal .    [Organization]      process    intelligence . 
+   .        focus    ,            . ,        .  ,          ,          [Organization ],          . ,          :  belief, belief , perception   ,    ,        ,     . 
+        [Organization]       : 
+     
+            [experience]   .               () . ,          .     
+================
+      [experience] .                 ,      .               . ,   ,            ,    behavior         . ,                    (& , ).  extrinsic_rewards       .         [experience]          .      extrinsic_rewards       .    extrinsic_rewards   personality        ,    protection_effect,   ,   personality  . ,           protection_effect    (   appraisal    )     .           .           .  gain  personality  [knowledge]   .               .   [Organization]   ,          intelligence [Organization] .  gain,            ,   ,       ,   ,    ,    . . ,     ,    (  )          . 
+      
+              participant_modeling   .             ,           .    ,               .                 ,      ,   ,   .                 .      
+================
+.      ,            ,    extrinsic_rewards     .  gain,            .        ,     [activity]           . ,   ,                    gain   .                        .    ,  syllogistic_rules          . 
+       
+               extrinsic_rewards    .       extrinsic_rewards      [knowledge ],     combining  extrinsic_rewards .       .          ,      "   "       ,        ,          .  ,       .  gain,                personality     . 
+     
+          .   participant_modeling         .                ,  segregating     Collection   .                 process.         ,                .               extrinsic_rewards process. ,       ,     [knowledge]     personality .               .            
+================
+   ,   ,   ,    [rewards ].    ,              ,           (&  , ),               ,        gain       ,         . 
+      . 
+            .                    .      ,  isolation_effect ,  isolation_effect    ,   [knowledge]  [knowledge]    ,      .     ,   ,     -existing .           behavior             perception       ,   focus     ,       ,     .     ,    .     ,             .        extrinsic_rewards process,     [knowledge]      personality .  gain, personality        .         .            ,           .            .          source    .  .  , , , ,         source ,    &.            intelligence             intelligence  .                source  .           ,      
+================
+.                                 . ,        syllogistic_rules       [norms]   .            behavior_control-ability     . 
+            .,     .  , ,      source   ,       source        ,   .        .        source ,         source    history.         (.)   combining      .              .        ,      . ,   ,    source    .  source     .   .   .  ,     .     . 
+                 .               process  "planning, , ". ,      " "  " ".            isolation_effect ,        .   process     source ,               .         combining         .              .                       .           ,     ,          .      process     . 
+================
+          .  ,      .          gain     .       , ,    ,  ,            source ,   . ,        process  .           intentionality   belief      .          [Organization]         ,                .      role      .           ,   intentionality       .          ,           .  ,     belief       protection_effect               .  ,       ,      physical_quality  .           ,            . 
+   source       -license    (    )   （Sun   Source .         .       source           source .       Source       .        source              source .  ,    ,     ,                        source     .                        intelligence .             .            " source   ".             source ,      ,  protection_effect     
+================
+.   source          ,              participant_modeling.    ,   "  ",            .                    source    .       . 
+         
+      
+          .       :   [knowledge]  ,          process,    [knowledge] extrinsic_rewards, [knowledge]    ,        . 
+  [knowledge]         role     process    . 
+         ,  [knowledge]      ,     role  [resource]        process,      (, ).            protection_effect        .            .            .        personality    . ,            .        role          process   .               . 
+         ,  [knowledge]            [knowledge ].    role  /      ,      (, ).        ,  
+================
+  [knowledge]               [knowledge ],    role  /      ,   (, ) .   , ,  ,    role  .      process       [Organization ],         intrinsic_rewards      . ,                   .       .   , [knowledge] extrinsic_rewards behavior         ,      . 
+    , ,   
+   behavior        , ,  ,       . ,           process  .  ,   extrinsic_rewards    .        extrinsic_rewards   ,        . ,             process.     process  .             . ,                  ,      [knowledge]     personality  . ,              extrinsic_rewards process,         [knowledge]   personality   . ,     [knowledge]                     .     . ,  [knowledge]           ,      [knowledge ]. ,     [knowledge]   behavior   , gain,  .            .             ,           [knowledge]     personality  ,            ,       ,     ,         . 
+================
+             
+   [Organization ],             [knowledge]         .        .            [knowledge]    .       [knowledge]    ,            ,  , ,  [rewards ],      ,                  , belief              ,          .          ,   participant_modeling  personality role          .  gain,            [Organization]     ,    ,    . ,          ,         [knowledge]  ,       role     process,      role        .     role    .       role.  [function]          ,       .                  .          .    ,                  .      mental_calculation        ,  [Organization] ,    ,     syllogistic_rules ,    extrinsic_rewards     .         ,               . 
+belief   
+================
+      ,        ,                  . 
+   ,          "     ".         .             ,    .    ( Source )    ,            .         [Organization] focus    process  .    "    "         ,    ,   [Organization]    .    ,    [Organization]        behavior    self-efficacy     .    [Organization]          "    "  "[Organization]   ".  ,              ?      [Organization]      ?         extrinsic_rewards   loss  [Organization] ?  ,   [Organization]           [Organization]    behavior_control-ability   ? ,      ,         personality ,     . 
+  ,   personality      ,     .                       ,                          . ,         .       personality        .                 .            "    "   .                
+================
+ ?    mental_calculation  [Organization] ,  ,  syllogistic_rules ,   , [knowledge]  ,                            ?      ,  ,    ?             ?            ?    possibility_effect          ?  ,              ?         [Organization]  ?    personality           . 
+ 
+, .& , . (),  intrinsic_rewards :     
+,     
+, .,& , . (), "  :   
+", & , ():  -45 
+, ..& , . (), "     
+:      , ,  ", 
+[Organization] , ():  
+, ., , ., , .,& , . (), "extrinsic_rewards   
+  :  focus      
+ ", & , ():  -145 
+, ., , .& , . (), "[knowledge] , 
+ ,     :     
+   ?",   ,  ():  , .,& , .. (),"      
+ extrinsic_rewards ? ",   , ():  , . (),  gain    , , , . , . (),   , , :   , .& , . (),  ,      
+[policy ], []     ,  
+, .,& ,  (),    ,  :  
+ 
+, .,& , . (), "  : , 
+,  ",     
+================
+, ():  
+, .& , . (),   ,  ,  
+ 
+, ..& , . (),   ,  , 
+  
+, ,& , . (), "      
+:     ",     
+,  ():  
+, . (),  process  :  history  process , 
+ :   
+, . (),   :  ,  
+     personality ,  & , 
+., .  
+, .. (), "    Source     
+   ",    , 
+():  
+, .& , . (),"   protection_effect  :  
+      ",  [policy ], 
+():  
+, ., , ., , ., , .& , . (),"  
+process :     ",    
+, :  
+,  .. ()," :      ",   
+, ():  
+, .. (),  ,  :  . 
+, .,& , .. (),   , , : 
+. 
+, .& , . (), "     ",  
+ , ():  
+, ., , ., . .& physical_quality, . (),    
+:   , , . 
+, .&  , . (), " [experience] :    
+     :   focus   " " ", 
+    ,  ():  -221. 
+, ., , . .,&  , . (), ":   Source  
+",  , ():  
+, .. (), ", ,      
+:        ", combining  
+================
+, (): . 
+, . (), "satisfaction_of_needs   ",  , :  
+, . (),"  focus   :     
+",  .. ,    , 
+, . 
+, . (),"     :  ",  
+ , ():  
+,  (), "    [knowledge] ", 
+,   () 
+,  (), "       [knowledge] 
+.",       () , ; , ; , (), "   
+syllogistic_rules     [Organization] personality 
+[capability] --xxx  focus     ",   
+ , ():  () 
+, .. (),"    :     
+  ",    ,  ():  , . (),   [knowledge ],    
+,  
+,  ., . ()," Source      
+",  .. belief,    ,  , . (),"         : 
+  focus    ",     
+   
+, ., , .&  .. (), " Impact   [experience]  
+[knowledge]  :   focus     
+",        
+,., , .& , . (), "   
+ :    learning process ",   , 
+():  
+, ., , .& , . (), "    
+:       process ",  , 
+():  
+, .& ,. (),"     ",  
+[policy ], ():  
+,  . (),    :     
+  ,  :   
+, ..,  ..&  . . (), "    
+================
+      ",  , ( ): 
+ 
+, . (), " ,  ,   intrinsic_rewards : 
+    ,    , 
+ , ,  
+, . (), "       
+:   belief ",    , (): 
+ 
+, . (),  ,  :  . 
+, .& , . (), "     :   personality 
+belief   ",    , ():  -1009 , .& , .( ), "     : 
+  ",   , ():  -77 , . (),"        ? 
+     ",  [policy ], 
+():  
+,  (),"      :    
+   ",    , (): 
+ 
+, ..& , . (), "  techniques ", 
+  , ():  
+, ..& , . (),"   syllogistic_rules ", 
++,  , :  
+, . (), " : personality     
+  ",   , ():  -65 
+, . (),  , ,  
+, . (), " [Organization]  ",  ,  (): 
+ 
+, .&  , . (), "      : 
+    ",  [policy ],  ():  -469 , . (),   ,   ,   
+,., , .,& , . (),"  :  
+ ",  [policy ], ():  -291 
+, .& , . (), "  extrinsic_rewards :  
+    ",   , 
+():  
+, .& , .. (), satisfaction_of_needs   ,   
+ , . 
+================
+, .& , . (), "    
+   :   ,    
+   ",   ,  ,  
+ , ., ,  ,  
+, . (),"          : 
+   ",    ,  , .., , .& , .. (), "    
+          
+",     , ():  
+, .., , .& , .. (),"  perceived_vulnerability, 
+ ,     :   
+  belief ",     ,  (): 
+ 
+, . . (), personality :   extrinsic_rewards  ,  
+. 
+, .&  , . (), "  :     
+ ",   , ():  
+, . (), "intelligence :     
+",   , ():  
+, .. (),"         
+",  [policy ], ():  -96 
+, .& , .. (), "     ", 
+  , ():  
+ , . (), "  role       
+ process ",  [policy ], ():  
+ , . (), "  role       
+  process ",     
+ , ():  
+ , . (),    ,  :   
+. 
+ , . (), " "      : 
+  ",  , ():  
+ , . (), "     :  Impact  
+""  ",  , ():  
+ , . (), ":    ",    
+  , ():  
+ , . (), " Source       ", 
+      ,  
+================
+, .,& , . (),  , :   
+  
+, .. (), "    ",  ,   , ,  
+================

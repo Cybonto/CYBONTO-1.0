@@ -1,0 +1,126 @@
+ 
+  
+. , . ,  : . 
+  :      
+    
+  
+                   (  ),              ,  .   ,        ,                     [knowledge]   .           syllogistic_rules  ,        (    )                ﬃ  , ,  ,    (  )     ().        
+  
+ 
+================
+ 
+  :         ... 
+( , ã ,     )      .         [knowledge]                [experience ].   ,                 ;                  learning      ;     physical_quality ,    ;                      ﬁ   .    ,                ,    ,    .        loss    syllogistic_rules         ,          loss    .    [knowledge]              personality      [knowledge ]. 
+.       (  )[] 
+        " "  .       intentionality  "       ,        ,      ,   intrinsic_rewards           [].       ,    ,         .    ,  extrinsic_rewards      
+, . , . ,  
+ 
+================
+ 
+  :         ... 
+ belief        ,    (          ). 
+               personality           perception     [knowledge]  ,             . 
+.             . 
+  ,           ,             ,             [knowledge]      .      ﬁ         (    ), á  (     )                []  ã .            ,              syllogistic_rules      ﬁ      . 
+.        
+     personality   ,             ,                     .      (:),   : " belief              [knowledge]           
+, . , . ,  
+ 
+================
+ 
+  :         ... 
+      :              personality             segregating   ?" 
+        ,  segregating extrinsic_rewards,    ,           . 
+. ,      
+         ó     ()         .  ó             ó, , , , ó  . ,  ó           ,         (  ,         ,    ﬁ         gain            .)[] 
+  (         )              ,              .   ,                       . 
+      ó  ã ó (             ),           . 
+, . , . ,  
+ 
+================
+ 
+  :         ... 
+..   
+..   ()    ó    ,  
+   ,                    .           ,      "           "   []. 
+          protection_effect.   ,                       .    process  . é (:)       syllogistic_rules    : "       perception        perception      protection_effect    .   ,       fear_arousal,  isolation_effect          -  
+, . , . ,  
+ 
+================
+ 
+  :         ... 
+  .  thinking      (   )     ,      .    self-efficacy           .     [experience]     syllogistic_rules        ,      .   ,           ﬁ ." 
+ personality perception                  ,   loss        . ,                               perception   . 
+.   :      
+            ê é  ê (  )           .       á               .     "  " (  )        .      ,      ,       ,     ,      .    [knowledge] combining          .  á        ,      learning                   (          ).        ,  ,      í    . í      ,   ,  
+, . , . ,  
+ 
+================
+ 
+  :         ... 
+         , ,   .  í      intelligence        .  focus    ,        ,   belief   "  ". 
+.   :   
+          /ó , personality      ã    []  ã                        ﬁ. ﬁ          personality       ,               .        perception              .   ,      ,            ()      . 
+.    
+        ,      ,                     .               ,    perceived_consensus ,          .         ,     ,      .          ,                  
+, . , . ,  
+ 
+================
+ 
+  :         ... 
+ history              [Organization]    .                  ﬂ          ﬁ    personality perception  . 
+.     
+          ﬁ   ,  .     " "   "  "    .       ,           ,     ,        . 
+     (: /),         belief        (        )     extrinsic_rewards.     [knowledge] process       ,    (         ),   ,         . [knowledge]               . 
+          syllogistic_rules                .   syllogistic_rules,  perception  [knowledge]       ,             .     (:/), "[knowledge]    ." 
+  (:/)   " perception"  .   ,              ,          ;        ,          .    belief   
+, . , . ,  
+ 
+================
+ 
+  :         ... 
+     ,   [knowledge]     ,    personality " "            []. 
+               ,  .     "  ",   ,         -   ,     -  [knowledge]       .            "  " personality      ,              role   process          . 
+ 
+[]            (    ó á   )  , ,  . 
+[] ://.../// ( :   ). 
+[]        learning : 
+://...///// 
+ ://.//  : ://. ../// //. ( :   ). 
+[] Source:  . 
+[]   [Organization]      ,           .      () [knowledge] ,  learning   ://./ ( :   ).          
+, . , . ,  
+ 
+================
+ 
+  :         ... 
+  belief      .  learning    perception        ,  ://./  ://. ( :   ). 
+ 
+, . .  (): ":   ó  Ê  ",    /, :   , á. . 
+, . (): "   " ( í), :  ,   : //. 
+, . ():       , :  ,     í, ., ã : / , á. . 
+é, . ():   ú,  : . 
+, . (.) (): , ã : . 
+, . (). "    ", :  á, ã : ., á. . 
+, . ():   ,   :   . 
+, ./, . ():  ç, : . 
+,  . ():    - ó       , : á   . 
+,  . ():   , : . 
+, ./, . () "  " ( í), :   ,   :     . 
+, ./, ./, . ():   : ,   , ã : . 
+, á (): "  í  ,  ". ú ,   ú ,   : ú . 
+, . , . ,  
+ 
+================
+ 
+  :         ... 
+,  (): "     ".   ,   ú , : . 
+, ./, . (    ): "         ",    ,    //. 
+, . ./, . . . (): " ,   çõ   ó    ."            ó, ó: , á.  
+ ,   ():  á  ,  : . 
+ ,   ():  í  ã .   í  é,  : . 
+,  ():    :  history   , / : . 
+  ,  (): "  ó    í", , ú. , . ,   :  /, á.. 
+, . , . ,  
+ 
+================

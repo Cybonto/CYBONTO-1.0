@@ -1,0 +1,559 @@
+   . 
+        
+   
+      
+   
+  .  
+  , ,    
+  
+          
+   perception       
+:       perception   
+         ,   
+================
+        
+  
+,    
+,   
+ 
+,   
+ 
+      ,    , , ; 
+  ,    , , ; 
+ history   ,  
+isolation_effect 
+  ,          personality   [knowledge]           [activity ].                    ()       ()       perception      .  ,       ,         /          . ,          ,    learning       learning -  [activity ].          ,       ,  focus       ,      perception        perception, , ﬁ,  intrinsic_rewards ()   .   appraisal   ,   ﬀ, ,   intrinsic_rewards      .  ,          ﬁ          %. 
+     
+ 
+   ; ; ; ; ;  belief 
+.  
+   ,  perception           () ﬁ      "  ", "  ()"  "    ()". ,             protection_effect   .        ,   , ,   ﬁ     .             
+  . : @.  . : @.  . : @. 
+ . : @. 
+================
+    personality   ,            process (, ; & , ; , ; , ; , ). 
+, intelligence                      personality     ,     " ()" ( , , ,& , ; , ,& , ).  ,      ,   ,  ,         ,  ,      (& , ; & , ).    ,    ,     ,            [activity]  participant_modeling    (, ,& , ). 
+,         gain             ,  ,      . ,                    .  ,   (     )   Phishing,       , ,            .                 . personality      perceived_uniqueness               . ,              [knowledge]    ,    gain  vulnerabilities    ,  ,   .         personality       ,    ,  [knowledge]       perception      vicarious_experience task (, ). 
+  ,    vulnerabilities              .        perception      (, , ,& , ),     .  learning_goal       ()  vicarious_experience   ()     perceived_responsibility    ,       .     (, ,& , ),    task              .  ,   [experience]        ,      (& , ). ,          [experience]     ,  certainty_effect                    .  ,          ﬁ ﬁ  ,       (, , ,& , ). 
+  ,  mental_calculation      ,        ,       ﬀ      .        . ,                     . , 
+     
+ 
+================
+ perception        belief               (personality)        . ,           ﬀ  coding  ,             .   ,   perceived_uniqueness           ﬀ  ,          ,    .                () [policy ],      gain  intrinsic_rewards      ,        (& , ). 
+ : certainty_effect    ,                 "". ﬁ: 
+•            
+    focus   . 
+•       (..,  
+, ,   )  ,     
+   ()   . 
+•       ,       
+       ,      
+       .  ,     ,  
+     perception, , ﬁ,  intrinsic_rewards () 
+   (, ). 
+•     ﬀ        
+     ﬀ ,   ﬀ, , 
+ [resource] ,   intrinsic_rewards  . 
+     
+        .    ﬂ    .          .                     .       .       appraisal   ,             . 
+.   
+     ,              (, , , ,& , ).         ﬁ  .       ,         . (). 
+"" (  ., )               Phishing . , " " (  ., )    . ()              [resource]  ()       Phishing .  ,    [goal]                  techniques      .   ,  
+ 
+================
+ .         
+     
+        ﬃ  Tactics      .          ,   [knowledge] (& , )  ﬂ (, ,& , ) .     (   ., ),                    . 
+"" (& , )           perception       .      gain   perception                  ,  perceived_uniqueness , Phishing,  .    , ,   ()            .            /     ﬀ  .   focus  personality         . 
+"  " (, )            Phishing ,  ,  ,     .               ,  Phishing     ,     ,        behavior.           ﬄ . 
+"" (  ., )               impact   .  - ,    participant_modeling      combining   .    ,          belief; ﬂ  .        perception     . 
+                     (), , ,  , ,   ()    . ().  ﬁ  
+ 
+================
+             perception      Phishing . 
+"  protection_effect" (  ., )     ()     .        intrinsic_rewards [knowledge]   .             ,  ( ),  ,    ()     (). 
+     . ()            ,   segregating         . ,              . ()         . 
+ perception                    (..,          )          .       . (),   . ()  (  ., )       belief  . ,       perception   .  ,             ﬀ  personality  appraisal      appraisal      .       ,                            . 
+,                        ,              . ,          ,          belief    ﬂ. ,         .  [goal]      ﬁ              . 
+     
+.    
+          .  experiential_awareness   ﬁ,              .        personality  ,      . belief   ,                . ,      ,        personality,            ,     .          techniques ://..//,         &    ()       (://.../). 
+..   
+            participant_modeling          .   
+ 
+================
+ .        
+     
+   . ,                    ,        . ,      perception        perceived_uniqueness           .         ﬁ   ﬀ        ,  ,           . ,     /                (, , , ,& , ; , ;  , ,& , )               . ﬁ,           "    " (, ),    ""    (, ),    ""         (, ),     perceived_consensus (), ""     (, ),          () "  "  (, ). 
+     participant_modeling      /   .    ,    (/),    ﬁ    . ,                .   ,        ,        . 
+    ,    ,              ,       physical_quality ( ) .    intrinsic_rewards  [extrinsic_motivation ],   
+ 
+================
+ extrinsic_rewards      protection_effect ,     participant_modeling      .               ,   ﬁ  protection_effect      ""  .      ,  ""      [knowledge]         ( ). 
+   ,      learning                [goal ].               ,      ,     frustration_of_needs  .    perception            (.., segregating  ),          -     perceived_responsibility,      . 
+         . ﬁ,            [knowledge]       .  ,    ,           , , ,     ,  ﬁ   . ,      .,                  thinking.          [knowledge]         ﬀ       "" .    ,     ,   ,             . 
+     
+...   
+    ,        ,  " ", "  ",  " ".  ﬁ                ; , ,  ,    ﬁ.     ,                    .       ﬁ            "  "  . 
+   extrinsic_rewards   ,         .              .  [goal]       combining   combining    ﬁ               . 
+         "  ".  [goal]              .          . ,                 .     ,     , , ",          , combining , ,   ". 
+  ﬁ  ﬁ  ,  " "   .  [goal]   participant_modeling      process   
+ 
+================
+ .  : combining    
+   .  ,     protection_effect  perception,    ﬁ [knowledge] .  ,        . ,       perceived_vulnerability   ﬁ     ,   ﬁ          .     ﬂ       combining   [knowledge]  ,       ﬁ ,   . 
+ ,     ,     " "     ﬂ            .        ﬁ  , .., "                  combining ", "     ﬁ,    ,    perceived_consensus    ", .            .    ﬁ ,               .   ,               . 
+,     a_memory  [knowledge]                combining  perceived_vulnerability. ,               ﬁ perceived_vulnerability.     ﬁ                (.., , ,   ﬁ,  ),        .    ,       .                        .                    . ,  ,           . 
+     
+...   
+ experiential_awareness   ,      " " ,   " " . " "   .  [goal]  
+ 
+================
+ .  : combining      ﬁ  
+     
+    thinking           personality. ,         personality                 personality  .          . 
+   extrinsic_rewards   ,   .  ,     ,       combining    physical_quality              .  " "        ﬁ    .           " "    ...  , ﬁ,    combining              personality,            .         .    ,      combining   [knowledge]             . 
+    ,      " "         . ,     ﬂ            .        ﬁ , .., " !            .   .", "          ", .            .            , , ,             .     [knowledge ],                 .             .    ,       .          combining           gain  .    " ",   ﬁ         .           
+ 
+================
+ .  : combining         
+     
+    . 
+..  
+,              .  ,   ,          , .                ,  ﬁ   process         .    ,        ,      ,       ﬁ ,  , , , ,   / . 
+             .   ,         ,     . a_memory                       .           ,  ,  ,   ,   ,   .       ,   , ,        . ,         ﬁ         , ..,       ﬁ,      ,          (),   . 
+                       .  ,               ()  ﬁ,             .    ,  perceived_responsibility             ﬁ.  ﬁ    
+ 
+================
+ .  : combining      
+     
+ .  : combining       personality 
+       ,    ,       ,   .  ﬁ                .               protection_effect  impulsive_effect    .           ﬁ   simplifying  . 
+,       ﬁ        ,       ﬁ        ﬁ. ,          . 
+ 
+================
+ .  : combining            
+ .  : combining      personality   
+     
+.       
+  , ,    intrinsic_rewards  ,          process    (, ). ,         personality      personality  .     [goal ],        ﬁ   :  ,   ﬀ  ﬃ,      ,   ,      (, ; , ).   ,           ﬁ     belief    . 
+   ,          : )          learning, )        physical_quality, ,    , )  
+ 
+================
+           ,   ﬁ  , ,    learning,  )              personality  ,   .      ,                    [experience]     .             () (, ,& , )       [experience]        [knowledge]        .  ,          extrinsic_rewards       personality    . 
+        ,     (, ,& , ),  (, ; , ), protection_effect (, , ,& , ), ,  .   ,                  .                    . ,                ;   ,   ,  ,   . 
+     
+..   
+  process   ﬁ     .   ,      gain  perceived_responsibility  intrinsic_rewards                 (, ; , ).    ,             .      ,     ,   ﬁ , ,   .            [experience]            process. ,                    . ,    ,        . 
+            ,   ,  ,        .  experiential_awareness   ﬁ,         [knowledge] ,   participant_modeling         .        .            process       .  ,                           [experience]  . 
+..     
+     (, )   arousal             ﬁ        behavior.  ,   ﬀ   ,    [knowledge ],     
+ 
+================
+ . isolation_effect      
+,     ,    ,         .   ,                . 
+ syllogistic_rules                ,  perception, , ﬁ,  intrinsic_rewards,          process.            ﬁ         .                .  ,        ﬁ,   comply_effect   "perception"      "persistence perception" ,       " "  ""    .                       . 
+     
+... perception 
+   ,  ﬁ [goal]         persistence  perception.       ,      protection_effect  perception            process.  experiential_awareness   ,   ﬁ    perception      : "personality ", " arousal ",  "persistence perception ". 
+ personality        process    extrinsic_rewards      perception.   ,       participant_modeling       .  ,    ,        ,       . ,    ,  participant_modeling     ,       . 
+,       ,           perception,        
+ 
+================
+ .     
+     
+. ,     ,  perception         arousal           .          [goal ]. 
+...  
+          .     ,      " "  " "  . ,          .         ,      ()        ,  ()       .   ,      ﬁ         . ﬁ,   ,                 ()    . 
+ experiential_awareness   ,     ,                      . ,        (.., , ),       ﬁ . 
+... ﬁ 
+ﬁ        .     ,      " extrinsic_rewards"  " "  .     ,        
+ 
+================
+ .         
+     
+ .                  task          process.    ,  [goal]                  .       . 
+ﬁ                          .    ﬁ        personality  ,   ,    ﬃ.   ,        personality         . 
+ﬁ,          : 
+()        combining     
+ satisfaction_of_needs     . 
+()       combining       
+      ﬀ. 
+()           . 
+()              
+.  ,      combining  perceived_vulnerability     
+     . 
+            : 
+()       combining        
+. 
+()                  
+     perceived_uniqueness. 
+()      ,        
+ 
+================
+ .          
+     
+      . 
+       ﬁ        (. .   ., ).  experiential_awareness   ,       "remembering"    "judging" . ﬁ,           ,    a_memory          process   .  ,      participant_modeling        . ,     a_memory    [knowledge]      .                          . ,   ,    ,     ,        . ,                       (, ; , ). 
+ﬁ            ﬃ. ,    ,  ﬃ                .  ,  ""     ﬃ         ,     ﬁ       a_memory  [knowledge]        . 
+... intrinsic_rewards 
+                .          participant_modeling          [knowledge]  .  experiential_awareness   ,   ﬁ      ﬁ      .       
+ 
+================
+ .     
+     
+   ,            ,   ,             "" . 
+.   
+       personality     mental_calculation  ,      . ,          ,               ﬀ          extrinsic_rewards.  ,             ﬁ   ﬀ  coding  . ,    ,         ﬀ.  perceived_uniqueness                participant_modeling  ,         .    perception,     gain  ﬁ  intrinsic_rewards                  . ,      [Organization] perception,    simplifying            ﬀ     . 
+    ,         ﬀ ,      .  ,      ,     ,   ,          (, ).            source,       .  ,     ,  , , ,  .         
+ 
+================
+ .            
+     
+     .               protection_effect  ,   coding ﬀ. 
+   ,      ,        ()   .                      .      ,      []  (), ..,     . ,             . 
+. appraisal 
+                  perception.       . ,       (ﬀ),               learning  . ,         (),     perception (intrinsic_rewards  ).       appraisal process,     ,   physical_quality     .       perceived_consensus          appraisal    . 
+..  /[knowledge]  ﬀ 
+...  
+[knowledge]    ,          ,       .   , [knowledge]  ﬀ            experiential_awareness . ﬁ,      
+ 
+================
+,       ,   ( )    ( ).       attending             .  ,                 .  ,      ,             (..,   ,    ).    ,               .                      .           ,              .                 ﬀ      (∼90 ). ,                ﬀ . 
+ . experiential_awareness    [knowledge]  ﬀ 
+     
+ .    [activity]    appraisal 
+ 
+================
+...  
+      gain      , ,   .  combining          .  combining      .  ﬀ                .         ﬀ    . 
+ .   [knowledge]   
+       
+ﬀ ﬀ% 
+  . . .%   . . .% 
+                 (= ., < .).         (() =., = .)   ﬁ ﬀ     (= .). 
+     
+...  
+   ﬁ    ,  experiential_awareness ()        gain  [knowledge]      .     , experiential_awareness  ,      ,  ,      ,     .    ﬀ              .         perceived_responsibility    ,     gain      .  perceived_responsibility           ﬁ     .. 
+   ﬀ             . ﬁ,       ,                           .  experiential_awareness,                  [knowledge]    . ,     ,      combining             .   ,     combining             .  personality  appraisal        [knowledge]                 (. . , ,& , ; & , ; , , , ,& , ). ,           extrinsic_rewards    .    ,         combining      personality  .  ,      combining             . 
+      ﬁ,        
+ 
+================
+     .          . 
+ .      [knowledge]      
+     
+    
+     
+      
+   .% .% 
+      
+       
+     .% .% 
+     
+    
+     .% .% 
+    possibility_effect 
+     .% .% 
+     
+ ﬁ   
+  .% .% 
+       ,  .%         personality  ,            .       .%    . ,   .%          personality      ,       .%   . 
+.. ,   intrinsic_rewards   
+ combining        ,         .     ,      ,      .          :  , ,    , ,   .              . 
+    ,    isolation_effect   .  ﬁ        (  ).             .     ,      ,        ﬂ        participant_modeling,        (..,  , ﬃ     , ).         judging      intrinsic_rewards  .            .         intrinsic_rewards    participant_modeling,   , 
+ 
+================
+ .          
+/ (=) 
+  
+() -     . . . () -      participant_modeling    . . . () -    ( participant_modeling   ) 
+ . . . () -           
+ . . . () -      ,    
+   ﬁ   . . . () -      . . . () -   [action ],         . . . () -    personality  learning    . . . () -        physical_quality combining    
+  [action ]. . . () -     participant_modeling      . . . () -     participant_modeling        
+  . . . () -            
+         . . . () -          physical_quality. . . () -       . . . 
+     
+         .                     ()   evaluating  . ,                       physical_quality   . 
+                    (α= .).          ()           . 
+    ﬁ   . 
+• .%              
+   . 
+• .%           . • .%             
+. 
+• .%     participant_modeling  . 
+• .%        ,   .%   
+personality belief  . 
+• %             
+. 
+• .%       participant_modeling     
+ ,   .%   personality belief  . • .%          , 
+ 
+================
+  .%   personality belief  . 
+•          ,     
+. 
+•             . •        [action ],         
+. 
+•         personality  learning  . ,  
+     ,     [action]    
+. 
+• .%       participant_modeling      ,  
+ .%   personality belief  . 
+•        participant_modeling       
+             . •                
+        protection_effect    
+. 
+ ,             participant_modeling          .                 .   ,                          . ,       belief           ,    . , ,           .             /   ﬁ       . 
+     
+..   
+ mental_calculation      ,      ﬁ        , ,   ﬃ.                  . ﬁ,      .%   ,    ﬂ              personality. ,          ﬂ  .  . /. 
+. belief 
+  ,                     .          ,          .   ﬁ   physical_quality  personality         [experience]    physical_quality   .             perception  [knowledge] ,   behavior_control-ability  frustration_of_needs  .       ,   
+ 
+================
+          ,    perception    / ,      ﬀ . 
+     ,              perceived_uniqueness.   ﬁ [goal ],       , ,   ,                .   ,          .                  ,        . 
+        ﬂ          ,       perception. ﬁ,   / ,              .              .  appraisal        ,    ,      ,      ,        learning  protection_effect   [knowledge ].   appraisal   ,   ﬀ, ,   intrinsic_rewards      .          ﬁ        (.%)      (.%) ( , < .). ,       participant_modeling          ,          ,    . ,  appraisal ﬀ           appraisal  certainty_effect    personality      . 
+       ﬀ .                 simplifying   ﬁ     .                 ()impulsive_effect       physical_quality  /gain   . ,     focus  possibility_effect        source      .                      ,     gain  impact  . 
+,    ﬁ  certainty_effect,      ,          appraisal      focus      perception. 
+     
+ 
+, . ().   ﬀ  ﬃ  .  
+    ,    , (), . , . ., , . .,& , . . (). situational_circumstance   . 
+ , (), . 
+, . ., , . ., , . ., , . ., , . ., 
+, . .,... , . . ().    , , 
+ :        ,  
+.  ,  : . 
+, . . .,& , . ().        
+ 
+================
+   protection_effect  "Phishing ".    , 
+  () (. ). 
+, ., , .,& , . (). ﬂ:  [experience]  learning - 
+. (, , ) 
+, . . ().  :   perception (. ).  
+&  . 
+, . . ().   belief      
+    . & , (), . , . ().      .  , 
+(), . 
+. (,  ).    .   
+://...//// / 
+( ) 
+, ., , ., , ., , . .,& , . . ().  
+   :   focus     ., 
+(), . 
+, . . . . . . (,  ).  .  
+ ://./ // ( ) , ., , . .,& , . ().   
+   .      : 
+    , . 
+, ., , .,& , . . ().     . 
+  . 
+, . . (,  ).    .   
+://..// ( 
+ ) 
+, ., . (,  ).   
+       .   
+://../// ( 
+ ) 
+, ., , .,& , . (). :    
+      perception.     
+    (),     (. 
+). 
+, ., , ., , .,& , . ().  
+  perception    .     
+  (), (), . 
+, ., , ., , .,& , . ().   
+       .    
+ , . 
+, . ., , .,& , . . ().   .  
+        (. ). 
+. 
+, .,& , . . ().      : 
+     , &  .  
+   , , . 
+. (, ). :   .   
+://..// (   
+ , ) 
+, ., , ., , . .,& , . . ().  
+     
+ 
+================
+    .  , .    
+, . 
+, . . ().   :  intrinsic_rewards  combining 
+  .      , (), . , . ().       :  
+ []   .     ,    
+, (), . 
+, . ().        :  
+  .      , (), . , ., , .-xxx. ., , .,& , . ().   
+perception   personality protection_effect      
+. & , (), . 
+, ., , .-xxx. .,& , . ().  internalization 
+ﬁ  protection_effect     .   
+     (. ). 
+, . . ().          
+.    , (), . 
+, . . ().       learning.  
+gain, (), . 
+, .,& , . ().     
+     :    
+,  , ,   .    
+   Organization, (), . 
+, . .,& , . (). ﬀ   ( ) 
+ ,        .  
+   , , . 
+, ., , ., , ., , . .,& , . ().  
+     .      (), 
+(), . 
+, . .,& , . . ().  [activity]      
+ [activity] :     .  
+   , , . 
+ , ., , .,& , . ().   perception  personality 
+   .   ﬂ:    (), 
+     (. ). 
+, .-xxx., , .-xxx., , .-xxx., , .-xxx.,& , .-xxx. ().  
+ﬀ        .   
+  ,    () (. ). , . .,& , . . (). intrinsic_rewards     
+   . mastery_experience, ,  , , 
+. 
+, . . ().      learning?  focus   
+  . , (), . 
+, . ().    :     .  
+    , (), . 
+, .-xxx. ., , .,& , .-xxx. ().     
+    : , constraint,   . 
+& , (), . 
+, ., , ., , ., , ., , . ., , .,& 
+, . ().  :    appraisal     
+     
+ 
+================
+      .         
+   (. ). . 
+, .,& , . ().      . 
+, (), . 
+, . .,& , . . ().    [knowledge] :  
+    [knowledge]   [knowledge] .   
+ ,    , (), . 
+, . . . . (,  ).  
+    .   
+://.//// ( 
+ ) 
+, . ().    .   
+://...///   . 
+( ) 
+, ., , ., , ., , ., , ., , .,... 
+, . (). :     perception  .  (. 
+). . 
+, .,& , . ().  :   gain  , 
+        .  (. ). 
+ . 
+, ., , ., , ., , .,& , . 
+().   protection_effect :        .  
+       () (. ). 
+, .-xxx. ().      ,  
+extrinsic_rewards,   .    & , 
+(). 
+, .-xxx. . ().   ,  intelligence :  
+        .  
+& , (), . 
+, . ().   participant_modeling   . & behavior, 
+(), . 
+, . ().   .   
+://../ (    , ) 
+     
+ 
+ 
+================
+ . ﬀ:       
+  
+               
+ . 
+: () , ()   , ()    
+, ()  ﬁ, ()  , () , ()  .               
+   ﬁ     . 
+: () protection_effect      , 
+()      , ()   , 
+  protection_effect     , ()   
+       . 
+              
+        . 
+:     . 
+             
+          . 
+:     . 
+             
+    ﬁ. 
+:     . 
+            
+          . 
+: ()  participant_modeling     , ()      combining 
+      , ()    
+   , ()  participant_modeling   ﬁ   , 
+()        , ()      
+       combining, ()       , 
+()  participant_modeling      , ()    
+   , ()         .            
+    personality ()  . 
+: ()  , ()      , 
+()    , ,   , 
+() , ()   "", ()   , 
+()   , ()   , ()    .        
+: () , () , () #$, () , 
+() !, ()      , () . 
+     
+ 
+================
+ . ﬀ:       
+  
+             
+     personality. 
+: ()   , ()   , ()  
+ , ()   techniques, ()   , 
+()   , ()  /  , 
+()   . 
+              
+    . 
+: () ,         , 
+() ,            .  
+ , ()    personality       , 
+() ,            
+,  : , ()      +. 
+     
+ 
+================
+ .      ,   intrinsic_rewards     
+ . , .  
+ . , . , . , .  
+       ? (  ) 
+       ? (  ) 
+     . (  ) 
+            ? 
+(    ) 
+()[]     . 
+()[]      participant_modeling    . ()[]    ( participant_modeling   )  
+. 
+()[]           
+ . 
+()[]      ,       ﬁ 
+  . 
+()[]      . 
+()[]   [action ],         . 
+          (..,   , 
+    ,    , )? 
+ ,    . 
+            ? 
+(    ) 
+()[]    personality  learning    . 
+()[]        physical_quality combining    
+  [action ]. 
+()[]     participant_modeling      . ()[]     participant_modeling       
+   . 
+()[]            
+         . ()[]          physical_quality. ()[]       . 
+        ?  ,    . 
+     
+ 
+================

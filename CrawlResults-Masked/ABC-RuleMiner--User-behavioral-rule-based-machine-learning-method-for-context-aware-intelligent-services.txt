@@ -1,0 +1,412 @@
+   . 
+:         intelligence  
+. . . 
+     ,  
+   
+  .  
+  , ,    
+  
+          
+         . .. 
+:        . .. 
+:   behavior    . .. 
+================
+       ()  
+     
+      
+ : ..// 
+:        
+ intelligence  
+ . ,,∗, ...  
+ 
+      ,     , , , ,  
+ 
+     ,  , ,   
+  , , , ,  
+  
+isolation_effect 
+: 
+                intelligence . 
+                
+      intelligence .     
+       ()       
+.        -  , , ,    
+,     [activity] .    ()    personality  
+         constraint [preference]    . 
+,             
+         .      
+             process   
+  ﬀ.  behavior_control-ability  ,   ,        
+""  ﬀ ﬁ   ,       
+  ()           .  
+           perception   
+ﬀ      . 
+.  
+           ()       ,     combining     ,     process   (   , ).   (  , )    "        process -       ", ..,    " personality  "   " ". ,                  .                   , ..,    (   ., ;   , ).            (, ), ..,      ,      
+,  ,     ,     ,    (, ) (  ., ),  ( , ..,  ﬃ (  ., )),   (  , ..,    (  ., ),  syllogistic_rules  , ..,  (, )) .   ,  focus          ,  intelligence  , ,      ,      . 
+       judging         ,            ,    intelligence    , intelligence     ,   intelligence   ﬁ , .,                . ,  ,     
+∗ 
+ .        ,    , , , , . 
+ techniques : @.. (.. ). 
+://././... 
+   ;       ;     
+     
+/©   .   personality. 
+================
+..  ...  
+           ﬀ-   ﬀ  (  , ).  ,              , ..,   ﬃ,     ,       .         ﬀ                      . 
+ mental_calculation        . , ,    ,     ﬃ.    :   : ,         ﬃ. ,   (    )                    . ,          ﬁ     ,     (    )          . ,             , ,     syllogistic_rules .  ﬀ     perception               ﬀ      .       ,     perception       ﬂ  . ,            intelligence          .   intelligence            ,          intelligence  ,         . 
+                   [ ⇒  [activity] ].         ,   ﬁ (, ),    (  , )  personality      . , ﬁ intrinsic_rewards  protection_effect      [modeling]  behavior (, )(   ., ). , ﬁ intrinsic_rewards         (.., ﬁ )      perceived_consensus -     ,        (, ). ,   ,               ﬀ  .      ,     (  ., )(   ., )(   ., )       behavior   . ,    -      perception, ..,  (  , )       impact                  .                  process  personality  ﬀ    .      experiential_awareness   (  , ),       perception    %   . ,    ﬃ                   ,    ﬀ   . ,         - ":    behavior_control-ability             intelligence ?" 
+    ,   ,         ""[   ,   behavior,   ]  ﬀ ﬁ              .   ﬁ       (  , )    ,    learning - 
+       ()  
+       ,   [modeling ],     experiential_awareness ,       .     perception,  ﬁ      ()           perception.    ,         ,        [activity]          .             ,             .     ,  combining              .       ,              . 
+         : 
+•  ﬀ combining       
+       . •         ﬀ  
+         
+   .  ,      
+     .     
+         
+  . 
+•           
+    ﬀ     perception 
+    . 
+        .           ﬁ    .   ,  ﬁ         .   , 
+      [modeling]      behavior.   ,  appraisal    perception         .         perception          . ,          . 
+.  focus    
+        ,       ﬁ   personality   [modeling] (  ., ).          .   ,  ﬁ                         focus.             perception    .   ,     personality              focus. 
+..   ﬁ  
+ﬁ       personality intrinsic_rewards     .     ,  personality ﬁ intrinsic_rewards,   protection_effect  ()(  ., ),   () (  , ),   () (  ., ),   () (, ),   () (    , ), ﬁ   () (  ., )   . ,   .    (  ., )(   ., )     ﬁ     ﬀ  .   ﬁ intrinsic_rewards     
+ 
+================
+..  ...  
+      (  ., )( , )(   .,  ),   ,  focus    intrinsic_rewards        .                        ﬀ . ,            , ,     [knowledge]     , ..,     (  ., ).     ﬁ intrinsic_rewards    (  personality, ),  (, ),   (, )( , ),  (  , ),     () (  personality, ),        () (  ., )       . 
+               .      behavior,         ﬁ techniques, ..,  .  ,   . ()          ﬁ    .   perception,         .   . (, )              ﬁ    .  (  ., ),   .    intelligence                .   ,       intrinsic_rewards     intelligence.  gain    ,    ﬀ ﬁ intrinsic_rewards   [modeling ].  ,  (, ),   .       behavior      .   perception,  simplifying      mental_calculation    ﬁ-based perception       ﬁ       .  gain   ,   . (  , )         .   ,          ﬁ intrinsic_rewards.   . (, )        .   ,          ﬁ perception      ﬀ.   focus,   . (),    ﬁ   ,  , protection_effect  ,   ,       ﬀ . ,              .    (  ., )            ﬁ    ﬀ-        behavior. ,   ,      protection_effect      [modeling]  behavior           (, )(   ., ). ,  techniques             ,   participant_modeling  ﬁ role    behavior  . 
+  intrinsic_rewards,  .   (, )     personality     techniques      (  ., )(   ., ). ,  ﬁ intrinsic_rewards    ﬂ                  ,     . 
+..     
+   () intrinsic_rewards   ﬁ       ﬂ       ( , ).         personality   intrinsic_rewards          
+       ()  
+    ,  ,  ,  behavior ,  , . ,     personality     .  ,    ﬁ           . ().               ,        ﬀ.    ,          .  perception    (  , )  personality    behavior   ; ,     loss      . 
+  intrinsic_rewards,   . (  , )   , ,           .                          (  , ).  perception      (ﬀ, )   ,       impulsive_effect       protection_effect  ﬁ- .   intrinsic_rewards ()   personality     techniques     ()     . (),   personality      .  (   )     . ()   perception        (  , ).   . (  , )   perception   ﬁ-order , ,      learning      . ,    (  , )(   ., )     intrinsic_rewards    . ,              constraint.   perceived_uniqueness    intrinsic_rewards      (  , )       ,        (  ., )          ﬃ isolation_effect   . ,   ﬃ       personality       (  , ). 
+       .  ,   . ()    perception      intelligence  ﬁ  .   perception,    (  ., )       impulsive_effect   .   . ()   (  , )    techniques              .            [preference ],   . ()    perception         .   perception,        techniques      . ,         techniques         (  , )(   , ).      . (  , )      %  .  (  , ),   .     experiential_awareness focus   (  , )                   personality  ﬀ  .        techniques      ,    , ,      ,   impact   behavior,                  . 
+     intrinsic_rewards,  (  , )                (  , ).  
+ 
+================
+..  ...  
+                  ,    protection_effect  ﬁ .   ,   ,                         . 
+. "    
+  ﬁ   imagination            ,                        .   ,  belief   intelligence -        . 
+" . (  ).  = {,,.. ., 
+}={,, 
+.. ., 
+}      .       Collection  ,  - 
+()         (,), 
+ 
+∈ ,  
+ ∈ .  ,      , 
+      . 
+()    ∈ ,   internalization   , 
+         ,  
+()        [activity]    
+(..,       ). 
+   [activity]              ,          . 
+" . ().                =( ,,.. .,),  ,,.. .,  ,                 .      techniques(   ., )      internalization        < ,,.. .,>  isolation_effect  (,],(,],.. .,(,],     ,       < , = ,,‥,,  . 
+    focus       ,   ,  ﬁ        . 
+" . ( ).   ={,,.. ., 
+}           ﬂ      ={,,.. ., 
+}        [activity ].             .   ,  mental_calculation              .     ,           ,       . 
+" . (  ). ,  ()        ( [activity ])     behavior   .                  [ ⇒ ],        (  )    ,    ( [activity ])        . 
+" . ( [preference] ).             protection_effect  ﬁ     . protection_effect        
+       ()  
+    : (,),            ,           (  ., ).    , ﬁ                 ()    ()       ()      (  ., ). 
+                [preference ],   ,  ﬁ           focus. 
+" . (). ,   :   : ,             ⊆   = .   ﬁ  ,       :        ﬁ        ﬁ          ﬁ  :    ⊆   = ,          . 
+ mental_calculation  ,            (%),        , ..,    ( ⇒ ) [,   ﬁ  %].   ,          (%)   ,      , ..,    (, ⇒ ).        ﬁ        ﬁ . ,                          .    participant_modeling  ﬁ role   ﬂ ﬀ behavior.                    ﬁ %       , ,   .     ,,,               .    ,        ,      ,     behavior     . 
+ .    ﬁ,             : 
+,                     .  [goal]                ,     personality   .          ﬁ            ﬀ,       intelligence     .   ,        ("")    . 
+. :  
+  ,        ""                     intelligence .  perception        . 
+..      
+ ﬀ , .., , ,   ,   ﬀ     ,           .  ,    (  personality, )    appraisal  ,    intrinsic_rewards (  personality, )              .  
+ 
+================
+..  ...  
+  
+       ()  
+        
+     . 
+  ()    () 
+ ∶  ⇒  
+(= %) 
+ ∶ , ⇒  
+(= %) 
+ ∶ , ⇒  
+(= %) 
+ ∶ ,,[] ⇒  
+(= %) 
+ ∶ ,,[] ⇒  
+(= %) 
+ ∶ , ⇒  
+(= %) 
+,    intrinsic_rewards  ﬁ   (  personality, )- 
+∑ 
+()= ()() () 
+ 
+∑ 
+(,)= () ()() () 
+ 
+, ()      ,          internalization     =∪ 
+, 
+()                 , ()       .  , ..,   ,  ,                    perception. 
+..     
+   ()          ,    ,      /  .                      , ..,   .              [activity]   intentionality ﬁ    . 
+     ,     perception       personality    .       [activity]                    .           ,            .  ,   combining             [activity]  intentionality    behavior, ..,         ,    ﬁ .   ﬁ       ﬁ    .   ,                 ﬁ , , = %,          .  ,              .         ( →    
+ ∶  ⇒ (= %) 
+ ∶ , ⇒ (= %) 
+                     behavior       ﬁ . .               ﬁ [preference] %.   process         . 
+..      
+      ()   ,              .  ,  ﬁ              .             ﬁ    ﬁ  ( ≥ )      ( ≠ ) ﬁ    .        [activity]    ﬁ  ﬁ       (= %),   . .,            ,   . . 
+       perceived_consensus -    [goal ],          .            . 
+ ∶  ⇒  (= %,   )  ∶  ⇒  (= %,   )  ∶ , ⇒  (= %,   )  ∶ , ⇒  (= %,   )  ∶ , ⇒  (= %,   ) 
+. appraisal  experiential_awareness  
+   appraisal  ﬀ         ,                .   ,  ﬁ   experiential_awareness               . ,    ﬁ    . 
+ 
+================
+..  ...  
+       ()  
+    . 
+ 
+================
+..  ...  
+       ()  
+. .       ()       . 
+  
+          . . 
+       
+                        
+= %<  = % ≥  = % ≥  = % ≥  = % ≥  
+=  () 
+= % ≥  
+=  ()  = ()  = ()  = ()  = () 
+.. experiential_awareness  
+                perception   .  : 
+•  :      perception  
+        
+     ? •  :     perception     
+        
+ ,          
+  ? 
+•  :    ﬀ   ﬁ [preference]   
+          
+ ? 
+•  :  ﬀ      perception 
+         
+ ? 
+   ,                 .    ,  ﬂ       experiential_awareness   . 
+ (    ﬁ [preference ])  (     )  (     )  (     )  (     ) 
+ (     ) 
+..      
+               ,,.. .,    .        , ..,         , ,      ,         ()       (  , ).           ,          , ﬃ, , ,  , ,         .           perceived_uniqueness       (..,  -  ),   (..,  :: -     ::),   (.., ,),    (..,  -   ﬃ),    (..,  -  ),   (             ,  ),   (..,  ).         .  ,           ,       techniques (  ., )          (.., [::]),     [activity] .         (, )            . ,    
+ 
+================
+..  ...  
+  
+       ()  
+         perception      . 
+    
+ﬁ 
+% 
+   ⇒  :[], :,  :       % 
+ ⇒  :[], :     
+ ⇒  :[], :      % 
+ ⇒  :[]     
+   , ,                    perception   . 
+.. appraisal  
+   appraisal  ﬀ       ,      combining    ,             ,            .     , ..,      certainty_effect    certainty_effect,    , ..,      certainty_effect    ,    , ..,          ,     , ..,          certainty_effect,    ﬁ  , a_memory,       (  ., ): 
+= 
+ 
++  
+() 
+a_memory= 
+ 
++  
+() 
+= 
++  
++  ++  
+() 
+ appraisal       ,     personality   techniques (  personality, )       .   ,   = ,     isolation_effect     .                  .          , a_memory,   ﬁ .   perception  ,  ﬁ        experiential_awareness      .                   ﬀ . 
+..     
+   ﬁ   ,   ,          ,            .          ﬁ [preference ],        ﬁ  , , %. 
+               impact         .  ,                    ,          (%)   ( ). ,      , ,           .     ,            ,                .   perception      impact            .   
+% 
+. .     . 
+          ﬁ  , .., ≥ %.    ﬁ,          [preference ]. ,                            intelligence . ,   generalizing       perception                . 
+..      
+      ,    ,                perception     ()    .          ,  (  , ) personality              ,    .     ,    intrinsic_rewards (  ., )           .  perception        ,        . ,          ,    . . , . , . , .             ﬀ      .  ,    ﬀ ﬁ , .., % ()   % ().  ﬁ      ,          %  ﬁ [preference]   experiential_awareness . 
+  comply_effect . ,  , . , . ,                  ﬁ .                . ,    ﬁ ,  ﬁ  ,    ,    .    ,   ﬁ ,             perception,    ,     
+ 
+================
+..  ...  
+       ()  
+. .    . 
+. . . 
+. .     . 
+. .. 
+  . 
+     ,    comply_effect . ,  , . , . , 
+ perception ﬁ   combining             ﬀ  ﬁ ,  .                                   ﬁ [preference ].    ,  combining                    [goal ].   ,  perception ﬁ 
+  combining             .          perception  ﬀ                         . ,    experiential_awareness ,   generalizing     perception                        . 
+.. ﬀ  ﬁ [preference]     
+. .. 
+      ,   ,               perception   ﬁ .  ,  ﬁ          a_memory        %   %.      ﬁ    . .   .    syllogistic_rules    a_memory  ﬀ ﬁ    ﬀ      . 
+,       a_memory  .   perception,    ﬁ [preference]    personality    .                 .   comply_effect .   ,     a_memory      ﬁ   .    ,     gain  ﬁ   .   gain   ﬁ ,               . ,    ﬁ        a_memory,     ,    ﬁ         a_memory,   .       .         a_memory    ﬁ  ,    ﬀ,   [preference]        .  ,   % ﬁ [preference]  
+ 
+================
+..  ...  
+. .     . 
+. .     . 
+             [preference]   . ,      ﬁ         . ,   generalizing   ﬁ [preference]        ﬀ          . 
+.. ﬀ  
+      ,   ,    ﬀ                 .   ,  ﬁ    ﬁ    , , , , ,           .     ﬁ        ,   .   ,   ﬁ     , , , , ,         .    perception              ,    .     physical_quality ,            . .   .         ﬁ    ﬀ        . 
+ .   ,  ﬁ   perception      ﬁ       .  gain   ,           (%)    evaluating (%)   Collection  ,   .    .  ,       
+       ()  
+. .   . 
+. .   evaluating . 
+ (%)    evaluating (%)            ,  .                        evaluating.                      . ,   generalizing      perception   ﬀ           . 
+.  
+,                     ﬂ       .  perception  ﬀ combining                       ,    perception  ﬀ        intelligence      .        ()  (  , ),    perception                ,    ,   . ,  , . , . .  ﬀ          ,        perception  ,    . ,  , . ,  . ,         ,     ﬀ  
+ 
+================
+..  ...  
+             intelligence  . 
+                    .                  ,               .                   perception,          ,    .  gain        ,            ,      ,  intelligence  ,  ,            .               personality        /  ,     [policy]   , ..,      ( ., ).     perception   possibility_effect               .     perception               ,        ,                      . 
+. belief    
+  ,           ﬀ ﬁ              .,           , ,   .              perception.             perception   ﬀ                     .   ,          - ﬁ     [capability]       .       perception   personality        intelligence            . 
+  ,    combining         (),               intelligence  . ,                       . 
+perceived_responsibility   
+ ﬁ   .      perception, ,           experiential_awareness .    personality         ﬁ . 
+    
+         ﬁ          ﬂ      . 
+       ()  
+ 
+       ,  ,   ,     protection_effect.        . 
+ 
+, ., , ., .      . : 
+          , 
+ , . , . . 
+, ., , ., , ., .       
+   . :   , . . , . . , .., , ., , .., .   . . 
+learning.  (), . 
+, ., .  . . learning.  (), . 
+, ., , .-xxx., , .-xxx., .    . :   
+       [knowledge] . 
+, . . 
+, ., , .., .  :  personality  .  
+ .  (), . 
+ , .., , ., . :      . 
+. . . . . 
+, .., , ., . ﬁ-guided   ﬁ-order   
+. . learning.  (), . 
+, ., , .., .     . : 
+     intelligence . , . 
+. 
+, .., . personality   ﬀ  ﬁ  
+   :  belief .   . .  
+(), . 
+, ., , ., , ., .      . 
+:   , . . , . . 
+, ., , ., , ., .  :   intrinsic_rewards. , 
+, . 
+, .., .   ﬁ  participant_modeling      
+. . learning.  (), . 
+, ., , .-xxx., , ., , ., .     
+     history.  . .  (), . , ., , ., .        
+. :  , .      
+ . , . . 
+, .., , ., .      
+ﬁ. :       perceived_vulnerability  ﬁ 
+intelligence.    ., . . 
+, .., , .., , ., , ..., .   
+     ﬁ .  .  (), .  , .,  , .., .     . . 
+. . .:   (. .)  (), . 
+, .-xxx., .        
+.  . .  (), . 
+, ., , ., , ., . :     
+intelligence  ﬁ . :     
+      , , , 
+ . ,  , ., . . 
+, .-xxx., , .-xxx., , .-xxx., .     
+  [preference]    . :    
+ intelligence  . , . . 
+, ., , ., . :  intelligence  
+   . :      
+     , , , ,  
+. ,  , ., . . 
+, ., , ., , ., , ., .   
+ .  . . . .  () ::. 
+, ., .  appraisal   . :   
+        . , 
+. . 
+, .,  , ., , ., , ., .     ?: 
+     . :     
+      . , . . , .., . syllogistic_rules   . . learning.  (), . 
+, .., . .:    . . learning. 
+, .., . personality  role       
+ .   .   . .  (). , .., .           
+ .  . , . 
+, .., , .., .        
+  . :     ﬁ-Asia   
+[knowledge]     (). , , , 
+. . 
+, .., , ., , .., , ., .   
+      behavior. . .  (),  
+ , . 
+ 
+================
+..  ...  
+, .., , ., , ., , ., , ., . :   
+        
+ . . .. 
+, .., , ., , ., , .., , .., , ., . :  
+         
+.  . . . 
+, .., , ., , ., . ﬀ     
+ﬁ       . . 
+ . 
+, .., , ., , ., . :   
+ behavior    . .    (), . , .., , .., , ., , .., . :   
+      .   (), . , ..,  ., .   :     
+ . .    (). 
+ﬀ, ., .      protection_effect   
+ﬁ. .  .  (), . 
+, ., , .., .    , [knowledge]   
+. :  ,        
+   [knowledge]   .     
+, . ,. 
+, ., , ., , ., . :    
+   . :        
+   , , , ,  . , 
+ , ., . . 
+, .., personality, ., .  : personality     
+intrinsic_rewards.  . 
+, .., personality, ., , .., , .., , ., , .., . 
+: personality     intrinsic_rewards   . , ., , ., , .., , ., , ., , ., , .., , 
+., , ., , ..,  ., .      . . . 
+.  (), . 
+, .-xxx., , .-xxx., , .-xxx., , .-xxx., .   syllogistic_rules   
+    . . .  (), . 
+, ., , .., .   :  .  
+ , . 
+       ()  
+, ., , .., . :  gain   intelligence .  . .  
+ () . 
+, ., , ., , ., , ., , ., , ., .    
+    .  . . 
+. . ()  (), . 
+, ., , ., , .., , ., .   intelligence 
+  . .   (), . 
+ . :           personality -       , ,   .  ,    learning        ,                , .         ,    ,  ,   intelligence ,    intelligence.          ,(  ,   ,    ,     , ,   )   ( ,  ,  ,  ,   ).         . 
+... :             ,, .    ,   .        ,  ,  ,  ,     ,   ,  ,     .                ,  ,  ,  ,     .             .                         / ,    (   ,  , ,  ,    ,    ,    ,  , , ,   )   (, , , intelligence, ,     ).          (). 
+ 
+================

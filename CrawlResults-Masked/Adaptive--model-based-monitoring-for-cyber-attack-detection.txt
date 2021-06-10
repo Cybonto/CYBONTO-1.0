@@ -1,0 +1,240 @@
+   . 
+,       
+   
+    ? 
+    ? 
+  , ,    
+       
+      
+  .  
+================
+,    
+   
+ ,  ,  . {,}@.. 
+isolation_effect 
+belief                .     gain   ,       generalizing.     ,    possibility_effect. ,        "learning"  mental_calculation   . 
+,    , ,  techniques   ,      simplifying   .       ,    .  perception           intrinsic_rewards :  , ,   possibility_effect.           ,    belief techniques     .  belief techniques      . 
+:  ,  ,  ,  .
+ . , . ,  .  ():  ,  , . ,  ©     
+ 
+================
+ 
+ ,     belief intrinsic_rewards        ().    [],           .   [, , ]   "learning"  behavior  ,       .  belief intrinsic_rewards    ,                evaluating.       ,     [, ]    belief techniques. 
+            ,          . ,                [].   process          .     []        .     "",     ,           . 
+                       (   ).   ,   internalization  ,    [capability]     .   ,    possibility_effect  generalizing      .  gain,      [capability ],   ""  possibility_effect     . 
+    ,            .            .       belief      ,             (belief            ).  belief ,   []       .   belief,  
+ 
+================
+        ()     . 
+     :             ,        belief  .    possibility_effect    simplifying    ,         . 
+        .        belief  ,             .          ,    perception,     ,     () .    ,          [] .                 appraisal focus [],            . 
+ belief 
+,       belief       []. [knowledge]       ,             .    (,   protection_effect)    ,  (,   protection_effect)        experiential_awareness.          ,     .    ,  ,   certainty_effect   combining  perceived_consensus.        experiential_awareness   .      ""       .  situational_circumstance perceived_vulnerability  ()      .      
+=  []( )=   _state=  
+ 
+================
+     ,                   [],  , 
+ ≥ ,∀i, , ∑CPT  
+= ,∀   
+                / .             .                  ,  , 
+( )= 
+( ) •  
+ α      protection_effect      perceived_consensus.          ,     ()   
+( )   .      ,      
+  . ,     ,           .   ,  ,     ,        : 
+_to_  ()=  •()  
+ ()              ,  _to_  ()              .          : 
+( ) =Π∈children () _to_ ( ) ( ) 
+= ( )/ 
+∑ 
+ 
+( ) 
+,      ,         combining. ,  belief          : 
+= 
+  
+ 
+================
+ β          combining.          . 
+π() 
+λ() 
+ 
+π(Β) 
+π( ) λ() 
+λ(Β) 
+  
+λ() 
+π() 
+ 
+π() λ() 
+λ()π() 
+  
+ :       
+  
+            (      ).            techniques   .    ,   mental_calculation     [resource ],        .     ,  focus    personality        .   ,         . ,              .    intrinsic_rewards       . ,      "" .      persistence personality            .             (personality) ,           .             .    ,                .           
+ 
+================
+           experiential_awareness,    "" ,           .  belief       ,       . 
+                  belief.         ,    personality    ,    (  )        / ,      . ,      (    )      ,               . ,   self-efficacy      []  ,            .  possibility_effect        .  ,          (      ). 
+   
+     ()      ,   experiential_awareness         .        ( ,  ).      ,        belief  (  ). 
+ 
+================
+  
+  
+combining   
+     
+    
+  
+  
+     
+ :   
+          ,    situational_circumstance perceived_uniqueness       . 
+  ,    belief    belief     ()      (  ,         techniques ).    ,          , , , / ,  , , , , , , , ,   .       ,      .                  .   ,    mental_calculation     . 
+        ,             process   .  
+ 
+================
+   ""   (   , personality   )              personality. 
+   ( intentionality     )  combining    . belief      ,            ,          .       : ,   ,  . 
+            . ,   appraisal     .         : 
+=  _Intensityevent−1 +. 
+=  + (   )?. : . ∆t=          
+=  ( ≤ ) 
+         behavior         ,      intentionality.           experiential_awareness []     . 
+         .              .  ,            .    ,           belief .  combining             .    ,          . 
+             appraisal.  ,   ,        , , ,  .   belief ,  persistence          experiential_awareness.        
+ 
+================
+= 
+{() () () () ()} 
+,   isolation_effect   combining      ,          belief    . 
+      λ     .      [function]     experiential_awareness  []  (     
+ 
+=, 
+ 
+=    ≠ )    (    ,  ,= ). 
+ [capability] 
+             perception (        experiential_awareness []   )      [] (belief)       perception    personality perceived_consensus       . 
+   
+   gain  .  a_memory          .   ,         ,       .    belief      ,                   λ         perception. ,  
+belief  ""    ,  mental_calculation   . ,          [function] : 
+=  +( ) 
+       " physical_quality"   ,         belief    experiential_awareness.             [],    perception           .       
+ 
+================
+   combining        combining.       :
+ = 
+ × + 
+∑counts 
+ 
+× + 
+ 
+ 
+ 
+,         : 
+ = + 
+  
+, belief     
+,  
+  ,       . (  belief   experiential_awareness)     
+ 
+( )
+   belief   experiential_awareness.  
+                .                .  gain,   "satisfaction_of_needs"    possibility_effect  ,      gain     .        belief         ""       experiential_awareness,          belief    . 
+personality belief  
+      possibility_effect   combining  [].               ,             . personality belief          , ,               belief   .   ,                  isolation_effect    .   ,    isolation_effect                isolation_effect          . 
+ 
+================
+   [capability ],        combining      (   a_memory     []     ).    ,      " []"     (  ,        ),      .     ,         .         [] (    
+ 
+)     . 
+  []  gain  .  belief      perception,    belief      []       [].   [] "",       []                 .          []  ,        %   perception.     []  ,                 .   []          belief,           behavior (..,   ). 
+       belief  [capability ].   ,            ,        mastery_experience.  comply_effect     mental_calculation   ,      combining       .  ,   generalizing            . 
+      .         belief    belief    .        () ,       .     ,          .              possibility_effect ,       .      ,           .      ,             
+ 
+================
+ . ,           []    ,              [knowledge ].            . ,            (,   )          belief .        ,          .      isolation_effect       isolation_effect ,      . ,   [knowledge] perception   ,          possibility_effect   . 
+  belief ,  belief []         ,    gain   belief []     belief .           ,  [] ,     . 
+[]  
+  simplifying belief,   experiential_awareness         personality    experiential_awareness      belief ,    .  gain,           ,   personality      .   ,     ,   belief    ,   
+ ( 
+ 
+=  = ,...,...)=  ( )=  =  
+      belief        []  process.          perceived_uniqueness  (  [] )                    (      process      [] ).   ,   ≤ ≤ ,        
+ 
+================
+= +( )  
+    perceived_uniqueness          
+,.=  
+            ,  , 
+=  perceived_vulnerability (= ) 
+  perceived_vulnerability    process    []      []    .  ,      belief [] (     [] ,          ),       belief     belief    perception : 
+=  
+    γ  ,  ,       process.     belief [function]      ,         [].         combining,   (   )           physical_quality  .    ,    belief   ,          ( .)      .     ,  belief       . 
+    ,   perceived_consensus,         
+   ,  , 
+ =  
+ 
+================
+ ,           .     perception     personality belief :         ,  belief       . 
+ belief            .            ,   belief []      .      ,             . 
+ 
+   appraisal focus 
+                  [].          ,       . 
+   [activity]         .   live_modeling       ,       .          ,    ( combining       )     ,   . 
+           / .     ,  ,            .       ,            . ,          .            ,       .                  .                        (  %  ,  ).            .       
+ 
+================
+           .   ,   belief      belief.          process  ( % )       (   ,   ).          perception.           perception      ,       .              personality ,          belief     .      ,     belief (   ),                    . ,           (   )         .      ,    possibility_effect      . 
+ [experience] 
+   personality     ,            .    , ,   belief         ,           .   ,       ,            syllogistic_rules   
+,      personality     . 
+  perception  ,  ,     loss             .  ,   comply_effect                   ,                   .    ,    combining   belief (  ).             .      
+ 
+================
+ , syllogistic_rules ,        ,      .              ,            .                        ( ,      ,              ). 
+    
+          ,                    . ,   experiential_awareness      [capability]  ,   . ,           combining     ,              . ,        ""         .                  belief,        " "     .   , ,         combining          experiential_awareness   .              belief (      ,   )         .         personality    (    ).  ,             ,              possibility_effect  . 
+ 
+      [capability ],    belief      belief        
+ 
+================
+   .        ,       . 
+               appraisal ,               . 
+       : 
+• 
+        [capability]      ,    possibility_effect           . 
+• 
+                    .     . 
+• 
+        ,                   (      " loss ").       belief      gain       (         )  behavior_control-ability     " loss" .  ,           ,     
+      intelligence             /. 
+               .          ,   combining    "" [activity ],       .              . 
+ 
+================
+ 
+       perceived_responsibility  .        ()           . 
+ 
+================
+ 
+. , .  , . ":      
+  ",    , . 
+://...//. 
+. , .  , . "      
+",        personality ,  
+, , . 
+. ..   . .     / .   
+        .  , 
+ . 
+. , . "   intelligence ",  (). 
+. , .  , . " belief  personality  ", 
+       perceived_vulnerability   intelligence 
+(), , ,  . 
+://../~//. 
+. , .  , . "     appraisal 
+", ://...///. 
+. ,  ,  . "mental_calculation   :   
+    appraisal,"    
+    , ,  ,  
+, , , ://...///. 
+ 
+================

@@ -1,0 +1,522 @@
+   . 
+            perceived_vulnerability  ... 
+  
+  
+          
+  : protection_effect   ?  ,   
+  perceived_vulnerability : [policy]    perceived_vulnerability,    ... Öğü 
+      ?   
+================
+   
+         perceived_vulnerability  
+ ,  ,  ,  ,   
+..// 
+: () 
+: ://.././.... :  
+  :       
+ :     :    
+   :  ,  ,  ,     ,          perceived_vulnerability ,      , ://.././.... 
+              .               .     , ,                .       process         ,          . 
+================
+       
+  perceived_vulnerability  
+ ,   .,  ,  ,  
+ 
+     ,     , 
+   ,  ,  
+  ,   , ,  ,  
+ ,   ,  ,   ,  
+isolation_effect 
+intelligence            behavior_control-ability  perceived_vulnerability         .        perceived_vulnerability      behavior_control-ability perceived_vulnerability       ,     simplifying      ,                 perceived_vulnerability appraisal. 
+                  appraisal   perceived_vulnerability.     intrinsic_rewards                 .           behavior_control-ability  perceived_vulnerability. 
+ 
+ ;   ;  perceived_vulnerability  
+:  ,  :  ,  
+ :   (.@ 
+    
+ ,  
+================
+:  ,  
+.  
+    ,               .    ,     ﬀ   ,      personality    .  ﬀ       participant_modeling       (.., ,  [activity]   ).         perceived_vulnerability    . ,              protection_effect ( )  perceived_vulnerability    . ,          perceived_vulnerability ,    ,   perceived_vulnerability   . 
+         ,             .   fear_arousal   perceived_vulnerability          .       ,     [],         perception            perceived_vulnerability.           evaluating perceived_vulnerability      .   perceived_vulnerability appraisal                perceived_vulnerability    . 
+             perceived_vulnerability .         : ()      extrinsic_rewards  gain      ; ()         ;  ()           .           .  ,                             . 
+ 
+================
+                        perceived_vulnerability .  [goal]                    perceived_vulnerability ,         [experience ].                segregating            .                   . 
+.       perceived_vulnerability  
+       perceived_vulnerability   . personality        .                   [].              ,             .       ,           protection_effect  ,     [].       ,               . 
+ [function]             ,    loss   vicarious_experience    loss  [].       perceived_vulnerability .  belief,     evaluating,      isolation_effect  loss         .  evaluating          loss      (..,   ) []. 
+   ,              .                     .      perceived_vulnerability       perceived_vulnerability       participant_modeling   perceived_vulnerability  (..,   ).       perceived_vulnerability   loss          perceived_vulnerability    [].               
+ 
+================
+   perceived_vulnerability        [].    ,          . 
+           ﬀ  ,           [].                            [].            evaluating      ,                 .  behavior_control-ability  ﬀ                 perceived_vulnerability . 
+           perceived_vulnerability  [];        /      gain   /    loss  [].         extrinsic_rewards           simplifying  impact /   perceived_vulnerability  [].           .  behavior_control-ability         simplifying  perceived_vulnerability. 
+..   
+     learning  intrinsic_rewards      [, , ].                . ,     perceived_vulnerability         ﬃ task.  [exposure]             possibility_effect      [resource]  []. 
+        perceived_vulnerability,     combining            (  ).          perceived_vulnerability   ,    ﬀ     []. 
+               (.., Data_Destruction  ,  ,  ,  ,     ). ,   fear_arousal      
+ 
+================
+ :    . 
+   
+      () 
+        loss    ,  personality - ,  ,       process 
+      
+     certainty_effect   
+    
+        
+     protection_effect  loss   loss      [].                 []          perceived_vulnerability ,                []. 
+..    
+      perceived_vulnerability        [],  perceived_vulnerability []    [, ]. 
+    : ()                  ;  ()            .         [Organization]        . 
+ perceived_vulnerability    ,          vulnerabilities (..,   )              []. 
+              .         .       perceived_vulnerability . 
+          
+ 
+================
+    .   . []          mental_calculation     ,   . 
+      techniques       . ,                  perceived_vulnerability ,    .              ()   ﬃ       (). 
+...   
+                      perceived_vulnerability.  []    perceived_vulnerability   perceived_vulnerability         .  perceived_vulnerability,     perceived_vulnerability,  perceived_vulnerability    learning    ,      .  perceived_vulnerability   perceived_vulnerability     /         .  perceived_vulnerability     perceived_vulnerability    ﬃ    perceived_vulnerability        (, .., [, , ]).   ,      perceived_vulnerability          . 
+                    .     ,     %   ,     [experience]  evaluating    % [].   appraisal,  ﬀ   ,      belief                  [].      , ,         ,              ﬀ  [].  ,                     []. 
+ []        : ()  ; ()  [experience ];  ()   .   ,      belief   .    ,  
+ 
+================
+ :      
+          perception    ( [experience] ).          [experience]     .    appraisal  [policy]       . 
+          ﬃ  satisfaction_of_needs         participant_modeling      [].          impact   ﬀ   loss   intrinsic_rewards   . 
+   participant_modeling        personality             [].      ,      ,          [].             personality ,         . 
+,    ,     perceived_vulnerability     perceived_vulnerability   ,         [].  ,      ,           ,   appraisal  perceived_vulnerability       appraisal       . 
+           perceived_vulnerability  .       ,     
+ 
+================
+   (  )  possibility_effect     .             perceived_vulnerability        []. 
+...     impact  
+           ,  , loss   ,  ,   loss   . ,          loss          ﬃ [, , , ].  ,   loss       ﬃ         persistence      []. 
+       perceived_vulnerability       []                    .   appraisal   impact             .  appraisal                    . 
+ []          personality belief      appraisal             .  ,          process (..,  )          :   . , loss appraisal            (   )    . 
+  . []                 .                    .         isolation_effect   ,   []  ,  ,    loss       ﬀ   isolation_effect        .                      []     ,  []  ,  []. 
+ 
+================
+..    extrinsic_rewards    
+   extrinsic_rewards      : ()   ;  ()   . 
+...   
+      ,    ,       ,         possibility_effect  [].           process      perceived_vulnerability     .  ,                perceived_vulnerability  []. 
+       ﬀ  ,             .   appraisal process,  vulnerabilities         .                          ,     [].            (..,      )       . 
+...   
+         extrinsic_rewards     ,    gain      , ,           (, .., [, , ]).               ﬀ              .    [] []            ﬀ             protection_effect    ﬀ  loss      .         ,                     , , simplifying           []. 
+   ﬀ            techniques    .  ,  
+ 
+================
+   ﬀ    ,      loss  . 
+                  ﬀ.         ,           (      ).     ﬀ                possibility_effect  . 
+.   perceived_vulnerability  
+         perceived_vulnerability  . ,           . 
+ ,      []    loss  () .   loss          evaluating   ()    loss  (): 
+=  ×  () 
+,   loss         . 
+  loss         :  ()   [exposure]  (): 
+=  ×EF 
+() 
+ [exposure]     loss   :  ﬀ       perceived_vulnerability. 
+  loss             perceived_vulnerability ( loss        ).    ,   loss           []. 
+   []           perceived_vulnerability   [goal]    .  perceived_vulnerability         : () belief; () ; () ;  () perceived_vulnerability .       loss     
+ 
+================
+ :     . 
+  
+λ 
+ loss      
+ 
+perceived_vulnerability     
+ 
+perceived_vulnerability       (    perceived_vulnerability) 
+λ 
+ loss         
+ 
+    
+ 
+     
+(,)   perceived_vulnerability [function]   
+perceived_vulnerability        
+     
+(,)λ 
+ loss        (     perceived_vulnerability) 
+α 
+appraisal  ﬀ    
+ perceived_vulnerability.        intentionality    personality  ,    (),    ()   evaluating   ().         process    loss ,    ,      evaluating                  [Organization]  perceived_vulnerability  . 
+   []               (      ).         .      ﬀ          perceived_vulnerability [function] (,).                      loss;            (,)λ    . 
+ [function]   (,)    : 
+ 
+================
+• (, )=   . ,      opportunity_for_criminal_acts,    persistence  opportunity_for_criminal_acts   combining       . 
+• (, )=   . ,         ,            . 
+•   ∈ (,),   ,      protection_effect,     evaluating. ,  (,) →   →∞.  - ,     combining  ,  perceived_vulnerability           . 
+       (,)   [modeling]  ﬀ    .       ,     ,            loss.      personality        perceived_vulnerability          .             perceived_vulnerability ,     evaluating   → .               protection_effect  .   ,          ﬀ   .      : 
+(,)= α+ α>( ) 
+  . []            simplifying      .      loss   ( - ,     loss )  appraisal          %           .        .                 . 
+.   perceived_vulnerability  
+                (.., , simplifying,  
+ 
+================
+ )   perceived_vulnerability  .          perceived_vulnerability behavior      mental_calculation      [experience ]. 
+      : 
+•    personality    ﬀ  protection_effect  perceived_vulnerability . 
+•  (personality,   ) participant_modeling      . 
+•     protection_effect            . 
+•                  . 
+      perceived_vulnerability .          (  , ,     )           behavior_control-ability perceived_vulnerability.     ,         . 
+         perceived_vulnerability   .   perceived_vulnerability  ,       .       perceived_vulnerability             (.., perceived_vulnerability ),         perceived_vulnerability   loss   .   perceived_vulnerability  ,       behavior_control-ability  perceived_vulnerability. ,     ,     . 
+            perceived_vulnerability   . perceived_vulnerability       (.., , ,  ,  ,    ).   appraisal  ﬀ               ,          perceived_vulnerability () .        appraisal   combining         . 
+   perceived_vulnerability,            loss   ,        .     loss   perceived_vulnerability  
+ 
+================
+ :   perceived_vulnerability . 
+  perceived_vulnerability behavior   [Organization] (..,        simplifying perceived_vulnerability ).              appraisal   .    perceived_vulnerability          intentionality          impact            perceived_vulnerability     . 
+                     behavior_control-ability perceived_vulnerability.            ﬃ  . , , [experience]          perceived_vulnerability   .                 
+ 
+================
+ :        [function]  perceived_vulnerability ()   [function ]. 
+       [] (            ). 
+         loss  ,              .  loss           perceived_vulnerability                  mastery_experience.               combining            .        combining  ,             . ,              [modeling] perceived_vulnerability                opportunity_for_criminal_acts   protection_effect     .                             .     extrinsic_rewards              combining      , ,   . 
+      ,                 
+ 
+================
+. ,      ( ,   []; ,  [];  ,  [])     appraisal  perceived_vulnerability .      ,  perceived_vulnerability           . 
+.. perceived_vulnerability     
+ perceived_vulnerability            perceived_vulnerability,            .     ()          . 
+ loss                      loss      . ,  () : 
+= λ ×  ×  () 
+       perceived_vulnerability impact (λ)           isolation_effect .            intelligence         λ   $  , $    $     .    appraisal          isolation_effect,            ﬀ           loss  .    appraisal,     λ   $  $. 
+    ,                      .            []    appraisal      (     )      (    ).          learning     ; ,     %.      %        loss  %     process .          ,      %        . ,              ( evaluating    %). 
+ 
+================
+ :    loss       λ (= %, = %, =%). 
+ (λ)    
+$ $. $ 
+$ $. $ 
+$ $. $. 
+$ $. $. 
+$ $. $. 
+$ $. $. 
+$ $. $. 
+$ $. $. 
+$ $. $. 
+$ $. $. 
+$ $. $. 
+$ $. $. 
+$ $. $. 
+$ $. $. 
+$ $. $. 
+       [modeling]  perceived_vulnerability          loss        λ .            . 
+..   perceived_vulnerability     
+            ﬀ        perceived_vulnerability. ,      perceived_vulnerability [function] (,)   ()  .    [function]         protection_effect   perceived_vulnerability .      perceived_vulnerability    [],                                possibility_effect          . 
+               α(  (,)    ﬀ    
+ 
+================
+ :  α     . 
+  [exposure] 
+   ()  (α) 
+ $ .  $. .  $. . 
+).   constraint  α        .   α       physical_quality      [exposure]    (..,  [exposure] ).     ﬀ       [exposure]     . ,    ﬀ α .  , α        [exposure]   . ,    [exposure]   α . α        ()   appraisal  ,   (,). 
+    ,    (     )        []      [],        ,          .       , $, $.  $.,      possibility_effect appraisal    ,    , .    %    
+   appraisal  %    (,),            .         α   ,    . 
+     appraisal                  [function] (,).                             . 
+..   extrinsic_rewards  
+        extrinsic_rewards      [function]   [Organization]   simplifying  perceived_vulnerability (  ).         .  
+ 
+================
+ :         gain. 
+ :   extrinsic_rewards  . 
+  
+  δ  
+ evaluating   
+   
+ extrinsic_rewards      evaluating  extrinsic_rewards 
+  evaluating       δ,        : 
+= ( δ)( 
+) 
+     extrinsic_rewards δ      ﬀ     perceived_vulnerability     [function] (,).     evaluating   ( ≤  ≤ )        perceived_vulnerability    δ.  ,    perceived_vulnerability    %     = %,   extrinsic_rewards δ    %.  extrinsic_rewards δ   : 
+δ= [ (,)] () 
+ 
+================
+ :  extrinsic_rewards  δ      . 
+   gain  extrinsic_rewards evaluating          ( ).    ()    δ        perceived_vulnerability (..,  (,)),       perceived_vulnerability.     protection_effect         %                    . 
+    process          .   loss            [Organization]          .   possibility_effect     [Organization]         perceived_vulnerability        .   loss ,        perceived_vulnerability,    intentionality    [Organization]       . 
+   ,    evaluating   %       .                   evaluating    []. ,  evaluating  extrinsic_rewards  ﬀ                         loss . 
+ 
+================
+..   
+     behavior_control-ability  combining    perceived_vulnerability     (,)λ,  loss       loss   : 
+behavior_control-ability [(,)λ+ + ]( 
+) 
+         : 
+•  loss       +  
+  combining  . 
+•  combining        λ,        combining     (  ,  = $). 
+ :         .. 
+  
+        ,   ×   .         appraisal        ,  possibility_effect  , 
+           .   .          .                .  ,        .    ,            . 
+ 
+================
+ :        . 
+   
+(λ)()( = %) (= %) (= %) 
+$. $ $ $ $ $. $ $ $. $. $. $ $ $ $ $. $ $ $ $ $. $ $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. 
+                  .           behavior_control-ability  perceived_vulnerability   [Organization]      .       appraisal          behavior_control-ability  perceived_vulnerability      . 
+..        
+    α     .               λ    $  $.    ,         %        loss . ,           %, %  %.  ,                . 
+   ,           ,         .                 . 
+ 
+================
+ :        . 
+   
+(λ)(= %) (= %) (= %) 
+$ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. 
+                   λ (.., λ= $  λ= $).    perceived_vulnerability                       λ . 
+                 .  ,        .          [goal]       loss   perceived_consensus -      . possibility_effect      loss  $ ( )  % ( ).    loss  $  $,     % ( )   ;   loss   $,      %.             combining  $  . 
+..        
+                   . ,         segregating        extrinsic_rewards   .      
+ 
+================
+ :        . 
+      loss λ  $            .    %     ,     ,       loss   λ= $. 
+                 perceived_vulnerability (,)λ.               .             perceived_vulnerability    possibility_effect  .  ,     ,          $     $.      $.     $    perceived_vulnerability   $. 
+            .             .            loss        $.. 
+..   
+                  perceived_vulnerability. ,  appraisal    segregating  .      
+ 
+================
+ :           perceived_vulnerability (,)λ. 
+  ,       ,         . 
+ ,                    .                  .     ,       ,                .             [function ]. 
+,    α          .          λ       α (..,   ,    ). 
+.   
+           .     ,          perceived_vulnerability  process    .      ,      perceived_vulnerability   ,   physical_quality   ,   
+ 
+================
+ :        . 
+mental_calculation  .      ,           protection_effect    . 
+..   
+              .     ,    participant_modeling         .    ,   ﬀ     $,       .                 . 
+           ,  ,   α        (  ).             %    evaluating  , %    %  .               $..  appraisal             $         .      evaluating  %           ﬀ  extrinsic_rewards = %. 
+ 
+================
+ :             . 
+  appraisal      $  $.                .             .    ,     λ    $.,             .       $.  λ           . 
+..   
+               .             ,    .        perceived_vulnerability            . ,   $        $             .         protection_effect  . 
+        perceived_vulnerability  .    ,      $..    intentionality  α  .    %        (.., 
+ 
+================
+ :         α . 
+(,)). ,            %   .     (,),   appraisal  α    .        λ    $  $. 
+   ,    ﬀ   evaluating  %  = %.        ,   evaluating    %     %. 
+              appraisal    .            .                   $     loss      (λ= $)   gain   $    loss  (λ= $). 
+              appraisal      .  ,                  loss   $,      gain   $   . ,         gain     $.    .           . 
+  fear_arousal     gain   . 
+ 
+================
+ :     . 
+    
+(λ)( )( )  
+$ $ $. $ $. $ $. $ $. $ $. $ $. $ $. $ $. $ $. $ $. $ $. $ $. $ $. $ $. $ $. $ $. $ $. $ $. $ $. $ 
+     ,             ,               . 
+..   
+              .                  .      possibility_effect      ,          .          (  )        opportunity_for_criminal_acts    %       segregating     . ,  possibility_effect loss      $  $.   [exposure] α      . × .     [exposure]  perceived_vulnerability,   ﬀ     evaluating  %         = %. ,             loss    $ .         $    . 
+     .         $      .   
+ 
+================
+ :     . 
+           combining  .            ,            .              . 
+,         λ   $, $  $   combining    $     .                 perceived_vulnerability. 
+            loss .          loss           . 
+                        .        perceived_vulnerability   perceived_vulnerability ,          segregating.  ,         personality,   . 
+ 
+================
+ :            . 
+     
+(λ)   
+$. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. $. 
+.  
+          perceived_vulnerability   .  protection_effect  ,              judging ,              .            protection_effect      perceived_vulnerability      .              simplifying            appraisal. 
+                             segregating  .           impact   , 
+ 
+================
+ :     . 
+    .      perceived_vulnerability       behavior_control-ability perceived_vulnerability.       techniques       ,            perceived_vulnerability         perceived_vulnerability  . 
+        .         , ,          .   ,                  . ,              
+ 
+================
+ :     . 
+    combining 
+(λ)( )( )   
+$. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. $. $ $. $. $. 
+ appraisal   perceived_vulnerability           .       ,                 behavior_control-ability   perceived_vulnerability. 
+                  ﬃ [policy]       ,       . 
+    :           .       -   combining .   self-efficacy           . 
+  , ,  
+ 
+[] .   . ,     ,  
+, . (), .  . 
+[] . , . , .  , .   . ,   
+  .    :    appraisal     
+ 
+================
+ :     . 
+ ?    , , , . 
+[]     ,     
+ :     , , 
+   ,  (../// 
+/.), . 
+[] . , .   . ,     
+   ,    ,. 
+(), .  . 
+[] . ,  ,      
+      , . 
+[] .   . ,        
+,          
+  , . 
+[] .   . ,   [modeling] perception  
+  perceived_vulnerability ,     
+ , . (), .  . 
+[] .   . ,        
+ 
+================
+ ,          , .  . 
+[] .   . ,     extrinsic_rewards   
+,    perceived_vulnerability     , 
+.  (.), ,  , .  . 
+[] .  ( .   .  (.)),   , 
+  , ,  , . 
+[] . , .   . , [modeling]     
+      ,    
+  , .   .  (.), , , 
+, .  . 
+[] . ,    ﬃ, :  history   
+      ,   ,  
+,  , . 
+[] . ,  perceived_vulnerability   personality perceived_vulnerability  ,   
+,  ,  , . 
+[] . ,       , 
+,  , . 
+[] . ,       personality  
+:   ,      
+       ,  
+    ,     
+, ,  (..// 
+.),  , . 
+[] .   . ,       
+,       , . (), 
+.  . 
+[] . , .   . ,       
+ ,    , . (), . 
+ . 
+ 
+================
+[] . , .   . , protection_effect  ?   
+     ,     
+      , .  
+. 
+[] . ,    ?  perceived_vulnerability  perception   
+ ,  ,      
+ [policy ],  , , , . 
+[]   ,      
+ intrinsic_rewards,        , 
+ ,   (..// 
+ 
+),  , . 
+[] . , .   . ,     
+,  satisfaction_of_needs     physical_quality, . , 
+.   .  (.),   , , 
+, .  . 
+[] . ,   process    loss 
+ , intrinsic_rewards  ,    ,. 
+(), .  . 
+[] .   . ,    gain    
+ :    ,      
+    , .  
+. 
+[]         perceived_vulnerability ,  
+ :           
+ , ,    ,   
+(.//), . 
+[] . ,  perceived_vulnerability  , , ,   
+ (..///// 
+.), . 
+[] . , .   . ,    , 
+  /,    , 
+. 
+ 
+================
+[]    ,     
+ ,   (../// 
+.), . 
+[] .   . ,  perceived_vulnerability     
+/ :        , 
+   ,     perceived_vulnerability   - 
+  , . (), .  . 
+[]    ,   impulsive_effect  process - 
+,    perceived_vulnerability ,    
+  ,   , , , . 
+[]    ,  isolation_effect   
+      ,  loss , , 
+, , . 
+[]    ,    
+  isolation_effect,  loss , , 
+, , . 
+[]    ,    
+  isolation_effect,   ,   
+ , , , , . 
+[] . ,       
+,   , , , . 
+[] . ,     personality   
+  ,   , , , . 
+[] . , ,  (. ),      
+ , .  (.),   , , 
+ , . 
+[] . , .   . , satisfaction_of_needs    
+   loss :   ,  
+    , . (),  . 
+[] . ,   :  ,  
+ combining, ,  (..///// 
+), . 
+ 
+================
+[] ,   perceived_vulnerability    
+:      []    
+  , ,   (../// 
+.), . 
+[] .   . ,   perceived_vulnerability    
+, ,  , . 
+[] .   . ,     
+ ,       
+     , .  . 
+[] . ,  perceived_vulnerability, personality perceived_responsibility      
+ ,     perceived_vulnerability   -  
+ , . (), .  . 
+[]     ,    :  
+       ,  ,  , . 
+[] . ﬀ, . , . , .   . ,  
+    () ,    
+ ,  ,      , 
+, , . 
+[] . ,         
+,   ,   
+,   , ,  , . 
+[]     ,  ,  
+,  (. ./), . 
+[]     ,  , 
+,  (. .// 
+), . 
+[] . ,   ,     
+  , . (), .  . 
+[]   ,    :  
+    , /,  
+(..// 
+.), . 
+ 
+================

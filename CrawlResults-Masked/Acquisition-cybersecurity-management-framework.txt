@@ -1,0 +1,616 @@
+ 
+   
+   
+    
+ ,  
+..   ,  combining  
+   &   
+   
+   ;   .      , ,  . 
+   
+        
+================
+                        . 
+    ,     ,       ,       ()  , @.   . 
+   
+        
+================
+isolation_effect 
+       .   role     protection_effect  belief.      appraisal process       protection_effect   .       ,  appraisal ,        role      belief           .       intrinsic_rewards             ,          ,        .                       segregating . 
+ :      protection_effect     belief           appraisal          protection_effect  . 
+ :        belief          -        segregating  ?                        ? 
+   
+        
+-  - 
+================
+     
+   
+        
+-  - 
+================
+   
+..           ,        , [knowledge] ,     Deadeye_Jackal           appraisal.         appraisal    ,      ,        .             intelligence    ,       [knowledge]      . 
+   
+        
+-  - 
+================
+     
+   
+        
+-  - 
+================
+ 
+   
+   
+    
+ ,  
+..   ,  combining  
+   &   
+   
+:                  [policy] belief   ,    ,    . 
+   
+        
+-  - 
+================
+     
+   
+        
+-  - 
+================
+   
+ ..................................................................................................................... 
+..................................................................................................................... 
+  ............................................................................................................ 
+.................................................................................................................... 
+ ............................................................................................. 
+ ........................................................................................... 
+ ........................................................................................... 
+......................................................................................................................... 
+ ......................................................................................................... 
+  .................................................................................................... 
+  ......................................................................................................... 
+......................................................................................................................... 
+appraisal process ................................................................................................ 
+ ...................................................................................................... 
+  .......................................................................................................... 
+..................................................................................................................... 
+belief .................................................................................................................... 
+.................................................................................................................... 
+   
+        
+-  - 
+================
+     
+   
+        
+-  - 
+================
+ 
+          belief.        protection_effect .      role  protection_effect  belief            .          .    intrinsic_rewards       appraisal         . intrinsic_rewards, , ,                      .       appraisal process      ,  ,     ,    loss. 
+   
+        
+-  - 
+================
+     
+   
+        
+-  - 
+================
+ 
+, ,       ,  belief,   .     protection_effect , appraisal,    .            ,                 ,  / ,       (& , ; & , ). 
+          belief    (, ; & , )        (, ).   role        .        role    protection_effect    belief. 
+  appraisal             ,  ,      .             segregating    belief. 
+           personality    isolation_effect     
+   process           focus        opportunity_for_criminal_acts.    ()                  appraisal              ()    . 
+ process    ,       ,     appraisal. ,   
+   
+        
+-  - 
+================
+        belief,  ,     .            appraisal        /   loss. 
+   
+        
+-  - 
+================
+  
+  [modeling]          ,                .         : 
+.    
+.       [capability] 
+.    impact    
+.        . 
+     intrinsic_rewards   appraisal         impact       ,    ,     ,    (, ).     history   . 
+   personality      (, , , ,& , ).  ,                   , ,  .                  , ,  .              (  , ).       ,      appraisal  . 
+    , ,       focus  ,   (& , ).  belief            behavior    (, ,& , ).                       
+   
+        
+-  - 
+================
+.   ,     ,         , ,  .     ,  ,      personality ,       . 
+      [capability]    learning  [experience ].          .  comply_effect            personality     .     ,         personality  .  ,             . appraisal   personality   , personality   . loss  techniques                 ,              . 
+  appraisal           syllogistic_rules  , ,      (, ,& , ).                syllogistic_rules   .     intentionality   , ,  situational_circumstance .         ,    , Jamming   ,     . 
+        , ,             ,           personality .                 personality   (, ). appraisal   ,      , ,  situational_circumstance        (, ). 
+   physical_quality    intelligence ()    protection_effect.  ,    personality ,     
+   
+        
+-  - 
+================
+         perceived_responsibility,   .      .      .  ,       ,  techniques          . 
+   .        source  persistence (, ; , , , ,& , ; & , ).           ,             (, , , , ,& , ; , ).              (, ;    , ; & , ; , , ,& , ; , ; , ). 
+ syllogistic_rules    syllogistic_rules    process    role           . ,   combining  ,      .       ,      .   ,         . 
+ ,        .             .        ,  belief     (, ). 
+   
+        
+-  - 
+================
+     
+   
+        
+-  - 
+================
+ 
+                  ().                                        (, ). 
+   appraisal  (Deadeye_Jackal)          ,  ,      focus               personality      (& , ). 
+, ,          ,    protection_effect   . ,      () Deadeye_Jackal     Ice_Fog , ,  protection_effect,   segregating       . 
+  
+   techniques    .       ()   role         ()    perceived_vulnerability .         (, )   .  perception    ,  ,   .          ,        . 
+  [Organization]   ()              .         .        extrinsic_rewards ()      
+   
+        
+-  - 
+================
+   ().          ,  ,  ,   (, ..).      : 
+• • • • • • • • • • • 
+• 
+ :    
+/ :       :        
+/ :       
+/ :       / :       appraisal / :      
+ :      -   :      -   :      -   :      -    
+// :   
+  
+                    .            , ,          .  intentionality              loss ( ).     protection_effect    , , ,  .     mastery_experience, ,     . 
+   
+        
+-  - 
+================
+ .      appraisal 
+appraisal intrinsic_rewards     .               protection_effect.          personality  .                impact,            ,          ,         . 
+ belief          ,              impact     ,        impact   .        process        , ,  . 
+      process        process.           .      .     process       process.         . 
+   process     belief  ,            
+   
+        
+-  - 
+================
+,          .       ,             . 
+ .   belief  
+       ""             .                    .           .             . 
+       ""    process       personality    .            .                process    
+   
+        
+-  - 
+================
+     .   ,           , ,  .   ,       , ,          , impact   ,       .                         . 
+            
+  ,      ,    .       appraisal           personality   . intrinsic_rewards    ""  ""   ,         . 
+  
+       appraisal    , , , , ,  .      , ,  situational_circumstance              .    ,  ,  ,     ,  /  ( ). 
+ .       
+           process      loss     .            /   . appraisal   ,    ,   .                  appraisal   
+   
+        
+-  - 
+================
+   .             . 
+  ,     ( )     appraisal     appraisal,      intrinsic_rewards              Deadeye_Jackal    .             . 
+ .     
+                 .   ,  , ,   gain       [capability]    .    ,         
+   
+        
+-  - 
+================
+ .            Deadeye_Jackal . 
+          ()    ,      .            personality Jamming  / .   /  appraisal   ,  ,    . 
+         ,   ,    ,     perception     .                .  process . 
+   
+        
+-  - 
+================
+     
+   
+        
+-  - 
+================
+ 
+                         .   ()    .  ,               (, ..).      ,   [modeling] perception      gain   
+/    protection_effect. 
+        (   )           protection_effect : 
+)          ) personality    belief    )       protection_effect  . 
+  ( )   , , ,        .        ,         .  techniques         .    , ,     . 
+ .       
+   
+        
+-  - 
+================
+  
+                . appraisal              , ,  situational_circumstance   impact         . 
+ .        
+       .            techniques process                      personality, personality  . 
+ ,                             .       .      (, , , .)  perceived_responsibility        .   ,        . 
+,         ,             loss.                   perceived_vulnerability   . 
+   
+        
+-  - 
+================
+  
+           [capability]     fear_arousal  .          extrinsic_rewards  loss   .        process     (     )          (     ). 
+ " " ( ),              .          ,              . 
+    process        () ,    ,   .   ()     perception, ()     ,  ()     .         .     . 
+ .           
+      appraisal ,    personality             .   perception                perception  .     
+   
+        
+-  - 
+================
+  ,   , ,  situational_circumstance       . 
+              ()      .     , ,  situational_circumstance . 
+                   .  situational_circumstance        ,    ,    , personality    .           personality       .          . 
+    personality           personality .  ,     [capability ]?          ?     ?  ? ?    ,           perception, ,   [] :    ?   [capability]       ?   perception?        . 
+        protection_effect   belief         appraisal      perception, ,   . 
+  
+          appraisal process ( ).        ,   //process   .                  .    ,            .    . 
+   
+        
+-  - 
+================
+ .         
+, ,      : ()  , ()      , ()           ,  ()               / perceived_responsibility. process     ,          process   . 
+       , 
+,  .     impact      ,   impact        .   process       . 
+   /   ,         .               .      process  focus      . 
+   
+        
+-  - 
+================
+     
+   
+        
+-  - 
+================
+ 
+      intrinsic_rewards            [activity ],  ,     protection_effect      .    []          appraisal      :      .                   , ,  ,  , . 
+        ,   appraisal perception            .                .              .             , , ,       .           . 
+appraisal process 
+     appraisal process.       personality      
+  ,  perceived_responsibility,  .    appraisal    ,  ,   .       mental_calculation  /    :. 
+   
+        
+-  - 
+================
+   
+        
+-  - 
+================
+       combining  behavior.        ,              . 
+  appraisal intrinsic_rewards             appraisal     (, ).         techniques              :.         ,     personality   .     vicarious_experience      appraisal. 
+   
+        
+-  - 
+================
+     , , ,       .  process   Collection   ,     ,   appraisal     ,  , ,  ,  . 
+  intentionality       ( )    :       .       ( )        /        protection_effect   . 
+          .           process           personality      .     ,      protection_effect, ,               .  intentionality          perception  , ,     : appraisal            :. 
+  
+    history   .        .        , , ,         , , , ,   (, , ,& , ). ,            (, ,& , ; , ,& , ).     appraisal  . 
+        ()  ,   ,         ; evaluating            
+   
+        
+-  - 
+================
+;         ;          (& , ).          ,   [resource]          impact  .      ,      . 
+       ,  ,  ,          .               .   ,                .         ,                /  ,     . 
+  personality     .   ,  ,          , process    , combining  ,             .  ,            , ,   (& , ),                   (& , ; & , ). 
+                   (, , , , ,& , ).            .             (& , ).     ,  ,         combining        (, ,& , ; , , , ,& , ). 
+   
+        
+-  - 
+================
+ process     . process        perceived_vulnerability   (, , , ,& , ).   process     impact ,        ,          .     mental_calculation         (, , ,& , ; , , , ,& , ). 
+  techniques         
+ ()      , , , , . (, , ,& , ). ,            (, , ,& , ; , ,& , ; , ).  focus       . 
+         appraisal .               intrinsic_rewards           . appraisal     ,      ,       .    /         , ,  . 
+   
+        
+-  - 
+================
+ .       
+#    
+ 
+   
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+   
+ 
+ 
+ 
+  
+[resource]  
+,    intrinsic_rewards 
+  
+  
+     
+ ,      / [resource] , intrinsic_rewards  ,  ,  / ,        .           /          
+/ 
+  
+   
+         .   [resource]            ,        process /   process   process  process /[resource]  process  appraisal        .    /             
+   
+        
+-  - 
+================
+   
+  
+ 
+     /   [resource]    ,   ,   /   
+       
+/  
+        ,   ,   ,       [experience]     .   Collection         .            . ,         .  appraisal         ,   ,       . 
+           , ,  .      ,     ,       , ,    .          .         .       role   .            , ,  situational_circumstance      appraisal.      personality,        ,     . 
+  
+  appraisal , ,  appraisal intrinsic_rewards ,      combining      .  perception         ,         ,         
+   
+        
+-  - 
+================
+.        process        combining     impact (, ). 
+  ,  [experience] ,    appraisal    , , ,   .        (, )          (, ).     ,        (, )    techniques     (, ). 
+    .          .         , , process,   .   ,       .            appraisal       .               appraisal.      fear_arousal    . 
+ .     appraisal 
+           ()   ().                ,       personality   ,   source     .           . 
+   
+        
+-  - 
+================
+  ,    process  ,   intentionality   impulsive_effect     .         .     . 
+            .     .         ,  ,  simplifying   (,  ,&   , ).  syllogistic_rules             . 
+         .        .    learning        .        ,  ,   [resource]   personality      . 
+  ,                    ,   ,  combining         . ,   ,            ,  , ,   .    ""                .           . 
+ . /  /   
+   
+        
+-  - 
+================
+   ,                  impact,       certainty_effect, ,  .    ,                                 .            ,            . 
+  ,  techniques           .           intentionality                protection_effect             .        loss    .                            . 
+,                        process .  ,   perception               personality ,      . 
+   
+        
+-  - 
+================
+     
+   
+        
+-  - 
+================
+ 
+   , ,       appraisal.  techniques       appraisal    .  process             , , ,  .    ,  behavior             . 
+,      appraisal,     .         :    .  protection_effect  ,    ,     .        :   , 
+,  situational_circumstance    impact      belief   . 
+        protection_effect     ,       combining             .    techniques    .          . 
+   
+        
+-  - 
+================
+     
+   
+        
+-  - 
+================
+belief 
+     appraisal   personality combining  personality   . appraisal          impact    ,        ,    .             ,      appraisal. 
+     ,        , ,  appraisal intrinsic_rewards.         ,     techniques ,  belief,  ,         . 
+ process  personality     ,       ,            .        personality    .      , ,   appraisal.          protection_effect.   ,        possibility_effect. intrinsic_rewards          . 
+ process  personality    ,   belief      combining  .   appraisal   personality        
+             belief . 
+   
+        
+-  - 
+================
+     
+   
+        
+-  - 
+================
+ 
+, . ().      :      
+    ?  .   
+://../// 
+, . ().  :   . , 
+:   segregating. 
+, . ().       , .  
+.   ://..// 
+# 
+, ., , ., , ., , ., , .,& , . (). 
+    " intrinsic_rewards ":   .  
+& , /, . 
+, ., , ., , ., , ., , .,& , . (). 
+   .  . , . ,& .  (.), 
+     (. ).  ,  : 
+   . 
+   . ().      
+.   
+://..///// 
+ 
+, . ().      . personality . 
+  ://..//// 
+, . ().    ()   physical_quality   
+:   . , :   . 
+, .,& , . ().         
+ .         
+  .  ,  : . 
+, ., , ., , ., , .,& , . ().   
+perception     perceived_vulnerability. ,  :  
+   . 
+, .,& , . (). belief   .  ,  : . 
+, ., , .,& , . ().     .  
+        , , , 
+    (. ).  ,  :  . 
+   
+        
+-  - 
+================
+, .,& , . ().      personality    
+vulnerabilities    .      
+     intelligence    
+ (. ).  ,  :  . 
+, ., , ., , ,& , . (). evaluating   
+   perception  .      
+       (. 
+).  ,  :  . 
+. ().     :  . , : 
+. 
+, .,& , . ().   intentionality :    
+  . , : ,    . 
+, ., , ., , .,& , . (,  ).  
+:  ,        
+    .  .   
+://..//// 
+, ., , .,& , . (). :       
+      .  
+          
+  (. ).  ,  :  . 
+, ., , ., , .,& , . ().    evaluating   
+ .        
+       (. ).  , 
+ :  . 
+, .,& , . ().      .  
+       &  
+&   (. ).  ,  :  . 
+. (..).    :   perception   [modeling]  
+.   ://../ 
+. (..).  [Organization]  .   
+://../. 
+, . (,  ).         
+   .  .   
+://../ 
+ 
+, .,& , . ().   Tactics :    .  
+          
+   
+        
+-  - 
+================
+    (. ).  ,  :  . 
+, . (). satisfaction_of_needs   :    vulnerabilities 
+  .    ,  , . 
+, .,& , . ().      
+. , :  . 
+, ., , .,& , . (). [experience]     
+  .        
+ (. ).  ,  :  . 
+, ., , .,& , . ().    personality ?  
+  syllogistic_rules  , , . 
+, .,& , . ().     perceived_vulnerability    . 
+ , (), . 
+, .,& , . (,  ).        
+  :  belief     extrinsic_rewards     
+.   .   ://..// 
+ 
+?= 
+, ., , ., , ., , .,& , . ().    judging 
+      .    
+   , (), . 
+, . (). protection_effect  . ,  :   , 
+ . 
+, . (). personality     appraisal . 
+        .  , : 
+. 
+, . (). Deadeye_Jackal     ():    
+appraisal. , :   . 
+, ., , .,& , . (). Ice_Fog    . 
+, :    . 
+, .,& , . ().      . 
+       . ,  : 
+. 
+   
+        
+-  - 
+================
+, .,& , . ().        . 
+     .  , : 
+/. 
+, .,& , . ().    appraisal. ,  : 
+  ,  . 
+, . ().   .    , (), . 
+      (). ().   
+   . ,  : . 
+  . ().  . ,  :  
+ . 
+, ., , ., , ., , .,& , . ().  
+   .     
+, (), . 
+, .,& , . (,  ).   :       
+   .  .   
+://..//// 
+ 
+, . ().        .  
+physical_quality.   ://../ 
+/ 
+, .,  , ,&   , . ().   behavior   
+.  . & .  (.),     
+  . . , : . 
+, ., , ., , .,& , . ().       
+ .         
+  (. ).  ,  :  . 
+. ().    .  , :  . 
+, . ().    intelligence . , : 
+ . 
+. ().          . , : 
+. 
+, ., , ., , ., , .,& , . ().  
+,  ,   .    , (), 
+. 
+   
+        
+-  - 
+================
+, . ().   mental_calculation       
+ .         
+     (. ).  ,  :  
+. 
+, ., , ., , ., , .,& , . ().   
+   .      
+   ,      (.  
+).  ,  :  . 
+, ., , .,& , . (). mental_calculation      
+ .          
+  (. ).  ,  :  . 
+, ., , ., , .,& , . ().       
+mental_calculation   .     / 
+     (. ).  ,  :  
+. 
+   
+        
+-  - 
+================
+================
+================
+   
+        
+  ,   
+,   
+.. 
+================

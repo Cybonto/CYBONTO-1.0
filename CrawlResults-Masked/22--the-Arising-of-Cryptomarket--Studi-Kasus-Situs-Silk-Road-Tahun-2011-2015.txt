@@ -1,0 +1,282 @@
+   ,  ,  ,  ,   
+  ://..././ 
+   :        
+ 
+   ,       
+  
+ . . , , , ,    
+: //.... : @.. 
+isolation_effect 
+        ,       ,       .       ""          ,                     .            ,         ,                   gain    .             intrinsic_rewards       .               ,          . 
+: ,  , ,    
+ 
+        .                       (, ).                             . 
+           .                 .        "physical_quality "           (, ).                (, & , ),                   . 
+        ,   %           
+ 
+ 
+                   . 
+ 
+        ,                .
+ 
+ 
+================
+,             (, ).     ,      ().                .                .   ,      ,                 $,     $   (, ). 
+                     fear_arousal  .          ,          .     perceived_consensus                          ..           $       .     ,      (, ).  .      .    , .  "",   "",   ""    " (, )". 
+       %     %    (, ),    %     .     .,         % ,    ,   .        . 
+     . 
+:  .  ://.      
+                   .             .               ,        ,          .
+ 
+ 
+        ,     $       .
+ 
+ 
+================
+             .                    .            .     ,      :                 -2015       ? 
+ 
+      ,   ,     .                                                . 
+       
+   
+   
+  
+  
+     (  ) 
+  
+   
+physical_quality  
+                       .                  (       )      . (, )                                     . 
+   ()                    .                  .       ,  
+ 
+ 
+================
+                . (& , : ).         ,                                
+. 
+       ,  ,               , ,  . (,   , )    ,                .               . (, ) ,                                          . 
+                .    impulsive_effect    (, ).              .                   (, ). 
+,    ,     . ,   ,                  . ,   ,               .      ,                   ,     . 
+      ,                                     
+. 
+                     ,             
+ .    : 
+      . 
+  ()       ()  
+        
+ 
+ /   () 
+   ()  ,  
+         
+ 
+================
+ ()   
+   
+    
+   
+:    "   :  appraisal    
+   " () 
+      . 
+:      . -         
+  ? 
+      . 
+   
+ ()      /  ()    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+       
+ 
+      
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+================
+             .             .           .  combining   ,           ..       .        .             .        : 
+      . 
+  
+ 
+ ()  
+ ()   
+   
+  
+  
+ 
+ 
+ 
+ 
+   
+                       
+ 
+ 
+================
+        , ,  (),                 ..     combining      ,   .     combining . .     combining     .       ,  combining     ..        ,%  combining         ,%    ..              .  .    .    ,%    combining    .           .              combining     combining         . 
+       ,%       .     .     .     . .          ,%          .       ..     ,%       .    .  .    ..   ,%         .  ..           . 
+        .  .      .         .              combining     combining         . 
+       ,   ,            .   ,                  .            ,                      .   ,      ,            (, ). 
+             .          /.     ,           .  ,                             : 
+ 
+================
+  -    
+               
+       ,     
+ : 
+  , extrinsic_rewards,   , ,     
+ : 
+  ,    ,       
+            
+    ; 
+   ,  ,          
+         ,  intentionality     
+              
+;  
+          .   ,  intentionality   
+               
+ .               
+  perceived_responsibility . 
+          perceived_responsibility   , 
+extrinsic_rewards,   , ,       
+                
+            ,  
+          . 
+              ,   
+    fear_arousal  extrinsic_rewards,       
+       .   . 
+:        () 
+        "  "         .           ,              () . 
+      ,                           .             .                          . 
+,              .                ,                     . 
+ 
+================
+    () 
+    () 
+ 
+================
+    
+                   .     .          ""                  . 
+ 
+           .              .                        .                           . 
+                .       (    ).                .                             . 
+ 
+_____. ().     . :     
+   (). 
+_____. ( .). .  ..//.    
+  
+, .  , . ().  :    
+   physical_quality    .   [policy]  
+() 
+, . (). :     .    
+,     
+ 
+================
+, . .  , . ().  ,     
+ .   [Organization ], . .   
+       
+, . . ().     -    focus    
+. belief.   
+, . ., , . .,  , . . ().    ,    
+,    ,    . : 
+   . 
+, . ., . ().              -  
+  loss  ,        . 
+    [policy] 
+, . . ().  gain    physical_quality   .   
+ [policy] , . 
+, ., , ., , .  , . ().   
+,           . 
+     () . () . 
+,.  , . ().  gain    physical_quality   . 
+   [policy]  () 
+, .,  , . ().  .  [Organization ], . , .  , . ().  Impact   physical_quality .  extrinsic_rewards  
+  
+, . ().    :  appraisal     
+  .   /, . 
+, . ().   .  :   . , . ().          .  
+.  ://.../ 
+/#..       : .   . ().     perceived_vulnerability appraisal 
+(). . 
+       . ().  perceived_consensus 
+ :   . : . 
+. ().  [action]      .   
+.  ://...// 
+.       : . . ( .).          
+.   .  ://.. 
+.// 
+.       : . 
+, . ().     . : . , .  , . . ().    .  
+[Organization] , . : . 
+, ., , .  , . ().    . 
+ ,   . 
+, . . .  , . ().  ,    ,  
+  focus    
+, . . ().        
+, .  (),  .  .  
+, . ().   .  :   . , . ().     :    
+.    . 
+ 
+================
+, ., , .,& , . ().     
+ 
+, . . ()     physical_quality     
+    .  
+, . ()     :      . 
+&  intrinsic_rewards , . () . .  , 
+. 
+, . ()  .    :   
+        .   
+  . 
+, . ().    physical_quality :      
+    . :  . 
+, . . (.). ().   . :  . , .  , . ().  :    
+.   .& , . .    . 
+   . . 
+, . . ().       :   
+    ?. :    
+ 
+, . ().     ,  ,   personality 
+   .       . 
+ . 
+, .. ().    . :  , .   .. ().  ://..     
+  : . 
+, . .& , . . ().      
+   .   
+, .  , . (). evaluating       
+   
+, . ()   ?    .   
+. 
+, . , .  , .. ().      physical_quality :   
+      .  . 
+, . . ().     
+      . ().     
+. : . 
+      . ().    . : 
+. 
+. ( .).   -  .   .  
+://../////.     
+  : . 
+. ( .).     .   .  
+://..////..    
+   : . 
+, . . ().    history   .  .  
+://..//. 
+      : . 
+, .  , . ().    ,   
+    
+ 
+================

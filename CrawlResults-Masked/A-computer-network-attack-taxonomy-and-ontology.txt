@@ -1,0 +1,366 @@
+       
+  ,,  ,  ,   
+, ,   
+ , ,   
+/  :  ,   , , ,   
+@.. 
+.@.. 
+@.. 
+@.. 
+isolation_effect :             ,      .            .  extrinsic_rewards     ,        .     ,                   .                  . 
+              .         . 
+          ,  " ",           . 
+.  
+       .         ,  participant_modeling  .              .         ,      ,                     .           . 
+                 .    ,        . 
+&  ()       .   . ()               ,             : personality,   . &  ()      .              &  (). â&  ()  personality     .   . ()                     .      
+================
+ perceived_vulnerability . &  ()               .   . ()              .   . ()          .       ,  ,     .   . ()           .   ,            ,   [action]   . 
+  ,        ,                    .             . 
+               . 
+.  
+                 .          . ().           . 
+&  ()        .    
+ , 
+ , 
+ , 
+ , 
+  , 
+ , 
+      , 
+ ,  
+  
+&            . 
+             .        ,  , 
+  .                 .                        ,            . 
+  
+           : 
+================
+               
+ 
+    [goal]        
+  
+  
+   
+perceived_vulnerability 
+         . 
+  
+ ""       .   . ()     " ", "  ", "", " "  "  ". 
+        .  combining " "   "  ", " "  " ".  
+"//"     ""  "",     . 
+&  ()       : " ", " ", "", "", "[] ", "", "personality ", " ", "  "  "". 
+   ""   : 
+   
+    
+   
+   
+  
+    
+   
+  
+   
+   
+   
+  "  "              .  ,              
+================
+(& , ).  "  "       ""    ""          participant_modeling   .  ()             . 
+            .           ,          .  ()      "".                    ,       (, ). 
+ " "       participant_modeling         .  ""             [Organization]      syllogistic_rules   . &  ()     :  ,     .         ""      "".  perceived_uniqueness              . 
+        "", ""  " "    "" .      &  ()       ,          "" .  ""     " "  " ". " "            [knowledge]    .  ()     : 
+....      ....          ....[goal]   intrinsic_rewards      ....                 ....      opportunity_for_criminal_acts. 
+   
+       []      ,     "  "      . (). 
+ : 
+    
+    
+    
+ ()    ,             perceived_vulnerability.           .             .       intentionality    .     "  "   .          
+================
+intentionality (& , ),                   . 
+  
+        ,     ""          ,      .     ""  : 
+  
+   
+[]; 
+  
+    
+   
+  
+  
+ . 
+"[]"      []    . &  ()   , , , , ,                   . " "     ,  ,  "   "            (& , ). " "    "  "  " ". "  "       . " "        ,        . 
+         .    ,                  ,    source     (& , ).   ""  ""    ,  " "   .          certainty_effect    .  " "       perceived_uniqueness     .  ,                 (  , ). 
+:  
+          .          .        ,     ,     .  ":"     : 
+    
+   . 
+================
+,  [goal]              ,        (): "    ()                 [resource] ".      ,   :    "".    , ""   :  .     ,     .  ""        /    .               .  ,        ,       .         "" :. 
+ [goal]  
+        ,     : 
+    [goal] 
+    [goal] 
+    [goal] 
+    [goal] 
+     [goal] 
+        + (, ,  )   .            . ()  .  "   " [goal]                    . 
+  
+     ,     perceived_vulnerability  (  ., ).       &  (). 
+  : 
+  
+ Brute_Force 
+   
+ Spear_Phishing 
+   
+   
+  
+   
+  
+  
+  
+   
+ SQL_Injection 
+ () 
+   
+  
+================
+   
+""         "Brute_Force"  " "  (  ., . "Spear_Phishing"        (  ., ).       () : "          personality                isolation_effect   ". 
+" "            .     ,     . ""            .         "  "  (  ., ).         ,   . 
+      perceived_uniqueness    .      (& , ): 
+ :        opportunity_for_criminal_acts   
+   live_modeling ; 
+ :        
+vulnerabilities; 
+  :        . 
+       SQL_Injection. SQL_Injection         ,       . ()             .        . &  ()  intrinsic_rewards  combining   SQL_Injection . 
+" "        . ""         . 
+  
+          . 
+  : 
+  
+ impulsive_effect 
+  
+     &  (). ""            . "impulsive_effect"           ,      .  ()           .    ""      ,       . 
+================
+ 
+     impact   . &  ()   impact      . 
+  : 
+  
+  loss 
+  loss 
+  
+""       , ""   loss  ""   loss. ""   loss             ,  ,          . 
+ 
+          . &  ()          . (). 
+  : 
+  
+  
+  
+ personality 
+  
+  
+  
+""        intrinsic_rewards    extrinsic_rewards     . ""            . ""    "" ,            . ""          .         , personality   . 
+ 
+       . 
+  . ()   : Footprinting, , perceived_vulnerability , , , ,  ,     .   . ()  Footprinting, ,    . 
+  : 
+   
+  
+   
+  
+================
+ 
+ loss 
+  
+  
+" "    [action]      .     personality, ,   .            ( ,   [] )   . 
+""    [action]        .    ,       ;          .  [goal]   combining        . 
+""    [action]          (,   ),    . 
+      [action]        [goal ].         .                                 . 
+ loss     [action]     loss   . loss       ,      . loss     ,   ( )     . 
+     loss           [goal]   ,          .  ,       (   ) ,     combining         . 
+" "            ,             ,          .  [goal]     loss      . 
+  
+          .  ""     ""        ,      .       : 
+   
+    
+   
+   
+   
+================
+ 
+  
+ " "       personality .  " "        ,    : " "         ,  " "          .  "personality "           / personality . 
+   
+          .      : 
+   
+   
+   
+   
+  
+            ,        " ". " "          [] .       isolation_effect ,    ,        belief. ""             . 
+ 
+           . &  ()        : 
+  
+   
+   
+  
+   
+   
+   
+  
+  
+  
+  
+  
+  
+  
+         : 
+   
+    
+================
+  
+ 
+  
+ " "    , ,        . "  "             ,     .  ""          ,      .  " "          .             () .           possibility_effect         .  ()                  intrinsic_rewards. 
+perceived_vulnerability 
+         .   . ()   perceived_vulnerability : 
+  [policy ]& physical_quality    
+   
+  Phishing 
+  
+  [policy ]&     
+ [policy]  
+  planning 
+   ( ) 
+ & physical_quality    
+   
+  
+ / vulnerabilities 
+    
+ &     
+  
+    
+    
+  . ()    vulnerabilities:   ,  ,       . 
+    : 
+  
+   
+   
+  
+   
+   
+  
+   
+   
+ SQL_Injection 
+================
+    
+"" vulnerabilities    vulnerabilities          .     
+  ,  " "  " ". 
+" "              .  ,                  personality   perceived_responsibility   (& self-efficacy, ). 
+" "                .  perceived_vulnerability       personality . &  ()               . 
+"" vulnerabilities           .             .  " loss"       perceived_vulnerability (& , ). 
+"" vulnerabilities   vulnerabilities    coding   . " "          (  ., . " "       physical_quality           perceived_vulnerability.  "SQL_Injection" perceived_vulnerability      gain    coding   .                 (, ). 
+      
+          physical_quality         .            . 
+ ()     "            —   , , ,   .. ..". &  ()    : ".. ..         participant_modeling    .. ..             .".               ,             ()   .       ,           . 
+&    ()             (     ).     : 
+    personality     ; 
+     [knowledge ]; 
+    ; 
+================
+  
+isolation_effect  [knowledge]   [knowledge ];  simplifying  [knowledge ]. 
+  : 
+   ; 
+      ; 
+      ; 
+      ;  
+        . 
+    
+          .  " "    .  [goal]           ,             .  " "         ()  judging     . 
+ " "     : 
+    
+   
+    
+   
+    
+   
+   
+   
+   
+ "  "              [capability]        . " "            ,     .  "  "    " "    [goal]        ,                   . 
+" Defacement"        .               ,          . 
+       intrinsic_rewards   extrinsic_rewards   ,    .       [goal]    " " .  [goal]          .         .        ,           "  " . 
+================
+ " "              .          loss   .          .                  . 
+       loss           [goal]         .    " "          . 
+             
+ perception,   " "    .              (       ): 
+ []   []    [goal]  []   []   []     [] [] .  []    [perceived_vulnerability ].    [:]    []   []    []   []  .      []    [perceived_vulnerability ]. 
+                 .                      .  ,  " "      : 
+    []    [goal]  []   []      .    []     .      [perceived_vulnerability ].          loss   []    loss       .      []    [perceived_vulnerability ]. 
+  ( )        .  ,  Defacement  .      (, ): 
+  (           [goal]                 .        perceived_vulnerability.      ( )     loss       loss       .           perceived_vulnerability. 
+.    belief 
+================
+         .            .                   .   ,  " "       ,         . 
+     ,        .           ,          .  combining     ,   personality       . 
+ 
+, .,& , . (). personality   :     .         ( ), , . 
+, .,& , . ().  :       .     , (), . 
+, . ., , . .,& , . ().           (. ).   . 
+, . . ().     :  .    ,  (), . 
+, ., , ., , ., , .,& , . ().  :      perceived_vulnerability   .       ( ) (. ).   . 
+, ., , .,& , . ().       .  ,  (), . 
+, . (). .  -    focus.   , ,  ://../// .. 
+, . .,& , . . ().      .    ,  ().        (. ).   . 
+, ., , ., , ., , ., , .,& , . ().   : , , ,  personality.    ,  (), . 
+================
+, ., , .,& , . ().          .                        , ( ) (. ). . 
+  . ().   :   .   ,   
+://..//.//# 
+, . . ().   perception    . [knowledge] ,  (), . 
+, .,& , . ().        .  belief.          .      ://.../. 
+, . ., , . ., , .,& , . ().  Phishing.    , (), . 
+, .,& , . ().       . (. . . ).  ,    . 
+, . ().       , .   , ,    : ://./// /. 
+, .,& , . ().       .   ,  (), . 
+, ., , . ., , . .,& , . ().     .      , ,   (. ). . 
+, . . ().      ,      .      . , .      ://.// . 
+, .,& , . ().       .      , (. ). , . 
+, .,& , . ().  perceived_vulnerability  : mental_calculation  perceived_vulnerability   . & , (), . 
+================
+, .,& , . ().         .     , (), . 
+, .,& , . ().   SQL_Injection   Scripting . .      
+://../combining //  
+, . ().       .  ,  ().      
+://..//. 
+, .,& , . ().   .    .      ://./. 
+, .,& , . ().      intrinsic_rewards.        , (. ). 
+, ., , .,& . ().   :       .  [knowledge]        .  [knowledge]             . 
+, . ().   SQL_Injection  .            (.  ).        (). 
+, .,& , . ().      :   .         (. ).   , , . 
+, . (, ). :  . .      
+://..//. 
+, .,& , . ().     :       .     [policy]  , (), . 
+, . . (, ).   :   .  .      
+://../// /. 
+, . .,& ., . ().       .       . (  ).    . 
+================
+     
+://../////.?=. 
+, ., , .,&  , . ().      .  :     ,   (. ), , . 
+, .,& , . ().    :   , ,  .            , (. ). , . 
+, . ().   .  , , .      ://./.?=. 
+, . . (). : .     , ().      
+://...///.. 
+â, .,& , . ().        .    , . 
+, ., , ., , .,& , . ().      .       intelligence (. ).  , . 
+ , . ., , .,& , . ().             .     ()  :     . . 
+, . .,& , . ().  :      .    ,  (), . 
+, ., , ., , .,& , . ().        .   /       , (. ). , . 
+================

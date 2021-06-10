@@ -1,0 +1,484 @@
+ 
+ 
+     physical_quality    
+ .  
+,  
+,   
+,*  
+   
+ 
+ 
+ 
+ 
+* 
+    &  ,  ,   ,  ,  , ; @. (...); @. (..) 
+     ,  à  ,   ,  ,  
+    ,    ,   ,  ,  : @. 
+:   ; :   ; :   
+ 
+isolation_effect :  extrinsic_rewards        intrinsic_rewards   physical_quality  .   intrinsic_rewards           . ,  physical_quality                      ,  , .       intrinsic_rewards          .         physical_quality             .    focus ,      ,   AppleScript,              .      AppleScript    possibility_effect  ﬁ    physical_quality  .      focus   ﬁ     ,             judging  [activity]   physical_quality . 
+: physical_quality ; AppleScript;  ;  ; physical_quality  ;   
+.  
+      ( " ")     ,    ,      ,     . ,            ﬁ,                [].                      physical_quality  [].  physical_quality          .     ,       ,        ,         protection_effect  extrinsic_rewards      ,     ﬁ          [].  physical_quality        ()   physical_quality         ,            ,          , protection_effect  ,         perceived_uniqueness [].      , "           behavior_control-ability  ﬁ ,           , ﬁ    ,  [] " [].  extrinsic_rewards   physical_quality      
+ , , ; :./ ..// 
+================
+ , ,  
+   
+    ,           []. 
+ physical_quality    ,    ,     intrinsic_rewards  physical_quality     gain ()   ()     [].      physical_quality      ( )    ,      ,   ,              [,].   ,   ,         physical_quality        [,].             ,    ,          ()     () [].              ,     ,  gain        protection_effect           [].                     physical_quality    [,,,],         . , ﬁ    physical_quality   ,     ﬁ  [,,], ,  ,   simplifying          [,,].  ,    ﬁ    physical_quality ,                []. ,           ,          .  focus   focus   belief      intrinsic_rewards   physical_quality         ,         personality .            [,],    physical_quality       . 
+     ,      ﬁ physical_quality  .                 ( ).        ﬁ      ( )    Collection    Collection process    physical_quality   .       ,   segregating      ﬁ .         ,      [ ].     focus         intrinsic_rewards  physical_quality  ,     personality    focus         physical_quality .    physical_quality  ,      perception   intelligence ,          [],  ﬁ . 
+ ,          scripting intrinsic_rewards,    ,       ﬂ   physical_quality  [activity]  . 
+     :              ;          ;           focus;          ,      . 
+.     
+ physical_quality            [].   ,     perceived_consensus        "."         . [,,].    physical_quality      , ,    ,           [,,]. ,    
+================
+ ,, , ,     
+     
+     focus [],  gain   physical_quality  ,            physical_quality .        . [,].          intrinsic_rewards     focus [ personality     [,],  gain   physical_quality  ,    . [,,],    simplifying   ,].          intrinsic_rewards     personality   [,].  ,  ,   intrinsic_rewards        [    ,          . []. ,,,],    simplifying    [,].  ,  ,   intrinsic_rewards          ,    ,       ,  ,     isolation_effect         . [  [].      ,     "",  ].   ,       ,  ,     isolation_effect    [  ,    ,        ].      ,     "",    ,     ,  [].        physical_quality     ,    ﬁ      ,  [  [,]. ].        physical_quality       [    judging  physical_quality ,  judging   , ,]. 
+            judging  physical_quality ,  judging   ,     intrinsic_rewards               intrinsic_rewards     [].               [  .     ].                  .          ,      .  perception      physical_quality  intrinsic_rewards,      .  perception      physical_quality    combining  ,   ,    certainty_effect       combining  ,   ,    certainty_effect ﬁ    . , 
+            . ,                 []. physical_quality            [   ,           ]. physical_quality          ,             intrinsic_rewards  gain   .  ,   ,  gain   .  ,   ,        []. ,            [               ]. ,                         .. 
+  ,   ,     [  ,   ,     [].  ].        extrinsic_rewards,             extrinsic_rewards,          (  ( ).      ).                     physical_quality  .        . , physical_quality  .        .     [goal]        ﬁ    , ,     [goal]                         physical_quality ,,                gain   personality      [physical_quality ,  gain   personality      []. ,   focus  ]. ,   focus         ,          ,    ,   ,        .     . 
+ . .       
+      physical_quality    . physical_quality    . 
+. .  
+  ,  [goal]        ﬁ     ,  [goal]               physical_quality    ,          physical_quality    ,             process            process      .    .    ,      frustration_of_needs         physical_quality  ,,      frustration_of_needs         physical_quality     . ,   ,  intentionality   physical_quality ,    . ,   ,  intentionality                 physical_quality                   protection_effect     . ,             protection_effect     . ,          .          . 
+    ,    ,         ,    ,     physical_quality   ,    ﬁ         physical_quality ,             physical_quality    .    personality          ﬁ   .    personality           physical_quality   ,            [].         physical_quality         [,]    
+================
+ , ,  
+   
+  ,            [].         physical_quality         [,]      personality           ﬁ physical_quality    [].    protection_effect   ,  (    )    process  ﬁ  ,    physical_quality ,       ,     [,,].                [,]. ,          ,      ,            ,    . ,           ,        ﬁ       . ,   focus              physical_quality  ,      .         .  ,     ,      possibility_effect    focus ,   .    ,         ,        ﬁ. 
+..     physical_quality  
+         ,  .,   .    physical_quality      . ,   ,       ,       (.)   (.) [].       physical_quality  . 
+   personality    ,     ﬁ        focus              physical_quality  . 
+..     
+        physical_quality  ,      ;       ,                        [].       [,] scripting ,             .               personality.   .                  .                     .     ,   /syllogistic_rules    ,     .    ,   ,                 .  ,  ""  ""                .     ,             ,     ( )   gain      []. ,     process,           ,  process     ()      .  physical_quality  . ,          ,      . 
+   .    ()         "" ,           (          ) ,              ( belief)    .      ,     syllogistic_rules    
+================
+ , ,  
+   
+  ,            [activity ].         ,     ,   / process,        ,     .      ﬁ         ﬁ. ,        .  AppleScript,           ,   .   ,     / . , AppleScript             process      . 
+AppleScript,   process  ,   PowerShell   .           ()      "."  ,        process        , ()      scripting     ,  ()           . ,  AppleScript       scripting  [].           (  -5),    ﬁ      .         personality      ,               source         . 
+      AppleScript      ()      ...          > &  .    ,          / ,     " "     .        ,   ,             . 
+ AppleScript         .  ﬁ     ,      .  ,      participant_modeling ﬁ learning / ,   ,       ,  participant_modeling   . " "          [function]      . 
+     AppleScript           .  [function]          ,                   .           " "   .  ﬁ    AppleScript               .         ,            belief.          " "   .      AppleScript,   " "   ,       ,      . 
+..      physical_quality   
+      ,           .                     ,     (  )             . " "                      . 
+                 .  simplifying,          .,            .        ""     . ,       " "—and    . ,         ()   
+================
+ , ,  
+   
+" "        .                        .                 ﬁ    . ,          ,         ,    physical_quality     ,  ;           . 
+ physical_quality         , .., "& ",            , .., "& > "; ,       , .., "& > > ".    physical_quality  ,     personality  [].            "perceived_responsibility /  "  "perceived_uniqueness "  . 
+ AppleScript             extrinsic_rewards  .            ()  techniques, ()      (..,        )  ()      ,        . 
+         .   ,        extrinsic_rewards.         ,    AppleScript      ,      ,       .     ,    ,     " "   .        ,   extrinsic_rewards,   AppleScript            .              ,    " "    .     ,  ﬁ    ,   "  ",    techniques.          ,           ()   ﬁ .      ,   " "   ,     .          ,        ;  ""    ,    ,      ;  ""       ,       .  ( personality )       protection_effect , ..,  protection_effect    Eavesdropping     .  syllogistic_rules                combining           . ,   ,   ,      combining    ;         focus       physical_quality  .                / ,     . 
+.. judging   
+ ﬁ              .  ﬁ    physical_quality                            [].            ,  intentionality      simplifying  focus   ,    process    ,          Collection   (AppleScript)  .    focus       .  syllogistic_rules           personality,            , .., . 
+================
+ , ,  
+   
+           ,   [].               .    ,           participant_modeling  combining            .  ,      /  ,  techniques,  techniques    ﬁ        ;       "". 
+    ,  ﬁ        ﬁ   .  ,             ;   techniques            .                .  ,  ﬁ                     . 
+     ﬂ   ,   ,  combining    focus ,           physical_quality  : 
+. ,      ...[ ]; 
+.     ,   ,    . 
+     ( )          ; 
+      .        
+  , : 
+.              ; .     intrinsic_rewards   ,       personality ; .      , ..,   perceived_responsibility  ; 
+. 
+. 
+   "  "      ,       ; 
+       ,      : 
+. "   [  ]"; . ""; 
+. "  [  ]"; . "   [  ]"; 
+. 
+. 
+. 
+   ﬁ ,    "   "     ﬁ   ﬂ  ﬁ   ; 
+           ,  segregating     , "@."       techniques              ; 
+       techniques                 .              .    process    ,        belief              ﬁ.  : 
+. 
+. 
+. 
+                  ﬁ      ; 
+  ..  ﬁ             ;  
+      combining  /    ﬁ     . 
+================
+ , ,  
+   
+          ﬁ            ,   [goal]   physical_quality       .  ﬁ,            . 
+ , ,        .  , ,     .  
+   
+ AppleScript            AppleScript           
+.  
+   .     .    
+ AppleScript          ,
+        ,   
+      ,   
+            ,    .          ,    .     .         ,    
+          ,    . 
+ . .     .
+      . 
+ .      . 
+         ;   ,     +        ,    possibility_effect combining    participant_modeling .            .     AppleScript      ,   /      . 
+ . .     .
+      . 
+         ;   ,     ,+       .      .   ,    possibility_effect combining    participant_modeling .           
+================
+ , ,  
+   
+         ;   ,     +        ,    possibility_effect combining  , ,     
+    , ,     
+  participant_modeling .            
+   .     AppleScript      ,   .     AppleScript      ,  /      . /      . 
+ .     AppleScript      ,   /      . 
+              ﬁ              
+    ,               .   ,               .  
+                               segregating ,      ,  ,    segregating ,      ,  ,       ,               .     extrinsic_rewards     .   extrinsic_rewards  ,   .             extrinsic_rewards  ,   .             segregating ,      ,  ,     , ,    
+         
+                      .                .                       . 
+         
+   ,               .  
+  segregating ,      ,  ,    
+  extrinsic_rewards     .           
+               . 
+ . . .
+    
+     
+     .  .   . 
+ .       . 
+ . .      . 
+ .
+      . 
+     . 
+             .
+      . 
+         , ..,        ,           extrinsic_rewards,            , ..,   
+ , ..,        ,           extrinsic_rewards ,     ,           extrinsic_rewards,            , ..,        .       .  ,         extrinsic_rewards      .  ,      ,           extrinsic_rewards ,,         extrinsic_rewards              .  "& "         extrinsic_rewards        .  "& "      .   .  "& " ,         extrinsic_rewards      ,  , (%       ,  , (%   combining ),            ,  , (%   combining ),             .  "& "   combining ),            ,  , (%   combining ),            physical_quality .      physical_quality .                physical_quality .      extrinsic_rewards. ,  "& "      ,
+              extrinsic_rewards. ,  "& "      ,    extrinsic_rewards. ,  "& "      ,     extrinsic_rewards. ,  "& "      ,  ,   (%   combining)  ,   (%   combining)         . 
+     physical_quality .          
+              (%   combining)         .        .     (%   combining)         . 
+  -    -   
+  -   
+ 
+&  
+&  
+&  
+&  
+& &   
+ &   
+& & &  
+& &  
+ 
+&  
+& &   
+  
+   
+    
+   
+                              
+   . 
+ . . . .
+   .
+   . 
+  . 
+================
+ , ,  
+   
+ , ,     
+   
+  -   
+ 
+&  
+, ,        
+&  
+   -   
+&  
+&  
+&  
+&  
+&   
+   
+ &  
+&  
+      
+&  
+  . .  .
+   . 
+  
+  "& "          combining  , 
+  "& "        combining       ,              ,       ,       .   personality          , .   personality          , "/"    personality  .
+   . 
+,      extrinsic_rewards (  "/"    personality ,      extrinsic_rewards (     %     ).         "& "        combining  ,      %     ).      ;   "/"     (%   combining        ,         ;  ﬁ "/"     (%   combining  ););        ,    (%   .   personality          , 
+combining  ).            ,        ,    (%   combining  "/"    personality ,      extrinsic_rewards (      %     ).       
+                   ).            ,         ;   "/"     (%   combining      . 
+                 );        ,    (%   ,  ,      ,            .personality ,     . , combining  ).                ,      
+,  ,   ﬁ   ,     .                          (        ,       ).           . ,              .    , " ", .., .   personality  ,  ,     
+,          personality .   ,      ).        , " ", ..,    "intrinsic_rewards ",     
+personality ,     . ,         
+    ﬁ (        
+   intrinsic_rewards  .   
+.       (        personality  ,       personality .     "        personality    physical_quality  .    ).        , " ", .., ",       intrinsic_rewards  .        personality  ,         personality .       personality    physical_quality  .  "intrinsic_rewards ",      () intrinsic_rewards  ()
+   intrinsic_rewards  .   
+        personality    physical_quality  . :  
+  
+  () intrinsic_rewards  ()   
+  () intrinsic_rewards  () :  
+:  
+  
+  () intrinsic_rewards  ()   
+  () intrinsic_rewards  () :  
+:  
+  
+  () intrinsic_rewards  ()   
+  () intrinsic_rewards  () 
+:  
+:    
+ .      () intrinsic_rewards  ()  ( ). 
+:  
+ .     ( ).  .    ﬁ ( ). 
+================
+ , ,  
+   
+    focus    ﬁ     participant_modeling           physical_quality       AppleScript    ,            . 
+    ( )   physical_quality    ,            ,         .         .            ﬁ ,  ,        . ,     mastery_experience,    ,   .         process,          focus      combining          ,             , ,  combining  . 
+,           combining.  ,    ,   ""  ,       ﬁ   .                ,  " ",   . ,      focus              ,             ()  . 
+,                  .    participant_modeling              ,             ﬁ. 
+.    
+,      intelligence ,        []. ,             [,,,]. ,        intrinsic_rewards  physical_quality      [,]. ,        physical_quality       personality     [,,].   focus,        ,    ,    perception                  personality .     intrinsic_rewards,       focus,              participant_modeling physical_quality  .  ﬁ,         ,         ,         intrinsic_rewards.  [goal]              physical_quality   [,,]. ,           intrinsic_rewards    ﬁ physical_quality  . 
+,  ,  ,      ,     possibility_effect       physical_quality   [,,].   focus,        ,  AppleScript,       ,  gain      .  perception              : ()    ,  ,     combining physical_quality  ,  process         ()         ,        ,        ; ()   ,   AppleScript,      
+================
+ , ,  
+   
+ ,           ; ()   process                   ,   segregating          process   .  ,  AppleScript,            ,   .   ,     / . , AppleScript               process       ;  ﬁ ()      ,  AppleScript  ,        . 
+ extrinsic_rewards          live_modeling  extrinsic_rewards   .    impact                             physical_quality  [].       ﬁ,         .            physical_quality  ,                combining      ,   extrinsic_rewards          . ,                   ,           physical_quality   [,,,,,,,].  ,     physical_quality    perceived_vulnerability  "" [],    ﬁ  "  []  ,        " [],        focus         impact    personality  []. 
+ :             . 
+:      . 
+ﬂ  :     ﬂ  . 
+ , ,     
+  
+  
+   
+ . .     .
+      . 
+================
+ , ,  
+ , ,     
+ , ,     
+         
+ . .     .
+      . 
+ .      . 
+ .      .  . .     .
+      . 
+================
+ , ,  
+   
+ , ,      
+ ,, ,      , ,    ,     
+            
+ . . .       .
+        .
+        .  . .        .
+        . 
+ . . 
+ .
+     .
+     .  . .     .     .
+     . 
+ . .        focus .
+        focus .  . . .       focus .
+        focus .
+        focus . 
+ . .      .
+      . 
+ . .      . 
+ .      .
+      . 
+   
+  
+... , .  , .  physical_quality   physical_quality .    physical_quality . ,, , ., . , .   
+. 
+, .; , . , .; , .  Impact   physical_quality        Impact   physical_quality       ;  ;   , .; , . 
+,, , ., . 
+. , .  physical_quality   physical_quality . 
+... 
+, .  physical_quality   physical_quality .    physical_quality .  
+. , .; , .  Impact   physical_quality        Impact   physical_quality       ;  ;   
+     : , , , .  , , . [] 
+. 
+... 
+, .; , .     : , , , . 
+, .  physical_quality : , .  physical_quality :    physical_quality .    physical_quality . ... .. .,, , ., . , .  physical_quality :  
+     : , , , .      : , , , .  Impact   physical_quality       ;   
+... 
+. 
+     : , , , . 
+, . ., . . .. . , , .  
+, .  physical_quality :    physical_quality .    physical_quality . .. 
+. .. . ,, , ., .
+ , .  physical_quality :    physical_quality . 
+.. 
+.. 
+, . ., . . ..  
+.. ,, , . . , , ., . 
+. . . , , . [] . ﬁ-Devine, . . 
+.. 
+, .; , .; , ..; , ..; , .; , ., .; , .; , ..; , ..; , .; , .. personality        . personality        , .; , .; , ..; , ..; , .; , . 
+  possibility_effect   possibility_effect   .   . ()(),, , ., . 
+, .; , .; , ..; , ..; , .; , .. personality        . personality        
+.  . , , . [] 
+. 
+... 
+, .; , .; , ..; , ..; , .; , .. personality          possibility_effect   possibility_effect   .   .  
+, .; , .; , .; , .; , .; , .; , .    , .; , .; , .; , .; , .; , .; , .    , .; , .; , .; , .; , .; , .; , .    
+()() ,, , ., . 
+.  possibility_effect   . 
+ belief    perceived_vulnerability intelligence.  belief    perceived_vulnerability intelligence. éé.. .. ,, , ., . 
+, .; , .; , .; , .; , .; , .; , .     , , . [] 
+. 
+... 
+, .; , .; , .; , .; , .; , .; , .    belief    perceived_vulnerability intelligence.  belief    perceived_vulnerability intelligence. éé.. .. ,, , ., . 
+, .; , .; , .; , ., .; , .; , .; , .; , .; ; , .; , .; , . , .; , .   
+. 
+ 
+, .; , .; , .; , . 
+ belief    perceived_vulnerability intelligence. 
+;   ;   : , , . : , , . 
+, .; , .; , .; , .; , .; ; , .; , .; , . , .; , .   é. . , , . 
+ . 
+... 
+, .; , .; , .; , .; , .; , .; , . 
+, .   physical_quality . , .   physical_quality . . . , , . , .   physical_quality . .. .. ,, , . 
+;   ;   : , , . : , , . 
+  perceived_vulnerability 
+... 
+. 
+intelligence ;   : , , . é, .; , .; , .; , .; , .; é-é, .    é, .; , .; , .; , .; , .; é-é, .    é, .; , .; , .; , .; , .; é-é, .    
+, .   physical_quality . . . , , ., . 
+. é, .; , .; , .; , .; , .; é-é, .    
+================
+ , ,  
+   
+. , .   physical_quality . . . , , . [] 
+. é, .; , .; , .; , .; , .; é-é, .    
+ﬁ   :   Organization    .  . . 
+, , . [] [] 
+. , . , ,     :    protection_effect   
+ physical_quality  .   . . [] 
+. , .    physical_quality .  . , , . [] 
+. , .; é, .   :  . . . , , . [] . , .; , .; , .; , .   , , :    
+physical_quality ().        ﬁ  ( ), , ,  
+ . 
+.  .  : ://../ (    ). 
+. , ..   :      ?  
+, , . [] 
+. , .; , .;  é, .; , .; , .      :   
+?           ,    . 
+ . . , , . [] [] 
+.        .     ; 
+       : , , . 
+. , .; , .; , .     :       . 
+. .  . , , . 
+. é, .; , .; , .; , .   intelligence   gain  . 
+ :     .  . . , , . [] [] .  , ..; , . " ",    :    focus   
+. . .  [policy] , , . [] [] 
+. , .; ﬁ, ..   ﬁ       
+. . . . . , . [] 
+. , .       physical_quality .  . , , . [] 
+. , ..; , ..; , .; , ..  "":      . . . 
+. . , , . [] [] 
+. , .   physical_quality . .  , , . [] 
+. , .; ﬁ, ..; , ..   ,         
+ . .   , , . [] [] 
+. , .; , . evaluating         
+.        , , , ,   
+; . . 
+.  .  : ://../. (   
+ ). 
+. , .; , .; , .      ﬁ ﬁ.  . , , 
+. [] 
+. , .; é, .; , .  ﬁ   ﬁ  . 
+ ﬁ     .     ; : /, 
+, ;  , . . 
+. , ..; , ..     .  , , . 
+[] 
+. , .; , .; , .; , .; , .; , .   physical_quality :   focus  
+   . . . . . . . , , . [] 
+. , ..; personality, .; , .; , .; , .     physical_quality   
+ﬁ    .         intelligence   
+ (), , , ,   ; . . 
+. , .; , .; , .;  , .    physical_quality  . 
+      intelligence    , , ,  
+ ; . . 
+================
+ , ,  
+   
+. .  : ://../ (    ). 
+. .  : ://../ (    ). 
+. , ..; , ..    :       perception. 
+. . . , , . [] 
+. , ..      perception   intelligence  .  . , , . . , . physical_quality      live_modeling   ;     
+  : , , . 
+. , .. mental_calculation  ﬁ    :   ,  . . .  [policy] 
+, , . [] [] 
+. , .; , ..; , .; , .  physical_quality     : ,   . . . 
+, , . [] 
+. , .    perceived_vulnerability   ?  ,  . 
+. , ..; , ..; , .           
+physical_quality . . . , , . [] [] 
+. , .; , .; , .     physical_quality :      
+. . . , , . [] 
+.  , ..; , .  , intelligence :  ,     
+ . . .  [policy] , , . [] [] 
+. , .     .          
+  ,   , ,   ;  :  , , , ; 
+. . 
+. , ..; , .; , .        ﬁ 
+.        intelligence    , 
+ ,  ,   ; . . 
+. , .; , .   !          
+. . . , , . [] 
+. , .; , .; , .    focus        
+. . . . , , . [] 
+. , .; , ..   physical_quality  :      intrinsic_rewards  perceived_responsibility  
+physical_quality  .            
+,  , , ,   ; : , , ; . . . .   ; : , , . 
+. .  : ://..// (    ). . , .  ""   physical_quality       .  : 
+://..//// (    ). . , ..       ;  : , , , . .      .  : ://..// 
+ (    ). 
+. , .         physical_quality |.  : ://. 
+.//// (    ). 
+. , ..; , .      .        
+       (),  , ,  
+ . 
+. , .; , ..; , ..   physical_quality :    .      
+     , ,  , , ,   
+; . . 
+. , ..; , ..       belief . . . . . 
+, , . 
+. , .; , .; , .; è, .; , .; , .; , .; , . 
+  .   , , . [] 
+. &         ?  : 
+://../// ( 
+   ). 
+================
+ , ,  
+   
+. , .; , .; , .. :     . . . . 
+, , . [] 
+. , .; , .  Source intelligence  perceived_vulnerability appraisal. . . ,  . [] .   .  : ://..// (    ). . , .; , .; , .    physical_quality     :   
+    . . . . , , . [] 
+. , ..; , .; , .; , .; , ..  physical_quality  :     
+ physical_quality.      : ﬁ        
+ ,  , , ,   . 
+. , ..    physical_quality :    Collection  . 
+. . . , , . [] 
+. , .; , .; , .      . . . . . . 
+, , . [] 
+. , .; , .; , .      personality      
+  ? . . . . . , , . [] 
+. , ..    :   ! . . , , . [] . , .; , .   : , ,  . . . , , . 
+[] 
+©    .  , , .                intelligence   ( )  (://.///./). 
+================

@@ -1,0 +1,421 @@
+     ()  
+     
+    
+ : ..// 
+  [] appraisal :    
+perception  intelligence    
+ ,  ,  ,  ,  ,  ,         intelligence    ,      ,   , 
+, ,  
+           
+        
+ history : 
+           
+         
+: 
+intelligence  
+ 
+  
+   
+  
+  [] appraisal 
+       intelligence     ,       ,        .       intelligence       combining          .   ,     perception      intelligence      (),                         ,     [] appraisal ().    ,      (),       impact             [] appraisal    .                     ,        ,   (),     ( )  .          evaluating %      ,       ,       . 
+.  
+          , intelligence        extrinsic_rewards       , , ,    []. ,                         [] appraisal, appraisal    , .  ,       ,   personality perceived_vulnerability      intelligence .   ,     ,     , appraisal     Command_Injection,    process,         ,     
+∗ 
+ . 
+ : @... (. ), @... (. ), @... (. ), @... (. ), @... (. ), @... (. ), @... (. ). 
+://.././.... /©   ..   personality. 
+©   ..   personality. 
+                  [].        ,  ,           .   ,  focus        ()    intelligence                    [,]. 
+       intelligence            task.      , intelligence                 .  possibility_effect         ()        [,].                      ,     loss  . ,   vulnerabilities                       ,     intelligence  .  personality,                techniques     intelligence  []. 
+================
+.   ./      ()  
+   ,   ,        ,           .    ,        ,      protection_effect       ,             . ,    certainty_effect evaluating         intrinsic_rewards.          combining        combining   .   ,    ,   ,          .         ()         ,     loss           . 
+    ,  appraisal                         . ,                   ,    intrinsic_rewards perceived_vulnerability        [].      ,    [knowledge]        ,                  [,]. ,   impact        . ,     protection_effect                . 
+,                   ,  ,       perceived_responsibility  intelligence .  ,          ,              []. 
+            intelligence ,                      []. ,   combining           ,       : ()     .    
+          
+ ,       
+   . ,    
+       , 
+  ,      
+           
+   .     intelligence   
+    combining      
+     . 
+()  .    intelligence     
+  intelligence , intelligence    
+ .  syllogistic_rules       
+  personality. ,     
+ isolation_effect      personality, personality  
+   . 
+()    intelligence .      
+   behavior       
+ .     intelligence    
+           
+  impact     ,  
+        
+.          personality 
+   intelligence . 
+ 
+ focus      perception      [] appraisal ()      intelligence ,                     .           impact       [] appraisal    . ,                 ,    perceived_vulnerability .   impact     simplifying           [] appraisal.             ,              .             , ,   .            ,   ()      ( ).          evaluating  %          . 
+        .         .   ,            ,             .           .   ,                 .     . 
+.   
+       fear_arousal  intelligence  perception  . intelligence       ,          intelligence   intelligence  [].            perceived_vulnerability     intelligence   [].                         [] appraisal [,,].                [policy] ,       intelligence            process [].    intelligence                ,           . 
+        techniques      .  ,   .    appraisal    perceived_vulnerability appraisal     vulnerabilities    [].   .     simplifying  impact      intelligence  [].      personality  satisfaction_of_needs        .    /   intelligence  [].   .       intelligence           [].   .                         intelligence  [].   intelligence  ,  fear_arousal   role     []. 
+   .              [],      
+================
+ 
+.   ./      ()  
+    .     personality                protection_effect     [].   .                  [].     perceived_vulnerability   ,    behavior        belief [].   .            combining ()   behavior_control-ability     intelligence   [].      ()  isolation_effect           ,       combining       intelligence  [].   .            [] appraisal,                .                []. 
+, intelligence      ,                 [].   ,         ,    extrinsic_rewards  personality     .   ,           .    ,             . ,       ,        ,      ,       personality ,               intelligence . 
+  ,                         [knowledge]      .   .  ,        combining      intelligence  [].                     [] appraisal.          ,            .                       .   .        intelligence  .                           []. ,            . 
+  ,  focus    combining              intelligence ,          loss. 
+.     
+     intelligence ,        .                 ,          .            ,                 ,       .                      ,     protection_effect   
+ intelligence . ,             ,         .    ,              ;    ,    [] appraisal       simplifying  perception , appraisal   ,    . 
+..      
+,    ,        ,      protection_effect    (    physical_quality physical_quality   ).    ,          segregating    ,       intentionality       . ,   possibility_effect          perceived_vulnerability      .               .    ,   ,        intelligence . 
+        personality      intelligence              .         learning      personality    intelligence ,                personality    ,       .  ,     "" []           intelligence ;       " "  "  "            ,     intelligence      . 
+                 . ,              ;          ; $  ->$     techniques,         ,          intelligence      (       ).         ,            (          intelligence ). 
+  ,         perceived_vulnerability ,      ,    behavior,       .      intelligence   , ,  ,     personality              ,     .                     . 
+================
+.   ./      ()  
+  
+personality    . 
+    
+personality  
+  
+personality  
+   
+            personality    combining    
+  
+            personality    combining    
+   
+         personality     combining   
+  perceived_vulnerability . 
+  
+  
+ personality    personality   
+    
+,              personality . ,  perceived_vulnerability         [knowledge]          behavior.  ,                learning    " "  " ".       ""     personality .      ,   perceived_vulnerability           ,      .             ,                . 
+   ,               .        ,            . 
+..       
+[] appraisal           protection_effect  personality  .  perception             [function]               [].  []      : 
+= ()+  
+() 
+ = [,,... ,]      = [ , 
+ 
+,... , 
+ 
+]    [] .()   appraisal ,  = [,,... ,]   appraisal           .  belief       [] appraisal . ()      : 
+()= [(,,... ,),... ,(,,... ,)] 
+() 
+ (,,... ,)   [function]  ,,... ,.     [] appraisal,   , 
+ 
+    personality ,   ,          ,    appraisal   ,         ,        ,         segregating        .   appraisal   combining      [] . 
+,   [] appraisal   process             segregating        .       ˆ     physical_quality   appraisal    ().           () .  [] appraisal        : 
+()= [ − ()][ − ()] () 
+ 
+    appraisal   .            .  gain     
+∆x()= (())−1HT(()) ·  · [ − (() )] ()  (())= 
+∂h() 
+∂() 
+      (()) ==() 
+ 
+ 
+ 
+(())(())   intrinsic_rewards .      : 
+∆xk 
+< ε ()  ε    . 
+        ,  ,     .      perception        appraisal : 
+ 
+ 
+(ˆ)= 
+( − (ˆ)) 
+σ 
+. () 
+=  
+belief   []    personality        ,  appraisal  (ˆ)     χ()   −    . 
+         : ()    appraisal     appraisal - 
+  (ˆ). 
+()   χ(),  intentionality   belief  
+     (.. %). 
+()   (ˆ) ≥ χ(),,      . , 
+          . 
+..       
+            ,    . .  intelligence            . 
+    ,            (,)  .         , experiential_awareness    (,)    .  . ;  ,    −152.  −198.       . (,  ,     ,,     .)              .   ,      .     (ˆ)  .,            .. ,            [] appraisal     .      evaluating   possibility_effect       personality ,            . 
+================
+ 
+.   ./      ()  
+. .      . 
+. .     . 
+  
+     . 
+   ()    intelligence   
+(ˆ) 
+  . .   −152. −198. 
+. . 
+..    intelligence   
+   ,   behavior               .    . ,         .     intelligence  ()       ,       .   techniques  .......   ()            (  ...).               ()         learning     . 
+    ,  techniques      certainty_effect evaluating   .       ,                . ,                .    certainty_effect               .   ,          certainty_effect   combining     .            combining     . 
+.   [] appraisal 
+    ,                ,       behavior_control-ability  impulsive_effect     [] appraisal   . ,  
+  
+     . 
+    
+... ...     ... ...     ... ...    
+... ...    ... ...    ... ...     ... ...    ... ...     ... ...     ... ...    ... ...     ... ...     
+             .   impact         ,  appraisal           personality. 
+ ,                impact     .              .         [] appraisal       ,    extrinsic_rewards    .          : 
+()     impact; ()    [] appraisal ; ()   . 
+..     impact 
+     impact     : ()       perceived_vulnerability             . ()         impact appraisal.  ,    ,      syllogistic_rules    perceived_vulnerability . ()        impact . ,            . 
+    ,      perceived_consensus         .     intentionality      .             , ..  techniques,    perceived_vulnerability ,  " ||  || ".       ,              perceived_consensus  Ω: 
+ 
+Ω= () () 
+() 
+    physical_quality  perceived_vulnerability  (> ), ()         ,  ()   perceived_vulnerability     .    [function]     personality          ,   : 
+ 
+ 
+Ω= + (). () 
+() 
+     Ω        .  impact            impact              ,     := (Ω,Ω,... ,Ω). () 
+================
+.   ./      ()  
+..   [] appraisal  
+  impact       [] appraisal   possibility_effect    physical_quality ,    [function] ()    : 
+()= [ − ()]()−1[ − ()] () 
+ 
+               .  gain     
+∆x()= (())−1HT(()) · ()−1 · [ − (())] 
+() 
+    (),        ().   (),    impact           appraisal   [] ,   ˆ,           . ,  [modeling]             physical_quality     ,    intelligence     . 
+..    
+        ,       [] appraisal.    ,  appraisal                . ,                appraisal      : 
+m 
+ 
+− 
+1 
+2i 
+(ˆ)=  ( − (ˆ))= √e () 
+= = 
+ 
+     appraisal ,        appraisal        combining   .   [function]       (√  − )   ,  /                  ,   ( − )   appraisal      . ,       : 
+ 
+ (ˆ) ≥ χ(),  
+() (ˆ)< χ(), . 
+   [] appraisal,             ,       [] appraisal . 
+.    
+  ,      .   .,                   .   .,                           ,      ,            [] appraisal   . 
+..  focus     
+                    
+ 
+  
+ impact     . 
+  
+  
+perceived_vulnerability  
+physical_quality  
+ impact 
+, 
+   .    . 
+. 
+   . 
+, 
+.   . 
+    . 
+, 
+, 
+, 
+   . 
+    . 
+.     . .    . 
+    . 
+. 
+, 
+   .     . 
+. 
+  
+appraisal  . 
+#  appraisal  appraisal 
+intelligence       
+, , , , , , , , , 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . 
+. . . . 
+       .  ,   impact       (). 
+    ,   impact      appraisal ,          . 
+        .    (ˆ) .     ,= .        .  (ˆ)   [] appraisal    ,   .    .          combining           .            appraisal.       appraisal process           .   appraisal   ,   [] appraisal  . ,        (. );       ,    . ,       belief     (. ). ,     simplifying      . ,        ,    ,, ,, ,   .         . , .   . , ;   appraisal     . , .   . , .                      . ,              appraisal belief             impact    behavior   ,      . 
+,          ,        ,          [] appraisal .      ,        personality       .   
+================
+ 
+.   ./      ()  
+ 
+ 
+ 
+ 
+ 
+() 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+. .  . 
+ appraisal     combining          .   ,                    ;       .          ,           ,    .   ,       ;   /        . 
+           . .    ,  [] appraisal           %             ,        %.                  intelligence . 
+..      
+  ,                    ,        .    evaluating     : 
+= 
+ −  
+ 
+∗ % () 
+ 
+    combining     ;            .           evaluating     [] appraisal           . 
+     ,  appraisal   personality     .    appraisal               .  combining         [] appraisal      evaluating   .    personality      .         = %,      = %  = %,     .  ,  [] appraisal            .   ,, ,, ,, ,, ,, ,, ,,,,,,,,, ,,        ,         ,.           intelligence                 ,    
+  
+ evaluating   . 
+#    
+= % = % = % 
+, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
+%        perception           . ,    extrinsic_rewards     ,              perceived_vulnerability. 
+,   ,          evaluating       evaluating,           [] appraisal .         simplifying        ,        . ,      evaluating    ,       certainty_effect evaluating.     . 
+          .   ,           = %, = %  = %  simplifying   certainty_effect evaluating ()    evaluating ()  ,     .              . ,       . ,             %. 
+================
+.   ./      ()  
+  
+ certainty_effect / evaluating. 
+   
+ 
+= % % .% = % % .% = % % .% 
+  % .% 
+. .  evaluating    . 
+..      
+ impact                   .                      intelligence appraisal : 
+ 
+ −  
+org 
+= 
+ 
+ 
+ 
+ 
+∗ % () 
+ 
+   intelligence appraisal     .            ,          evaluating      [] appraisal .       ,            .         %   . 
+   ,       %  %.   ,               .       combining          .    . ,       (%)    %,   %             (.%) .   gain   ,   evaluating  .      %,   evaluating     %,                 (%) . 
+   ,       %  %.             .    . ,        (  evaluating  .%)    = %.    evaluating     .%,          .       %,     % ,     . 
+  ,         .    (    appraisal - )   (    ),   
+ 
+. .  evaluating    . 
+. .  evaluating    . 
+      .         perception   appraisal . perceived_consensus - ,              ,     %  %.    . ,    %,  %       ,   %       [] .          .    .%     %,        .%        . 
+  ,     ,   evaluating    %      . ,        personality      [] appraisal                   . 
+..   
+   appraisal               .  [] appraisal,           []   intentionality      .    ,                  appraisal      . 
+================
+ 
+.   ./      ()  
+  [],          [function] ()  . ()   .       .   ,          .   ,            ;   ,    ,          ;   ,         .          (%)        [] appraisal;       (%)  ;       . 
+    certainty_effect  ,         .     ,  .%      ,  [] appraisal         . 
+ ,  physical_quality     . ,    [] appraisal process           .     .,         %,         . 
+. belief 
+  ,                intelligence .      ,        combining   impact                              [] appraisal . 
+  belief                .             intelligence ,                 . ,            . 
+  ,               .    intelligence        impact .                 . ,      impact    intelligence    . 
+ 
+                  (, , , , , ),      ()           (). 
+ 
+[] . , . , . , ..    ,  
+. .  () . . 
+[] . , . ,     intelligence :   , 
+. .  () . 
+[] . , . ,       intelligence , 
+ . .  () . 
+[] . , . , . ,       , : 
+intelligence   (),     
+ , , . . 
+[] . , . , ..       [] appraisal 
+   ,   () . 
+[] . , . , . , . , . , . , :    
+       intelligence ,   () 
+. 
+[] ..  ,      ? [ ],  . 
+ () . 
+[] . , . , . , . , . , . , . ,  
+    intelligence  , .   () . [] . , . , . , . , . ,      intelligence 
+    [] appraisal, :  (),  
+   , , . . 
+[] . , . , ..  . ,      intelligence , 
+: intelligence ,   , . , . , . 
+[] . , ..  . , ..  ..  ..  
+:   [] appraisal     
+ , : intelligence ,   , . , . , 
+, . 
+[] . ,   :     , :  
+,  , , . 
+[] . , . , . , . , . ,   appraisal   
+intelligence  , :         
+, , . . 
+[] . , . , ..  . ,     intelligence  
+[] appraisal :    , : intelligence  
+ (),      
+, , . . 
+[] ..  ..  . , . , . , ..  
+       [] appraisal, :   
+    protection_effect  , , . 
+[]       intelligence  , : 
+     intelligence   . 
+://.. 
+[] . , . , . , perceived_vulnerability appraisal      
+, :      , . .  
+ , , . . 
+[] . , . , . , . , .. ,    
+   impact     intelligence , : intelligence  
+ (),      
+, , . . 
+[] . , . , personality  satisfaction_of_needs  intelligence    
+, :  intelligence   (),   , , 
+. . 
+[] . , . , . , . , . ,      
+ intelligence    , :     
+ (), , . . 
+[] ..  ..  . , . , . ,    
+     intelligence  , 
+:    ( ),   
+ , , . . 
+[] .    intelligence . . :// ../// 
+//.. 
+[] ..  ..          
+, : intelligence ,   , . , . , . [] . , . , . , . ,        
+    belief focus, . 
+[] . , . , . , ..  ..  . ,   
+     intelligence :       
+, :   , , . , . , . [] . , . , . ,      
+ , :  ,   , . , , 
+. . 
+[] . , . , . , . , . ,        
+   intelligence , : ,   , , 
+. . 
+[] . , . , . , . ,      
+   intelligence , :    / , 
+. , . 
+[] ..  ..     appraisal,  : 
+ ,    ,   , 
+. , . 
+    ..       ..          ,   , , ,    , . ,          ,   .      intelligence ,     . 
+================
+.   ./      ()  
+    ..      ..           ,   , , ,    , . ,    ..      , , .      , intelligence ,     . 
+   ..       , ,  .        ..      ,   , .      intelligence ,  ,   . 
+    ..           , , ,  .       ..      ,   , .     intelligence ,      . 
+ 
+    ..         ,   , ,   . ,                    .           . 
+    ..      ,   , ,   . ,         ,   .                 (),   , ,    .     intelligence ,       . 
+  ()   ..  ..   impulsive_effect     , , ,    , ,   ..        , , ,  .              ,     .     / ,  ,  appraisal  experiential_awareness . 
+================

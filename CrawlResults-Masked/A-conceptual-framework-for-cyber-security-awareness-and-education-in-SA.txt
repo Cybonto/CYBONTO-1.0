@@ -1,0 +1,505 @@
+ {  . ,   
+ 
+     perception  
+   
+ ,    
+  ,    ,   
+isolation_effect 
+            ,   .  ,    ,   certainty_effect      .        ;          . ,          ,       ,        .  ,        perception            . ,          ()   ;    ,      perception   .       , ,      perception                       .                    . 
+:  , ,  perception   
+: ., .. 
+  
+      physical_quality              . [] 
+,         ,       [].            personality  []. ,     perceived_vulnerability    personality    . 
+  ,     [],    perception  [knowledge ];  ,   personality          . ,    behavior      .     perception      role         [] []. 
+     []       intelligence    possibility_effect ;  ,         protection_effect  behavior.  ,       . 
+  [knowledge]             behavior   .   ,       
+:   .@..,    .@.. 
+perceived_vulnerability    " [].  gain,      [knowledge]              []. 
+          ,   perception      .  []     perception        . perception                  possibility_effect  []. ,           protection_effect behavior   .                 ,       ,      perception      []. 
+  ,    role         {      [knowledge]  mastery_experience    . ,           ,           perception     []. ,               perception                       . 
+           . 
+================
+ 
+ 
+     
+             ;         [].    ,          [policy] [].   [policy]         belief      . ,   [policy]               ,           . 
+    [policy]    intentionality  protection_effect ,   protection_effect         .   [policy]      [knowledge] -      . ,           ; ,   ,    protection_effect   ,    [],    personality ,     []. 
+  [policy]                    .  ,  perception          []. ,   [policy]        perception  .  gain,           perception    . ,        . ,         perception  ,    ,   []. 
+ , ,     perception     .     ()        ()       ()     perception .            () []. 
+              perception   {      ".       ,   ,   ,    perception .   ,     participant_modeling     []. 
+ gain,            .       perception   () [].            perception  ,    .   ,            : 
+ {  . ,  
+ 
+ 
+ 
+  
+       ()    perception    .        ,    ,       perception  [].      personality  perception   ,     ,     .          . 
+            .       ,          .  ,  ,     perception     ,         ,                 .               . 
+    
+     perception   ,      .  ,                [].  ,         . 
+      ,            [].   .     perception          .  perception      . ,           live_modeling.       ,  perception      []. 
+     perception,   ,   ,  .    .  
+  ,      
+ . 
+   .    
+      .   .     
+    . 
+.      
+    . 
+appraisal.   evaluating    
+      . .  intelligence /  
+ . 
+       .  ,        ,         
+================
+ {  . ,   
+  process,        .         focus   :
+  
+  
+ syllogistic_rules
+ /  
+    [],       ,    intrinsic_rewards perception       ,        focus    ,      .. ,         .   ,   ,   ,   [goal]          " []. 
+        ,       perception    . 
+         ,   ;             [].         ,     .  ,    perception     {       .         . 
+       focus{  { appraisal        .  appraisal,                   [].  ,     appraisal         []. 
+     techniques       appraisal    .       /     appraisal . /           intelligence   ,     " []. /    .  ,    ,         ,         .     ,         ,        . ,      . 
+     [],             intelligence :  .  [],    [],   []  physical_quality       /  .     .
+        
+   {  
+      .
+          
+   . 
+
+         
+,       .  / ,           ,    intrinsic_rewards  perception  personality    .        perception,   . ,      intelligence       perception  . 
+   []          ,            focus.  []      belief        .      , ,    . 
+ []                 ;   []     ,     []". 
+ []                 .  ,            ;            []. 
+     , satisfaction_of_needs      []. ,      ,     .      [],        ,         ,   .            personality .  ,          ,     . 
+  focus,    ,      , [experience]  [knowledge]    ,         .             . 
+                    . ,             perception  .                  .          . ,                          . 
+ ,     ,        .               . 
+          process    focus.          ,   ,        perception    . 
+================
+ 
+ 
+ perception     
+         perception  ,          .             ,            perception   .    ,      ,            perception     . 
+   :     (),    (), ,  .            ;            perception ;       [Organization]      (). 
+           focus,   [Organization]               [].         : 
+.    perception   
+   ? 
+.        
+ perception  ? .     perceived_responsibility    
+perception   ? .     planning    
+ perception  ? .       
+perception     ? 
+.    perception  
+    ?     ,      perception                 .   ,                  perception  . 
+  ,             [].   ,    ,      perception               [].    ,    self-efficacy          . ,     belief,  perception                 []. 
+ , ,     syllogistic_rules    perception   
+ {  . ,   
+     . ,    ,    perception            . ,         mental_calculation  perception      ,         .          [policy ]. 
+.       
+  perception  
+? 
+  ,  [goal]   perception         perception        ,       [].   ,  [goal]   protection_effect   ,           []. ,    ,   [goal]           perception   [], []. 
+   ,          perception           .  ,        ,    physical_quality        . ,     ,  gain   . 
+.     perceived_responsibility   
+ perception  
+ ? 
+  ,   Organization,       (personality ),   .        perception   []. personality         .       role        personality.      ,  perception     vicarious_experience    Organization :   . 
+   ,  ,            perception  . ,   ,           ;            source  intrinsic_rewards []. ,  ,         perception  . 
+   ,         perception   [goal]             .      perceived_responsibility;  ,      . ,                perception      . 
+================
+ {  . ,   
+.     planning   
+  perception  
+? 
+       ,      [action]    perception   perception   [], [].  personality     ,   . .  ,            [knowledge]  .  , . . combining  ;   ,         . 
+                     [policy ].  gain,          ,      [].  [action]        ,  ,      gain,     . 
+      ,          [action]   gain     . ,  ,         belief      perception      [action]   . ,                     perception  perception  . 
+  perception          ,     .    ,    ,  ,           perception  .          : 
+ Organization.     
+      .  .       
+ . 
+ .        
+   . 
+ .        
+   . 
+       perception       ,      . ,  focus    perception             .    : , ,     .  focus  ,  ,             [] [] [] [] [] [] []. 
+,             .          combining   perception   .  syllogistic_rules          possibility_effect  
+ 
+       .  , [knowledge]        ,       ;  [knowledge]   [policy]     ,     . 
+,                         . 
+,                     .        ,                perception    ; ,      . ,          perception           . 
+,                    .         ,        ;          . ,           perception      {      perception /          [] [] []. 
+,         ,    role - .      perception    perceived_responsibility;         role  participant_modeling.   ,      ,          perception  . 
+ gain,        perceived_responsibility,      [] [] [] [].  ,  planning  perception     ,                ,        . 
+.      
+ perception   
+  ? 
+          perception   .         ,            ;   perception   [] [].    possibility_effect                   ,     
+================
+ 
+         perception  .  gain,         ,      gain   []. 
+  ,  personality          ,      perception       []. ,       extrinsic_rewards .         ,              personality    .  perception     ,  perception               . 
+                    gain       .  , ,            appraisal   gain     perception    
+ perception          personality .         ; , ,              participant_modeling  . 
+                   ,           .    ,      ,                perception      . 
+     :
+      
+   /   .
+  [action]    .
+    perception   
+   
+    .
+     .
+  intrinsic_rewards               perception   .          . 
+ 
+  perception    
+                  perception   .  ,             . 
+       ,    ,   : 
+ {  . ,   
+  .      
+perception      
+perception  . 
+  .     
+         
+ perception   .   .     
+        
+. 
+  .      
+        
+, :   . 
+  .     
+gain        
+ perception. 
+.     , 
+         
+ . 
+,           perception   . ,       imagination   ;  ,          imagination; ,       imagination; ,     imagination ;,     gain   imagination; ,   . 
+           .                 . 
+.    
+      perception ( imagination)      perception  .        [policy]    perception,     perception    ,     .   ,  perception     :     [policy ],   ,    . 
+      [policy]           perception   .       ,      perception  .               .    :
+    ;
+      ; 
+/
+    personality [Organization ]. 
+         ,       ;    ,    .         perception  perception   . 
+================
+ {  . ,   
+ 
+ :  perception    
+================
+ 
+       mental_calculation    ,             .  , ,      focus     ,      . ,    ,                      .        ,        . 
+.    
+       .  ,                  ,       perception    . 
+     ,      .       perception    .                   perception      .          :  .      ,   ",   ,    . "        . 
+ belief                . 
+         ,        .               personality ,    .      ,           perception   .  ,     ,       perception     . 
+,    ,                         .                     :
+   
+    
+    
+     
+               .             perceived_responsibility;        perception        .    ,   
+ {  . ,   
+    ,          . 
+           perception    . 
+               .              ,          perception     .         syllogistic_rules   ()   []. 
+                    ,    .                    ,        .                          . 
+     ,    segregating , , , perceived_uniqueness - , , Phishing, satisfaction_of_needs   personality  ,  protection_effect behavior. 
+,                 .    protection_effect        ,   perception                physical_quality . 
+                  personality  ,    combining          
+      ,    perception          .   ,     :      ,         . 
+,  perception                 . , ,      ,     ; ,       . 
+           perception   ,  ,                 .   ,       :
+      protection_effect ?
+      ? 
+             . 
+================
+ {  . ,   
+.    
+         perception             .      : , ,   .    ,      perception    ,                ,    segregating : , , , , Phishing, satisfaction_of_needs   personality  ,  protection_effect behavior.          . ,      ,           . 
+     syllogistic_rules        .   -                ,        ,         . 
+,   ,      ,    ,            . ,     combining    . 
+  ,     ,     combining    .  syllogistic_rules           ,         .      :    .     ,           : , , , ,   . ,      ,    ,   .   ,    :
+        
+  perception  ?          . 
+.    
+       process            perception  .  gain,           participant_modeling   ,    .          :
+     
+ 
+ 
+ /
+ 
+ 
+ ,     
+() 
+ 
+           perception      ,        .  gain,          participant_modeling, :   role    role. 
+                  . ,           perceived_responsibility           ,  belief  role   . ,               ,  belief  role   . 
+          ,             gain      perception       .          . 
+.    
+          perception   .              appraisal   gain     perception      ,        .  ,      :
+    
+ extrinsic_rewards    
+               appraisal        .   ,    perception      {         appraisal.  ,       extrinsic_rewards    ,             . ,  ,         ,       . 
+          .        . 
+.  
+                ,        .                    .     : 
+.         
+[function ]. 
+.       
+  [function ]. 
+================
+ 
+.  ,   personality - 
+ ,    . 
+.   ,   
+  . 
+ .     
+  . 
+           (),               [].      ,  perception        . ,       ,       
+                 ,            . ,     perceived_responsibility  protection_effect      .          . 
+                   ()     . 
+ :   
+      process    .   / ,      []: 
+.    ,  
+ ,      . .    . 
+.   evaluating gain  
+ . 
+.  [action ],      
+   . 
+           .  planning          .       .        perception        .     planning ,  perception      . 
+ {  . ,   
+           perception  ,               perception   perception  . 
+ planning      {           perception    .   :         . 
+         .    ,                      ,           . 
+              .          gain      perception            extrinsic_rewards . ,          appraisal     ,     .   . 
+              perception  ,     .                 personality   ,  , ,    extrinsic_rewards    . 
+     
+              .  ,             perception     .    ,         . 
+       ,        .        ,               .   ,             . 
+   ,     perception              .                   .  gain,             ,         personality   . ,      . 
+  ,     ;         . ,   ,     ;         
+================
+ {  . ,   
+. ,       ,     ,              . 
+ ,   ,   :
+          
+?
+          
+?
+     ?
+         
+     ?
+          
+,      ?
+     ?         ,        perception   . ,                   . 
+       .       perceived_consensus - . 
+      ,     ;         : 
+,          
+,       perception  
+  ,       
+      ;  
+  .     
+ ,     ;  
+     ,  
+  ,   ...            ,      .               .  ,        . ,        syllogistic_rules           ,          .    ,  . 
+        ,           ;        : 
+     ,  
+  perception ,    
+ : [goal] /,   
+ ,     ,  
+ ,  ,   
+,  appraisal. 
+ gain,    certainty_effect        perception            . 
+ 
+       perception  ,         :      ,          .       . 
+   ,           . ,             ,     .          role    (  .). ,   ,    ,         learning       []. ,    . 
+          ,      .                 . ,     ,         focus,    {   .    loss,           . ,           . 
+       ,           . ,    appraisal ,           . ,        perception      . 
+ belief 
+  personality .  ,    {      .    , ,                .           ;     ,         ,  perceived_vulnerability. 
+ perception  ,           .   perception    participant_modeling   role     . ,      perception              . 
+            perception :  . ,                     perception  ,      . 
+================
+ 
+ 
+            ()    .       ,          . 
+ 
+[] .   . .  .    
+ :        
+ ". & , . , 
+. , . {, . 
+[] . .     ".  
+ & , . , . , . {, 
+. 
+[] .  .      
+".  , . , . , . {, 
+. 
+[] .-xxx. , .    . .  
+     ". 
+ & , . , . , . 
+{, . 
+[] .    .  .   
+   perception  ".  
+        
+  , . . . 
+[] . , .   . . satisfaction_of_needs  
+ :   perception  
+ ".  & , . , 
+. , . {, . 
+[] .    .  .    
+    ".    
+       
+ . . 
+[] . .   . . .    : 
+personality     .   
+& , . 
+[] .   . .  .   
+    ".    
+belief  , . , . : 
+./.. 
+[] . .     : 
+ role      ", 
+. 
+[] .   . .   
+ perception      
+".  , , . {. , . [] .   . .    
+    :   perception ". 
+      :  
+,   , . , . [] .   .  .    
+ :     ".   
+. . 
+[]    .    
+ :   [policy]   
+", . 
+[]    .    
+ :    [policy] 
+   ", . 
+ {  . ,   
+[] . , . , .   
+. .     
+  ".      
+     ()  
+.   , , , 
+   -   . . 
+[]     perceived_consensus. 
+  ", .  ://. 
+... 
+[]  perception .  ,   
+", .  ://.../ 
+/. 
+[] .  :  personality    participant_modeling 
+,  ",  .  :// 
+./. 
+[] . . , . . , .   . . 
+     ".  
+, . , . , . {, . 
+[] .  . , . . , . , 
+. , .   . .   
+  process :      
+   ".   
+       
+       
+( ), . {. . 
+[] . .   personality :   
+    ,     
+. , . 
+[] . , . .     .  .  
+  personality   possibility_effect 
+".  , . , . , . 
+{, . 
+[] .   .  .    
+   :     
+".       
+, . {. , . 
+[] .  . , . .   
+. .      
+   ".    
+  , . , . , . {, 
+. 
+[] . . , . .   .   
+. /  , , . [] . . .     
+ ".     
+    .  
+  , . 
+[] .   . . .   
+. ,  . ., . 
+[] . . process    : 
+    ". : personality 
+& , . , . , . {, . [] . .   ".  
+belief , . , . , . {, . [] . .      :  
+ ".   
+planning, . , . , . {, . [] . .      
+". , . , . {, . [] . .     
+ ".  , . , . , . 
+{, . 
+================
+ {  . ,   
+ 
+[] . .   . .  :  
+     ".  
+, . , . , . {, . 
+[] .  Organization    
+ ", ..  ://../ 
+/. 
+[]   .  [policy] : 
+       
+ ", .  
+://../// 
+.. 
+[]        
+ :      
+   ", . 
+[]   .   
+". 
+[]     .  
+      
+", . 
+[]   .   - 
+", . 
+[]      . 
+,   :    
+  ", . 
+[]   . [action]    
+  ", . 
+[]       
+ .  intelligence ", ..  
+://.... 
+[]    . . . 
+combining .", .  ://. ./ 
+. 
+[]    . . . 
+combining.     .", 
+.  ://. ./ 
+. 
+[]   .   ", .  
+://.../// 
+.. 
+[]   .     
+", .  ://../ 
+/. 
+[]     extrinsic_rewards. 
+", .  ://.. 
+.//.//. 
+[]     [authority ]. 
+ intelligence ", .  ://.. 
+.. 
+[] . . personality  perception  
+:   ".     
+ , . , . , . {, . 
+[] . , .   . .    
+ ".     , 
+. 
+[] / . / :  
+|  intrinsic_rewards|  
+   -    
+ ( )", .  ://. 
+.//.. 
+================

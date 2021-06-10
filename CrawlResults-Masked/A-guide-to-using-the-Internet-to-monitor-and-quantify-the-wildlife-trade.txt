@@ -1,0 +1,1634 @@
+ 
+             
+ 
+ 
+ . ,,  ,  . ,,  ,  ,  . 
+ 
+,   
+ 
+.   ,   ,  ,  
+ 
+.    ,   ,  ,  
+ 
+.      ,    , ,  
+ 
+,  
+ 
+ 
+ :  , @. 
+ 
+ 
+:  , ; ;  ;  ;  
+ 
+================
+ 
+isolation_effect 
+ 
+  intrinsic_rewards            
+ 
+     , ,   .    
+ 
+       (, )        
+ 
+perception,           
+ 
+. ,        ,    
+ 
+     Collection   .   personality   
+ 
+          ,    
+ 
+.            , 
+ 
+   .,         , 
+ 
+            (..,  
+ 
+ physical_quality ). 
+ 
+ 
+================
+ 
+ 
+ 
+ 
+ 
+         perceived_vulnerability,      
+ 
+ ,  [activity] (  . ).      
+ 
+   ,    ,  ,  ,  
+ 
+     (.., &  ). personality      
+ 
+     (  )      , 
+ 
+  ,   behavior  ;     
+ 
+  ,      (&  ;   . ).   
+ 
+,        role      (& 
+ 
+ ). 
+ 
+ 
+ ,             intelligence    
+ 
+  ,    ,   .   
+ 
+      (..,    ),     
+ 
+           .     
+ 
+,       appraisal     protection_effect   
+ 
+     (  . ).  ,    
+ 
+       (&  ).     
+ 
+    appraisal  constraint,       
+ 
+perceived_vulnerability (  . ),      (.., :   . ).   
+ 
+  ,           
+ 
+(  . ),               
+ 
+(  . ). 
+ 
+================
+ 
+ 
+         ,         
+ 
+         . ,   
+ 
+,  ,   .          
+ 
+          source (  , 
+ 
+  ). ,         judging  
+ 
+   ,      ,      
+ 
+  . 
+ 
+ 
+,              .  
+ 
+     [knowledge]         
+ 
+,        .  [goal]        
+ 
+ , ,  ,    ,       
+ 
+  source      .            personality , 
+ 
+                  
+ 
+. 
+ 
+ 
+    
+ 
+  (..,        )     :  
+ 
+ ,   ,   physical_quality  ( ;  ).        
+ 
+:          (..,   )    
+ 
+      (..,        ).     
+ 
+          (..,  ).  
+ 
+                (.., 
+ 
+================
+ 
+ , personality  ).            (.., 
+ 
+, ),     (.., ).  physical_quality     
+ 
+      ,    ,     ,  
+ 
+       ( ;  ).        
+ 
+             / 
+ 
+(..,      ). ,          
+ 
+       (..,     intrinsic_rewards   /; 
+ 
+ .). 
+ 
+ 
+   ? 
+ 
+             ( ; 
+ 
+  . ).    ,   (..,   )     
+ 
+ ,  / . ,     , ,     
+ 
+  .         (, , 
+ 
+), physical_quality, , , , ,   (   /).  
+ 
+     (.., )      ,    
+ 
+       ,   . ,     
+ 
+      (, , , .)   syllogistic_rules   
+ 
+ (.., extrinsic_rewards,  )       
+ 
+.      personality       
+ 
+(..,  :   . ). 
+ 
+================
+ 
+            
+ 
+       ( ): ()        ; ()  
+ 
+ ; ()     ; ()      
+ 
+; ()  ;  () .,    process       
+ 
+.  generalizing            (  ) 
+ 
+          .    
+ 
+         ,   . ()  
+ 
+   . (), . 
+ 
+ 
+.         
+ 
+  ,       , , /     ,  
+ 
+()  ,      Collection (..,  ,   
+ 
+    ). ,      ( )     
+ 
+   .   personality ,         
+ 
+     . ,         
+ 
+    personality     (  − ).    : 
+ 
+          (  . ); judging  extrinsic_rewards  
+ 
+    (  . );        
+ 
+  (  . ). 
+ 
+ 
+.            
+ 
+,        (..,  , )    
+ 
+.        ,     
+ 
+ ..     ,          
+ 
+================
+ 
+ ( ) :       (..,    
+ 
+);            
+ 
+(..,    ).          :   
+ 
+      . ,           
+ 
+  [function]   .   [goal]   ,   
+ 
+      . 
+ 
+ 
+.   
+ 
+   ,      : ()     
+ 
+; ()      participant_modeling ;  ()       
+ 
+.          process        
+ 
+    (..,  :   . ). ,  
+ 
+    ,    (  ),     
+ 
+     Collection ( ). 
+ 
+ 
+..    
+ 
+         .     
+ 
+       (..,  ,  ,  ),   
+ 
+ ( ),    .        " 
+ 
+extrinsic_rewards"  "".     : "  extrinsic_rewards  ", "   ",  
+ 
+"  " (      ).        
+ 
+()      .          
+ 
+    .  ,      (..,     
+ 
+      ,     ), / 
+ 
+================
+ 
+,    , ,   (..,    ),    
+ 
+      . 
+ 
+ 
+..     participant_modeling  
+ 
+  (.., )          (..,  ) 
+ 
+     .        ,  
+ 
+    (..,     ), , ,      
+ 
+  (   ).            
+ 
+         :      ,   
+ 
+  ,     ,         
+ 
+  .      ,         
+ 
+  .               
+ 
+ extrinsic_rewards ( ).            
+ 
+ (.., : ://..//),      
+ 
+ protection_effect         .     
+ 
+        (.., ://../),  
+ 
+            .  gain,   
+ 
+ ( personality )    .      ,  
+ 
+ . 
+ 
+ 
+.    physical_quality  ( ) 
+ 
+              perception  
+ 
+   (.., personality ). ,        
+ 
+            (.. ,  personality 
+ 
+================
+ 
+ )   physical_quality  ,        
+ 
+ .         (..,   . ),   
+ 
+            ,  
+ 
+   .       extrinsic_rewards      
+ 
+ . 
+ 
+ 
+.     
+ 
+ satisfaction_of_needs   ,          . 
+ 
+       /      
+ 
+    focus.              
+ 
+.             . ,   
+ 
+,        .  ,     
+ 
+      (..,  :   . )     
+ 
+         ,  behavior_control-ability      
+ 
+       (.., : & ). 
+ 
+ 
+.   
+ 
+..      
+ 
+        ( ;  . ).   
+ 
+,         :  
+ 
+.            
+ 
+      .      
+ 
+     (..,   )    participant_modeling    
+ 
+      (..,  ).    [function]  
+ 
+================
+ 
+  .            
+ 
+       . ,  ,   ,    
+ 
+(.., )     .    ,   ,    
+ 
+  . 
+ 
+ 
+..     
+ 
+       ,      
+ 
+  . ,     ,     
+ 
+perception      (..,  ;  .)    
+ 
+       (.., &  ).      
+ 
+    ( .)     ( ).   
+ 
+  ,            
+ 
+.            (..,   . ),   
+ 
+         ( .;  ). ,  
+ 
+     (    : #),     
+ 
+     (.., #). ,    ,     
+ 
+         gain        
+ 
+       (.., &  ). 
+ 
+ 
+ (  )        ,   
+ 
+    (..,      )    Collection ( ). 
+ 
+               
+ 
+      . ,        
+ 
+mental_calculation   ,              
+ 
+================
+ 
+. ,              
+ 
+ . 
+ 
+ 
+.      
+ 
+ satisfaction_of_needs     ,          combining  
+ 
+ (.., ).              
+ 
+          .    
+ 
+    ,      .  
+ 
+,  internalization    ,       
+ 
+     (     ).  gain ,  , 
+ 
+             
+ 
+      . ,      
+ 
+,              
+ 
+    personality  .        
+ 
+     ()      combining    (   ). 
+ 
+,  belief             
+ 
+. 
+ 
+ 
+.     
+ 
+        :   .   Collection 
+ 
+       /       
+ 
+  (.., , ).   Collection  " 
+ 
+"          ( ;   . ). 
+ 
+           (   
+ 
+================
+ 
+        ).        
+ 
+,           .    
+ 
+       Collection  ;          
+ 
+  (.., ;   . ).   impulsive_effect  Collection  
+ 
+          ,     mastery_experience    
+ 
+  ,                 
+ 
+Collection   physical_quality (..,   . ).     Collection  
+ 
+      (  ) physical_quality ,     
+ 
+    /(..   . ). 
+ 
+ 
+.         
+ 
+      combining    ,    
+ 
+   , ,   segregating ,   ( ).  
+ 
+    protection_effect         
+ 
+(&  ;  ). ,       
+ 
+      physical_quality            
+ 
+  combining (  . ). ,   Collection  (..,  )  
+ 
+     ( ),       
+ 
+    . 
+ 
+ 
+.   
+ 
+     (..,   )       
+ 
+ ,      ,   , , ,  
+ 
+.         (&  )   
+ 
+================
+ 
+        .  combining    
+ 
+            ( ).  ,  
+ 
+    isolation_effect    ,          
+ 
+       .  [experience]       
+ 
+  ,       .   ,  
+ 
+   Collection    possibility_effect. 
+ 
+ 
+.    
+ 
+                  . 
+ 
+        []       
+ 
+   ,  ,     .   personality , 
+ 
+    evaluating       [action]  , , 
+ 
+  (  . ). ,          
+ 
+  .    ,      . 
+ 
+,          combining .   ,   
+ 
+        combining  ,   
+ 
+    . 
+ 
+ 
+  ,    /      
+ 
+(..,  ).           
+ 
+ (  . ).  gain,        
+ 
+ (..,   ;   : &  )  . 
+ 
+================
+ 
+      
+ 
+           gain     
+ 
+  ,      Collection intrinsic_rewards (..,  ). 
+ 
+,                
+ 
+             
+ 
+segregating   . ,           
+ 
+              perceived_vulnerability. , 
+ 
+       (..,  ;    ).    
+ 
+          (.., ,  , , .),  
+ 
+,      (..,     ;    ), 
+ 
+   / .      [knowledge ],    appraisal   
+ 
+        .      ,   
+ 
+,          (..,      
+ 
+).           perception 
+ 
+        (..,   . ). 
+ 
+     physical_quality  
+ 
+,           (..,  )   
+ 
+(&  ;   . ;  ).    ,   personality  
+ 
+  (.., ;  ),     
+ 
+ (..,   . ;   . ),       . 
+ 
+      personality       ,   
+ 
+         .  physical_quality   .   
+ 
+        physical_quality ,    extrinsic_rewards  
+ 
+================
+ 
+possibility_effect        physical_quality  (&  ). 
+ 
+,       ,      
+ 
+   ,             (  
+ 
+. ). ,          
+ 
+                physical_quality  
+ 
+( ;  ),            
+ 
+. 
+ 
+ 
+       physical_quality      . , 
+ 
+          physical_quality        
+ 
+  .             
+ 
+     personality ., satisfaction_of_needs     physical_quality   
+ 
+      .      
+ 
+( .)             
+ 
+(..,  ). ,    , , 
+ 
+ ,           
+ 
+(..,  )   . 
+ 
+ 
+   
+ 
+           , ,   possibility_effect 
+ 
+   ,     ,    personality  (  
+ 
+. ;  . ).           
+ 
+ (..,      :    . ; & 
+ 
+================
+ 
+ ),         combining      , 
+ 
+     . ,        /   
+ 
+     (  . ). ,      
+ 
+   ,            
+ 
+         (  . ).    
+ 
+ ,       participant_modeling ( . ). 
+ 
+,          .      
+ 
+              
+ 
+  ,           
+ 
+ / (..,   . ). 
+ 
+ 
+ 
+           ,       
+ 
+    (  .),         gain. ,  
+ 
+ ,     ,   source   ( ).    
+ 
+     ,       , ,  
+ 
+ .        (..,   
+ 
+ )     perception   / (&  
+ 
+).          personality  ,     
+ 
+perceived_vulnerability   (..,   )       
+ 
+      . ,      
+ 
+      (..,   ; & ), 
+ 
+            (  
+ 
+================
+ 
+. ;   . ).     ,         
+ 
+            . 
+ 
+ 
+ 
+ 
+ 
+                 
+ 
+    .             
+ 
+ (: personality        ). 
+ 
+================
+ 
+ 
+ 
+ ,  . .            perceived_consensus 
+ 
+ . :.   . 
+ 
+ . .  :   :   .    
+ 
+ .   ://..//.... 
+ 
+ ,  ,  ,  ,  . .      
+ 
+ :      constraint .   
+ 
+:.    . 
+ 
+ , . . " -      ." . 
+ 
+://.///. 
+ 
+ . . physical_quality :      physical_quality    .  & 
+ 
+ . 
+ 
+  ,  , , "physical_quality ".   
+ 
+://..////(  ) 
+ 
+ , é-ê ,  . .        
+ 
+:   .     [policy] :. 
+ 
+  ,  ,  ,  . .         
+ 
+ .  &  :.   . 
+ 
+ ,  ,  ,  ,  , í ,  ,  , 
+ 
+ . .        .  
+ 
+ :. 
+ 
+ ,  . .   .    . . , . ,  . , 
+ 
+.      :         
+ 
+================
+ 
+  .   , .   
+ 
+://././ (  , ). 
+ 
+   . .            
+ 
+.  &  :.   . 
+ 
+:      () "  ?".   
+ 
+://../ (  ) 
+ 
+ ,  . .        .   
+ 
+:. 
+ 
+ ,  ,  . .          
+ 
+ physical_quality .   :. 
+ 
+ ,  ,  . .  , ,  :     . 
+ 
+    :. 
+ 
+ ,  ,  . .  :     .   
+ 
+ :. 
+ 
+ ,  ,  ,  . .         
+ 
+    .   :. 
+ 
+ ,  ,  ,  ,  ,  . .      
+ 
+:         .  [policy] : 
+ 
+. 
+ 
+ ,  ,  ,  . .     .   
+ 
+:. 
+ 
+    . . ":  ".   
+ 
+://../[resource] ///intelligence / 
+ 
+_Disrupt_Wildlife_Cybercrime_-_FINAL_English_-_new_logo.(  ) 
+ 
+================
+ 
+ ,  ,  ,  ,  ,  . .     
+ 
+     :   role      . 
+ 
+   :. 
+ 
+ ,  ,  . .          constraint 
+ 
+   .   :. 
+ 
+ ,  ,  . .       . 
+ 
+  . 
+ 
+ ,  ,  ,  ,  ,  ,  ,  . .  
+ 
+.       :. 
+ 
+ ,  ,  ,  . .    situational_circumstance .  
+ 
+ :. 
+ 
+ ,  . .    :      . 
+ 
+  . 
+ 
+ . .      physical_quality.   :. 
+ 
+ , ó ,  , ń ,  ,  ,  . .  
+ 
+          .   :. 
+ 
+   . 
+ 
+ ,  , ,  . .      .    
+ 
+:. 
+ 
+   . .    :  role         
+ 
+ .       :. 
+ 
+ ,  . .      perceived_uniqueness      
+ 
+   .   :. 
+ 
+================
+ 
+  ,  ,  . .         
+ 
+:     perceived_vulnerability  .   :. 
+ 
+ ,  ,  . . personality        
+ 
+ .   :. 
+ 
+ ,  . .          
+ 
+          .  
+ 
+:.   . 
+ 
+ . .         .  :. 
+ 
+ ,  ,  ,  ,  ,  ,  . .  
+ 
+, ,          . 
+ 
+       :.    
+ 
+. 
+ 
+  , , , " [ownership]       
+ 
+  ".   
+ 
+://..///// 
+ 
+/ (  ) 
+ 
+ ,  . .  :   impact       
+ 
+  .   :. 
+ 
+ ,  ,  ,  ,  ,  . .    
+ 
+    :           
+ 
+.   .   ://....//// 
+ 
+(  , ). 
+ 
+ ,  . .        physical_quality .  : 
+ 
+.   . 
+ 
+================
+ 
+ ,  ,  ,  ,  ,   . .    
+ 
+: ,   .   :. 
+ 
+ ,  ,  ,  ,  ,  ,  , . 
+ 
+.        .   :. 
+ 
+á‐Mercado ,  ,  ,  ,  Á,  ,  , 
+ 
+ , í‐Clark . .         
+ 
+ .   :. 
+ 
+ ,  ,  ,  ,  ,  . .      
+ 
+   ( ),         
+ 
+ .  .  .   
+ 
+://../////. 
+ 
+/.. (  , ). 
+ 
+ ,  . (..).    .   ://../ 
+ 
+(  , ). 
+ 
+ ,  ,  . .        .    
+ 
+       (). 
+ 
+ ,  . .          frustration_of_needs   
+ 
+    .     :. 
+ 
+ ,  . .         :  
+ 
+ focus       .    .   
+ 
+://..////(  , 
+ 
+). 
+ 
+================
+ 
+  ,  ,  ,  ,  . .  :   perception 
+ 
+     .   .   
+ 
+://....////(  , ). 
+ 
+ ,  . .  :        
+ 
+        .    : 
+ 
+. 
+ 
+ ,  . .   extrinsic_rewards       
+ 
+      :. 
+ 
+ . .     physical_quality   .        
+ 
+  :. 
+ 
+ ,  . .      [activity]      
+ 
+.   :. 
+ 
+  ,  ,  , í ,  . .   : 
+ 
+, ,  .       :. 
+ 
+ . .    perceived_consensus  , ,    (). 
+ 
+    :. 
+ 
+ ,  ,  ,  ,  , ä ,  ,   . .  
+ 
+    :   .   
+ 
+:. 
+ 
+ ,  ,  . .     :      
+ 
+  extrinsic_rewards  . situational_circumstance :.   . 
+ 
+ ,  ,  ,  . .           
+ 
+  .     .   
+ 
+================
+ 
+://..//./../(  , 
+ 
+). 
+ 
+ ,  ,  ,  ,  ,  ,  ,  . .   
+ 
+     extrinsic_rewards       .  
+ 
+   /:. 
+ 
+ . .     :          
+ 
+  .   ,     :. 
+ 
+ . . "     ":       .   
+ 
+  :. 
+ 
+ 
+================
+ 
+ 
+ 
+ 
+ . 
+ 
+      .   ,       
+ 
+  :   ,   ,   physical_quality .      
+ 
+     physical_quality ,     (    
+ 
+),          ( ). 
+ 
+ 
+================
+  
+ . 
+ 
+              .   
+ 
+    /, ,        ( ),   
+ 
+        ( )         
+ 
+ . 
+ 
+ 
+================
+ 
+ 
+ . 
+ 
+ Collection        .    
+ 
+         ,        
+ 
+  .  process          
+ 
+   (     ).      combining   
+ 
+      ,       .   Collection   
+ 
+ ,      Collection    Collection  
+ 
+  . ,          
+ 
+         .  :  . 
+ 
+================
+ 
+  
+ 
+   
+  
+ :         
+ 
+ :      focus 
+ 
+ :      
+ 
+ :       
+ 
+ :     ,  ,    
+ 
+ :    
+ 
+ 
+ 
+================
+ 
+ :         
+ 
+     /          
+ 
+            source. 
+ 
+.                
+ 
+ .         ,   .   
+ 
+                 
+ 
+   .        /  
+ 
+         .   [experience ],     
+ 
+             . 
+  
+  
+ ,  ,  ,  ,  ,  . .   
+ 
+    :        
+ 
+ .  [policy] :. 
+ 
+ ,  ,  ,  ,  ,  . .  
+ 
+            . 
+ 
+   :. 
+ 
+. ,  ,        
+ 
+  //    .        
+ 
+        .     
+ 
+    (..,  ),    isolation_effect   
+ 
+  (..,       ),         
+ 
+   .            : 
+ 
+, ,  . ,     ,  ,    
+ 
+.    isolation_effect     "".     
+ 
+================
+ 
+                 . 
+ 
+    extrinsic_rewards    .  personality ,  Collection   
+ 
+       .        
+ 
+    . ,     ,     combining  
+ 
+          .,  physical_quality  
+ 
+ (.., ) [function]      / 
+ 
+ .   ,  personality     
+ 
+(://..)      (://.../). 
+ 
+  
+ 
+ ,  ,  . .  , ,  :     
+ 
+.     :. 
+ 
+ ,  ,  ,  ,  ,  ,  ,  . . 
+ 
+       extrinsic_rewards      
+ 
+ .     /:. 
+ 
+.              . 
+ 
+         .   
+ 
+      .        
+ 
+       .       
+ 
+     /extrinsic_rewards  .     
+ 
+   isolation_effect "" .   , ,     
+ 
+.       .         
+ 
+   isolation_effect  ,   Collection      
+ 
+ . 
+ 
+================
+ 
+  
+ 
+ ,  . .      [activity]    
+ 
+  .   :. 
+ 
+.             .     
+ 
+  .          . 
+ 
+            (, 
+ 
+, ),,  .    (, ,   )   
+ 
+       . 
+ 
+  
+ 
+ ,  ,  . .         
+ 
+ constraint    .   : 
+ 
+. 
+ 
+ ,  . .  : personality     source  
+ 
+   .   :. 
+ 
+.          .     
+ 
+vicarious_experience   .       . 
+ 
+  
+ 
+    
+ 
+.           .    
+ 
+,                  
+ 
+source  . 
+ 
+  
+ 
+================
+ 
+ ,  ,  ,  ,  ,  ,  . . 
+ 
+    :         
+ 
+  .   :. 
+ 
+  ()   .   
+ 
+... 
+ 
+.             . 
+ 
+,        :()     
+ 
+     ()          ,  
+ 
+     ( ,  .).   focus      
+ 
+.        ,     [Organization ]. 
+ 
+       (..,           
+ 
+)        combining (.., personality ).  gain, 
+ 
+ , ,    persistence       
+ 
+.  Collection        .     
+ 
+     .        
+ 
+       , , ,  . 
+ 
+  
+ 
+ ,  ,  ,  ,  ,  . .   
+ 
+        :   role  
+ 
+    .    :. 
+ 
+, .,& , . . . ().       
+ 
+ , . , (), . 
+ 
+================
+ 
+ ,  ,  ,  ,  ,  ,  . . 
+ 
+    ?   .     
+ 
+ . .   
+ 
+://..//./../ 
+ 
+ ,  ,  ,  ,  ,  . .   
+ 
+      .    : 
+ 
+. 
+ 
+ ,  ,  ,  . .         
+ 
+    .    .   
+ 
+://..//./../ ( 
+ 
+ , ). 
+ 
+. personality       ( )  
+ 
+ /        .    
+ 
+  personality             
+ 
+.          personality    
+ 
+    .       personality  ,  
+ 
+          ,       
+ 
+. 
+ 
+  
+ 
+á‐Mercado ,  ,  ,  ,  Á,  
+ 
+ ,  ,  , í‐Clark . .    
+ 
+      .   
+ 
+:. 
+ 
+ 
+================
+ 
+ :        focus 
+ 
+                
+ 
+      (,  ,   ).  ""  
+ 
+     ;  ""     ,  " "   
+ 
+    .           "", 
+ 
+"",  " ",      : 
+ 
+.  {} {} 
+ 
+. {}  extrinsic_rewards   {} 
+ 
+. {} { } {} 
+ 
+ 
+ 
+  
+   
+ 
+ 
+   
+  
+ 
+  
+ 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+================
+ 
+ :      
+  
+   () 
+    ,      process      
+ 
+    (.., :    ). ,   
+ 
+, ,    (://..//// 
+ 
+/)    . 
+ 
+  
+        
+            (   . ),    
+ 
+     ,               
+ 
+     .    "."        
+ 
+      (://.///). 
+ 
+  
+    
+       . ,        
+ 
+       extrinsic_rewards.        
+ 
+ ,          .  
+ 
+                
+ 
+   [function]   .       ,    ,   
+ 
+    . 
+ 
+ 
+ 
+     
+ . .     :    .   . 
+ &  :. 
+ ,  . .        ..    
+:. 
+ 
+================
+ 
+ :       
+ 
+      (.., )        
+ 
+.    ,     :       
+ 
+,  evaluating /,        personality,  .    
+ 
+        (://../),  
+ 
+    (://..///?=). 
+ 
+   combining       .         
+ 
+   (..,  ).           ,  
+ 
+      (..,   ). ,   ,     
+ 
+         .  ,      ,  
+ 
+personality   ,            
+ 
+    .         
+ 
+.  gain,               . 
+ 
+  ,                
+ 
+ . 
+ 
+ 
+ 
+================
+ 
+ :         
+ 
+    
+ 
+               
+ 
+ (..,   ;   . ). coding     mastery_experience 
+ 
+( ).         ,      
+ 
+     .          
+ 
+    .          
+ 
+(://..///), (&  ),  
+ 
+(://../).        
+ 
+      ( )   ( ).  
+ 
+gain,   " "  ,   "  "     
+ 
+    [knowledge]   (   ).      
+ 
+     ,        (..,      
+ 
+),     isolation_effect      .     isolation_effect   
+ 
+      ( ;    ).  gain    
+ 
+,         . 
+ 
+ 
+    loss            
+ 
+  ( ).             
+ 
+         (..,      ).  
+ 
+   combining          "."  (  
+ 
+).         .     
+ 
+   ,       techniques        physical_quality combining  
+ 
+. 
+ 
+================
+ 
+ 
+     , ,  personality    
+ 
+      . ,      
+ 
+       isolation_effect     possibility_effect.    Collection  
+ 
+,                
+ 
+      personality    (: task 
+ 
+, /: ). 
+ 
+ 
+  
+ 
+                  
+ 
+.           (..,   
+ 
+   ).        mastery_experience  ,   
+ 
+  combining    Collection    .      
+ 
+techniques,          ,      
+ 
+       . 
+ 
+ 
+  
+ 
+          .  
+ 
+       ()    .      
+ 
+       ()        .  , 
+ 
+   ,          participant_modeling       
+ 
+,   .  /        
+ 
+.                 
+ 
+ . 
+ 
+================
+ 
+ 
+ 
+                     
+, , , . .   .   . 
+ . . :     .    ... 
+://../= 
+ ,  ,  ,  ,  ,  . .      
+:         .  [policy] : 
+. 
+ . .    :      personality .  
+, . 
+   . .   focus   .   
+://.../// (  , ). 
+ . . :   ()  .    ... ://../= 
+ . .     :          
+  .   ,     :. 
+ 
+================
+ 
+ :    
+ 
+        (,  perceived_vulnerability, .),   
+ 
+         /      
+ 
+     (  . ).         
+ 
+             
+ 
+  (  . ). ,         
+ 
+        ,          
+ 
+  (.., personality  )   physical_quality    .   
+ 
+   perceived_vulnerability .       extrinsic_rewards   (  
+ 
+ )    
+ 
+(://..////).      
+ 
+        ; ,       
+ 
+    ( ). ,      ,   
+ 
+ .          segregating   
+ 
+ ( ;   ). ,       
+ 
+   personality  ( ;  ;   ).  
+ 
+ ,          combining     
+ 
+.           , 
+ 
+         . 
+ 
+ 
+ 
+ 
+,  ,  . .       
+ 
+.     :. 
+ 
+ . .          .  :. 
+ 
+================
+ 
+ ,  ,  ,  ,  ,   . .    
+ 
+: ,   .   :. 
+ 
+ 
+ 
+================

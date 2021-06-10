@@ -1,0 +1,1580 @@
+            intelligence 
+  ,  ,   ,   
+:    ,   ,   ,   ,   
+:       ,      ,  ,  ,  
+.@..., .@.., .@., .@., 
+isolation_effect. 
+      personality   .        task,       intrinsic_rewards          .                   intelligence. ,   ,            .  perceived_vulnerability intelligence       personality   ,              intelligence      .                           Organization. 
+:   ;  ;   ;      
+. 
+ 
+    ,    (..    )         .             []-[],     personality        []-[].  ,        ,               learning   () []. ,  ,          ,         perceived_vulnerability [].                  [],     , , , , ,    []-[]. 
+              .     ,       [knowledge]                [].           ..            live_modeling / [].    [capability]    loss ..      ,       [], [], [].    trap ,                   personality   [].             intrinsic_rewards          [], [], []. 
+    ,       ( )              [], [].      ,       /participant_modeling   , ,     [], [], [].                 ,            extrinsic_rewards    [],       . 
+================
+        personality                   personality  [].        ,                 personality  (.. perceived_responsibility  ),             (&)  [], []. 
+ perception      perceived_vulnerability intelligence               gain personality perceived_vulnerability () [], []-[].        []         .                       vulnerabilities [], []-[]. ,             []. 
+        ,                  [].    ()         perceived_vulnerability intelligence   behavior_control-ability    [], [].              (, , , , participant_modeling  ) [],    /      [], [], []-[]. 
+ .     
+   ,     possibility_effect .  ,      ,  combining     ()     ( ),      behavior_control-ability  perceived_vulnerability       .  ,        () .    /         .  ,        protection_effect          .     (),    
+================
+    (). ,    ,       () (.. Exfiltration  )     . 
+ perceived_vulnerability        perceived_vulnerability   ,            .. .    ,                 protection_effect   personality   Tactics        participant_modeling     .  :     ,             protection_effect  behavior_control-ability    extrinsic_rewards   .    Exfiltration Tactics            combining     protection_effect  loss  . 
+  ,                   ,        intelligence.                              (  ).       Phishing            ()  ,             .            .       ( : ://.///)  personality    ://./  ://../   &  techniques          ()        protection_effect loss   .      [knowledge ],         . 
+     :       ,           ,              . 
+. 
+  
+                  ,        []. intelligence             ,    participant_modeling           [], [].               . 
+  .,               ,  , arousal,   [].   .,              behavior           [].   .,      personality     situational_circumstance  [].   .,            appraisal     []. 
+  .,       [].     ,          []             [].   .,           intrinsic_rewards [].   .,              [].   .,        Phishing     []. í  .,      (  extrinsic_rewards)    behavior []. 
+                          /  .       protection_effect           /  .           perceived_vulnerability intelligence           .      protection_effect          /    .        combining        perception      loss       Organization   . 
+ 
+================
+. 
+     
+           ,              .                         .               . ,          .         , , , ,          [knowledge]               .                   (  ),           .                . 
+ .          . 
+================
+.  
+      gain extrinsic_rewards                simplifying  [].       intrinsic_rewards         loss  . 
+..  
+        ()         ,             [], [].      intrinsic_rewards        persistence   . 
+     :         ()  intrinsic_rewards   Process_Hollowing []-[]           personality process                [], [].                     [], [], [].           ()           [].          (   ), %     %  . 
+ ;   techniques,  ()                              [].  techniques            perceived_vulnerability              techniques           [].   ,   (   -    )    techniques   .  possibility_effect      a_memory   experiential_awareness   ,                .. " (): [*]    : ". 
+..  
+   /  (/)         .      ,           ..                      [], [].      intrinsic_rewards      : 
+     ;   techniques,              .       , ,       ,   .  techniques                   [].      ,      ,  ,    .                       possibility_effect  Exfiltration. 
+ ;                       personality  personality source.   %           techniques [], [].                 (..    (),       )       ,  /            []- []. 
+================
+.. intrinsic_rewards 
+                      [], [].                .  :    participant_modeling              []     (),     ()         vulnerabilities   []  perception       combining  source  . 
+  intrinsic_rewards         ,                                    [], [], [].       techniques       .             .           intrinsic_rewards   [], []: 
+ ;  techniques             persistence  behavior [], [], [].        ""                    [], [].  techniques               techniques (  ).   techniques   segregating       ,       [], []- []. 
+ ;   techniques                    [], [].  techniques          []           /    [], [], []. ,     ,         [], [], [], []. 
+.  
+                   [], []-[].              ,       [], [], [], []. 
+..  
+                 .            (  )    ( ) [], [].                  .          ,            [], [].               personality                [], [], []. 
+..  
+      ,            ,       combining           Vulnerabilities [], [], [].     []       ,     .. perceived_responsibility,             .                thinking                      []-[].   ,                 (  ). 
+================
+..  
+   personality        []      (     personality )                [], [].                               []. 
+.  
+    ,                   perceived_vulnerability [], [], [].       Exfiltration  personality ,      ,  ,  ,         participant_modeling   .        intrinsic_rewards         ,      Hooking. 
+.. 
+        [],              personality    ,        [], [].              : 
+ :       intrinsic_rewards      ,            ()      [], [].            ()  [function ],                (.. ).   ,                    ,               . 
+ ;   techniques      Hooking                  [].  .       techniques   .        Hooking       , , , , .,  . ,               []. 
+..  
+                            .     ,               [], [].         , hypervisor   . 
+  ;  techniques                 .          ,         (   )        behavior           ..     [].          intrinsic_rewards     [], [], []. 
+  ;       hypervisor    " - " []    (.. " "). ,        
+ 
+================
+  .     ()      ()        hypervisor   . 
+  
+  
+  
+   
+  
+  
+  
+  
+  
+  
+   
+   
+   () 
+  
+ .          . 
+                        trap               [].     trap     ,          []. 
+ ;                process .    () techniques           process [], [].       ,        process         process  []. 
+.. Hooking 
+ Hooking   techniques    behavior             isolation_effect    () .         ., .  .        [].  ,   techniques  ()      Hooking intrinsic_rewards     . 
+ Hooking :       Hooking techniques         [function]              [].           [function]            techniques [].          ( )   participant_modeling          .   a_memory              ". "     Hooking   . 
+ techniques  () :        ( )         techniques              () [], [].   ,   intelligence      [function]       . ,            ..       / . 
+================
+.  
+                .     Tactics                 [], []. 
+..DLL_Side-Loading 
+       ()            ,    internalization [].       ,    participant_modeling        []-[].               intelligence    ,          [].       (  )         .. %% (.. :.. 
+...) [].    ,              () ,        simplifying                 ,      participant_modeling  personality    techniques      opportunity_for_criminal_acts      []. 
+..  
+ techniques                       [].                [].  techniques        ..    ,        [], [], [], [].       combining         ,  techniques              [], [], [].   " "   experiential_awareness ,     techniques ()                " (): [*]    : ". 
+.    () 
+              (&)  [], [], [], [], [].      &        .       intrinsic_rewards            protection_effect      [].      &          . 
+..   techniques 
+    & techniques      techniques           [].             personality                       .       Reverse_Engineering                     . 
+..  
+      ()        [].   ,      gain         personality .           : 
+ 
+================
+   techniques          ,    frustration_of_needs 
+ . 
+  frustration_of_needs                
+       ( )  satisfaction_of_needs   . 
+             . 
+             : 
+;                  techniques [].                        .           ,         .   ,         . 
+Cache_Poisoning;                  .       ,               ( Cache_Poisoning ) [], [].                 behavior    . 
+  ;           (  )         [], [].  Cache_Poisoning                behavior         [], [].     techniques   Cache_Poisoning      Cache_Poisoning                       []. 
+                             (  ). 
+.    
+                        Exfiltration /   [], [], [].          personality       intrinsic_rewards.                   ,  (  )      .                            & [], [], [],                loss  . 
+.. 
+          ,            [], [].                     [], []. 
+       ,       syllogistic_rules   . ,                Exfiltration,       [], [].               &   /   (  ).    ,                  [knowledge] [], [], []. judging         comply_effect    /   combining   Exfiltration      personality     . 
+================
+..  
+   ()   () intrinsic_rewards    [], []-[].          Phishing             ,  . [], [].                    process     [], []. 
+ 
+================
+. 
+     
+      ,  mental_calculation  , : ,     [].           ,                .  intrinsic_rewards          [],   intrinsic_rewards    ,    . ,      personality   ;     intrinsic_rewards []. 
+ .    . 
+================
+.  
+ intrinsic_rewards    combining        ..  ,    [], [].         . 
+..   
+         ()           [], [], []. 
+;                   [].                 [], [], []. 
+;       ,            [].                        [], []. 
+ ;     techniques        ,     .               frustration_of_needs      protection_effect      [], [].         ,          [knowledge]   . 
+ ;       combining              combining   [], [], []. / techniques        ,   intrinsic_rewards   personality    [].             ,                    []-[].    techniques       behavior           .      simplifying   [], [],  techniques       loss    .   gain     ()                   []-[]. 
+..   
+   intrinsic_rewards     personality   [], []. 
+personality ;  techniques     .                  [].   personality  intrinsic_rewards     behavior   . 
+:                 [].               techniques,                    .    techniques  opportunity_for_criminal_acts    []         . 
+ behavior& ;   techniques,           syllogistic_rules        techniques,  opportunity_for_criminal_acts ,     personality . ,                     ..     physical_quality         []-[]. 
+================
+ ;   techniques,                 .   ,   persistence            [].  intrinsic_rewards          &   Exfiltration    : 
+ ;        Exfiltration        experiential_awareness            [].    comply_effect             generalizing        []. 
+   ;  techniques           .   techniques           source   ,  ,  ,     ,         [].                    Exfiltration           . 
+   ;         (   ) [],               .            ,  ,        [], []. 
+    ;          ,        .. , ,  .!     judging            behavior            [], [].                    , ,      . 
+.  
+         ,          protection_effect  .  intrinsic_rewards     ,    . 
+..  
+        , ,          [].  personality     techniques            segregating        .     []    [capability]        .      [capability]                 . 
+,           protection_effect      intrinsic_rewards  .    ()                                [policy] [].          personality             protection_effect      [].      ,            protection_effect    . 
+..  
+         ,     personality                           .           
+================
+/  [],                    . ,          ..                            .            ().             ,       .                      [].          ,       ,       personality   belief  persistence .  gain                    [].                    extrinsic_rewards        simplifying       . 
+..  
+     participant_modeling        perception      .                             []. , personality                            . 
+.  
+    ,    protection_effect loss    .          ,                   .       personality  .  personality                  , protection_effect         .   ,             intelligence   ,   perception                    . 
+..personality  
+     ,            .           personality           .    personality                . 
+:    ,                   . 
+;          .                 .             ,      isolation_effect   []. ,                     . 
+;                   possibility_effect          .          ,  process    ,           . 
+ 
+================
+:                   .     intrinsic_rewards        : 
+isolation_effect ():                &      [], []    .    segregating               () /       . 
+ &:        (& )      &.   &   techniques          techniques  protection_effect          .                          . 
+..  
+ belief   intelligence     ,      .                               [], [].              ,      personality          . 
+    :    ,               [], [], [].  ,              /.             perception .. , ,  .               ,           [].      personality  , 
+             .       focus              .         .                                     Tactics    [].               perception []. 
+      perception,          ,               [].   ,             .     ,  personality     Organization             belief   . 
+   ;   [goal]        ,  perceived_responsibility  loss   [].            (    ),             [], [], []. ,                         .        ,     extrinsic_rewards              []. 
+ Trap;         [].  trap              .  trap      techniques         [], [].      trap                       techniques.  appraisal                generalizing            . 
+================
+    intrinsic_rewards   /               .  intrinsic_rewards         .  ,                                  . ,          ,            /   , Organization       . 
+. 
+  
+   intelligence    possibility_effect perception   intelligence       ,                , ,  [knowledge] perceived_vulnerability    process. 
+  ,        ()-based      ,        .                ,       intelligence .   ,           experiential_awareness      ,            . 
+  ,        protection_effect              intelligence (.. )    appraisal. ,      ,    perceived_vulnerability            . 
+ 
+                          .          personality          .             () . 
+ 
+================
+  
+                           
+  
+                         
+ 
+                          
+  
+                         
+ 
+                          
+  
+                         
+================
+                    
+  
+                  
+ 
+                   
+                    
+ 
+                 
+  
+                
+ 
+================
+================
+  
+   
+    
+ 
+ 
+   
+  
+Rootkit 
+     
+ 
+() 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+ 
+ 
+& 
+   
+ Hooking 
+  
+   
+ 
+ 
+  
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+================
+ 
+   
+    
+ 
+ 
+   
+  
+Rootkit 
+     
+ 
+() 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+ 
+& 
+   
+ Hooking 
+  
+   
+ 
+ 
+  
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+================
+   
+    
+ 
+ 
+   
+  
+Rootkit 
+     
+ 
+() 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+ 
+ 
+& 
+   
+ Hooking 
+  
+   
+ 
+ 
+  
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+================
+ 
+   
+    
+ 
+ 
+   
+  
+Rootkit 
+     
+ 
+() 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+✓ 
+✓ 
+✓ 
+ 
+ 
+& 
+   
+ Hooking 
+  
+   
+ 
+ 
+  
+ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+================
+ 
+ 
+[] 
+. . , . , . . ,  . . , "        ,"    , . , . , . , . . 
+[] 
+. , . ,  . , "    , ,  ,"        (), . , . , . , . 
+[] 
+. , " ,  imagination      ,"    , . , . , . . 
+[] 
+. , . ,  . , "evaluating      perceived_vulnerability    ,"      protection_effect , . , . , .  , . . 
+[] 
+. , . , . ,  . , ":       perceived_vulnerability    ,"  , :  , , . . 
+[] 
+. , . ś,  . , "     perceived_vulnerability    ,"    , . . 
+[] 
+. . , . , . ,  . , "   behavior :     intrinsic_rewards  protection_effect  ,"        , , . . 
+[] 
+. , . ,  . , "      intelligence,"  , ,  intelligence , . , , :   , , . . 
+[] 
+. . , . , . ,  . , "  : experiential_awareness    behavior  ,"       (      intelligence     ), .  , , :   , , . . 
+[] 
+. , " :    ,"    , , .  ,  :   , , . . 
+[] 
+. . , . . , . . , . ,  . . , "       ,"     , . , . , .  , . 
+[] 
+    . , " perception   behavior   ,"      (),    , , . . 
+[] 
+. .   . , " behavior :   personality   ,"        ,   , , . . 
+[] 
+. , . , . . ,  . , "      / ,"       , . , . , .  , . . 
+ 
+================
+ 
+[] 
+. , . ,  . , " ,"  perceived_vulnerability      , , :  , , . . 
+[] 
+. , " ,"     , :   segregating, , . . 
+[] 
+. . , . , . ,  . . ,    , .  . :   , . 
+[] 
+. .   . . , ":     ,"         (&), , .  .-xxx.. 
+[] 
+. , . ,  . , "    ,"      , . , . , . , . . 
+[] 
+. . , . . ,  . .  . , "             ,"   , .  , . , . 
+[] 
+. , . ,  . , "       ,"      , .  , , :   , , . . 
+[] 
+. , . , . ,  . , ":      ,"        ,   intrinsic_rewards, , . . 
+[] 
+. . , . . , . . , . ,  . . ,  ,    . :   , . 
+[] 
+. , . , . ,  . , "     :     ?,"       intelligence   , . , . 
+[] 
+. . , . ,  . . , " perceived_vulnerability   personality    ,"           personality   -  , . , . 
+[] 
+.   . , "      ,"      , . , . , . , . . 
+[] 
+. . , .-xxx. , . . , .-xxx. , .-xxx. , .-xxx. ,  .-xxx. , ":        ,"        intrinsic_rewards,       , , . . 
+[] 
+.  . , . ,  .-xxx. , "    intrinsic_rewards : []     ,"         (), , . . 
+[] 
+. , . , . , . ,  . , ":     ,"   ,   & , .  , , :   , , . . 
+[] 
+. . , . . , . ,  . . , "    perceived_vulnerability intelligence   ,"          &   -  , , . . 
+================
+ 
+[] 
+.   . . , "     ,"      , . , :    , , . . 
+[] 
+. , . ,  . , "     ," perceived_vulnerability combining, . , . , . , . 
+[] 
+.   . , "      Exfiltration   ,"          , , . . 
+[] 
+. , "   ·  ." []. : 
+://../////.. [: ]. 
+[] 
+.   . ś, "         ,"        ,  , . , . 
+[] 
+. , . . , . . , . . ,  . . , "    behavior, ,  ,"     , . , . , . , . 
+[] 
+. , . , . ,  . , "    ,"           - , , . . 
+[] 
+. , . ,  . , "   :       ,"    , . , . , . , . . 
+[] 
+. , . ,  .  , "  ,"      , .  , , :   , , . . 
+[] 
+. , . , . ,  . . , ":   :   focus      ,"        , , . , . . 
+[] 
+. , . . . ,  . , "  :   ,"        , . , :   , , . . 
+[] 
+. , . ,  .-xxx. , "  :     ,"          , , .  . 
+[] 
+. è  . í, "    ,"      , . , :    , , . . 
+[] 
+. , . , . . ,  . , "    ,"        ( ), , . . 
+[] 
+. . , . , . . ,  . . , "  Phishing : []      ,"    , . , . . 
+[] 
+. . í, "       ,"       intrinsic_rewards, . ,  . 
+[] 
+. , . , .-xxx. . , . , . ,  . , "  
+ 
+================
+ 
+         ,"       , . , . , . , . . 
+[] 
+. , . ,  . . , "      intrinsic_rewards,"         (), . , . , . , . 
+[] 
+. , . , . . ,  . , "       intrinsic_rewards,"       (), . , . , . , . 
+[] 
+. , "  -  &; process |   ," . []. : ://.//// /. [: ]. 
+[] 
+. . , . , . . , . . , . ,  . , ",       personality   ,"            -  , , . . 
+[] 
+. . , " Collection     ," . 
+[] 
+. , "Process_Hollowing," . 
+[] 
+. . , . . ,  . , "     ,"      ,  perceived_vulnerability appraisal, , :   , , . . 
+[] 
+. , . ,  . . , "       ,"        belief   (), , . . 
+[] 
+. , "   ,"  &  , . , . , . , . . 
+[] 
+. , . ,  . , "       ,"    , .  , :   , , . . 
+[] 
+. , . ,  . , "        personality  ,"            (), , . . 
+[] 
+.   . , "  perceived_vulnerability   Hypervisor ,"          , . , . 
+[] 
+.   . , "   ,"        intelligence    (), , . . 
+[] 
+. , . , . ,  . , "           ,"         belief (), , . . 
+[] 
+. , . ,  . . , "   ,"       , . , . , . , . . 
+[] 
+.   .-xxx. , "     ,"     perceived_uniqueness    , , :  , , . . 
+================
+ 
+[] 
+. . .   . , "    Phishing  ,"       , , , , , . . 
+[] 
+.-xxx.   . ö, "     :     Phishing,"     , , , , , . . 
+[] 
+. .   .  , "   ,"   belief     , , , , , . . 
+[] 
+.   . , "  protection_effect : Phishing   techniques      ,"         , , . . 
+[] 
+. . , . ,  . . , " personality perception          personality perceived_vulnerability,"      ,     (), , . . 
+[] 
+. , . ,  . , "    ,"    ,   , . , . , . , . 
+[] 
+. .   . , "      ,"     , . , . , . 
+[] 
+.   . . . , "        ,"   -      intrinsic_rewards,       ,  , , . , . . 
+[] 
+. , . . ,  . . , "  [modeling]     ,"    , . , . , . . 
+[] 
+.   . , "  intrinsic_rewards :   ,"      ,  ,   , , . . 
+[] 
+. , . . ,  . , "    ,"       intrinsic_rewards, . , . , . ,  . 
+[] 
+. , . , . . ,  . , ":    intrinsic_rewards   ,"          (), , . . 
+[] 
+. , . . ,  . , "     ,"       intrinsic_rewards, . , . , . , . . 
+[] 
+.    . , "       ,"       intrinsic_rewards, . , . , . ,  . 
+[] 
+. , . , . ,  .  , "     physical_quality    ,"       intrinsic_rewards, . , . , . ,  . 
+[] 
+. , . ,  . , " personality  behavior      ,"        , , . . 
+[] 
+. , . , . ,  . ,   ,   
+ 
+================
+ 
+, . , . . :   , . 
+[] 
+. , .  , . , . . . , . ,  . . , "  intrinsic_rewards : ,  ,  ,"      , . , . , . , . . 
+[] 
+. .   . , "    ,"  & , . , . , . , . . 
+[] 
+.-xxx. , .-xxx. , .-xxx. ,  .-xxx. ,     , . . :  , . 
+[] 
+. , . ,  . , " personality              ,"             , , . . 
+[] 
+. . , ":        ," . []. : 
+://..//////// .. [: ]. 
+[] 
+.   . , "  perception          ,"      , , , , , . . 
+[] 
+. . , . . ,  . . , "  intrinsic_rewards      ,"       ( ), , . . 
+[] 
+.   . , "         ,"  intelligence     , , , , .  . 
+[] 
+.   . , "      techniques,"            , , . . 
+[] 
+. , . ,  . ,     , . , . . , :   , . 
+[] 
+. , " ,   ,"        , :   , , . . 
+[] 
+.   . , "personality  ,"      ,  perceived_vulnerability appraisal, .  , , :   , , . . 
+[] 
+. . , . , . ,  . , "  / perceived_vulnerability,"          , , . . 
+[] 
+. , . , . , . , . , . , . ,  . , "         techniques ,"              , , . . 
+[] 
+. , "DLL_Side-Loading :         ," , , . []. : ://..////// //.. [: ]. 
+================
+ 
+[] 
+.   . , "protection_effect personality        ,"     /       , , . . 
+[] 
+. , . , . ,  . , "          ,"            ,   , , . . 
+[] 
+. . , . , . , . , . ,  . , personality  :       .. 
+[] 
+. , . , . , . ,  . , "          ," , , , .  . 
+[] 
+. , . , . ,  . . , "       ,"    , . , . . 
+[] 
+. . , . , . . , . , .  ,  . , "        ,"         , , . . 
+[] 
+. , "       -    ," . []. : ://..////. [: ]. 
+[] 
+. , "  perceived_vulnerability   ," , . 
+[] 
+.   . , "         extrinsic_rewards,"            (), , . . 
+[] 
+. , . ,  . , "         ,"      gain   (), , .  . 
+[] 
+.   , .  ,  .  , "        ,"   :      ,      (), , . . 
+[] 
+    , "gain      protection_effect       ,"           (), , . . 
+[] 
+. , . , . , . ,  , "         ,"         , :  , , . . 
+[] 
+. , . ,   , "         perceived_vulnerability  ,"            ( ), , . , . . 
+[] 
+. , . , . , . , . ,  . , "  intrinsic_rewards : ,  ,  ," & , . , . , . , . 
+[] 
+. , . , . .  , . , . , . , . ,  
+ 
+================
+ 
+. . , "  :       ,"      , . , . , . , . . 
+[] 
+. , "        ,"         ,   , , . . 
+[] 
+. , . , .-xxx. . ,  . , ":       ,"      , . , . , .  , . . 
+[] 
+. , . , . ,  . . , "    intrinsic_rewards     ,"         , ,   , , . . 
+[] 
+.   . , "  ,   ,"  &  , . , . , . , . . 
+[] 
+. . , . . ,  . . , "         intrinsic_rewards,"              (), , . . 
+[] 
+.  , . , . , . ,  .-xxx. . , "               ,"       , . , . 
+[] 
+. . , . ,  . , "    :    perception,"   intelligence  , . , . , . , . . 
+[] 
+. , . ,  .-xxx. . , "     ,"    &  , . . 
+[] 
+. . , . . ,  . . , "     ,"       intrinsic_rewards, . , . , . ,  . 
+[] 
+. , . , . ,  . , "     ,"       intelligence   ( ), , . . 
+[] 
+. , . . , .-xxx. , . ,  . , "         ,"       intrinsic_rewards, . , . , . ,  . 
+[] 
+. . , . ,  . , "      ,"             ( ), , . . 
+[] 
+. , . , . , . ,  . , "         ,"   & , . , . , . , . 
+[] 
+. , . ,  . , ": , appraisal, & ,"       (), . , . 
+[] 
+. , . . ,  . , "     :  ,"    , . , . , . , . . 
+[] 
+. , . , . , . . ,  . , "      
+================
+ 
+,"             (), , . . 
+[] 
+. , . ,  . , "        ,"               -  , , . . 
+[] 
+. ó, . , . , . , . í,  . , "    ,"    , . , . , . , . . 
+[] 
+.-xxx.   . , " focus    perception             ,"    , . , . , . , . . 
+[] 
+.   . óź, "      ,"         , . , , :   , , . . 
+[] 
+ , ":   ?|  combining ," . []. : ://../combining //. [:  ]. 
+[] 
+. , .-xxx. . ,  . , "     perception   :     ," . . 
+[] 
+. , " ,  ,    ." []. : 
+://. 
+.//// .. [: ]. 
+[] 
+.   . , "satisfaction_of_needs  Phishing :    ,"        , , . . 
+[] 
+. , . . , . . ,  . . , "     ,"     , . , . , . , . . 
+[] 
+. , . , . ,  . . , "    Eavesdropping    ,"     , . , . , . , . . 
+ 
+================
