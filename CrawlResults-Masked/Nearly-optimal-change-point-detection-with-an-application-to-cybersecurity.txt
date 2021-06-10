@@ -1,0 +1,1215 @@
+        
+ 
+ .    .  
+  ,    ,  , ,  
+  
+  ,   , , ,  
+isolation_effect :  techniques                  σ   µ   σ= µ,  >     ;     µ      . ,           :   ,   () ,    ﬁ -       .                  ,     ﬁ      .               "possibility_effect"  "".   mental_calculation         -       .         ﬁs          σ= µ      ,   σ= µ.          ""     (    ﬂ ),          .  generalizing         " "   personality  . 
+:  ; ;  ;  ;  ;    ;  ;  ;   . 
+ ﬁ: ; ; . 
+.  
+:. [.]    
+           intrinsic_rewards   ( )       []   process,        perceived_vulnerability     .            personality  , , ,.. .,     ,   (),        ν       () (),  ;    , ν,      ,     "".          perception        (),      ,     certainty_effect,      "",     .    ,          experiential_awareness    .               
+techniques   . . ,   ,     ,  ,  ,  , ; : + () , : + () ;  : @... 
+ 
+================
+     ,       perceived_vulnerability    " " -          belief     , ,  ,   .  ,             loss        loss    .  personality       behavior_control-ability    ,    constraint     perceived_vulnerability. 
+     focus      
+
+ 
+− µ) 
+
+ 
+
+ 
+ 
+()= √πµ  −( 
+µ 
+ ()= √  −( 
+− θ)
+ 
+πθ 
+θ 
+, (.) 
+ < < ∞, < µ= θ< ∞,  −∞< < ∞.         (µ, µ)-xxx- (θ, θ) .     certainty_effect     . 
+,        process  ()    appraisal .    process            {,}   , 
+µ,   , σ.          appraisal µ     ﬁ       , > ,   ﬁ   − α, < α< .  σ  ,     (  → )  (ﬁ)     ,= ⌈α/σ/ ⌉,  ⌈x⌉        . ﬁ,     ,/α/σ= ,  ,  (| − µ| )=  − α,   
+¯ 
+= (/) 
+ 
+α, 
+= 
+    . ,  σ  ,    ()      . 
+ 
+
+ 
+α,()=   ( ):   
+, 
+α/ 
+ 
+, 
+ {,}       {,}    ,           .       ,    comply_effect ,(),     appraisal  ,.   α,(),  ,  ﬁ .. . ,    belief   < σ 
+ 
+< ∞,    ()   α,()   (  → ) ﬁ  .              (, ). ,     (, belief .., . ), ﬁ      (),   → ,    α,()      ,   ,,  >    ;  , =      .        . (,  .., . )      (). 
+              < ρ< ,  ""   [function]  ρ,                . , ..,   . (,  ). 
+  fear_arousal  σ,  ,     ,  ,        ,  .  ,         "    "   α,(),  , .., appraisal  ,?   → ,     (.).         µ= µ,  ,      . 
+,  (.)  ﬁ   .               , ,    .   {}  {}      evaluating λ> .   ,    ,           :   : .   , ,          ,  :   : , ..,       .         , ..,          ?   +   experiential_awareness      ﬁ,      =  +/. 
+ 
+================
+  possibility_effect             .    λ, ,        λ/   λ/. ,           personality  , ,...    (µ, µ)   µ= λ/, = /. 
+,  perceived_vulnerability          (.)       , ﬁ   ﬁ           ﬁ.   ﬁ        , ..,    (),  ,  ﬂ ,   ,  ﬁ  .         impulsive_effect  (,    )   ﬁ   ;      ﬁ , ..,  ﬁs       evaluating -         combining   .      ,     ﬁ,  behavior        process; , ..,   . (),   . (),    . ().   ,    evaluating      evaluating     process,        .       ,    evaluating        ,            . ,                       evaluating.     (µ, µ)-to-N(θ, θ)   = . ,  , behavior   ﬁ       ,      (µ, µ)-to-N(θ, θ)        "  "        . ,  (µ, µ)-to-N(θ, θ)        . 
+                   :   ,   () ,      -   ()      ( ) .          ()     (combining)   ()  combining -       intentionality, γ,      ()   .  intentionality      ( γ → ∞)          . 
+        .    []  ,        ;           .                   .          .       (µ, µ)-to-N(θ, θ)  . ﬁ,      ,  focus          focus       .               (µ, µ)-to-N(θ, θ)               . ,    . 
+.      
+    ,  focus             -               .  ,       belief       () , belief    . 
+    ""     ,   ,    personality  , {}. ,     ,     ν,       , , ,..., ν      (),  ν+, ν+,...          () (),  .         
+ 
+================
+  ()-distributed perception; ,  ν= ∞,     {}        (),   ν= ,     ()-distributed.            ,     .        "   "   " "           . 
+,          : ν=  , ..,        ν= ,  < ∞,  : ν= ∞, ..,     .    perception  ,         ,        ,        . 
+    ,  ﬁ      ( ).  := (, ,..., )      ﬁ   ;      :     
+ 
+ 
+
+ 
+
+ 
+(:|)= ()  (:|)= () × (), 
+= = =+ 
+      
+ 
+=+ 
+=    ; .., (:|)= (:|)   .   , Λ:= (:|)/(:|),   
+ 
+ 
+Λ:= Λ,  Λ= 
+() 
+=+ 
+(), 
+(.) 
+    Λ:=    .     Λ= . 
+,           ,   {Λ:}      .   ,               = Λ: ( )      perception (   
+  perception)       = 
+= 
+Λ: (            ).     ()       . 
+     ,         .    {},     ﬁ    , ,    ﬁ {},  = σ(:)              .         , ,...,          .        .    ,   ν,           . 
+     - {}  {} -         .  ﬁ           combining () .      " "    ()            . ,        ""       . ,  ﬁ         
+= { :  }, 
+(.) 
+ >     ,  = Λ:    ,     ﬁ   
+= {, 
+ } 
+Λ,    = , 
+(.) 
+   ﬁ    {∅}= ∞. 
+ 
+================
+     mental_calculation     () .      ,         .      personality    (, )   (). ﬁ,                     ,                  personality   . ,     ﬁ     
+= { :  }, (.)  >     ,  = 
+ 
+= 
+Λ:    ,        
+= (+ 
+ ) Λ, 
+   = , 
+(.) 
+       . 
+           :   ()      ( ) .       ()  belief       , {},   ,      = ,  
+       ()= ( |> )        belief . (  {}     process  .) ,     ﬁ     
+= { :  }, 
+(.) 
+ >     ,            
+= (+ 
+ ) Λ, 
+    ∝ (). 
+(.) 
+         . ()      intelligence   , {},   ﬁ (  ) = ,  < ,  ﬁ          
+= { :  }, 
+(.) 
+ >                  
+= (+  
+
+ ) Λ, 
+   =  , 
+(.) 
+   =         . 
+              . 
+ ﬁ     .  ν(·)   perceived_vulnerability appraisal      {}     ν ,  ν[·]    belief. ,  (·)  [·]       , ..,  ν= ∞. 
+mental_calculation ﬁ       ()   perceived_vulnerability              ()= []        "+ 
+" combining ()= ν<∞{ ν[( − ν) |ν]},   += {, }.  ∆(γ)= { : () γ}       ( )              (    )  γ> .          ﬁ  ∈ ∆(γ)   ()= (γ) ()   γ> .    ,       (),       
+ 
+================
+  . ﬁ,        = γ       (γ)= γ,  (γ)= (γ) ()   γ> . 
+  personality ()-optimality    ,               (situational_circumstance)  , ν()= ν[ − ν|> ν],   ν  .        ,  ()           ()  ()= ν<∞ ν(), ..,     (situational_circumstance)  ,    ∈ ∆(γ)   ()= (γ) ()   γ> .         possibility_effect  .    ,            . , ..,   (),    (),   . (),    . ()    focus. 
+                   ;       ,    ( ) ,          .       .             , ..,      .     . 
+ﬁ,  belief                   ,        "perceived_vulnerability"      .            ,       .  ,   , ν,             , γ> .  ,               ﬂ   ;                .       (),        ,              . 
+,  , ,...   personality       ,   ()= ()+ ()+ · · ·+ ()       ,  .  ν= { : ()> ν}   (ν)         ,      ν  ν −      . mental_calculation ()= ν→∞ ν[(ν) − ν], ..,      combining         combining ();        ﬁ  ∈ ∆(γ)   ()= (γ) ()   γ> .      ,    ﬁ     (, )         .     ,                (). ﬁ,       
+()= 
+∞ 
+ν[( − ν)+], ν= 
+(.) 
+       ()= ()/().    , ,    γ,      (γ)= γ,  (γ)= (γ) ()   γ> .  () ≡ ()     ,   (γ)= (γ) ()   γ> . 
+ generalizing      [goal]        - , ,     -             - ()  ().    simplifying             . 
+ 
+================
+.      
+ ,  focus         combining           combining.           (      ),        .     
+  mental_calculation    γ → ∞.  belief     ,  ∈ ∆(γ),   ()   () , (γ) (),     syllogistic_rules ""      ,  γ → ∞.   ,     ()-to-infT∈∆(γ) ()    : )    ∈ ∆(γ)     ﬁ-order  ()-optimal    ∆(γ)  ()= [(γ) ()][+ ()],  γ → ∞,   () → ,  γ → ∞, )  -  ()= (γ) ()+ (),  γ → ∞,  ()  ,  γ → ∞,  )  -  ()= (γ) ()+ (),  γ → ∞.   (γ) () → ∞  γ → ∞. 
+                  ()= [], ()= ν<∞ ν() ( ν()= ν[ − ν|> ν]), ()= ν→∞ ν(),  ().  =  Λ   = −E∞[]  = []     .  ,             < < ∞  < < ∞.               ||< ∞  
+ ||< ∞. ,     {},  =
+ 
+= 
+,  ,  = .  =
+ 
+∞ ,  ﬁ 
+= 
+ ()= ( ). ,   ,      τ= { :  }   κ= τ −     (..,          ). ﬁ ζ=  [
+ κ] 
+ κ=  [κ].     
+ 
+∞
+ 
+ 
+∞ 
+ζ= 
+ 
+ 
+ − 
+ 
+( 
+ 
+> )+  
+ 
+[] 
+ 
+(
+ 
+
+ )  κ= 
+ 
+[ 
+−1] [ 
+= = 
+ 
+], (.) 
+  
+ 
+= −min(, ); ., ..,  (,  & )   (,  ). 
+                     .      . ,     ()= ()= ()      ()   generalizing      ﬁ-order  ()-optimal. ,      ()-       .        syllogistic_rules      combining (),          ,     ()< (),                  γ.    . (),            (),        ()-optimal. ,  = γ,  γ       (γ)= γ.  
+(γ)= 
+ 
+ 
+(γ+ κ+ β)+ (),  γ → ∞, 
+(.) 
+ β= [ ].    ()= [].     ﬁ    ()     ,                []< ∞  ﬁ    .   (),     
+(γ)= 
+ 
+ 
+(γ+ κ − β∞)+ (),  γ → ∞, 
+(.) 
+ 
+================
+ β∞= [ − ];  β  β∞     (..,    ).            : 
+() ≈ 
+ 
+ζ 
+− 
+ 
+ 
+− 
+ 
+ 
+ζ. 
+(.) 
+      . , a_memory ,     (),           syllogistic_rules     combining.    intentionality              :    , 
+ []+ ( ) 
+()  ()= 
+ 
+γ γ (γ) 
+ γ 
++ (γ) 
+, 
+(.) 
+ γ       (γ)= γ, γ>  (   .       ).  =   (.),   (γ) () (γ).           ()      → ∞, ..,∞ 
+()=  ( )= ( ).  = 
+  
+= 
+ ()= ( ). 
+ 
+∞
+ 
+∞ 
+= [(+ + )]= (+ + )()(). (.) 
+  
+   . (), 
+(γ)= 
+ 
+ 
+(γ+ κ − )+ (),  γ → ∞, 
+  
+ (γ) 
+()
+ 
+ 
+ 
+(γ+ κ − )+ (),  γ → ∞. (.)    ,  personality   ,    ,  = γ       (γ)= γ,  (γ)= γ ≈ γ/ζ  
+(γ)= [γ]= 
+ 
+ 
+(γ+ κ − )+ (),  γ → ∞, 
+(.) 
+ 
+= [(+ )]=
+ 
+∞ 
+(+ )() 
+ 
+(.   . ()).  < ,         ,           .    ()/,         . 
+   ,      ()     .                . ()      ().   () ≈ /ζ            personality ;          { − }    . 
+  mental_calculation   .   belief (, .., , , belief ..)           , .., ν()       ν .       ,  ()       , {},          . ,  
+ 
+================
+            ()-optimal. + 
+ﬁ,  [ 
+ 
+]< ∞,      , ,    γ,    
+  (γ)= γ.  (γ)= (γ) ()+ (),  γ → ∞. ,    . ()      ( 
+) 
+      []< ∞: 
+(γ)= 
+ 
+ 
+(γ+ κ − )+ (),  γ → ∞, (.) 
+    ()= ν()   ν ,  ()= ().   
+( ),   . ()      ( 
+ 
+) ≈ /ζ − µ,  µ = 
+ 
+ ()       . 
+    mental_calculation    .     personality       ,  ﬁ          .   ,     intentionality       (.).  (.)   generalizing      =             (.., combining 
+∗ 
+ν( 
+)      ν ),      ()-optimal. ,        ,  ()= []= ( ).         (),      (), ν(), ν ,               =    .  ,   . ()             constraint  : 
+=   {() − ()}   ()= γ. 
+<∞ 
+(.) 
+   perception             ,     perception               evaluating. 
+     . (),          
+ . ﬁ,       = γ       
+( 
+γ)= 
+γ      ( ﬁ     evaluating  (γ))        (γ) ≈ γ/ζ     combining (γ)    ﬁ, .., (γ)= (γ).  
+(γ)= (γ)= 
+ 
+ 
+(γ+ κ − )+ (),  γ → ∞. 
+(.) 
+    intentionality (.)             (    ()).  personality ,   ()      () ≈ /ζ−r,    ,          {}    . 
+.  intrinsic_rewards  appraisal    
+ 
+                   intrinsic_rewards            appraisal.         . (). 
+mental_calculation          
+ 
+ 
+ 
+= { :  
+ 
+
+ }, > . 
+(.) 
+ 
+================
+ { 
+ 
+}           
+ 
+ 
+ 
+= ξ( 
+ 
+ ) Λ, 
+    
+
+  
+=  . 
+(.) 
+ ξ()    [function]     ﬁ ,           . 
+            ;  ,       . ,     ξ()= {, }      ξ()= + .     
+ 
+ 
+        ()           
+ 
+,      ξ().                
+ 
+. 
+a_memory  Λ= ()/(),  ,    Λ  .  = {,∞}, Λ 
+ 
+ 
+()= (Λ )      . 
+ 
+(, )= 
+∂
+ 
+  
+∂yPd( 
++
+ | 
+ 
+= )= 
+∂ 
+Λ 
+ 
+∂yP 
+ 
+ξ() 
+, = {,∞} 
+   perceived_vulnerability      process { 
+ 
+}.   Λ ()=  Λ∞(),  , (, )/(, )= /ξ(),       ""      (, )    (, )   . 
+  =   ﬁ.  ℓ()= [ 
+  
+  
+]  δ()= [ 
+].      
+ℓ()  δ()    
+ 
+
+ 
+ 
+ℓ()= + (, )ℓ()  δ()= + (, )δ(), (.) 
+  
+ (.   . ()). , mental_calculation ν( 
+ 
+)= 
+ν[ 
+ 
+ 
+− ν| 
+ 
+ 
+> ν]    ﬁ ν ;  ( 
+ 
+) 
+ 
+ 
+≡ δ().   ν(),  .() ﬁ   ν( 
+ 
+> ν)=  
+ 
+  
+> ν),  , ν()= 
+ 
+ν[( 
+ 
+− ν) 
++ 
+]/( 
+( 
+> ν),     perception  δν()= ν[( 
+ 
+ 
+− ν)+]  ρν()= ( 
+ 
+ 
+> ν).      
+ 
+
+ 
+ 
+δν()= (, )δν
+ () 
+  ρν()= (, )ρν
+ () 
+, ν , 
+  
+ δ()    (.)  ρ() ≡ ,  ( 
+ 
+ 
+> ) ≡ ; .   . ().    δν()  ρν()  ,     ν( 
+ 
+ 
+)       δν()/ρν(). ,  ν( 
+ 
+ 
+)   ﬁ   νs   ν=   ,     ( 
+ 
+ 
+)= ν<∞ ν( 
+ 
+),  ( 
+  
+  
+)= ν→∞ ν( 
+ 
+)  personality   
+ 
+= . 
+         ().        ()          combining : 
+∞ 
+( 
+ 
+)= ν[( 
+ 
+ 
+− ν)+]
+ 
+[ 
+ 
+  
+], 
+ν= 
+    ψ()= 
+∞ 
+ν[( 
+ 
+ 
+− ν)+]= 
+∞ 
+ν= 
+δν(),  ( 
+ 
+ν=  
+)= ψ()/ℓ().      ψ() ﬁ
+ 
+ 
+ψ()= δ()+ (, )ψ(), (.) 
+ 
+ 
+================
+ δ()    (.). 
+        intentionality ()   ﬁ ( .)   ﬁ     , ..,     ξ()= + . belief    ξ(), comply_effect  
+()= [δ()+ ψ()]/[+ ℓ()],      ℓ(), δ(),  ψ()  . 
+mental_calculation       
+ 
+=           .  ()= ( 
+
+ | 
+ 
+ 
+> )   ;    
+ ,    (, , belief ..).  = { :  
+
+ },  { 
+  
+ 
+}         = ξ( 
+ ) Λ 
+     
+ 
+∝ .    
+ 
+ 
+     ξ()= + . 
+ ,        .   ﬁ []        ()= ()/:
+ 
+
+ 
+ 
+λ ()= ()(, ),   ()=  (.) 
+  
+(.   . ()   ()).    ()  λ   .  ()  λ  ,         ℓ¯= [ 
+ 
+ 
+]     δ¯= [ 
+ 
+ 
+],   personality   :
+ 
+
+ 
+ 
+ℓ¯= ℓ()()= /( − λ)  δ¯= δ()(). 
+  
+        ℓ¯is     ,  ,    
+           − λ, < λ< , .., ( 
+ 
+ 
+> ν)= λν, ν ;  ,  λ= . ,    ()  ﬁ   λ     [function]  ;  ,        =  Λ  appraisal (·)  , λ    . 
+ (.)-( .)        ()      .  ﬁ            .       ,        .          . (). ﬁ,     (  )        [, ]       .         .          (, ..,   , ,  ),        ,         , .., (  , , belief ..). ﬁ,                      (/),    ﬁ . 
+     belief      appraisal    (µ, µ)-xxx- (θ, θ)  ,              . 
+.   
+  ,     appraisal       (µ, µ)- (θ, θ)   (.)        .  ﬁ               . 
+ 
+================
+        Λ ()= (Λ ), = {,∞}   .     
+ 
+Λ= 
+() 
+= 
+µ
+ 
+() θ 
+ −θ 
+− µ 
+ 
+ 
+ 
+θ − µ 
+ 
+θµ 
+ 
+, 
+ 
+Λ 
+µ 
+ −θ 
+− µ
+ 
+ 
+,  θ − µ> ,  Λ 
+µ
+ 
+θ − µ
+ 
+θ 
+ − 
+ 
+,  θ − µ< . 
+θ 
+comply_effect      ,    mental_calculation    θ − µ>   θ −µ< . ,         ,         
+ ﬁ . 
+ θ − µ> .   appraisal (·)   personality   
+ (Λ )=  
+ 
+θµ 
+− 
+ 
+  −  
+µ
+ 
+θ 
+/(θ − µ)+  −
+ 
+µ
+ 
+/(θ − µ)+ , 
+ − 
+  
+ (Λ )=  . 
+,
+ 
+Λ∞()= Φµ,µ
+ 
+θµ 
+θµ    −  µ 
+θ 
+θ 
+ − 
+θ − µ, 
+
+ 
+  −  
+µ
+ 
+θ 
+/(θ − µ)+  −
+ 
+µ
+ 
+/(θ − µ)+ , 
+− Φµ,µ 
+− 
+  
+ Λ∞()=  ; ,
+ 
+ 
+Φµ,σ()= 
+∞
+ 
+√ 
+ 
+πσ 
+ −( 
+− µ) 
+σ 
+ 
+θµ    −  
+θ 
+µ
+ 
+ −θ 
+− µ 
+θ  
+, 
+         µ   σ. 
+,
+ 
+Λ ()= Φθ,θ 
+θµ
+ 
+  −  
+µ
+ 
+θ 
+/(θ − µ)+  −
+ 
+µ
+ 
+/(θ − µ)+ , 
+− Φθ,θ 
+− 
+  
+ Λ ()=  . 
+θµ   − 
+ 
+θ 
+µ
+ 
+ −θ 
+− µ 
+θ  
+, 
+ 
+================
+    , Λ ()  Λ∞(),      ,            . ().      ,              . 
+           = −E∞[ Λ]  = [ Λ]  
+(µ − θ) 
+ 
+ 
+µ 
+µ (θ − µ) 
+ 
+
+ 
+= 
+θ 
++ 
+ θ 
+−  −  
+θ 
+ = 
+µ 
++ 
+θ 
+ µ 
+−  −  
+θ 
+µ 
+. 
+,   ,   
+ 
+ Λ= 
+θ − µ
+ 
+ 
+ 
+ 
+θ 
+= 
+− µ θ 
+µ 
+= 
+θ 
+− 
+  
++  
+µ 
+,  . 
+= 
+  mental_calculation     κ  ζ.   ,         (.),     . ,    ,           ,      ﬁ ,       , ..,  θ  µ     .      . , κ  ζ             . 
+ﬁ,   κ  ζ                appraisal (·), = {,∞},  appraisal κ  ζ  (.).  ,    ﬁ   
+    .         β  β∞,       .   appraisal   ,       . 
+             , ,     .      ,    =              (.). ,                  .       ,    
+      ()= γ    γ> ,      () ≈ (/ζ) − .          -   .      .   ﬁ γ,       ,    persistence ()     γ (..,    constraint ()= γ ﬁ),      .       ,   = ,      ()      ()= γ,         ,  () ≈ /ζ.     ,   ()  (),     ()−JLB().   gain   ,  ﬁ    ()= γ  ﬁ,    ()  (),     () − ().  process        ﬁ       .      (,  ). 
+       ,          .  personality ,   . ()         ()  combining ( 
+).     behavior    
+    ,       comply_effect    .     , ()     
+() ≈ 
+ 
+ 
+(+ κ − ), 
+ 
+= [(+ + )]=
+ 
+∞ 
+(+ + )(), 
+ 
+ 
+================
+   ()     .   a_memory  combining ( 
+ 
+∞ 
+)= 
+()      (.),       ﬁ ( .). ,     ,   
+( 
+ 
+)= ( ),     
+,     = .     .                  (..,  γ).   . ()     ()              ,    =        . 
+  ﬁ ,  µ= , θ= ,  = .,   γ=      .                .       ≈  × 
+ , 
+ ≈  × 
+ , 
+ζ ≈ ., κ ≈ .,  ≈ .,  ≈ ., β ≈ −1,  β∞ ≈ ..          () ≈ /ζ   
+.          :   () ≈ /ζ − µ     .  ,      ..     ,   () ≈ /ζ −      .  ,      ..    ,      (.)     ,      .. 
+ . ,                
+µ= , θ= , = .,  γ= . ()         
+             
+      
+ 
+. . . . 
+  
+   
+=   ∝  (µ ≈ .) 
+ ≈ . 
+()= [] 
+. 
+. 
+. 
+. 
+     ,             .    ()   (.)     ,      experiential_awareness .           () ( (.))   .  experiential_awareness.  ()   (.)    .  experiential_awareness.    
+( ), (  () 
+ 
+) 
+( (.)  (.))    .  experiential_awareness.   generalizing        . 
+,  ν()= ν[ − ν|> ν] .   ν     .  ﬁ            (.., ν= ),       .     ,         combining    ν= , .., ()= []  ()= [].        ν=                  . ,               ν ;         ν= .    generalizing                ,       . ,    (..,  ν  ),    ,  .    mental_calculation        ﬁ     .                       ; a_memory     
+, .., ν()      ν .  (ﬂ) combining      .  γ= ,       .       ( )   . 
+  ν()       ν    .   
+ 
+================
+ 
+ 
+(=) 
+] 
+ν 
+|> 
+ν 
+ 
+ 
+[ 
+ν 
+ 
+() 
+()= 
+ν 
+combining 
+ 
+ 
+(=*) 
+ 
+ ν 
+ 
+ 
+ . situational_circumstance    ν()= ν[ − ν|> ν]      
+  µ= , θ= , = .,  γ=     ν. 
+    intentionality (.)    ().                 . 
+ .          µ= , θ= , = .,  
+γ=  
+ν()= ν[ − ν|> ν] 
+ 
+ . () . () 
+ 
+ 
+. 
+ 
+. 
+ 
+  
+. 
+. 
+ intentionality
+ 
+ 
+ 
+ 
+() 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. () 
+. 
+. 
+. () 
+. 
+. 
+  ,  µ= , θ= ,  = . ,   γ= .               .       ≈  ×  
+, 
+ ≈  ×  
+, 
+ζ ≈ ., κ ≈ .,  ≈ .   ≈ ., β ≈ −2.  β∞ ≈ ..          () ≈ /ζ  . , 
+         :   () ≈ /ζ − µ     .,      ..     ,       :   () ≈ /ζ −   .,      ..    ,  (.)  .,      .. 
+ 
+================
+ . ,                
+µ= , θ= , = ,  γ= . ()          
+            
+      
+ 
+. . . . 
+  
+   
+=   ∝  (µ ≈ .) 
+=  ≈ . 
+()= [] 
+. 
+. 
+. 
+. 
+   ()     ,      experiential_awareness .           ()   . .  ()  
+  . .  ( ), ()  () (     )    . .       possibility_effect. 
+ 
+ 
+ 
+(=) 
+() 
+] 
+ 
+ν 
+ 
+|> 
+ 
+ν 
+[ 
+ν 
+ 
+ 
+()= 
+ν 
+ 
+combining 
+ 
+(=*) 
+ 
+ 
+ 
+ν 
+ 
+ 
+ .    ν()= ν[ − ν|> ν]       
+µ= , θ= , = ,  γ= . 
+      ν()= ν[ −ν|> ν] .   ν      .  ν=        ( )    ,      . ,               ν ;         ν= . ,   generalizing                ,       . ,  ν ,        :   combining  ,     . ,             ,  .  (ﬂ) combining       .           ν ,     
+ 
+================
+  νs  ,      νs. 
+               ,   perception           ;       ÷  , ..,             combining .   belief       . ()         . ,       ,      syllogistic_rules     . ,                   syllogistic_rules. 
+  perception               ()  ()       ,          [] combining   .                 "":    [function]                       . 
+  ν()        ν     .       intentionality (.)   ().            syllogistic_rules    .          .  .    , ,   , ()= ();    ,         ﬁ  .       .     -         -    ﬁ: .     ,  .     .   ,          syllogistic_rules. 
+ .          µ= , θ= , = ,  γ= . 
+ν()= ν[ − ν|> ν] 
+        ()  
+. 
+() 
+. . . . . . .  
+. 
+() 
+. . . . . . .  . () 
+  
+. 
+() 
+. . . . . . . 
+ intentionality 
+. 
+.     
+  ,     belief   -        ﬁ.   ﬁ     ﬁ     ﬁs  , ..,   ﬁs   ﬁ    evaluating (..,         combining   ).  ,      evaluating       ,   ,   ﬁ     ;    ,        loss   .      loss            , impulsive_effect    ﬁ ﬂ,  
+ 
+================
+         .   ,        , ..,    . 
+     belief; , .., ˇ  . ();   . (,).     ﬁ          perceived_vulnerability   ().         perception   . , a_memory         syllogistic_rules         .                ,  ,          .         . 
+,             possibility_effect        .   focus   ,            evaluating (ﬁ ).        behavior    evaluating        process.       intrinsic_rewards       . , ..,  . (),   . (),    . ().   ,      (µ, µ)-to-N(θ, θ)  (          process  = )      ﬁ .  ,            personality                . 
+               () , ,      () ﬂ .     personality        combining    ()        isolation_effect   (ﬂ)                   .  personality             ﬁ ﬂ. 
+     extrinsic_rewards          ( )  ( ://..//).     ﬁ ,         ,      ()     .   ﬁ         /  ,       .       () ,       combining          . 
+               .     ,    ﬂ  ,     belief     .         ,     ﬁ   . ﬁ,  ()    evaluating   [function]  .   evaluating  . .  combining        .        evaluating       (    ),      intelligence ()       (     ).  ()    evaluating   [function]  .   evaluating  ﬁ            combining   .      .           ,  behavior   personality   .            ﬂ , ..,  ﬂ-type      ,     .  ,     ﬁ ﬂ   ,                      . 
+          ﬁ    ﬁ ;   ,  appraisal        ,   appraisal        .   ﬁ        evaluating   .   ,         .   ;       .   ﬁ    .  ., ,       .         :     gain    
+ 
+================
+   
+ . 
+  
+. 
+ 
+. 
+  
+. 
+. 
+. 
+. 
+  
+ 
+. 
+ evaluating (  ) 
+. 
+ evaluating (  ) 
+. 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ () 
+ () 
+()  evaluating. 
+()  evaluating. 
+ .  ﬂ : ﬁ  . 
+      % . ,       .  ﬁ     µ  θ     .   ﬁ            evaluating   ,             σ= µ. 
+      ﬁ     ﬁ                .        .          belief,       ﬁ       .          evaluating     ﬁ.              possibility_effect. 
+−3 . 
+  
+  physical_quality 
+−3   
+. 
+. 
+. 
+  physical_quality 
+ 
+. 
+. 
+. 
+. 
+. 
+. 
+perceived_vulnerability  
+. 
+perceived_vulnerability  
+. 
+. 
+. 
+. 
+ 
+. 
+. 
+. 
+. 
+   
+ 
+ 
+. 
+. 
+. 
+. 
+ 
+ 
+   
+ 
+()  () ﬁ. 
+()  ﬁ. 
+ .  ﬂ :  evaluating     ﬁ. 
+  belief            ()    . ﬁ,      ﬁ     (),     ﬁ   ().        ,   ﬁ        .           ﬁ  ""    . 
+ 
+================
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+−1 
+−1 
+  
+  
+(& ) 
+(& ) 
+−2 
+−2 
+−3 
+−3 
+−4−4 
+−3 
+−2 −1       
+ 
+ 
+−4−4 
+−3 
+−2 
+−1 
+ 
+ 
+ 
+ 
+ 
+   
+()  () ﬁ. 
+()  ﬁ. 
+ .  ﬂ :     evaluating   .  . 
+ ,  generalizing      evaluating        ﬁ.   ﬁ       .    ﬁ   ..      (µ, µ)-to-N(θ, θ)   =         behavior   ﬁ ﬂ   . 
+      .       ,     possibility_effect        .   ,    ﬁ          .      ""      , ..,           evaluating   ﬁ 
+√X˜ 
+ 
+=  × . × 
+ − . 
+. 
++ , 
+    intelligence      evaluating    .            (µ, µ)-to-N(θ, θ)   µ= ., θ=   = ..       .           . 
+                      γ> .   ,  a_memory  ,  γ ﬁ , () ≈ /(ζ) − / − /(ζ)  () ≈ /ζ;   ,  ≈ .,  ≈ .  ζ ≈ .. , , .., γ=  (     personality   ),           .,        ..  ﬁ         :            .,        ..              .       . ﬁ,  ()   behavior        ﬁ       (a_memory         ),   ()        . 
+        ,            .            (  ),           (  ). ,     .            .           physical_quality :            ,     ""          ,             .      ﬁ ,   belief    ﬁ. 
+ 
+================
+ . 
+  
+. 
+  
+. 
+. 
+. 
+. 
+. 
+ evaluating (  ) 
+. 
+. 
+ 
+ 
+ 
+    () 
+ 
+ 
+ 
+ .  ﬂ :  evaluating     . 
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+   
+ 
+   
+ 
+  
+ 
+  ,  
+ 
+ 
+  ,  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ () 
+ () 
+()    () . 
+()    . 
+ .  () ﬂ : . 
+. belief 
+                 µ>    σ   σ= µ  > ,   .       - µ   -        (      ),       .   ,    . 
+,              : , ,    .         
+ 
+================
+              ,      intentionality, γ,      .     ( γ → ∞)       intrinsic_rewards (    ).   belief           "possibility_effect"  . 
+,         , ﬁ           ﬁ.     ﬁ    ﬁs  behavior          σ= µ;                      ,      ﬂ     .              ﬂ .          ,                  .                 . 
+ 
+               ﬁ    ,       ﬁ  ﬁ     ,     perceived_vulnerability      ,                  ,   .        []                . 
+ 
+, . . ().  belief   appraisal,     
+  : . 
+, . . ().  appraisal,     .   : . , .  , . ().   :    ,  
+,  : . 
+ˇ, . ., , ., , . .,  , . . ().   perception    
+           
+,        , ,  ,  , . , ., , . ., , .,  , . . ().  ﬁ     
+personality    ,   appraisal  ﬁ, . . , . . 
+, . . , . ,  . , ., . .  : . 
+, ..  , . ().    belief    ﬁ 
+   ,     : . 
+, . . ().          , 
+      :      , : 
+, :   . 
+, . . ().   -    perception,  :  
+. 
+, .  , . ().        , 
+ ,   , , . 
+ 
+================
+, ., , .,  , . . ().  appraisal,  : . , . . ().  belief   , : . 
+, ., , ., , .,  , . ().       
+ﬁ,             
+ ( ), : ,  , ..  . 
+, . ().        ,     
+: . 
+, . . ().        ,   
+ : . 
+, . ., , . .,  , . . ().   perception   
+      ,   : . , .   , . . ().     ,  : 
+/& . 
+, .  , . . . ().     ,  : 
+. 
+, . . ().   ,  : . 
+, . ().       ,    : . , .  , . . ().      ,  
+  : . 
+, .  , . . ().   belief         
+ process     ,   perceived_vulnerability : . , . .  , . . ().        
+    ,    : . 
+, . .  , . . ().     
+,      perceived_vulnerability,    : 
+://.././. 
+, . ().       ,  : . , . . ().              process, 
+  -  : . 
+, . . ().       , belief  perceived_vulnerability  
+  : . 
+, . ().  :   ﬁ ,  : . , . . ().            
+ constraint,              
+  (),  , . , , :   -ROM, 
+ . 
+, . ., , .,  , . . ().      
+     , belief  perceived_vulnerability    
+ : . 
+, . ., , . ., ˇ, . .,  , . ().      
+      ( ),   : 
+. 
+, . ., , . ., ˇ, . .,  , . ().   perception    
+           
+,      : . 
+, ., , .,  , . ().     ﬁ  physical_quality   
+    ?           
+    (), . ,  , . 
+, . ().   belief   , : . 
+ 
+================

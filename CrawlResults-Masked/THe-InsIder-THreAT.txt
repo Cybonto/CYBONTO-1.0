@@ -1,0 +1,717 @@
+   perception  
+  : 
+ 
+   [policy]    [division] 
+//    (//) 
+   
+()  physical_quality         ,     ()     perception        extrinsic_rewards    vigilance       experiential_awareness          ,  , .                      .      ()         (://. ./) . 
+(//)          Tactics       .      intelligence  ,  Tactics      ,        (), , ,        . 
+(//)  gain,  perceived_vulnerability     fear_arousal   .    ,   perceived_vulnerability,  personality         .       gain  [knowledge]                 [knowledge]   . 
+(//)          perceived_vulnerability    protection_effect   .              perception    "   ,  . 
+" 
+     protection_effect       [policy]    personality  .    , personality ,   ,   . 
+(//)       ,       , .             gain         .       ://../.     ,                protection_effect   ,   . 
+ .  
+,  [division] 
+   [policy]   perceived_responsibility        
+*//    // 
+================
+  ,    ,         
+        ,       .      ,  $,           ;    $,.           perceived_consensus                     .        .    ,                 ,         $,.       ,  
+       , 
+              $,  extrinsic_rewards   
+          process    . 
+perceived_vulnerability  ,        
+          
+         .   ,      
+.          (    ),   ,          $, ,   $  appraisal. 
+    .    
+        
+    behavior_control-ability       .       
+  .   behavior_control-ability,          .   
+    .   ,   loss      $  $ . 
+  .      ,          
+      ,        ,      
+         behavior_control-ability.            
+     ,      . 
+      . 
+  , ,       
+ ,        ,   ,     
+ ,              .           ,              extrinsic_rewards   , .  $,. 
+  %   .     
+       , 
+      , 
+ 
+      .  
+      ,       extrinsic_rewards  .    
+                . 
+  .  motivation   " 
+  ."       
+         
+   .      
+        
+               .   
+ .     ()         intelligence    
+   .          " "     
+      . 
+ .     ,  
+       .   
+ 
+             , perceived_responsibility ,  
+            .        
+   [goal]     ,         
+     .     personality       ,    
+     ,  ,   $,. 
+    ,     
+      .   
+       
+        
+    .       
+.         ,       
+     .   ,   --      loss   
+    ,        .        
+    ,   .         
+       . 
+  .   ,  
+       . 
+      
+ 
+   intrinsic_rewards     
+ 
+         ()    
+     ,     perceived_vulnerability   
+ 
+   . ,         
+     loss       .   
+ 
+     intrinsic_rewards,       ""—someone    
+         [Organization]  . 
+ 
+  perceived_vulnerability 
+ 
+ 
+         
+   
+ 
+  
+   
+ 
+                 perceived_vulnerability       protection_effect    . 
+           comply_effect   : . . 
+================
+        
+  personality     perceived_vulnerability  ,         . 
+/:  "  " perception,        . perceived_vulnerability     perceived_responsibility    .    /  / . 
+              ,  ,     . 
+:                   belief   . 
+   behavior :    ,    . 
+           personality       protection_effect    personality personality         loss   . 
+ :       .
+     
+         intentionality                       intrinsic_rewards    . ,             . 
+   gain    : 
+      , ,    .          . 
+  
+        ,    . 
+      
+        ( 
+     
+ )  ,    
+gain     
+ . 
+   : 
+       
+   :  belief  
+   personality   . 
+extrinsic_rewards   .  
+loss   .  perception       
+      . /: frustration_of_needs     
+wanting     [Organization ].  constraint :      
+ protection_effect      :    perception, 
+,    mental_calculation        , 
+ . 
+frustration_of_needs   ,   . 
+         /:      "" 
+ . 
+   . 
+ :      ,       . 
+/:   combining motivation   ,     [activity ], " combining ." 
+perceived_vulnerability  :  , , . 
+  
+           /      [Organization] : 
+         ;       . 
+fear_arousal     ;           ;      . 
+   ,        ,  ,  ,  . 
+  [experience]           ; ,           . 
+               . 
+      
+        personality  : 
+        ,          . 
+  ,       . 
+       ,  behavior_control-ability,     . 
+         ,   ,   ,    . 
+•       
+   . 
+• protection_effect     
+,   , . •       
+ . 
+•  ,    
+   . 
+•      
+ [activity ]. 
+• protection_effect  (    
+)      . 
+    ;  motivation   ,  ,           . 
+            personality ,  ,   intrinsic_rewards,   .      .       ,   . 
+   (      intelligence )    . 
+  
+physical_quality         . 
+ ;          gain. 
+    ,    ,      . 
+      . 
+   possibility_effect ,  personality belief,                . ,                ,          /   belief,          .       [experience]  combining    .    ,    behavior_control-ability     ,  protection_effect     .  ,        protection_effect     .          personality belief   .           perception        . 
+================
+personality  
+   
+  
+================
+perceived_vulnerability  
+perceived_vulnerability  :  -1 -1
+ 
+      : 
+    : 
+    : 
+  : 
+     : 
+  : 
+  :
+ 
+: /: 
+ #:  . 
+================
+•  
+•  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+
+  
+   personality  
+ 
+
+  
+ 
+ 
+
+  
+
+  
+ personality                ﬁ   ;   , personality   ﬁ()            . 
+ 
+ 
+ 
+ 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+personality    impulsive_effect   . ,               loss  . 
+ 
+ 
+
+  
+
+  
+ personality          ,       ,             personality  . 
+
+  
+ 
+personality      personality   
+•          
+•             
+•      ﬁ,    protection_effect   
+•      ,      protection_effect   
+•    ,     personality  .           ﬂ,             /. 
+        ! 
+ 
+================
+•  
+
+  
+
+  
+     personality      
+
+  
+    possibility_effect      .                  personality  . 
+
+  
+
+  
+ 
+. 
+       ,     .   : 
+•         
+•         
+• behavior_control-ability    
+•   ,   
+• protection_effect        personality    
+•     
+•       ﬁ 
+•        
+•      
+  
+
+  
+
+  
+
+  
+
+  
+ 
+.  
+     , ﬁ       personality     
+ ﬁ . 
+   : 
+•     personality   
+•      ﬁ    (..,  ﬁ      ) 
+•  trap        
+ protection_effect  personality      : •    
+•       
+ 
+================
+•  
+
+  
+
+  
+  personality   : 
+•    
+• Silence_group    /  
+•    source   (.., , ) •     (.., , ) • persistence personality 
+
+  
+
+  
+
+  
+
+  
+ 
+       : 
+• persistence personality 
+•  ,  ,      personality   •    , behavior_control-ability         
+  
+
+  
+
+  
+
+  
+.  [action]   personality  
+   ,         ,   
+ /   personality  : 
+•       / 
+•      
+•  
+•     
+ 
+ 
+================
+•  
+
+  
+
+  
+              personality     . ﬁ             . 
+
+  
+ 
+• ﬁ       () 
+• ﬁ         ,  ,     
+• ﬁ     ﬂ, ,  
+• ﬁ            
+• ﬁ   ,          
+  
+
+  
+
+  
+ 
+      : 
+• persistence personality,   ﬁ  
+•        (.., , ) 
+•      ﬁ 
+•       
+•      ﬁ         •  ,  /  
+•      ﬁ      ,        ﬁ     
+        : 
+•    personality  
+•   ,     
+•    / 
+•         / •   possibility_effect     
+ ﬁ ﬁ            .       ﬁ  perceived_vulnerability       ﬁ.       isolation_effect   .                . 
+          ,                 ,      ﬁ  .   behavior_control-ability          . 
+ 
+================
+•  
+
+  
+     personality   
+
+  
+       personality  ,   perceived_vulnerability [action]  (),    . ,               behavior_control-ability loss  . 
+
+  
+
+  
+ 
+   perceived_vulnerability [action]  ()
+  
+ 
+            ,    (  ),  / ,   ,     / perceived_vulnerability .    :
+  
+
+  
+ 
+•      ﬁ    
+•   [policy]   
+• perceived_vulnerability      (.., ﬂ ,  ) •   ,          
+ 
+•      (.., ,  ,  
+   ) 
+•  perceived_vulnerability ﬁ        perceived_vulnerability : 
+-       
+-    
+-    
+    
+            personality       personality   .       [resource]    . 
+•      
+•       /     : 
+-    
+-   
+-         
+•   
+•      
+•         perceived_vulnerability 
+ 
+================
+•  
+
+  
+      protection_effect  personality   
+
+  
+•  
+- protection_effect          
+-          
+-      ﬁ     
+-   , perceived_vulnerability ,  ,  , 
+       personality      
+
+  
+
+  
+
+  
+
+  
+ 
+•  
+- protection_effect    
+-           
+ 
+  
+ 
+            ,     , .. 
+ 
+================
+•  
+•  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+     personality   
+
+  
+ 
+ 
+ 
+ 
+
+  
+        participant_modeling  planning  perceived_vulnerability ,   personality  . planning  perceived_vulnerability                . 
+
+ 
+  
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+  
+   
+ 
+
+  
+ 
+ 
+ 
+ 
+•        
+•         impulsive_effect behavior 
+•       
+•             personality 
+ ,     [action] planning 
+ 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+•    (.., ,    ) 
+• isolation_effect     / , : 
+-   
+-  
+-       
+•        protection_effect      
+ 
+• combining perceived_vulnerability  : 
+-  
+- ﬂ  
+-  ,   perceived_vulnerability   
+- ﬁ   
+- ﬂ 
+•   ﬂ       perceived_vulnerability  •   perceived_vulnerability ﬁ    perceived_vulnerability   
+ 
+================
+•  
+•  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+     personality   
+
+  
+ 
+ 
+ 
+ 
+
+  
+             perceived_vulnerability .   perceived_vulnerability,       ,    : 
+
+ 
+  
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•   [action] 
+• persistence personality 
+•     
+•              
+ 
+ 
+ 
+ 
+
+ 
+  
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+     /  
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+• protection_effect  ,        
+techniques      /  
+•     ,     
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+================
+•  
+ 
+ possibility_effect  
+  
+ 
+ personality           ,         . personality         impulsive_effect behavior   .               impulsive_effect behavior .
+  
+
+  
+ 
+  possibility_effect     
+     "impulsive_effect,"      impulsive_effect behavior  .     ,       .  impulsive_effect             (      ,          impulsive_effect ): 
+•     /   
+•  gain  ;    
+•    perception     
+• /  
+•       [policy]   
+•      
+•     
+•  , impulsive_effect  
+•        arousal 
+• ;   "   " 
+• behavior     , ("   ") •       
+•       ;    ﬁ 
+ 
+•       
+•      
+• gain     ﬁ,     
+impulsive_effect  
+ 
+================
+•  
+•  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+     personality   
+
+  
+ 
+ 
+ 
+ 
+
+  
+ 
+  personality          perceived_vulnerability,   /   participant_modeling     , : 
+•             ,  
+,     
+  
+
+  
+ 
+•            personality 
+,  ﬁ   
+  
+
+  
+•    []     ,     
+    
+ 
+•   ﬁ          
+[Organization]      personality 
+  
+ 
+  
+   planning   ,     simplifying   personality       [action] .           : 
+•       
+•          
+•           
+•   ﬁ         
+ 
+    , personality  ,    ,  . 
+ &   possibility_effect "personality "    ,    . 
+ ,    (),      , . 
+   ,    , .. 
+       ,    ,     ,  , . 
+ 
+================
+     
+,   
+@. . 
+. . 
+================

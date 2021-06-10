@@ -1,0 +1,159 @@
+   
+     
+ ,  ,  ,  ,  ,  ,   |  
+,    ﬁ        ﬁ  ﬁ vulnerabilities   ,         .   ,    extrinsic_rewards               . 
+ 
+  loss      isolation_effect  .       belief   
+   .  :   impulsive_effect              vulnerabilities   .         ,   , ,          gain           vulnerabilities?        ,   . 
+        vulnerabilities?    , ,        intelligence   simplifying    ,  satisfaction_of_needs      , combining    perceived_vulnerability            , ,       ,         ? ,       . 
+   satisfaction_of_needs     
+      .         ()         personality,         :               ().        ""  . ,         perceived_responsibility                   .             behavior_control-ability.      intrinsic_rewards               ,            .     , judging     
+  ,   vulnerabilities     
+      source .                 , , "" .    ,            ,           ,       ,         .    
+ 
+/          //$. ©   
+================
+     .     ,    . , personality                    opportunity_for_criminal_acts  .       . 
+  opportunity_for_criminal_acts    . 
+        
+.              personality   behavior_control-ability          .    :     .  gain,                ,    opportunity_for_criminal_acts                       .     ()   
+   (  loss ),     comply_effect    ,    participant_modeling      . ,       .                ,    impact       vulnerabilities. ,       .         , ,  .     vulnerabilities   ,     vulnerabilities             . . ,      , 
+              source         ,   .        source,                  .  .                         ,                      .           .           ,    ,                ,                  .   ,       ,          "       .  "     .   
+                    :                .             ,      ,      .                      ,   :                     ,     .      personality      .   .    .  .   segregating  loss      gain,    loss      .      ,    
+         ,                ,     comply_effect      ,         ,   ,           .       perceived_vulnerability              .   "  perceived_vulnerability" ()     ,            intrinsic_rewards      ,         ,    ,        . 
+                      ,    .          ,                 ,   personality    .   personality   perceived_vulnerability.                      .                       personality,             personality           . ,         ,      ,       
+../ 
+ 
+================
+   
+                  .     intrinsic_rewards :  
+, techniques ,     ,        ()          .     ,    ,     .   ,     ,                  behavior. ,  :        
+   ,       
+  / .        
+         
+   appraisal      isolation_effect          ,              intrinsic_rewards   perceived_vulnerability             .       ,  appraisal    .      + 
+ 
+     ,    
+
+         
+      ,         ,     .  source ,         (  ).        
+        combining      .     task     . ,  combining       combining          isolation_effect       .          
+    .                                 ,         .         .    ,   ,                              personality    . 
+intelligence    behavior  . 
+      intelligence source      intrinsic_rewards 
+    (       intrinsic_rewards    (    ).       ).   ,            (),     .    . ,             ,        .           
+             . .    ,        process,          ,      :      ,      combining.          .                .  protection_effect  ,       ,                       . ,                    ,   combining    .        ,   ,   ,      personality    .                    ,              .   . 
+           techniques         ,     personality.   ()    .                            . ,  ,        .         ,           .        .            
+  &  
+/  
+================
+intelligence      
+:  , [++] : combining   [],  :  ,   [+] :  ,  
+:   
+:   
+:  
+:  ,   [+] :  ,  
+:   
+:  , [++] : combining   [],  :  [+]  ... 
+... 
+:  ,   [+] :  ,  
+:   
+:  , [++] : combining   [],  :  [+]  ... 
+... 
+:   
+ .   ()    () intrinsic_rewards.           ,          .     ,      ;   ﬂ        . 
+,        
+                .     symbolic_modeling,      behavior            "  ."       .      personality              ,        ,            ,    gain      .         
+ [function]    .    ,                                    .       []. 
+   loss generalizing  behavior_control-ability         ,         .            perceived_vulnerability             . ,           ,         .            .        loss ,                    ,    [circumstances ],   .      ,           .      .    
+    ,        ()                ,             .        .        vulnerabilities     situational_circumstance ,                            ,            .  ""       combining            .  .                    judging     ,  ,            perceived_vulnerability.          
+        .       ,       Fuzzing       .        intrinsic_rewards.         ,     process  .        . 
+../ 
+ 
+================
+   
+           .      intrinsic_rewards     ,                 [capability]  process  .  "        .  judging   "      ;         ,                       .           .               techniques  ,    ,    combining               .  ;         ,                  .  ,    .      
+   ,      ,               , Fuzzing,  Fuzzing   . 
+    Fuzzing   . 
+impulsive_effect   
+Fuzzing   ,     .   Fuzzing       source  impulsive_effect   ()       (; ://.     (     ./).       intelligence,       ),         appraisal  ,            . ,     .   ,           Fuzzing.     intrinsic_rewards.      
+      source                ,    intrinsic_rewards    []   ,     .   techniques              :          (      personality ).                  .   techniques              ,     combining    .     ,  .  ,           .  gain,                     .     gain     ,             ,     belief         .     .  gain,     ,                        . 
+      ,             Fuzzing.   ,  Fuzzing     appraisal    .        impact.       ,                    .     ,         ,  intentionality     ,         .      ,   (  )              .          
+      , Fuzzing            .             . 
+     ,      
+               .      . ,        :              ?    ?        ;        ,    ?   segregating             ? 
+    .     ,     loss  satisfaction_of_needs    Fuzzing         (   personality .             ).  . ,      
+          ,          ,  (  )      
+  &  
+/  
+================
+     participant_modeling.  ,    process      .       ,    loss      ,        $,.           loss  
+.                          ,     .  techniques  ,                   . comply_effect             ,               "     .                 ,        possibility_effect ."    .          ,     .                     .          ,    ,        ,       ,        . .  gain,     , 
+ gain               ,               perceived_vulnerability    .       .        ,        ,       personality      .    intrinsic_rewards             ,     ,          ,            .           , ,      segregating  .   ,     appraisal     . 
+               ,        experiential_awareness            .          .               ,                         .        , ,   behavior,                .    ,    ,                  .           
+            .      ,         .     ,   segregating,  ""        situational_circumstance      .         [],             personality       appraisal -   ,      , .      perceived_vulnerability appraisal             personality                 .        perceived_vulnerability .          appraisal    appraisal. ,  ,                 intelligence       . impulsive_effect   .  ,                   certainty_effect         ,        ""           (   ),      mental_calculation    ,        perceived_vulnerability.            personality          ,    (               .  ).       
+   ,          .              .          perceived_vulnerability   ,   .          
+../ 
+ 
+================
+   
+,            
+       .   
+    appraisal   perceived_vulnerability          .     ,               .       .           ,     perceived_vulnerability           persistence       ,           . 
+.                      experiential_awareness    ,  ,           ,              personality      ,    (         experiential_awareness     personality  ). ,             loss     persistence .        ,   mental_calculation  .           
+,   intentionality         . ,              ,       .        . 
+ gain       
+appraisal   ,    appraisal    ,                        ,       impact  ( ,            ,            certainty_effect . ,       persistence  participant_modeling    ).   belief     .   ,         live_modeling impulsive_effect          ,   . ,     (:// 
+,  experiential_awareness     .//). 
+  "personality ."         ,   process             impulsive_effect             .         behavior_control-ability  .       intrinsic_rewards : personality ,     ,  "" ,  . 
+                .     ,              ,        .        protection_effect gain.   
+                 .                      . 
+  .          ,    ,    participant_modeling,                 ,    .  ,      ,                  personality   - .                .  .  ,    
+   [function]    [function ].      gain,       ,      -                .  ,       .      [function]        ,          . ,        , ,            ,    . 
+,      .          
+,     behavior_control-ability         .       .  ,                         ,   .      ,    .       .      ,   . 
+  &  
+/  
+================
+  ,     .  ,      combining  ,        satisfaction_of_needs               loss :  .     /       .      live_modeling      ,           comply_effect    ,             participant_modeling, protection_effect -  .               .           .      personality,   , 
+             .     protection_effect       ,         behavior_control-ability  perceived_vulnerability.         ,              . intrinsic_rewards        ,            .        ,          behavior_control-ability .    personality       .         
+       .   ,        ,    , ,       generalizing,  ,        .     ,    .    ,          ,       loss;                ,          .           intrinsic_rewards.    .     ,                     ,                       .  intrinsic_rewards        .  , ,     ,       .        
+       ,                .  ,     .    , , ,           . 
+     personality personality  
+     . 
+
+  ,  
+   ,                ,              ,      . ,      .       behavior .    ,    isolation_effect        ,   :    ,     segregating      ,  . 
+              . ,     .  ,      possibility_effect .         personality 
+   intrinsic_rewards                .      :    .  [goal]                .         .  ,    ,     ,   ,           judging           .    ,                    perceived_vulnerability      .   .   ,      , ,          personality    (  )      .                .   intrinsic_rewards  ,         perceived_vulnerability,       personality         .    loss   possibility_effect ,   .              ,     .  ,            
+../ 
+ 
+================
+   
+ .        segregating   .   , ,    (belief       )        ,                       personality  .    protection_effect    
+,    mental_calculation     . 
+   .    
+        ,   
+          . . , " . :                ,"     Fuzzing   ,       , . 
+        . .   ., " :  Fuzzing  . ,        ,"        . ,       ( ), .      (      . .. , . ,  . , "   )  .    personality       personality          ,      (              ),"                  . , .
+ . ..   ., "    ,"               , ,    intrinsic_rewards  ,     . . 
+          . .   ., "    .       loss     ," , . 
+      .  . "  ," , ., ;          ..//.. ,         (  . .-xxx.   ., ":     ).             personality ,"    .       ,             ,     mental_calculation   , . 
+     []   .    . . , ",     personality ,"       :   judging      , .          
+ ,       .       . 
+  ,          @.. 
+        
+ ,                    .                      personality  .   @.. ;      . 
+  ,                 .       . ,  self-efficacy  @.. 
+           
+  .       .   
+@.. 
+ 
+     belief   
+        .                 [goal]         ,     .             ,            personality     
+       .   @.. 
+          .   @ .. 
+       .   @.. 
+  &  
+/  
+================

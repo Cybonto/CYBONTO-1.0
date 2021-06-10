@@ -1,0 +1,264 @@
+  mastery_experience  [capability] 
+  
+ ,  ,  ,  .  
+      
+[]       
+, ,  
+: {, , , }@.. 
+        ,  ﬁ           .            ()        protection_effect  [activity ].   ,       techniques     perception             .             [capability]   ()         .  perception     appraisal      combining         .                     .  process       process    . 
+: [capability]  ,  perceived_vulnerability,  perception. 
+.  
+      []  personality    belief      intelligence  () .      , ﬁ        protection_effect  ,       Privilege_Abuse   .             ( )   ,   ,        . [modeling]             ,    , perceived_vulnerability ,      /.               [modeling]   appraisal -  ,      .        perceived_vulnerability         perceived_vulnerability           .    perceived_vulnerability  perception   techniques  combining     ,    ,   combining       perceived_vulnerability      . 
+  ,      [capability]   () []      []  
+ perception  mastery_experience      Privilege_Abuse            .     perception     gain       process    .  perception       personality             .          :         perceived_vulnerability     ,         process    intelligence process     personality   perceived_vulnerability.  perception   perceived_vulnerability  perception     ,         .            . 
+. [modeling]  perceived_vulnerability 
+  ,  ﬁ        ,         [capability]   (). ,      perception,   . 
+..     perceived_vulnerability 
+ perceived_vulnerability         ﬁ       [].   perceived_vulnerability     ﬁ          loss.     [] ﬁ    "  ,  ,  [knowledge]     ."    ﬁ   perceived_vulnerability   " (  )          personality    ."             Masquerading  , Privilege_Abuse       .     ﬁ      ,        ,           .     Privilege_Abuse  : 
+•  :       
+        
+      . 
+================
+•    :     
+           
+  /  [function ],     
+. 
+•     :   
+    ﬁ /   perception 
+         
+   (..,      
+     ).  perceived_vulnerability          .    ﬁ         perceived_vulnerability, . Privilege_Abuse .                   ﬁ      .   ,     ,      perceived_vulnerability   .  belief     ﬁ      [] - "             [action]            [policy]     .        [action]   ,  intentionality    ." 
+.. [capability]   () 
+  perception  [modeling]   perceived_vulnerability        []  [].  [capability]   ()                           ﬂ       (       [], []).     ﬂ: 
+ﬁ :  [capability]        : 
+= (, , , , , π, δ) ()            , ﬁ,  .      ;              .                .              ;             .                 .  [function] π :  →     , ..,        .  [function] δ :  →  ×  ×     ,     (    ).        isolation_effect        .              ([knowledge] ).    ,     , (, )= (, , ),      .           [knowledge ],    loss       loss  .   
+′ 
+      ,   loss       /∈  
+′ 
+  
+ loss  (, )    ∈  
+′.  loss        (, ,..., )   combining              .  possibility_effect belief   behavior      behavior_control-ability  loss  satisfaction_of_needs        .                  .     ,      ﬁ                    . 
+ﬁ            perceived_vulnerability,           [Organization]  .             ﬁ -          [function]      . ,      loss         [].  ,         () 
+ δ  δ=  
+ 
+  
+ 
+ 
+  < /. , ﬁ   loss    ﬁ       = . 
+ personality  perception         combining    [], []. ,        [goal] ,      certainty_effect        . ,  personality  perception        combining        .        (..,       ). 
+..      () 
+   ,          ,     .          vulnerabilities      ,         loss     .         , , ﬁ,      , , ,   .      ,  ,  , vulnerabilities   ﬁ ( "").      ,   ,      ,   ,  perceived_vulnerability ,    .   (   )            .             [resource]     ,   ﬁ  [resource]   ﬁ,  vulnerabilities    ,     [resource]      ,  ,    .     ,  (   )      .        ,     ,       loss  ,   loss    .   
+================
+""      ,      loss  .             ,             .   combining  loss                       .       , vulnerabilities      ;          vulnerabilities.     perceived_vulnerability        (..,  ). ,          (..,   )   ﬁ  (.., )       ﬁ    . 
+       impulsive_effect    (   )    simplifying     ,    .   ,     participant_modeling       (.., combining /isolation_effect ,     ).               .           [].    ()        ,     ﬁ     . 
+    ,  , ..,,  ( )    intrinsic_rewards,     ﬁ      source       mental_calculation   . ,    source   ,     combining     belief  .  isolation_effect         ﬁ  perceived_vulnerability appraisal.  ﬁ       loss     combining   loss            .   techniques   participant_modeling                 protection_effect     .  loss   ﬁ     . 
+.  perceived_vulnerability    process 
+ 
+  ,           ﬁ  process    combining          perceived_vulnerability      .    focus,  mental_calculation  intelligence  process (  [])      .  process       : 
+• :         
+    .     possibility_effect  
+ perceived_vulnerability,  vulnerabilities    
+  ﬁ. 
+• Collection :  process   Collection   
+.   perceived_vulnerability possibility_effect      
+        
+ (). 
+•   :  
+/ﬁ     . 
+•   :    process  
+   [knowledge]   
+  [knowledge]       
+ .        
+     possibility_effect  
+  [activity ]. 
+• :      
+     (). 
+         
+     .  
+possibility_effect         
+ . 
+• :        
+  . Vulnerabilities   ﬁ, 
+  .  possibility_effect    perceived_vulnerability  
+   . 
+  perception     perceived_vulnerability   process       [activity]       [activity ].  ,     ﬁ              []: 
+• :  ,  , , 
+opportunity_for_criminal_acts ,  ,   
+,  ,  ,  
+ , /situational_circumstance  . ( 
+     ,   
+ 
+• : /ﬁ ,  , 
+ ,   
+•   : ,  
+ ,  /,  ,  
+  ,   ,  
+ /,   ,   
+/  
+•   ﬁ: /,  
+ﬁ ,  ,  
+,  , ,  , 
+ ﬁ/ 
+• :   ,  
+ ,  ,   , 
+,   
+• :   ,  
+ ﬁ,  ﬁ,   
+ - ,   
+•  intelligence :  ﬁ , frustration_of_needs 
+ ,   ﬁ,  ,   
+ﬁ,   ,  ,   
+,   
+•  : ,  
+    ﬁ     [activity]         perceived_vulnerability    [activity ].   
+================
+. .  . 
+. .     . 
+      ﬁ   ﬁ,   /       [action]   . 
+.. personality  :   
+ focus          judging              ,    ﬁ               .          physical_quality   process  ,     . 
+•  :   :  
+:  - ﬁ,  - 
+ 
+:  [action ], ﬁ 
+:        
+        
+  ﬁ  ( ﬁ).  
+     (     
+ﬁ    ,     
+   ). 
+•  :   : ,  
+:  - ﬁ, , 
+ -  
+================
+:  [action ], ﬁ 
+:  ﬁ     
+  .    / ( 
+     ,    
+      ﬁ 
+.      [function ], 
+        
+ (        
+  , ,    ).  
+    : 
+-     /   - 
+ﬁ        
+;  ,   ,    
+     . 
+-         
+     [function ]. 
+         
+   . 
+•  :   :  
+:  - ﬁ,  
+: ﬁ 
+:        
+ (,        
+   ,   process   
+    )   
+        (  
+  , ,       
+. 
+                  ,           (..,  )   ﬁ   .  [activity]             ,     gain      ,       ,             .               .  ,    intelligence        ,        .    gain    personality             ,              gain  possibility_effect.  perception          techniques  . 
+.       
+ 
+ perception   perceived_vulnerability      belief  mental_calculation  intentionality.  appraisal            loss     "".   [activity]               
+             .    techniques   . 
+           .       participant_modeling      []    -     protection_effect   ""    .  (..,       )       [activity]          []    -   loss      ""               . ,      ,   [activity]          ﬁ     personality . 
+..     
+  [activity]    ""          [activity ].             -     [],  [], ﬁ-integrity     []      []      ﬁ-grained    [activity]   ""   personality . 
+      [activity] ,  ,    possibility_effect.           ( ,       ""     )            . ,          [],            perception.   ,    perception    ,      .   ﬁ            .              ﬁ .                  .      ""         .    focus     [activity]    mental_calculation     .           appraisal      : 
+•  source()   ,     
+           
+ ,       
+. 
+•          
+ﬁ        
+  -  ,    
+         
+ . 
+================
+. .   [capability]           
+•  ,   [activity]   
+   intentionality,      
+judging       . ,           (    )       ,     (      loss ,    opportunity_for_criminal_acts    ?).         perceived_vulnerability      . 
+..  [modeling] :    
+mental_calculation         ﬁ       ﬁ     .                 [goal]       .   ,        (  ). 
+   ( ),   ﬁ .            .      ﬁ    "".             . 
+   ( ),   ﬁ      .  ﬁ.   ﬁ .  ﬁ. ﬁ     ""  ""   .    
+           ,     []   .   [],              "" . 
+   ( ),       ﬁ.    ﬁ extrinsic_rewards .    . ,          . ,    [action]     (   ),       []      ""        .           ,         personality  [], []   personality .    ﬁ      (   ﬁ )       .         ( ),           [].    personality      simplifying         (..,     ).          []  [].     personality       perception          . 
+.     
+ [modeling]              [], [].    
+================
+. .   -   
+. .   -   
+   ﬁ       ;               .      [],           [].   ,  ,  personality   ﬂ         ""   ﬁ   .         [function]    [],    personality         personality . 
+   perceived_vulnerability          .     perception  [modeling]   perceived_vulnerability    [].     ()   perceived_vulnerability 
+             []. ﬁ          ﬁ       focus     [].      perceived_vulnerability   judging  behavior    []    perception      intelligence     [].        .     perceived_vulnerability     [].  perception     ,       ,    (.., , )   . ,  perception  combining      . 
+================
+. .   -   
+. belief 
+  ,     perception   perceived_vulnerability               .          ,  personality             protection_effect       .     ,  ,      appraisal,  participant_modeling  appraisal   .   perception               opportunity_for_criminal_acts   possibility_effect .           ,  combining             gain,     ,                   perception.                           personality . 
+ 
+[] . .   . , "personality   perceived_vulnerability : 
+     ,"    
+ , . 
+[] . , . , . . ,  . , "  belief 
+  perceived_vulnerability appraisal,"       
+      ( , , 
+). , . 
+[]  ,  ,  ,  ,  
+    ,  perceived_vulnerability    
+  [modeling ]. .   .  (.),  
+   , , , . 
+[] . , "   ,"   :  
+       .  , , 
+:  , , . . 
+[] ——, "  ,"   :     
+    .  , , :  
+, , . . 
+[] . , . , . , . ,  . . , " 
+     ,"  .   
+   , , .,  . []. : 
+://...//..////. [] . , . ,  . , "     
+ ,"        
+(),  ,  , , , . . [] . , . , . , . ,  . , "   
+     ,"    
+, . , . , . , . 
+[] "    - ://..." []. 
+: ://.. 
+[] .   . , "      ,  
+," . 
+[] " ﬁ-integrity  - ://. ./." 
+[]. : ://..// 
+[] . , . ,  . . , " 
+    perceived_vulnerability     ,"  
+, , . . 
+[] . . , . . , . . ,  . . , 
+"[modeling]     perceived_vulnerability vulnerabilities,"   : 
+       .  
+ , , . . 
+[] . , "    perceived_vulnerability ,"  , 
+ , , ,  intelligence ()  
+       .   
+,  .    ,  , .  
+()., .        
+ () , . . , ., . , . 
+, . . 
+[] . Rocke  . , "      
+ ,   ,"    
+ , . , . , . , . 
+[] ,  . .; ,  .; , .; ,˜ 
+; , ; , ;  , , 
+" :       ,"   
+   intelligence , . 
+[] . , . , . , . ,  . . 
+, "  perception       
+ perceived_vulnerability."  , .     , . . 
+, . , . , . . , .-xxx. , . ,  
+. . , ., . . , , . . [] . . .   . . .  , "   
+ perceived_vulnerability :      ," 
+://...//, ,    
+,  . 
+================

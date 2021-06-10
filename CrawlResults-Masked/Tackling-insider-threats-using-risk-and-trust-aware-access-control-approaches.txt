@@ -1,0 +1,4781 @@
+   
+    
+  
+ 
+  
+learning   ,    ,  
+   ,    ,  
+   ,    ,  
+      
+        
+       
+  syllogistic_rules 
+   
+ 
+================
+   
+    
+    
+ 
+  
+    
+ ,  
+   
+..  ,    ,    
+..  ,    ,    
+..  ,    ,    
+..  ,     ,  
+ : ..  ,    ,   
+ 
+ 
+================
+   
+      
+ ,  
+  ,  
+           .   
+       participant_modeling     [Organization]  
+   intrinsic_rewards,  loss  [Organization]      , 
+     [Organization]  .     impact 
+    [Organization ],  ,         
+.       task.      
+ participant_modeling  ; ,           
+  . ,           
+            . 
+  ,  techniques   . 
+            
+      behavior        
+ process.        perceived_vulnerability   
+   .     ,     
+        perceived_vulnerability  perception  
+  perceived_vulnerability [exposure]    .       
+  perceived_vulnerability            
+ opportunity_for_criminal_acts  .      ,    
+ intrinsic_rewards  .       
+ perceived_responsibility           
+ 
+================
+     possibility_effect  .      
+  gain       .     
+             . 
+   ,     perceived_vulnerability    perception   
+physical_quality     .       
+            . 
+ 
+================
+   
+.........................................  
+. .................................  
+.      ..............  
+.     .......................  
+.    ............................  
+. ...................................  
+.  [Organization ].............................  
+.    .................  
+.  ..................................  
+. perceived_vulnerability ........................................  
+. intrinsic_rewards .......................................  
+.     .................  
+..   ,    .......  
+..       perceived_vulnerability  intrinsic_rewards ........  
+.   ........................  
+..    .......................  
+.   ............................  
+.   ................  
+.   perceived_vulnerability   ..............  
+.. ...............................  
+.. ...............................  
+ 
+================
+.    simplifying perceived_vulnerability [exposure]     
+........................................  
+.. ...............................  
+.. ...............................  
+.   perceived_vulnerability    ........  
+..  ...............................  
+..  ..............................  
+.. ...............................  
+.. ...............................  
+.   perceived_vulnerability   ...  
+. ...................................  
+..   ().......................  
+.   ............................  
+..    ........................  
+. perceived_vulnerability  intrinsic_rewards ............................  
+.. perceived_vulnerability   ....................  
+.. perceived_vulnerability   role ......................  
+... belief perceived_vulnerability  arousal history ............  
+...   role  perceived_vulnerability ..................  
+.. intrinsic_rewards    role ...............  
+.. intrinsic_rewards  ...............................  
+.   perceived_vulnerability [exposure ].........................  
+..   role arousal ..................  
+.. role arousal ........................  
+...      ..............  
+. belief perceived_vulnerability   .................  
+..   .......................  
+..  personality belief .....................  
+...   behavior  combining personality belief .  
+...    belief ...............  
+ 
+================
+..  personality belief ...................  
+.  .............................  
+.  ................................  
+.    simplifying perceived_vulnerability  
+    .................  
+.        ?..............  
+.  ...............................  
+..    ........................  
+..  perceived_responsibility ..................  
+. intrinsic_rewards ................................  
+.. intrinsic_rewards ............................  
+.  .............................  
+..  ...........................  
+.. process     .................  
+. appraisal ....................................  
+.  ................................  
+.        
+ ..................................  
+.     ......................  
+.     ........................  
+.    ..........................  
+..  ...........................  
+..  ............................  
+..  ..........................  
+..   .......................  
+..  [policy ]............................  
+.. role arousal ..............................  
+.  perceived_vulnerability ............................  
+.  .............................  
+. experiential_awareness appraisal .............................  
+ 
+================
+..  .............................  
+...       ..........  
+...   [policy ],    ........  
+..   ............................  
+..    ......................  
+.  ................................  
+. ,    ........  
+..    .......................  
+.        
+....................................  
+ 
+================
+   
+            
+........................................  
+     [policy]      
+......................................  
+     ()........................  
+    ....................  
+ [function]   .........................  
+       ................  
+   .           
+   ..............................  
+ 
+================
+   
+      ...................  
+     ......................  
+   .........................  
+ [policy]   ................................  
+   ..........................  
+  personality belief .........................  
+ belief  .............................  
+          .  
+          .  
+ perceived_vulnerability [exposure]    (. perceived_vulnerability)    perceived_vulnerability   
+ role arousal  (. .  )      
+ ........................................  
+     perceived_responsibility .............  
+      ........................  
+      intrinsic_rewards ( )      
+    ...........................  
+      ..................  
+   intrinsic_rewards        , 
+= :, = :, = : = :..................  
+ intrinsic_rewards   :  := :, = :  = :  
+ := :, = :  = :....................  
+ 
+================
+      intrinsic_rewards   ..  := :, 
+= :, = : = :..........................  
+ .        ......  
+      ...................  
+         ( ). 
+   perceived_vulnerability ...........................  
+     .......................  
+          ........  
+    appraisal , ",   belief techniques     
+    ...........................  
+     [policy]  .....................  
+ 
+================
+ 
+              
+extrinsic_rewards   .            
+      . 
+,          ,   protection_effect  
+  .. .         , ..  
+, ..    ..  ,     
+ protection_effect   .            . 
+      ..      [knowledge]    
+     belief,      .  
+              
+   .        ,  ..  
+,               .  
+              ..  
+    intrinsic_rewards.       ,  
+,  ,  ,  ,  ,  ,  
+,  ,  ,     .       
+               
+     .        ,   , 
+             perception  
+         . 
+      ,  .     
+ ,             . 
+ ,         !    !  
+ 
+================
+  ,         .       
+ protection_effect.          ,   certainty_effect 
+ ,     imagination ,    persistence      
+     , ! 
+           extrinsic_rewards . 
+ 
+================
+.  
+          perceived_vulnerability.    personality  ,   personality intelligence,            ,      personality    .             , ,     ". 
+ perceived_vulnerability   (),   []. 
+                
+participant_modeling  .   fear_arousal,        
+           history []. ,  
+    ,   appraisal  ,   
+      ( ).      loss 
+                 
+ perceived_vulnerability. 
+       .      
+   personality .     []   ,  
+   %   combining     []. , %  
+            
+   %            
+       .      perceived_responsibility 
+      .       
+ ,    ,  impact   , loss  
+,  .     [],       
+           ,  %   
+    impact    ,  % learning  
+ 
+================
+ impact   . ,     , %   
+       .   
+     intelligence  intrinsic_rewards  .   ,     
+          . 
+     loss    task.    
+ ,            
+[knowledge]         . ,   
+       . ,   
+          participant_modeling   , 
+            
+ . ,   ,       
+    ,  . 
+       segregating      combining  
+  [].  ,      segregating    
+                
+      .      
+      , loss   ,   
+    ,    ,   
+  ,         [].     
+,       : frustration_of_needs,  perception 
+ ,      []. 
+           , 
+    [],    [, ]      
+   loss     [, , , ,  ].     
+              
+          task      
+,    perceived_responsibility           
+  intrinsic_rewards [].         ,    
+  .  ,         
+() [],   [],   [],  ,  
+ 
+================
+combining  ,          behavior.  
+ ,             ,  
+  {  ,          ,     
+ ,    behavior      !   
+             
+  participant_modeling     . ,    
+,   participant_modeling . ,      ,   
+       . ,      
+ behavior        . 
+             
+         protection_effect  .    personality 
+,  behavior      .    behavior  
+        ,  intrinsic_rewards       
+ .       ,          
+.   intrinsic_rewards        [resource]    
+[resource]      possibility_effect perceived_vulnerability   [resource]  . 
+.       
+         personality   
+, .., [, , ,  ].         .  
+intrinsic_rewards         behavior  .  intrinsic_rewards    
+            [Organization ]. , 
+         techniques  .  
+combining           techniques   
+   
+           perceived_vulnerability [exposure]    
+  process. , perceived_vulnerability  intrinsic_rewards    [], 
+   perceived_vulnerability   []       
+ 
+================
+         .     perceived_vulnerability  
+,              
+,         perceived_vulnerability      
+ ,      perceived_vulnerability [exposure]       
+     .         
+               
+    intrinsic_rewards .           
+ perceived_vulnerability [exposure]    .
+            
+  [policy]    perceived_vulnerability [exposure]     
+,          .  .  
+[]         behavior_control-ability  perceived_vulnerability [exposure]  . 
+,      ,       intelligence  intrinsic_rewards   
+ . ,        []; , 
+     .    ,      
+   behavior_control-ability   perceived_vulnerability [exposure]       
+.
+               
+  syllogistic_rules  .         simplifying 
+  ,    [policy]  .., [, , , , 
+, ,  ]. ,      judging    
+  .   ,        
+ .  ,    protection_effect        
+[policy]    perceived_vulnerability    .      
+ .
+              
+       perception        
+  .        intrinsic_rewards  
+simplifying  (.., [, , ,  ]),        focus   
+      . ,   
+ 
+================
+    syllogistic_rules          
+       .     
+     perceived_vulnerability [exposure]         
+   judging   .  perceived_vulnerability     
+   process  protection_effect  . 
+    combining          
+ [policy] [, ,  ]. ,         
+  behavior      protection_effect   .   
+    personality          
+           . , 
+         perceived_vulnerability   
+ .
+           perceived_vulnerability  
+[],              
+   persistence   . ,      
+  [, ,  ]. ,    combining      
+. 
+    ,   ,       . 
+.      
+ belief   focus           
+                
+ behavior     .  ,     
+          belief    
+, perceived_responsibility ,   ,  , 
+          perceived_vulnerability [exposure]  
+      .     perceived_vulnerability  
+intrinsic_rewards  combining         
+ 
+================
+  perceived_vulnerability     () 
+•   
+•  
+•    •  [policy]  •   
+•     
+  perceived_vulnerability   
+ 
+perceived_responsibility -based   simplifying perceived_vulnerability [exposure]   
+  
+• • 
+• 
+  
+belief    
+belief [policy]  
+•     
+ 
+•   perceived_responsibility 
+[policy] 
+ :      . 
+   process             
+   .           
+  participant_modeling perceived_vulnerability        personality  
+   ,      . 
+   belief,         . 
+              .  
+         .      
+         . 
+.   perceived_vulnerability    
+       perceived_vulnerability      
+.  focus             
+     possibility_effect perception     ,   
+  [,  ].        perceived_vulnerability   
+ 
+================
+     combining    behavior      
+     .      
+   perceived_vulnerability     perceived_vulnerability  
+   . 
+      techniques        
+:            
+?        perceived_vulnerability    ?   
+     behavior_control-ability   perceived_vulnerability [exposure]   
+    [policy ]?         
+perceived_vulnerability [exposure]   belief   ? 
+.     simplifying perceived_vulnerability [exposure]     
+           
+  .         
+ perception  participant_modeling       
+[,  ],  ,      [],    
+[]     [].        
+combining   .   perceived_responsibility   [action]    
+    .      ,     
+         ,      
+  . 
+    simplifying  perceived_vulnerability [exposure]     . , 
+       :   simplifying  perceived_vulnerability [exposure] 
+       ?      perceived_vulnerability - 
+      simplifying  perceived_vulnerability?     
+                 
+    ?      personality    
+         ?         
+  combining [policy]    ? 
+ ,        perceived_responsibility ,                ,       $,  ,      $.  [] 
+ 
+================
+           .  
+       perceived_vulnerability     
+         perceived_vulnerability  . 
+.    perceived_vulnerability     () 
+     gain        
+    .        
+           process.  
+         protection_effect    
+,  ,  ,       
+              
+     possibility_effect  . 
+     techniques       :  
+          ?  [policy] 
+       ?    
+       ?     perceived_vulnerability 
+        ?    
+ behavior      ?  ,   intrinsic_rewards 
+ ? 
+   ,       perceived_responsibility - 
+ ,          . 
+              
+   perceived_responsibility,     .  focus   
+      perception    impulsive_effect   perceived_vulnerability  
+     .  perceived_responsibility      
+  perceived_vulnerability        .   
+perception     combining          
+  .         
+         . ,    
+             
+   .          
+ 
+================
+   participant_modeling  perceived_vulnerability        
+ . 
+  , ,             
+            
+   .       [policy]    
+         [capability]     
+.      combining      
+ .   ,            
+             
+.  ,           
+     behavior_control-ability  perceived_vulnerability    . ,  
+         .       
+[policy]           .  personality  
+[policy] constraint      ; ,     
+   intrinsic_rewards      .  
+,  intrinsic_rewards            
+   behavior         [policy ].  
+          perceived_vulnerability    
+              
+ . ,           
+. 
+  :         
+    .         
+,  ,   intrinsic_rewards ,    .  perceived_vulnerability - 
+            
+   perceived_vulnerability [exposure ].  participant_modeling  task ,     
+             .   
+   ,   intrinsic_rewards .       
+          ,     
+ 
+================
+   
+    
+ 
+ 
+ 
+perceived_vulnerability  
+ 
+perceived_responsibility    
+,   intrinsic_rewards  
+ 
+ 
+intrinsic_rewards  
+ 
+ 
+  
+perceived_responsibility [policy] 
+  
+ 
+  
+ . 
+belief perceived_vulnerability  
+ 
+ 
+intrinsic_rewards  
+ &   
+perceived_responsibility 
+[]  
+  
+ 
+  
+:= [policy]   := [policy]   := [policy]   
+ :     . 
+ 
+================
+       combining         . 
+  ,            .  
+intrinsic_rewards               
+    behavior.      ,   intrinsic_rewards  
+    intrinsic_rewards      , . 
+        .  [policy]  
+  ()    ,       [policy] 
+  ()         [policy]    
+[policy]   ().   ,         
+ ,      perceived_vulnerability [exposure]       . 
+      perceived_vulnerability ,        
+.     ,         
+    .      protection_effect   perceived_vulnerability [exposure] 
+  . ,          
+perceived_vulnerability [exposure ].          .  
+            [policy] 
+   
+.     
+  ,     .       
+    ,     .        
+   ,  ,   gain   vulnerabilities,   
+     .  focus        behavior 
+      .     Collection   
+,             
+       . 
+ 
+================
+.  
+    ,    .     
+   .   ,        :
+           perceived_vulnerability  
+,    perceived_vulnerability [exposure]   belief    
+.           behavior_control-ability 
+ perceived_vulnerability [exposure]   [Organization]        , 
+      . ,      combining 
+    [policy]     belief .
+          perceived_vulnerability [exposure]  
+  .      [knowledge ],     
+     personality.            
+   {  {     
+    .     intrinsic_rewards    
+              .   
+     combining  [policy]   
+ .
+             mental_calculation   
+             
+ perceived_vulnerability .          
+  . ,    perceived_vulnerability  intrinsic_rewards  
+   .      [knowledge ],     
+  simplifying            
+   .    ,      
+perceived_vulnerability     ()       
+    behavior  combining      
+ process.           
+ ,             
+. 
+ 
+================
+.  [Organization] 
+        .   ,    
+   .   ,        
+                . 
+            .  
+ ,      perceived_vulnerability   . ,  
+       .       
+  perceived_vulnerability    . ,   ,   
+    . 
+          [ ,  ].   
+      [ ].         
+     []. 
+ 
+================
+.     
+  ,            . 
+        ( . ). ,   perceived_vulnerability 
+ intrinsic_rewards        ( .  . ).  ,  
+        perceived_vulnerability  intrinsic_rewards ( . ). ,  
+  []         ( . ). , 
+          ( 
+.). 
+.   
+           [] 
+    . 
+.   :         
+        [Organization]       
+            
+   [Organization ].          
+ certainty_effect   intrinsic_rewards (..,  personality )    
+   loss  [Organization] (..,   ).  [,  ],  
+   . 
+[modeling]          
+          .      , Organization 
+ 
+================
+   , gain    frustration_of_needs, simplifying  intrinsic_rewards   
+[Organization]     ,    .    
+   []     combining  .     
+            .  , 
+       ,     . 
+ ,   role  ,          behavior 
+    behavior      participant_modeling   role [,  ].  
+          behavior   
+   behavior  [],     [],  , 
+.., ([, ,  ]).     perceived_vulnerability      [].   
+    ,         
+[, ]   . 
+        gain   
+ . ,       task.    
+ ,       :  
+,  perception  ,   , , behavior_control-ability 
+ [authority ],  , , personality behavior,  ,  
+intrinsic_rewards,      [].    
+      ,       
+    .       []     
+         personality .  
+,          ; ,    
+   perceived_responsibility  ()      
+ []. ,           
+       . ,  intrinsic_rewards  
+appraisal           . 
+ .  []       ,    
+          .  ,  
+            appraisal  
+     .  perception        
+ 
+================
+behavior.                
+  fear_arousal            
+         behavior [].     
+    []     .  , 
+ appraisal        []. 
+,    combining   []      
+          ,     
+    .   ,      gain    
+     [,  ]. 
+.   : ,      
+      [action]     intentionality   
+loss     perceived_vulnerability   personality loss    
+,     [Organization]     " []. 
+  , Phishing,  ,      
+    . 
+  ,   focus      . , 
+     ,        
+     . 
+. perceived_vulnerability 
+perceived_vulnerability       . perceived_vulnerability        
+        [].  combining  impact    
+    perceived_vulnerability      .   [],  perceived_vulnerability   
+     . ,       
+         perceived_vulnerability. 
+  , perceived_vulnerability appraisal      perceived_vulnerability  
+ [],  [], [],  ,    combining   
+ 
+================
+         .    
+        simplifying        
+perceived_vulnerability     ,      .  
+    perceived_vulnerability     . ,      . 
+ perceived_vulnerability [exposure]             perceived_vulnerability, 
+ ,    perceived_vulnerability   [Organization]    .   
+ focus           .  
+perceived_vulnerability  intrinsic_rewards         impulsive_effect   
+ . 
+. intrinsic_rewards 
+intrinsic_rewards    perception   .    intrinsic_rewards    
+   [, , ,  ].     intrinsic_rewards  intrinsic_rewards    
+ belief       behavior    history   
+" []. intrinsic_rewards            
+ .  ,        syllogistic_rules     
+   .         intrinsic_rewards  
+       behavior.     intrinsic_rewards 
+     .     intrinsic_rewards  
+    [].   .     intrinsic_rewards    
+    perceived_vulnerability . 
+.      
+              role - 
+   () ,         . 
+,       , perceived_vulnerability  intrinsic_rewards       
+ 
+================
+       techniques     . 
+..   ,     
+role    ()  []       
+        [Organization]   
+.  gain,   ,         
+,              
+ loss []. 
+ ,     ,      .   
+       role,      role   . 
+ , ,       ,      ,  
+.   perceived_responsibility  ()        
+ [Organization]       belief     . 
+      :  ()   personality ().  
+        [].  constraint    
+(; )  ,       .  constraint      
+         . ,   constraint (; )   
+        
+     . 
+      .  arousal  constraint  
+          role    . 
+    role            
+  ,    
+ (; ).    constraint       
+     role.     (; ). 
+        [].      
+        . ()  (  )   
+    . ()  (  )        . ()  (  ),   ,       .                
+    []. 
+ 
+================
+..       perceived_vulnerability  intrinsic_rewards 
+             
+   .   ,     intrinsic_rewards [, 
+,  ]. ,            
+  intrinsic_rewards    ,      perceived_responsibility  
+        simplifying  perceived_vulnerability [exposure] .  [], 
+    intrinsic_rewards ,  intrinsic_rewards     .   
+      intrinsic_rewards .       personality 
+              [Organization]  
+,  intrinsic_rewards .  [],          
+ .   perception    [],  role    
+[function]   perceived_vulnerability   .   intrinsic_rewards      perceived_vulnerability   [action ], 
+   . ,           
+intrinsic_rewards     simplifying  perceived_vulnerability  [Organization]      
+   perceived_vulnerability [exposure ]. 
+ [],  role             . 
+   ,  perceived_vulnerability       role  .  
+           . ,  
+        intrinsic_rewards          
+    behavior.  gain,  .  []   mental_calculation role   
+      experiential_awareness . 
+ [, ,  ],   focus    simplifying  perceived_vulnerability [exposure ].  [],  perceived_vulnerability  
+    protection_effect         
+  perceived_vulnerability    .      perceived_vulnerability , 
+  role       perceived_vulnerability .     , 
+    personality    role      . 
+     role     [Organization]    
+ personality   . ,     simplifying  perceived_vulnerability 
+[exposure]   [Organization]   role arousal process.  [],     
+ 
+================
+ [policy]  behavior_control-ability  perceived_vulnerability [exposure]     .     
+    [policy]            
+ [policy ];          .  .  []  
+     perceived_vulnerability    role        
+,    techniques      role,      
+   .       ,  
+    perceived_vulnerability     perceived_responsibility .       
+   ,  role   perceived_vulnerability  . ,    
+      [action]   :       
+     perceived_responsibility.  .    mental_calculation  , 
+      . ,       
+        perceived_vulnerability     . 
+ .        role      perceived_vulnerability 
+.          role  personality, 
+          .   
+      -xxx       
+perceived_vulnerability . ,          
+[policy ]. ,  .          [policy]  simplifying 
+ perceived_vulnerability [exposure]   role arousal process. 
+ .             perceived_vulnerability  
+ ,          [].     ,  
+                
+   role.             
+role,  loss  .          role,  loss    
+role  . ,          ,    
+ .  .  []          
+ ,   loss ( perceived_vulnerability) . ,     
+perceived_vulnerability   .       participant_modeling    
+ ; ..,         [Organization ], Organization   
+        [action ]. 
+ 
+================
+    combining perceived_vulnerability   ; ..,  [],  
+[],  []    [].    perceived_vulnerability    
+      .  perceived_vulnerability , ,      
+  ,     combining    behavior 
+    protection_effect  . 
+ perceived_vulnerability  belief          
+perceived_vulnerability .  perceived_vulnerability          
+,              .   
+    belief perceived_vulnerability [, ,  ],       generalizing   
+ ,            
+.         .      
+                
+    belief.      mental_calculation  perceived_vulnerability  
+ .      belief perceived_vulnerability     
+. 
+ ,      [knowledge ],         
+           perceived_vulnerability   .  
+ ,          combining    
+ .  gain,        ,   
+     .       
+  [policy]       perceived_vulnerability [exposure]    
+.             perceived_vulnerability 
+ belief   . ,        
+   [policy] .        
+    .., [, ,  ],     opportunity_for_criminal_acts  perceived_vulnerability 
+        [policy]  . 
+ 
+================
+.    
+  ,    ,     
+        [, ,  ].  perceived_responsibility   [action]  
+        [].      
+perceived_responsibility  ()     , ..,   personality 
+        ,       
+   ".         [action]      
+ .   perceived_responsibility      ,    
+  .       [].      
+ .   ,        
+              perceived_responsibility. 
+              , 
+ :       .       
+      [resource]         
+      . 
+  ,  focus          
+            . ,  
+     .   ,       
+. 
+..     
+     [knowledge ],            
+perceived_responsibility    perceived_vulnerability  .       
+focus   perceived_responsibility    [,  ].  belief      
+              perceived_responsibility    
+  []   .  .  []      
+   [] .  [],   [policy]    
+ .      perceived_vulnerability        
+ 
+================
+process      perceived_responsibility   . 
+ .          history   
+   []. ,            
+   perceived_responsibility [policy]         .  
+perception   intrinsic_rewards     combining  . , 
+   [policy]       . 
+     simplifying  perceived_vulnerability [exposure]       
+(.., []),        .     
+   perceived_vulnerability, ..,  perceived_responsibility           
+     .  perceived_responsibility    perception    
+,       perceived_vulnerability     . 
+   combining    perceived_vulnerability  intrinsic_rewards [, , , 
+],      [knowledge]     perceived_vulnerability     
+      intrinsic_rewards     .  [],  isolation_effect 
+    perception  perceived_vulnerability    () []  . 
+ mental_calculation perceived_vulnerability       , , , syllogistic_rules 
+       internalization  ,      
+     perceived_vulnerability .        combining  
+    perceived_vulnerability appraisal     . 
+.    
+                
+          [, , , ,  ].  
+            
+ protection_effect   [, , , ]    []   
+ []            
+            [,  ].   
+,           []  
+ 
+================
+     : 
+.   :           
+, ..,              . 
+.  :   mental_calculation       
+      .      . () 
+          , ..,   
+                   
+ . ()         
+        gain      . 
+ ,                 
+   . 
+.  :          
+           .  :
+   :           
+     .  , mental_calculation     
+     combining    loss    
+.            ,   
+             
+ .      [policy]       
+             .
+   :      history   
+    .  ,   ,       
+    syllogistic_rules       , 
+            . 
+    ,     protection_effect     
+    .   ,    
+  ,  focus   .      ,  focus 
+              
+ [,  ].   []        
+ 
+================
+ :            
+. 
+[policy] 
+             
+    [, , , ]  
+ 
+ 
+ 
+ 
+    [, ]  
+ 
+ 
+ 
+ 
+ perception :  [] 
+ 
+ 
+ 
+ 
+ 
+       [policy]   .    
+      role          
+     .         
+     .  .  []    
+        , ,  
+ ,         .        
+  . ,           
+     . 
+          [, , ,  ]. 
+   ,          . 
+ []          .   
+ []       syllogistic_rules   [resource]   
+  .   . []        
+       .  [],   
+         [resource] ,  [resource]   
+   .         
+       ,       . ,  
+  mental_calculation  . 
+     [knowledge ],          
+ 
+================
+             
+ .  ,     perceived_vulnerability  intrinsic_rewards       
+  process.     ,       
+      .    [policy]   
+     . 
+ 
+================
+.    
+  ,             
+     .         
+.,        .  generalizing    
+     .. 
+.   perceived_vulnerability    
+     simplifying         
+     .        isolation_effect 
+                . 
+               
+         .     intrinsic_rewards 
+          evaluating      
+  , , , .,        
+  . 
+    perceived_vulnerability      perceived_vulnerability [exposure]    
+. a_memory   ,    ,       role  
+        .       perceived_vulnerability 
+   ; ,       perceived_vulnerability   
+   perceived_vulnerability [exposure]   [Organization]        
+ arousal         .  perceived_vulnerability     
+            
+ 
+================
+      .  mental_calculation  .       
+       .      perceived_vulnerability  
+ belief   ,    belief perceived_vulnerability      
+.  belief perceived_vulnerability            
+  generalizing  ,  , Organization     .  , 
+     ,   segregating     ,  
+          belief 
+  [,  ].   ,       
+belief perceived_vulnerability    . 
+..  
+ combining   . 
+.             
+ perceived_responsibility,          protection_effect 
+  .        perceived_vulnerability  
+    . 
+.      .  process   impulsive_effect  
+                . 
+.      combining  intrinsic_rewards         
+  .            
+   .  ,  perceived_vulnerability         
+  syllogistic_rules         perceived_vulnerability   
+          . 
+.          ,   
+          behavior      
+   ,     ,     . 
+.      perceived_vulnerability      perceived_vulnerability  
+   arousal         .  perceived_vulnerability  
+    perceived_vulnerability        
+ 
+================
+,   perceived_vulnerability   belief   .  perceived_vulnerability [exposure]   
+ ,   impact   . 
+.           combining  personality 
+belief      [policy ],  Organization      
+      simplifying  perceived_vulnerability [exposure]   belief   
+. 
+  ,  focus   , ,   .   ,  
+ ,       ,       behavior 
+       . 
+..  
+             
+ .           perceived_vulnerability 
+  .
+       perceived_vulnerability  intrinsic_rewards        
+      behavior .
+     perception    perceived_vulnerability     
+  .  ,    belief  belief   
+    perceived_vulnerability  arousal     .   ,  
+       () []  combining    
+  generalizing  ,   mental_calculation  intrinsic_rewards  
+    .
+       simplifying  combining     
+       combining  perceived_vulnerability [exposure]   belief  
+ .
+         [policy]  simplifying  perceived_vulnerability [exposure ]. 
+     [knowledge ],        simplifying  perceived_vulnerability 
+[exposure]   . 
+ 
+================
+    role arousal      ,   
+        .
+      perceived_vulnerability  process   belief ,   
+       combining personality belief   
+ [policy]  .  gain,         
+         [policy]    
+.    simplifying  belief . 
+.    simplifying perceived_vulnerability 
+[exposure]     
+           intrinsic_rewards      
+      .     persistence 
+personality .     perceived_vulnerability       
+      : 
+.  :              
+    perceived_responsibility. ,          
+intrinsic_rewards   intrinsic_rewards         . 
+.  :      [knowledge]     
+  intrinsic_rewards .          persistence 
+ intrinsic_rewards            
+personality  behavior   intelligence . 
+  .,         persistence   . 
+    ,        . 
+..  
+     techniques     
+    perceived_vulnerability [exposure]     . 
+ 
+================
+.           .  
+       impact     perceived_responsibility  
+ [Organization ]. 
+. simplifying perceived_vulnerability         intrinsic_rewards    
+          . 
+         intrinsic_rewards      
+            
+  . 
+.       perceived_responsibility  intrinsic_rewards       
+ history              
+    .  intrinsic_rewards         ; 
+..,            perceived_responsibility.   
+   personality      . 
+.          [policy]  
+             
+.      combining    perceived_responsibility    
+      .       .    
+  [policy]   ,        perceived_consensus  behavior_control-ability  
+            personality.    
+            perceived_responsibility,   
+ Organization    .  [knowledge]        
+simplifying  perceived_vulnerability  combining [policy] . 
+. combining     ,      Organization    perceived_vulnerability  
+   ,    . 
+..  
+     simplifying perceived_vulnerability [exposure]     
+     .        :
+               
+ 
+================
+     simplifying  perceived_vulnerability [exposure]    
+       .      [knowledge ],   
+             
+  intrinsic_rewards      process .
+           intrinsic_rewards  
+  .            
+  intrinsic_rewards       [knowledge ].     
+           perceived_responsibility,  
+           behavior  
+persistence  intrinsic_rewards          .
+          combining [policy]  
+,           behavior 
+     (..,         
+perceived_responsibility ).             
+,     [policy]      .
+ ,      techniques       
+      (..,       
+    )    . 
+.   perceived_vulnerability    
+ 
+        .   [Organization] 
+     ,         
+         behavior    
+   .      protection_effect   . 
+ ,         Organization       
+              
+  .          
+ 
+================
+    . 
+,           perceived_vulnerability  
+    task.         
+ intrinsic_rewards  physical_quality,           
+ . 
+..   
+         ,     
+     .       
+      , .., . ,    
+           .     
+   [policy]              
+segregating.      mental_calculation       
+      .          
+            . 
+        : ,   personality  
+       impact  perceived_vulnerability [exposure]     
+ .        /   intrinsic_rewards  
+            syllogistic_rules.  
+   ,       perceived_vulnerability      
+personality        gain  simplifying  perceived_vulnerability   .  
+, mental_calculation  [policy]                
+       . ,       
+     .  ,  gain  perceived_vulnerability     
+ .            personality  
+         . 
+ 
+================
+..   
+               
+         .  perceived_vulnerability [exposure] 
+             
+        . 
+. :              
+           .     
+               
+ intrinsic_rewards  . 
+               
+   .          
+        simplifying  perceived_vulnerability   
+,     .    constraint     
+                  
+    [, ,  ].            
+  ,     behavior_control-ability  .   
+,    intrinsic_rewards        
+     
+.   :        
+participant_modeling  [action]     participant_modeling   [circumstances ].  , 
+               
+          . ,      
+         . 
+.  :             
+   (..,  ,         
+    ).          perceived_vulnerability,  
+    .            
+       ,        
+. 
+ 
+================
+.  [policy] :       
+               
+,        behavior.  behavior   
+ segregating     [policy]        , 
+,        ,    
+ .        (..,   ),   
+  ; ,           .   
+,               
+   .        behavior  , 
+    [policy]     behavior. ,    
+         behavior      
+   .   ,  behavior    . 
+      ,        
+behavior            .  possibility_effect  
+       [],       personality 
+       behavior.      
+            
+   role   participant_modeling   [Organization ]. 
+   behavior    task,   intrinsic_rewards  
+        .      , 
+  ,     combining  behavior    
+. 
+.   :           
+.          behavior. 
+..  
+    ,         
+  perceived_vulnerability    : 
+.  [policy]           perceived_vulnerability  
+ 
+================
+      ,   personality . 
+.  [policy]     behavior      
+.  ,            
+[policy] . 
+)  ,            
+      role   [Organization ], 
+)  ,          participant_modeling  
+    .        
+     ,  
+)  ,          
+    . 
+.                 
+. 
+.   simplifying  behavior          
+[policy] .   [policy]        
+  behavior_control-ability  [authority] , ,    . ,  
+ perceived_vulnerability          [policy] 
+. 
+.   perceived_vulnerability           
+              
+ . 
+. protection_effect            behavior   
+          .    
+      mental_calculation  perceived_vulnerability [exposure ].   behavior_control-ability  
+perceived_vulnerability [exposure]    ,      possibility_effect   
+   . 
+ 
+================
+..  
+     perceived_vulnerability     ().  
+           ,  
+behavior            .    
+    .         
+ :
+      [knowledge ],       simplifying   
+           .  
+          .
+    ,            
+        behavior.  
+    ,  ,    
+ .
+    perceived_vulnerability      behavior   
+         behavior_control-ability  perceived_vulnerability.   
+  process,           
+      .  perceived_vulnerability   
+: )              
+ behavior, )     , )      
+, )         ,  
+)             .
+ ,           
+. 
+   ,          
+. 
+ 
+================
+.   perceived_vulnerability    
+  ,      perceived_vulnerability   . 
+        ..   .,    
+          .     
+perceived_vulnerability      ..      role arousal 
+         ..   .,   
+   techniques     belief perceived_vulnerability. ,    
+experiential_awareness    .. 
+.  
+  ,          .   
+   ,  combining      
+.   [function] (  )            
+;                
+ . , ( )          . [function] (  )           ( 
+    role ,      ). [function] (  )  
+      role . ,        . 
+ 
+================
+..   () 
+   history       () []. ,   
+    ,    ...,     .  
+          :  ()   
+().        ( ( )[ ( )).   
+        .  ()   ,    
+     ,      , 
+     .           . 
+  )         .        
+ protection_effect         
+
+      ; 
+ protection_effect    (  ;  
+
+  ).   protection_effect   ,  
+ ,             
+  protection_effect            ().   
+   [function] :     
+
+ !   ,  (;  
+)= 
+         .             . ,      []     ; ; ; ;; . 
+.    
+..     
+ mental_calculation     ,    .  
+        (      
+     . ).
+       intrinsic_rewards     [function]   behavior   
+ .     intrinsic_rewards (  ;   ).
+      perceived_vulnerability     .     
+(  ;   ). 
+ 
+================
+  [policy]     belief  ,       perceived_vulnerability 
+[exposure]   belief   .
+          ,   perceived_vulnerability    
+(( ;   ;   ))   ()      , ()  
+belief perceived_vulnerability    , ()  ,  ()  intrinsic_rewards 
+        .
+ ,              ,  intrinsic_rewards 
+      perceived_vulnerability  .      ( 
+;   ;   ). 
+               ()       
+   , ()  arousal     constraint,  ()    
+intrinsic_rewards        intrinsic_rewards     .   
+ belief   ..  ,           
+       role.   ,   mental_calculation  intrinsic_rewards    , 
+        . 
+        .     
+    .  intrinsic_rewards    ()     
+  combining  ,    intrinsic_rewards       . 
+ intrinsic_rewards      intrinsic_rewards . 
+            
+   [policy]   ().  [policy]        
+.        mental_calculation      
+,  [policy]   (),  [policy]   (),  
+perceived_vulnerability    belief .           
+   .      ,      
+         [policy]  .     
+   ,      .     [policy] 
+   intrinsic_rewards      ,  ,   belief perceived_vulnerability.  
+belief perceived_vulnerability     belief       intrinsic_rewards 
+     perceived_vulnerability .    intrinsic_rewards      
+ 
+================
+   
+  
+  
+ 
+ 
+ 
+intrinsic_rewards&   
+ 
+intrinsic_rewards  
+ 
+perceived_vulnerability  
+belief  
+.  [policy]  
+ 
+belief perceived_vulnerability   
+ :   . 
+      ,        ,   
+         .   ,    
+          participant_modeling  loss   
+. 
+          simplifying  
+[policy ].      .  [policy]       
+[policy]   belief perceived_vulnerability perceived_vulnerability      combining 
+ personality belief     [policy]    ,  
+     [policy]     perceived_vulnerability [exposure ].   
+,    combining   [policy ],    belief perceived_vulnerability,   
+  [policy]    .         
+.. 
+ 
+================
+. perceived_vulnerability  intrinsic_rewards  
+  ,         perceived_vulnerability [exposure]   
+[Organization ].     perceived_vulnerability           
+    perceived_vulnerability      . ,     
+  intrinsic_rewards . 
+.. perceived_vulnerability    
+     ;       :   [Organization]     
+ [resource ],       [action]     participant_modeling   . 
+     .     loss  , 
+loss  ,  loss  . ,     
+           [Organization ]. 
+ ,         ,    
+personality (        loss   ),     
+  personality . ,  perceived_vulnerability [exposure]   [Organization]  
+  [action]            . 
+ perceived_vulnerability                
+ loss loss.       perceived_vulnerability     
+             
+ [Organization]     simplifying  vulnerabilities      . 
+ .  perceived_vulnerability   = ;        ,   (; ), 
+   : 
+ 
+(; )= 
+ [ ] loss () 
+ 
+                      [action] ,  [ ]   perceived_vulnerability            [action]   ,  loss ()    loss. 
+ 
+================
+ .  ,   ,   mental_calculation  :    
+     . mental_calculation  [Organization]   .  
+  perceived_vulnerability    =  ; ,  [Organization]    .        personality,    
+   [Organization]  personality gain.  [Organization] mental_calculation  
+   loss  $,.     ,   
+       ..     combining perceived_vulnerability  $,.  ,          .  fear_arousal     
+  .       ,  [Organization]   
+.                
+   .   appraisal       
+loss   $     $,,   combining loss  $,.  
+perceived_vulnerability     .. ,  combining perceived_vulnerability    $.   
+      .      ,  
+    segregating  personality   .  [Organization]  
+      ,   extrinsic_rewards,     , .  loss 
+       $,. ,     ,   
+    . ,  perceived_vulnerability         
+: .,   combining perceived_vulnerability  $. 
+.. perceived_vulnerability   role  
+,  perceived_vulnerability         [function]   perceived_vulnerability    
+      .    perceived_vulnerability ,    
+perceived_vulnerability           ,     
+     .       belief ,  
+       perceived_vulnerability      . 
+... belief perceived_vulnerability  arousal history  belief perceived_vulnerability    
+    generalizing  personality        
+ 
+================
+    . 
+ .  belief   ;          ,     = ;   ,      : 
+.        :  =  . 
+.           ,       
+ generalizing  . 
+.              belief   . 
+      belief   . 
+                
+ .  ,      generalizing       
+      ;     belief :  ;    ; .               generalizing  , .,. 
+ ;    ; .  belief       intrinsic_rewards 
+     [,  ]. 
+               generalizing 
+ ,         history    
+ combining     participant_modeling  belief.    history 
+          . [function] ()            generalizing    ,  [function] 
+()         . 
+ .    ,  history              , [function] (; ; )          generalizing    : 
+(; ; )=  
+  ;   ^  = () 
+^ ()[ ()   
+^  = ()  
+ 
+================
+          ,    
+       generalizing     .   .,  
+      (; ; )   . 
+...   role  perceived_vulnerability 
+ perceived_vulnerability [exposure]      
+            []   .    
+  perceived_vulnerability [exposure ]. 
+ .  perceived_vulnerability [exposure]               
+     
+ (; ; )= (; ) 
+} 
+}= ()[ (; ; ). 
+  belief     arousal  , (; ; )= ;;   perceived_vulnerability [exposure]     perceived_vulnerability     ().   ,            generalizing  ,  perceived_vulnerability 
+  perceived_vulnerability       perceived_vulnerability     
+ (; ; ).   ,  ..,    (; ; )    . 
+.. intrinsic_rewards    role  
+ intrinsic_rewards                
+     . ,       perceived_vulnerability [exposure]  
+ [Organization]        .    intrinsic_rewards   
+. 
+ .  intrinsic_rewards        ,        
+  : 
+ (; ; )= ( 
+; ; ) 
+((; )) 
+ 
+ 
+================
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+    
+ 
+() 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(,) 
+$, 
+$ 
+$ 
+$ 
+$, 
+$ 
+$ 
+role ()        
+( 
+) {,,} 
+{} 
+{} 
+{} {,,} 
+{} 
+{} 
+ : [policy]   . 
+  (; ; ) .  (; ; )= ,          
+       ;  (; ; )= ,         
+         . 
+ . mental_calculation  [policy]           
+    .         
+.   ,  perceived_vulnerability           
+role  .  (; ; )=;          ,   . ()       role  ;    .   (; )= ; ; ;      ,  perceived_vulnerability [exposure]    (; ; ; )= (; )+(; )+(; )+(; ). , (; ); ; )= $;  (; ; ; )= $,/$,= .,  $,    combining   perceived_vulnerability    . ()       arousal     .  ()= ; ; , (); ; )= (; )+ (; )+ (; )= $,  (; ; )=.. role         ,       ; ;   intrinsic_rewards   . 
+.. intrinsic_rewards   
+        intrinsic_rewards .  intrinsic_rewards          
+ intrinsic_rewards (; )       [;],          
+ 
+================
+      .  intrinsic_rewards        
+ behavior           intrinsic_rewards    ; 
+..,        syllogistic_rules,  intrinsic_rewards      .  
+   process        .    [, ]  
+         intrinsic_rewards     behavior   
+. 
+.   perceived_vulnerability [exposure] 
+        [policy] ,       
+ [policy]          . 
+ .   [policy]    : 
+.      constraint        : 
+   ; (; )   @   : (  ) _ (  ) 
+.   role    : 
+  ; (; )   : () <  
+.   role      : 
+  ; (; )   : () <  
+          constraint     
+.    [],         . 
+             . 
+,           . 
+  [policy]    ,        . 
+..   role arousal 
+ role arousal process     .       
+     segregating        intrinsic_rewards   [policy] . 
+ 
+================
+     behavior_control-ability  perceived_vulnerability [exposure]        perceived_vulnerability  
+ . ,     . 
+ :         intrinsic_rewards  intrinsic_rewards (; )   
+            .     
+                
+ .     ,        behavior_control-ability  
+perceived_vulnerability [exposure]   [Organization ]. 
+                      
+         ,     : ()          . ()   intrinsic_rewards  (intrinsic_rewards (; ))       intrinsic_rewards       . ()               .        role arousal . 
+ .    role arousal      
+= ;  ; ,    , ,  : 
+ 
+ (() 
+; ; ) 
+.. 
+ (; )   :  <  ()  (; )  ^    : ()+    () 
+intrinsic_rewards (; ) (; ; ) () 
+()   () 
+                
+   ,              . 
+ gain,     ()  .                .     
+   behavior_control-ability  perceived_vulnerability        behavior_control-ability   
+  .   ,   mental_calculation   .   
+ 
+================
+  role     ,   perceived_vulnerability  $,   
+    role        perceived_vulnerability  $.   
+,       ,       
+  ,  combining perceived_vulnerability [exposure]  . 
+.. role arousal  
+           role arousal 
+.      [policy]   ,    .  
+              intrinsic_rewards 
+ (  ).          ,    .  [function] (; ; ; ; )  ,        .  [function]        
+  .            
+(  ).            ,    
+  .       perceived_vulnerability,        
+   . ,    intelligence .     
+  ,               
+     (    ).        
+        (  ).     
+   role      ,      
+         [policy ].        
+   (  ),             
+ . ,   role            ; 
+ [function]    role        ([ ; ; ) intrinsic_rewards (; ) 
+(  ).      participant_modeling     ..   role 
+   .        )        ( )  )         ( 
+). 
+ 
+================
+    role arousal 
+:  [policy]   (  ). 
+:           . 
+: (;  ; ) 
+:  ()   
+:       
+:  (; ; )> intrinsic_rewards (; )  
+:          
+: ;      
+:           
+: ;   ,      
+: (; ; ; ; ) 
+:   =;  
+:    ,   
+:  
+: ;   
+: ||||||||||||||||||||||||||||||||||||||||| 
+: (; ; ; ; ) 
+:  =;  
+:  =;  
+:   
+:  
+:  (; ; )> (;;)  
+:   
+:   ((; ; )= (; ; ))^   >    
+:   
+:     
+:   (; )    
+:     = ( )  
+:    [  ( )] 
+:   (; )  ^     
+:  ()+ =    
+:     
+:       
+:   ()=;  
+:     
+:  =;  
+:  
+:  (; ;; ; ) 
+:   =?  
+:  
+:     
+: (  (), ; ([ ); ; ) 
+: (; ; ; ; ) 
+: ||||||||||||||||||||||||||||||||||||||||| : (; ;; ; ) 
+:       ([ ; ; ) intrinsic_rewards (; )     
+ .  
+:      ? 
+ 
+================
+...       
+       
+     .         . 
+:  [policy]      . :  = ;,     ,        . 
+belief . (   )     = ;  ;   
+  [policy] ,    ,       perceived_vulnerability , (; ; )        . 
+.                 
+ [function]     . ,  focus  
+ [function ].          .
+  :         ,     
+ (), (), ()  ()    .
+  :         ,     
+    ( ),     . 
+ isolation_effect       .       
+     [policy ],  ,     ,    
+      . ,       
+  . 
+)           ,   ,    ,        . ,      ,     
+     .         syllogistic_rules. 
+ :    [function]     , = ;.     
+ (), ()  ()  .  (;; ; )= , constraint ()   . 
+syllogistic_rules :         [function]   
+.         [function]          ;         .           = .       = [ . constraint ()       ,        .                
+ 
+================
+  (), ()  ().   ,  (; )  ;    :@  : [  =  . , [  constraint (). ,                   constraint ().    (; )  ^    : ()+   . 
+,                 
+     : () =  ;. ,       role       ,          . 
+)        : ()      
+    (  ),   ,           
+   ()  perceived_vulnerability       ( )  ()   
+   perceived_vulnerability,        (  ).        
+     . 
+)    : 
+      [function]  . 
+ [function]    ()      (  ), 
+()           ( )    
+belief perceived_vulnerability    (  ). 
+   ,      ,     = ;.    [function]   ,     
+     ( )           
+ intrinsic_rewards  (  ).    ,         
+   [function]   . 
+   :
+        combining combining      [policy] .       .
+    [function]   ,    role     
+    . 
+    [function]    ,   .    ,  role       [policy]      
+ 
+================
+( ,    ). ,            
+     role          .   ,     [function]       ,      role. ,   . 
+)          perceived_vulnerability [exposure] : 
+     ,            
+ .    ),   .      :               (). ,     ,  ,      . 
+        .   .,  
+   .   ,    ,   
+   belief perceived_vulnerability    . 
+. belief perceived_vulnerability    
+  ,             
+generalizing    ,   techniques   belief    
+  [policy ].             
+     .        
+personality belief .              
+  . ,          
+  perceived_vulnerability  personality belief . 
+..    
+  ,    belief , ,      [Organization]  
+               . 
+ .     belief  ,      perceived_vulnerability belief  
+,     belief    : 
+ 
+================
+ 
+ 
+ 
+  
+... 
+1 
+... 
+  
+... 
+i 
+... 
+  
+k 
+  
+... 
+ 
+ 
+ 
+... 
+ 
+ 
+ 
+ 
+()     ,    
+ . 
+ 
+ 
+ 
+ <{,,}, > 
+ <{,,}, > 
+1 
+2 
+ 
+ 
+ 
+ 
+ 
+()  . 
+ :   . 
+=    ;;    
+[ 
+ 
+= 
+  
+ ; 
+ combining          generalizing   ,  
+  role arousal history   .  belief      
+    .          
+  . 
+   ,     belief       
+   .  ,    belief    ,   ;      belief .   belief   ; ,     ,      .           ;        history   .   
+[function] (  ;   )            .   
+,        behavior_control-ability       . 
+ 
+================
+ .   [policy]   = ; ; ;; ; ; ,    belief 
+    =  ; ; ; ; ;;  : 
+.  ():    ;   ,     .  = ; :::; , : 
+= ; ; [ . 
+.  ():    ;   ,       
+  .  
+= ; :::; , 
+= ; :::; . : 
+= [ ;[ 
+.  ():  = ;  :     [;  :   
+ . , 
+= < , >; <, >[  [ [    .   ( ):    ,  , ;  
+,  
+  ,  : 
+= ; ;;; ; ;; . 
+.     ():  )= ; , 
+)= )= ;; ; ,       
+)= ; . 
+.   (  ): 
+:   ;     : 
+(,; )=  
+(;; )= ;; ; , 
+ ;= ()  
+ (  ):   ;; ;    ,    ; : (;;; ; )= [(  ;) =;^  = (())] 
+(;;; ; )=  
+;;  
+;   ;= ()   =   
+^ ()   = ; 
+ (  ):       
+ 
+[ 
+= (; )    
+;;  
+; : (;  
+)=[ 
+;]=   
+;;; 
+ 
+(;  
+)= 
+; ,         . 
+.  []( ): ,     . 
+    .               
+    ,   ;     . ,                 .          .   ,       
+         belief.      
+   ;= () . ,     ;; ;     .            . 
+ 
+================
+            ;       belief  ,        .                .                 .      ,                       generalizing  ,     ,                belief   ; .                generalizing ,    ;   . 
+,  history              
+ belief ;      ,      . 
+             generalizing    . 
+  ,              
+ generalizing           . ,   ,   
+        . ,        
+     . ,     ;   .             ,    []   .     []  . ,   ,          .      combining         generalizing    , 
+  ,         . ,   ,  
+         . 
+            ,  
+        belief  . 
+belief .    ,  belief      history    
+ ,           ,       
+ ,   = (; ; )    . 
+.               , 
+   protection_effect            () 
+ 
+================
+    belief  ,               
+,       ,    . : (; ; ) 
+:   :(; )    
+: :(; ; ) 
+:     isolation_effect  .      []  . :   
+:(; ) 
+:          . 
+: =  < ;  >  
+:   
+ ()               
+    (  ).     ,  
+(  ),            ,   
+            participant_modeling,   ()   ,  ()           
+,         . ,     
+         = (; ; )   
+. 
+ .  = ; ; ; , ; ; ; .        ;     .     = ;    ()= ; ; ; ; .   = ;;     .    ,       ; ; ; ;     .          belief          ,      ,       ,  .      : ;; ;; .     belief     ,       ,   (; ; )  ;. ,   , (; ; )= (; )+ (; )+ (; )+ (; )+ (; ),       perceived_vulnerability.     []     .   ,    role ,  ()= ; .  ;    .  ; ; ;     ;;    .   ,          ,  
+ 
+================
+  belief    .    (; ;)  . ,  perceived_vulnerability     (; ; )= (; )+ (; )+ (; ),    perceived_vulnerability     . 
+..  personality belief  
+  ,           belief  
+    .         belief . 
+     belief            
+ . belief           
+   [Organization] (         
+belief  [,  ]).            personality 
+belief        ,   
+    .           belief 
+,         ,   
+    perceived_vulnerability [exposure]   belief .  ,     
+     [policy]     [policy]   
+         isolation_effect      . 
+      personality       
+,            belief  
+.      personality belief     [policy]  
+         belief . 
+...   behavior  combining personality belief   
+ personality belief ,   gain      .  
+,      live_modeling  behavior       
+             ( [] ); .., 
+             .   
+                  
+ isolation_effect       .       
+ 
+================
+,          . 
+                generalizing  
+ ,    belief        [policy] 
+  .    combining   [policy]      
+   participant_modeling  belief .      combining  
+     belief perceived_vulnerability       
+       [policy]    perceived_vulnerability.  belief    
+      persistence  .   ,    
+,                 
+belief.       . 
+ .   [policy]  = ; ; ;; ; ; ,     
+   =  ; ; ; ; ;;  : 
+.  ,           belief    . .   ( ):    ,  , ;  
+,  
+  ,  :  = 
+; ; 
+ 
+; ; 
+;;  
+; ; . 
+.     (): )=  
+; ; ,  
+ ), )  )  
+    . 
+.   (  ): 
+            . 
+ (  ):       
+ 
+= (; )    
+;;  
+; : (;  
+)=[ 
+[ 
+;]=   
+;;; 
+ 
+(;  
+)= 
+; ; , 
+ =   ;; ;   ^            . 
+       ( )   belief 
+ ( )   combining    .   ,   
+        belief   .   ,                   ; ; .               belief      . 
+  process  combining personality belief      .  
+   [policy]      ,  ,          
+ 
+================
+   generalizing          
+belief.               
+belief ; ; ,           role  .       .    personality belief               . ,          
+.            ,    
+      participant_modeling          ,  
+              
+             .   ,   
+      ,            behavior         .           
+            . ,       
+  .              
+    . ,           
+.   ,   ,         generalizing , 
+  ,    belief    . ,      
+belief    ,        () 
+          . ,       .     ;     []  participant_modeling  . 
+...    belief  
+       
+( )       .      
+       generalizing      ,   
+ persistence      belief     .  
+ simplifying  combining         . ,  
+               possibility_effect perceived_vulnerability   
+[policy] .          simplifying    
+   perceived_vulnerability [exposure]      ,  , behavior_control-ability    
+      . 
+ 
+================
+   personality belief    [policy]    
+= 
+; ; ;; ; ;  
+: ( ) 
+: ?    personality ,  .         
+   personality belief ; ;           
+ role   
+: ;   personality belief     . 
+: = ( )      
+: =  () 
+:       
+: = () 
+:  ? 
+:       
+: =(; ) 
+:  .combining () 
+:    ( )  
+: .(;          
+: () 
+:  :(; ) =;  
+:   = ; ;   :(; )  
+: :combining () 
+: =  () 
+: combining      personality belief   
+:  ; 
+ 
+================
+     [policy]   =  belief .      
+  ,      generalizing      belief   
+=   .   ,      mental_calculation  belief   ,      =  personality belief     [policy]  
+ .        ( )     
+ belief  . ,   simplifying          ,    generalizing    [policy]  .         . 
+ .   [policy]              
+ [policy ],       generalizing        : 
+=     ; ;    
+  ,       belief   . 
+ .   [policy]     belief  =  ; ; ; ; ;; , 
+   belief           
+[policy]      = ;   ; ;; ; ; ,             generalizing           
+personality belief        intelligence  .   belief 
+,           . 
+belief .   [policy]  =  belief , =  personality belief ,     , ,      generalizing  ,   belief           belief  
+  :
+             .
+         ,           [].
+     ,              
+[;  ]             . 
+ 
+================
+.              belief 
+. ,        . ()    
+   :         belief  
+    .  combining     =    combining 
+    = ,  = .  ,       
+ = (
+ )   = 
+  .        
+ belief ,         
+  . ,    combining     ,  
+            belief   . ,  
+               . () 
+    :  gain,         
+    []           generalizing  
+   [policy]  .             
+             belief perceived_vulnerability   
+    .     .       
+      .         
+  []     ,       .               . ,   , 
+  intentionality      .   intentionality       
+         .           
+         ,      
+     belief       . ,   
+,             [;  ]. 
+              
+ belief perceived_vulnerability     belief   . 
+..  personality belief  
+   personality belief     [policy]   , 
+            belief 
+ 
+================
+ personality belief   [policy]  
+  
+ belief 
+perceived_vulnerability? 
+ 
+ belief  
+ [policy] 
+   
+ :  personality belief . 
+perceived_vulnerability.     process.   personality belief      
+        [policy]      personality 
+belief .   ,        
+[policy]     belief        
+   simplifying  perceived_vulnerability [exposure]   belief  .    
+           perceived_vulnerability [exposure ]. 
+     perceived_vulnerability [exposure]         
+[policy]     . 
+         perceived_vulnerability [exposure]   [Organization] 
+  personality belief ,      .  belief perceived_vulnerability  
+  ,          perceived_vulnerability [exposure]  
+  perceived_vulnerability     . a_memory    [policy ],   
+    perceived_vulnerability ((; )),     appraisal   impact 
+   .    perceived_vulnerability      
+  appraisal    [policy]     .  participant_modeling 
+              
+    .         
+ personality .          
+ 
+================
+,              . , 
+     [division]        
+  .   ,        perceived_vulnerability  
+  techniques             
+          .       
+ ,       . ,     
+   perceived_vulnerability             , 
+..,  perceived_vulnerability         ,      
+perceived_vulnerability   .            , 
+    (; ).        ,     
+ appraisal        . ,     
+        perceived_vulnerability [exposure ],     
+   syllogistic_rules  . 
+ .   perceived_vulnerability    belief perceived_vulnerability    
+    : 
+() (( 
+)) 
+;= 
+ 
+ ( 
+)
+  (( 
+)) 
+  
+ ()= (; )    perceived_vulnerability    . 
+   ,             
+       personality belief   . 
+   ,          
+          . 
+ .               
+ process.          generalizing  
+   (; )        generalizing.    
+     belief perceived_vulnerability. ,  belief     belief 
+          . ,   intrinsic_rewards 
+          (     intrinsic_rewards   ). 
+            . 
+ 
+================
+       
+personality belief perceived_vulnerability 
+ 
+ 
+ 
+ 
+ 
+ 
+perceived_vulnerability  
+ 
+ 
+ 
+ 
+  
+ belief  <{,,},> <{,,},> <{,},> <{,,},> <{,,},> <{,},> 
+  
+ 
+belief , ,, , , , 
+ 
+ intrinsic_rewards   
+. 
+. 
+. 
+. 
+. 
+. 
+ : belief  . 
+        generalizing  ;   .    perceived_vulnerability    perceived_vulnerability,  belief        . ,   belief     .         [policy ].       belief       
+ ; ; . 
+       focus   belief     
+    .        generalizing      perceived_vulnerability.            persistence   intrinsic_rewards   .    ,       [policy]  .           belief perceived_vulnerability;    isolation_effect  
+           belief perceived_vulnerability. 
+  ,          belief   
+  .     ,      
+    perceived_vulnerability  belief.   ,      
+    belief  belief ,   ,  [Organization]   
+    . 
+ 
+================
+ :     [policy]      
+. 
+         
+            
+         
+       
+      personality belief  
+          mental_calculation      role 
+     
+   
+: : : : : : 
+  
+.   
+      ,     , 
+   .           
+  ,          [].  perceived_vulnerability   
+    [policy]         [,]  
+  .   intrinsic_rewards        
+ .            
+    .    .     
+process         .   ,    
+    . 
+  :      
+           role   .  
+   role     perceived_vulnerability ( perceived_vulnerability ),      role 
+               
+     ( ).      ,  
+         perceived_vulnerability,        .  ,           []          role           . 
+ 
+================
+) 
+ 
+      
+ perceived_vulnerability   
+( 
+ 
+   
+   () ::= :: 
+ 
+) 
+ 
+ perceived_vulnerability 
+ 
+. 
+  
+( 
+ 
+ 
+   
+   () ::= :: 
+ 
+ 
+) 
+ 
+ &   
+ 
+ 
+( 
+ 
+ 
+      () ::= :: 
+ 
+ 
+ 
+ perceived_vulnerability 
+ 
+  
+ () 
+ 
+ 
+   
+   () ::= :: 
+ 
+ :          . 
+ 
+================
+ [policy]       .      
+     ,    .     ,  
+       ,      .   
+          . , %      
+       .  ,     
+      ,     ,        
+.              ,  
+  .      perceived_vulnerability       [policy] . 
+      combining         
+    ,     . ,   
+  ,           perceived_vulnerability 
+.    ,   perceived_vulnerability       
+.   ,    ,        
+  . 
+           ,    
+  , ,              ( 
+   .    ).      .   
+             ,    
+        .       
+              (..,  
+              ).  , 
+      ,           
+   .        ,     
+        ,            
+  .                 
+              . 
+          
+ :             
+  ,   intrinsic_rewards   . ,    
+ ,      .        %  
+ 
+================
+% % % % % 
+% 
+%   
+%   
+%   
+%   
+   
+% 
+ 
+ 
+       
+ 
+ 
+ :          . 
+   .      ,     
+,   -   -  intrinsic_rewards ;      
+       segregating     intrinsic_rewards   .  
+  %, %  %        .    
+   ,      .    
+      segregating    intrinsic_rewards     ,  
+        intrinsic_rewards .       
+          ,    protection_effect 
+  . 
+  :    perceived_vulnerability [exposure]    
+          .    
+   . ()    [function] : behavior_control-ability  perceived_vulnerability   
+     ;        perceived_vulnerability,  ()   
+ [function]             
+  ;         .      
+   ,         ,     
+. ,     ,      , %    
+       .        
+ 
+================
+ 
+ 
+ 
+perceived_vulnerability 
+ 
+ 
+ perceived_vulnerability (. perceived_vulnerability) 
+  (. perceived_vulnerability) 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ : perceived_vulnerability [exposure]    (. perceived_vulnerability)    perceived_vulnerability   
+role arousal  (. .  )       . 
+  %           . ,    
+        ,  perceived_vulnerability       
+    .          
+  role   simplifying       .     
+        ,       
+          . ,    
+ [function]      ,     perceived_vulnerability   
+      . ,        
+      . 
+.   
+  ,         perceived_vulnerability . 
+    ,        perceived_vulnerability [exposure]  
+    .     perceived_vulnerability  belief   
+.    perceived_vulnerability,     . ,  
+ 
+================
+     behavior_control-ability  perceived_vulnerability [exposure]    . 
+   ,         .  
+   perceived_vulnerability [exposure]         
+. ,       combining personality belief  
+       [policy ].       
+     belief . 
+   ,     ,      perceived_vulnerability 
+   . 
+ 
+================
+.    simplifying perceived_vulnerability 
+[exposure]     
+  ,      perceived_vulnerability     
+ .        protection_effect      
+    combining            .. ,  
+     ..       intrinsic_rewards 
+     ..    combining [policy]   
+     .. ,    perception   .. 
+.        ? 
+         ,  
+         .    ,  
+       behavior        
+      :   behavior_control-ability  [authority] 
+    [].     behavior_control-ability  [authority ],    
+, [authority]  ,            . 
+ .  []          
+.              
+    intrinsic_rewards.        ,   
+ [authority]      .         
+                
+ . 
+ 
+================
+  mental_calculation          
+        combining  ,  
+         .  evaluating      
+                
+     .       participant_modeling  
+,        [].   gain  
+            behavior. a_memory 
+    appraisal    []    
+   . ,      intrinsic_rewards    
+ appraisal   ,          
+ behavior. 
+.   
+  ,     . ,    [policy]  
+         (  ). 
+       [].       
+    intrinsic_rewards            
+ . ,       . 
+..     
+        , perceived_vulnerability  intrinsic_rewards;    
+ .
+      ,      ,         = 
+  ,                  
+.
+                    
+ . 
+ 
+================
+        role ,    .
+       , ,         ;  
+                 
+
+            .  
+          .  
+[function]    role  ()   .
+ [function]   : !          [function] 
+  : !         .
+          intrinsic_rewards , intrinsic_rewards (; )  [,]   
+.  intrinsic_rewards (; )= ,     .  intrinsic_rewards (; )=      
+  participant_modeling   .        
+         perceived_responsibility .
+  : (  )!      [function]         role . , (  )=   (;; )  ^ ;   .
+  : (  )!     [function]                role . , (  )=   (;; )  
+^ ;   ^   . 
+     perceived_responsibility  : 
+ .    perceived_responsibility       =    
+; ;   
+.               perceived_responsibility.    
+    participant_modeling          perceived_responsibility. 
+.            perceived_responsibility   perceived_responsibility  
+  . 
+.          [Organization]   perceived_responsibility   
+ ; =        =     perceived_responsibility 
+    . 
+         perceived_responsibility   ,     . 
+ 
+================
+ , :       perceived_responsibility. 
+perceived_responsibility :          
+ ,  . 
+ .     role    ,     perceived_responsibility 
+   ,     perceived_responsibility   : ; ;;  
+: 
+.          perceived_responsibility. 
+.    perceived_responsibility       . 
+.      perceived_responsibility     . 
+.    []   perceived_responsibility      . 
+    perceived_responsibility   ,         : 
+,   .      perceived_responsibility     
+ [;+ :].  perceived_responsibility           
+   perceived_responsibility     participant_modeling    .  perceived_responsibility  
+            . 
+,  perceived_responsibility        participant_modeling    
+     . 
+   process :        role, 
+     role   . ,        
+             : 
+[ 
+.   ^   ()^ (   : (; )  ),       
+ 
+                     
+   . 
+.        participant_modeling        
+        : 
+   ;  ();    : intrinsic_rewards (; ) : 
+  ,               
+ ; ,            
+ []. 
+ 
+================
+   ,         
+   . 
+ . mental_calculation   [Organization ].      , 
+           ;      
+ .  perceived_responsibility      []             .        perceived_responsibility 
+       ,      [Organization]  
+  .             
+     ,  [Organization]    .  
+       perceived_consensus   [Organization]       
+      .    ,     
+             segregating  
+     .   ,     segregating    
+      ,  loss  perceived_consensus.     
+  [Organization]            ,     [Organization]  ,       := :. 
+perceived_responsibility                 .  perceived_responsibility      . ,   
+        ,       . 
+ impact    perceived_responsibility       perceived_responsibility  
+      [Organization ].    physical_quality    
+ . ,   := :. ,       extrinsic_rewards, perceived_responsibility               
+    .  perceived_responsibility   impact     
+       [Organization ]. ,    := :. 
+         perceived_responsibility    impact 
+  .  perceived_vulnerability [exposure]  [Organization]      perceived_responsibility  
+      [function]      perceived_responsibility     
+     .    intrinsic_rewards    ,    Organization  
+ 
+================
+   perceived_responsibility.        perceived_responsibility     
+                  
+perceived_responsibility.             
+     appraisal. ,  [policy]       
+ perceived_vulnerability appraisal  (.., [,  ])    . 
+..  perceived_responsibility  
+       . ,      
+                  
+    .   intrinsic_rewards       
+        intrinsic_rewards      .  
+intrinsic_rewards      intrinsic_rewards . 
+       [policy]   
+      .      
+             
+.  process     .. 
+ gain,           [policy] 
+  (),  [policy]   ()   perceived_responsibility .  
+perceived_responsibility       [] (,   ) 
+       .       
+perceived_responsibility [] .    perceived_responsibility   []    , 
+     intrinsic_rewards     ,    
+  intrinsic_rewards     .         
+               ,   
+     [policy]    [policy]   ().   
+        ,    . 
+    process           
+     segregating.        ,   
+    ,              
+ 
+================
+  
+ 
+ 
+perceived_responsibility  
+ 
+ intrinsic_rewards 
+ 
+  
+perceived_responsibility 
+[]  
+ 
+  
+  
+ . 
+intrinsic_rewards  
+ :     perceived_responsibility . 
+ .       ,    segregating      
+       .       
+  ,            
+    .  ,     intrinsic_rewards      
+              
+  .           ,  
+     perceived_responsibility       . 
+                  
+   ,      . 
+. intrinsic_rewards  
+  ,        intrinsic_rewards   .    
+ .  [],            
+intelligence            . ,  
+ 
+================
+    
+     
+   
+ ? 
+ 
+ 
+ 
+     ? 
+segregating  
+ 
+ intrinsic_rewards  participant_modeling   
+? 
+ 
+ 
+  
+ :      . 
+intrinsic_rewards            
+ behavior.    behavior       personality 
+  intrinsic_rewards    .  gain,  intrinsic_rewards      
+        participant_modeling  perceived_responsibility.    simplifying 
+ intrinsic_rewards       behavior,         
+       .  gain,  intrinsic_rewards   
+                
+     perceived_responsibility,      perceived_responsibility. 
+ intrinsic_rewards         intrinsic_rewards  
+(intrinsic_rewards (; )): 
+.   behavior. 
+.   behavior,            
+ . 
+ 
+================
+.  impulsive_effect    behavior,          
+   behavior. 
+.       . 
+ intrinsic_rewards        .    [],  
+    ; ,    intrinsic_rewards  .  
+gain,      behavior         
+,       .   ..,       
+   perception      []. 
+.. intrinsic_rewards  
+ perception     behavior       perceived_responsibility (= 
+  ;   ;  ).           
+           perception .  
+perception        .     
+      ,    = = .   
+perception   ; :::; ; :::, ,              .                     .         perception     .  , 
+             (= ), 
+ ,   ,       ; :::; ,         perception , .         ,    [, , ]     [, , ].      perception   ;        :            [, , ],   [, , ]      perception . ,      behavior  
+ .   ,      perception       
+       behavior        . 
+             .    
+ 
+================
+ :     (). 
+(; ) 
+ 
+  
+ 
+  
+ 
+  (; ) 
+[function]     (     )    . 
+      
+          perception             perception             perception             perception   [function]    combining perceived_vulnerability               
+       .     Collection     
+    .  ,     = ; ; ;   perceived_responsibility  .     [function]       
+           :  ! .   
+  (; )=   perceived_responsibility    . 
+ .   intrinsic_rewards []     perception        : 
+ 
+: (; ) []=  
+ 
+ 
+: (; )+ : (; ) 
+  
+  intrinsic_rewards   behavior         perception 
+                combining 
+      .    intentionality    
+    ().   ,  perceived_responsibility       
+[Organization]    impact    intrinsic_rewards,       .   
+          intrinsic_rewards   .  ,  
+        ,   intrinsic_rewards    . 
+ .   intrinsic_rewards     perception  , [],   
+ 
+================
+    =.=.     =.=. 
+ 
+. . . . . . . . . . 
+ 
+    == 
+ history 
+ history 
+ :      intrinsic_rewards ( )      
+   . 
+ : 
+ 
+  
+[]= [
+ ]
+  
+= 
+    physical_quality  perception  
+  
+    : 
+ 
+
+  
+=  
++ (; 
+ )
+ (
+  
+= 
++ (; 
+ )) 
+  . 
+  physical_quality           ,  
+       intrinsic_rewards        
+  behavior.  physical_quality    ,     
+     perception .      
+  
+  
+          perception . 
+       . = ,   perception     physical_quality;          intrinsic_rewards    
+.   ,   intrinsic_rewards         intrinsic_rewards. 
+= :,          physical_quality     
+ 
+================
+loss  .  , = :    possibility_effect      
+   ,        physical_quality   
+ .      .  persistence      
+     . 
+     physical_quality     combining          perception  
+ .           perception         
+       intrinsic_rewards       
+. 
+ .  intrinsic_rewards []     perception      : 
+[]= []
+ [] 
+       intrinsic_rewards      intrinsic_rewards. 
+ [] ,        behavior      intrinsic_rewards.  ,  []< ,   behavior  . 
+   possibility_effect           perceived_responsibility  
+   ,        .  
+    belief   . 
+ .   , [],  perceived_responsibility        perception      : 
+ (; )= ,  []= . : 
+ []= 
+(; ) 
+( ; )
+ 
+(; )+ (; ) ( ; )+ ( ; ) 
+,  [] .        perceived_responsibility   ,     .  gain,                 
+ perceived_responsibility ,         behavior      
+( ,    ).         ,    
+           .  []= :,       combining   (    perception  )  
+ 
+================
+  .  []                    perceived_responsibility. 
+              
+.       perceived_responsibility       ()  
+ .  behavior       . 
+ .        perception  ,  [],    : 
+ 
+ []= 
+ 
+:[]> 
+        perceived_responsibility                                 . 
+     []> ,          perceived_responsibility ,       combining  .           perceived_responsibility    (  )       
+       perceived_responsibility (:). ,    combining 
+ intrinsic_rewards       ,      intrinsic_rewards 
+  perception   (     perception     ). 
+ .    intrinsic_rewards 
+intrinsic_rewards (; )     perception      : 
+> 
+<intrinsic_rewards (; 
+ ) 
+ ([])=  
+intrinsic_rewards (; )=    
+:> 
+ 
+ 
+= []+ []+ ([])
+  [] ++= . 
+,   physical_quality    behavior,   physical_quality   
+    physical_quality  impulsive_effect   behavior.     
+ 
+================
+    physical_quality,   ,          behavior      intrinsic_rewards   certainty_effect .  < ,  [] ,      []<  (  behavior  ),   .   ,       intrinsic_rewards    .      
+    .. 
+  ,        behavior  intrinsic_rewards    - 
+        .   []  []       (a_memory  []        behavior ),   intrinsic_rewards   ,     . ,  
+     ,  intrinsic_rewards         
+behavior,  behavior    . 
+  intrinsic_rewards  perception :   intrinsic_rewards  
+      intrinsic_rewards      . 
+  [].         perception     
+[].  .  perception      .   
+,  intrinsic_rewards            behavior  
+impulsive_effect   behavior.       evaluating   
+       perceived_responsibility       intrinsic_rewards 
+            . ()  [], 
+    personality     .     ,  
+belief      perceived_responsibility     .    
+     persistence   intrinsic_rewards      
+    . () ,      
+       protection_effect      
+intrinsic_rewards      . ()  perception  
+               . 
+,        combining      
+         .   ,  
+     appraisal          
+perceived_responsibility. 
+ 
+================
+   intrinsic_rewards    ..    ,   
+         [policy]  
+.   
+              
+ ,  ,          .  
+,        perceived_responsibility    ,   [policy]   
+  ,       perceived_responsibility      
+perceived_consensus.     ,  combining  intrinsic_rewards  
+  .        [policy]    
+   perceived_responsibility             
+  (..,    :        
+   process,    ,  perceived_responsibility      , 
+.).  gain,   process,        perceived_responsibility 
+            behavior_control-ability  process 
+   ,        . 
+..   
+      techniques       
+      .    []    
+.  perception           
+   .      appraisal  combining 
+       .        - 
+, .., ,  .       : 
+  .          
+   ;   ,         . 
+ ,               
+ 
+================
+ .. ... ... ... ... ... ...... ... ... ... ... ... .... 
+     
+.. ..  
+,.. ..  
+ 
+  
+,.. ..  
+.. .. 
+   
+  
+ 
+ :      . 
+    .        
+ perception   isolation_effect . ,        
+            .   
+ participant_modeling             
+ ;    ,   / .   
+          []. 
+           , , 
+            .  
+  []            
+            . 
+        ,     
+  focus  perception    . 
+.. process      
+ process              
+ .     techniques       
+.    ,           
+     .          
+       ,         
+  .             
+    .        
+ 
+================
+,       .      
+ .. 
+     ,           
+,               perceived_responsibility  
+ .   ;      combining       
+    .             . ,           
+,             . 
+           ,   
+    . ,        
+       .     [policy] 
+      participant_modeling  perceived_responsibility.     
+       .  ,      
+          perceived_responsibility   ,   
+isolation_effect  perceived_responsibility   [policy ].    ,       
+perceived_responsibility ()    personality,         
+perceived_vulnerability    .          
+.     .        
+        .     
+             
+  .      ;        ,    . 
+. appraisal 
+  ,    mental_calculation   intrinsic_rewards     
+.. ,    appraisal        
+   .. 
+appraisal   intrinsic_rewards :       
+ 
+================
+. 
+[] 
+[] 
+[] 
+intrinsic_rewards (,) 
+% 
+ 
+. 
+. 
+. 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-0. 
+ :   intrinsic_rewards        , 
+= :, = :, = : = :. 
+ .        perception.   ,  
+          .      
+      : %      
+ (:), %     (:)        (:) . 
+          .        
+       perception  .   , 
+ = :     intrinsic_rewards (  ),      
+ ..      . 
+ :         combining     
+,     .          
+    intrinsic_rewards (; )= ,    ,            .       
+,  perceived_responsibility intrinsic_rewards , intrinsic_rewards (; ),     .  gain,  
+   intrinsic_rewards       . mental_calculation  
+ 
+================
+. 
+ 
+[]   intrinsic_rewards (,)  
+intrinsic_rewards (,)  %  
+[]   
+. 
+. 
+. 
+. 
+ 
+ -0. 
+ 
+ 
+ 
+ : intrinsic_rewards   :  := :, = :  = :   := :, = :  = :. 
+perceived_responsibility      ..          
+       perceived_responsibility, intrinsic_rewards       
+   .  , intrinsic_rewards       intrinsic_rewards    .. 
+             behavior, 
+ physical_quality        gain        
+behavior.          ,     
+       .     personality 
+ physical_quality           .  perceived_responsibility intrinsic_rewards                   
+   .           ,   
+    .   ,     ,    ,  
+    ,          
+ intrinsic_rewards . ,   ,        . 
+ 
+================
+. 
+[] 
+[] 
+intrinsic_rewards ([],) 
+%%  
+ 
+. 
+. 
+. 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ :      intrinsic_rewards   ..  := :, 
+= :, = : = :. 
+:              
+behavior.   ,               
+    (..,    ), ,     
+     intrinsic_rewards      behavior.    ,   
+   intrinsic_rewards  ,       gain  
+intrinsic_rewards   .              intrinsic_rewards 
+    .,          .        (   ), []           .        behavior     
+intrinsic_rewards  . (     ).   personality behavior ,  
+ intrinsic_rewards     gain . 
+appraisal       :   
+      ,   .    
+        perceived_responsibility,       
+ perceived_consensus   participant_modeling  perceived_responsibility.        
+ 
+================
+()    
+()    
+ : .        . 
+   perceived_responsibility           
+perceived_responsibility      .  gain,      
+     ..,     . 
+      .        
+    ,            combining   
+.    []          ( 
+    .)            
+  .      : ,  
+combining        .      
+    ,        .   
+   ,     ;     .  , 
+= ;       perceived_responsibility , = ;       perceived_responsibility , = ;        = ; ; ;     perceived_responsibility .     
+;             . 
+       .    ,   
+ 
+================
+ :     
+ 
+            
+  . 
+. 
+. 
+. 
+. 
+. 
+  . . . . . . 
+   .  ,        
+       ,   combining    .  
+ ,       . 
+          [].  
+  [function]              [function]  
+          .       
+     .         [,]. 
+     ,       . 
+       .     
+     personality        
+,           .    
+        .  gain,   
+     appraisal   ,    
+       .     
+         . 
+.   
+  ,          perceived_vulnerability [exposure] 
+    .          
+ 
+================
+        , protection_effect    
+ loss. ,     intrinsic_rewards  
+       .        
+      .  experiential_awareness ,  
+      combining  behavior     
+    intrinsic_rewards  .          
+         combining  . 
+,    perception  combining   ,    
+[policy]  
+   ,     , ,    
+        process    . 
+ 
+================
+.       
+  
+         perceived_vulnerability    
+ (). ,    imagination       
+  .. ,   .,        . 
+            ..  perceived_vulnerability 
+     ..       
+  .. ,  generalizing     .      
+appraisal. 
+.      
+     imagination          
+   [].     . 
+ :        = ;       
+                  
+   .            
+   .          (.., , , 
+.)       . (;)        (; ),  , (;)=,            
+ . 
+              , ,   . 
+ 
+================
+,              
+.      (; ), (; ; ), (, , ), (, ), (, ),  (, ), (,  
+
+  ),  .  (, 
+),  (, )           
+.             .     
+    ::= ^  _ :,    . 
+             ?               appraisal   [policy ]. 
+ :   , ,     .     = ; , 
+         [function ].          , 
+..,  ,    .         
+        []. [function]   
+         .  , = ; , 
+        = (;); , 
+           belief   . [function]   
+ , , , , , ,  isolation_effect [],       
+          .   []. 
+.      
+             [policy]  
+        behavior.   
+           
+      segregating.    ; ,   
+         participant_modeling   [Organization ].  role   
+    .
+  :  role              
+ ,            
+ 
+================
+       .
+  :           
+ role        .
+  :           
+              .    
+   :    . 
+          segregating   
+     .      possibility_effect  
+,     .  ,      
+    . 
+              
+ intrinsic_rewards      .        
+        .   ,     protection_effect 
+          protection_effect  .   
+    .
+    :          
+   Organization        [resource ].    
+  protection_effect       [resource]    .
+  :            
+    . 
+       . ,     
+           [policy ]. 
+,           combining  
+  behavior         . 
+     ,       , 
+   .          
+ ,      .      
+behavior          , ,   
+ perceived_vulnerability [exposure]    . 
+ 
+================
+      .      
+     ,   belief .    
+     ,          
+  ,   syllogistic_rules , . 
+            .  
+       ,      
+ ,      perceived_vulnerability [exposure]       
+        .    perceived_vulnerability [exposure ],  
+   [policy]      participant_modeling    
+process.   process,      .,       
+   ,  loss       intrinsic_rewards   
+    .   ,      
+  perceived_vulnerability    .   perceived_vulnerability      
+   perceived_vulnerability  ,    segregating.    . 
+          .   , 
+= ; ,         ,     [policy] 
+  (). ,      [policy]   ()  
+  [policy]   [policy]   ().      
+              segregating :
+       role , ,       . 
+,        arousal       
+    .
+          .
+       .
+    ,    ,      
+               
+   .
+ ,  perceived_vulnerability        behavior 
+     . 
+ 
+================
+   ,       . 
+ 
+  perceived_vulnerability    
+ 
+   
+ 
+perceived_vulnerability 
+  
+ 
+belief 
+perceived_responsibility  
+ 
+ 
+  
+ 
+&  
+ 
+,   belief  
+  
+  
+belief  
+ perceived_responsibility  
+ 
+  
+  
+ 
+  
+:= [policy]   := [policy]   := [policy]   
+ :       
+.     
+          ,  ,  ,   
+  .     = .     ,   
+  . 
+ 
+================
+ : [function]   . 
+[function] (  ) (  ) ( ) 
+(; ) 
+() 
+( ) 
+(  , ) 
+(  ,   ) 
+(; ;) 
+(  ) 
+(  ;   ) 
+(  ;   ) 
+ (  ;   ) (  ; ) 
+isolation_effect (; ) 
+(  ;   ) 
+ 
+         .        .           . 
+             :. 
+             . 
+[function]    perceived_vulnerability      . 
+        ,         . 
+      role ,        . 
+          . 
+          .    perceived_consensus         (). 
+      role ,                :. 
+      role ,     ,   ,      :    .    ;.  := ;,   ;. 
+        :.              :. 
+      ,       isolation_effect  . 
+       :     . 
+ 
+================
+          .       
+  .                . 
+,             , 
+. ,        .      
+ . 
+ .  role             constraint 
+ = ;;;; :
+        role (   role   ).
+               ,  
+    ,    .
+         .
+        .
+        . 
+    constraint   role,     , .., :    
+  role   :    constraint.   ..,     
+role             .    
+      .           
+ .           . 
+..   
+          behavior 
+  .              role. 
+       
+ .   perceived_responsibility       = !;  
+!= ;,       (        
+  ),          .  
+  !    ?, (.., !:= ?),        
+  . 
+ 
+================
+          [Organization]      perceived_responsibility. 
+,=        =      . 
+       role   ,       role  , Organization          role  . 
+ . () mental_calculation        role ;     
+ role,              
+       .     ,     
+perceived_vulnerability          loss    personality 
+.   ,     perceived_responsibility      perceived_vulnerability    
+.  constraint     : = ; ;?;:. () mental_calculation          ,  
+  .     protection_effect       
+         .     perceived_responsibility 
+{       ,    , ,    , {   possibility_effect             physical_quality  .           . 
+      : = ?;(?; );:  = ?;(?; );:.     role       role . 
+    ,          perceived_vulnerability [exposure ]. 
+               perceived_vulnerability 
+          personality       
+  (..,       personality loss ). , 
+:> :. 
+..   
+             , 
+  personality. 
+ .   constraint        ; ;;   
+ 
+================
+           constraint  ,
+         constraint  ,
+              
+                 
+       . 
+                :,    
+ :      ,  constraint      
+   segregating  protection_effect  . 
+  [policy] appraisal ,           
+   .   ,   constraint      opportunity_for_criminal_acts. 
+                 
+        . 
+ .  ,       . mental_calculation  
+       role     := ; ,  = ; ;(;); );(?;);:  
+= ;; ;(?;);:. 
+       ,             .       (..,     ), 
+             .    
+ ,                     .  . 
+ .   constraint         ; ;;    
+                  
+   ,    ,           . 
+, :     perceived_vulnerability          perceived_vulnerability   .   :      behavior.  ,  := ,        .  ,  :=   belief         . 
+ 
+================
+ :          possibility_effect   
+ .         [function] . mental_calculation  
+    ,  ()> :,      . 
+:       .  ,     
+   combining           
+   [, ,  ].           
+   . :           
+    .  ,  :        
+, :     . 
+ . mental_calculation role        := .  constraint    : ,;;(?; );:.                      
+   perceived_vulnerability  .  . 
+ .    ,   constraint = ; ;;                        : 
+.   (:). 
+.  (; ; :) 
+.  ([ ) : 
+. () 
+.  : 
+     perceived_vulnerability         . 
+)     perceived_vulnerability            
+    )            
+ .   possibility_effect         
+       :    constraint .   
+               
+ . 
+ 
+================
+ intrinsic_rewards :         
+ {              ,    
+               .   
+          role, (; )(; ) = ;. 
+   :    :, a_memory  :      ,  
+:              
+. ,                 
+       .     ,  
+       .  ,         
+:       ,     segregating. 
+..   
+       role,       
+              . 
+ .   perceived_responsibility       ; ;  
+            .   +;;+; ; 
+ ;; ; . +,           
+      ,  -meet        
+   . , +          
+ -visit     .
+                 perceived_responsibility  
+ perceived_responsibility      .
+              [Organization]    
+  perceived_responsibility. ,=        =     
+   . 
+    arousal,      perceived_responsibility   
+     [].     role ,      
+perceived_responsibility   :.             
+perceived_responsibility,  perceived_responsibility , ,      arousal  ,   
+ 
+================
+[]   perceived_responsibility,    ,   .  perceived_responsibility   
+    [; +:].   []        
+       .  []       
+               : 
+. 
+ .    role, ,          
+           . =  ;; ;;:  =  ;(?;  ); ;:.  := ; . 
+..    
+             
+  role.         role,       
+     .     ,     segregating. 
+ .    constraint       = ; ;  
+ = ;; :::;      /        / .                   .        ?,        .
+                   
+      .
+             . 
+    :       .    
+     role      :   ,    
+     [
+ :; ]. 
+a_memory    role        ;   role 
+         :.   [function] (, )  
+            :   . 
+ 
+================
+ . mental_calculation             
+          .  constraint   
+  =( ; ;?;;:),     constraint                 role 
+        .      intrinsic_rewards     
+      ,  impact       
+                 
+   . ,     perceived_responsibility  , := :. 
+   ,  ,          
+    .    , (, )     role 
+  . 
+..  [policy] 
+    ,     protection_effect   [policy]    
+.         ;     
+  segregating. ,          . gain - 
+,        . ,     
+protection_effect  [policy]  . 
+ .  [policy]         ; ;   (): 
+.@   : : isolation_effect (:; :) 
+.@ = +; ; ;   :;   : : 
+isolation_effect (::; :) 
+.@   :;   : : := : 
+.@   :;   : : (; :)^ @;  : : = : 
+               role  
+                 
+          .     []  
+          ,     ,     
+ 
+================
+ /      .       
+           intrinsic_rewards . 
+   role          role,    
+                 
+   / [policy ]. 
+.. role arousal 
+              
+  . 
+ .  role   constraint  = ;;;;        , (; ),      : 
+.   () 
+. (; ) 
+.  (; ) 
+. () 
+. (; :)=; 
+.  : = ;,  (; )= ; 
+     . 
+              . 
+ .    = ;      ,                     : 
+[ 
+. ()  (      ), 
+ 
+.     : (; ) ( ) 
+. (; 
+)= 
+ 
+         ,   perceived_vulnerability   
+   .    ,       
+ . 
+ 
+================
+.  perceived_vulnerability  
+  ,      .   belief   
+         perceived_vulnerability [],    
+    process.         
+ .           appraisal  intrinsic_rewards. ,  
+     [preference]      ,   
+      .    ,     
+       . 
+mental_calculation    = ;                  .                ( )      (    ).    perceived_vulnerability    ()  ,   perceived_vulnerability    ()  ( ). ,           
+  . 
+                  .        ,   
+             [Organization] 
+ .          . ,      ;  : 
+.  
+; 
+= 
+               
+    , 
+.  
+; 
+= 
+              
+     , 
+.  
+; 
+= 
+              
+    ,  
+    mental_calculation     
+        simplifying  perceived_vulnerability [exposure]    .  ,     ;        arousal  .              : ()         . ,   
+[exposure]           . 
+ 
+================
+.  
+; 
+= 
+           . 
+,          ,              (            ); ,           
+    .    ()     
+    : 
+()=  =+ ( ()=  =+ (
+ ) = 
+()
+ ) = 
+() 
+       () (),     
+segregating. ,            segregating  
+     ()  (), satisfaction_of_needs : 
+ =+ (
+ ) ==  =+ (
+ ) = 
+() 
+      ()  .    ()  ,   
+     .           
+ 
+ .     =, =, =  =   ,   
+             perceived_vulnerability    ,       : 
+(;)= 
+= 
+=+ =
+ = =
+ = 
+>  =   <  = . 
+        ; ,      
+    .  perceived_vulnerability      . 
+ .                 
+.  perceived_vulnerability   process   : 
+> 
+< 
+ (;)>  [  ; ] 
+(;)= 
+>: 
+ (;)  [  ; ] 
+  [  ; ]   perceived_vulnerability         . 
+ 
+================
+ :       . 
+  (perceived_vulnerability )  ( ) 
+  ,  = = = =        
+ . . 
+ . mental_calculation             
+.            , ,   perceived_vulnerability    .   ,        perceived_vulnerability              .    
+            .    
+  appraisal  intrinsic_rewards,        perceived_vulnerability    
+              .    
+          perceived_vulnerability   protection_effect   . ,  
+; 
+= 
+<  
+; 
+= 
+,           segregating   perceived_vulnerability      .   ,   
+     .   [  ; ]=  [  ; ]= :.   ,   (;)= :> :,     .            ()  (),       (;)=   (;)= .               ,   ,        
+.   , (;)= :< :,     segregating. ,           ,   (;)=   (;)= ;       . ,      , ,      belief       ,           ,        perceived_vulnerability           behavior. 
+satisfaction_of_needs  :       , ,  
+[Organization]   .          
+ 
+================
+process     [].   ,        [policy] 
+  .
+            ,    
+    [preference]    .
+ ,          . , 
+=< =,   [Organization]                     ,      
+   . , =< =,   [Organization]             [Organization]  segregating     
+  segregating .
+            arousal  ,    mental_calculation          , (),       .       
+; 
+= 
+,            . ,    
+; 
+=           .    
+      ,          
+,    .        
+           extrinsic_rewards    
+. 
+  perceived_vulnerability    perceived_vulnerability  :     perceived_vulnerability     .        
+.  perceived_vulnerability      behavior    . 
+  ,       history,  ,  
+behavior,     .       
+     .       
+      simplifying     experiential_awareness behavior   
+  ,      .   
+   perceived_responsibility,          
+ perceived_responsibility,             
+ 
+================
+  .      ,     
+    (..,   [,  ]).     
+         [Organization]    , 
+         . 
+ perceived_vulnerability         ([function] ).  
+  ,    .       
+    .        [, ] 
+        . 
+.   
+    [policy ],    .        
+ ,      ,          .              .          ,    segregating. ,   . , 
+          perceived_responsibility   ,    ,    segregating. 
+ role : ,             
+[function]  (    ). ,   ,  [function]   
+            .  ,                .   ,             segregating. ,  [function] 
+       .                constraint      .   
+              .   
+    .   ,                  . ,              constraint        mental_calculation 
+   (  ):       arousal  ,  
+ 
+================
+     process 
+: :=  , :=  , :=   , :=   . : :=       .   = ;,    segregating. , 
+         . 
+: (; ;;) 
+:  :()  
+: ;   
+:  (; ;)   
+:  =;  
+: ;   
+: ;      
+:          
+:  (; ; ; ;)   ,    : |||||||||||||||||||||||||||||||||||||||{ : (; ;) 
+:  (  (())) =;  
+: ;      
+: ; ; 
+:     ()  
+:  (()  = ;)  
+:  [  
+:       
+:  (; )^ (; ) 
+^ ((, )= ;)  
+:  (; )  
+:  [  
+:  (  ())= ;  
+: ;       
+:   
+: |||||||||||||||||||||||||||||||||||||||{ : (; ) 
+:     :  
+: ; 
+:  (:)  
+:  < :  
+:   
+:       
+:  () 
+^ (; ; :)  
+:  [  
+:  :    
+:   
+:   (; :)^ :  
+:  ([ )< :  
+:   
+:  :  
+:       
+:  
+:        
+:        
+ 
+================
+        arousal          
+       constraint.     ,  
+[function] gain             
+  ,     [function]        ( 
+  [function] ).   constraint           . ,       constraint .        ,     .   ,                .   ,  [function]    
+     segregating. ,      . 
+  :       [function]  
+     .  [function]     .  
+            possibility_effect .   
+ constraint    role  (  ),         
+     (  ).            
+           (  ).    
+             .  ,        :  [function]       
+      (  ). ,         .  
+       ,  [function]       
+     .             
+perceived_vulnerability,                   
+ judging  .     protection_effect      
+:   ,  [function]  mental_calculation   (    ). 
+      :            
+    ,  [function]     . 
+       perceived_vulnerability :    ,             constraint       , 
+        segregating (  ). ,   gain 
+     .              .         ,     
+ 
+================
+    ,          perceived_vulnerability [exposure ]. 
+ [function ], ,     .       
+       .      
+               
+,   [function]      
+ : = .     perceived_vulnerability              perceived_vulnerability        
+ .  [function]   ,      
+   perceived_vulnerability [exposure]          .   [function]    ,  role           
+  segregating. ,       . 
+. experiential_awareness appraisal 
+            . 
+   experiential_awareness     experiential_awareness . 
+..   
+...        
+   , 
+        [Organization]  ,  . , 
+       . ,       
+     .          
+    .   ,       
+             ( 
+.., ). 
+     ,        .  
+[policy]      ,         
+           .      
+ 
+================
+       . 
+          [].    
+         .    
+   []   [],   []     
+.     experiential_awareness    .   
+  . 
+...   [policy ],     
+   
+       .       
+        .      
+        [,  ],    [policy] 
+.         . ,  
+        combining   . 
+   ,            
+role arousal  (     perceived_vulnerability  , 
+ )       .        
+             
+.        perceived_vulnerability     
+        . ,     
+   ..   ,         
+ . 
+   ,         
+                
+   .   role      constraint,   
+  .      ,     
+       . 
+           perceived_consensus 
+         role   .    
+ .    ,      
+       .   ,   
+ 
+================
+         ,       
+           . 
+             
+      .           
+  .       constraint ( )    
+            . 
+ ,      appraisal  gain :  
+  ,             role  
+ ,       .  mental_calculation    possibility_effect 
+ : 
+()    role :              
+ . 
+()  :      ,        
+      , ..,         
+role   ,         ,     . 
+()   :    ,          
+    . 
+()  :             
+            . 
+()   :         possibility_effect   
+   (        ). 
+()  :         perceived_vulnerability     
+    role  arousal . 
+()  :          . 
+               constraint 
+appraisal   . 
+    perception,          
+   ,  ..       appraisal   
+          .     
+ 
+================
+ :   .            
+  . 
+ 
+  combining     combining    
+  
+  (   ) 
+       
+             role 
+         
+ : 
+   role 
+   
+   
+  
+                    
+    
+(    ) 
+: 
+: 
+ 
+% 
+     (), %       . 
+ 
+[, ] 
+perceived_consensus 
+. 
+%     
+ 
+% 
+% 
+  
+ 
+================
+ 
+   
+ segregating 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ () 
+       
+ role 
+ 
+ 
+  
+  
+  
+()      segregating    perception      .    . 
+ 
+    
+( ) 
+ 
+ 
+ 
+ 
+ 
+      -Social   segregating   
+% % 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+% 
+% 
+% 
+% 
+% 
+         
+ 
+[policy]  (  ) 
+% 
+()       . 
+   role        -SIR 
+ 
+.%   
+% 
+ 
+.%%  
+.%% (gain) 
+.%% 
+.%% 
+.% 
+% 
+% 
+       
+% % % %       
+   () 
+     ()   
+% 
+()        ,   segregating    (  
+ %   ). 
+ :         ( ). 
+ 
+================
+           [policy] constraint   
+    .       gain     
+ 
+ 
+ : gain= 
+
+ ,           ()         combining   
+   ()  ()           
+,    gain     (), ()  ().    
+   gain   . 
+..    
+  ,    simplifying      .  
+ experiential_awareness appraisal          ( 
+     [policy]  ).       
+   ,    .        
+  .     [policy] ;    intentionality   
+         . 
+ : ,          segregating 
+        ,  .     
+             .  
+         segregating     
+    role; ,        .   
+        segregating        
+ ,       ,   perception  [policy] 
+        .     
+     :  ,   , 
+    .          
+       .      perceived_vulnerability  
+ appraisal   perceived_vulnerability     perceived_vulnerability  , .  
+            .    
+                perception     . 
+ 
+================
+,        .   belief,   
+   . 
+              
+perception.   ,       [policy] .    
+        .      
+          .     
+              
+   . ,         % 
+      [policy] .  [policy]     
+combining    . ,     combining %  [policy] 
+   . 
+             [policy] 
+,  ,        .     
+gain             
+    .      ,       
+  .            
+       .        
+  intrinsic_rewards.  ,       
+,    ,          
+    .      gain    
+       .     ,   
+  role ,      segregating  segregating  
+     .          
+     perceived_vulnerability,  gain       . 
+  ,              
+                role.  
+   ,  gain          
+ . 
+      gain      ; ,   %   . 
+ 
+================
+               
+               
+               
+   segregating.     segregating       role, 
+             ( ) 
+     . ,  gain     
+        . 
+  ,             
+            .   
+,        (  ). 
+ :          segregating  
+              .  
+         %.   %     
+,      .%     .    
+ %     learning   (a_memory     ), 
+   gain  .%   .  ,     [policy] 
+ %      constraint. 
+              
+         .     
+    ,      segregating. 
+,         ,       
+        .      
+protection_effect    ,      segregating   . 
+ %               
+   ,         .%. 
+   ,      perceived_vulnerability      
+  : )        role         
+role    constraint        , )    
+   , )           
+)     perceived_responsibility            . 
+ 
+================
+   segregating   
+  
+.% 
+ .%   (gain) 
+.% 
+.% 
+.% 
+.% 
+.% 
+.% 
+.% 
+% 
+    -Social  
+.% 
+.% 
+.% 
+% % %     
+.% 
+   
+% 
+()                    . 
+       
+ 
+.%    .% 
+ (gain ).% 
+.% 
+.% 
+.% 
+.% 
+.% 
+.% 
+% 
+% % %     
+%     %     %     %       
+% 
+()                     . 
+    segregating 
+ 
+% 
+ 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% % %     
+  
+ 
+combining   
+% 
+()     segregating       
+ . 
+ :   perceived_vulnerability . 
+ 
+================
+     ,         
+         .    
+,             
+ ( ).         
+).       ,        
+     ;     ).    
+             
+gain      . ,       
+        .       
+ %     .   ,     
+       %  %.      
+     ,         
+         .  ,     
+     %   ,      
+         %.    %  
+       .        
+    . 
+ :            
+   ()      .   
+  segregating   ,          
+ .             
+   (= ).   ,       
+   . ,         segregating  . 
+   ,            
+ , .., [,  ].          segregating 
+       .     perceived_vulnerability 
+         . ,     
+    ,  perceived_vulnerability      
+      . 
+ perceived_responsibility :       perceived_responsibility  
+ 
+================
+     -SIR 
+    
+        
+ 
+ 
+               
+                              
+ :     . 
+segregating         perceived_responsibility  .   
+    protection_effect    .   ,     
+gain       segregating        
+  perceived_responsibility .           
+[policy] ,        .     
+          
+,   . a_memory        
+           . ,   
+ perceived_responsibility       possibility_effect     
+perceived_responsibility.             
+  ,               
+ . ,          
+          .      
+     segregating        . 
+ ,    . 
+ 
+================
+  perceived_responsibility     
+gain  perceived_vulnerability  
+.% 
+.% 
+perceived_responsibility     -SIR 
+.% 
+ 
+ 
+- 
+.% 
+.% 
+ 
+ 
+.% 
+ 
+   
+.% 
+ 
+gain :   
+.% 
+ 
+% 
+% % % % % % % % 
+     
+% 
+% % %      
+% 
+  perceived_responsibility  
+()   perceived_responsibility     perceived_vulnerability . 
+() perceived_responsibility    . 
+ :          . 
+   :       perceived_vulnerability 
+ .   ,  appraisal     appraisal   
+    , ",        .   
+,      .     perceived_vulnerability  
+, ,   ;        . ,   
+perceived_vulnerability, ^,       [
+ "=;  +"=].     
+"  .  ..          
+       (),   (),   ()  
+  (). 
+       ,       , 
+,           .      
+        appraisal  .    ,  
+"=.,                
+   combining   .  ,       
+ gain    appraisal      .     
+    appraisal  ("=.)  .        
+ combining   .          
+ 
+================
+ 
+  
+ 
+ certainty_effect () 
+ 
+ 
+  () 
+ 
+ 
+ certainty_effect () 
+ 
+ 
+  () 
+ 
+ 
+()    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. . . . . . . . 
+appraisal  
+()   
+ 
+ 
+ 
+ 
+ 
+ 
+. . . . . . . . 
+appraisal  
+()   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. . . . . . . . 
+appraisal  
+()   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+. . . . . . . . 
+appraisal  
+()   
+   
+. . . . . . 
+  
+. . . . . . . . 
+appraisal  
+()    
+ :    appraisal , ",   belief techniques     
+    . 
+ 
+================
+             
+   personality.              
+ . ,          
+     belief    . ,   
+,             
+    .      appraisal  ,  
+   .     appraisal         
+   .      appraisal ,   
+  segregating    ; ,   ,  appraisal 
+      . 
+              
+     .         
+            
+        perceived_vulnerability.   appraisal   
+  personality       appraisal  .    
+     . ,    [policy]      
+        ,        
+    appraisal . ,        
+  protection_effect ,    ,        
+ . ,    perceived_vulnerability     ,    
+,           .  
+     appraisal  ,    personality   
+ segregating        .      
+       . 
+ :   ,         
+          .     
+          . , 
+        . 
+ 
+================
+       
+ () 
+     
+ 
+   
+ 
+ 
+ 
+  [policy]  
+ 
+ 
+ 
+ :     [policy]  . 
+..     
+mental_calculation  perceived_vulnerability      task      
+ ,         []. ,  
+               
+. ,               
+ .    ,        
+ .           
+  .     ,    simplifying    
+   .           
+[circumstances ],        
+  ,     belief   .   
+             [function] 
+      perceived_vulnerability    [  ; ]    perceived_vulnerability   .     appraisal       
+perceived_vulnerability.               
+           appraisal   
+.      appraisal      , 
+                
+ appraisal .           
+ 
+================
+. 
+          ,     
+impact       .        
+        .   ,   
+     %       , 
+           .  
+              
+  .   ,         
+     . ,  perceived_vulnerability      
+.   ,    experiential_awareness     
+          protection_effect. 
+.   
+  ,   .     ,     
+           behavior. 
+    ,  , ,   
+ .           
+          perceived_vulnerability. ,   
+ [policy]  ,     combining    behavior  
+,   .        
+perception     . ,    perception   
+        [policy]      
+   segregating   intrinsic_rewards. 
+   ,    ,       
+ . 
+ 
+================
+. ,     
+    ,          
+     perceived_vulnerability     ,  
+    participant_modeling  . 
+    perception  participant_modeling     behavior   
+,   perceived_vulnerability [exposure]   [Organization]         
+    .  perception         
+       impact  [Organization ].   , 
+ perception             
+     .    simplifying  perceived_vulnerability [exposure] ,   
+    ,       perceived_vulnerability [exposure ].  
+  experiential_awareness      .     
+             . 
+,         perceived_vulnerability [exposure]    
+ .     ,       
+ combining          .    
+  ,   impulsive_effect    behavior     behavior 
+   .   intrinsic_rewards        
+            .   
+          ,    
+       segregating.   ,    
+ perceived_vulnerability [exposure]            
+      .  gain,     
+         .   
+ 
+================
+   combining [policy]    .    
+      . 
+ intrinsic_rewards             
+  (.., )  perceived_vulnerability  role arousal  (.., []). 
+      perceived_vulnerability         
+          simplifying  perceived_vulnerability [exposure]   
+[Organization ]. 
+        gain     
+     protection_effect  .     
+       process     
+             
+     perceived_vulnerability . ,       
+         participant_modeling   .  
+   ,     perceived_vulnerability    
+ ().      [knowledge ],         
+            .  
+         [policy]   
+  ,  perceived_vulnerability   ,  , 
+ ,   .       
+ perceived_vulnerability      . ,    
+     combining  .      
+         .    
+      ,       
+             
+..     
+        . ,      
+       (     ).    
+           perception.   
+ 
+================
+    vulnerabilities    ,    
+ ,  . ,       
+  . 
+,      perception       
+behavior.            
+   intrinsic_rewards.   ,        
+  segregating   perception.  ,      
+ . )  :         
+     persistence           
+ .         intrinsic_rewards 
+       personality  (  ),    
+              
+.             
+              []. 
+                
+)  : ,    behavior        
+   participant_modeling              
+  loss    segregating    .     
+           ;     
+    . ,     . ,  
+ intrinsic_rewards    protection_effect       segregating. 
+        ,          
+      .       belief   
+,      .     ,  
+        belief . belief   
+        . ,     personality 
+belief            generalizing  
+.          personality 
+belief . 
+    Collection,      behavior.  
+ 
+================
+          perceived_vulnerability     
+   .   ,          
+simplifying    . ,        
+,     mental_calculation     ,    
+.             
+  . , intrinsic_rewards  protection_effect       
+ . 
+   [policy]        
+              
+  simplifying [policy]  . 
+,     ,       
+      protection_effect  .    
+      . 
+ 
+================
+ 
+      
+              
+     ()   [].    [function]   
+      .            : 
+
+ 
+ 
+ 
+ 
+ 
+()= 
+() 
+= 
+ 
+ 
+ 
+ 
+ 
+          ,                  .          
+: 
+= 
+ 
+() = 
+ 
+    combining              . 
+      ,     ,   
+        ,    = .   
+   . 
+   [function]            .  
+       
+()= 
+ 
+ 
+() 
+ 
+================
+                 .  
+combining             : 
+ = 
+ 
+() = 
+ 
+      . 
+ 
+================
+ 
+[]      ,    .  
+,  , . 
+[]   , ://.., . 
+[] :   / . ://.., . 
+[] . . , . . , . , . . , . ,  .  
+ perceived_vulnerability appraisal    .      
+     , , , 
+, .   . 
+[] . , . , . , . ,  .    :  
+       .    
+     intelligence,  {.  , ; 
+, ; ;  ;  ; , . 
+[] .-xxx.   . .      
+. . . ., :{,  . 
+[] . , . , . ,  . .   perceived_vulnerability, :, 
+ perceived_vulnerability appraisal (), . 
+[] . , . . , . ,  . .  role    
+  perceived_vulnerability .      :    
+  , modeling   , . 
+[] . . combining, . . , . . , . . , . . ,  . . . 
+     :   , . 
+[] .-xxx.   . .      . , 
+():{, . 
+[] .   . .     :   
+perceived_vulnerability.             
+,  ,  {,  , , , . . 
+ 
+================
+[] .   . .   perceived_vulnerability      
+   . & , :{, . 
+[] .   . .  perceived_responsibility :    simplifying perceived_vulnerability 
+[exposure]    .         
+    ,  {. , . 
+[] . , . ,  . . :    
+   .   .       
+    ( ),  . , . 
+[] . , . . ,  . .   .  
+           , 
+ {. , . 
+[] . , . ,  . . .    [policy]  
+   .       
+ (), , . 
+[] . , . , . . ,  . .    
+    appraisal .     
+         ,  {. 
+, . 
+[] . , . . , . ,  . .  [policy]   
+ intrinsic_rewards    .  & , 
+():{ , .    :    . 
+[] . .   .    , ():, . 
+[] . , . , . . ,  . . :    
+.              
+,  {. , . 
+[] . , . , . ,  . .     
+.     ,  , . 
+[] . , . , . ,  . . perceived_responsibility    
+ .       , . .  
+  ,   {, . 
+[] . .  belief     personality [policy] . 
+        .      
+  , ,  {, , , .  
+. 
+[] .   . .   perceived_responsibility    . , . 
+ 
+================
+[] . , . , . , . , . , . , . ,  . . 
+  perceived_vulnerability       . 
+     (),    ,  {, 
+ . 
+[] . , . ,  . . protection_effect : , belief  
+,   . [knowledge]   ,   
+, (): {, / . 
+[] . , . ,  . .  perceived_vulnerability    
+.   ,     ,  {, . 
+[] . , . , . , . ,  . .  
+        .    
+         ,  {. 
+, . 
+[] .   []   . 
+://.../: /   ., 
+. 
+[] .   . . :  intrinsic_rewards     
+      .        
+      ,  ,  {,  
+, , , . . 
+[] . .   . . . :      .  
+   {intelligence ,  {. , . 
+[] .   . .    .  .    
+     intrinsic_rewards ., . 
+[] .   . .       belief 
+. [knowledge]   ,   , (): {, 
+. . 
+[] .-xxx. , . ,  .-xxx. .    intrinsic_rewards     
+ .   , , : {, . 
+[] .-xxx. , . , . . ,  . .    
+process    .   :., . 
+[] . , . , . . , . , . ,  . .  
+     .       
+      ,  ,  {, 
+ , , , . 
+ 
+================
+[] . . , . ,  . . :       
+.            , 
+ {, . 
+[] . .   :     .  
+, . 
+[] . .  : perceived_vulnerability ,  [function] appraisal.    
+,     .  ,    
+, . 
+[] . . , . . , . . ,  . . .     
+        .     
+    , ():{, . 
+[] . . , . , . , . . , . ,  . . . 
+satisfaction_of_needs     .     
+        ,  , 
+ {,  , , , . . 
+[] .  , . ://./. 
+[] .   . . constraint    .  
+           , 
+ {. , . 
+[] . , . ,  . . :       
+    ,  {, . 
+[] . .   . . .       
+belief  . .   . ., ():{, . 
+[] . , . , . , . ,  . personality.  intrinsic_rewards  
+perceived_vulnerability     .         
+       .  , . 
+[] . .       , .  . 
+[] .   . .   []     .   
+/, . 
+[] . , . , . ,  . .  intrinsic_rewards        
+ .          
+     ,  ,  {, 
+, , , .   . 
+ 
+================
+[] . . , . , . , . . ,  . .  
+     .  . . . ., :{, 
+ . 
+[] . . , . , . , . . ,  . .  
+     .  . . . ., :{, 
+ . 
+[] . , . ,  . .       
+ :   ,    .  
+,  perceived_vulnerability   (), . 
+[] . . .   :    [policy] . 
+             
+,  {. , . 
+[] . , . ,  . . [policy]    : belief,  
+  .           
+ ,  ,  {,  , , , . . 
+[] . , . , . , . , . ,  . .    
+     .    -  ,  
+       ,  {.   
+, . 
+[] . .   . . .   :     
+.  . . , . . , . . , . , . . , 
+ . , ,     ,      
+ ,  {.  , . ./ . 
+[] .   . .    intrinsic_rewards   , . 
+[] . , . ,  . . /     perceived_vulnerability 
+, . 
+[] .   . . [modeling]  behavior    , 
+. 
+[] . , . , . , . ,  . .   
+: [modeling]    possibility_effect  .   
+ (),      ,  {, 
+. 
+[] . , . , . ., . , . ,  . .  [modeling] 
+  perceived_vulnerability , . 
+ 
+================
+[] . .   . . .     mental_calculation   
+perceived_vulnerability .          ,  
+,  {, , , , .   . 
+[] . , . . ,  . .       
+. & , . 
+[] . .        ,   
+. ://..///// 
+, . 
+[] . [resource]    (), . :// 
+..///////. 
+[] . , . ,  . .  perceived_responsibility   . 
+ intrinsic_rewards  ,  {.  , . 
+[] . , . ,  . . .   [modeling]    . 
+           , 
+ ,  {,  , , , . . 
+[] . . , . . ,  . . .  :  .  . 
+., ():{, . . 
+[] . , . , . , . ,  . . impulsive_effect 
+   .        
+    ,  ,  {,  , , 
+, . . 
+[] . .   .  . , . ,  . , 
+,  :     ,     
+   ,  {.  / , . 
+./. 
+[] . , . ,  . .    intrinsic_rewards      
+ , . 
+[] . , . ,  . .  internalization    perceived_vulnerability - 
+   .         
+  ,   ,  ,  {, , 
+, , .   . 
+[] . , . , . , . ,  . .   intrinsic_rewards  
+?   perception        
+  ,          
+       (/),  {. 
+, . 
+ 
+================
+[] .   . . .      perceived_vulnerability. perceived_vulnerability , 
+():{, . 
+[] .   . .         
+. & , ():{, . 
+[] . . , . . ,  . . :   
+  .         
+      ,  {. , 
+. 
+[] . . .     . , ():{, . 
+[] . , . , . ,  . .  combining   .  
+       intelligence,  {.  
+, ; , ; ;  ;  ; , . 
+[] . , . ,  . .  personality      
+.             
+ ,  ,  {,  , , , . . 
+[] . , . , . ,  . . perceived_vulnerability     .  
+   intrinsic_rewards (),      , 
+  {, . . 
+[] . , . ,  . .   "       
+ , . , ://../ perceived_vulnerability. 
+[] .   . .     intrinsic_rewards  .   
+          (), 
+. 
+[] .   .   perceived_vulnerability :   .   
+  . 
+[] .   . . . perceived_vulnerability       .  
+           , 
+   ,  {.  , . 
+[] .       , . 
+[] . .    . .      perceived_responsibility 
+ (), . 
+[] . , . . , . ,  . .   intrinsic_rewards  
+  .       ,  :  
+  ,  , . 
+ 
+================
+[] .    , . 
+://..//// 
+/.. 
+[] . .   . . .      .  
+  [knowledge] , :{, . 
+[] .   . .     .  . . . 
+.,  {, . 
+[] .   . . perceived_responsibility        
+  .  . , . ,  . , ,  ,  
+      ,  {.   , 
+. 
+[] .   . .    , , . 
+[] . .       (), . 
+[] . , . ,  . . :      . 
+   ,  {. , . 
+[] . . . , . .        
+     .      
+  , . 
+[] . .   .       .  
+ , ():{, . 
+[] . . , . ,  . . .       
+.      ,  {. , . 
+[] . .   . . . [modeling]   behavior   . 
+     ,  {. , . 
+[] . , . , . ,  . .  perception     
+perceived_vulnerability.  ,    (),    
+ ,   {, . . 
+[] . , . , . ,  . .  role   . 
+  , . 
+[] . . role arousal .         
+  ,  {. , . 
+[] .  perceived_vulnerability , . ../// 
+///.. 
+ 
+================
+[] . , . ,  . . personality      
+ .   , ():{ , . 
+[] .  . ,  . . .    
+ .            
+ ,  {. , . 
+[] . .        
+ , . 
+[] . , . ,  . . :  vulnerabilities   
+    .       
+     ,  ,  {,  , , 
+, . . 
+[] . . , . , . . ,  . . .  [policy]  
+  role   .        
+    , ,  {,  , , 
+, . . 
+[] . , . ,  . . perceived_vulnerability     
+  ,         
+, . 
+[] . . perceived_uniqueness   , . 
+://..////.. 
+[] .   . .       . 
+ , . 
+[] . . , . . , . . , . . , . . , . , 
+ . .      .    
+behavior, ():, . 
+[] . . . .   :   focus.  , 
+. 
+[] . . .    ():      
+    .        
+    ,  {. , . 
+[] . , . ,  . . .   belief   
+     .     
+ , (), . 
+[] . . , . . , . .  , . ,  . .  
+          
+ 
+================
+.      appraisal       , . 
+[] . . , . . ,  . .      
+    .  .      , 
+ ,  {. , . 
+[] . . , . . ,  . .      
+    .  .      , 
+ ,  {. , . 
+[] .   . .   belief    .   
+  , . .  ,   {,  
+. 
+[] .   . . . . :        
+       .  .     
+,  ,  {. , . 
+[] . , . ,  . .   role   .  
+          
+   -  ,  ,  {, , 
+, , .   . 
+[] .   . .        
+. . learning ., ():{,  . 
+ 
+================

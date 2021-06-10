@@ -1,0 +1,542 @@
+     , . , . ,    
+      :  
+      
+ ,  ,  ,   .  
+     participant_modeling  perceived_vulnerability appraisal          .  simplifying       ( )       ( )      .    personality perception  belief     [knowledge] : )   ; )      ;  )   .              .     ﬁ-operational           . 
+   ,  ,  ,      () ,  . 
+.  
+ 
+   ()   
+           .   ,               ()           .    ()     ,       . ,    ﬁ    .   ,     participant_modeling  perceived_vulnerability appraisal  /        .  focus     /     .      ()   []      []      . 
+   , ;   , ;   , .    ﬁ   , .     , ;      , .        ,   ,       protection_effect ,        ,      .   combining  . . 
+.         situational_circumstance ,    , ,    ( : @.). 
+.            ,  ,  ( : .@.). .           ,   , ,    ( : @..). 
+. .                  situational_circumstance ,    , ,    ( : @.).         ﬁ        ://... 
+  ﬁ ./.. 
+ ©   
+ vulnerabilities       . ,        ,    vulnerabilities   ,           . ,              ,        learning   . ,                .       . ,              . ,            ﬂ.                        .            ,      techniques                [], []. ,    impulsive_effect                .   ,  ﬁ       ,      personality      . ,             .        ﬁ   ,  ,   .           .               .        personality              [], [].  ,    []   personality   .             ()        Rootkit.      .   ,         / .               .   ,            .                  ().  perceived_vulnerability       (.., [])        [].   ,      ﬁ-operational        
+================
+      , . , . ,   
+    .       intelligence    intelligence             .  simplifying                   .               . ,               ﬁ  focus  . ,          .     [],                       . 
+.       
+   /     ﬁ      () , , ,    loss       .       ﬁ     persistence     , ,    .        appraisal   ,    ,    perceived_uniqueness    .        satisfaction_of_needs        ,         .       ﬁ     persistence           appraisal   .     ,       , protection_effect ﬁ    ,  ﬂ      . 
+.   
+personality              ;  . .    ,    behavior_control-ability (/)  
+  ()       
+   .           .                     .    : )    ,   ,  behavior_control-ability            )   ,   ,           . ,                . 
+              []         / . ,  [] appraisal                    mastery_experience.        []     /  .  ,              ,               . ,       , ..,         role. 
+        ﬁ     ;        .        ,       , ..,  () ∈ , ∀t. ()           .    ,  ()=  ().   possibility_effect        ()     (           ). ,     ,          /       ﬁ [goal ]. ,       ,    :=[τ,τ]    τ   
+  ∈/    ∈T, 
+() ∈Yi 
+() 
+   (.  )   (. ), 
+ τ >τ 
+ 
+,
+ 
+ 
+   (/)      . 
+ ()= 
+ (), 
+ 
+ 
+ 
+(), 
+ appraisal,      .  
+ ()    (  )  . 
+          ,  
+        [] ﬂ. .         .            ﬁ  (  ).      ,           ().    mental_calculation        . 
+           ,         ﬁ .         ﬁ-area       ﬁ ,          
+            . 
+.     
+  
+      ( )     ( )          . 
+.     
+    syllogistic_rules        []           : 
+ˆ ()= ,()ˆ−1()+ ,()ˆ() +ˆ() () 
+================
+  .:        
+. .       . 
+ ˆ()= {  ()}       [function]  () ﬁ    ,     ,  ,() [. ,()]   ﬁ-dimensionald  [function]   (.   ) 
+ 
+. ,           () : 
+ ,() ≈ 
+ 
+ 
+ 
+ ,() ≈−ais 
+() 
+         ()  τ¯i     ().  (),           
+ˆ()= ()ˆ()+ ()ˆ() () 
+= 
+ 
+ 
+, ..., , = 
+ 
+, ..., 
+
+  
+ 
+ 
+, = , ..., 
+ 
+ 
+, ()= (())    ×( +)   ,  ()= (())      .    mental_calculation   ,         .       ()  = ,         : 
+ ()=  ( − τ 
+ 
+¯i) 
+−  [()+ ()], = ,. ()              [] : 
+()=   ()+ (), 
+ 
+    : 
+  
+()= ( − τ)+ ( − τ) 
+= = 
+()= () 
+() 
+ 
+ 
+  
+:= 
+ 
+,  ∈ 
+   := , , , 
+ 
+ 
+∈   := 
+ 
+ 
+,  ∈  
+ 
+τ=  τ= τ¯1 τ= τ¯2. 
+ τ    intentionality     τ, = ,,.    , ,   =  , , 
+−ad  
+= 
+  
+ 
+ −ad2bd 
+= 
+ 
+
+ 
+ 
+= 
+ 
+= 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+= 
+ 
+ 
+= 
+   
+. () 
+.   
+= ,() [],  ﬂ      
+       
+ ()    ,     (. )   intrinsic_rewards   (. ()).  ()  (),  
+,      []  []      .        
+================
+      , . , . ,   
+ ,        .              .      ﬁ 
+ 
+ := ( −  ),  := , ..., , := , ...,  .()          
+ˆ()= ()ˆ ). 
+() 
+ ()  (),        ˆ()        
+ˆ()= ()()ˆ() − ()()()ˆ() ˆ )= ()ˆ()− ()()ˆ() 
+() () 
+ 
+() := (+ ()())−1(.() := (+ ()())−1) 
+  (. )  [function ]. 
+.   
+                 .   mental_calculation  () := δ(), = ,,             .  ()    ,   
+  
+ 
+()= ( − τ)+ ( − τ)+  () 
+= = = 
+()= () () 
+ , ,   (),  
+−ad 
+ 
+ 
+= 
+
+ 
+= 
+−ad 
+. () 
+ 
+  τ (= ,)  ()             ﬂ          .        ﬁ []     () ( [, . ]). 
+          , ..,   (.  )       () (. ()).           [], [],         [].              [],  focus   appraisal     (  ).         ﬁ  : 
+() := () − ˆ 
+() 
+() 
+ ˆ()        []     :
+ 
+ 
+ 
+ 
+() 
+= ( − τ)+ ( − τ) 
+= = 
++ ()+  () ()= (). 
+() 
+  
+    
+   
+   
+=  ≈0 = 
+=  = ≈0 
+,   ,  = ,,,      (),   ,     ()  −j := ( − ), = ,.   () :
+ 
+ 
+ 
+()= ( τ)+ ( τ) 
+= = 
+ 
++ ( τ) 
+= 
+ˆ 
+() 
+= ()+ () 
+() 
+  [] (θ)= ρ(θ), ∀θ ∈[−τ,],            (),  , ,  =,,, ,       .          . 
+ :     , , = ,,, ,     ()      () =(() −ˆ()),  =,   : 
+) ()    (); 
+) ()      () = 
+ ; 
+ 
+)
+ 
+() 
+= () = 
+               .        ,  comply_effect  ()-()    ()         personality
+ 
+ 
+()= ( τ)+  ()+  () 
+= 
+ 
+− 
+ 
+ 
++  −  
+ 
+ 
+( − τ) 
+= 
+()= () () 
+ () := () −ˆ(), 
+ := ( − ), 
+ := ( − ). 
+= ,, () 
+() 
+mental_calculation   : 
+=  − , = ,, () 
+=  ()
+ 
+ 
+()= ( τ)   . () 
+= 
+ ()-() ,    ()       personality.       = , = ,. ,         . 
+================
+  .:        
+      , , ,  = ,,= , gain   . ( ,        .)  :        ()   ,   ()-()  
+= ()  = 
+ 
+ 
+  ,  
+ 
+ 
+,= 
+, 
+  
+⎛I 
+ 
+  
+⎜⎜C00   ⎟⎟ 
+⎜⎜00−In 
+ 
+⎟ 
+⎜ 
+= 
+⎜ 
+ 
+⎟⎟00−C 
+⎜ 
+⎟ 
+⎜00  
+−In  
+. 
+⎟⎟⎜ 
+⎜00  
+−C  
+⎝ 
+⎟00   
+−In⎠ 
+   −C 
+    evaluating ()= evaluating (),     ()  
+=+ − ( − +) 
+() 
+        , +      .     ()  (),         
+= χ − β, 
+= ,, () 
+ 
+  χ=+ 
+ 
+  β= ˜ 
+ 
+ 
+ 
+ 
+ = ,, = (φ)        : 
+ 
+φ= (+ )+  (χ − β)+ () 
+= 
+φ= (χ − β)+ (χ − β)+  −  φ= (χ − β)+ 
+(χ 
+− β)+  
+ 
+−  
+ 
+φ= + (+ )+ (χ 
+ 
+ 
+− β)+  −  
+= 
+φ= + (χ − β) 
+φ= + (χ − β) 
+φ =−Q1 −sym() + (χ −β) 
+φ =−HT3 −H2 + (χ −β) + (χ −β) φ =−HT4 + (χ −β) −2P 
+φ =−U1 −HT5 + (χ −β) 
+φ =−HT6 +(χ −β) 
+φ =−Q2 + (χ −β) −sym() 
+φ =−3P +(χ −β) −HT4 
+φ =+(χ −β) −HT5 
+φ =−U2 +(χ −β) −HT6 
+ 
+φ= (+  ) −  () 
+= 
+φ =−5PT 
+φ =−6PT 
+φ =−R1 
+φ=  
+φ =−R2 
+ ˜= ( −+);   χ, χ, β,β., 
+  =τ,() :=  +.   
+. 
+   ()  
+()= 
+ 
+(χ − β)( − τ)   . = 
+() 
+      = 
+              []. 
+ :    ()         . ,  behavior          . 
+.       ,      ﬁ             .              .                é ,          :   ( )    ( ).   ﬂ      ./.         ﬁ            . 
+ :           () . 
+ :   ()        ,...,, ¯1,¯2,    > ,  >,  >,  >, , , = ,,   , = ,...,,   >         ()  ﬁ: 
+⎛ 
+  
+⎞ 
+ 
+ 
+⎝∗−h1 
+  
+⎠ 
+< 
+ 
+
+  
+∗∗−h2Z¯2 
+  
+⎛ ⎞ 
+⎜ 
+−¯k(χ −β) 
+ 
+⎜⎜−¯k(χ 
+−β)  
+⎟⎟ 
+ := 
+ 
+∗Zk 
+⎟⎟ 
+⎟⎟⎠ 
+ 
+ 
+ :=⎜⎜−¯k(χ 
+−β 
+⎜ 
+) 
+ 
+¯kPH4 
+.     
+⎝⎜ 
+  
+  ﬁ  ,  mental_calculation    
+ 
+ situational_circumstance         
+================
+      , . , . ,   
+        é .  ﬁ    .          ,       .        .            = . , = . , τ¯1=  , τ¯2=  .   ,      , ,     ()      .           
+()=   ()+  
+++() 
++ (), = , ()  +   intrinsic_rewards     +    .             ,         .  behavior_control-ability                       ()       ;  
+. .                . 
+          ﬁ    .       , .                       
+   .        [knowledge] : )    ; )     ;  )    .   intentionality                .  [goal]   combining   , ..,         .   personality                            . a_memory      (.   )    
+. .       (.) 
+     .     
+,         
+                 .  =  ,              appraisal;  . . 
+  =  ,          =              ;  . ().       impulsive_effect          . ().  =    =  ,     ;  . ().         , .., 
+   (.   )ﬁ 
+         . 
+          ,  
+()    [. ()   ]. ,          . 
+.        
+    loss           , ﬁ,   , ,   ﬁ      .   ,      =  .         (     )  , ..,    =  .         ,    
+ 
+κ()=  + 
+ 
+ 
+   intrinsic_rewards  =−2.      =         . ,     ()     ()        ˜= ( − )    ,   ()-(),  generalizing                  . , ()≈ ()        . 
+      [],          /. 
+          . ().       ; ,     ﬁ                   .  combining            =    =          behavior_control-ability 
+ 
+()=  ()+  
+  ≈ .   behavior_control-ability ﬁ, =    , = .    ,  (()+ )    . 
+.                        ,           .         ,   ,  .  perception     ()               .           possibility_effect,            
+================
+  .:        
+     
+ 
+   
+   
+ ()/ () 
+ 
+        
+ () 
+() 
+ 
+       
+ 
+ 
+ 
+  
+  
+ 
+  () 
+ 
+        
+ () 
+ 
+ () 
+ 
+  
+ 
+     
+ 
+ 
+  
+ 
+ 
+   
+ 
+      
+ 
+  . 
+  
+  
+        
+ () 
+() 
+     
+ 
+ 
+  
+[action] 
+ 
+   
+ 
+  () 
+ 
+        
+ () 
+() () 
+. .           . ()  . ()   . ()  
+ . ()  . 
+. 
+    
+. 
+. 
+. 
+. 
+  
+        
+ () 
+() 
+() 
+() () 
+================
+      , . , . ,   
+   ﬁ        .              ( )       ( ).      .                 .  ﬁ ,           [..,   ()],         ().  ﬁ         , ..,        .                          . 
+                 .        ﬁ      appraisal ,         appraisal -  , ,...,.                    impact    .            perceived_vulnerability appraisal  / . 
+ 
+      . ,      , , ,  . ,          ﬁ   .             .  ﬁ       .    , é    , , . 
+ 
+[] . , .-xxx. , .-xxx. , .-xxx. ,  . , 
+"impulsive_effect         ," . 
+.  ., . , . , . , . 
+[] . , . ,  . , "   
+       ,"  . 
+  .  , . , . . [] . á, . ,  . , "    
+   ,"  .  .   , 
+. , . . 
+[] . , . . ,  . , "     
+[] appraisal    ,"  .   . 
+. . , , . . 
+[] .   . , "      
+,"    .  :  
+, . , . . 
+[] . . (, .).       
+   [authority]   []. : 
+://..//// 
+[] . , . ,  . , . .  
+, : , . . 
+[] .   . , "   , appraisal, 
+      ,"  .  
+, . , . , . , . . 
+[] . . á, . , .-xxx. , .-xxx. ,  . , 
+"  process  : perceived_vulnerability appraisal, , 
+ ,"  .   . . . . 
+, . , . . 
+[] . , . , . ,  . , "  
+   :       
+ ,"  .  . ., , 
+:./... 
+[] .   . , [modeling]    . 
+: , . 
+[] . , . , . , .-xxx. , . ,  . , 
+"    ," . , . , . , 
+. , . . 
+[] .   . , "     
+     ,"      
+   , , : ü, , . 
+. 
+[] . , . ,  . , "   
+    ,"  . . , 
+. , . , . , . . 
+[] . , .-xxx. ,  . , "  personality    
+    ,"  . . , 
+. , . , . , . . 
+================

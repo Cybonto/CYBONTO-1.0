@@ -1,0 +1,426 @@
+/ 
+   :     
+    
+  
+              perceived_consensus 
+================
+/ 
+   :    
+ 
+    
+  
+    ,   
+   
+          
+perceived_responsibility  
+================
+  :    
+   
+.............................................................................................................................  .........................................................................................................................  .........................................................................................................................       .................................................      .............................................................................      .......................................................................     :  .........................................     ...........................................................   ............................................................................................................  ............................................................................................................................  
+ 
+================
+  :    
+ 
+  ,   , , ,  , , , ,  , ,  
+ 
+      personality  participant_modeling         .         .             simplifying       , ,    . ,       vulnerabilities   simplifying     [Organization ],         . 
+                        : 
+」 
+」 」 」 
+    ,  Collection, /  process  
+      combining   
+        
+           ,   ,    . 
+ 
+     protection_effect  ,   , ,  ,           .           ,  
+/ [resource] (/)       .   ,                    ,     certainty_effect   . 
+  ,                 ,      ,    ,  .    ,       .  vulnerabilities            /        .    / ,      ,        ,      . 
+ 
+================
+  :    
+                                 . ,            ;           . 
+           .       ,  ,   ,    . ,             ,  ,                .                  [Organization]  focus   . 
+  -        
+ 
+================
+  :    
+      
+  personality ,       .    ,         ,     : 
+」 」 」 」 」 
+」 」 
+       
+     
+     vulnerabilities 
+          
+    segregating ,                    [capability] 
+          combining   source         . 
+                   .  combining     ( )    [Organization]  simplifying                 . ,         segregating    .  , ,             .  ,                 participant_modeling   [function ],         . 
+,             .   personality                .               ,            .      . 
+ 
+================
+  :    
+  -   
+  ,      ,  ,           ,     ,   ,     .  gain,               ,        gain    . 
+ 
+   ,      ,  opportunity_for_criminal_acts       .        perceived_vulnerability   ,                 ,  ,     .       perceived_vulnerability   ,           . 
+ 
+================
+  :    
+     
+ personality /  ,                ,    
+vulnerabilities     . ,      perceived_responsibility      [Organization ],             . ,   fear_arousal               protection_effect      .               ,                 . 
+         (   )       personality   (    ),      ,     ,   ,           .          ,   Reverse_Engineering    ,    ,          .        belief     ,              . 
+   ,              possibility_effect .  personality               ,              .  ,   , ,  ,   personality ,                  protection_effect   . 
+                 .            [Organization]  ,        ,        . 
+
+           . 
+ 
+================
+  :    
+  
+/  
+protection_effect  
+ 
+ 
+   
+  
+  
+ 
+  
+    
+/  
+   
+    
+  
+  
+    
+     ,      
+ ,  
+     
+personality 
+   
+      
+ 
+ perception 
+ / 
+  
+    () 
+   personality 
+      personality  
+ protection_effect ( , 
+.) 
+    
+   
+ / 
+protection_effect 
+  -  focus   .   
+     
+               ,   .  ,  ,     , ,     internalization              .     ,     , personality       impact   . ,               personality ,      . 
+
+           ,       opportunity_for_criminal_acts  
+   . 
+ 
+================
+  :    
+            : 
+」       
+」 Vulnerabilities    
+」     
+」   
+」      
+personality          .    [knowledge]            gain      vulnerabilities.                      . 
+                  perceived_vulnerability   ().    ,          perception        : 
+     
+    ,        vulnerabilities           intrinsic_rewards  . ,        ,      , ,   opportunity_for_criminal_acts.  ()           intrinsic_rewards   ,         . personality         ,           ,          .            ,           fear_arousal. 
+     ,  personality         .     ,  ,   .            ,             personality  . ,      (  )    vulnerabilities         . 
+         ,   
+                 personality      . ,   
+
+            . 
+
+ ://..///. 
+ 
+================
+  :    
+  ,          ,         . 
+             . ,      ,           gain,   gain     () , segregating  ,   ,  segregating  . 
+       protection_effect         ,                 fear_arousal.                . ,        ,        ,   ,           . 
+    ,                        . ,    [resource]                .  fear_arousal    Interception, ,        ,   perceived_vulnerability                    . 
+        ,    impact           intrinsic_rewards ,                   ,    . 
+    ,    /     , ,      .          ,     ,        ,  ,    .        ,              .             (       )        . 
+  [capability ],     ,        intrinsic_rewards            .    combining      ,    , ,   . ,     ,                     . 
+ 
+================
+  :    
+    isolation_effect           behavior_control-ability     .          ,       ,              ,    syllogistic_rules     .      ,  intrinsic_rewards syllogistic_rules                   .     ,              ,             (  ) . 
+ ,          .          .    personality   gain      perception  protection_effect        . 
+   , .. /  
+ impact  personality        .     ,             ,       combining   (),     (),     ().   process  ()          .           ,            . 
+,       , ,         ,         .                  .     ,    fear_arousal,               personality    . 
+                .   ,       protection_effect     impact . ,  ,     ,       vulnerabilities,  .    ,    ,       ,             .               ,      .               ,   impulsive_effect  personality behavior    . 
+
+   "   , , ,     ." 
+ 
+================
+  :    
+       personality       vulnerabilities.      vulnerabilities     ,             possibility_effect. 
+       
+      [capability]          .   ,       [capability]       ,      .     Collection     ,  personality            .       vicarious_experience           [capability]  gain     . 
+,     ,          ,                   .  satisfaction_of_needs     ,                 .    ,   ,       ,   combining        possibility_effect            .          ,        personality           perception. 
+    ,            ,          ,        ,           learning,    behavior    .           ,   possibility_effect    intrinsic_rewards  ,                  .     gain   ,               . 
+      
+               .      protection_effect              
+
+     ()          behavior_control-ability  . ,            .    possibility_effect ,         ,          .       . 
+
+   "  : SQL_Injection ." 
+ 
+================
+  :    
+      .            personality         .     self-efficacy        perceived_vulnerability . 
+                    .           ,       (). 
+           .                     ,                      . 
+  -    
+          .                   intrinsic_rewards     .           
+ 
+================
+  :    
+,                   .         impact   , ,      .        SQL_Injection                . ,     ,    ,             . 
+  self-efficacy      , ,       ,             ,  SQL_Injection intrinsic_rewards        perceived_vulnerability    . 
+  
+      (    )       .   ,     , ,      .           intrinsic_rewards  ()               , ()      simplifying       ,  ()          intrinsic_rewards    .  combining   ,              ,             protection_effect    .   ,  ,  ,   . 
+     ,         ,     . techniques intrinsic_rewards  ()  persistence          .                        .   ( )        [goal]   ,           (  )          .   ,                      . ,    , , ,                     source. 
+          .          ()    ,  perceived_vulnerability             fear_arousal.            . ,  perceived_vulnerability     comply_effect   /   gain     . 
+
+ ://..///. 
+ 
+================
+  :    
+belief          ,       ,              .        ,       ()       .            ,        [goal]   ,     (  )    .  ,     ,   personality          ,             [action]                      () . 
+     ,      persistence        .        simplifying    ,     , ,  .        ,       ,      . 
+  ,      . ,             .  belief      [resource ],     ,         : 
+」   
+」 , ,     
+」         ,  ,  
+ 
+」             
+     (      ). 
+ 
+================
+  :    
+   :   
+personality           participant_modeling   ,        .  ,      ()  : 
+」 」 」 」 
+    ,  ,    ( )      ( ) 
+      ( ) 
+  ,   process    ( ). 
+     personality       . 
+  -    
+        focus.                       ..                .             ,  . 
+
+           .               [capability]       . 
+ 
+================
+  :    
+  ,            ,         .     ,                    . 
+, personality   protection_effect         personality   ,          ,             . 
+ 
+       protection_effect   ,   [capability]  combining     personality          .             ,    ,               . 
+     ,                  .  perception   ,   ,   perception     [Organization]    perceived_vulnerability        .                     .  ,       :  ,   ,  ,   . 
+   -   simplifying         ,             .        , ,              .      ,                       .     ,    ,         ." 
+   -           ,          syllogistic_rules     [resource ].    ,          techniques  .          ,             .    personality  judging     (, , .),         (, , .).          syllogistic_rules   .     impact          .    ,           
+ 
+================
+  :    
+   ,          ()       . 
+   -           .      ,      ,          .       process     .      combining          .      []     simplifying   ,        intrinsic_rewards         .          ,    personality         .     vulnerabilities        intrinsic_rewards     ,              
+           . 
+  -     
+ 
+================
+  :    
+            ,             .   ,              ()      .   ,        isolation_effect       . 
+  -        
+       .          .      ,          .              ,  , ,   . 
+       .    mental_calculation     .         ,         .       ,        .                .        intentionality,                . 
+,  role        personality.     ,                     .       
+ 
+================
+  :    
+     ,   syllogistic_rules       .          ,                  ,         combining           . ,                .      ,        syllogistic_rules        . 
+   () 
+         .            .        isolation_effect    ,    ,   ,       ()    ,   ,  ,   .          . 
+  -     
+
+ . ..///. 
+ 
+================
+  :    
+            ,     .                     , ,   ,   . 
+                  .   ,    ,         .   ,  protection_effect              .            ()   intrinsic_rewards ,     personality        combining      . 
+   
+              ,                .     ,                     .                  vulnerabilities    .     ,      combining intelligence  ,         .     ,    [activity]      ,   [activity]    (  )      . 
+             [activity ],           ().                 .                         .                     . 
+   ,    ,  .    ,  [function]             [activity]    .   ,        ,          .               [activity]  .     ,          / ,                .      [function]     . 
+ 
+================
+  :    
+    .  personality  ,    ,               personality   personality  .  vulnerabilities        ,               .               ,         
+personality.  ,                  ,              .           ,     ,                  .  physical_quality, personality                     [experience ]. 
+      ,    combining     .      isolation_effect        [capability ],           . ,      protection_effect     [capability]     ,     [capability]   .   ,       ,            .   ,       ,           .              syllogistic_rules        . 
+     experiential_awareness              , ,  .         perceived_responsibility            . 
+ 
+================
+  :    
+     
+              ,      [activity ],        .        ,                    .            ,                . 
+            ,        [function]    (  )       .            .       intrinsic_rewards               ,            . 
+  [policy] 
+           protection_effect   .          ()            .       
+ 
+================
+  :    
+     ,      [resource]          .         ,         ()      . 
+    [policy] ,    personality  ,          [policy ].  [policy]    impact ,  loss ,   protection_effect.              [policy] . 
+       [knowledge ],       protection_effect      [policy ].   protection_effect               . 
+  
+  ,             .                  .          perception ,          protection_effect        . 
+     perception                  ,            .    perception        ,     protection_effect                .    perception ,             perception    
+,      perception      : 
+」 」 」 」 」 
+          extrinsic_rewards appraisal 
+                      .       ,    .  intrinsic_rewards    
+
+ ://../~//. 
+
+ ://...////. 
+ 
+================
+  :    
+  ,   behavior_control-ability,  .          ,     ,     . 
+    loss ,         , ,         .   ,    [resource]           ,          ,  ://..// 
+  
+  protection_effect   ,     [capability]  .             ,   , , ,      .                     .      ,    ,      .            : 
+」 」 
+」 」 
+」 
+             gain?       (..,        
+)? 
+   ,    ?     ?       (..,        protection_effect 
+   )? 
+      ? 
+       ()       ,  ,            .  gain,              .       ://..//. 
+    
+    , personality       .                . 
+ 
+================
+  :    
+  -    
+,            .          [Organization]    ,    ,         .   personality                .   personality       perceived_vulnerability ,      appraisal           ( )       . 
+       appraisal,  [Organization]    :     ,             .      ,      ,                        . 
+       
+                . 
+.  .           
+   ,        combining 
+  perceived_vulnerability ,  ,      . frustration_of_needs     .  techniques      
+          ,    
+ 
+================
+  :    
+  .             . 
+.   [activity ].     [activity]     
+           learning 
+.          
+   ,          .  
+          . 
+.   .   ,  perceived_vulnerability        
+      perceived_vulnerability        
+.        perceived_vulnerability    
+   perceived_vulnerability   .   , 
+ ,          
+  . 
+.   .  intrinsic_rewards        
+, ,     perceived_vulnerability    opportunity_for_criminal_acts 
+.            (, 
+ ,  ).  ,       
+       . 
+  
+」  perceived_vulnerability  ( ) 
+」    ( ) 
+」  /  ( ) 
+」 
+    perception 
+」 
+     :   focus       
+」 
+     :   focus       
+」 
+   perceived_vulnerability 
+」 
+            
+」 
+   
+」 
+   
+ 
+================
+  :    
+」 
+          
+ 
+ - isolation_effect   
+ -   
+ -  perceived_vulnerability   
+ -    
+ -    
+ -    
+ -     
+ -    
+  -     [division] 
+ -    
+ -    
+ -    
+ -    
+ - perceived_vulnerability   
+ -    
+ -    
+ -     
+ -    
+& -    
+ -    
+ -   extrinsic_rewards 
+  -   extrinsic_rewards   
+ - intelligence   
+ -Internet  
+ -      
+ -   [Organization] 
+ -     
+ -       
+ - intelligence   
+ -     
+ -   process  
+ -    
+ - process   
+ -    
+ -     
+ -     
+ -    
+ -   /   
+ -      
+ -    [capability] 
+ -     
+ -     
+ -    
+ -   :            combining       . 
+ -Transmission   
+ -    appraisal  (..  ) 
+ 
+================
+  :    
+ -     
+ -    
+ -                            
+ -                          
+ -   :         
+ 
+================

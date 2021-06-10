@@ -1,0 +1,524 @@
+          
+ 
+  perception : , 
+,  
+ ,  ,  . ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,   ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,   ,  ,  ,  ,  ,  ,  ,  . ,  ,  
+,  ,   
+ perception    gain   . ,            .  gain   ,                 segregating  (          ).        ﬁ  .      : () focus          .  ,       perception  ()     combining     perception .      . ()            perception. 
+  perception,  ,   ,  intelligence 
+:. [.éé]    
+  
+          .                .            .          .  ,      perception  ()    personality    
+ 
+  .   perception , ,    " "    . ,             .       perception ,        ﬁ    perception  ()  .    combining     perception.           , ,  ,   intelligence       segregating . 
+                      [], [], [], [], [].        ,         perception   .  ,             (  ).        .                       .  simplifying     ,             ﬁ. ,     
+perception     .     
+       .  :  comply_effect    ,                  process   (,    ,   ).   [function] 
+.             personality  . 
+        .  ,              .  perception       .  ,                 ,  ,  .        
+ :  , : @. 
+     (    , )     (   ).      .       ,         .                ().       ( )    ..       ,    . 
+     : ()          perception      ﬁ 
+================
+          
+     
+ . . . . 
+ . . . . 
+ . . . . 
+ ( ) . . . . 
+ ( ) . . . . 
+:   ,  
+:  
+= /  
+:     
+  
+     . 
+gain.       ﬂ          ﬁ   . ()            .   behavior_control-ability         .              []            perception.      .        .     .       .     protection_effect    perception.          perception.     . 
+    
+    ,            .  , ﬂ          .  ,                (    )            .       .  ,       :       (      ,     perception   perception    ).             .        ﬂ,              .  ,        .             .  
+ 
+. . syllogistic_rules     []. 
+ .               live_modeling personality     .   ( )      ..          . 
+           physical_quality     .  ﬂ                  .     gain          .        belief     ,               .               .    ,    , ,  ﬁ     belief       perception .    belief ﬁ-   ﬁ         .      ,  ( )   combining   belief     (  )  [],     .               .      ,                ,  .%     ,     . 
+       intelligence   
+ :      . ,              
+       . 
+.  :      
+  ,         ,    :     belief        ﬂ.        ﬁ belief  ()    (   ).  task   ﬁ- .                    
+. .           . 
+================
+          
+      combining  .    (.%)      .     (.%)        ,    (.%),   (.%)  ﬂ  (.%).        personality,   intelligence       protection_effect  .        perception,     extrinsic_rewards       .   ,    mental_calculation                 perception . 
+.  :      
+    ,                            .    ,     ()   [].         .       /      /  .        . /  evaluating.               .           . 
+.  : ,   
+   intelligence     .               ﬂ.              .         ;       .            ,     .   appraisal          .       process   .          (  ).                .             .            .      ,     evaluating   .         
+ 
+. .      (  )    . 
+.     
+       .   ,      ﬁ task ()  .     .   ,       ,        ,  .       ,      ﬁ     .     ,       .    ,          . 
+  ,              combining       .    ,          ﬁ    .          .      isolation_effect        ,            .         .          ﬁ       ﬁ   .         .                    (.., "   ")      (.., )   .         .   ( )      
+ .     .     ,              
+ﬁ       simplifying   .            [], [], [], []. 
+     ,                     .      combining              (  " ",     )    %.                   ,       . 
+.     perception 
+ ,     personality     perception :  ,  (   ),  ( personality ),   ,  perception  ,    .           . ,        ﬁ        . ,       ,     ,      . 
+================
+          
+. .      . 
+() 
+() 
+() 
+() 
+. .   ()  , () , () , () . 
+    ﬁ        ﬁ   .  ,  ﬁ    ,           ,   ,    .   -    ﬁ     . - .       . - . [].            focus  .    .      ,         [].              
+
+ 
+  ( ): combining               combining     
+  ﬁ:   [, ]       ﬁ     
+/:        combining belief    ,    
+# ﬁ:    ﬁ    
+ 
+  
+  ﬁ / # ﬁ 
+  
+. 
+. 
+. 
+.  
+ 
+  
+. 
+. 
+. 
+.  
+ 
+      
+. .   . 
+    .     combining     (        ).  ,        .  ..    .;    .;    .;     .. 
+                    appraisal .       gain   .           .           
+ .  .    . 
+  .   ,  
+,                . 
+    
+.    
+          .     .            .    ﬁ 
+ 
+ (): ,               
+.      
+        .        ﬁ   
+    
+ . . . 
+ . . . 
+ . . . 
+     
+================
+          
+    
+ . . . 
+ . . . 
+ . . . 
+ . . . 
+     
+,      .             .         .             . ,          .           .                   ,    . 
+    
+     .      participant_modeling     . 
+.      
+     ﬁ    .         (          ).     perception       . ,            combining    ,          .       ﬂ-point         ﬁ-point  ﬁ    . 
+  ,       ,   ﬁ   .      simplifying            ,            loss.      ﬁ      loss        ,         .   ,        . ,            
+ 
+ )         ,    learning         .  gain,          .         ,     ﬁ  gain     . 
+ ﬁ-point                      .   ﬁ    ,    ,      ﬁ.    ﬁ   .         belief    (.%    )        .        []. 
+.      
+         .              belief         .      possibility_effect    .     ﬂ-32     %   belief   .            :      intrinsic_rewards.          ﬁ     .                .   appraisal  ﬁ    .%    belief .          ﬁ. 
+    belief         ﬁ  .    process  ﬂ,           learning    (   ).            ,      perception :        perception  []   []      (, )       . loss [function]   process          
+     .    ,              .     experiential_awareness       .         .       ﬁ             .         . 
+  ,         ,     (   
+   .      
+.            loss    ,              .% .          ﬁ : ()  
+         . ()                    . 
+.      
+       ﬁ    .                   .      ﬁ     .   , 
+================
+          
+     
+  physical_quality   
+  
+            
+ 
+ﬂ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ ﬁ      . 
+             ﬁ   . 
+   ﬁ   : , , , ,  .         segregating                 .            .   ,        intrinsic_rewards ﬂ   . 
+) :       isolation_effect 
+  :   ,   
+  ,    
+    .     
+            
+,        
+techniques. 
+)  :       
+ intrinsic_rewards.    [],  
+        
+. 
+) :     ,   
+          
+. 
+)      : 
+         
+,        
+     ﬁ  
+   belief. 
+) 
+ 
+  (%)  
+belief 
+ () . . 
+/ belief  (%/) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ 
+() 
+() 
+   
+       =  
+. . . . . . 
+. . . . . . 
+      
+  . . . . . . 
+  
+          .    . :   . 
+                      .         protection_effect     intrinsic_rewards      .  ,          ﬁ       .     ,          .                  . 
+.      
+      ,        ,   .              ﬁ .
+   :      
+     ﬁ-tuned  ﬁ  
+    .   ,                  ﬂ     
+       
+experiential_awareness        techniques    . 
+   ,   ﬁ               .                 .   combining         ,   (/)      .            . 
+    loss. 
+   personality        ,    .   ,           loss. ,    ﬁ      physical_quality combining  ,                  simplifying  belief   simplifying  . 
+     :        .   
+================
+          
+         ,       ,     .           loss          .      personality ﬁ ,       .      . 
+            .             belief   .   belief,             .      intrinsic_rewards     perception process :  belief,  ,   . 
+. .        ,       ,   . 
+         perception  .        belief               belief .  belief           .        belief .         ﬂ  .     simplifying     ,     physical_quality     belief. 
+         belief process.       ,         process.                 .            .  belief          ;      belief    process      participant_modeling   .       %   (     .       
+ 
+ 
+    
+ /    /  ()-s2/   
+ ()-s2/   
+ 
+  
+  
+ ()/   
+ 
+  
+  
+        , , 
+ . 
+         .   ,       ()    ().    ﬂ    ,   intrinsic_rewards       .   personality             .     ,         . 
+     [function]  ﬁ       .    ,        . ,            .            physical_quality        . ,       []   []     .                   [].     ,      : ()   , ()   , ()    . 
+   ,  intelligence               .            .   ,    ﬁ  ()           .        , [ ],  .  ,                   .            .              ﬁ         .   
+.),     .     ,                . 
+         .        belief process         . 
+.        
+        ﬁ       .          , ,  .      appraisal            . ,          
+   , ,         .   ,                  belief  ( )        () .    ﬁ     ,         . 
+   ,      ,  []             .       ,    % physical_quality ﬁ  (=.).  
+================
+          
+       
+() /  
+ 
+ /  . . . 
+ /  . . . 
+  / . . . 
+ /  . . . 
+ /  . . . 
+(=.) 
+ (=) / . . . 
+(=.) 
+ /  . . . 
+  
+  (),  (),   ()             
+   . 
+ 
++ (=., =, =.) + (=., =, =.) + (=., =, =.)  (=, =.) 
+ (=, =.) 
+ (=, =.) 
+ . 
+  
+ . 
+ . 
+. 
+ 
+. 
+. 
+. 
+ 
+. 
+. 
+. 
+ 
+. 
+. 
+. 
+ 
+. 
+. 
+. 
+ 
+. 
+. 
+  
+     . , ,    ,  intrinsic_rewards, ﬁ , .  
+     , . 
+  ,     .    ﬁ    ﬁ     intrinsic_rewards .            .     ,    ﬁ       physical_quality ﬁ           (+)  .          .  ,           ﬁ     []. 
+   ,      . ,          [].       .           .  ..  , 
+ 
+ 
++ (=., , =., =) 
++ (=., , =., =) 
++ (=., =, =., = ) 
+ . 
+  
+ . 
+ . 
+. 
+ 
+. 
+. 
+. 
+ 
+. 
+. 
+  
+ gain     .  
+  . 
+ 
++ (=., =, =., = ) 
++ (=., , =., =) 
+ . 
+  
+ . 
+ . () 
+. 
+ 
+. 
+. () 
+  
+ (+)  ﬁ   
+. 
+ ()    .      process      simplifying     mental_calculation  ﬁ     ﬁ     .    ﬁ            gain  ﬁ   .    ,  behavior_control-ability  ,        ( )    . 
+               .    .    ,     , ..  ,     intrinsic_rewards            .         process. ,     . ,  process    intrinsic_rewards         . 
+   ﬁ  ﬁ   .         %.        appraisal    ,     
+  ﬁ .             ,                       
+    intrinsic_rewards    ,        intrinsic_rewards   .              .  ,       intrinsic_rewards       intrinsic_rewards  ,     (.  .)         .%. 
+    ,    ,              .   ,         
+. 
+.      
+                 .                 .         .    []  .   ,               .   
+================
+          
+            .           . 
+.  perception     []   []             .   ,   :      ,          . ,               loss.          ,    satisfaction_of_needs            participant_modeling belief   ,   loss  .  []  ﬂ []                   ﬁ.          :   belief           [][],         .       ,      .  []   []           ,      . 
+      .  ,   . []          .     ., .,  .         , ,   .   . /     . /   .   . []           ,          ﬁ.   . [] simplifying                .         .      ,         .   ,           . 
+    intrinsic_rewards,  ,  ,  ,                intrinsic_rewards,   . ,           ﬁ 
+ 
+  ﬂ .              protection_effect     .         . ,            appraisal    .      ﬂ:            ,                       .            ,       .     ﬁ ,         ﬁ  ﬁ. 
+.    appraisal        :      ,   ,   ,   .     ,   ﬁ           . ,  appraisal     [resource]   ()    , ()     , ()     ,  ()      .    ,       appraisal  ()    ﬁ      .      ,  , , ,    .               .       : , , ,  .             combining.  ,       ﬁ ,            . 
+      perception   ,           [experience]    ﬁ  perception.       .         .         ,     ,       (  
+ .        ,              )    .        .         
+techniques       .      ﬁ                  . 
+  protection_effect     perception 
+.  ﬂ  
+   protection_effect      . ,   ,   belief 
+perception          .   ,     gain       .           extrinsic_rewards   perception . ,         . 
+.  perception : [action ], ,  , ,  
+  (  )       ﬁ    . ,    
+================
+          
+         perception.  ﬁ,        perception   : [action ], , , ,  . 
+. . ﬁ         extrinsic_rewards . Source: . 
+mental_calculation     .             ,         perception.  [action]      , , .    ?  , .          .            personality    ?           personality.         [knowledge]   .     perception            ,             ? 
+, mental_calculation      .  perception task           ( ) task     : intrinsic_rewards, intrinsic_rewards, , ,  .     ﬁ      ,      (),   ﬁ    .           personality   .    ﬁ     :        .    ,        [knowledge]   :     .             .    (  intelligence - )     (  ) 
+ 
+() 
+() 
+. . ()                . ()    . Source: . 
+, perception              .    (    loss ),       .  thinking            . 
+.     perception 
+      perception      : ()  :     personality   perception       .           (..,  )   .           personality    . ,    protection_effect        . () ﬁ :     personality     perception      ﬁ-   protection_effect     [].        (.,  )  protection_effect  .     ﬂ          protection_effect   . ()    ():      ﬁ          loss     .     ,    loss .        protection_effect     .        ()     
+         .  
+ .     learning -         , ,                      
+   (..,   )    (..,  ). 
+    mental_calculation   [capability]  personality [action ], , , ,      ﬁ   . ,  ""         , , ,    .   ,           appraisal. ,        intentionality   ,        ﬁ   . ,  perception    ; 
+       . 
+    ,      personality     protection_effect;     ﬂ   ﬁ   personality  ;      ﬁ      .        perception         , ..,             ﬁ              . 
+================
+          
+ belief 
+           perception .         .   perception        (     ),      perception    .   extrinsic_rewards                ﬁ     perception ,              perception    . 
+ 
+        .      , , , , ,      ,      ,  ,    .               (,          ). 
+ 
+[] . , . , . , . , . ,  . . . 
+  perception .      
+ ﬁ    (),   
+,  . 
+[] . , . . , . . , . . , . . , 
+. , . , . , . , . , . , . , 
+. , . , . , . . , . , . , . , 
+ . .       
+ .   /    
+  (),  ,  . [] . , . , . , . , . , . . ,  
+. .      perception : 
+   .   ,    
+   (),  ,  . []  ,  . ,   .  
+ perception .  , (),  . []  .   perception.   
+intelligence, ():, . 
+[]  ,  ,  ,  . 
+,  ,  ,  ,  ,  
+,  ,  ,  ,  , 
+ ,   ,  ,  
+ ,  ,  ,   
+,  ,  ,  ,  , 
+ ,  ,  ,  ,  , 
+ ,  ,  ,  , 
+ ,  ,  ,  . , 
+ ,  ,  ,   
+.    perception .  .. 
+ 
+[]  ,  ,  ,  ,  
+,   .    
+  .  ://.//.. []  ,   ,   . .  
+        
+situational_circumstance . , /., . 
+[]  . .       
+. , ():,  . 
+[]  ,  ,  ,  , 
+ ,  ,   . . :  
+  .   ,  ,  ,  
+ , ,  perception -  ,  , 
+, .   . 
+[] .   . . : , , .  
+     perception   perception 
+(),  ,  . 
+[] . , . , . , . , . , . , 
+. , . , . , . ,  . . 
+/   personality    
+.       perception   
+perception (),  ,  . 
+[]  ,  ,  ,   
+,   . :    
+ .       perception  
+ perception (),  , . 
+[]  . ,  ,  ,  
+,  ,  ,   
+,   . : ﬁ  
+     perception . 
+://.//., . 
+[]  ,  ,  ,  ,  
+ . .  :    . 
+. ://.//., . 
+[]     . :    
+.   :., . 
+[]  ,  ,  ,  ,   
+ . :       
+  .       
+  ,  ,  ::,  
+, , , . . 
+[]  . ,  ,  . ,  
+,  . ,   . :  
+       <.  . 
+:. [],  . : .. []  ,  ,    ,   . 
+. :  ﬁ    
+ . :. [],  . [] . , . , . ,  . . ﬂ:   
+ﬁ      .  
+     perception   perception, 
+ ,  . 
+[]  ,  ,  ,  
+ . :  ﬁ   
+  . :. [],  
+. 
+[]  ,  ,  ,  , 
+  .   :   
+        + 
+ -1. :. [],  . 
+[]  ,  ,  ,  ,  . . 
+[] 
+    intelligence . 
+://../// 
+.,   . 
+[]     perception . 
+://./. 
+[]  , . . ,  ,  . 
+,  ,   .    
+  :  . . . . perception, 
+():,  . 
+[]  ,  ,  ,  ,  
+,  ,  ,  .  .´ 
+ :    .   , 
+ ,  ,   , ,  
+ perception -  ,  , , .  
+ . 
+://.//..
+     . .   
+,             . :          . 
+:. [], 
+ . 
+[] . , . ,  . . . :   
+      . 
+        ( ),  
+,  . 
+[] . , . , . , . , . ,  . . : 
+        
+ physical_quality  .     , 
+():,  . 
+[] . , . , . ,  . .  
+       . 
+       () , 
+():, . . 
+[] . , . , . , . , . , . , . , 
+ . . :    
+================
+          
+ 
+.   /    perception   
+perception  (),  ,  . []  ,  ,  ,   ,  
+,  ,   .     
+    . , /., 
+. 
+  
+    :   (),   (),  .  (       ),   (),   (),   (),   (),   ( ),   (),   (, ),   (),   (),   (),   ( ),   (  ),   (),   (),   (      ),   (   ),   (),    (),   (),   (),   (),   (),   (),   ( ),   (),   ( ),   (),   (),   (),    (),   (      ),    (),   (),   ( ),   (),   (),    (      ),   (),   (),   (),   (). 
+,              
+================

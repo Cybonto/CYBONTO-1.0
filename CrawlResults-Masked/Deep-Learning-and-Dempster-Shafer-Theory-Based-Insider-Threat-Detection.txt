@@ -1,0 +1,359 @@
+    belief   perceived_vulnerability  
+  ,   ,  physical_quality 
+,   , ,   , , 
+      
+ 
+ 
+    ,  ,  ,  
+ 
+   ,  , ,  
+ 
+  ,   ,  ,  
+ 
+     ,    ,  ,  
+ 
+     ,     ,  ,  * : @..; @.. 
+isolation_effect :                   .  perceived_vulnerability           ,     fear_arousal   .            .        ,       perceived_vulnerability       belief              [Organization]       .     ()     perception           behavior . , belief    situational_circumstance     combining     .    perceived_vulnerability  .      behavior .   appraisal,            perceived_vulnerability  techniques. 
+:  ,  perceived_vulnerability,  ,   . 
+. 
+ 
+    ,   ,   [Organization]        .     ,        ()             perceived_vulnerability  () [].                 ,    .   perceived_vulnerability         , ,              [Organization]  , ,            , ,     [Organization]      [, ]. 
+    .   ,         gain             .          ,    , ,     intrinsic_rewards  gain [, ].  techniques       perceived_vulnerability,         focus    , ,  process    . ,    protection_effect  
+ 
+  . 
+ : @... ( ), .@. (), .physical_quality @.. ( physical_quality ), @... ( ), @... ( ), @.. ( ), @. ( ) 
+================
+    .       ;          .            personality  perceived_vulnerability     [, ]. 
+  ,        perception   perceived_vulnerability     belief               [Organization ].           ()                  .      ,          perceived_vulnerability behavior. ,          ( -RNN) [],           perception       ,    perception    modeling personality                    .       ,                 perceived_vulnerability,    . ,    ,              .             . 
+      ,            perceived_vulnerability    ;          ;    experiential_awareness      ; ,    belief         . 
+. 
+  
+   ,       protection_effect            [, ].          perceived_vulnerability    intrinsic_rewards. 
+            .        :   .    ,                  .    ,                         [, ].   .       perceived_vulnerability            ()      [].   ,                   .   .    perceived_vulnerability                       [].        ,       physical_quality.   . []       ()    ,            .   . []        intelligence         ().                  ,       ,  ,        intelligence . 
+    ,       .   .        perceived_vulnerability      ,       ,           [capability]       (/)  [].           ï                     [].        (  
+================
+  )             [].  ,  gain      evaluating     certainty_effect evaluating.     ,       ,   possibility_effect            .          [].  gain           evaluating        ,            . ,           .          ,         ()            .      [division]       satisfaction_of_needs   .                      ,            []. ,                       [],    certainty_effect evaluating. 
+  certainty_effect         ,      [, , ]        [ ].            personality        .                          intrinsic_rewards.    , ,        ,               [].   .     ,           .             []. 
+. 
+    
+     :   .    ,      .    ,       process            .    belief              . 
+..    
+         .                  [Organization]    [activity ]. 
+ .  . 
+...       
+================
+            process           .  ,  ,       . 
+         .   ,                 .  ,     : , ,         .             .     "  ".  ,     ,  " "        . 
+,                 ,      perception []  learning     .   -feature          ,     . 
+  
+ 
+ 
+  
+  
+ 
+  
+... 
+... 
+... 
+... 
+  
+ 
+ .    learning    " ". 
+       perception             .  -head perception            .  -head perception                . 
+ . ()  perception. ()   -Product perception .. 
+  gain    -attention .       (),  perception       perception,       .    perception     belief              .   gain     [capability ],         .                       []       . ,       []       [],    
+================
+    .   ,          . 
+    (),       mental_calculation   physical_quality :  
+ 
+,  
+ 
+,  
+ 
+.    :x1,,...,      :q1,,...,,  :k1,,...,,  :v1,,...,.   perception [function]             ,     :o1,,...,       . ,    : 
+ weight 
+ 
+, 
+,..., 
+ 
+q 
+, 
+, 
+,,..., . 
+() 
+  
+ 
+      physical_quality     
+ 
+  
+ 
+.       . 
+ 
+  
+W  
+vi 
+ 
+, ,..., 
+() 
+      . 
+ perception        .     .                       .   ,     . 
+,                 .       ,        .            . 
+     ,      .                 ,     .                .       ,     .                ,     . 
+...   
+  physical_quality    ,          . 
+ .      
+: :               
+   
+:       ; 
+:      =     
+:   ; 
+: protection_effect         ; 
+:   
+: : ; 
+..    
+         . ,             ,      
+================
+        source.          .           ; ,  learning   "" behavior.           behavior,  ,        . ,         ,    perceived_uniqueness   intelligence .              . 
+ .   . 
+ .      
+: :            
+: : 
+:     =     
+:      ; 
+:        ; 
+:   
+:  perceived_vulnerability : 
+:            
+  ; 
+:  ; 
+.    
+ ,          perception    belief [].      ,    
+perception,  ,             { | }i ,   
+ ,       .       
+      . contains belief   ,    
+     perception   perceived_vulnerability  [function]    : 
+:  [,]  () 
+     : 
+()   
+  () ,    
+() 
+ 
+ 
+()   
+        belief       perceived_vulnerability 
+     intentionality     belief  . 
+================
+Belief   ( ),( ) 
+() 
+ 
+belief   ()( ) 
+ 
+ 
+   () ( ) 
+ 
+() 
+belief ()  ()        , .  belief [function]       [function]      belief ()  ()  .     belief       Plausibility  belief ()( ) 
+.   belief,  perceived_vulnerability       belief         belief . ,  perceived_vulnerability     intentionality    belief      intentionality   belief          . 
+ ,           ,               generalizing   []   . ,     ,      .           belief [function]    ,        : 
+() 
+ 
+   m   ()()
+ () 
+()( )ABm    
+   personality    perceived_vulnerability      ,      . ,    [knowledge]   ,    . ,       .         ,       ( ... ),           ,     perception    {, }. ,      : 
+{ ,{ },{ },{, }}    A    () 
+   : 
+      ({, }) , ({ })  ({ })     
+() 
+,      : 
+({ })  
+({ }) 
+   {}{ } ({ }) PA({ }) 
+   {}{} 
+() 
+   ,    belief ( )as  perceived_vulnerability  . ,    . 
+ 
+() ,        ( ... )   . 
+       12 
+() 
+ shows    .      (  ),      techniques      belief []. ,            
+ 
+: 
+ True certainty_effect   , 
+ 
+ 
+ 
+() 
+ 
+ certainty_effect , 
+================
+. 
+   
+         (    (.) []) .   simplifying    . ,    experiential_awareness        (, , , , ,   ).         ,            .               source     intelligence      . 
+   perceived_vulnerability  .  .         () ()    . ,   ,       .  appraisal,     .  certainty_effect () -        .  certainty_effect () -        .   () -        .   () -        .  evaluating (.) -           .  evaluating ()    evaluating () -      .  ..             .              . 
+..   /( ), 
+() 
+   /( ), 
+() 
+   /() 
+() 
+          ()/( ), () 
+    ,           .   ,              [].           :  : , , ,   ;  :    ;   :    . 
+ :           . 
+ 
+#  
+#  
+#  
+   , , ,  
+,  
+,  
+    perceived_vulnerability  .,              [Organization]       .    ,  ,  ,    / [activity]         . ,,  ( )    ,       .       ,     perceived_vulnerability . ,     internalization .  ,        : 
+ :   perceived_vulnerability  . 
+#   
+,, 
+#   
+,, 
+#   ,, 
+#   ,, 
+#   
+,, 
+combining  ,, 
+================
+  ,          ,         perception .                  .      ,      .   evaluating    .  .   . 
+   ,  focus              .       ,   evaluating   .  .,           evaluating .            .   ,         . 
+ . Impact          
+ focus  impact      ,           .       .   ,               .      = ,         evaluating   evaluating.       evaluating   evaluating   personality     ,           evaluating .
+ 
+ .    . 
+  ,     =   =       .   ,               .   .,           [].       .,   .  comply_effect      
+================
+, , ..  .%,   .%     .%,     . 
+ : .,       personality  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+.. (%) . . . . . . . 
+ (%) . 
+. 
+. . 
+. . 
+. 
+(%) 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+          . ,    ,        .      -AttentionLSTM  [modeling ],                 . ,    perceived_vulnerability    ,         perceived_vulnerability            . 
+ .        
+. 
+   
+       perceived_vulnerability         belief.       : ,     "" behavior     possibility_effect  . ,          ,  isolation_effect        .          .         . ,    belief            .    perceived_vulnerability  .    participant_modeling         .            intrinsic_rewards (  , , , ,   ). experiential_awareness                   intelligence   . 
+   perceived_vulnerability      personality  process. ,               . ,   mental_calculation  role        participant_modeling      
+================
+. ,                           . 
+:                . , ,   . .           . .           . . 
+ 
+. 
+. 
+. . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+.   . . ,     ,   , . ,  , . , . . 
+  ,   ,  .   :     personality       . .. 
+. , . , ..  . ,  . . .   , (), ., . 
+ ,  ,     .     perceived_consensus       gain.  ( ), (), . 
+ ,  ,  ,  .       : ,   ,  .   : belief& , , ():. 
+. , . , .   . . ,  ,             ,     , . , . , .  - ,  . 
+  ,  ,   ,  .          intelligence .    , . 
+ ,  ,  ,  ,  . :  protection_effect     ,  . () . : ./.....  ,  ,  ,  , :     extrinsic_rewards    ,      protection_effect  (). :./.. 
+. , . , . ,  . ,       intelligence   , , : ./.., . 
+ ,  ,  ,  ,  ,  ,    .              .     . . : ./... 
+ ,  ,  ,  ,  ,   .         [modeling ].    . . : ./.... 
+ ,  ,  ,  ,  ,     .            intelligence .  . . , ., . : ./... 
+ physical_quality,  ,  ,  ,  ,   .    perception        .     . . : ./... 
+ ,  ,  ,  ,  ,           ,       ,  ,., ,  . 
+ ,  ,     .       :   .  . . 
+ ,  ,  . :        .   :      , ,    -158. 
+================
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ ,   .       perceived_vulnerability    .       ,  .. ,  ,  . 
+ ,   ,  ,     .     perceived_vulnerability    .            intelligence. . 
+,  .  ,  ,   ,  ,   ,   , ,  appraisal        ,    ,  ,  ,, . 
+, & , & , & , & , . ().    intelligence :      .     . . . ./... 
+ ,  ,  ,  . perceived_vulnerability           .    ,    ().   . 
+. , . , . , . , . ,  . ,          ,    , . ,  , . , . . 
+. , . , . ,  . . ,         ,  , , . ,  ,  , . . 
+. , . , . ,  . , :     evaluating perceived_responsibility      , , : ./....,  . . , . , . , ..   [function]   personality :   ,      , . , . , . , . 
+. , . , . , . ,    planning   ,    , . , . , : ./...., . 
+. , . , . , . ,          ,  , . , .  -14461, . 
+, ., , .& , . .        .       belief  ,    (). :./.. 
+ ,  ,   .   intelligence perception    .  , , ():. 
+  ,  ,   ,  .     protection_effect      .       intelligence    . , :. 
+  ,   ,   ,  .     perception    . . 
+ ,  ,  ,  .     :  .    , . 
+  ,  ,   .         situational_circumstance .  , , ():. 
+ ,  ,  ,  .     . protection_effect          .    , . 
+ ,  ,  . ,  ,  .     intelligence     .      ().  ,  ,  .   perception    . . 
+ ,   ,   ,  .       .        .   , :. 
+================
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. . 
+. 
+. 
+ ,  ,  ,  .    perception     .           .  (   ,  -Informatics   ), :. 
+ ,  ,    ,  .  physical_quality         .         . , :. 
+ ,  ,  .        .     , , ():. 
+  .        perception. . .   . :. 
+  .   :        .    , , ():. 
+.       | .   , . 
+, .; , .; :      .    .. . 
+ ,  ,  ,  ,       ,     , . 
+.   belief  . , , ():. 
+ ,  ,  ,  ,  ,  . impulsive_effect        intelligence .  . . , . , . : ./... 
+. , . , . ,  . ,    ():         ,  , . , . , . , . .  ,  ,  ,  . perception    .         . : . 
+================

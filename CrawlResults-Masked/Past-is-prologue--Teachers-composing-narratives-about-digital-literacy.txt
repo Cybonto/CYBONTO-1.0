@@ -1,0 +1,353 @@
+   . 
+  :       
+  
+   
+  .  
+  , ,    
+  
+          
+, .().  :   , ,  ...   
+ :       
+[]             intrinsic_rewards  
+================
++ ; 
+.  
+   
+   .. 
+    ()  
+  :       
+  ,∗,    
+ 
+   ,   [] ,   ,  ,   
+ 
+combining   ,   , ,   , , .  
+isolation_effect 
+ focus       ()          ,      physical_quality.                         ,    possibility_effect       participant_modeling       .                       ,    ,  ,      .          [activity]   possibility_effect          . ©     . 
+: ; ; ;  
+.  
+             ,      ,         .          mastery_experience      .    ()        , "                       personality       " (. ). ,  ,  " "  [experience]    perception ,   ﬂ ,     ,       learning   ,    ,        .    () ,          "" perception        .  ,        ", ,                  ,  ,         " (. ). 
+,  combining   belief.                     (, ).  perception  techniques   isolation_effect                  extrinsic_rewards  .    perception,            ,   
+∗ 
+ . .: +  ; : +  . 
+ : @. (.. ), @. (.. ). 
+/$ -    ©     . ://.././.... 
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+ 
+..  .. /     ()  
+    .   ()            ﬂ           ,     ,. ,     ()            perception      ,                . 
+    focus  [policy]           ,    ﬁ       physical_quality    (, ,& , ; , ; & , ).   ,       ,       gain    ()  ,             (, ).      " "  ,         ,                  (& , ; & , ; , ). 
+ ?            .         ﬁ  ﬁ           (.., & , ; , ),          ﬁ-      ,              ,           (& , ; , ).              focus            ,        (.., & , ).          ﬂ      ,      "  " (, ,& , )             . 
+                  (.., & , ; , ),                :       , ,  ,            .  perception     .     ,      physical_quality,          ﬁ ,            .  "  " ( ,  physical_quality)         ﬂ       ,     syllogistic_rules   ,       ,           .                          ,           [function]   .         ﬂ    personality  ﬂ      . 
+,        ﬂ      . ,   process         ﬂ    ,       [experience]           ﬁ  syllogistic_rules         ,   possibility_effect            . 
+            . ,                 . ,  focus       ,           ().  ,             ,     ( )        .  ,     personality ﬁ                   participant_modeling     . 
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+..  .. /     ()  
+ 
+.  
+    ,        learning    ,       participant_modeling       .    ()  , "                    " (. ).   ,       mental_calculation    "             " (. ).  ,         mental_calculation  role       (, ; , ). ,  ,          ,.   () , "[]               ,   ,   " (. ). 
+    ,       ,  ,      , ,     .    perceived_uniqueness                     ,            perceived_uniqueness  (& , ; & , ).  ()   "[]    , ,   .         intrinsic_rewards   a_memory;  ,       " (. ).  ,        ; ,       () , "              " (. ). ,   ()         ﬂ,   "      ﬁ        , ,      " (. ).     ,           ,        personality ﬂ       (& , ). 
+                   ,     ()    focus  ,   ,                         .    [activity ],           ()     " [function]   [activity]" (. ),      possibility_effect fear_arousal         .    ,                 impact     ,       . 
+.  
+  ,  ﬂ        .   , ,   :   perception       ,    perception  ﬁ       persistence.   ,  focus   techniques   :            ?        ?       , ,    ﬂ   ?   ﬂ         ? 
+..    
+ focus               .  ,          ﬁ   .        ﬁ               ,              .      persistence       .         
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+ 
+..  .. /     ()  
+,     ,        belief   . 
+           ,  ﬁ     ,       physical_quality.      .                  ,           .   [goal]                   .   ,          ,   ,   perceived_uniqueness,  learning / ,      ,  ,  ,  .        ,    . 
+          ﬁ    perceived_uniqueness, ,  ,  , , ,   ()     , "     physical_quality,"   ()     , "   :   focus      ."          . ()      ,   ﬁ  "    , ,   ,"(.).     ﬁ         ,  ﬁ    .      (  )   ﬁ          . ()            [experience ]. ,                      ﬁ         . 
+..  Collection   
+     focus       ()         .   ,  combining       .         focus        ,       possibility_effect           . ,        . ()  ,       personality             . 
+        ()       perception       ,                    .              ,    focus          ,     .    , ,      Collection  ,         . ,          ()    "isolation_effect,"  "       " (. ). mental_calculation  ,          , : 
+        .                    ﬁ  ,            .         ,     ( )                . 
+          [experience]  ,       ,,,       .           belief     " ."  ,    frustration_of_needs   ,   "               ,    learning     ,   ." 
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+..  .. /     ()  
+ 
+,,           .       .  ()    " syllogistic_rules   syllogistic_rules ,         " (. ).         ,             .      protection_effect,           .            ,         ,         ,         ,   ,.,   ,             .   (),   "                             " (. ). 
+ ﬁ        isolation_effect             .                  ,                   [activity ],    (..,  , , ),            .  ﬁ             ""   . 
+          [activity]    perceived_responsibility      ,         ,         (    ).            judging  ""       . 
+,           .             ,            belief    ,                   .      ,          .         , ,        . 
+.  
+  ,    ﬁ     .             .               vicarious_experience ,          . ,        ","       role         .   focus         .  ,    participant_modeling     ;  ,      syllogistic_rules  participant_modeling      ; , ﬁ,          . ,  mental_calculation            . 
+..      
+                  possibility_effect syllogistic_rules  .     , ,      .         ,    ,    .,,   possibility_effect ﬁ [function]   .      , ,      "                  ."            ,          : 
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+ 
+..  .. /     ()  
+    ,   ,                  .      isolation_effect ,      ,               .    extrinsic_rewards,  isolation_effect            participant_modeling . 
+       , ,   syllogistic_rules  ,   syllogistic_rules         "     ."          ,  personality  ,      [experience ]. 
+          segregating   .   ,  ,,   .  , ,     ""    : 
+      .   ,       .    process    possibility_effect     ,      ,       personality . 
+ syllogistic_rules        frustration_of_needs         ,     "      (    )         ..   ." 
+   [function]           ,                   .         . ,                  physical_quality , : 
+  ,              .        ;       mastery_experience.         ,        ,         ,    .           . 
+ ,    ﬁ ,         history     : 
+,,   " "   ﬁ        ,    .   ,    ,            .        syllogistic_rules         ,       ﬁ,              personality  . 
+        syllogistic_rules     :     "   "   "       ."    ,         ,                     , physical_quality , ,  ,  ﬁ. 
+,             .              : 
+       ,               .       ", ,  " ,       .             . ,    ,        ,  . 
+    , ,  .    ,        ""   ,        gain     ,      ,  ,      []        (& , ).           ﬂ role     personality    ,  situational_circumstance role       . 
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+..  .. /     ()  
+ 
+..       
+      ,        , ,    .          ,       ,           personality      syllogistic_rules  .   ( , )     """"  (. ).      ()                ,    protection_effect   ,  ,   perception   .     ,  personality            process     ,        .  ,      "." 
+    role          personality :  ,   ,   ,   ,    .    ﬁ     : 
+,.,."ﬂ,   ,         . .     ,     .            ,      ﬂ          .   participant_modeling   ,   , learning  ,  learning . 
+      ,                  ,        "    ."  ,   ,                gain   . 
+  , ,       personality role.   ,  role     ,               ,        .  ,       certainty_effect   ,     ,       : 
+          ,       ,  ,  ,                .      . ,    ﬂ                .      Tactics             ,          ,     personality         . 
+,  " "  vicarious_experience               ,          ( )   . 
+""  ,    [ownership]    ﬁ ﬁ    .  ,,,.  ﬁ    : 
+     ,              ,    .   ,    ,          .               ,          protection_effect      . 
+,               "  ,"       ,           .  , ,   , ,             isolation_effect : 
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+ 
+..  .. /     ()  
+              extrinsic_rewards,                         .         personality     .              gain            . 
+            ,    ,       . 
+       role      (),              .    ,         ﬁ    ,        : 
+   ,    ,          , ,   . ,   ,           .         ,          (             )       .                  combining                .    personality,        ,   ! 
+      syllogistic_rules   fear_arousal   belief      ,   ﬂ   perceived_uniqueness             . ,                    ,   ,    , "     personality  ,               ,       combining  ."              :  frustration_of_needs    . 
+        ﬁ     Collection  ,    [experience]    .      [exposure]  ,  ,      gain       certainty_effect    .    personality            ,     .   . 
+..   perceived_responsibility 
+ ,  .    ()  , "           " (. ),    ()     ",   , , ,     " (. ).  ,   ,  wanting .    focus   perceived_responsibility ,     ()               " ," " ,"  " ."     ,            : ,,.,,  ,ﬁ. 
+...   
+  ,       possibility_effect           ﬁ. ,  ,             ,  , "           ,             ." ,       ,         "        .           ,  ."    , ,     . 
+  ,       ﬁ   ,   perceived_consensus .             : 
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+..  .. /     ()  
+ 
+. , ,....   :     .        ;     . 
+ process   , ,    ﬁ   [activity] ("")       ,         .          ,      perceived_responsibility   ,           . 
+     " "          ,                .   ,                        : 
+    ,      ! ,        . ,                . ,             .  ,  ,     !   ,                   .    syllogistic_rules,        . 
+    learning       .         ,        ""  ,         "." ,                 ;  (   )     . 
+... participant_modeling     
+      motivation        .      perception       syllogistic_rules  participant_modeling  .       " "    () ,      "  participant_modeling" (. ).            .,    : 
+,   "," " ,"  " "....      ,  ,   ,       .          ,      participant_modeling,        ,              loss           ,   . 
+         ,              .          ,      . ,    intrinsic_rewards          personality  .   , " "     "             "  "      " (. ),          . 
+    , ,    participant_modeling     segregating     . ,",": 
+.. ,     (  )    ....           .,,,.,    ,    . 
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+ 
+..  .. /     ()  
+            ""       (   )   .    ,      .  ,                 . ,    perceived_responsibility     [function]   ("   ,    ")  . 
+       ""  ,     .       [activity]       ,     .       ,                : 
+                ,     ,  ,      ,           . 
+  ,  [experience]       ,       process      intrinsic_rewards  . ,    perception         : 
+      ,  learning     syllogistic_rules               .     vicarious_experience            ,       mental_calculation    .   ,      ,   ,       . 
+   ,    personality             . ,              ,   .        perception,  belief             . 
+ certainty_effect     ,   ,                 .        ,  ,         .       ,  ,  "isolation_effect"   ,               .     ,                  certainty_effect [experience]  .  ,        [experience]      ()   . 
+...   
+               protection_effect       .               ,        [activity ].  ,                  situational_circumstance            .           ,        ,  ,  ,            .       : 
+: .                  . ,      ,        ;  ,             . 
+  ,   personality    perceived_uniqueness      ,          ﬁ  ,                 . 
+               ,     " ,"    ,   ,   
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+..  .. /     ()  
+ 
+.    ,       ,   ﬁ            possibility_effect  : 
+           gain  ,            .             ,     thinking     physical_quality       . 
+ ,     participant_modeling             " ."   ﬁ , "      personality motivation  perceived_responsibility    ,     , ,     " (. ). ,            ,         [knowledge ],    "          ,         ,        ."     personality  " ," ,   , "  ﬁ     mastery_experience" (. ).    ,    ,   personality          , ,    , " appraisal          ." 
+      .       [activity ],  personality    ""   .  , ,            .                vicarious_experience    "personality  "  ","       ﬁ  .       ﬁ  (   )    ,   ,        .     ﬁ               ,      "."  ,            ,ﬁ. ,,. ,      .  ,   " "  " "  . 
+.. ﬂ, ,  vicarious_experience  
+       certainty_effect        intrinsic_rewards   ,   ,    ,           "  ,"         ﬁ   .     ,                       .            ,       ,         .       ,  ,    ,  ,   : 
+ ,                ; ,         ,    .   .   . 
+ , ,      personality   ; ,         personality   . ,  ,       perception  "    ,"          "[isolation_effect] ."     "frustration_of_needs,   frustration_of_needs,"             perception  : 
+ ﬁ,,   ,   ,           ﬁ    . 
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+ 
+..  .. /     ()  
+       ,       personality   .     .  ()  , "    ...     " (. ).  ,             ﬂ,             ﬂ . 
+   ﬂ            possibility_effect impact   role          .     personality  ﬂ     process    .       () , "[]       ﬁ     , ,         [circumstances ],      " (. ).       ,     , ,          : 
+,     ﬁ                            . , ,  combining  [experience]    .             arousal    ,  focus            ,  , ﬁ, . 
+     ,  "  "  ","         [experience ].        learning           .       ﬂ            . 
+ ,   ,           [action]    belief.                     syllogistic_rules  vicarious_experience ;  ,      .     ,     certainty_effect                 ,    ,  ,   ﬁ.  ﬂ             ,  , "     intrinsic_rewards       intelligence          .       ." 
+.  
+      ,         focus     :                ,                   . 
+ﬁschool-basedexperienceswithtechnologywerealmostuniformly ,     personality    intelligence    protection_effect     (.., , ).  ,      [activity ],          situational_circumstance      .     ,           (, ; , ),          .           .,                 ,          belief       . 
+ ,                  .      ,             ,., ,    ,   ,        [function]    .  ,. 
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+..  .. /     ()  
+ 
+                     ,         (; ).     ﬁ   ,.            "  " ();  ,   opportunity_for_criminal_acts ﬂ      . 
+  ﬂ                             :  ﬂ             .            ,      protection_effect        syllogistic_rules     .         personality   ﬂ    ,        process   ,                  . 
+ ﬁ                           .     ,     , personality         ,        persistence     ,   , ,      .    experiential_awareness perception          ,   ,      ,     ﬂ             perceived_responsibility   (& , ; , ; , ; & , ).   ﬂ    , ,             . 
+,   ,  certainty_effect              mastery_experience, satisfaction_of_needs,    ,    ﬁ.  ﬁ              .    ,             [goal]     , , imagination, , , .  ,     personality              ()   "     ,"                ,            (. ).                    ;,.  techniques  ,   ()   perception     ,    ,    (  "")            . 
+            ,   techniques          ﬂ            .            ﬁ ,    perceived_responsibility   ,    ,   imagination   .   [experience ],              fear_arousal      perception   ﬂ.   ﬁ  , ,                       .  ,     ﬁ       ﬂ        . 
+   protection_effect   ﬂ,          ,                .            ﬂ              certainty_effect       .   ,         ""   ,         ,   participant_modeling   . ,  ,   [activity]      perception     ﬁ .    () : 
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+ 
+..  .. /     ()  
+      .         .     process,  evaluating .         ,  .       ,           . (. ) 
+    ﬁ,   personality   ﬂ        participant_modeling   role      [experience ]. 
+ . 
+ :    
+","ﬁ"""   , ,      ,         " ().    ﬁ     "  perception      []  ﬁ   " (   ).    "  perception  ,"      mental_calculation            .   ,           mental_calculation    , ,  perceived_uniqueness    [experience ]. 
+:
+ ""() 
+        .
+               [experience ].    
+   gain  ﬂ  .
+ combining ﬁ               
+[experience ].  ,             .
+ ,          / [experience ].      ( 
+)         . ,       
+        [experience ].
+       [experience ].            
+  " "      ""        
+.     .     ﬁ      [experience]   
+ ?
+   mental_calculation             ﬁ    
+[experience ],     ﬁ   ,    . ,       
+,              . 
+ comply_effect  ﬁ                ,  . 
+            [] ,          , ,   ,    .         ,          , ,   ,        . 
+     combining        , ,         ,  ,   belief.          perceived_uniqueness   .        Collection,       ,    ,   combining       .        ,    ,   ,  ,       . 
+ 
+,  . ().    .    , (), . 
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+..  .. /     ()  
+ 
+,  . ().   [experience]     :  role     .  
+  , (), . 
+,  .,& , . ().   :        . 
+    , , . 
+, . ().  .   ,& .   (.),       
+  :     (. ). , :   . 
+, . ().   .  , , . 
+,  ., , ,& ,  . ().   ,   :     
+     .   ,& .   (.),      
+ (     ),   (. ).  physical_quality . 
+, . . ().   :        .   , , 
+. 
+,  .,& ,  . ().    .  , :   . 
+,  .,& , . ().     physical_quality  :       . 
+ ,  :   . 
+, ,& , . ().    : intrinsic_rewards      belief ( ). 
+ ,  :  . 
+, . ().   :    . , :   . 
+, , , ,& , . ().         [policy ].   : . . 
+  , ﬁ   . 
+,  . ().    ﬁ  : , ,  . :    
+ , ,  , , . 
+,  . ().   learning :      .   , , 
+. 
+, ,& ,  . (). ,  , ﬂ:   .  .  ,& . 
+  (.),     ( , . ).  , : . 
+,,&,.()..,&. 
+(.),         :     (. ). , 
+: . 
+,  ,& , . ().       physical_quality.  ,  : . 
+, . ().      .  .  ,&   (.),   :   [experience]  
+  (. ). , :  . 
+, ,& , . ().         .    , 
+, . 
+,  ., ,  ., , ,& , . ().      physical_quality :   
+    .    , (), . 
+, ,& , . (). :.   :  
+    . 
+, , , , , , , , , , , , ,  .,  . ().  , 
+ ,   :       . , :  . 
+, . ().      :      .   ;  
+;  ;&  . . , :  . 
+, . ().         .  . , . , . intrinsic_rewards ,& .  (.), 
+    (. ). , :   . 
+, . ().   .      , , . 
+, . ().     :      . , :    
+. 
+,. ()..,&.(.), 
+   :     (. ).  ,  : . 
+, ,& , . ().   :   . , :  . 
+,  .,& ,  . ().  :    . , :  . 
+, ,& , . ().   .    , , . 
+, . (). , ,   .  , , . 
+, . (). : , ,  personality .  ,  :  . 
+, ,& , . ().      /       
+.    , , . 
+, . ().   :        ?  , (), 
+. 
+, . ().         physical_quality.  , (). / . 
+, . ().     physical_quality.    . 
+,  . ().   :         perception.    , (), 
+. 
+:,,&,.:   .    (), ://.././.... 
+================
++ ; 
+.  
+   
+ 
+..  .. /     ()  
+,  . ().    :   focus      .    ,  , . 
+ ,&   (.),   : belief         (. ). 
+, :  []  . 
+, ,& , . ().  :        judging      [activity ]. 
+ , (), . 
+, . ().       .  , , . 
+,,&,.().:. 
+. 
+, ,& ,  . ().      .   ,& .  
+ (.),       (     ),   (. ). 
+, :  physical_quality . 
+, . ().  : thinking     .   , (), . 
+:,,&,.:   .    (), ://.././.... 
+================

@@ -1,0 +1,405 @@
+         
+  
+        ,  
+.@.. 
+  perceived_vulnerability     .              experiential_awareness.            vulnerabilities   .       ,          . ,        ,       ,          ﬁ   .   ,     perception     .         combining              .    : )       ,  )   protection_effect        . ,    extrinsic_rewards ,       participant_modeling  . ,          protection_effect              ,       . 
+   ,   ,  , extrinsic_rewards  
+.  
+            intrinsic_rewards   .       ﬂ    ,               .   ,         .  ,    ,   ,   ,    personality          .               ,                 . ,    ,    ,       .      syllogistic_rules,         []   .   focus         possibility_effect [exposure]  
+  
+      ,  
+.@.. 
+   loss        [].       ,     [activity]             .                     .   intrinsic_rewards evaluating,         ,            .         ,   ,          .      ﬁ      ﬁ-     personality  () [].       ,        []    vulnerabilities, ..,      ,      . ,            .  ,        ﬁ ,     ,       (..,    []). ,      ,          [knowledge ].   certainty_effect ,        ,        [experience]           .   ,         ,                 .                    (     ,        ,     ),                  .  ,   perceived_consensus : ()     extrinsic_rewards    combining   perceived_consensus,  ()      participant_modeling .   ,  
+================
+,            personality    .   intrinsic_rewards       fear_arousal. ,   intrinsic_rewards      ,            ﬁ ()                . ,         , ..,       . ,     ,   perception              . ,    personality       intrinsic_rewards  [],  ,          .  perception                   . 
+  ,     : 
+•     perceived_consensus . , 
+         
+ ,       
+,   arousal   extrinsic_rewards  
+possibility_effect   . 
+•      .  
+,  ﬁ      
+       . 
+,         
+   . 
+•   . ,    
+   .  ,   
+ extrinsic_rewards ,      
+  intrinsic_rewards ,    perception 
+  . 
+        .       .        .      extrinsic_rewards . ,            .          . ,     . 
+.                 ,           impact.  perception    role             .      ,      (),  ﬁ ,  ,  ,  ﬁ [].             ,    [Organization ],       (),  
+         personality         . ,  ,            []. ,   perceived_vulnerability    ()   role                 ,  , ﬁ /, ,     [].       perceived_vulnerability    [] combining          .   ,     [],   perceived_vulnerability     . ,           :      ﬁ    (    ),      -           personality    . ,                 ﬁ  . 
+ intrinsic_rewards              [].  ,             ,        ﬁ   .      intrinsic_rewards              . intrinsic_rewards    ﬁ   , ..,   ,    intentionality       [].       intrinsic_rewards        personality    . ,      ﬁ   ,    [modeling]       .  generalizing,   intrinsic_rewards             [],               .     intrinsic_rewards               [], []. 
+.                       learning.   : 
+• .  [Organization]     participant_modeling 
+    ,    
+ﬂ  . 
+• .      
+     loss   
+  [Organization ],    
+  ﬁ .  ﬁ  
+      . 
+================
+• .        
+    .   
+      ,   
+personality   .   fear_arousal 
+      
+. 
+• .  [Organization]      
+       
+       . 
+• .  [Organization]      
+         
+ . 
+  [goal]            participant_modeling               ,         ﬁ     . 
+.  extrinsic_rewards  
+      extrinsic_rewards     ﬁ          participant_modeling     -       []. ,           . ,     intelligence     . [],          ﬁ     : 
+•     :  
+[Organization]    (..,  ) 
+    participant_modeling   combining   
+    perceived_consensus,     
+behavior   intrinsic_rewards,   participant_modeling   
+     ,  ,  
+     . 
+•     :    
+       ,   
+          
+  . ,     
+protection_effect      ()  personality, 
+..,         , ()  
+        , 
+..,        
+[knowledge]   , () , ..,  
+      perceived_consensus.  extrinsic_rewards      ﬁ         perceived_consensus.  ﬁ     perceived_vulnerability      ,   .  perceived_vulnerability     combining   extrinsic_rewards    .          ,   ﬁ   . 
+       combining   extrinsic_rewards      (. ). 
+     Θ        source (..,    /  )   intentionality. 
+ ≡ Θ→ij 
+() 
+  ﬁ            . ,              .                      →  → .  certainty_effect                  
+ 
+(. ).    intentionality      (), 
+     Θ (:  ),             (Θ→kj ). 
+ ≡ Θ→ij Θ→kj 
+() 
+          (..,    ),       ,  intelligence              [].     ,      . ,    perceived_vulnerability  
+ (, )  .          ,    .   ,   extrinsic_rewards           Collection,     perceived_vulnerability       ( ,    ,   ). 
+(, )= Φ(+ ) 
+() 
+     [],       [function]         (,)    ﬁ              (..,           (   )).        Φ      .   . .  . ,  -             perceived_vulnerability   -       combining . 
+(, )= ( + 
+ 
+ 
+ 
+ 
+,)=  (+Θ→ij ,) 
+()    perceived_consensus    ,  ,        ...   certainty_effect          ﬁ  ﬁ simplifying       .  [Organization]                  ﬁ.         
+================
+    . 
+     
+   Θ 
+ 
+ 
+perceived_vulnerability       
+ extrinsic_rewards     
+   intrinsic_rewards   ﬁ      
+          loss  extrinsic_rewards        
+           
+combining  .         ( loss ),       . . 
+ 
+( 
+(Φ 
++  )+ ) ()   ﬁ    ﬁ   .   . ,      .       
+ 
+ 
+    , .., Θ→ij=  / = .
+ Φ(+  )=  
+()
+ Φ()=  ()    ()         behavior.  .      ,  ≥ ,    ()  . . 
+()= { Θ→ij ,} ()    -     -        isolation_effect,           .   ,             loss      .          perceived_consensus,              , ..,    ⊆      = (, ).     . . 
+()= {
+ 
+| 
+| 
+Θ→ij ,} = 
+() 
+.     :         : )    , )    personality ﬁ    , )          ﬁ         , ) 
+                            .                . 
+      , )      , )    intrinsic_rewards   ,  )   ﬁ, ,     . 
+ : ,      (  ).        participant_modeling       ,            )  , )           ,  )    participant_modeling            .        perceived_uniqueness         ()    .   perception     .   personality  ﬁ       ,               .          ﬁ     ,      ﬁ     .            . ,        ,          .             perceived_consensus  ()    ,           .     ,                ,     ,  .          ,                 .                ﬁ personality.                     .                 .              [policy ]. 
+ :          , .., []       ()[].   ,   focus    .   gain                      , ,         .    [],                   ().   
+================
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+() 
+ 
+ 
+() 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+() 
+ 
+ 
+    
+ / 
+ 
+ 
+  
+ / 
+ 
+  
+    /  
+ 
+  
+ 
+ 
+ 
+            
+         
+         
+ 
+ 
+   
+   
+perceived_uniqueness  
+  
+  
+()   
+   
+   
+   
+   
+ .     . 
+                perceived_responsibility         ﬁ .       () , ,       ; ()      ; () impact   [activity ];  () segregating    ﬂ.             .                perception  simplifying    .      : 
+•       , 
+         
+     ; 
+•  extrinsic_rewards     (  
+ )   ;  
+•          
+     , ﬁ- 
+      . 
+ 
+... 
+.. .* 
+ 
+ 
+... 
+.. .* 
+ 
+ 
+ 
+ 
+appraisal 
+ 
+ ... 
+.. .* 
+ 
+ 
+ ... 
+ + + + + 
+ 
+.. .* 
+ 
+ ... 
+ 
+ 
+.. .* 
+ 
+ 
+ 
+... 
+ 
+ 
+ 
+ 
+... 
+history 
+ 
+... 
+.. .* 
+ 
+ .   ﬁ   []. 
+                .     (    )     ﬁ   personality   perception  , : 
+• :       
+   .      
+ ,        
+,    ,    
+   protection_effect    . 
+• :   ,   
+   ,     
+ . ,   internalization   
+   . ,    
+  personality      
+   ,   
+      , 
+ ,        
+ perceived_consensus. 
+• :      , 
+          
+ (     ). 
+• :   [] ( ﬁ 
+Θ)         
+ (..,  ﬁ    ). 
+. appraisal         appraisal                [experience]   . ,     perception,    ﬁ    focus         ﬁ     .  :       (..,   [])            personality .  
+================
+ ,       []          .    isolation_effect      = {...}  ,       Θ= {...%}.     ,    ← ,    situational_circumstance       . ,             ±1      behavior       . 
+     :  ﬁ               perceived_consensus (    ).     , , ,    .  ()   appraisal        perceived_consensus  . , .        .     ﬁ loss             .  ()               ( 
+ 
+)      perceived_consensus (). ,        perceived_consensus,      possibility_effect   . 
+,+ 
+ 
+) 
+ 
+,+ 
+    
+ 
+combining (
+" 
+    
+ 
+,+ 
+ 
+ 
+ 
+
+" 
+,+ 
+ 
+ 
+,+ 
+      
+ " 
+()
+ 
+ 
+  . 
+ 
+      
+* 
+()       . 
+ .   . 
+     :       ,  combining       , ..,       .       .      .  ()            ,     combining     ﬁ ( <<    )      ﬁ       (  ﬁ  -           ).  ()         (   )     (..,     ).    ,      ﬁ  -0,,       ,     
+ .   generalizing   ﬁ            ﬁ     . 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+( 
+ 
+ 
+ 
+      
+* 
+()       . 
+ 
+   
+ 
+()       
+ .   . 
+        :               . ,         ,       ,     -           . ,       possibility_effect ,       gain       .  ﬁ-oriented        behavior.                     ,          .     : 
+•   .       
+       
+    ,  vulnerabilities 
+   ,     
+   . ,   
+         
+ .      ,  
+         
+ﬁ    . 
+•     .    
+         
+, personality       
+  perception,     
+ﬁ  vulnerabilities,    
+   . ,    
+        , 
+        
+,       
+    . 
+      -      -    [],                perceived_consensus : 
+================
+appraisal  Θ:    ,   combining    Θ          [Organization]  .  ,   [Organization]    participant_modeling              [Organization]    participant_modeling    .  ,          participant_modeling                  Θ.   ,           combining   . 
+ﬁ  Θ:          belief  Θ     ()  (..,      ).     ,          Θ?      Θ    intrinsic_rewards ,         simplifying         . ,                .                       . 
+ :         -  -  -  behavior,    ﬁ         loss   perceived_consensus.   perception,  ,   ,  ,               persistence    .         Θ  ,       ﬂ    intrinsic_rewards . 
+. belief    
+  ,    perception     .      perception   gain  ﬁ           . ,       perceived_consensus    ,     vulnerabilities.            ,    ()impulsive_effect    ﬁ   )    , ..,          ,             ; )        personality ,     ﬁ   ﬁ .             ﬁ   perception       combining .        protection_effect ﬁ   .   , 
+           ,       . 
+              . ,      personality             . 
+ 
+                 . 
+ 
+[] . , "      
+     ,"  
+& , . , . , . , . [] , "  :   []   
+      ," . ., . [] . , " personality      
+  ,"  , . , . , .  
+, . 
+[] . , "  perceived_vulnerability :   
+    ,"      
+      (), , . 
+. 
+[]  perceived_vulnerability   (), 
+://../,  . 
+[] . , . ,  . , "[modeling]   
+  personality intrinsic_rewards  personality  ," 
+ , . , . , . , . [] . , . , . ,  . ,   
+perception :   . , . []      & , " 
+   ,"  . [] , "personality /      
+protection_effect :protection_effect     
+&  ,"  . 
+[]  perceived_vulnerability , ://../,  . []  , ://../,  
+. 
+[] . ø, . ,  . , "   intrinsic_rewards  
+     ,"  
+protection_effect , . , . , . , . [] . , . ,  . , "  
+     ,"  
+      , . , 
+. , . , . 
+[] . . , . . ,  . , " 
+    :   
+,"      [policy ], . , 
+. , . , . 
+[] , ://../,  . 
+[] . , . ,  . , " : 
+     ()," 
+://..//.,  . [] . , . . ,  . . , " 
+intrinsic_rewards   ."     
+       
+  (), , . . 
+[] .   , "   personality 
+,"   personality , . , . , 
+. 
+================

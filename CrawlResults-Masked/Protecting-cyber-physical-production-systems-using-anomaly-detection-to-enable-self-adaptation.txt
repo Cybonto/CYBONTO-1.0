@@ -1,0 +1,251 @@
+      
+     
+ ,  ,  ,  ,   
+      
+     - ,  
+ﬁ.@.. 
+             .. personality         gain    combining         (),    ()   .     ()      .  ,  ,  ,         .         fear_arousal       . .  loss     ,  ,   perceived_vulnerability     ﬁ loss  , ,         .                 .             protection_effect      protection_effect ﬂ, ,       personality  .         ,  learning   behavior    ,       experiential_awareness    .   perception    ,           ,    (..,  impulsive_effect ﬁ ),  ﬁ       ,       . 
+    ,  ,  ,  .. 
+.  
+   ()      personality .         fear_arousal        .,       , ,  ,      [].                 ﬁ   .       ,       ,         ,          []. ,   ﬂ         ,            .    ,  ,         ()    ()   
+//$. ©2018  
+ .     ,  ,  .            [], ,                  . 
+      [],     vulnerabilities     (..,    ()  )          ﬁ-  ,  ,    .         ()        :   ,  ,    ,     []. ,             [].          Brute_Force ,  ,    ;        perceived_vulnerability        ,  Eavesdropping,  , Jamming, ﬂ   .         ,         ,        . ,     Eavesdropping  ﬁ         personality    . 
+                   .. ,   perception       ,   gain      ,          gain ,      [].          mental_calculation    ﬁ    behavior     ,           .         , ,   .   [],       ﬁ             ..   ﬂ   ﬁ    mental_calculation     ,         ﬁ  . 
+ 
+================
+               , ,      ﬁ  ,       process,     ,    impact   . 
+        .     []        ,          intrinsic_rewards.           ,        ; ,          protection_effect         process.         ,    perception,        perception.           . 
+.   
+    fear_arousal       intelligence, ,     .             ,          .      perception             ﬁ ,          . ( .)  []. 
+ perceived_vulnerability      .    vulnerabilities  perceived_vulnerability ,       .      ,   ,         simplifying             ,    [goal]      . 
+ perception         [].           behavior   ﬁ   [].     impulsive_effect ,        , , , .,       , simplifying  experiential_awareness ,      ﬁ    .                 []  [].                   ()   [].    ,    intrinsic_rewards  protection_effect            . 
+             ():   (),  Protocol_Analysis (),     () [].               
+            [].     ﬂ         .        behavior        []. 
+    perceived_vulnerability    ﬂ    .          learning   behavior,        ﬂ   ;              . 
+,        : , ,   [].              learning           .            ;       ﬁ.              . 
+  ,         (  [])           ,    ﬁ    ,            . 
+.   
+    a_memory       ,            perception     ,                 . 
+.   
+  ()       . ,    ,            .    ,     (   )    ﬂ         []. 
+  
+    
+ 
+    
+ 
+ 
+planning 
+ 
+. .  . 
+ [knowledge]  ()          ,   ,            .   [function] ()             
+ 
+================
+,      .         [knowledge] .   [function] ()          .  ,    planning [function] () ,   ﬁ ,    ﬂ         .          [function] (),   ( )     .                 [knowledge] .     , , ,                   , ..,         .   task    [function]       .  process        ﬁ           .           ,      ,         ,  ﬁ       .   [function]    comply_effect  simplifying             .      ﬁ  []   .             ,   ,   ﬁ        ,       planning .  planning [function]       ()     [action]    .              ,      .     () , [goal] ,   [function]  []. 
+  [function]     ﬁ   planning         .   ,         ,    [policy]     ,  ﬁ        []   .         [knowledge]         . 
+ [knowledge]           .    [policy] [knowledge ],  [knowledge]   self-efficacy [knowledge ]. 
+.      
+  ,    ﬁ          ,        comply_effect  ,          process    ,    [goal]   ﬂ      personality  .      process                 . 
+                 ,   ,  protection_effect       .                  . ,   process      ﬁ (..,    ),       ﬁ,   , [activity]     (  ),      . 
+             ,        Collection .         ,   , ,  ,       ()  (.., ). 
+            experiential_awareness   ,        ,         combining possibility_effect  ,        [policy ].    , ,  judging          .           ,           .    ,    experiential_awareness           .        ,          planning ,           [policy ]. 
+      simplifying       ;           (),       /  ,       []. 
+.      
+    combining  focus       ,             .                   ;   , ,           []   .     ,               ,       ﬁ  .       ,  , ﬁ         . 
+://../ 
+://../ 
+://..// 
+://..// 
+ 
+================
+       ,     ,    . 
+  planning  
+  
+ 
+  
+  
+  
+  
+. .    protection_effect         . 
+              behavior  ,  combining           ,  combining       ,        process    ,    ﬁ            ,           ,   . 
+  planning          ()     [action]    .              ,        (..,    ﬁ),      .  ﬁ          . 
+  mental_calculation    ﬂ                 .            ,        ,           ,           process ,      .              syllogistic_rules  .    [action]     :       syllogistic_rules  ,   ,    syllogistic_rules      . 
+       ,      ,    segregating     ﬁ  techniques    ﬁ ,       ﬂ     .    (..,     )  .    ,   mental_calculation     ﬂ          .              .          ,          .    [action]  :              ,   , 
+      ﬁ   techniques,     . 
+.    
+,            ﬁ   planning ,            .          [policy]         ,             []       ﬁ perceived_vulnerability.           ,       ,     ﬁ    , . 
+.   perception 
+     perception     ,       live_modeling  ﬁ  process.            perception     . 
+.  
+       ,         .  ,  ﬂ  ﬁ    ,      ,           .     ,       (  ),   ( ),            ﬁ   (    () );             (   ). 
+  ( ) 
+   
+   () 
+   ( ) 
+  
+() 
+. .   . 
+           .          protection_effect protection_effect    ,   protection_effect        ()  .         .,   . 
+://.ﬁ.//ﬁ/ 
+ 
+================
+.   process 
+    ﬁ process                            .           (ﬁ,   )   ,   ﬁ ﬁ .               process      .      ﬁ      (     )      (/),  : )        , )          ,  )        . 
+ 
+ 
+   
+  
+ 
+  
+ 
+ 
+  
+ 
+  
+. .  /. 
+ ,      []       .       ,               ﬂ          .   process       combining                  .      process,                  (),              .     process             . 
+  () 
+. .   process :   . 
+     ,    ﬁ      .      
+   ﬁ process           .        ,       evaluating  −0.  .     ﬁ              ().   process ﬁ     ﬁ   ;       ..         ,      ﬁ process       .  ﬁ          evaluating  +.  ,         .                           [action]        .      ﬁ    ,     ﬂ           ,              ﬂ   .         (..,    loss    ,            )  ﬁ   persistence              ,   ﬂ. 
+  ,      .      () ,  ,     ,      : =  + ∗r,          ,    evaluating      ﬂ     ,            . 
+.    
+   comply_effect   behavior,         ,    ,    ,   ,    ﬁ   . 
+    ,       perception            .       ,         ,          .  judging         comply_effect         ..,      ,  ,   ,   possibility_effect  .    , ,      ,       ,      ,            . 
+       ,     ,            .          ,   Æ       . 
+Æ       ,          
+://.../ 
+ 
+================
+     behavior ( []   ). Æ    : Æ      ().         ,             .           combining     behavior  .          , ﬁ   (    ),      Æ . Æ           .             judging       ;   ,             ; ,                  . 
+      Æ     ﬁ:       , ,     .   ,        ,              .      [resource]     ,   ﬂ    ,  Æ      .           ﬁ     : )      ,  )           ﬂ    behavior. 
+         Æ,    ﬁ                . ,   behavior       process    ,        ﬁ            .  ,        :  =  (   ), =  (..,   ),  =  (..,  ﬁ ),     ,   . 
+.    
+        perceived_vulnerability,   ﬁ     ,     Æ,        perception    . 
+  mental_calculation            perceived_vulnerability.          loss    .  ,       process     ,    ,  ﬂ        ﬂ   .  participant_modeling  ,             .          personality perceived_vulnerability [],   
+ .        ,     ( ),      Spear_Phishing   intrinsic_rewards     .    ,         (    )          ( ).            ,       ( ),             .     ,     perceived_vulnerability           ﬁ ,   ( ).          ﬁ        .     ﬁ     ,        ,   ﬁ      ,             . ,     ﬁ    . 
+ process 
+  () 
+. .  process      . 
+      process           (     ).              (      ),             ,       ,         . belief       ,            . ,        gain   ﬁ   persistence ,    ﬂ  ,   ﬂ     . 
+       process,          .          ,           ,      simplifying .     ,        
+://../ 
+ 
+================
+  
+       
+  
+:      :     
+  
+: combining          
+: combining            :     :     techniques     
+:     : combining        
+process,     ﬁ      :   ,   .  ,                      ,    . 
+     ,   ﬁ         planning  ,    ,            , 
+     . 
+. .      . 
+     . 
+.       
+   () ,    ,      ,        ﬁ,        planning     .     ()      ﬁ  experiential_awareness    .          experiential_awareness    (   ),     . 
+     combining    
+         ,            protection_effect  ﬁ       .     combining  ,                      .         process, ..,        ﬁ           .           ,     .         techniques.          ,           
+           ,   techniques      .           judging      ;      techniques            ,          (.., ... - ...),     . 
+       judging        ,        : 
+•  -     :      
+       .  
+   ,         
+  ,       
+ .      
+        . 
+•  -    :    
+  ,     ,  
+   . 
+•      :   
+       techniques. 
+    ,   ,    ,       . 
+        ,  protection_effect       [].                    ,          planning .       process,       ,   ﬁ ﬁ  ,    .        personality .        ﬁ     ﬁ   mental_calculation         ,    protection_effect    . 
+     ﬁ     behavior,          ,         ().        ,                behavior : 
+ 
+================
+  
+      
+  
+ 
+    
+ 
+ [policy] 
+: combining        :         ,      
+  ﬁ       
+: combining       :         ,       
+       
+:     techniques   :     syllogistic_rules  experiential_awareness, protection_effect  ﬁ 
+ techniques         ﬁ  : combining       :         ,    
+ 
+•    [policy]   ,     
+          [] . , "        .,"  
+: )    ,  )   ﬁ ;    ,   , •     ,       
+, , . . 
+      ,      ,"  
+[] .   . , "satisfaction_of_needs     
+   (),  
+,    vicarious_experience ,       . , , . . 
+     ; 
+[] .  .:       
+    ,      []     , "    
+ .. [;    ].• 
+ ﬁ,       :  ." . , . 
+techniques; 
+[] . , . ,  . , "    
+ () ,"• 
+    ,       
+  , . , . , . 
+[] . , . , .-xxx. ,  . , "    
+        .     [action]         ,          . 
+. belief 
+   ()                          ..     fear_arousal        intelligence, ,     . 
+ techniques     ,         ﬁ       intrinsic_rewards   .                ,         process,     perception                . ,  ,         ,     (.., Æ)            personality  perceived_vulnerability.     perception                  (      .).   ,     , ,               . 
+ 
+         ( )      (). 
+ 
+ : intrinsic_rewards  ,"   , 
+. , . , . , . 
+[] . , . ,  . , "    
+        ," 
+      (),  
+    . , , . . [] .   . , "     
+. ( .)," , . 
+[] . , . , . ,  . , " perception   
+      ,"  
+    (&),    
+ . , , . . 
+[] . , . ,  . , "   
+ :    ,"     
+        
+  . , , . . 
+[] . , . , . , . , . ,  . , 
+"     ,"   
+     . 
+, , . . 
+[] . .   . . , " perception   ," 
+, . , . , . , . 
+[] . , . ,  . , "[modeling]  judging 
+    ,"      
+         
+ .  , , . . 
+[] .-xxx. , .-xxx.  , .-xxx. ,  .-xxx. , " 
+ :   ,"     
+ , . , . , . , . . [] . .   . . ,    , 
+ . , .:  ,  , . [] . , . , . ,  . , 
+"   : intrinsic_rewards,   
+," & , . , . , . , . [] .   . , "  appraisal   
+      ,"  , 
+. , . , . , . 
+[] . , . , . ,  . , ":  
+   perception     
+ ,"        
+      -  : ,, 
+. , , . . 
+[] . , . , . ,  . , " personality 
+:   ,"      (), 
+   . , , . . 
+================

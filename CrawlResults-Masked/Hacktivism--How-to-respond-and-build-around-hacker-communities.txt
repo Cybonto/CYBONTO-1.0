@@ -1,0 +1,111 @@
+:        
+ 
+  
+  - loss    planning 
+  
+ ,  
+isolation_effect 
+        (), loss  (. ),    (),          personality  .  ,  personality    [division ],              .      ,             ,           . . 
+  ,             .             [goal] :    personality [policy] [].        , ,     [goal]           .   ,                   .     ,           ,            personality .            ,  DarkHotel       ()       ,           ()  [].  ,  ,   techniques              ,              ; ,      []. 
+        gain   " " (    . ),        , ,             []. ,          ,       participant_modeling          opportunity_for_criminal_acts     , ,  (  ) .        ,    ,    ,             .    ,          . 
+.:  
+                        ,       Silence_group         []. ,                 //.        personality  ., //        "//"     combining      : , ,   [].      "   "     //  ,            (   )  personality    . 
+//              ,     "   " [].      ,        ,      ,    ,    extrinsic_rewards     .    ,           personality              [],           Careto     . 
+  //,            ,  ,                "  self-efficacy  " [].       [Organization]  intelligence  ,                . 
+.  :              ,             [].         ,    .      ,       ,          [].               -    (  )  .          
+ 
+================
+  ,             []. 
+,         ,        []     ,   ,    [].      ,                    . ,   ,            intelligence  ()  . 
+.  
+                          personality ,        :.             ,             .  ,    (     )  . 
+    :  , loss ,   .                   :  . 
+. -    
+                  .    ,    ("")  "",   ,                [].                ()      [].  perceived_vulnerability      ,          ,      ,        . 
+                     ,                [].       ,               (         ) ,   ,   . ,     protection_effect      perception     . 
+        ,      :   ,     . ,       (    )     .              ,                    ,  "       (),      ,      ,   perceived_responsibility,   " [].      " frustration_of_needs" ,       
+       [].          " frustration_of_needs ",               ,       . 
+                  ,               "  personality " [].        fear_arousal,        Rootkit        ( intrinsic_rewards           )   ,     ,         []. 
+       ,               .        isolation_effect      ,    ,    []. 
+     segregating           ,     :         perceived_consensus,            ,             []. ,         source   ,                perceived_vulnerability       . ,                  ,                  (    )   segregating     [].              ; loss             segregating,       "          frustration_of_needs           " [].           ,           .             ,    (),   . ,         personality                   .                 "combining   ",  segregating           []. 
+     isolation_effect        ,        protection_effect       .  ,    ,        " "      vulnerabilities    .     ,      ,              ,          .   ,              . , 
+ 
+================
+             . 
+              ,     focus  perception             . ,       ,       "[ ]         ".       ,      ,   " []  [experience]    " [].              [].    ,                    .  gain,     -               .             ,              isolation_effect  ,    behavior_control-ability  loss     . 
+ ,                 (  ). ,           ,     (  )  . 
+. -   
+     SQL_Injection           (  intrinsic_rewards     ).       SQL_Injection            [].    personality                   [].        ,       ,               [].  satisfaction_of_needs ,   , ,       . 
+     ,     , .  " " , ,  ,  , " "    [].                 -  ,                  .   ,          (, ,   , .)        personality             ,           .            ,     [knowledge]      , ,       []. 
+         ,      perception :    ,   .   ,   source         ,      protection_effect       .   ,                    
+.  gain,                 ,     . 
+.. -   
+   ,                   .      ,       ,                   [].          &     [],       ,               [].        ,                   participant_modeling   . 
+                     perceived_responsibility     .      "    , [    ]     "      [].           ,      , ,   ,  techniques, ,        .  gain,      ,  , perceived_responsibility  ,   history            perceived_vulnerability []. 
+ ,       ,                       [].               ,     perceived_responsibility     ( )      .  gain,                     ,       []. ,              ,      source              . ,     ,         ,              .                   ,   ,       []. 
+   ,   ,                    ,     [].                  , : "         ,   ,  perceived_vulnerability ,  ,   ,   gain            " []. 
+ 
+================
+   SQL_Injection   ,      loss.           ,        ,            .                   . 
+          loss,                         .  ,       ,  ,  history,    perceived_responsibility             isolation_effect        .   ,           perceived_uniqueness    . 
+ gain,                 .        personality            [].    ..      " physical_quality     : , ,  ",                    [].           ,              . 
+           (    SQL_Injection ,                ),        .                   ,        combining             . 
+    ,           personality protection_effect    perceived_responsibility  .  ,   ,             .           ,       ,         isolation_effect       ,           [activity ].  gain,                           ,                 .        motivation  ,                   []. 
+              fear_arousal (      ),        .                  judging     ,  extrinsic_rewards                       . 
+.  
+      protection_effect    personality      loss,     ,     ,   .         gain     ,      ,              intrinsic_rewards     [].       ,                     belief        . 
+       ()               [],   [experience]             [].   ,                protection_effect    . 
+                    loss,                                .  gain,                participant_modeling  ,             ,                              .               ,   [experience]         .                   ,      . 
+. 
+                  history [],                  .      ,    extrinsic_rewards             ,        perceived_responsibility   [].        mental_calculation,    $        loss   perceived_uniqueness  ,    protection_effect,   ,      ,              [].              ,                       ,                   . 
+    fear_arousal         perception : 
+ 
+================
+,    protection_effect   personality   ,   perceived_responsibility     ,      .      ,                  . ,      ,   belief                  . 
+,    protection_effect            , ,      .       ,      mastery_experience             .          ,               participant_modeling         .  gain,          ,               ,     learning        . 
+,           possibility_effect loss    personality .     extrinsic_rewards      perceived_responsibility             focus      loss ,     . 
+     /,  gain            ,                       .    ,          gain            [action]    .         ,          :      .  ,           ,            -               . ,                     protection_effect   , ,  . 
+. 
+[] , . .        ..     ?. .   , ,  :// ..////  [] , . .      . .   , ,  :// ..//  
+[] , . .   :          .  .   , ,  ://.../// /// 
+[] , . .            .  .   , ,  :// ..//////  
+. 
+[] , . .    . .   , ,  ://../ ////. [] , . .     ,    .  perceived_consensus.   , ,  ://..//// / 
+[] , . .        . .   , ,  :// ../// / 
+[] . .    .   .   , ,  :// ..// 
+[] , .,& .-Long, . .  /       perception.   , & , (), .   , . 
+[] , . .       . /.   , ,  :// ..//// / 
+[] , . .   .      .  .   , ,  ://./ / 
+[] , . .      .  .   , ,  :// ..//,,,.#=  
+[] , . .    .  .   , ,  ://../ /,,,.#= 
+[] , . .         . .   , ,  ://../////// . 
+[] , . .    ?. .   , ,  ://../// / 
+[] , .. .    , . physical_quality .   , ,  ://..//// // . 
+[] , . .   ,  :     loss ?.  .   , ,  ://.///// . 
+ 
+================
+[] , . .     loss :      .  .   , ,  ://.///// . [] , . . . & , (), .   , ,  :// ..//?= [] , . .          .  .   , ,  ://..////  
+[] , . .     ,  perceived_vulnerability       .  .   , ,  ://../ ///. 
+[] , . .          .  .   , ,  ://..//// // 
+[] , . .   ,      . .   , ,  :// ..///// 
+.# 
+[] , . .         .   .   , ,  ://.././//  [] , . .  .  , .   , . 
+[] , . .     focus   . .   , ,  :// .//// / 
+[] , . .      . .   , ,  :// .//// / 
+[] , . . ,    ,  .  .   , ,  ://../// 
+. [] , . .    . , (), .   , ,  . 
+[] , .. .     . .   , ,  ://../// ./. 
+[] , . .      . .   , ,  ://./ /// 
+[] , . .         . .   , ,  :// .//  
+[] , . . SQL_Injection :   . .   , ,  ://../ //. 
+[] , . . :      -    .   .   , ,  ://.././ //  
+[] , . .    .    .   , ,  :// ../////.?_r= []   . .  & , (), .   , . 
+[] , . .  #:     . .   , ,  ://..//  
+[] , . .    -       .  .   , ,  ://...//////  
+[] , . .      ?   .   , ,  ://.///// 
+. 
+[] , . .        . .   , ,  ://../ / 
+[] , . .         . .   , ,  ://../// . #. 
+[]  ,  ,  ,  .  physical_quality     : ,   .  ,  ,  ,  ,  ,  , ./.....   , . 
+ 
+================

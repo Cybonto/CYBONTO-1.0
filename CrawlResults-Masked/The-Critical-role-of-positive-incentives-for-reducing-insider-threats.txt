@@ -1,0 +1,1986 @@
+  role  certainty_effect      
+ [division]   .   .     .   .    
+         
+     .  
+ .  
+     
+        
+ .  
+  
+  / 
+ [division] 
+[  :           .] 
+://... 
+... 
+================
+     
+               perceived_responsibility .              ,       . 
+ ,              ()             . 
+         
+/ 
+  , . ,    ,   
+ .              "" .         personality,    ,     ,   segregating ,       , ,        .        
+   personality      , ,   . 
+[  ]            .          . 
+ :*   live_modeling               ,     " "         . 
+ :*        ,  ,             .        /  .              @... 
+*         . 
+          . 
+ 
+     
+/|   |    [  :           .] 
+ 
+================
+   
+ 
+ 
+  
+ 
+isolation_effect 
+ 
+ 
+ 
+.   .     
+   
+ 
+  
+.  
+.    
+   
+ 
+  
+.  
+.  
+..     
+..  
+..   
+..   .  
+        
+ 
+    .  .   .   .   
+     
+ 
+certainty_effect      .     
+.   protection_effect 
+.   
+    
+ 
+    
+ 
+  
+  
+ 
+  
+    coding 
+ 
+  
+  
+ 
+  
+certainty_effect      
+ 
+ 
+ 
+/|   |    [  :           .] 
+ 
+================
+   
+ : 
+ perceived_vulnerability   
+ 
+ : 
+        
+ 
+ : 
+   
+ 
+ : 
+  behavior    
+ 
+ : 
+     protection_effect    
+ 
+ : 
+    intrinsic_rewards    
+ 
+ : 
+   
+ 
+ : 
+        
+ 
+ : 
+   [Organization] frustration_of_needs     
+ 
+ : 
+ intrinsic_rewards  
+ 
+ : 
+   
+ 
+ : 
+    perceived_vulnerability  
+ 
+ : 
+     perceived_vulnerability  
+ 
+ : 
+   appraisal possibility_effect loss  
+ 
+ : 
+      intrinsic_rewards gain 
+ 
+ : 
+      
+ 
+ : 
+  certainty_effect extrinsic_rewards     
+ 
+ : 
+       
+ 
+ : 
+    intrinsic_rewards 
+ 
+ : 
+    [rewards]  perception 
+ 
+ : 
+     
+ 
+ : 
+   personality  
+ 
+ : 
+      
+ 
+ : 
+  
+ 
+ : 
+  protection_effect  
+ 
+ : 
+ perceived_responsibility  
+ 
+ : 
+    
+ 
+ : 
+  certainty_effect extrinsic_rewards   
+ 
+ : 
+certainty_effect    
+ 
+/|   |    [  :           .] 
+ 
+================
+ 
+            protection_effect        extrinsic_rewards       .              [division] : ..                         perceived_vulnerability .      Source  perceived_vulnerability ()         . ,               . 
+/|   |    [  :           .] 
+ 
+================
+  
+  perceived_vulnerability      ,    ,     .               [Organization] ,    ,          perceived_vulnerability. 
+certainty_effect                [Organization]   (..,  [rewards]  perception)       syllogistic_rules  motivation   [Organization ],  ,  .           , certainty_effect               [Organization]     .     certainty_effect                syllogistic_rules        . 
+              personality -    ()    possibility_effect  certainty_effect                  perceived_vulnerability  . 
+                   :   ,  [Organization ],      . 
+• 
+• 
+• 
+ perceived_responsibility              .          gain   perceived_responsibility.      combining -                   [ ]. 
+  protection_effect             ,    intrinsic_rewards,     ,    . ,   , /  ,  ,   extrinsic_rewards   ,          gain   protection_effect. 
+         intrinsic_rewards,   ,           .         gain  syllogistic_rules   . 
+                 intrinsic_rewards, motivation, ,  .  gain,                     .            simplifying        perceived_vulnerability,         . 
+/|   |    [  :           .] 
+ 
+================
+ ,     , ,     : 
+• judging          perceived_responsibility,  
+,   [Organization] protection_effect     .  
+  protection_effect     ,      .  
+       protection_effect    . •          perceived_vulnerability   
+.     ,      
+   protection_effect   ( )  
+  .           
+ intrinsic_rewards   .         
+   % belief . ,        
+     generalizing  syllogistic_rules      . •          certainty_effect .   
+          ( )  
+  certainty_effect   gain       
+          .  
+           .  
+               
+     . 
+         perceived_vulnerability     combining certainty_effect       protection_effect   [Organization ].            generalizing      ,     focus             perceived_vulnerability :   combining  certainty_effect        certainty_effect       [Organization ]. 
+                ,     ,   personality. ,  belief                 process    [Organization]    []        certainty_effect        intrinsic_rewards, ,             perceived_vulnerability. 
+/|   |    [  :           .] 
+ 
+================
+isolation_effect 
+  perceived_vulnerability                 [Organization] ,    ,      -      . certainty_effect      physical_quality         [Organization]    .   ,                [Organization] :  perceived_responsibility,   protection_effect,    .        perceived_vulnerability        ,         perceived_vulnerability           [Organization]   possibility_effect    certainty_effect       protection_effect  intrinsic_rewards.         certainty_effect       perceived_vulnerability ,               [Organization ].               perceived_vulnerability              ,      certainty_effect       [Organization ]. 
+/|   |    [  :           .] 
+ 
+================
+ 
+ 
+     behavior_control-ability         ,    behavior     .         simplifying  ,            ,        protection_effect loss,          [ ]. 
+,                  simplifying  .     isolation_effect       perceived_vulnerability ,   isolation_effect             . 
+    perceived_vulnerability        :  ,   ,     .             protection_effect, ,     .             ,        perceived_responsibility,         personality  perceived_vulnerability [activity] (  ). 
+         : certainty_effect                 . certainty_effect                    (..,  [rewards]    )       syllogistic_rules  motivation   [Organization ],  ,  . 
+ : 
+ perceived_vulnerability   
+/|   |    [  :           .] 
+ 
+================
+        certainty_effect         perceived_vulnerability  [ ,  ,  ,  ,  ].           , certainty_effect               [Organization]   certainty_effect .  perception   ,          .                       perceived_vulnerability             .     certainty_effect                [Organization] syllogistic_rules.     , certainty_effect    perceived_vulnerability        perception     perceived_vulnerability    . 
+        extrinsic_rewards              .            ,        perceived_vulnerability .        perceived_vulnerability       simplifying  perceived_vulnerability   , ,  .          ,          .       protection_effect        arousal  ,        . 
+.   
+            ()    .            focus        certainty_effect   extrinsic_rewards       [Organization ].  combining          : 
+• 
+• 
+   ( ,  physical_quality ):                 [Organization] 
+certainty_effect   (certainty_effect ,  physical_quality ):              [Organization] 
+   perception      certainty_effect   , certainty_effect        personality  [ ,  ].  ,           perception   ,  ,  ,     focus     "certainty_effect " [ ].           perception  " perceived_responsibility,"      perception                  [ ]. 
+                 :   ,  [Organization ],      . 
+/|   |    [  :           .] 
+ 
+================
+• 
+• 
+• 
+ perceived_responsibility              .          gain   perceived_responsibility. appraisal    perceived_responsibility     history,         [ ]    [ ]. 
+  protection_effect             ,    intrinsic_rewards,     ,    . ,   , /  ,  ,   extrinsic_rewards   ,          gain   protection_effect.           [ ],             [  ]. 
+            , intrinsic_rewards,         .          gain  syllogistic_rules   .          self-efficacy belief (),  ,            [ ].       belief   [ ]. 
+                 intrinsic_rewards, motivation, ,   [ ],                . 
+    syllogistic_rules         certainty_effect             .        perceived_vulnerability        ,   , .       
+    ( )     ,  ,            [ ,  ]. 
+   perceived_responsibility    [modeling]                   [ ]. ,            : 
+•  perceived_responsibility (.., [ ,  ]) 
+•    (.., [ ]) 
+•   protection_effect (.., [ ,  ,  ]) 
+•   behavior (.., [ ]) 
+• [conscientiousness] (.., [ ]) 
+•  [empowerment] (.., [ ]) 
+ 
+                        [ ]. 
+/|   |    [  :           .] 
+ 
+================
+      protection_effect       motivation [ ]. 
+.     
+    role  certainty_effect    perceived_vulnerability        . 
+          loss          possibility_effect role   perceived_responsibility,   protection_effect,            .         ,      segregating  ,    ,  focus       protection_effect       intrinsic_rewards. 
+               . 
+      perceived_vulnerability      frustration_of_needs     [Organization]   possibility_effect    certainty_effect      protection_effect  intrinsic_rewards. 
+            certainty_effect       perceived_vulnerability ,            certainty_effect . 
+,           .                  perceived_vulnerability           perceived_vulnerability . 
+/|   |    [  :           .] 
+ 
+================
+ 
+  
+               :         perceived_vulnerability        [Organization ]?       , [Organization ],         : 
+.   perceived_vulnerability     ? 
+.   perceived_vulnerability       personality? 
+.   perceived_vulnerability     ? 
+    perception  judging  perceived_vulnerability         .              [activity]     [activity] . 
+.  
+          .    ,                          .     ,        ,   -2  +,       perceived_responsibility,    ,    . 
+ perceived_responsibility 
+-2 
+ 
++ 
+  
+  
+    
+  
+  
+  protection_effect 
+-2 
+ 
++ 
+   
+ 
+    
+   
+  
+perception 
+  
+protection_effect 
+  protection_effect 
+   
+-2 
+ 
++ 
+   
+   
+   
+    
+    
+ : 
+        
+   ,       (+)    certainty_effect appraisal   ,        (-2)     appraisal.        ()    personality appraisal,   appraisal          [Organization]    .     personality        (+  -1, )             ,      personality . 
+/|   |    [  :           .] 
+ 
+================
+      syllogistic_rules      ,                    .               . 
+                   ,       syllogistic_rules                  . ,  [activity]   . ,   gain         process          appraisal      .  gain,        ,                  .       syllogistic_rules           . 
+.    
+      loss      .                    .         isolation_effect ,         .         appraisal       . 
+ ,   protection_effect      ,             (  )             (). 
+ 
+ 
+ 
+ 
++ 
+  
+protection_effect 
++ 
+ 
+ 
+-1 
+ 
+-2 
+ 
++ 
+  
+ 
+ 
+ 
++ 
+ perceived_responsibility 
+ 
+ 
+-1 
+ 
+-2 
+ 
+ 
+ 
+ 
++ 
++ 
+ 
+ 
+  
+ 
+ 
+-1 
+-2 
+ 
+ : 
+   
+ 
+    combining       . 
+/|   |    [  :           .] 
+ 
+================
+     personality.      ,                     [Organization ].   personality,         personality            [Organization]  . 
+             ,        protection_effect       belief  certainty_effect   simplifying  .       ,                    protection_effect.                ,               protection_effect    evaluating. 
+              perceived_vulnerability      .          ,               , ,       .     possibility_effect   ,    combining       . 
+ 
+ 
+ 
++ 
++ 
++ 
+ perceived_responsibility 
++ 
+ 
+-1 
+-2 
+ 
+  
+-3 
+  
+protection_effect 
+-4 
+ : 
+  behavior    
+/|   |    [  :           .] 
+ 
+================
+ 
+  
+ [goal]              perceived_consensus        . 
+        /             .               ,      "  "  "." ,     generalizing      physical_quality         . 
+ physical_quality             ,     " " [ ],       .    physical_quality   ,  , .      (, , , .),   personality        /           . 
+,  ,            .        syllogistic_rules            .               intrinsic_rewards      [Organization ]. 
+.  
+   ""          appraisal    .                    . ,   syllogistic_rules      appraisal   . ,       evaluating     ,            focus. 
+  ,            ,      [ ],            .    +      ; ,                     . 
+     perceived_vulnerability ,              .  ., ,    process     . 
+/|   |    [  :           .] 
+ 
+================
+         personality.         ,           protection_effect ,     syllogistic_rules    personality intrinsic_rewards.     : 
+•    intrinsic_rewards [ ] 
+•     perceived_responsibility [ ,  ,  ,  ] •   [ ,  ] 
+•   [ ] 
+• personality   [ ] 
+•     [ , é ] 
+    impulsive_effect    : 
+•  [ ,  ] 
+•  [ ,  , ] 
+•     [ ,   , ] • impulsive_effect  [ ] 
+•  [ ] 
+                      .     [ ,  ,  ,  ,  ]            .    [ ,  ]       intrinsic_rewards   impact    protection_effect,    intrinsic_rewards,        . , intrinsic_rewards, protection_effect,  intrinsic_rewards          . 
+         behavior_control-ability      .       process,                           .                          . ,     (..,    , [knowledge ], ,  ).          perceived_vulnerability behavior,        (.., "      behavior    [Organization] ?")        perceived_vulnerability.  internalization        perceived_consensus     . ,      ,     
+ 
+[ ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ] 
+ 
+[ ,  ,  , é ,  ,  ,  ,  ,  ,  ,  ,  ] 
+ 
+, . .; , . .; , .; , . .& , .        behavior ().  ,   . , . . 
+/|   |    [  :           .] 
+ 
+================
+     . ,          possibility_effect  . ,                , ,  .    ,   simplifying appraisal ,             . 
+        ,               .        ,                 ;            .               focus ,            ,          . 
+ combining,    intrinsic_rewards         .         protection_effect ()     ,    ,     ,       .     intrinsic_rewards  [ ]              .            . 
+  focus      ,  protection_effect,   intrinsic_rewards.     
+     [Organization]  protection_effect        intrinsic_rewards       ,    ()   [Organization ]? 
+       . 
+.  
+     ,  ,      . 
+.. 
+    
+           . 
+     focus                          [Organization ]. , appraisal     protection_effect  intrinsic_rewards    learning   . 
+,           : .   ,     ,    . .       . 
+ behavior_control-ability  perceived_responsibility     ,     perceived_vulnerability              perceived_vulnerability  (..,   
+/|   |    [  :           .] 
+ 
+================
+   ),  appraisal         [Organization ].                     protection_effect  intrinsic_rewards.   ,     syllogistic_rules    protection_effect, intrinsic_rewards,        .    [Organization] . 
+         (           )  appraisal   protection_effect :        protection_effect    [ ]      intrinsic_rewards    [ ]. 
+                [norms]      [experience ].              .   [resource] ,         ,     simplifying     ,       . ,      task       protection_effect          . 
+  protection_effect ().      protection_effect () [ ]     protection_effect belief     belief.     certainty_effect         [Organization]         .  intelligence        ,            physical_quality .        .                  intrinsic_rewards.       ,    ,  ,   [ ],         .             , perceived_responsibility    ,    ,   ,    ,  ,  intrinsic_rewards  ,    .     ,                  protection_effect. 
+ intrinsic_rewards ().         appraisal      intrinsic_rewards :  intrinsic_rewards,  intrinsic_rewards,   intrinsic_rewards.  intrinsic_rewards      [rewards]       [ ].  intrinsic_rewards   "                ,  ,    process" [ , . ].  intrinsic_rewards                [Organization ].        perceived_consensus .          [ ]. 
+    : . perceived_consensus  .   
+/|   |    [  :           .] 
+ 
+================
+. . . . 
+  (       )   
+  
+  
+     gain            .        ,                     extrinsic_rewards             . 
+              [Organization ].        ,       impact       . 
+    ,                      simplifying .             extrinsic_rewards  . 
+     (   )   : 
+.. 
+ 
+        : 
+.        
+.             
+.   [knowledge]       [Organization] .   [knowledge]    perceived_vulnerability     [Organization] 
+              , ,    .     ,     (),    (),     (),   .         ,           perceived_vulnerability   .                . 
+                  intrinsic_rewards ( , .). ,             .   [ ,   ,  ]            ;         ,     situational_circumstance    [ ].             belief. 
+.. 
+  
+         Source  perceived_vulnerability    ()  .           ,                 
+/|   |    [  :           .] 
+ 
+================
+ .        , .    perceived_consensus     .    . 
+.. 
+  
+                 .       "=  "  "=  ."      "   "  "    ." 
+   segregating      (      ),     simplifying            .       . ,          (..,      appraisal              appraisal       ,      ,  ,   ). ,              (..,  :  [Organization]      extrinsic_rewards  .)       certainty_effect         . ,                     appraisal    belief    (..,           appraisal      ). 
+ "   ," "    ,"       .        possibility_effect     .      [  ]        [  ]          .       situational_circumstance     . 
+                  .                           %  belief       [ ]       . 
+.  
+       Source  perceived_vulnerability    ()   ,                [Organization ].      %     . 
+           %  (  ,  :   )     %  ( ).           %  % . 
+          ,        perception     appraisal.  ,          , ,               [Organization ],    
+/|   |    [  :           .] 
+ 
+================
+"  "           [experience]        . 
+         protection_effect   .     appraisal     -1.,   %      -2.  -0.; ,       . 
+= -1.   % belief  
+  
+ 
+  protection_effect 
+ : 
+     protection_effect    
+        intrinsic_rewards    .     appraisal     -0.,   % belief     -0.  -0.; ,      . 
+= -0.   % belief  
+  
+ 
+ intrinsic_rewards 
+ : 
+    intrinsic_rewards    
+           certainty_effect     intrinsic_rewards  protection_effect combining        .    personality   intrinsic_rewards         protection_effect.            
+/|   |    [  :           .] 
+ 
+================
+  . ,   protection_effect    physical_quality          appraisal.     ,       .  possibility_effect belief               protection_effect        ,        intrinsic_rewards.   ,               protection_effect. ,              . 
+/|   |    [  :           .] 
+ 
+================
+ 
+    
+                    frustration_of_needs           ,  ,      . 
+.  
+      simplifying  behavior       personality  .      [modeling]      perceived_vulnerability         [ ,  ].           . 
+ 
+<> 
+ 
++ 
+ 
+ 
+- 
+ 
+ -         
+  -            
+certainty_effect  -         (.., source ,  ) 
+  -         (.., source ,   ) 
+ 
+ 
+ 
+ 
+ -       , extrinsic_rewards, ,     -     process          
+ - source   (      ) 
+ : 
+   
+      ,  (    ,    ),   (       ,   certainty_effect   ).      - ,           source       .  certainty_effect (+)             ,    (−)        . 
+    , ,               .      [modeling] extrinsic_rewards,        . 
+     ,       , ,            . 
+/|   |    [  :           .] 
+ 
+================
+.   
+          intrinsic_rewards     [Organization]     .          certainty_effect   [Organization]  ,       .            [Organization ],           process. 
+    certainty_effect           certainty_effect.  , certainty_effect       evaluating;    certainty_effect       certainty_effect    . ,              ; ,                         certainty_effect. 
+,     [Organization]    certainty_effect  ,          behavior_control-ability.                        . 
+  
+ certainty_effect  
++ 
+- 
+ certainty_effect 
+  
+  
+ 
+  
+ 
+   [Organization] 
+ certainty_effect 
+ [Organization] 
++ 
+ 
+-  certainty_effect 
++ 
+     
+   
+  certainty_effect 
+   
++ 
+ certainty_effect  
+ 
+- 
+ certainty_effect  
+  
+  
+ : 
+        
+        possibility_effect            perceived_vulnerability .  isolation_effect                  perceived_vulnerability .     ,     ;    segregating    loss,         perceived_vulnerability    . 
+,                   [Organization]          [Organization ].     simplifying : 
+/|   |    [  :           .] 
+ 
+================
+• 
+• 
+ evaluating       evaluating      . 
+ evaluating       evaluating     . 
+    ,   possibility_effect    .      appraisal          . 
+ 
+ perceived_vulnerability 
++ 
+ 
+  
+   
+  
++ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
++ 
++ 
+ 
+ 
+ 
+  
++ 
++ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+  
+ 
+ 
+ 
+ 
+ 
+[Organization] 
+ certainty_effect  
+  
+- 
++ 
++ 
+certainty_effect 
+   
+- 
+  
+ 
+ 
++ 
+ certainty_effect 
+certainty_effect  
+- 
+ 
+  
+ 
++ 
+ 
+ certainty_effect 
+ intrinsic_rewards 
+ 
+ 
+ 
+gain    
+  
++ 
+ 
+certainty_effect 
+ 
+[Organization] 
+ 
+ certainty_effect 
+ : 
+   [Organization] frustration_of_needs     
+/|   |    [  :           .] 
+ 
+================
+.   
+                        .         ,   : 
+•  certainty_effect  = % 
+•  certainty_effect  = % 
+•   certainty_effect= %/ 
+•   = %/ 
+•     = % 
+•   = %/ 
+•     = .%/ 
+      ?               belief        possibility_effect      .                            . 
+   ,            .    focus        focus        perception   [ ].          [Organization]      %     .   ,        %     certainty_effect   [Organization]  %  . 
+   focus       %      ,       "     loss  " [  ].                 .                 possibility_effect                .        ( )       simplifying  behavior             perceived_vulnerability    . 
+.   
+         ,          ""  .             evaluating           ( ).   ,                       behavior   .    behavior (     )            .            (..,      )      (..,   ). 
+/|   |    [  :           .] 
+ 
+================
+        [Organization]      combining    : ,  %     certainty_effect    , %  ,  %  .           .      [Organization]   ,        , . 
+ intrinsic_rewards  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ ()  certainty_effect  [Organization] :     [Organization] :    :       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ :  intrinsic_rewards  
+ :    
+ 
+        [modeling] .          (       ).                    ":  ".           (     )            . 
+/|   |    [  :           .] 
+ 
+================
+    gain   perceived_vulnerability     .            .    ,   ,        .      .%  .   ,   .        perceived_vulnerability .  ,      ,        / ,       . 
+ perceived_vulnerability  
+ 
+ 
+ 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+       
+ ()  perceived_vulnerability  :       perceived_vulnerability  : % intrinsic_rewards gain 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ :     perceived_vulnerability  
+    "% intrinsic_rewards gain"       perceived_vulnerability              evaluating       %   evaluating    certainty_effect    %. 
+ ,             intrinsic_rewards   [Organization ],        ,   gain   perceived_vulnerability         .  ,      personality     gain           . 
+/|   |    [  :           .] 
+ 
+================
+    possibility_effect              . 
+         
+.% 
+ 
+% 
+% 
+% 
+% 
+% 
+% 
+.% 
+% 
+% 
+ :      perceived_vulnerability  
+          loss        intrinsic_rewards   [Organization ].             ,      appraisal        certainty_effect             .       loss    behavior,     ,       perceived_vulnerability . 
+          : •   certainty_effect= . / 
+•   evaluating  = . 
+• loss  = $ 
+• loss  = $ 
+/|   |    [  :           .] 
+ 
+================
++ 
++ 
++ 
+loss  
+ 
+ 
+ 
+ loss 
+ loss  
+  
+ perceived_vulnerability 
+ loss 
++ 
++ 
+- 
++ 
+ 
+  
++ 
+loss 
+ 
+   
+ loss 
+  
+ 
+loss 
++ 
+  
++ 
+ 
+   
+ 
+ 
+  
+ 
+loss  
+ 
+ 
+ 
+ 
+ 
++ 
+  
+  
+ 
++ 
++ 
+  
++ 
+  
+ 
+  evaluating 
+ 
+ 
++ 
+  
++ 
++ 
++ 
+ 
+ 
+ 
+ 
+ 
+- 
+ 
+ 
+certainty_effect 
+ evaluating  
+   
+  
+ 
+ 
+- 
+ certainty_effect  
+  
++ 
++ 
+   [Organization] 
+- 
+ 
+certainty_effect 
+ 
+ 
+ 
++ 
+ certainty_effect 
+certainty_effect  
+- 
+ 
+  
++ 
+ 
+ 
+ certainty_effect 
+ intrinsic_rewards 
+ 
+ 
+ 
+gain    
+  
++ 
+ 
+certainty_effect 
+ 
+[Organization] 
+ 
+ certainty_effect 
+ :    appraisal possibility_effect loss  
+/|   |    [  :           .] 
+ 
+================
+        combining      loss           perceived_vulnerability .     loss         intrinsic_rewards gain (..,   intrinsic_rewards gain     ). 
+       loss           gain.  ,    intrinsic_rewards gain     ,    %         perceived_vulnerability      . 
+. 
+. 
+ loss  
+. 
+. 
+. 
+. 
+. 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+ intrinsic_rewards gain 
+ :       intrinsic_rewards gain 
+/|   |    [  :           .] 
+ 
+================
+ 
+certainty_effect      
+                   perceived_vulnerability .  perception             .          perception         protection_effect         .  perception             belief,     comply_effect    fear_arousal     . , ,       ()  . 
+     certainty_effect          .    ,     ,  protection_effect ( [Organization] intrinsic_rewards)       certainty_effect .     ,      perceived_responsibility      motivation    . [Organization] protection_effect      perceived_responsibility    . 
+   certainty_effect              perceived_vulnerability        intrinsic_rewards, ,  motivation   [Organization ].     [modeling] extrinsic_rewards,               .    combining    certainty_effect       perceived_vulnerability       certainty_effect          perceived_vulnerability    " "    "personality "       . 
+ :       
+/|   |    [  :           .] 
+ 
+================
+                 [Organization]  ,    focus  certainty_effect .                   ,                   certainty_effect     protection_effect     . 
+             [Organization]       participant_modeling      .  ,        ,              perceived_vulnerability .     ,  ,     extrinsic_rewards  [Organization]     intrinsic_rewards, ,          perceived_vulnerability. 
+ :   certainty_effect extrinsic_rewards     
+                 .                       . 
+/|   |    [  :           .] 
+ 
+================
+                           [Organization] protection_effect   
+    . 
+         . (           .)            protection_effect ,    ,      perception      certainty_effect   [Organization]   .   perception,     .      ,         perceived_vulnerability    mental_calculation   
+ . 
+.     
+       
+   
+ :        
+ appraisal        
+   
+    
+      [Organization]  
+           
+     [action]       [Organization]  
+           certainty_effect extrinsic_rewards -         .        [Organization]      protection_effect [  ,  ].         ,       personality                 process.     ,  ,  ,                   . 
+  process      appraisal     ,       .             appraisal,          .       personality        ,  -       . (    [ ].)                  ,   personality        protection_effect   
+     . 
+ 
+/|   |    [  :           .] 
+================
+                     (..,    /       [Organization] ). ,           ,   intrinsic_rewards          
+    [Organization ]. 
+.   protection_effect 
+  protection_effect ()             ,    intrinsic_rewards,    ,    .         belief                  
+. 
+  perception     ,     certainty_effect   . certainty_effect            [Organization]      extrinsic_rewards ( perceived_responsibility )      [Organization ].           . 
+   ,           protection_effect    .    [Organization]    ?        ,        intrinsic_rewards,  [rewards]  perception,  , personality  ,     [ ]. 
+ intrinsic_rewards 
+          physical_quality 
+( intrinsic_rewards ). 
+     physical_quality   
+        [Organization]  physical_quality ( intrinsic_rewards ). 
+          
+ ( intrinsic_rewards ). 
+ :     intrinsic_rewards 
+physical_quality combining extrinsic_rewards 
+physical_quality   perception 
+physical_quality   
+physical_quality task  
+  
+physical_quality    
+  
+physical_quality  intrinsic_rewards  
+frustration_of_needs  
+physical_quality  
+. 
+  
+ 
+     
+ 
+/|   |    [  :           .] 
+================
+• 
+     syllogistic_rules  physical_quality    [Organization]       [ ].  intrinsic_rewards     intrinsic_rewards : 
+ intrinsic_rewards          [Organization ], 
+  ,   extrinsic_rewards  [rewards ],   ,   extrinsic_rewards  
+perception.  ,         
+     . 
+• 
+ intrinsic_rewards          [Organization]      .  syllogistic_rules  [Organization] protection_effect           ,   
+. 
+• 
+ intrinsic_rewards          [Organization]     ,              (   intrinsic_rewards   intrinsic_rewards,  ).  ,    intrinsic_rewards     emotional_intelligence                  
+. 
+       physical_quality           [experience ],    perception   [Organization]       ,     intrinsic_rewards  ,   ,  combining         syllogistic_rules  .     
+intrinsic_rewards      . 
+ [rewards]  perception 
+    
+    [rewards]  
+gain  
+  
+   , [rewards ],  
+perception 
+    [rewards]  perception   
+ 
+  , [rewards ],  perception   [Organization] 
+ :     [rewards]  perception 
+       ,      [rewards ],  simplifying   intrinsic_rewards syllogistic_rules  intrinsic_rewards  extrinsic_rewards. ,  ,        extrinsic_rewards  .   intrinsic_rewards, [rewards]  perception        gain   syllogistic_rules  techniques 
+ 
+/|   |    [  :           .] 
+================
+ mastery_experience, ,   ,     protection_effect.  [rewards]  perception,       ,          protection_effect   perception.  gain,               
+. 
+      combining ,  ,           extrinsic_rewards     .        [Organization]      perceived_responsibility   
+. 
+          gain               .         ;          .      gain isolation_effect       
+  . 
+  
+      
+ 
+      
+     
+ 
+  , , belief  
+        
+  
+      [Organization]   
+extrinsic_rewards  
+    gain 
+       impact   
+ intrinsic_rewards, frustration_of_needs,     
+   
+ :      
+                            [Organization ].          protection_effect   personality   .     perception   protection_effect          ,  ,  ,        . ,             extrinsic_rewards   .         ,      
+  . 
+ 
+/|   |    [  :           .] 
+================
+             .  ,  [Organization]        [Organization]  ,  behavior_control-ability     , ,   ,              .               protection_effect    . ,  belief     protection_effect      
+       . 
+ syllogistic_rules  [Organization] protection_effect             ,      .  ,  gain    ,         focus   certainty_effect    ,      
+ . 
+physical_quality frustration_of_needs   intrinsic_rewards       techniques     .       ,        .          
+  . 
+personality  
+      
+ syllogistic_rules  mastery_experience 
+personality      
+ 
+   protection_effect   
+personality     
+   personality  
+         possibility_effect    
+     [experience] 
+ techniques 
+    
+    
+    
+         
+        evaluating    
+   
+      
+  
+ :    personality  
+     , personality      intrinsic_rewards           .                    .          task   .                  mastery_experience     ,   ,  protection_effect   [Organization]    . 
+ 
+/|   |    [  :           .] 
+================
+  participant_modeling       combining /    ,          . personality              [experience]   .                          [Organization]      . 
+personality           .  ,    intrinsic_rewards      emotional_intelligence   ,  ,            .       ,        focus             perception  focus -       [ ]. 
+ evaluating              physical_quality participant_modeling        .       isolation_effect                   .               protection_effect.  [Organization]                  . 
+   
+   
+extrinsic_rewards   
+      personality 
+   behavior_control-ability 
+  
+  
+ :       
+   ,        ,         . ,         [Organization]              .            [Organization ],         . 
+/|   |    [  :           .] 
+ 
+================
+          perception. ,     ,   behavior_control-ability   belief .        [Organization ],     ,     ,    ,   ,         .            . ,        [policy ],        .    mental_calculation   possibility_effect           personality  . 
+.   
+    , ,            certainty_effect   simplifying   perceived_vulnerability.    ,  ,                     [Organization]   . 
+,                    , [],     [Organization]        .        ,  , .%    (    )   .  , .%,           , ,   . 
+                .        mental_calculation                     .  ,    ,   ,    perceived_uniqueness          impact          . 
+ ,      ,         focus    .              ,              [ ].      personality        . 
+  ,  [knowledge]  ,   intentionality            Silence_group       (..,   ).  focus         ,   ,  personality        .    , [knowledge]                 .   ,          [ ]. 
+ 
+://.././.. 
+/|   |    [  :           .] 
+ 
+================
+                            .     ,                 .           , ,    physical_quality       .   ,                [ ].   ,  ,       ,        . 
+                  . perceived_uniqueness         ;  belief      focus   "" ( )  "" (  ).       ,        ,          . 
+   intrinsic_rewards             . behavior        [norms]   focus   personality       personality   .     syllogistic_rules      belief     , ,   .        , [norms]     motivation,  ,  intrinsic_rewards.      ,  ,   focus          [belief ].   belief,       (  );   ;   , ,   . 
+ ,      certainty_effect ,   mental_calculation      .             ,     , ,   .  ,   , ,             certainty_effect        .   , ,            certainty_effect      physical_quality -   . 
+/|   |    [  :           .] 
+ 
+================
+ 
+    
+  perceived_vulnerability      ,    ,     .               [Organization] ,    ,          perceived_vulnerability [ ]. 
+certainty_effect              [Organization]    .                 [Organization] :  perceived_responsibility,   protection_effect,    .              certainty_effect      protection_effect    simplifying   perceived_vulnerability. 
+ ,      gain   : 
+• judging          perceived_responsibility,   
+,   [Organization] protection_effect     .  
+  protection_effect      ,   perceived_responsibility  
+      ,      .   
+       protection_effect    . •          perceived_vulnerability   
+.     ,      
+   protection_effect   ( )  
+  .           
+ intrinsic_rewards   .         
+   % belief . ,        
+     generalizing  syllogistic_rules      . •          certainty_effect .   
+          ( )  
+  certainty_effect   gain       
+          .  
+            (.., 
+         ).       
+               
+. 
+         perceived_vulnerability     combining certainty_effect       protection_effect   [Organization ].        certainty_effect      protection_effect          ; ,         certainty_effect           generalizing         perceived_vulnerability . 
+/|   |    [  :           .] 
+ 
+================
+      ,         focus             perceived_vulnerability :   combining  certainty_effect        certainty_effect        .     certainty_effect     ,       .                [Organization ],     ,   personality. ,  belief  perception          process       certainty_effect   .     intrinsic_rewards, ,  ,            perceived_vulnerability. 
+/|   |    [  :           .] 
+ 
+================
+    
+             , ,  .  ,             ,               .              focus         certainty_effect   extrinsic_rewards    
+  [Organization ]. 
+,   
+ focus 
+    
+  
+  
+ perceived_responsibility      
+certainty_effect 
+ 
+   
+personality  , certainty_effect ,  perceived_responsibility 
+,  
+:   :   
+ 
+ (. ) 
+:  perceived_vulnerability  :    
+ :   
+        perceived_vulnerability     extrinsic_rewards      [Organization ]. 
+ ,   
+ focus 
+    perceived_vulnerability 
+// ,    
+ 
+ 
+() 
+  behavior  / 
+   / 
+ ,    
+                 .    ,    isolation_effect    certainty_effect .    ,          intentionality            .         ()  perception       .                 behavior    . 
+   perception      certainty_effect   , certainty_effect        personality  [ ,  ].  ,           perception   ,  ,  ,    focus     "certainty_effect " [ ].           perception  " perceived_responsibility,"      perception                  [ ]. 
+ 
+/|   |    [  :           .] 
+================
+               perceived_vulnerability     .     mental_calculation  ,     () perceived_vulnerability       perceived_vulnerability   ,    isolation_effect   [Organization]        .             perceived_vulnerability          . 
+    , ,      perceived_vulnerability       ,     .             perceived_vulnerability,           [ ].    perceived_vulnerability      focus     [ ],         .          ,      [ ,  ,  ],  focus          certainty_effect    [Organization]     [experience ]. 
+/|   |    [  :           .] 
+ 
+================
+      coding 
+  protection_effect  [ ] 
+-2 
+ :    
+ (,   ,   ,   
+ ) 
+:    
+  (,   ,  
+) 
+   
+:    
+  
+perception (,         
+   
+  
+) 
+ :   protection_effect  
+ 
++ 
+: 
+  protection_effect   (,  personality 
+ ,   
+  
+) 
+ :   protection_effect   (, personality fear_arousal 
+ , 
+ 
+,  ) 
+                
+   [Organization ]? 
+ [Organization]      intrinsic_rewards.  [Organization]    extrinsic_rewards  . 
+ [Organization]       .  [Organization]     intrinsic_rewards. 
+ [Organization]        intelligence .  [Organization]     intrinsic_rewards  . 
+ [Organization]  fear_arousal  . 
+. . . . . . . . 
+ [Organization]  intrinsic_rewards     . 
+ 
+/|   |    [  :           .] 
+================
+ perceived_responsibility  [ ] 
+-2 
+ 
++ 
+ :   (,     ,  /, ,   
+  
+  
+,   
+) 
+:   (,    
+,  
+  ,    ) 
+   
+:    
+ 
+(,         
+   
+) 
+: 
+  (,             extrinsic_rewards    ) 
+    
+(, personality, ,         
+ ) 
+ :  perceived_responsibility  
+    ,                    [Organization ]? (:          ;       motivation   ;            .) 
+. . . . . . . . . 
+ ,     . 
+  ,     . 
+      ,      .   personality   . 
+   . 
+        . 
+  personality     . 
+     . 
+     . 
+/|   |    [  :           .] 
+ 
+================
+    [ ,  ] 
+-2 
+ 
++ 
+ :   
+ (,       , 
+   
+   ) 
+: 
+  
+ (,        ) 
+   
+: 
+  
+ (,      
+ ) 
+:     (, personality  
+    
+) 
+ : 
+    (,     
+  
+) 
+ :     
+    ,                syllogistic_rules      [Organization ]? 
+.          ,   . 
+.          ,   . 
+.          ,       intrinsic_rewards . .          ,        . .          ,   . 
+.           . 
+.          . 
+.    syllogistic_rules      . 
+.             . 
+.         . 
+/|   |    [  :           .] 
+ 
+================
+    
+ intrinsic_rewards [ ] 
+ intrinsic_rewards 
+.     physical_quality. 
+.         physical_quality. 
+.  mental_calculation      physical_quality. 
+. ,  [rewards]      physical_quality. 
+.        physical_quality. 
+ intrinsic_rewards 
+.            . 
+.               
+  . 
+.    ,         
+   . 
+.            
+  . 
+.          . 
+.               
+. 
+ intrinsic_rewards 
+.       ,         
+. 
+.       ,         
+. 
+.       ,     personality    
+. 
+.       ,          
+. 
+.       ,     fear_arousal   
+   . 
+.      ,       
+    . 
+.            . 
+.      ,        
+syllogistic_rules  . 
+.            . 
+/|   |    [  :           .] 
+ 
+================
+    protection_effect () [ ] 
+.  [Organization]      intrinsic_rewards. 
+.   [Organization]          extrinsic_rewards    . -R8 .  [Organization]      extrinsic_rewards  . -xxx 
+.  [Organization]      . 
+.  [Organization]         . 
+.  [Organization]  behavior_control-ability  frustration_of_needs  . -xxx 
+.  [Organization]           . -xxx .      [Organization]     . 
+.  [Organization]     intrinsic_rewards. 
+.  [Organization]         participant_modeling        
+. 
+.  [Organization]           . -xxx .   [Organization]              . 
+-xxx 
+.  [Organization]  behavior_control-ability  personality    . 
+.             [Organization]     
+ . -xxx 
+.  [Organization]                 
+. -xxx 
+.  [Organization]         . -xxx 
+.        ,  [Organization]    . -xxx 
+.  [Organization]    possibility_effect         
+. 
+.     ,  [Organization]           
+. -xxx 
+.  [Organization]           . 
+.  [Organization]     intrinsic_rewards  . 
+.    ,  [Organization]   gain  . -xxx 
+.  [Organization]    fear_arousal  . -xxx 
+.     ,  [Organization]       . 
+.  [Organization]    . 
+.  [Organization]        . -xxx 
+.  [Organization]  intrinsic_rewards     . 
+.  [Organization]      extrinsic_rewards   . -xxx 
+.  [Organization]          task  . 
+.   [Organization]    extrinsic_rewards,   mental_calculation   extrinsic_rewards. .  [Organization]     participant_modeling       . -xxx 
+.  [Organization]  certainty_effect      . -xxx 
+.  [Organization]             . .     segregating,  [Organization]          
+    . -xxx 
+.  [Organization]         . 
+.            [Organization ]. 
+ 
+       . 
+/|   |    [  :           .] 
+ 
+================
+ 
+/|   |    [  :           .] 
+ 
+================
+  certainty_effect      
+physical_quality combining extrinsic_rewards 
+    
+      [Organization]  
+           
+ appraisal        
+   
+     [action]       [Organization]  
+     physical_quality   
+       
+   
+           
+  protection_effect     
+protection_effect   certainty_effect    
+ 
+      
+ 
+     
+  
+   segregating 
+      
+   
+  segregating  certainty_effect  
+     
+ 
+  segregating    protection_effect 
+     
+   protection_effect  
+  segregating    
+  segregating   
+certainty_effect  
+  
+ :   certainty_effect extrinsic_rewards   
+physical_quality   
+physical_quality task  physical_quality    
+perception 
+    
+physical_quality  
+physical_quality  intrinsic_rewards  
+ 
+frustration_of_needs       
+physical_quality  
+     
+     physical_quality 
+. 
+   [Organization] 
+( intrinsic_rewards ). 
+ physical_quality ( intrinsic_rewards ).   
+      
+ 
+    
+ ( intrinsic_rewards ).   
+gain  
+   
+      , 
+   [rewards ],  perception 
+    [rewards]  
+      
+    protection_effect 
+  
+  , 
+[rewards ],  perception 
+  
+  [Organization] 
+, , 
+belief  
+    
+       
+  
+[rewards]  perception   
+ 
+    
+  [Organization]   
+  
+extrinsic_rewards  
+    
+ 
+   
+ gain    
+   
+  
+ impact   
+  
+ intrinsic_rewards, frustration_of_needs,  
+  
+   
+   
+   
+   
+ syllogistic_rules  mastery_experience 
+    
+personality  
+    
+    
+ possibility_effect    
+ 
+   
+  [experience] 
+ techniques 
+    
+    
+    
+    
+     
+      
+ personality 
+personality     
+   
+        evaluating    
+  
+   
+behavior_control-ability 
+extrinsic_rewards   
+      personality        
+  
+ 
+/|   |    [  :           .] 
+================
+    
+      [Organization]  
+           
+ appraisal        
+   
+     [action]       [Organization]  
+       
+   
+           
+  protection_effect     
+protection_effect   certainty_effect    
+ 
+      
+ 
+     
+  
+   segregating 
+      
+   
+  segregating  certainty_effect  
+     
+ 
+  segregating    protection_effect 
+     
+   protection_effect  
+  segregating    
+  segregating   
+certainty_effect  
+ : certainty_effect    
+physical_quality combining extrinsic_rewards 
+physical_quality   perception 
+physical_quality task  
+  
+physical_quality    
+  
+physical_quality   
+          physical_quality 
+( intrinsic_rewards ). 
+        [Organization]  physical_quality ( intrinsic_rewards ). 
+physical_quality  intrinsic_rewards  
+frustration_of_needs  physical_quality  
+. 
+  
+ 
+     physical_quality   
+      
+     ( intrinsic_rewards ). 
+gain     
+   
+     
+   , 
+[rewards ],  perception 
+    [rewards]  
+  , [rewards ],  perception   [Organization] 
+  , , belief  
+   [rewards]  perception   
+ 
+        
+  
+      
+ 
+      [Organization]   
+extrinsic_rewards  
+    gain 
+      
+  
+  
+  
+       impact   
+ intrinsic_rewards, frustration_of_needs,     
+   
+      
+ syllogistic_rules  mastery_experience 
+personality      
+ 
+         possibility_effect    
+    protection_effect 
+  
+     [experience] 
+ techniques 
+    
+    
+    
+         
+      
+ personality 
+personality     
+   
+        evaluating    
+extrinsic_rewards   
+  
+  
+   
+behavior_control-ability 
+      personality        
+  
+ 
+/|   |    [  :           .] 
+================
+ 
+          . 
+[ ] 
+, .; , .; , . .;& , . . .   role        protection_effect    behavior syllogistic_rules.      .  .  .  , .  . 
+[ ] 
+, . .   personality  .        .  .  .  .  . 
+[ ] 
+, ; ,  & , .  motivation    behavior : role   [empowerment ].  .               . . . ://combining ..//.%  
+[ ] 
+, .; , . .;& , . .      :    perceived_vulnerability ,  ,          .    .  .  .  .  . 
+[ ] 
+, . .  syllogistic_rules   perceived_responsibility,    ,    behavior.     .  .  .  , .  . 
+[ ] 
+, . .; , . .& , . . intrinsic_rewards  intrinsic_rewards :            .     .  .  .  , .  . 
+[ ] 
+, . .& , . .  syllogistic_rules   ,  perceived_responsibility,    .    .   .  .  , .  . 
+[ ] 
+, . .; , . .; , .& , .   gain   ,      .    .   .  .  .  . 
+/|   |    [  :           .] 
+ 
+================
+[ ] 
+, . .& , . . certainty_effect  behavior :     .    behavior.  .  .  , .  . 
+[ ] 
+, & , .  :   intrinsic_rewards     .    .  .  .  , .  . 
+[ ] 
+, .; , . . .;& , . .    : judging      perceived_responsibility    .     .  .  .  .  . 
+://..////// 
+[ ] 
+, . .& , . .       :  combining     behavior   behavior  .  belief  .  .  .  , .  . 
+[ ] 
+, . .& , . .      ?  role              . & .   .  .  , .  . 
+[ ] 
+, .; , ; , .; , ; , .; , .; , .;& , .   perceived_vulnerability       .  .          ().  , .  , . ://..//.?= 
+[ ] 
+, ; , ; , è .; , ; , ; , ;& ,  .       :       .  :   .  .  .  , .  . 
+[ ] 
+,  .; , ;& , personality .   perceived_vulnerability       .  .           (). , , .  , . ://..//.?= 
+[ ] 
+, .    .     .  . . 
+/|   |    [  :           .] 
+ 
+================
+[ ] 
+, .& , ..       :    .      . .   
+://..///.?= 
+[ ] 
+, . .; , . .;& , . .       ?  ,   ,  personality .       .  .  .  .  . 
+://..////// 
+[ ] 
+, . .    . . .  . ://..//// 
+[ ] 
+,  .; ,  .;& ,  . .      :   protection_effect, ,       (,  , ). . 
+[ ] 
+, ; , ; , ;& ,  .  syllogistic_rules           -  ..  .   ,   . . 
+://...//.?=. 
+[ ] 
+, . .; , . .; , . .; , . .;& , . .    personality         .    .  .  .  .  . 
+[ ] 
+, . .; , . .; , . .; , . .;& , . . intrinsic_rewards    :         intrinsic_rewards .     .  .  .  .  . 
+[ ] 
+       ().   :  personality   -  .        . . ://...////% %.?= 
+[ ] 
+, .& , .    task  :   belief.    .  .  .  .  . 
+/|   |    [  :           .] 
+ 
+================
+[ ] 
+, . .     syllogistic_rules    behavior    behavior.    .  .  .  .  . 
+[  ] 
+ , . .; , .; , .& , .       . ,  .  .  .  . 
+[ ] 
+, ..& , .  belief .  . . .  . . 
+[ ] 
+   ().      :    .  :   . . ://. 
+../////. 
+[ ] 
+, .; , .; , .;& , .   protection_effect.    .  .  . .  . 
+[ ] 
+, .; , .;& , . ().   protection_effect   , motivation,  .    .  .  . ://..//////// . 
+[ ] 
+, .& , . .   protection_effect :      .   .  . ://..///. 
+[ ] 
+, . .; , . .; , .;& , . .       behavior?  role    .    .  .  .  .  . 
+[ ] 
+, .& , . .     :        intrinsic_rewards.   . . 
+[é ] 
+é, .& , . .  belief   .     behavior.  .  .  .  . 
+://..//././ 
+/|   |    [  :           .] 
+ 
+================
+[ ] 
+. []    :  perceived_responsibility      - . . . ://..///. 
+[ ] 
+ perceived_responsibility  ().  :             . .    perceived_responsibility . . ://..///. 
+[ ] 
+, .& , . . personality    .  / . . 
+[ ] 
+, . .& , . .      :  belief   .    .  .  .  .  . 
+[ ] 
+, personality .& ,  . combining        :   [modeling]   perceived_vulnerability .      ,  . ,  ,  ,    [ ]. .  . . ://combining ..//./  
+[belief ] 
+belief, . .       .  learning -     .  .  . . 
+://.././. 
+[ ] 
+, . .; , . .;& , .          :   role   .     .   .  .  .  . 
+[ ] 
+,  .  .  . .  . 
+[ ] 
+, . .& , . . focus :             . . .  . 
+[ ] 
+, & , .  :        appraisal.  .  .  /.  .  . 
+[ ] 
+, . .; , . .;& , . .     .   . .  . 
+/|   |    [  :           .] 
+ 
+================
+[ ] 
+, . .; , . .;& , . .              loss :    . personality     .  .  .  .  . 
+://..////.physical_quality 
+[ ] 
+, . .& , . .  behavior   .     .  .  .  .  . 
+[ ] 
+, . .; , . .;& , . .      ?    .     .  .  .  .  . 
+[ ] 
+, . .; , .; , . .; , . .; , . .;& , . .    protection_effect :   appraisal   protection_effect belief.   .  . 
+://..//////.isolation_effect 
+[ ] 
+, . .; , .;& , . .         behavior :     .    .  .  .  .  . 
+[ ] 
+, . / : personality  .  . .  . 
+[ ] 
+, .; , . .; , . .;& , . .   role      personality    syllogistic_rules.    behavior.  .  .  .  . 
+[ ] 
+, .; , .; , .;& , .          . .  .  .  . :// ..//isolation_effect /// .. 
+[ ] 
+,  .; ,  .;& , .     ():   . personality   .  .  .  .  . 
+://..//// 
+/|   |    [  :           .] 
+ 
+================
+[ ] 
+, .; , .& , .         perceived_responsibility :   focus.    behavior.  .  .  .  . 
+[ ] 
+,  .      perceived_responsibility :      .  / .  .  .  .  . 
+[ ] 
+, . .& , . .              .    .  .   .  .  . 
+[ ] 
+, ..; , .;& , .        perceived_vulnerability    .      [Organization] belief,   . 
+[ ] 
+, ..; , ..; , ..; , ..;& , ..   perceived_vulnerability : personality   possibility_effect .  .   , . 
+[ ] 
+, . . syllogistic_rules   intrinsic_rewards     :      ?     .  .  .  .  . 
+[ ] 
+, . .; , . .;& , . .    protection_effect    syllogistic_rules   intrinsic_rewards    behavior?     .  .  .  .  . 
+://..////.physical_quality 
+[focus ] 
+focus, .; , . .; , . .& , . .    certainty_effect   behavior :    syllogistic_rules?    behavior.  .   .  .  . ://..//././ 
+[ ] 
+, . .& , . . intrinsic_rewards      syllogistic_rules        behavior.    .  .  .  .  . ://..////.physical_quality 
+/|   |    [  :           .] 
+ 
+================
+[ ] 
+, . .& , . .    :   .   behavior :     .  . .  . ://..////  
+//. 
+[ ] 
+,  .    .  . .  . 
+[ ] 
+    ().   perception  :    .     . . 
+://...// 
+[ ] 
+, . .   behavior :  personality  .  . .  . 
+[ ] 
+,  . :  personality     .  . .  . ://../// 
+[ ] 
+, . . .; , . .;& , . .  frustration_of_needs  :  role       frustration_of_needs        perception.    .  .  .  .  . 
+[ ] 
+,   .; ,  .; , ; , ;&  ,  .    ,    ?       personality        perceived_responsibility .   .  .  .  .  . 
+://..////.physical_quality 
+[ ] 
+, .; , .;& , .  motivation   [Organization] :       protection_effect.    .  .   .  .  . 
+[ ] 
+, .& , .   protection_effect :     .    .  .  .  .  . 
+[ ] 
+, . .; , . .;& , . .  perceived_responsibility :      .    .  .  .  .  . 
+/|   |    [  :           .] 
+ 
+================
+[ ] 
+, .    : personality    -  .  . .  . 
+://..//// 
+[ ] 
+, . .      perceived_responsibility.    .  .  .  .  . 
+[ ] 
+,  ; , ;& ,  .        .      .  . ,  . ,   . ,  ,  . ,    []   . . ://combining ..//./. 
+[ ] 
+, ..; , ..;& , .  :   intrinsic_rewards  .  . .  . 
+://..//.?= 
+[ ] 
+,  .& ,  .   perceived_responsibility :  .    ,  . . ://. .///%/. 
+[ ] 
+[, . .& , . .  ,  ,   syllogistic_rules    perceived_responsibility :   focus.    behavior.  .  .  .  . ://..//././ 
+[ ] 
+,  .; ,  .;& , .  appraisal       physical_quality    focus.    appraisal.  .  .  .  . ://../ ///.physical_quality 
+[ ] 
+,  . . :    personality  intrinsic_rewards  intrinsic_rewards.  .  . .  . 
+://..//// 
+[ ] 
+, . .; , . .;& , . . experiential_awareness       belief.   . .  . ://..// 
+.?=+&=&=& =% 
+/|   |    [  :           .] 
+ 
+================
+[ ] 
+, .; , .;& , . .       protection_effect   syllogistic_rules   perceived_responsibility   .  [resource] .  . 
+[ ] 
+, . .& , . . motivation   behavior :    motivation   motivation    protection_effect.    .  .  .  .  . 
+[ ] 
+,  .; , ; ,   .;& ,  .   [Organization]   :      protection_effect    .    .  .   .  .  . 
+[ ] 
+, . . perceived_responsibility  :     .      .  .  .  .  . 
+[ ] 
+, . .& , .    :    , ,   intrinsic_rewards.    .  .  .  .  . 
+[ ] 
+,  .&  , .  :     .  . . .  . 
+://..///. 
+[ ] 
+, . ,  perceived_responsibility,   behavior :          .    .  .  .  .  . 
+[ ] 
+ .  ,  ,   :   ?   é .  .  .  .  . ://..////.physical_quality 
+[ ] 
+, & , .        .    . .  . 
+://..//?=# 
+  
+/|   |    [  :           .] 
+ 
+================
+[ ] 
+, .; , .; , . .; , .; , . .;& , . .          certainty_effect     .   .  .  .  .  . ://..///./ 
+[ ] 
+, . . .& , . . .     behavior :          .   .   .  .  .  . ://..////.physical_quality 
+[ ] 
+, ., , .; , .;& , .   perceived_vulnerability        . & .  .  .   .  . ://..//// 
+[  ] 
+ , .     . & /.  , . . 
+[  ] 
+ , .& , . :       .    .  .  . .  . ://. ./// 
+[ ] 
+, .& , .   intrinsic_rewards       ?    intrinsic_rewards (  ). .  . 
+[ ] 
+, . .; , . .;& , . .   protection_effect   :    .    .  .   .  .  . ://..////.physical_quality 
+[ ] 
+, .& , .  Impact         . & .  .  .  .  . 
+[ ] 
+,  .& , .     :  personality   certainty_effect .  . .  . 
+[ ] 
+, & , .   :        .    .  .  .  .  . ://../.?= 
+/|   |    [  :           .] 
+ 
+================
+   .  
+   
+  perceived_responsibility   Collection          ,      ,     ,      ,      Collection  .      perceived_responsibility appraisal       Collection  ,      perceived_responsibility,    ,      ,    ,  , ,  ,        ,    (), ,  . 
+. 
+   (behavior_control-ability ) 
+. 
+    
+. 
+. 
+   
+  role  certainty_effect      () 
+. 
+     
+ 
+. 
+   
+ . ,  . ,  ,  . ,  . ,  ,  ,  ,  ,  ,  . ,  . ,&  .  
+.  [Organization] ()  techniques () 
+   
+   
+,   
+. /  ()  techniques () 
+// 
+  [division] 
+   
+  
+ ,   
+.   
+ /  
+/, ,  . isolation_effect (  ) 
+. 
+ [Organization]   
+/ 
+. / 
+   
+/ 
+   
+  perceived_vulnerability                 [Organization] ,    ,          . certainty_effect              [Organization]    .   ,                [Organization] :  perceived_responsibility,    protection_effect,    .        perceived_vulnerability       ,         perceived_vulnerability      frustration_of_needs        possibility_effect    certainty_effect      protection_effect  intrinsic_rewards.         certainty_effect       perceived_vulnerability ,                [Organization ].               perceived_vulnerability             ,      certainty_effect       [Organization ]. 
+.   
+ perceived_vulnerability ,  perceived_vulnerability , certainty_effect ,  ,  
+ perceived_vulnerability  .   
+.    
+ 
+ 
+.   
+    
+  
+.    
+ 
+.   
+ isolation_effect 
+ 
+.   
+isolation_effect 
+ 
+   (. )    .   
+================

@@ -1,0 +1,357 @@
+      
+    
+    : 
+ ,  ,     
+  
+  
+ , ,  
+  
+  , , ,    
+  , ,  
+ .  
+ , , ,  
+  
+ , ,  
+ .  
+ , , ,  
+  
+   , ,  
+.   
+   , ,  
+  
+  , ,  
+  
+  ,  , ,  
+  
+  , , ,  
+  
+    , ü,  
+================
+ 
+ 
+    (.) 
+    
+  ,   
+, ,   -  ,   
+ 
+================
+ 
+  
+  :      ................  
+ ,  . ,  . ö, 
+   
+perceived_uniqueness    ():    ...  
+     
+        
+Vulnerabilities   ............................  
+ ,  ,  ,  ,  , 
+   
+  
+   perception     
+   ....................................  
+ ,  ,  ,  ,  , 
+   
+         
+   ................................  
+ ,  ,  ,  ,  , 
+   
+    protection_effect   
+  ...........................................  
+ ,  ,  ,    
+  
+      ...........................  
+ ,  ,    
+       ....................  
+ ,  ,  ,    
+        
+     intentionality  physical_quality ...........  
+ ,  ,  ,    
+================
+  
+       .....................  
+ ,  ,    
+      
+..............................................  
+ ,  ,    
+     ..........  
+ ,  ,  ,  ,    
+ behavior  
+   perception       
+behavior ..........................................  
+ ,  ,  . ,    
+       .........  
+       
+:  protection_effect    ..................  
+ ,  ,  ,  , 
+   
+   
+        
+  & .........................................  
+ ä,  . ö,  , 
+ë ,    
+:           .......................................  
+ ,  ,  ,  ,  , 
+   
+ protection_effect      
+ ..........................................  
+     
+       
+appraisal       
+    .................................  
+ ,  ä-Uhl,    
+    ,    .....  
+    
+================
+  
+  personality  ?      ...........  
+..     
+       
+ ..........................................  
+ ü,  ,  ä-Uhl, 
+   
+       
+   .....................................  
+ ,  ,  ,  , 
+   
+    ............................  
+ ,  ,    
+  
+personality      .................  
+       
+   internalization belief    ......  
+ .   ..  
+:     
+     ..................  
+ ,  ,  ,    
+perceived_vulnerability appraisal   
+  focus   perceived_vulnerability    
+ ..............................................  
+ ,  ,  ,  , 
+ ,  ,    
+ perceived_vulnerability  :   
+   .....................................  
+ ,  ,    
+  intelligence  ..................  
+..  ..  ..   .  
+     
+perceived_vulnerability       combining  
+       .....................  
+     
+================
+  
+ protection_effect    personality .......  
+     
+     protection_effect  
+. ..............................................  
+ ,  ,  ,  ,    
+  
+      personality     
+ ...................................  
+      
+       :   focus ...  
+ ,  ,  ,  ,    
+ personality    protection_effect    ......  
+ ,  ,  ,    
+  ............................................  
+================
+     
+protection_effect    . 
+ ,(),,,,  ,, 
+  , 
+ 
+,   ,    , ,  
+{, ,,,}@... 
+ 
+     , ,   
+,   ,    , ,  
+isolation_effect.    ()       intrinsic_rewards              .   .,          .              ,     simplifying      .. ,        perception           protection_effect . 
+  ,              ..     belief  personality        perception     process .   [policy]           . 
+:   ·   ·  . ·   protection_effect  ·  
+  
+     belief,            ,       (),    (),      .              .                     . 
+ ,   /         .                 .  ,         . ,  .  ﬁ         / []. 
+        . ﬁ []  protection_effect ,  / , 
+      
+.-xxx.   . (.):  ,  , . , . : ./  
+================
+ .   . 
+  , .   [knowledge ],         focus    .          ﬁ (..,    ),    .    [,],  .   [,]   #   [,]. 
+          ﬁ ﬂ  .  vulnerabilities   ,             . []. ,              .    []             [policy]         .   . []      .    []   ,  protection_effect,   .    belief  personality       [policy]             [policy]    # .     []          .   (    ). ,    []                  protection_effect ﬁ   #.        vicarious_experience          . 
+    ,             protection_effect    .,           intrinsic_rewards   . ﬁ,      protection_effect    . ﬁ.         ,  ﬁ       belief  personality           .      isolation_effect                      .          process           - . 
+                     .   .  ,     internalization         .        ,    [goal]       "              ". 
+  protection_effect    . 
+  .,         ,    protection_effect  .    ,   .         personality ,       .   ,       ﬁ,      ..  . 
+================
+     protection_effect    .  
+.    
+    .  ﬁ               perceived_uniqueness.     personality         .              . 
+ .    
+   
+    ,   ,    
+internalization : , ,  
+    ,      . 
+   ,         personality 
+. 
+personality personality    ,    personality . 
+   ,     
+    ,         
+    . 
+   ,      
+.  protection_effect  
+  .        .   behavior_control-ability  ,    extrinsic_rewards . 
+ .         (  
+).       personality ,     .  .             
+    . 
+ .           .  .       
+. 
+  .     . 
+  .     . 
+ .         , 
+      . 
+ .            
+    . 
+ .          
+      . 
+     ﬁ,       . ,         . 
+================
+ .   . 
+  ﬁ 
+ ﬁ     protection_effect         self-efficacy     [],    belief  personality             . 
+ﬁ,               .             ⊆     .         .    ⊆          . 
+.      ,       (          ,     ,    ,    ,     ).          ,       .   ,       . 
+ .        protection_effect  ﬁ  .   ,  ∈ ,                  . 
+.                     . 
+.    (,,):  ﬁ    
+        ﬁ     
+ ←  (, , )   . .    (,,):   ﬁ   
+         ﬁ.    
+ ¯c∗ ←   (,)    ¯c∗. 
+      ,               . 
+ .               ,            ¯c∗. 
+ .   ,  gain  : 
+.     ,  belief      .  gain     
+ﬁ  α= |[= ] − 
+|. 
+.   (,) ∈C2          
+   (,).  gain     ﬁ  
+α= |[ (,,)=]|. 
+.   (,) ∈CK         
+    (,).  gain     ﬁ  
+α= |[ (,,)=]|. 
+.      (,(,))   (,)    
+             extrinsic_rewards 
+  .  gain     ﬁ  α= 
+|[ (,( ,))= ]|. 
+================
+     protection_effect    .  
+ﬁ .   protection_effect    .  protection_effect    α,α,α,α     ﬃ  . 
+      
+  ,        protection_effect    ﬁ   .  ,                ﬁ   .        .           []. 
+.   
+       ﬁ   .  perception         perception        .  ,    [],             . 
+      .         ,            ( ). ,            ﬁ  ,           .           ﬁ          .                ( ). 
+  :     ,          ,     belief       . 
+. modeling     
+     process  (  )     ﬁ  .  ,   combining          . 
+    personality .      ,    . ,    ,     : 
+ (, , , , ) 
+ ,            .   ∈{,,,,, }   ﬁ         .  ,         (.., =), 
+================
+ .   . 
+  =     =      .   ﬂ     ﬂ    process combining        .      ﬁ   .  combining  ﬂ         process.        .         .,                (    ).     ﬁ  personality.          ﬁ  . 
+                    . ,          .      personality []    ﬂ. ,       isolation_effect process :     .        process     .         process        .    . 
+modeling   .                  .        , ,         . 
+ .   
+         .    [function]    ﬀ       .       ﬀ     ,     ﬂ = . 
+modeling  & .       protection_effect       participant_modeling ,   &    .         & .                    .       modeling        .  segregating ,     ,     . 
+          .      .       
+================
+     protection_effect    .  
+ .  &  
+                      .  internalization                 . 
+ process                      .     (..,        )      .             .  process                      personality        .  ﬁ             . 
+modeling   .           .      isolation_effect       protection_effect   ﬁ       (   =      = ),               . ,       (,)   ,    ,              .                      .        ,    . 
+ process         (,)                ∈CK. ,   ﬁ               gain. 
+================
+ .   . 
+ .   
+modeling   .  ﬁ            .        ﬁ      .  process        ,   perceived_vulnerability,                       . ,    protection_effect      ,    perceived_vulnerability,                    (  ).  ,          . 
+    & &    ﬁ     ,       "     ,       "  "     ,    ".  ﬁ                   . 
+.  
+             protection_effect     .     ,        . 
+modeling   .              ( )  ﬁ   ().          ( ),    [].           protection_effect.                 ().       .       protection_effect       protection_effect.    [],       protection_effect.   belief,    ﬁ         
+================
+     protection_effect    .  
+ﬁ   ﬁ    .   ,    ﬁ    . 
+  ≤    ←− 
+ 
+; 
+  ≤   ( : ):= ←− 
+ 
+;((, (),)) ≈ 
+  ≤    ←− 
+ 
+; 
+  ≤   ( : ):= ←− 
+ 
+;((,(),)) 
+  ﬁ,           ,     .                        .  ﬁ    .  intelligence ﬁ  []   [function]  :  → .           ()           ﬁ-length .                    ﬁ. ,    [function]      . 
+ .       ﬁ       .           . 
+      protection_effect    .       belief. 
+belief .   protection_effect  ﬁ  .  protection_effect,            ,        ,              . 
+      belief      : 
+      ==> 
+              ,   simplifying         .   ,       ﬁ    .            []     . 
+ belief 
+  ,    ,           protection_effect    ..     , , , .     
+================
+ .   . 
+   [policy]    belief  personality .      [policy]     process  .         [policy]             . 
+        modeling   personality  ﬂ      [] .        . 
+.                     .            . , .      . 
+ 
+. , ., , .:  :   imagination 
+      . : , . (.)  
+ . , . , . . ,  (). :. 
+/  
+. , .:        
+. :       ( ), . 
+. , ,   
+. , .:        . 
+ .  . . (),  () 
+. , ., , .:       . 
+: , . (.)  . , . , . . , 
+ (). :./  
+. , ., , .:  protection_effect   . :   
+   ,  , . .  () . , ., , .:      .   . . 
+. . . (),  () 
+. , ., , .:          
+ . . . ,  () 
+. , ., , ., , .:  protection_effect     
+ . : , ., , . (.)  . , . 
+, . . ,  (). :./  . , ., , ., , .:     #   
+ . . . . (),  () 
+. / ::   -     - 
+ &  &  &   
+. , .:     # .. : , ., 
+, . (.)  . , . , . . ,  
+(). :./  
+. , ., , .:     :  ,  
+ . :      , 
+ .  () 
+. , ., , ., , .:        . 
+: , ., , ., , . (.)  . , . , . . 
+,  (). :./  
+================
+     protection_effect    .  
+. , ., , ., , ., , .:       
+  .. :       ,  
+   ( ), . .  () .   :     ﬁ, 
+ ".",  ,  .. ://../ 
+/  ﬁ 
+. , ., , ., , .:        
+.   . : , ., , . (.)  . , . 
+, . . ,  (). :./  . , .:     protection_effect    .. 
+://.//. . , ., , ., , ., , .:    .    
+ . . . . (),  () 
+================

@@ -1,0 +1,595 @@
+  ()  
+     
+ 
+ : ..// 
+          
+  
+ ,  ,  ,  ,   
+      ,    , ,  ,  
+       
+    
+        
+ history : 
+                 
+  .   
+: 
+    
+  
+  
+  (),      , ,    , participant_modeling    role   ,    .    ,       gain     vulnerabilities,        ﬁ     .    ,    ﬁ          protection_effect         .  ,    belief ,               . ,    [modeling]             .      , ..  ,  ,   ,      . , ,             [capability]    .                 . ,      [] appraisal    . ,         
+. 
+.   
+          ()     ,  ,    .     ,        ,  , ﬃ     [].       . .          physical_quality  .   ﬁ ,    segregating ,  , intelligence ,  ,  /    []. ,   ,     ,                   [,,,,,,,,,,,].     ,    [,,]    .              ,             belief,  ,  .   [],       [].     ,    perceived_consensus    
+∗ 
+ . 
+ techniques : .@.. (.-xxx. ). 
+://././.... /©   ..   personality. 
+©   ..   personality. 
+            ,    segregating ,   [,,],   [],   [,,,,,],   [,,],  [],    [],   [,,,,,,]. 
+  ,  , ,  ,                syllogistic_rules,      .    ,    fear_arousal   [resource]            role.          /     participant_modeling   [action]     /   .       ,   ,              .    ,                vulnerabilities .    , ,                   [].  ,        ,  ,   belief.       
+================
+.   ./  ()  
+. .       []. 
+                  belief         [modeling ],  ,         . 
+        ,      . .     ,                 .          .                         .      [] appraisal     .              . 
+.      
+         ,  [modeling]       role  personality     personality .   ,      ﬁ  personality     ﬁ        perceived_consensus.    ,            ,            ﬁ               [].             ().    ,            ,                  .  ,              [modeling]   .      intrinsic_rewards     ,    perception,             personality     .   [modeling]     . 
+     [],              ﬁ.     ﬂ    [modeling]        
+ 
+  ,         ,   (    ),  ,    ,   perceived_consensus [].  ,  [],      ,        .  [],   personality                    .         personality      ,            ,           []    ,  ,          . 
+      , ,             .         perception            /  intelligence     [].  ,               [].                          [].         []      vicarious_experience                      .  segregating   ,  ,     ,   ,        . , mental_calculation -             ,          ,  [,,]    .  [],  ﬁ        [] appraisal           .  intelligence          []       ()  intelligence ,     (     )      focus   . 
+    ﬁ ,   belief        judging, ,        .   ,         ,        ()        []       .         []  protection_effect      intelligence  . ,        ,           [resource]       personality -   .      ,               ,        [,,].            perception           simplifying  ,       behavior_control-ability    []. ,    /  ,  ,    [].  personality             .        combining       intelligence .  ,         []    
+================
+ 
+.   ./  ()  
+. .     . 
+ﬁ       ﬁ.  [],    ()          participant_modeling         personality . 
+,   behavior          ﬁ intelligence   intentionality ,             () . ,                      process    [capability]      personality  .  ,     ()       [action]     [].    belief,  ﬁ-state     []         . 
+.     
+  perceived_vulnerability  ,            impulsive_effect     [].  ,                            (..,   ). ,  satisfaction_of_needs   ,            
+  
+   []. 
+  
+  
+  
+    
+ ∈ ∅         ,            
+appraisal , . 
+ ∈ ,        . 
+= + ,        . 
+   .   ,                           .    fear_arousal             .     ,        .   ,             :     () ,  ,   ,    ﬂ    . 
+================
+.   ./  ()  
+..   
+     personality         .      ,    ﬁ       ,       protection_effect     ,     .              [].  ,          simplifying   ,      [,,],   []    [].                       [,]          ,       [,,].  ,              [].  [],  persistence -                  impact           .  ,         []       appraisal       /   .  gain,            ,           . ,     simplifying                 . 
+..   
+      ,              .   belief,    ,               .                            .           () [],     [communication_link] (  )        experiential_awareness    [].    ,                     .           personality          ,  -        . ,              .     ,  participant_modeling       ,       ,        - . ,      ,               belief    . 
+..   
+       ,       ﬁ       [,].  ,            ()             .     ,          ()      . ,         ,              [].     
+ 
+             ,  ,     .  [],            ,            []. ,    []               . ,        , ,     :          ;      ﬁ    ﬁ.      ,   []           χ                  perceived_vulnerability       . 
+.      
+     ,      ,  ,  ,   ,    ,        .     ,     perceived_consensus                      , [modeling]       ,    ,     . ﬁ    personality [modeling ],       intelligence    .  ,  [],  behavior                     .       ,  , , ,      ,              []. 
+,       ,             .  ,   belief     []    impact               ﬁ ,          .          []             ,          personality. ,   intelligence ,            ﬂ      ()              [].     ,            / ,           .  [],                      .            [,]    . 
+      ,       perceived_vulnerability               ,   gain      . ,         perception      ,                [,].        ,              [].   ,             
+================
+ 
+.   ./  ()  
+    intrinsic_rewards      simplifying   perceived_vulnerability,  ,        [].    [],           ,    ,   ,  ﬁ,   .  ,      ()         personality    [].   ,         loss     .       ,        . 
+                        . ,   personality          .      gain    ,  ,               [].       appraisal            behavior    .                  , , .. [].     appraisal                []      .  [],           . 
+   ,   [modeling]                perceived_vulnerability           .     focus            . 
+.      
+               . ,        ﬁ   loss   .          ,  loss           [].  physical_quality    ,      role      .     ,       ,    []           []     .    ,           segregating           ﬁ .    ,      behavior_control-ability  .               combining       []. 
+ ﬁ                 .  , []          appraisal  ()        [].    ,          .  , , ,        ,    ﬁ-walls       []. ,   perception         .     ,        isolation_effect          .   ,            : ()     belief; ()    () ; () 
+χ-detector    ﬁ;  ()  (    ) intrinsic_rewards. 
+      ,       combining    .     ,                  .         ,  behavior            ,        . ,         ,     . ,                          ﬁ        ,    [goal]         (   )      protection_effect     []. 
+..     belief 
+ belief                ,                [,,].  ,  [],                             perceived_vulnerability     . ,                 [].            ,        belief    []  intelligence    segregating     ,      appraisal     perceived_vulnerability  .  appraisal -       ,                        [].       [,]    .  ,      [,]     techniques     .                 . 
+..     
+ appraisal ,    () perception   personality  ﬃ              perception   , , .. [,,,].   ,                               appraisal - .  physical_quality      ,        []               .   syllogistic_rules    appraisal      ,        []                          . ,            appraisal   χ   . 
+.. χ-detector    ﬁ 
+ χ-detector   [capability]        (   , /  
+================
+.   ./  ()  
+)     ﬁ (     )        .       ,           [].  [],                  perceived_vulnerability     .      χ-detector     []         intelligence .     ,   χ- ,              . ,           χ ,        [],                appraisal . 
+..  intrinsic_rewards 
+    ()    perception    , combining     ,         .         .    personality ,    vulnerabilities                perception             , ,  , [,].  [],   ﬁ             ﬁ  . ,        []          appraisal []          .       ,           [] ,    ,    [,].  ,            []   ,             .  [],        appraisal          .    []    perception   .      perception    [capability]                  .         perception                             []. 
+.    appraisal    
+[] appraisal    role           ﬁ   .   ,          impact          .   ,   appraisal        []    ﬂ      .  ,           ()       physical_quality      mental_calculation  appraisal physical_quality  [].     ,    [] appraisal     [,,].    ,  appraisal                  
+ 
+ syllogistic_rules          ﬁ  [,]. 
+       constraint     Jamming ,           []. ,       (    )     [].       perception                .         belief,         [].       [],    []     []      appraisal    , [modeling]      . ,            intentionality   ,    [] appraisal               []      ﬁ. ,  belief       []           .  ,    perceived_vulnerability           process         appraisal       . 
+   [] appraisal ,       perceived_vulnerability        .     ,   intrinsic_rewards   persistence                 .       ,            personality      .           ,           [,,]   ,  [,,,,,,]   ,   [,]   participant_modeling .     ,       []  behavior_control-ability          .     Jamming     []        loss   .   perceived_consensus         []          . 
+     ,           perception.    ,       [,]           impact    . ,          []      ,  ,   . ,                 [,,]  ﬁ                .  ,     -    []    personality                .                 belief     belief       ,           personality  . 
+.  
+   
+                     appraisal belief. ,   [modeling]              . 
+================
+ 
+.   ./  ()  
+, ,              [capability]     . ,               . ,        [] appraisal     . 
+  ,    perception               ,   intelligence physical_quality    . 
+()  [modeling]  : 
+•    ,               .                     . 
+•      belief,                personality  ,            ,     . 
+•        constraint.       ,     syllogistic_rules                syllogistic_rules   . •    ,       physical_quality   belief                  .    fear_arousal    belief       . 
+()    extrinsic_rewards : 
+•           .             perception       impact         . 
+•                  evaluating      gain,            . 
+•          ,           .          ( ,  belief,  , χ )    . ,        extrinsic_rewards          ﬁ. 
+()        : 
+•     combining         .       belief     ﬁ        . 
+•  personality ,    [resource]  ( , segregating , .)        .                     . •          gain    ,   , ,   . ,                    . 
+ 
+               ,          ,         ,     [capability]        . 
+ 
+[] . , . , . ,      
+   ,  . . . . .  
+() () . 
+[] . , . , ..        
+  :     , 
+ .  process.  () () . 
+[] . , . , . , . ,     
+   protection_effect ,  .  protection_effect . 
+ () () . 
+[] . , ..  . ,       
+ ,  .  () () . 
+[] . , . , . , ..        
+ :       ,  
+.  . .  () () . 
+[] . , . , . , ..        
+ :      ,  
+.  . .  () () . 
+[] . , ..  ..       
+  ,   () () . 
+[] . , ..     @,  , 
+. 
+[] . , . , . ,       
+     ,   belief . 
+ () () . 
+[] ..  . , ..      
+  ()  ,  . .  
+  () () . 
+[] . , ..  . ,      
+ :     belief,   
+. .  () () . 
+[] . , . , . , . ,    perception   
+       ,  
+. . .  () () . 
+[] . , . , . ö, . , ..     
+        
+,  .  .   () () . 
+[] . , . , . ,      
+      ,  . . .  
+() () . 
+[] . , . ,  ,   [knowledge] :     
+   ,  . . .  () () . [] . , . , . ,       
+ intelligence :   perception,  . intelligence   () 
+() . 
+[] . , . , . ,        
+  [] appraisal,  . . .  () () . [] . , ..  ..  [modeling]  , . 
+  () () . 
+[] . , . , .-xxx. , . ,        
+       ,  . 
+.  .. :./... 
+[] . , . , ...  . ,    
+          , 
+ . .  () () . 
+[] . , . , ...  . ,   ﬁ  
+        
+  ,   () . 
+[] . , . , . ,     
+     ,   () . [] ..  . , .  , ....     
+   ,  .  . .  () 
+() . 
+[] . , . , ..  . ,   appraisal    
+          ,  
+. .   () () . 
+[] . , . , . , . ,      
+      :   
+ ,   () . 
+[] . , . , . , . ,   perception    
+    ,  .  .  () () 
+. 
+================
+.   ./  ()  
+[] ..  ..           
+,  ,  , . 
+[] . , ..      
+    intelligence :       
+,  . . .  () () . 
+[] . , . , . , . ,    
+      intelligence  ,  . intelligence 
+  () () . 
+[] . , . , . , protection_effect appraisal     
+    ,  . .   () 
+() . 
+[] . , . , . ,       
+ :          
+, / . . .  () () . 
+[] . , .-xxx. , perceived_consensus        
+     ,  . .  () 
+() . 
+[] . , .-xxx. , . ,     
+       segregating  
+   ,  . . .  () 
+() . 
+[] . , . , . , . , . ,     
+ :     , / .  
+. .  () () . 
+[] . , . , . ,       
+    ,  .  process.  () () 
+. 
+[] . , . , . , . ,    , , 
+    ,  .  . .  () 
+() . 
+[] . , . , . , . ,      
+[] appraisal,  .  . .  () () . 
+[] . , . , . ,         
+   segregating , :       
+    , , , , , . .  [] . , . , .-xxx. ,    :   
+, . .  () . 
+[] . , .-xxx. ,       
+   personality   ,  
+. . .  () () . 
+[] . , . , ..  . ,   ﬁ    
+        appraisal - 
+, . . . .  () () . 
+[] . , . , . , . ,    []  
+      ,   belief 
+.  () () . 
+[] . , ..  . , . , . ,     
+      intelligence ,  . .  
+.  () () . 
+[] . , .-xxx. , .-xxx. ,       
+      ,  . . 
+. (), :./... 
+[] . , . ,       intelligence :  , 
+ . .: belief .  () () . 
+[] . , . , .-xxx. , . ,   perceived_consensus 
+       , . . 
+ () . 
+[] . , . , .-xxx. , . ,  perceived_consensus   
+     ,  . .  () 
+() . 
+[] . , . , . ,        
+    ,  . intelligence   () () 
+. 
+[] ..  ..  . , . , . ,    
+    ,  . intelligence   
+() () . 
+[] . , ..         
+     ,  . . 
+  () () . 
+[] . , . , . , . , .-xxx. , . ,  
+  personality     :  
+appraisal,   ,   () . [] . , . , . , ..  appraisal, ﬁ    
+    :  gain  
+, . .  () . 
+[] . , . , . , . ,    perception   
+ [] appraisal         
+,  .  . .  () () . [] .-xxx. , .-xxx. ,  personality     
+  ,   belief .  () () . [] . , . , . , . , ..  . ,   
+     intelligence  :     
+ ,  . .  () () . 
+[] . , . , perceived_vulnerability appraisal   [] appraisal   
+     ,  . intelligence   () () 
+. 
+ 
+[] .. , . , ..  ...  [modeling]    
+      ,  . .   
+.  : . .  () () . 
+[] .-xxx. , .-xxx. , . ,        
+ ,  . . .  () () . 
+[] .-xxx. , .-xxx. , .-xxx. ,       
+    ﬁ    
+,  . . .  () () . 
+[] . , . , . , . , ..       
+        , 
+  () . 
+[] . , . , . ,      
+ ,   belief .  () () . [] . , . , . , satisfaction_of_needs      
+ :       
+ .,        ( 
+)  ,       , 
+. 
+[] . , ..  . , ..     
+      ,  .  process.  () 
+() . 
+[] . , ..  . , ..      
+     ,   process. .  
+() () . 
+[] .-xxx. , .-xxx. , . , . ,    
+        
+      ,   () 
+. 
+[] ..  ..       
+ ,  . intelligence   () () . 
+[] . , . , ..  . ,      intelligence , 
+ . intelligence   () () . 
+[] . , . , . , . ,      
+        ,  
+. .   () () . 
+[] .. , . , . , . , . , ..  intelligence 
+    , .   () () 
+. 
+[] . , . , ..  . ,  ﬃ    
+          
+:    ,  . .  () () . [] . , . ,   [] appraisal    
+    ,  . .   .  () 
+() . 
+[] . , . , . , . , ..  Jamming    [] 
+appraisal   :   perception,  . 
+.   () () . 
+[] . , ..  . , . ,   perception   
+    ,  .  . process. 
+.  () () . 
+[] . , . , . , ..  . ,     
+       ,  . intelligence   
+() () . 
+[] . , . , . , . ,      
+      ,  . intelligence 
+  () () . 
+[] . , ..  ..         
+ : impact  ,  . . .  () () 
+. 
+[] . , . , . , ..  . , [] appraisal     
+ﬁ        
+ ,  .  () . 
+[] . , . , . , . ,       - 
+      intelligence    ﬁ,  . 
+ . .  () () . 
+[] . , . ,        
+   ,  . .   () () 
+. 
+[] . , . , . ,       
+,  .  . .  () () . 
+[] . , . , . , . ,  [] appraisal   
+        
+ , . . . .  () () . 
+[] . , . , . , . ,  [] appraisal   appraisal - 
+,       , 
+. .     () () . 
+[] . , . , . , . ,   [] appraisal 
+       :  
+ﬁ-horizon ,   () () . 
+[] . , . , . , . ,  
+   :     
+perceived_vulnerability,   () . 
+[] . , .-xxx. ,        
+    ,   () () . [] . , .-xxx. , . , . ,      
+  ,  . .   () () . 
+================
+ 
+.   ./  ()  
+[] . , .-xxx. ,         
+ ,   () () . 
+[] .-xxx. , .-xxx. ,      
+     ,  .  .  
+() () . 
+[] .-xxx. , .-xxx. ,        
+      perception,  .  
+() . 
+[] . , . , . , . , ..  . ,   
+    :   focus  
+ [] ,   . .  () ()  
+. 
+[] .-xxx. , .-xxx. , . , protection_effect      
+  ,  .  () () . 
+[] .-xxx. , .-xxx. ,     protection_effect   
+     ,  .  .  
+.  () () . 
+[] .-xxx. , .-xxx. , . , . , . ,     
+       ,  . . 
+.  () () . 
+[] . , . öﬂ, . ,    ﬁ   
+ ,  . .   () () . [] . , .-xxx. ,       
+        ,  
+. . .  () () . 
+[] . , .-xxx. ,       
+     ,  . .  
+ () () . 
+[] . , .-xxx. , . ,      :    
+        
+,  .  .  () () . 
+[] ..  . ,       
+  ,  . .   () ()  
+. 
+[] . , . , . , . , opportunity_for_criminal_acts   protection_effect  
+        , :  
+      , , , , , 
+. . 
+[] ..  . ,        
+intelligence   ,   process. .  () () 
+. 
+[] . , . , . , . ,     
+        ,  .  
+ process.  () () . 
+[] . , . , ..      []  
+   , :      protection_effect  
+ (), . . 
+[] . , . , . ,      
+      :    
+ ,  . . . .  () () . [] . , . , . ,      
+  ,   () . 
+[] . , ..  . ,  ﬁ-state  [modeling]  protection_effect  
+   ,  . .   () () 
+. 
+[] . , . , . , . ,     
+   ,  . .  (), :. 
+/... 
+[] . , . ,  protection_effect  ,  . .  
+() () . 
+[] . , . , .-xxx. , . , . ,  experiential_awareness focus   
+       ,  . 
+. .  () () . 
+[] . , . ,  []     
+/,  . .   () () . [] ..  . , . ,      
+       intelligence ,  . . 
+.  () () . 
+[] ..  . , . ,      
+    intelligence ,  . . .  () (). 
+. 
+[] . , . , . , . ,      
+    , . . .   .  
+() . 
+[] .. , . öﬂ, . ,      
+    ,   () () 
+. 
+[] . , ..  . , . , . , . , . ,  
+  perception         personality 
+, .   () () . 
+[] . , . , . , . ,     
+ ,  . .   () () . [] . , . , . , . ,      
+intelligence     , :     
+     (), , , , , 
+. . . 
+[] . , . ,     intelligence     
+       ,  . 
+intelligence   () () . 
+[] . , . á,       []  
+:       ,  . .   
+.  () () . 
+[] . , . , . , ..  . ,    ﬁ- 
+         [resource]  
+, . . .  () . 
+[] . , .-xxx. , .-xxx. ,    ﬁ- 
+      ,  .  . 
+learning. .  () () . 
+[] . , . , . ,      
+    ,  . intelligence   () () 
+. 
+[] . , . , . , . ,    
+perceived_consensus        , 
+/ . . .  () () . 
+[] . , . , . , . ,  perceived_consensus     
+   :  ﬁ-horizon , .  . 
+ () () . 
+[] . , ..  ..  . ,   
+     ,  . .  .  () 
+() . 
+[] . , . , . , . , . , . ,     
+    [] appraisal : [modeling]  , 
+ .  . .  () () . 
+[] . , . , . , :  /    
+ , .   () () . 
+[] . , .-xxx. ,         
+     ,  . .  () 
+() . 
+[] . , . ,       
+  ,  . .   () () 
+. 
+[] .-xxx. , .-xxx. ,         
+      , . .  
+   () () . 
+[] . , .-xxx. , . ,       
+      ,   
+.  () . 
+[] ..  . , . , . , task    
+    , :     
+  , , , , . .  .-3. [] . , ..  . , . ,     
+     ,  .  process.  () () 
+. 
+[] . , . , . , . ,       
+ ,  .  () () . 
+[] . , . , . , . ,     
+  ,  ,  , . ( 
+). ://..//.. 
+[] .-xxx. , .-xxx. ,      
+          ,  
+. .  () () . 
+[] .-xxx. , .-xxx. ,   ﬁ-sum     
+        ,  
+ () . 
+[] . , . , . , ..  ..  ..  . , 
+        []  
+ ,  . intelligence   () () . 
+[] . , ..  . ,       
+  , :         
+     (), , , 
+, . . 
+[] . , . ,    , ,   
+    :     
+    ,   . .  () () 
+. 
+[] . , . ,         
+    ,  . .   () () 
+. 
+[] . , . , . , . , . , . , : 
+  [] appraisal      
+,  . intelligence   () () . 
+[] . , . , . ,       
+   :  ﬁ-horizon ,  
+ () . 
+[] . , . , . , . ,  [] appraisal  personality 
+        :   
+ ,  . .  () () . 
+================
+.   ./  ()  
+     ..     
+     ..     
+        
+ , , ,   ..  
+  belief       
+ , , .     
+ ,         
+     ,   
+ , , .      
+         
+ ,    ,  
+, .      ,  
+          ,     ,  .      ,             ,   , .          ﬁ,        .          .     personality     . 
+    ..    
+    , , ,  
+,   ..  ..     
+        
+    , , ,  
+  , .      
+ ,       
+       
+ () (,    
+   , ),   
+    () (,   
+     ()),   
+, .      ,                     , .       ,    ,  combining  (  )     [division ],         intelligence        , .      ,     (),   ﬃ ,      ﬃ   , ﬃ , .   ,       , ,       ( )    .   ,      ( )       , . .        ﬂ ﬁ :              .    combining              ,     ,     ,   .        ,  ,  ,    personality   . 
+    ..     
+ , .       
+      &   
+ ,    ,  
+.     ,  
+    ,  ,  
+ ,  .  ,    
+     personality   
+    .    
+         
+ ,       
+().         
+     .     combining      ,        ,     (),          .     ,           ().        . 
+ 
+    ..     
+      
+, , ,  ,  ..   
+ belief      
+ , , ,  ,   .. 
+       
+, , , ,  .   
+       intelligence  
+ ,   ,  
+  .  ,       
+   intelligence   ,  
+  , , .  
+  ,        ﬃ   , ﬃ ,  , .             ,     , , .         ﬁ,    ,     . 
+    ..    
+   ..    belief 
+     ,  
+, ,    , .  ,  
+   ,      
+         
+.    ,      
+          
+,   , , 
+, .    ,     
+  ﬃ   , ﬃ , 
+ , , .  ,     
+   , , , ,               .       ﬁ,   ,   ,  ,  ,   . ..          extrinsic_rewards ( )    ,       extrinsic_rewards ( )       ,    . .   . . ,     extrinsic_rewards  ,   . .-xxx. .     combining                    . 
+================

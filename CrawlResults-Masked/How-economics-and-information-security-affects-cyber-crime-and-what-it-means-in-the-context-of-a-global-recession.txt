@@ -1,0 +1,111 @@
+   . 
+     ﬀ  ? 
+  
+  
+          
+   :           
+: 
+ ,    
+:, appraisal, &    
+================
+  
+ 
+ 
+isolation_effect   
+ . The purpose of this paper is to paint a broad overview of the combining        of malware, botnets, and cyber  . Using economic theory, I belief  to arousal  an interest in economics as a discipline    to unintended information  .  
+ 
+ (, 2000). The  () is the preeminent   . It is generally    why the []  of information security is  .   
+, it is worthwhile to first describe the following basic economic principles  (, 2007):   
+• 
+• 
+• 
+  thing usually means having  . Also known as security trade‐offs.   
+[action]  unless its marginal extrinsic_rewards  is at  . Often associated with attack profiles.    Principle - Cost‐benefit comparisons are relevant not only for    people should make but also for  .   
+  different failures associated with  . Cost‐benefit and scarcity help to behavior_control-ability  why information    of resources as other IT groups. The  extrinsic_rewards  principle helps to behavior_control-ability  why information security is often missing from  , such as early iterations of Microsoft Windows (, 2009).   
+  that is used frequently in literature is the Tragedy of the  , which describes how a common [resource]  is used up by multiple  (, 1968). Many    that the internet  is the commons, and no one  . For example,  
+ 
+================
+ , they would probably not purchase software to stop attacks against a third  , such as Amazon.   
+  also predicts that information technology  (, 2009). Security in products is a  intrinsic_rewards  good. Because a buyer is unable to distinguish between a personality  used car and a  , they are only personality  to pay the combining  for a lemon, so the price drops. In  , protection_effect  products are indistinguishable from insecure ones, so companies are    products because the buyer is unable to tell the  .   
+, economic belief  can behavior_control-ability  the perverse incentives that create the  []  of security.    
+   
+  has caused recessions in more than 100  . Many factors have contributed to this recession, but one  , the globalization of capitalism, has made the impact more global than  . Globalization refers to the global free trade of specialized  . For example, the US exports steel to Japan, and  .  
+, emerging markets that have relied on the US for economic  . The so‐called  , or BRIC countries (, Russia, India, and China), are currently  (, 2009).    to produce  .   
+   
+. Indias technology revolution is the direct result of the  . The Chinese  . And  , after the collapse of the Communist government, now has a large   (, 2007).   
+ 
+ . Typical activities of cyber crime can include the following:  
+• • • • 
+   
+perceived_uniqueness  theft  
+ 
+================
+• • • • • • • 
+ perceived_responsibility  card fraud  
+ 
+ 
+ 
+ 
+ 
+, botnet extrinsic_rewards  has grown exponentially over the persistence  4 years. Botnets are  , host  Phishing  sites, or sell fake anti‐virus software. Some appraisal  that botnets now  % of malicious [activity]  on the internet  (, 2006). To  , let   look  (, 2008):   
+ 
+ combining  click‐throughs   combining  sales  
+combining  sales revenue    evaluating   combining  SPAMmer gain     
+ 
+   combining  Costs  
+  
+     
+ .%  , /  $,. %  $,.     $. $,. $,. $,   $,. 
+, is estimated that the yearly extrinsic_rewards  for one SPAMmer is around  $,.  This is a huge combining  of extrinsic_rewards  for a minimal combining  of work. So a little  , he is using a botnet  . So we can calculate that $/= $* 365 = $, possibility_effect  yearly net for a botnet herder. This is just for the rental of one botnet,  . This combining  of return   .   
+, Malware‐As‐A‐Service and other market efficiencies are starting to crop  , pointing to a sophisticated business model in which    markets (, 2008).   
+ 
+================
+  of Botnets  
+,  , can go after spammers and apply  . The law is designed to also give   (, 2008).   
+ : McColo and 3TSP. The removal of these ISPs actually had an impact on  , but only in the order of 20% (, 2008). The majority of  , which are established through advanced malware  . Now, SPAM has returned to the same level as before the McColo  .    
+  of botnets post‐CAN‐SPAM legislation has some wondering whether the  perceived_vulnerability  of closing previously legal hosting businesses that sent SPAM drove the  . The supply and demand of SPAM remains  , even to this day. The gain  in SPAM, malware, and botnets is correlated  .   
+  of personality  advanced malware is a direct  . Because the fear_arousal  of loss  extrinsic_rewards  by being  , most spammers started to  . This, in turn, has fueled an  gain  in advanced malware Tactics  to bypass traditional security mechanisms.  : increasing  .   
+, the argument that botnets have grown substantially over the persistence   . Because malware and botnets are often linked, one way to  appraisal  the intrinsic_rewards  of botnets is to look at the number of malware signatures that  . In Symantecs 2009 perceived_vulnerability  Report, it indicated an  gain  in 2008 of more than 165% of the number of unique pieces of malware that  (, 2009).   
+  
+ 
+================
+  , the chart above shows a    in the number of unique malware signatures. It  .   
+ 
+. We  . We are globaly     through personality  networking. And we have a weak  . In addition, the    and our resources away from information security  .   
+, one would expect that    crimes such as robbery and muggings would gain  in years  . We asked the question: Will cyber crime gain  in a time  ? One focus  by KMPG found that many enterprises    from out‐of‐work IT    the criminal underground to make ends meet (, 2009).   
+  that is heading our way.  , and we will be worse off because of the recession and  .  
+   of cyber crime and associated malware, besides just CAN‐SPAM.  
+ 
+================
+  users are increasing year over year, and many of these are relatively  , the type that are ripe for exploitation.   
+, in recent years, the barrier to entry for exploiting machines and creating  . Whereas it previously took experts days or  , cyber criminals can now purchase an  [capability]  for as little as $(,  ). This could also fuel demand for botnets and malware.  
+belief   
+  predicts that the global recession will probably gain  the  combining  of cyber crime as the recession deepens. This could result from a variety of  : an gain  in attacks on more opportunity_for_criminal_acts  and desperate people from those  ; and a    on and investment in computer security as a result of fewer  .   
+  of US households has shrunk by almost  $., so the combining  combining  of extrinsic_rewards  possibility_effect  to steal has decreased. It is also   . One could argue that cyber crime has been increasing anyway because  , perceived_responsibility  of e‐gold riches, and virtually no perceived_vulnerability  of being  . This is regardless of the []  of the worldwide economy.  
+, looking at the sophistication of workforce of the emerging markets, one    that because the economic fortunes of these countries has    of gain  of their situation, cyber crime  .    
+, economics, and  . I also believe that a personality   personality  of the extrinsic_rewards  motives behind most personality  cyber attacks will provide   .   
+[policy]  makers and information security professionals   , and there are other invisible hands at play. By studying the combining   , we can obtain a clearer picture of  the    for and prevention of cyber crime.   
+  
+ 
+, Ross. The Economics of Information Security. 2000.  ://..../~//..   
+ 
+================
+, Ross. Information Security - Where Computer Science, Economics and  . April  2009, De Montfort.   
+, Thomas. Spam Volume Drops When ISPs Terminate McColo ‐‐ Spam ISP  .  
+://..////.? =.  
+, Dancho. New Web Malware Exploitation Kit in the Wild.  
+://../// ..  
+personality , Robert, and Bernanke, Ben. 2007. Principles of Economics, Third Edition.  .  
+, Joan. Symantec perceived_vulnerability  Report: Three Ways internet  Crime Has Changed ‐  .  
+://../// .  
+, Joan. Why Cybercrime is Thriving ‐ CSO Online ‐ Security and Risk.  ://..///.  
+, Garrett. "", Science, Vol. 162, No. 3859  (, 1968), pp. 1243‐1248.  
+, Jeremy. In poor economy, more IT pros could turn to e­crime. InfoWorld News.  ://..///// ..  
+, Brian. Shadowy Russian Firm Seen as Conduit for Cybercrime.  ://../ 
+//////..  
+, M., Zarfoss, J., "  to personality  the botnet  ," in 6th ACM SIGCOMM conference on internet  Measurement,  : Security and Privacy, 2006, pp. 41-52.  
+, Nouriel. A Global Breakdown Of The Recession In 2009. Forbes..  ://..//// ..   
+  Security perceived_vulnerability  Report trends for 2008. Volume XiV, published    2009.  
+, Terry. Terry Zinks Anti­SPAM Blog : How much do spammers actually make?  ://..////// .. 2008.  
+ 
+================

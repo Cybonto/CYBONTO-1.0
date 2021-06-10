@@ -1,0 +1,299 @@
+   . 
+        
+  
+   
+  .  
+  , ,    
+  
+          
+      
+   perceived_vulnerability     
+      [Organization] 
+================
+       ,  ,     
+        
+ ,  ,          
+    ,  
+{,,}@.. 
+     ()           .    process  ,      ,     personality loss              . ,           .      possibility_effect      ,   ,                . ,  focus               . intentionality   impact      ,              "     satisfaction_of_needs       () . 
+;  ;  ; 
+.  
+         ()                          ,  " .              , , , ,               ,      . 
+                  [], [].        process     process       process .         /  /  process         .          .             . 
+ .    Source:   perceived_responsibility ﬁ .  [] 
+         extrinsic_rewards          protection_effect  (intrinsic_rewards ). 
+,       personality -               ﬁ .                 [function]     . 
+     loss    ,    ,       ,   . 
+         (/)        []         .           []              ,      ,          . 
+        
+/ $. ©    .//.. 
+ 
+================
+ ,     .     [],  gain     vulnerabilities     personality -       .         ()       ,      ﬁ    ""         .    . ,             []. 
+       ﬁ           [], [], [],   /  [],   [].      mental_calculation       [], [].  ,      []      ()   []. 
+         .           internalization    .   ﬁ   , intrinsic_rewards   perceived_vulnerability .    vulnerabilities     .  ,,     , ,   .    . 
+.    
+  ,     ,             impact         .    ﬁ         ,  ﬁ              
+ 
+[].          ,       ,            . 
+,       , ,      ,   ,       ,  belief  loss      ,              task. 
+      []   extrinsic_rewards                  
+   [],                   . 
+ ,    /    loss   ﬁ         . 
+  .           :      loss   .  -        :              loss  ,         . 
+                   personality    , personality  ,     ,  behavior_control-ability        , .      .       personality          loss. 
+     ,           task        .      task          . 
+    (),                       .  ﬁ                . 
+,  ﬂ         . 
+.   
+  []      possibility_effect     ,               .             . 
+.   [goal] 
+                                         . 
+     ﬁ,   [goal]              .  process ,   ,     intelligence  ,                [],      ﬁ       . 
+                      . 
+ 
+================
+    ,     possibility_effect    ",   ,  physical_quality.  ,     ﬁ                       perceived_responsibility. 
+,      focus  ﬁ.     ﬁ,                 ,     .  ﬁ              ,    ,     . 
+     ﬁ      []   . ,  physical_quality    perceived_uniqueness       ,        behavior_control-ability    . ,              ,   . 
+) :      ,        ,             . 
+       , ..              ,              ,  ,      , ..,          .      syllogistic_rules,      , ,                    personality   process ,              ,      .  ,        ﬁ ,       personality,            appraisal      .     ,         [goal ]. 
+,            ,        process   .           participant_modeling        process                  . 
+  ,         ,      [goal] - protection_effect  . 
+)  :        ,        ,    ,   
+;  [resource]          .               .          . impulsive_effect          .            [goal]         ,    segregating     ,     , ,     perceived_vulnerability,           . 
+) :   , ,  ,            ,    ,         source,        .      ,      ,     perceived_uniqueness          .   ﬁ  ,       .         ,                   source     appraisal      .     ﬁ              protection_effect  ,    protection_effect      ,      ,  ,   ,     . 
+) ":                 ﬁ  .   ,               .   appraisal                    .           .  ﬁ  vicarious_experience     . 
+,  ﬁ      ,  ,      .  evaluating         .        . ,      ﬂ               . 
+                          . 
+ 
+================
+)  :           impact      ﬂ           ,    . 
+,            .  ,   ,                    . ,        ﬁ, , ,      . 
+. intrinsic_rewards  
+   focus       ,    perception       
+ 
+       . ,     learning     protection_effect, ..,                 appraisal  . Brute_Force                   Jamming       . 
+,       appraisal    . 
+. perceived_vulnerability  
+                         vulnerabilities   .       segregating  personality ,  ,  intelligence ,  ,  ,   ,  , ,  , ,   [].               . 
+. perceived_vulnerability 
+            vulnerabilities.    ,      segregating        ,   ,   vulnerabilities  trap          .  ,           . 
+    ,          loss   . 
+ 
+      personality belief  physical_quality             .     ﬁ perceived_vulnerability     loss     . 
+          ,            ,            ﬁ .  ﬁ,      
+€       
+€ Vulnerabilities    
+€   ﬁ     
+€   
+€      
+ 
+€        
+ 
+       ,         
+€          
+  /   combining  
+      
+€         
+/       / 
+    combining   
+    
+€   
+€    -      
+task . 
+              ,     perception      . ,       personality     ,         .   ﬁ-          . 
+.     
+  intrinsic_rewards           .                      .  perceived_vulnerability    ,  satisfaction_of_needs  ,              ,       .         perceived_vulnerability              .                   ﬁ  . 
+           .    ,           ,    .                      .            
+ 
+================
+                . 
+.    
+    ,            .                 participant_modeling   . 
+  ,       ﬁ process .         ,          process     ,     ,    appraisal. 
+       personality -   ,    vulnerabilities     .      ﬂ   ﬂ      ,  ﬂ  .                   perceived_vulnerability. 
+.        
+    personality              [],                 [].                        [].             ,                    . 
+.  " 
+       ﬂ   vicarious_experience      behavior         .         [function] . 
+           ,  ,      . 
+  ﬂ       .               . 
+ ,   . ,           ,     ﬂ perceived_vulnerability      perceived_vulnerability     loss    []. 
+      ﬁ               .    gain   
+ﬁ            .     ﬁ      . ,   ,    ,      ,     . 
+ / techniques  ()     []       [function]           [function]     , . 
+. SQL_Injection 
+              ()    ﬁ    .  physical_quality          , SQL_Injection,      ,           . 
+                   ,    Collection         . SQL_Injection              ,      ,       impulsive_effect     .            . ,   " "    ,        .  process             .  impact        intrinsic_rewards combining           . 
+     [],        (  .)    .                . 
+        loss. 
+.      
+ isolation_effect           /                  ,     ,  ,       . 
+                    . 
+    /   ,     [], []   . 
+ 
+================
+ .   
+.   
+)      :              .   learning  ,    , .,          [knowledge ].                     ,    Brute_Force                
+.          ,     ,                       ,   ,    ,  task  
+. 
+    ()                           . 
+)  :           "" ,     .                   /. 
+)  :     techniques ﬁ,  ,       ﬁ    ()         techniques         .      ,       ﬁ ,            . 
+) techniques intrinsic_rewards  ()  /:        
+  
+#.   
+# 
+       ()           .   ﬁ       techniques  . 
+            ,      ,    .         ,    ;     ,   ;         ,        . 
+  techniques      . ,                techniques.                        . 
+) / :    ,      syllogistic_rules                perceived_uniqueness.      ,                      . 
+.   
+ "                process. 
+ ,           /  vulnerabilities                                loss        . 
+.   
+,             ,       , ,    ()  process  (),     ().       source                ,    learning    .            opportunity_for_criminal_acts       . 
+             .             source ,  ,  ,       ,                      .           ,    []. 
+,   possibility_effect      ﬁ . 
+ 
+================
+) :  []           .     ﬂ     +  /.    ( learning)         ( )   [function]   ﬁ  [action]       "     .         (). 
+ .     
+        ,  combining []         possibility_effect .        (..,   , ﬁ        ,        ),  (..,    ,    ),    . 
+       perceived_vulnerability    participant_modeling       protection_effect vulnerabilities [], []. 
+           ,            [function]   [].  [function]              ()         , .           ()       syllogistic_rules      .        [function]    . ,                 .       , [function]            ,     . [function]         . ,     ,        ()        ,      .      ,   [function]           . , +   [function]  ()                   . 
+,        .     ,   learning    ,        . 
+) :     learning                 .            .  [function]      ﬁ       participant_modeling   .      ,       .     gain             . , [function]       ﬁ- .   ,           ,       . 
+.      
+ vulnerabilities       , ,    ﬂ, .,              possibility_effect . 
+,   ,    ,     learning ,            process      techniques  ﬁ. 
+, []                 . 
+) / :   ,  physical_quality                  ,     ﬁ     /   .     , segregating    ,           . ,        . 
+€   gain      ﬂ 
+     . 
+€ /     
+     / . 
+ fear_arousal                         . 
+,          vulnerabilities         coding . 
+) :                process . 
+    ,    [function]   :          .          
+      ,   
+ 
+================
+     ,     [function]           techniques,               (..     ).                      .           (),                  . 
+[]      ,         : 
+€  loss   ; 
+€ personality     ; 
+€ intelligence, personality      
+  () techniques 
+) :   personality                 ,   ,              . 
+        [],        ﬂ.          ( )  opportunity_for_criminal_acts     ﬂ.         opportunity_for_criminal_acts    ,          ﬂ                . 
+) :                 ()             .       ﬁ    . 
+) :         " () ,    ( ),         process         ﬁ  /  . 
+           .  perceived_vulnerability    ,         . 
+. belief    
+    ,           -    ,  belief    . ,  possibility_effect       satisfaction_of_needs    
+ 
+perceived_vulnerability  # 
+      ,     .  belief               . ,                        ﬁ  ,           .             ()   . 
+                    physical_quality     . 
+ 
+ ﬁ         perception  mastery_experience                 ﬁ .                          . 
+ 
+[] 
+perceived_vulnerability  #      ﬂ perceived_vulnerability, ://.../// 
+[]  ,  ...     
+  , , .   
+. 
+[]  , , ,   physical_quality 
+   , ,  
+, ://..//// 
+. 
+[]      () 
+://..///. 
+[]  ,     ,   
+://../ 
+[]  ,  ,  ,     
+:     ,    
+ ,     
+, ,  (). 
+[]  ,  ,      
+-  focus   Vulnerabilities    
+://.///%% 
+%%  %. 
+[]  combining : satisfaction_of_needs    
+://../ 
+[]  ,    ,  
+  #    ,  
+ 
+================
+[]  ,   ,   []  ,   ,  ,  
+, .  ,     ,  , & ,  
+ ,  .,  , 
+://..////// []      . ,     
+//  .   ;     
+,   .  ,    []        (): -  . 
+   ,   
+   ,   , []  .    " 
+  .,  , . 
+[]     
+://..//// 
+. 
+[]  ,  ,  ,  .-xxx. , 
+     "  
+/,      
+   ( ) 
+[]  ,  ,      
+ , & ,,  
+[]  . ,        
+  - , ,   , 
+  
+[]   perceived_responsibility ﬁ,  
+      protection_effect 
+ ,    ,  
+,://.././.. 
+[]  . ,  .    . . physical_quality , 
+     , 
+       
+& : , ,   -    
+[]    perceived_responsibility ﬁ (), 
+    () role   
+  () ,  
+(,  : , ). 
+[]  . , satisfaction_of_needs   ,, . 
+[]  ,        
+   , . belief,   
+   [] ,  
+[]     , "  
+/ :      
+     protection_effect   
+( , , . 
+[]  , ,  
+://../// 
+vulnerabilities. 
+[]  ,   , ://..////. 
+[]  ,        
+   ., , ://.../ 
+/// 
+ 
+[]   ,  ,  ,  
+       ,: 
+ ., : .,       
+      , ,  
+://../////focus/ 
+/. 
+[] . , :      
+    /   
+ & :   ﬁ , 
+ 
+[] ..    Impact   &# ;  
+,   ,     
+,  ,  
+[]  ,  ,     
+    :  , 
+      (), 
+., .,  ,. 
+ 
+================

@@ -1,0 +1,1247 @@
+ 
+   -   
+ ,  ,  ,    
+   intrinsic_rewards     (),     .   , , ,           . ,     focus    .  ,                ﬁ  focus      . 
+  ,            ﬁ .       : ()    ,       , vulnerabilities,   ; ()    ,  focus  , ,   ;  ()     ,           (.., intelligence ,    intelligence ).      isolation_effect          ﬁ      .   ,         isolation_effect         ;   intrinsic_rewards         .  isolation_effect      intrinsic_rewards   personality   ,     possibility_effect       . 
+ , , intelligence , intelligence ,  , , , Vulnerabilities, ,  
+:. [.]    
+.  
+ 
+  ,      intrinsic_rewards 
+           ().            ,  ,    ,     ,  ,  ,  ,   .          ,  protection_effect ,       . ,        vulnerabilities       , , ,       . 
+            .          .        , ,   .        ,   ,    .   ,  ,     ,         . personality     vulnerabilities,           personality      . 
+. , .   .           ,    , , ,  .  : @.. 
+     []     ,    ,    .        . 
+,                      behavior_control-ability  . 
+               ﬁ ﬁ       .   ,   personality  ,   vulnerabilities  ﬁ  ,     .    ﬁ  combining,   focus  ,    ,  ,      .   personality   vulnerabilities,           .               combining  ,     . 
+  ,  ﬁ ﬂ  ,    focus              .       personality   .             ﬁ ,      ,     . ,   ,        ( ), vulnerabilities ( ),  ( )   ( ). ,          : , ,   .  ,     ,      , ,   . ,     ,          ,  ,   , intelligence ,  ,  intelligence .      ,     , vulnerabilities,            .   ,      [knowledge]   intelligence    ,   combining      perception,      ( ). 
+  ,     : ()            , ,       . ()   possibility_effect perceived_vulnerability    . ()     vulnerabilities        . ()           vulnerabilities   ﬂ  . ()      ,   combining         . 
+================
+. .       : ,  ,    . 
+.  
+.   
+       ,   ﬁ     (),                .                  .  gain, ,       ,     [].    self-efficacy   ,    ﬁ            [].               ()      .    ﬁ              . 
+            , , ,  ,  .      ,      .  ,              () ,       ()    intelligence       ().              .  gain,          personality     ﬁ, ,  .    ﬂ         protection_effect   . 
+   ().           , ,          ,    ,   .          ()     ().  ,       .  ,           .  personality       (),          personality  [].  ﬁ 
+          . ,            ﬁ     .                  . 
+intelligence  .  intelligence                    , ,   .  intelligence    ﬁ   .    ,     ,   evaluating, intelligence ,   .     ,              ﬁ    [].  intelligence       :      [].           intelligence   , ..,  , ,  .       intelligence       personality        intelligence      , ,   . 
+ .                 .              impact  .         ,     (),    ,   .                 ,       ﬁ  .          ,        []. 
+intelligence . intelligence  (intelligence )      , , ,        .         self-efficacy          ,     ().       personality        ,  ,  (,  )  satisfaction_of_needs  (      ). 
+.   
+     .      ,   ,  ,   .                    . 
+.         ,           ,    (),         ,    
+ 
+================
+   () [].      gain      /. intelligence .      : ﬁ        ,      ,      extrinsic_rewards (),  .       ,     ,   .  gain, intelligence   ﬁ       appraisal -       . intelligence ,  ,    , .., ,          intelligence . 
+ .         ﬁ   ,          . ,             .            .  ,     ()  ﬁ     extrinsic_rewards (),      (),           .    ,          , ..,    ().              []. 
+intelligence . intelligence         ,     (),    (),   .     focus   .   ,      ,        .        ,        .           ﬁ.   perception         . , []        .      ()   combining  (),         / ; ()    (),   personality        ; () ,                         ;  ()     (),      [].  gain,             . 
+.     
+.          ,         : () , ()   ,  ()   .       ,    combining    ,    ,         .      
+   intelligence  ,    ,     .      combining           ,     . 
+. .  isolation_effect  
+               .        ,  ,    combining    .                      .  ,                ,        impulsive_effect    . ,      ,  gain                   ,    impulsive_effect       ,        . 
+   ,  ,     ,      personality           .              . ,         : , ,  .      , ,          ,           .            combining. ,              .   ,          ﬁ    .   , ()     mental_calculation ,  ()   .      ()  ()                            . ()              participant_modeling  role   . ,         . 
+   ,     isolation_effect          .   ,    ﬁ      : () , () ,  () . 
+ 
+================
+. .   
+.          ,      personality      .  [goal]   persistence      .      ﬁ ,    ﬁ        ,   , ﬁ        . ,   ,          simplifying       . 
+  ﬁ,    ()                  ,       .       combining ,             ,              .  gain,   ()    combining    .  ,  ,   ,             .             . ,            , ..       . 
+. .     
+intelligence .        intelligence .  intelligence                          .  intelligence           ()    ,        .           ,   ,      (),   . 
+           physical_quality -              [].  intelligence                .                .  ,                      ()            , ,   .    combining /isolation_effect        .            ﬁ    ,            personality     intelligence . 
+ . ,                intelligence .   ()       intelligence    , ,               .          ()  combining /isolation_effect         intelligence .  gain,    ()   possibility_effect   intelligence        participant_modeling  ,      ,   ,   /   .  ﬁ    ,  ,                     intelligence .       intelligence            intelligence .      intelligence     combining          [],     () [action ]. 
+. .     intelligence  
+ . .            ,        ﬁ ().                ,                fear_arousal  persistence    evaluating [].       , 
+ 
+================
+     (),     .  ,      ,          .           .    ,      personality      .               ,       .  gain,              personality  . 
+. .      
+  ﬁ,    ()               .    (),    ,            .  personality     ()      .             .    ﬁ  ,                 . 
+intelligence .          .           ,         .        .      focus      : )          )                [],         . 
+ . ,                   ().         ()    .                    ,  ,     .   ()              ,           () .  ,  ,       impact     / . ,           (). 
+. .    intelligence  
+.    
+  ,           ﬁ  .          ,  ,  ,         .       satisfaction_of_needs      . ,                     . ,                 .   .              .  ,             ,   perceived_vulnerability    . ,    intelligence      loss       ﬁ     .               ,       .  ,                 [].        vulnerabilities        . 
+  intelligence .    intelligence    perceived_vulnerability          .           , loss     ,    gain   evaluating [].                 .    .                  .        ,    ﬁ    .   . []  
+ 
+================
+              , ﬁ, ,  .             , combining  ﬁ ,  ,  persistence    ;        personality     , ,  ,   ﬁ. 
+  .                       satisfaction_of_needs.      ,  , ,       fear_arousal    .       [function]   . ,    ,      ,     .             .         vulnerabilities    intelligence . 
+.    
+satisfaction_of_needs      ,     personality  possibility_effect  [].          possibility_effect    physical_quality     .              opportunity_for_criminal_acts .          ﬁ    . ,        protection_effect,  ﬁ    : ﬁ,   .               ,     .            . 
+.   perceived_vulnerability  
+ [knowledge]  /           [knowledge]        .  ﬁ   ﬁ      perceived_vulnerability.   perceived_vulnerability  ﬁ  "   [circumstances]    possibility_effect   loss  loss" [].        ,    possibility_effect       ,  .  loss     , ﬁ, ,    ,   loss   ,  ,  .          ,       :  ,  gain             . 
+ combining ﬁ    perceived_vulnerability : source, , motivation,  ,  possibility_effect .              . 
+() Source.  source   perceived_vulnerability      . perceived_vulnerability     :        ,    /;     
+         ; situational_circumstance      (ﬂ, ),   (ﬁ, ),      (    loss) [], [], [], [], [], [], []. 
+() .         .    ﬁ    . () motivation.            : , , , personality,   [], []. 
+()  .  perceived_vulnerability  participant_modeling           : Interception, , ﬁ  imagination [] 
+() .    ﬁ, , , ,  . 
+.    
+   possibility_effect          perceived_vulnerability .  ,       ﬁ        ﬁ : source, , motivation, ,  .   
+   (motivation ).     
+   (source)     
+ ()        
+    ().
+   (motivation ).    
+ (source)   simplifying   perceived_responsibility   
+          
+ ()     ()   
+  ﬁ () [].
+   (motivation ). intelligence 
+ (source)  participant_modeling   
+      ( 
+)     ()  
+  ﬁ     ( 
+) [], [].
+   (motivation ).  personality  
+(source)        
+()      , 
+..,     ,    
+   ﬁ  ()    
+ ,  ,   
+  () [], [], [], [], 
+[].
+  .   (source)    
+         
+ ()        () 
+        
+  (). 
+  intelligence 
+   (motivation ).   
+(source)         
+ ()    intelligence  () 
+ simplifying   perceived_responsibility () [], [], 
+ 
+================
+[], [], [].       perceived_vulnerability 
+    (source)     
+  personality  ()   
+     generalizing     
+  ()       
+       
+() [], [], [], [].  gain,  
+      (source)   
+   ()      
+    intelligence  ()    
+  () [].
+   ﬁ-motivated perceived_vulnerability (motivation ). 
+ (source)       ()  
+   generalizing personality ,     
+ ,     
+ intelligence      ()   
+ participant_modeling    () []. personality  (motivation ).  personality  (source)  
+       
+  ()  satisfaction_of_needs     
+intelligence   ()    
+ , ,  ﬁ  ( 
+) []. 
+   
+   (motivation ).    (source) 
+   loss  personality   /  
+ ()         
+    ( 
+)       []   
+       
+() [].  gain,   (source) 
+      loss ()  Jamming 
+       
+ persistence     ()   
+       loss   
+   () [], [], [].
+   (motivation ).   (source)   
+     ,   ,  
+     personality  personality 
+()        
+       (), 
+        ﬁ- 
+() [].  gain,     
+   ,   ,   
+combining  personality      .  
+    (source)    
+(motivation)  intrinsic_rewards       
+()      combining 
+     ()  
+   () [].
+   (motivation ).    
+      personality  (source) 
+  personality ﬁ ()    
+       
+ ()    possibility_effect   
+  vicarious_experience loss () [].  , 
+         
+        
+    personality   [].   intelligence 
+   (motivation ).   (source)   
+   ()      
+  ()      loss 
+  () [].
+   (motivation ).   (source)    
+  personality     ()  
+ vulnerabilities    ()  
+   () [].
+   (motivation ).  ,     
+, (source)     ()    
+   (),     
+    ,    
+ [], [].
+ ﬁ  (motivation ).   (source) 
+        () 
+      ﬁ  ( 
+)   perceived_consensus  [knowledge]    
+   () [], [].  
+perceived_vulnerability    (source)    
+  ()     
+         
+       loss 
+ [].
+   (motivation ).  personality  
+(source)        
+     ()   
+possibility_effect intelligence    opportunity_for_criminal_acts    
+ ()      
+   () []. 
+.   VULNERABILITIES   ,  ﬁ      vulnerabilities   .   combining  ﬁ vulnerabilities.  ,   vulnerabilities   intelligence         . ,          vulnerabilities,       . 
+ gain,   isolation_effect      ,    vulnerabilities   ,       perceived_vulnerability  : , ,   vulnerabilities.          .  ,         (..,   )   ,          .                    . 
+.   Vulnerabilities 
+ belief.    "  "     ,   ,    
+ 
+================
+  .  focus     personality   ,          .              ,  ,  protection_effect.  ,      (   "intelligence "),     belief         ,          [], [], []. ,  ,   ,             [].  gain,    belief     intelligence                [].              belief,       .          ,     . 
+ .       .               .  ,   intelligence                .  ,        ;          ()  [].            .  gain,       ,  ﬁ        [], [].        ﬁ  . intelligence           " ".         , , ,    . 
+.           ,  ,          .      ,        .  ,      , ﬁ,     ,       . ,            [].      vulnerabilities    [].  ,                        []. ,      ,    ,      impulsive_effect behavior    .  ,           intelligence ,  ,            ,     . 
+.  Vulnerabilities 
+ Vulnerabilities. 
+[ ]  vulnerabilities   .  self-efficacy    ,   /  ,  .      opportunity_for_criminal_acts      opportunity_for_criminal_acts . / vulnerabilities        ,               protection_effect   [], [].       (),        vulnerabilities,          [].  gain, ,    ,          []. 
+     ﬁ-optic   .           .         ,   opportunity_for_criminal_acts  Interception    ()  [].  ,              live_modeling  .           ﬁ  [], [].           belief             ﬁ. ,  ﬁ   opportunity_for_criminal_acts   ,            [].  gain,   combining  ,  ,      ,      possibility_effect ,               [].       , ,       .   ,    vulnerabilities         .  belief,     opportunity_for_criminal_acts   ,    personality Eavesdropping,  ,            [], []. [ ]  vulnerabilities.  personality  perceived_vulnerability  SQL_Injection,          [], [].                    . ,          .  [],         .  gain,           [goal]     satisfaction_of_needs     .   ,            perceived_vulnerability. , vulnerabilities   -         ,       ,     ,       participant_modeling            []. 
+intelligence  vulnerabilities. 
+[ ]  vulnerabilities   .  intelligence              
+ 
+================
+vulnerabilities          . /     syllogistic_rules         combining   . ,     ,   ,   intelligence        ﬁ [].       perceived_vulnerability,   vulnerabilities    .  gain, ,           ,     ﬂ perceived_vulnerability []. 
+[ ]  vulnerabilities.     vulnerabilities     intelligence      intelligence .  ,  intelligence     ,    perceived_vulnerability.              personality  ,     ,    .  perceived_vulnerability         [].          ,     possibility_effect      [].   behavior_control-ability   intelligence .  []         intelligence          ,  appraisal ﬁ.  gain,  intelligence        .  perceived_vulnerability        intelligence        . [ ]  vulnerabilities.                  intelligence       .         combining  ﬁ   intelligence   generalizing personality    [].  personality        ,  ,     /. 
+  vulnerabilities. 
+[ ]   .             ,               appraisal [].  , .. "  "      . 
+[ ]  vulnerabilities   .         ,     perceived_vulnerability         Jamming, ,  , ,   .        opportunity_for_criminal_acts  Eavesdropping      .   ﬁ ,        [].  gain,         opportunity_for_criminal_acts               ,   ,        .  gain,       ,  personality   opportunity_for_criminal_acts    []. 
+[ ]  vulnerabilities.  role        ,      
+  vulnerabilities.   ,           [], []. loss        ﬂ      . ,   . []   ﬁ        .        ,    ﬁ (),    vulnerabilities:        ﬂ perceived_vulnerability,   ,   ,  ﬁ           ().  gain,           .  ,   . []                      . 
+intelligence  vulnerabilities. 
+[ ]  vulnerabilities   .      : ()      ()     participant_modeling      ,  ,  ,    .         ,  . ,                   ()        .  syllogistic_rules    ,        Eavesdropping         [], [].       opportunity_for_criminal_acts    intelligence  [].           ,    appraisal    ﬁ  (),        ().  appraisal  ﬁ,      ,  ,        ﬁ   .  gain,                    () techniques,      []. [ ]  vulnerabilities.        ,  intelligence  self-efficacy    ﬁ . ,  ,         vulnerabilities [].  ,       opportunity_for_criminal_acts   Code_Injection,             .  . . []                    vulnerabilities   .    ,         combining    .     perceived_vulnerability           syllogistic_rules.   . [] ﬁ  vulnerabilities: )            "ﬂ"    ,  )     opportunity_for_criminal_acts     ,         ﬁ. 
+ 
+================
+.  Vulnerabilities 
+ Vulnerabilities. 
+[ ]    .                            .   ,         ,    ,     opportunity_for_criminal_acts     .       ﬁ  Eavesdropping  [], [].          [], [].  gain,     ,              ,                [], []. ,        personality      [], [].  , ,    appraisal  .     ,        ,   .   . []    perceived_vulnerability           , ,  . 
+    ﬁ         intelligence     perceived_vulnerability      intelligence  .  ﬁ        []. ,               [].  ,  [] ﬁ , ﬁ        .        intelligence ,    perceived_vulnerability   . 
+,    loss     ,       vicarious_experience   (.., )   ﬁ      .     syllogistic_rules  ﬁ ,            [].            ﬁ           ,           . 
+[ ]  vulnerabilities.      ,     ,     (),        . ,       , ..,  .    ,      opportunity_for_criminal_acts      []. 
+     personality   ﬁ      .        vulnerabilities,        possibility_effect      ﬁ     ,   .      vulnerabilities     vulnerabilities       .  ﬁ    perceived_vulnerability     ,   opportunity_for_criminal_acts         () [].   perceived_vulnerability         opportunity_for_criminal_acts  []. 
+   perceived_vulnerability         opportunity_for_criminal_acts            [].   perceived_vulnerability,      [].  gain,        ﬂ vulnerabilities         [], [].  ﬂ vulnerabilities      vulnerabilities   []. [ ]  vulnerabilities.  mental_calculation       personality      .       ,        personality .    ,  ﬁ     opportunity_for_criminal_acts     [].  opportunity_for_criminal_acts           ,        ﬁ          .     ,        .   perceived_vulnerability        [action]       [].    ﬁ   segregating     participant_modeling       .        protection_effect    ﬁ       .     ,                   vulnerabilities. []    perceived_vulnerability           .  perceived_vulnerability              .                combining   .  gain,   behavior_control-ability    ﬁ .        intrinsic_rewards             []. 
+intelligence  Vulnerabilities. 
+[ ]   vulnerabilities. 
+     intelligence         ,     ,    vulnerabilities    intelligence .  gain,          gain       .            impact     intelligence .  ,    ,         Eavesdropping,           belief     [], [],             [], [].               ﬂ ,     ;     ,        [], []. 
+ gain, intelligence          .  ,           ,    ,  ,     
+ 
+================
+,  ﬁ        .            ,   vulnerabilities     [], [], []. [ ] Vulnerabilities  intelligence . intelligence     ,                   [].  ,  intelligence                 .  []   intelligence           " " .       segregating     ﬁ,             intelligence .   ,             , ..,       . 
+     intelligence   ,  possibility_effect  : ()  ,  ,            ,  ,                   ; ()     ""       intelligence      intelligence  ;  ()            perceived_responsibility ﬂ    simplifying  loss    []. 
+  Vulnerabilities. 
+[ ]  vulnerabilities   ].  self-efficacy         vulnerabilities          .          ,               . 
+      ,   Jamming  .  ,             ,       ,          .         [], [].    opportunity_for_criminal_acts    ,                [], []. 
+    ,          .   . []    . []    vulnerabilities       vulnerabilities.  gain,   . []                   .  []    perceived_vulnerability          .                 appraisal.              . 
+     [knowledge]    
+; ,           ,       .   . []   perceived_vulnerability                personality     .    personality       combining           .  gain,  []       opportunity_for_criminal_acts   .        ,           .  gain,     ﬁ,       []. [ ]  .                 intrinsic_rewards       [].     opportunity_for_criminal_acts       [knowledge]   .  gain,      . ,     ()  ﬁ            . []  . 
+intelligence  Vulnerabilities. 
+[ ]  vulnerabilities   . intelligence   opportunity_for_criminal_acts              [].   ,     ,  ,    .     vulnerabilities      , .        vulnerabilities         intelligence .  ,         , ,       .      ,   opportunity_for_criminal_acts  Eavesdropping  ﬁ [].               .  gain,            [].        opportunity_for_criminal_acts   [].   ,     ,  ,       combining       []. ,  vulnerabilities,       ,     belief  . 
+[ ] satisfaction_of_needs .              satisfaction_of_needs.  ,      (),   ,    ,  satisfaction_of_needs           satisfaction_of_needs.       impact     [experience]      satisfaction_of_needs,       , ..,   .        ,     perceived_vulnerability      possibility_effect        vulnerabilities,  vulnerabilities         [].   ,        .         
+ 
+================
+        ,        persistence     .                 ﬁ.      ,   simplifying  gain  ,    .  perceived_vulnerability         ,       ,        opportunity_for_criminal_acts      , ,  . 
+[ ] Vulnerabilities  .     intelligence    "".           ,         ,      .               . , , , ,         [].               . ,       ,              . ,              []. 
+.  Vulnerabilities 
+,   vulnerabilities        impact.                   .    perceived_vulnerability     focus      impact.  ,    ,      impact    []. 
+ Vulnerabilities.   [exposure]    ,     ,          perceived_vulnerability  .  ﬁ      ,          .  ,           source          .    ,  ,            []. 
+intelligence  Vulnerabilities.   , intelligence  ﬁ      .   combining         ,   opportunity_for_criminal_acts     .  ,    opportunity_for_criminal_acts   , ,   .  ,   ,            []. 
+ gain, intelligence    , ,            .   . []                intelligence . ,         . 
+  Vulnerabilities.  ,    ,    opportunity_for_criminal_acts   .  ,          .  ,   ,         ,   ,         ,  ﬁ   ﬁ             .  gain,      ,          ,       [].  ,            .   . []            .   perceived_vulnerability  mental_calculation       .     perceived_vulnerability  .        ,     opportunity_for_criminal_acts       personality     .        []. 
+intelligence  Vulnerabilities.    ,    opportunity_for_criminal_acts         .  ,                 constraint    .  gain,      personality      perceived_vulnerability     .  ,                []. ,               .                   []. 
+.    
+   , ,              vulnerabilities   .  ,      [],      ﬁ       vulnerabilities   . ,  mental_calculation           .      ,               . []   , , ,      , intelligence ,   ,  intelligence , .        ,           .       (ﬂ  ),           (ﬂ),    ( ),      (Impact),      (),          ().                   , ,  ,  , ,   , . 
+ 
+================
+  
+  VULNERABILITIES. : , : , : 
+; :  belief, : , : 
+perceived_vulnerability, : , :  . 
+ perceived_vulnerability    
+    ,  
+   , ,  
+   ,  
+   ,  
+   ,  
+&  ﬁ   ,  
+ 
+ vicarious_experience    ,  
+ &   , ,  
+  ,  
+     intelligence  
+  , ,  
+   ,  
+  , , ,  
+    , ,  
+ ﬁ   , ,  
+   ,  
+ intelligence   , ,  
+      
+&  
+Jamming&    
+&   ,  ,  
+    ,  
+ ,  ,  
+   intelligence  
+  Interception   
+    
+  ﬂ   
+    ,  
+   ,  
+  ﬂ   
+     
+     
+  ,        perceived_vulnerability .      /    ,     impact    . ,     impact  ,   ,  . 
+.   
+  
+ .        vulnerabilities   .   , ﬁ   techniques intrinsic_rewards  ()      [], []. 
+.             [], []. ,  ,             .    [goal]   combining  personality    ,  ,   ﬁ [].         , personality      ﬁ    . 
+ gain,  ,    ,    ﬂ,   ﬁ     .  
+  [goal]      personality .   ,         ﬁ      .     Phishing        ﬁ    .          vulnerabilities              .               personality      []. 
+ .          ,     source   .  ,    ,           .         .     ,        loss,          []. 
+ . Night_Dragon ,  ,  personality   personality          [].             SQL_Injection perceived_vulnerability     [], []. 
+intelligence   
+.  ﬁ  intelligence   ,       . Flooding        possibility_effect perception    .   . []   impact    intelligence  .              ﬂ  .  gain,    ,        , Jamming       []. 
+  .     intelligence  ﬁ           ﬁ .   . []           impact   [] appraisal  intelligence .              ,         intelligence     [] appraisal process.     ﬁ      [].  .   simplifying  ﬁ  intelligence   intelligence      generalizing personality   .  ,                .  gain,      generalizing        ,   ,    [].  .  ,        ﬁ  ﬁ   .           ,            intelligence  .      ﬁ combining    ﬁ,       []. 
+ 
+================
+   
+,   ,            experiential_awareness . ,  perceived_vulnerability      ,              .     ﬁ   ,    ,    intrinsic_rewards         .               . 
+ .    perceived_vulnerability    ,        appraisal      [].  gain,           []. 
+ ,          ,  personality    personality     ,    , ,     combining  .         . 
+ .         .  ,           [],     learning   , ,        .             , ,   ,  ,  ﬁ  .  gain,  []                     . 
+intelligence   
+           intelligence .       isolation_effect, ,  .            [], [], [], []. 
+        ,     intrinsic_rewards      ,    ,  ,   ,  ,      .         ,       . 
+.            .   . []           ()     impulsive_effect         .  gain,            ().  ,          ,      ,                 . 
+   ().             .    ﬁ          ,     ﬁ       [].  gain,              ,     
+     [].       []                  evaluating             . 
+ .   . []               .  gain,      ,   ,        combining  personality     history    []. 
+.   
+  
+  .    ,       ﬁ       .  ,             syllogistic_rules     [].         impact,   ,          syllogistic_rules.  .   ﬁ loss       situational_circumstance          .  ,                   , .     [knowledge ],    ,   ﬁ          .         combining     ﬂ        [].  .   . []      Targeted_Malware.             vulnerabilities   .     participant_modeling  : ,          ,  Command_Injection,         . .    ﬁ      ﬁ Interception    .    vulnerabilities     physical_quality  ﬁ .     .                .   personality -  vulnerabilities     [].        ,           .         : )       )   [].  ﬁ         vulnerabilities, .,              .  vulnerabilities       .    ﬁ perceived_vulnerability           combining           .  process     ,   , ,      
+ 
+================
+ ﬁ ,       ﬂ          .    ,     ﬁ          ,    .        protection_effect        ﬁ   [].  intentionality,            ﬁ.    ,  ﬁ      ,  ,  ,      .     ,     []. 
+ .              ﬁ   .               ,     .  gain,         / ﬁ               /       []. 
+intelligence   
+ .      ,    ,        intelligence              []. 
+.     intelligence ,       .    intelligence        [goal]  persistence,                  impact.  ,    ()                  [].        .  ,                    ,     [].  gain,             [].                 personality  []. 
+   
+ .  ,  ,        .   . []             " "     . 
+     .   . []             segregating          . 
+ .     perceived_vulnerability     ,            [], []. 
+intelligence   
+.                .            ,            [].  
+gain, Jamming            Jamming   []. 
+   .   . []                syllogistic_rules.        ﬁ       ,   .            ,    ,    .        ,  ,    .              .      ,       ,       ().  gain,   . []                  .        ,         .     .          opportunity_for_criminal_acts    .                  ﬁ [].      .            .   . []                                . 
+ .         .       ,   ,       .  ,    ,     gain      (),     ,    ,     .  gain,                 ()              [].  gain,  . . []  Fuzzing              .  Fuzzing   ,          ﬁ   ﬂ             ﬁ.  .     : )      ﬁ       )   experiential_awareness       [function ].   . []               . 
+.   
+  
+ .  ,     ,       .  ,               [].       focus  impact  
+ 
+================
+      ,   .  ,   . []         perceived_vulnerability       ,  possibility_effect    vulnerabilities,   ,    . 
+intelligence   
+  situational_circumstance .                    impact   [exposure]     intelligence  .   perceived_vulnerability    ,       ,          ,  []. ,             impulsive_effect       .  ,                [].  , ,                  [].  gain,  ,              []. 
+.       ﬁ   ﬁ-motivated .  ,       impact  ,     []. 
+ .  ,            , ,    []. 
+.    loss   intelligence    , , , intelligence ,  .                        ,     []. 
+ .  ,  ﬁ         .                  []. 
+   
+  . satisfaction_of_needs                 []. 
+intelligence   
+ .  personality     ,             .                     .      ,   ,      ,         .             ""    ()     .     ,            .            .  gain,             []. 
+ personality       ()  ""  [].  gain,   . []           .                 live_modeling           .   ﬁ.   . []          .            ﬁ            .    ,            ﬁ    intelligence ﬁ      .   ﬁ          .      ﬁ              . 
+.  /  ﬂ           .  ﬁ         ,    .        ﬁ    .  gain,   ,  ,      .  ,  ,           ,   . 
+.    
+     mental_calculation satisfaction_of_needs ,     .   perceived_vulnerability    ﬁ    . 
+   .   mental_calculation -        protection_effect      . ,             ,          intelligence ,      /.          vulnerabilities     belief      []. 
+ .           mental_calculation      .  ,    ()          [].  [], [],   focus       .             [].  .          .  ﬁ  ﬁ behavior_control-ability .  ,        ()   . ,       protection_effect,               intelligence .           segregating [resource]  . ,         segregating    . 
+ 
+================
+     
+  
+ 
+ 
+ 
+    
+ 
+ 
+ 
+      
+  
+    
+ 
+ ﬁ  
+  
+ 
+    
+  
+  
+  (.. ) 
+     
+      
+  
+  (.. ) 
+     
+      
+ﬂ  ﬂ 
+  
+  
+intelligence    
+Impact          [knowledge] [] ﬂ     
+,    
+,   
+ﬁ   
+      ﬁ [] , ,    
+&   ﬁ 
+ 
+ 
+     [], [], &    [], []  loss    
+ 
+ behavior_control-ability     []         
+ combining  syllogistic_rules []  
+ﬁ  
+  
+ () 
+    / perceived_vulnerability [] ﬁ      
+ 
+   
+    Impact    
+    
+   
+   
+  () 
+           () 
+     () 
+.   
+ . 
+ .       ﬁ-    .      mental_calculation -    ,       .   . []  ,          , ..,    personality      .    ,         ,        . ,      . 
+   .         mental_calculation       .         ﬁ   ,   , ,  ,   .   . []   protection_effect  .   , ,    . 
+& ﬁ  
+  -  intelligence   impulsive_effect &     () 
+ [knowledge] [] 
+ loss  &     () 
+&  [knowledge] () 
+[] 
+  . []   ,   ﬁ, ,  . 
+.       satisfaction_of_needs           .         ﬁ         [].   . [] ﬁ                 )     /  , )ﬁ   ,  )  .   . []  ,       [exposure]        .      satisfaction_of_needs        .  belief           combining         .         , ,  ,              .         ,     [], [], [], [], [], [], []. 
+ 
+================
+  
+    
+    Impact    
+ personality   
+   
+ 
+     
+    () 
+   
+ 
+   
+ 
+   
+   
+   
+  
+   
+    
+   ﬁ .   . []          ﬁ .  gain,              .  gain,   . []          ﬁ       opportunity_for_criminal_acts .       .  gain,     personality appraisal      . ,            [resource]    . 
+   .          .          ,    possibility_effect   .   . []    ﬁ        .  gain,  . []    perception    personality      .  techniques      : )       isolation_effect   :     ,  )     .     perception,                     . 
+ .                  .      ,  ,       []. ,                  .             opportunity_for_criminal_acts           []. 
+.        ()           .      ,  ,  ﬁ   satisfaction_of_needs .  ,   . []       .          ﬁ, ,   ,       , perception,  .  ,      
+ "   "   () 
+  live_modeling 
+   
+  
+  
+  
+live_modeling    
+   
+  
+  
+ 
+ 
+ " "      Interception       
+[] 
+[] 
+Interception          
+[] 
+    ,        personality .  ,   perception    opportunity_for_criminal_acts       Phishing.            Phishing     [].  gain,         ,   ,      Phishing,  intrinsic_rewards    [].   . []   ,    ,      focus    ,   ,   .  gain,      ﬁ   focus     . 
+intelligence  . 
+ .       segregating ,  , .    ,    ,          , ﬁ  ,  ﬁ   .  ﬁ     intelligence ,      ﬁ      . , intrinsic_rewards               Jamming.    ,   intrinsic_rewards     : , , ,    []. 
+.   intelligence           personality .    intelligence    personality task               [].  gain,             intelligence .    ﬁ   intelligence   simplifying      .   . []        behavior     ﬁ     perception.  gain,    []             intelligence    ,    (),     ().   . []         
+ 
+================
+  
+intelligence    
+    Impact    
+    
+   impulsive_effect   
+ 
+     
+loss 
+   
+   
+  
+  combining    
+   
+      
+     
+   
+  
+ 
+     loss      
+   
+  ﬁ       
+  
+,     
+    
+  
+ 
+      ,  , 
+  
+ 
+   intrinsic_rewards      
+    
+ 
+    ,  
+   
+  
+[knowledge] 
+     
+   intelligence .  perception   combining  intrinsic_rewards       . 
+   .         intelligence           intrinsic_rewards        ﬁ . ,  ﬁ  participant_modeling      .          .     intrinsic_rewards    ﬁ        ,          . ,   . []               ﬁ        intelligence .                      . 
+ .          intelligence    .           .   . []   ,   perception       . 
+loss    / frustration_of_needs  frustration_of_needs 
+  /  Reverse_Engineering  Fuzzing                 
+     
+     
+[] 
+  [], [] 
+loss      
+perceived_vulnerability     
+[] 
+               , loss  , ,      
+[knowledge]   ﬁ 
+[] 
+   opportunity_for_criminal_acts   
+[], [] 
+    
+  [], [] 
+[] 
+     
+        
+ 
+ 
+    ﬂ  
+  ﬂ  
+  
+ 
+          ..,       ﬁ   ,       
+   
+    
+[] 
+[] 
+  
+         perception     intelligence :  ,   .      mental_calculation -      ,    ,     intelligence .               .       ,      . 
+ .           intelligence    .   ,           .  , protection_effect          ,   ﬁ .                  []. 
+ .   ﬁ            personality         [],           [] appraisal    []. ,     intrinsic_rewards        ﬁ  
+ 
+================
+     intelligence     [], [].   fear_arousal      ﬁ       ()      isolation_effect .   . []      ()                 , ,    intrinsic_rewards. 
+.    ,      ,        satisfaction_of_needs intelligence  .  ,        [],       intelligence     []. 
+intelligence   .  protection_effect         intelligence ,    []   intelligence            gain,        .  appraisal            . 
+ .  intelligence    ,     .   [] []  intelligence       gain   .         intelligence                   . 
+  . 
+.  . []         protection_effect     .         source  . ,      .  gain,  ()         .  ,      ,       ,       [].  gain, ,   ,   (), physical_quality [],    physical_quality,                () [].  gain,            []. 
+  .  . []              .  gain,    . []   protection_effect,         .   protection_effect    ﬁ   ,     .    ,    []          perceived_vulnerability     behavior  .          . ,        ,        . ,         mental_calculation      , ..,  ,     ,  segregating . 
+ .                       .    intentionality         ,    (),  ()  [],     ().  techniques      . ,  intrinsic_rewards    []. 
+ personality   .   . []     ,         protection_effect   personality     .         personality             ,                 .        ,          personality     .  ﬁ          . 
+    .               .       perceived_vulnerability        personality           protection_effect .  ,             ,       protection_effect        , ,   . ,  personality    combining    ﬁ  combining .                  .  ,   . []    behavior_control-ability  Jamming  ﬁ .  gain,   . []     ,  protection_effect,    protection_effect       .    protection_effect   personality , ..,       ().         . 
+ .   . []              . intelligence      participant_modeling       , ,    . ,           protection_effect Eavesdropping   . 
+  .      ()        .                .  ,  ,     possibility_effect vulnerabilities            [].            []. ,        , 
+ 
+================
+ " ". ,           ,          protection_effect  .  gain,  ..               [] 
+ .   .    protection_effect               ,           .          ,    .     personality    protection_effect     ,         []. ,                  .     ,   . []   perception          .  perception     . 
+intelligence   
+ possibility_effect .          protection_effect   ,       .  ,   . []      protection_effect   :  , ,  ﬁ.  gain,   . []      ,        , .., , , ﬂ,  ,  . 
+.             ﬁ, ,     . ,          segregating   . ,    ﬁ   .   . []    . []       ﬁ   .   . []        ().      protection_effect      ,     () .   . []   protection_effect   (),      ,       protection_effect ,  . 
+ﬁ intrinsic_rewards.   . []        segregating ,   ,   . ,  intrinsic_rewards       participant_modeling   ﬂ . ,     ﬂ          .   ,  ,  gain   ,     []. 
+  .   . []               "" .       ,     ,         ,   
+     personality .       combining      , ﬂ     . ,     mental_calculation         ,     ﬂ. 
+.                 possibility_effect       [].        behavior_control-ability    .   . []               ,   impact  .         ,       . ,   . []      ﬁ      intelligence     protection_effect    vulnerabilities  . .           ,            .  ,   . []   ﬁ-        ,  []         ,  .  gain,    []              ,            loss    . ,    []                       combining .     "ﬁ".   . []                   personality .   .   . []           .           ﬁ.           /          .            []. 
+.    
+          ,   physical_quality   syllogistic_rules      .   ,      : () , () vulnerabilities, () ,  ()       : () , () ,  ()   , intelligence ,  ,  intelligence .               ,      . 
+.    
+    
+ 
+================
+  
+  . : , : ,  :  
+  Vulnerabilities   
+  ()  ﬁ  
+() 
+ ()  /  ﬂ ()     
+  ()     () 
+[] 
+/  ﬁ  ﬂ () ﬁ    () [] 
+ ()    perception () ﬂ  ()   perception   
+ () :     
+ () self-efficacy     
+&       
+ () 
+ ()  [exposure]    
+ () 
+intelligence   ()    
+  () 
+personality &  perceived_vulnerability :   
+ ()   
+ ()    
+  () 
+ ()  [exposure]  intelligence  
+() 
+&   ﬁ     ()    () 
+   ()     
+    () 
+ ()    
+  ,   
+,   () 
+ () [] 
+:    [knowledge]     [] 
+      () 
+          () [] 
+  perception   impact   / (),    ()   () [] 
+   (& )     () [] 
+ ﬁ  () [] 
+     () [] 
+     loss  
+generalizing     personality , ,&   () 
+   intelligence    simplifying   []              () 
+      ()&     [] 
+ () [], [] 
+  [] 
+     () [] 
+     " "  ()  (), Command_Injection (),&   () 
+ ()     ()   personality  
+ () [], [] 
+ certainty_effect () 
+  [capability] ()   personality ﬁ   
+   ﬁ () [] 
+ &   () [] 
+    &   [] 
+   () []     () [], [], [] 
+    () []    () [], [], [] 
+intelligence   ()  () [], []  () [], []    
+ ()   ()      
+ ()   ()   [], 
+ [], [],&  
+[] 
+ () perceived_vulnerability    
+ () [] 
+  .                          ,    . ,         appraisal []. 
+ .              mental_calculation     .   possibility_effect             [].   . []               ,     opportunity_for_criminal_acts, 
+[], [] 
+  ()      () []   () 
+[] 
+  () [] protection_effect  () []& intrinsic_rewards 
+ﬁ    () 
+[] 
+     () [] intrinsic_rewards ﬁ    
+ () [] 
+  focus   .          .   . []    ﬁ  "  ".                 ,      intelligence . ,            .      ,   ,    [].   .             [], [].    ,         . ,  
+ 
+================
+                  ,      , ,    [].  gain,            . ,       . 
+ .        .   , , ,   .     ,        [].     ,       ,   .       comply_effect    opportunity_for_criminal_acts.         ,           .       ,    ,     [].            ,      vulnerabilities. 
+ gain        ,          . 
+  
+ .                , ,     .  ,  ,     personality planning   impulsive_effect loss                       [].  gain,              . ,  personality         protection_effect         [], []. 
+ perceived_vulnerability.        ﬁ   behavior_control-ability .          .  ,      intrinsic_rewards   /     [knowledge]    ,        ,    ,        .                      .   perceived_vulnerability     ,     personality  []. 
+protection_effect .       ,    opportunity_for_criminal_acts   vulnerabilities. ,                      vulnerabilities.  gain,          ,            protection_effect  []. ,      opportunity_for_criminal_acts        behavior_control-ability  possibility_effect  []. 
+intelligence   
+ .       intelligence     ,        ().    ,   intelligence     ,       ,     .       protection_effect   []. 
+  .   intelligence     ,  gain      ,       [].     intelligence  , ,       .  gain,  perceived_vulnerability,        ﬂ         . 
+ .        ﬁ    intelligence  ﬁ,       .       ,   intrinsic_rewards     protection_effect belief             personality  [], [].       .   . []               intelligence  ﬁ. ,       protection_effect           intelligence          intelligence  []. ,              []. 
+ intrinsic_rewards.          . ,            [].      intelligence ,   ﬁ                   []. 
+ .           intelligence         .   ,             segregating    . ,          intelligence ,     , .., ﬁ    ,   , ..,  .          . ,     [].         ﬁ       intelligence . ,       , ,          . 
+ .    intelligence          . intelligence            ,        segregating [].            protection_effect intelligence . 
+   
+ 
+================
+ . .              ﬁ     personality     .  ,  personality                 .               /  ﬁ  ,           [], []. ,            .        perceived_vulnerability ,  ,       .   . []   possibility_effect     / .  personality   combining  protection_effect        .         ,  combining  ,     .        protection_effect        . 
+   .        gain        evaluating    .  gain,          loss   intelligence      []. ,    possibility_effect                  []. 
+segregating .           ,     [resource]       [], [].    persistence             .            ,      [function]       .   . []     ﬁ   combining  intrinsic_rewards   .              source  . 
+ gain,             ,      [].              ,                     . ,       protection_effect            . 
+intelligence   
+protection_effect .                     intelligence .           . ,    protection_effect  protection_effect       .   . []                ﬁ              .  gain,         protection_effect  ,  
+        [].              . 
+ .       isolation_effect   ﬁ     ,         intrinsic_rewards     []. ,                   isolation_effect  []. ,        .  possibility_effect      /          [].    ,     ,         ,    .    ,                 . 
+  .   ﬁ         intelligence   ()          .                        . ,      perceived_consensus     , appraisal  .   combining        []. 
+ .            belief,        possibility_effect    .    []                   protection_effect    .      ﬁ     ,                    .            perception     [].  ,                ﬁ : , ,    . 
+ vulnerabilities  .       , ,   ,        .  possibility_effect     []. 
+. belief 
+  ,           ,    focus     : , intelligence ,  ,  intelligence .      , vulnerabilities,     .               .                 impulsive_effect            .   , 
+ 
+================
+        .  ,  ﬁ        ﬁ   . ,       perception    . 
+      personality      .       /,    ﬁ          ﬁ   vulnerabilities.   ,            ,  belief        . 
+ 
+[]     .     
+    :   . . 
+[] . , ..   . .     
+    . , , ():, 
+. 
+[]  ,  ,   ,    
+.       .  
+         
+:   ,  . , . []     .     ? 
+ intelligence   (),    
+  ,  . , . 
+[]    .     :  
+  perception. . 
+[]   .     /  .  
+   , ():, . []  ,  ,  ,   
+. , ,      
+  .     intrinsic_rewards (), 
+     ,  . , 
+. 
+[] . . , . , . ,  . .   
+:   .      
+       intelligence 
+:         
+ intelligence  ,  ,  : 
+:,  , , , . . 
+[]  ,  ,   .      
+  vulnerabilities   .     
+   , . []     .       
+     .     
+ ,  , . 
+[]  ,  ,  ,  . .   
+     . , 
+, ():,  . 
+[]   ,  ,  ,  ,´ 
+ ,   .   satisfaction_of_needs  
+ .        
+ , . 
+[]    ,  ,  ,  ,´ 
+ ,   .   process  
+: perceived_vulnerability appraisal, ,  .     
+    ,    
+,  . , . 
+[]    ,  ,   .  
+      .  , . []   ,  ,   .  
+ , perceived_vulnerability ,       
+:   focus   .   , (): 
+, . 
+[]       .      
+ .  ,  , . 
+[]    .       
+.    , . 
+[]  ,  ,  ,   
+,  ,  ,  ,  , 
+ ,   .  experiential_awareness 
+    .     
+, . 
+[] . , . ,  . .     
+  .  ,   , 
+():,  . 
+[]  ,  ,  ,  ,   
+.     intelligence .  
+  intelligence , ():, . 
+[]  ,  ,  ,  ,  
+  .   :  .    
+, ():, . 
+[]      .   . 
+, ():, . 
+[]  ,  ,   . .:  
+    .         
+      , , 
+, . . 
+[]      .     
+   opportunity_for_criminal_acts.       
+      ,  
+. , . 
+[]      . Fingerprinting   
+    , . 
+[]  .     intelligence  . 
+. 
+[]  ,  ,  ,   .  
+    protection_effect  . 
+ ,   , ():, . []  ,  ,    ,  ,  
+ .      .  
+      protection_effect  
+ (),  , . 
+[]   .       
+   .  :// . . 
+/ / % / % % % 
+%%%%., . [] . :     perceived_vulnerability   . 
+://../////..perceived_vulnerability /,  . [] . , . , . ,  . .   
+          
+.      (),  
+   ,  ,  . []  ,  ,  ,  , 
+  ,  ,   .     
+   . . []   ,  ,   .   satisfaction_of_needs 
+  . , . 
+[]  ,  ,   .   
+   :       
+.  , . 
+[]  ,   ,  ,   
+,  ,   . :  : 
+  personality       
+      .   
+        , 
+ . , . 
+[]  ,  ,  ,   .  
+      .     
+ , ,    ,  
+        , 
+ .   , . 
+[]    .    : 
+ , . 
+[] .. .       
+;    intelligence  .  , 
+  , ():,  . 
+[]  ,  ,  ,  ,  ,  
+ . : protection_effect   ﬁ, 
+ ..    ()  , , 
+. 
+[]  ,  ,  ,   . intelligence 
+     :  .  
+& , , ():, . 
+ 
+================
+[]       .  :  
+  .      , 
+():, . 
+[]  ,  ,   .    
+     .      
+, ,    ,    
+     ,   
+.  , . 
+[]     ().    
+     () . ://. 
+. / / / / 
+/., . 
+[]     ().    
+     () . ://. 
+. / / / / 
+/., . 
+[]   ,  ,  ,   
+.      protection_effect  . 
+    ,  .   
+, . 
+[]   . perceived_vulnerability   ?     
+   . ://..///// 
+ 
+/, . 
+[]    ,  ,   .  
+   perceived_vulnerability appraisal      
+. . 
+[]   ,  ,  ,  ,  
+ .          
+ personality .  , . 
+[]     . personality     
+  . . , ():,  . []   ,  ,  ,    . 
+       ()     
+  .      ( 
+ ), . 
+[]  ,  ,  ,  
+,   .     :   
+    .  . . 
+., ():,  . 
+[]  .    .   
+     ,  . , 
+. 
+[]   ,  ,  ,  ,  
+,  personality .   protection_effect    
+       . 
+      .(), . 
+[]  .    .      
+  .  :    ﬁ  
+  .  , :, . 
+[]  ,  ,  ,  ,  ,  , 
+ ,   .    :  
+    .      
+       , 
+ ,  ,  , , , . . [] . , .. , . , ..  . behavior_control-ability, 
+. , . , . ,  .. .   
+  ﬁ:      
+ .    , .  .  
+ ,  ,  . 
+[]  ,  . ,  ,  
+,   . .      
+ .   , ():, . []  ,  ,   ,  
+,  ,   .     
+     :       
+  .         
+   , ,  , , , 
+, .  . 
+[]     . /     . 
+ , ():, . 
+[]  .   .   , , 
+. 
+[]  ,   ,  ,   
+,    . protection_effect   
+ personality      . 
+, ():, . 
+[]   .       
+ . , . 
+[]     .  :   isolation_effect 
+.   , . 
+[]  ,  ,   .    
+   — personality     
+.        
+  , ,  ,  ,  
+, , , . . 
+[]  ,  ,  ,   . 
+     .    
+  , (): - , . 
+[] .   vulnerabilities   
+  .  ://  - .  - . / / 
+/ ﬁ/  /    
+Vulnerabilities  ., . 
+[]   ,  ,   .  
+   . . 
+[]   ,  ,   .  
+ perceived_vulnerability   .   .    . 
+, ,    ,  . 
+, . 
+[] .    history,       
+          . : 
+//./ﬁ-time-in-history-a-terrorist-attack-on- 
+            
+, . 
+[]    ,  ,     
+,  ,  ,  ,   . 
+   vulnerabilities    :  
+ constraint    focus.     
+,  ,  , . 
+[]  ,  ,  ,  ,   
+.      .  
+      personality   
+ , , . 
+[]   ,  ,   ,  ,  
+  . Vulnerabilities     . 
+  ,  , . 
+[]   .       possibility_effect 
+ .       
+(),    ,  . , . []  ,  ,  ,   . 
+      .    
+  :   ﬁ, ,  , . []     .   .  
+ , :, . 
+[]  ,  ,  ,    . 
+  . & , , ():, 
+. 
+[]     .   
+: personality     protection_effect    
+. , . 
+[]      .      
+intelligence :      personality  
+. , . 
+[]  ,  ,   .   
+intelligence   intelligence  : ,    
+. . 
+[] . , . , . , . , . , . , 
+. , . , . , . ,  . . 
+experiential_awareness     personality .   
+  (),    ,  ,  
+. 
+[]  ﬁ,  ,   .  process 
+:      .   
+       ,   
+ ,   ,  ,  , 
+, , . . 
+[]  ﬁ   .    
+:   ?    (),  
+    ,  . , . []  . :    .  
+& , , ():, . 
+[]  .    . . satisfaction_of_needs    
+.           
+  intelligence :     
+ 
+================
+     intelligence  , 
+ ,  ::,  , , , . . []   ,   ,   .  perception 
+ ﬁ-based     .  
+intelligence  ,  ,  . , 
+. 
+[]       .   
+ :    perception. & , 
+. 
+[]  ,  ,  ,  ,   
+. Fuzzing    .     
+       
+,  . , . 
+[]  ,  ,  ,  ,  , 
+ ,  ,  ,  , 
+ ,  .       
+ .    , ():, . []     . perceived_vulnerability   
+  . ://..// 
+, . 
+[]   .      
+  .   ,  , 
+. 
+[]  , . ,  .. .    
+:         . 
+      (),  
+    ,  ,  . []  ,  ,   . protection_effect    
+intelligence    .  intelligence   
+ (),      
+,  . , . 
+[]  ,  ,  ,  ,  ,  
+,   .  ﬁ-indexed [] appraisal :  
+?  perception  intelligence   .  
+  , : - , . 
+[]  ,  ,    .     
+ [] appraisal    .    
+    (), ():, . []  ,  ,  ,   .   
+appraisal          
+intelligence .    ,  
+ ,  . , . 
+[]  ,  ,   .    : 
+[modeling]    Jamming    ﬁ. 
+ ,   ,  . , . []  . .    vulnerabilities  
+ -      .   ,  
+. 
+[]  ,   ,   ,  , 
+ ,   ,   . / 
+ perceived_vulnerability appraisal .   intelligence  
+ (),   ,  . , . []  ,  ,    
+. :      ()  
+.    , ,   
+,  ,  . , . []  .    :      
+   perceived_vulnerability. ://...//// 
+   %., 
+. 
+[]     .  . mental_calculation   
+  intelligence  .       
+     , ,  , 
+,  , , , . . []     .    
+   intelligence . & , , ():, 
+. 
+[]  .    . .    intelligence 
+ .  . intelligence , ():, . []   .     - 
+. ://..///, . []   .     
+  . ://../// 
+, . 
+[] perceived_responsibility    .        
+.           
+ ,  . , . 
+[]     .     
+  .   ,  . 
+[] .    .      
+     .   
+     (),  
+ /,  , . 
+[]     . behavior     
+  protection_effect    .   
+   (),    
+ ,  . , . 
+[]     .     
+    intelligence  . . 
+[]     .      
+      .   
+ , ():, . 
+[]     .     
+ intrinsic_rewards    . . 
+[]  , ..-xxx. , . , . ,  , .  
+,  . .     intelligence   
+.    , ():, . []   ,  ,  ,  
+,   . personality    intelligence .  
+          
+   ,  . , . []  .  ﬂ:     
+.  & , (): - , . []   ,  ,  ,   
+.  experiential_awareness       
+.      , 
+():, . 
+[]     .     
+,   .  , , . 
+[]  .      . 
+         
+. , . 
+[]  ,  ,  ,  ,   . 
+    physical_quality  . & , 
+():, . 
+[]  .  . . , . 
+[]   ,   ,    .   
+ﬁ    .    
+         
+ , ,  . , . 
+[]  . :   intelligence   .  
+,  , . 
+[]  ,   ,   ,  ,  , 
+   .  :     
+      .    
+(),      ,  . 
+, . 
+[] . .  :        
+ .       
+:   ﬁ,  /,  , . []      . possibility_effect   
+ .    intelligence  
+, ():, . 
+[]  . ﬂ    ﬂ.    
+( ).   ,   , , , . []     ,  ,    . 
+     :    
+ .  ,   , ():, 
+. 
+[]   .      .  
+   , . 
+[]       .  
+     intelligence  .  
+. intelligence , ():, . 
+[]  .       : isolation_effect - 
+    .      
+,  , . 
+[] . , . ,  . . :   
+ perceived_vulnerability    intelligence .  ,  
+ ,  ,  . 
+[]  . . ,    perceived_vulnerability .  
+    .  ,  .  
+, . 
+ 
+================
+[]  ,  ,  ,   . 
+evaluating      ?    
+     ,  . , . []  ,   ,   ,    
+. :        
+   . . 
+[]   ,  ,   .   
+vulnerabilities   .   loss  
+  process , (): - , .   
+           
+  process        
+ . 
+[]  ,  ,  ,  
+,  ,   ,  ,  
+,  ,   .   
+   /  .   
+     ,     , 
+ .  , . 
+[]  .   :       
+ ﬁ. ://..//ﬁ/ 
+/     ., . []   ,   ,  ,  ,  
+ . protection_effect      
+.         
+ ,  . , . 
+[]     . protection_effect   
+protection_effect    .    
+(),      ,   
+. , . 
+[]  .     , . 
+[]  ,  ,  ,   . 
+ ﬁ     .  
+     ,  
+. , . 
+[]  ,  ,  ,  ,   
+. :     personality 
+  ﬁ .       
+      ,  
+. , . 
+[]     .       
+.    ,  , . []  ,    ,   .  
+     .    
+   ,  ,  . , . []  ,  ,   .  
+       .   
+ , ():, . 
+[]  ,  . ,   .  . 
+perceived_vulnerability      .  
+, , , , . 
+[]  . ,  . ,   . .  . 
+     () :   
+   () ,    (), 
+    ﬁ     
+ ().  , , , , 
+. 
+[]  ,  ,  ,  ,  
+,   .     
+: []       .   
+  (      
+: & )       
+ ,   ,  , . []  ,  ,  ,  ,  
+,   .     ˆ 
+     .   
+     (),    
+/  ,  . , . 
+[]   . ﬂ:    
+  perceived_vulnerability. ://../combining // 
+ﬂ-western-energy-companies-under-sabotage-threat, . []  ,  ,   .  
+       .    
+      (),   
+. , . 
+[]  . , vulnerabilities      
+.   , , . 
+[]   .     . . 
+[] . , .  ,  . .   
+   ()       , 
+,   () .    
+ ,  -  ,  , . [] .  perceived_vulnerability source . ://.. 
+//, . 
+[]  .         
+ . ://..//// 
+/,  
+. 
+[] . , . ,  .. .   
+      intelligence  
+. , , ():,  . 
+[]     .     intelligence :  
+ .  , (): - , . []     .   perceived_vulnerability . 
+  belief , .  ,   
+ ,  . , . 
+[]  .     :     
+ ﬁ-based  .   :., . []     . , ,  
+appraisal      .   
+   ,  . , . []  ,   ,   .   
+  . . 
+[]  ,   ,    .  personality  
+          . 
+   intelligence  , (): 
+, . 
+[]  ,  ,   .      
+ .  intelligence   (), 
+     ,  . , 
+. 
+[]  ,  , .. physical_quality  ,   
+. : satisfaction_of_needs       
+ .  ,   ,  
+,  . 
+[]  ,  ,   ,  , 
+  .      
+  .         
+  ﬁ  ,  . , . []  ,  ,  ,   .     
+  intelligence  .   
+, , ():,  . 
+[]  .   ?   perceived_vulnerability   perceived_vulnerability 
+  ?    ,    
+ ,  . , . 
+[]  ,  ,  ,    
+.       ﬁ 
+ .  , :, . 
+[]  ,  ,   .     
+    .       
+          
+,    ,  ,  
+, , , , .   . []     .    
+/ :    .    
+    protection_effect   (), . 
+ 
+================

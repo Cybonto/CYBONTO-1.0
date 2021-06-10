@@ -1,0 +1,462 @@
+ loss          
+ *, .. &   
+      ,   ,   
+isolation_effect 
+   perceived_vulnerability    task          . ,              .    gain               intrinsic_rewards      . ,    intrinsic_rewards    ,      personality  ,    possibility_effect   personality     intelligence    .   focus,  ,              perceived_vulnerability   .   ,   loss         .       loss            perceived_vulnerability : , ,    . intelligence           ,     loss.            .               %.     %    intelligence . 
+.  
+                personality .                 .   ,              .   ,                    [, ].    ,          ,   [],             ,        [].                protection_effect          . 
+*@combining .. 
+             loss.     appraisal () intrinsic_rewards,     . ,              intrinsic_rewards      () .   , ,                intrinsic_rewards.        process     . ,     personality appraisal                  appraisal []. 
+      ,   ,      ,   .  perceived_vulnerability             , ..    [, ].        ,         intrinsic_rewards ()       , ,  appraisal [].    perceived_vulnerability                /  .   ,              personality [].              [].    ,           intrinsic_rewards            .                [ ],  [, ],   [].               intrinsic_rewards. ,             .  perceived_vulnerability        ,       . 
+,           perception.     ()   [capability]   perception intrinsic_rewards      .      ,           .     gain         ,     physical_quality      .    
+================
+ ,           :    .  ,     ,     .      ,                .      , ,               [, ]. 
+    focus             ()          ,          .                .               .    ,    ,                        []. 
+    focus  : ,       intelligence    . ,     intelligence       .         : 
+-    ,   loss     .             . ,    loss             . 
+-    intelligence ,                   . ,     loss           . 
+-                intelligence   . 
+        .                  .   ,    intelligence   .            . experiential_awareness      ,        . 
+.   
+  :     [capability ],          loss .    ,             .  perception           [, ].           ,   perception       
+            .   perception,   . []               .   focus,   . []     []   -     :   .    loss          . ,        perception               . ,  perception      loss,               . 
+ :           ,  ( )    []               [].              . ,               segregating                    . ,          ,   perception      . ,     ,   .[]    ,       ()         .                     .            .  ,   . [] combining            . ,                possibility_effect  .   focus,   . []             loss    .                    .   . []         combining                 .          appraisal     ,     physical_quality   . ,         personality      . 
+ :     perceived_vulnerability,                    .    personality     :  (    ) []  (   ) [].     isolation_effect     
+ 
+================
+ .      . 
+       ; ,       .      process          .        ,                     [, ].  ,                      .        .     ,    [, ]           ,    []   personality          ;       []     .       ()          (..,  ),     .      [knowledge ],                  .    ,   . []       perceived_vulnerability  .        -        .   ,                 . 
+.     
+              (  ).    
+                          [].            participant_modeling           .           . 
+:               [].       ×3    ×1   .       ,   gain        .   () []             [] arousal [function ]. ,        isolation_effect       .                     loss (   .%     .        []). 
+ :            () []       .  ,                       ,       intrinsic_rewards  .               .   intrinsic_rewards                 ,       .    intrinsic_rewards             
+ 
+================
+.                   , ,  .     participant_modeling          gain    intelligence      . []. 
+:   ,               personality   .  personality     (  physical_quality)            .            .              ,    learning         . ,                  .  ,   -truth                 .          . ,         perceived_responsibility           .          []. 
+  loss [function] :            [, , ],            .           ,    arousal            .  combining,      belief  (��),    (�),    (��, ��, ��, �ℎ)                .               (��, ��)        ��,  physical_quality �ℎ,      
+��= �(��)+ ��, ��= �(��)+ ��, 
+��= �����, �ℎ= �ℎ��ℎ, �= �(��), ������= �������(�) 
+() 
+ ��  ��    ,  ��  �ℎ     physical_quality     ,  ; �    belief;  ������        loss .   personality    ,    loss  -        loss ,    []           perceived_vulnerability .    ,     [function]     combining   belief loss,  loss,   loss.    loss []         belief        perceived_vulnerability     .    loss,  loss                     .           perceived_responsibility    -truth    
+    . ,  loss [function]                 -truth . 
+.   
+              . ,      perceived_vulnerability,               . , segregating          ,       .   ,      intelligence         personality . 
+..   
+      ,                   physical_quality       intentionality     task  .   . []        -tuning              ;            .     ()            ,                  [, ], [, ].             role    loss perception [, ].     ,          physical_quality           physical_quality      [].       physical_quality     .           physical_quality      (     )           focus.    possibility_effect : ()           loss   ;  ()       physical_quality -  physical_quality            task.               . 
+              ,        .      physical_quality      ,          []       . ,               loss .   ,        physical_quality       .        
+ 
+================
+physical_quality  loss              .     process .        []   [].    simplifying     physical_quality  loss     ,                 loss         participant_modeling    . ,                  [],            ,         .            (..     intrinsic_rewards  ),    learning         .   personality                       . ,     loss          .                     physical_quality  loss . 
+..   
+          .                        .   () []                     . ,            .    ,      , �  �,       .         intelligence           .        
+��= �( 
+�� − �� 
+)+ � 
+√�2�+ � 
+() 
+, ��  ��              ; ��  �2�            ()   ��;  �             . 
+,   isolation_effect     (��)   ( ��)             . ,  belief ,         (  appraisal        )       . ,            ,      .         ,   , 
+       segregating  .  ,   focus,          .   [] ()           belief   - .  ,     belief               
+��= �(��−�� × �+ �)+ �,√ 
+��2+� 
+�= 
+�= 
+�� 
+� 
+∈[ 
+ 
+� 
+,���� 
+���], �� − � 
+� 
+∈ [−����,����] 
+() 
+ �  �    ; �  �         , ;  ����  ����             .     (��  ��)           belief              . 
+..  loss 
+  ,          (.. :       ).         belief loss    . ,      perceived_vulnerability                (%)       perceived_vulnerability (%). belief           .    : ()                 ;  ()  loss             .     ,  loss () []      intelligence loss [function ].             ( )          combining loss        .   ,           .  belief loss,             . 
+� ��(�,�̂)= {−( 
+− �) (�) 
+−��log( − �) 
+,, 
+�� �̂=  ��ℎ������ 
+() 
+   loss,               
+��(�,�̂)= −( − �)� (�) 
+, 
+�� �̂=  
+() 
+ ��    loss [function ]; �  �̂       ; ( − �)�  ��    ;  �    
+ 
+================
+ .        . 
+     evaluating       .  �= , ��     ,   �            (  focus �=     ). 
+.  
+..    
+     combining  ,               focus.  , %     , ×   intrinsic_rewards             , × ,  intrinsic_rewards     .        []     loss    loss     .     loss      focus :, ,    .       loss             ,        perceived_vulnerability    protection_effect    .               perceived_vulnerability. 
+    ,                        .            [],      .%  .%, .                ,        loss  task   [, , ].    
+loss ,          .%,   loss                    .,        perceived_vulnerability.       loss      %  , %  , %    %   . 
+     : = {, , , , , , }                  .     ,           .               ,   intrinsic_rewards          .    loss ,    : (), (), (), (), (), (  ),( ), ( × ), ( ).        perceived_responsibility  .     .%         perceived_responsibility   .. 
+..   
+      gain        simplifying  perceived_vulnerability      .          possibility_effect     ,         . ,               process.              (.. )    .   
+ 
+================
+ .   . 
+             (.. [, ]),      . ,       ,        .                  (, , )  . ,               loss      ,   , .              ()        ,     combining           .    ,    perception      ,  loss            .   ,                   .         protection_effect             personality     .              .  ,          (  ), 
+.       perceived_vulnerability  /.     ,               . 
+.            /. 
+.        ,         perceived_vulnerability  /. 
+.        . 
+.    
+               participant_modeling experiential_awareness focus.             .               .          []         physical_quality    ..  combining      intentionality         evaluating      ,      ,          .                     . 
+    ,          :              .            appraisal             process [].   (��)        ,    /a_memory         [].   focus,      perceived_responsibility= . (���50)  perceived_responsibility= . (���50)    mental_calculation    .  personality perceived_responsibility   .              []. 
+..   
+ focus       ,  intrinsic_rewards,  loss ,      loss               .          loss .             .                       .           segregating       simplifying  .   loss      gain       . ,       .  ,                . 
+         ,     : ()  :      ; () :          physical_quality        loss  (  ); () :       
+ 
+================
+ 
+ 
+   
+ 
+&  & &  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+    
+ ()   loss  
+ 
+. 
+. 
+   
+ 
+&  & &  
+. 
+. 
+. 
+  
+. 
+. 
+      
+ 
+()     perceived_responsibility= . 
+. 
+. 
+. 
+. 
+. 
+. 
+  
+. 
+. 
+. 
+   
+ 
+&  & &  
+     
+ 
+()     perceived_responsibility= . 
+ 
+% 
+ 
+ 
+ 
+% 
+.% .% 
+% 
+% 
+.% .% 
+  
+.% 
+% 
+.% 
+% 
+perceived_responsibility= . 
+perceived_responsibility= . 
+() gain    
+ .      ,   loss . 
+  physical_quality. ,                . ,    physical_quality             loss      .   ,                loss        participant_modeling    .  combining         (, ,   )  ,,          loss . ,     ,   ����= .  ����= .        . 
+  ()       loss  (     .).    = . perceived_responsibility= .         ()  (), .                  .    loss       
+             .  perceived_vulnerability              . ,                intentionality    .     ,                  .          physical_quality             ���50= .%,   .%       (  ()).   personality appraisal ,     ���75= .%,   .%    .             . ,                          .         ,     ���50  ���75   .% 
+ 
+================
+  
+intelligence  
+. 
+. 
+. 
+. 
+. 
+  
+. 
+. 
+         
+  ()
+ () perceived_responsibility= . 
+  
+  
+. 
+. 
+. 
+. 
+. 
+  
+. 
+. 
+         
+  ()
+ () perceived_responsibility= . 
+ .       () perceived_responsibility= .  () perceived_responsibility= .. 
+ .%, . ,      .%  .% intrinsic_rewards    ���50  ���75, .       gain  ���75      belief   loss           loss. 
+ ,      ()    (  )      gain   .             "  "        "intelligence ".                intelligence   .        ���50  ���75  intelligence     .%  .%, .    ,        -  ,      ���50  ���75   .%  .%, .              ,     loss . 
+..   
+  ,            possibility_effect     .              physical_quality       ,      personality        (.. )     .       ,                  .   
+. 
+. 
+  
+. 
+intelligence  
+. 
+  
+. 
+perceived_responsibility =. 
+perceived_responsibility =. . 
+. . . . 
+  () 
+ .     . 
+            .       intelligence         .                   perceived_responsibility= .  perceived_responsibility= .     .     ,  ��50  , ,             .%, .%, .%,  .%, .  ���50  ���75      .%  .% ,    .%  .%    intelligence       .    gain  ���75                      .   
+ 
+================
+ .      . 
+     (  ),            .                perceived_vulnerability       .                           ,   ,    . 
+   ,                         .                     .  , , experiential_awareness             .       : ()       intrinsic_rewards                        ; ()                   ; ()   perceived_vulnerability    . 
+                          , ,  , , ,  .                   intelligence  ,                 .         . 
+.  
+  perception     perceived_vulnerability            .       ,    ,       .          loss    .         perceived_vulnerability,   , ,     .      intelligence         ���50= .%  ���75= .%   perceived_responsibility   .  ., . 
+,        intelligence .                 physical_quality                   loss  .               ���50  ���75   .%  .%, . ,             ,     intelligence       .     ���50  ���75  .%  .%,  . ,   loss          belief   ,              .     
+ 
+================
+,   loss    ���50  ���75  .%  .%, .              ���50= .%  ���75= .%.                .   ,  segregating    ,         []   . 
+ 
+[]  (),   :    
+   ,    []  
+   ,  . 
+[] , .& , . (), intelligence :  
+, ,   belief  intelligence  
+   intelligence ,  , & 
+,  , . 
+[] , . .& , . (),      
+ ,  -xxx,   ,    
+     , (), . 
+[] , ., , .& , . (),   
+    appraisal   
+   perception     
+,   , (), . [] , ., , .& , . (),  perception - 
+         
+ ,   , , . [] , ., , ., , .& , . (), 
+   loss     
+ ,      
+, (), . 
+[] , . ., , ., , ., , .& á, . (), 
+ loss  personality  ,     
+     perception,  
+, , . 
+[] , .& , . (), :    
+,   :.. 
+[] , .& , . (),     
+  ,    , 
+(), . 
+[] , ., , . ., , ., , ., , ., , ., 
+, ., , ., , . .& , . (),   
+          
+[] , ., , ., , .& , . (),  ,     
+       
+ , (), . 
+[] , ., , ., , ., , ., , .& , . (), 
+ ,       
+   ,   , 
+, . 
+[] , ., , ., , ., , .& , 
+. (),     perception    
+  appraisal       
+,   , (), . [] , ., , ., , .& , . (), 
+        
+,        
+     , . [] , ., , .& , . (),    
+impulsive_effect     appraisal  
+  ,     
+ . 
+[] , . ., , .& üüöü, . (),   
+  loss      
+,     , 
+(), . 
+[] , ., , ., , ., , ., , .& , . (), 
+        
+  ,     /  
+   intelligence   ,  
+, , , . 
+physical_quality ,       
+    experiential_awareness  , 
+     intelligence  
+ intelligence  ,   , . [] , ., , .& , . . (),  
+   intrinsic_rewards     
+,      , (), 
+. 
+[] , .& , . . (),   perception  impulsive_effect 
+        
+,   perception , (), . [] , ., , ., , .& , . (), 
+        
+,     , 
+(), . 
+[] , ., , ., , .& , . (), 
+     ,  
+intelligence     appraisal 
+  , . 
+[] , ., ó‐í‐Bermejo, ., , .& , 
+. (),        
+  ,      
+, (), . 
+()-powered        
+[] , .& , . (),    
+     perception,   
+ :.. 
+[] , . .,   ,  , , .& 
+, . . (),      
+,     perception, (),  
+. 
+[] , ., , ., , .& , . (),  
+        
+,        
+ perception   perception, , , 
+. 
+[] , ., , ., , .& , . (),  : 
+        
+,         
+ , , . 
+[] , ., , ., , ., , .& , . (),  
+    intrinsic_rewards     
+       ,  
+, (), . 
+[] , . ., , ., , ., , .& 
+üüöü, . (),     
+        
+ 
+================
+loss ,      
+, (), . 
+[] , ., , ., , .& , . (),   
+       
+  ,     
+ , (), . 
+[] , ., , ., , ., , ., , ., , 
+. .& , . . (), :     
+,         
+, , . 
+[] , ., , ., , .& , . (), 
+   : ,   ,  
+       perception  
+ perception,  , , . 
+[] , ., , ., , ., , ., , .& , . 
+(),      ,   
+ :.. 
+[] , .& , . (), : , , 
+,         
+perception   perception, , . 
+[] , .& , . (),  :  
+        
+,   :.. 
+[] , . ., á, ., , ., , ., , .& 
+, . (),       
+,         
+perception   perception, , , . [] , ., , ., , ., , .& , 
+. (),  loss     
+     ,  
+    . 
+[] , ., , ., , ., , ., , .& , . 
+(), :     ,  
+       perception  
+ perception, , , . 
+[] , ., , ., , .& , . (),   
+   perception,      
+   perception   perception,  
+, , . 
+[] , . ., , . .& , . . (),   
+     ,   
+        
+, , , . 
+[] , . (),  ,      
+    perception, , , 
+. 
+[] , . . (),  perception   
+ (    ),  
+,  . 
+[] , ., , .& , . (),  
+,  .  : ://. 
+./,   . 
+[] , ., , ., , .& , . (),  
+      ,   
+         
+, , . 
+[], ., , . ., , .& , 
+. (),       
+       
+ ,    , , 
+. 
+[] , .& , . (),   
+    ,   
+:.. 
+[] , .& , . . (),     
+  loss perception,  
+   , (), . [] , .& , . (), personality   
+     ,    
+  , , . 
+[] , . ., , ., , ., , ., , .,  
+, ., á, .& , . . (),  
+:    ,      
+    perception, , , 
+. 
+[] , .& , . . (),      
+   ,      
+   perception   perception,  
+ , , . 
+[] , ., , ., , .& , . (),  
+         
+,         
+ , , , . 
+[] , . (),  :    
+     ; .  
+ :.. 
+[]  (), .  . ://./ 
+-lin/. 
+[] , .,  , ., , . ., , .& 
+, . (),      () 
+,     perception, (), 
+. 
+[] , . .& , . (),    
+ appraisal        
+ ,       
+, (), . 
+[] , .& , . (),   
+        
+(),     ,   
+   ,   ,  
+, . 
+[] , . .& , . (), :     
+,   :.. 
+[] , . (),       
+ ,   process.  : 
+://./ 
+/,   . 
+[] , ., , ., , ., , .& , . 
+(), :      
+,         
+perception   perception,   , ,  
+. 
+ 
+================

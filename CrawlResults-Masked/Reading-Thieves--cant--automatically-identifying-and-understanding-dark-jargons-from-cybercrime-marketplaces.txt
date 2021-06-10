@@ -1,0 +1,506 @@
+    :     
+         
+   
+ ,  ,  ,   ,      
+://..//// 
+         
+   . 
+ ,  • , ,  
+  
+           
+   . 
+================
+    :    personality physical_quality 
+    
+ ,  ,  ,   
+   
+isolation_effect 
+       . ,          physical_quality ,    ""     ( / ,  , .).   personality           extrinsic_rewards,             .   ,    ﬁ techniques,  , 
+()      ,   source, 
+   Rootkit   . 
+()         
+ . 
+()      isolation_effect    
+. 
+ :    physical_quality ,  physical_quality      .  ﬁ    ""   "  ";   
+    physical_quality .      ""  "", ""      personality             . 
+  simplifying    ,   
+      ﬁ 
+     .    .        ,            ,    protection_effect    personality  , ,     ,       physical_quality .,          .    ,  perception  ,      "   ",     combining         (),   physical_quality         ( )  protection_effect  . .       
+physical_quality          ,  perception (.., ),       
+  , physical_quality     ,  ,   .  focus        ( %   )           . 
+  
+       ,        [],   ,       [].  ,  ,      personality  [],            ,    
+  
+/ ,     ,    intrinsic_rewards .     physical_quality            .           ﬁ  ,    ,           ( ). , impulsive_effect   personality   physical_quality      personality          . 
+    : .       , physical_quality      ﬁ  ,           , 
+     
+================
+             (..,  ).          -        .  ,  physical_quality            ,  perception     personality []. 
+       ﬁ-   physical_quality ,   impulsive_effect   impulsive_effect         -  .      focus  physical_quality ,       [].  focus   techniques                ,        physical_quality      physical_quality  (    ,  " physical_quality "). ,   focus []        (.., )           (.., ""   "   ").    , ,    ﬁ physical_quality ,         .      intrinsic_rewards,       . 
+.   ,      ,  ,       mental_calculation                 -  . ,  physical_quality       judging          .   perception              physical_quality                   .  ,   physical_quality  , ""      "", "", ""  ,    ,     "", " ", " " . ,             ﬁ           . 
+  ,    techniques  techniques  : ()          ? ()                ? ()     physical_quality          ?     ,       mental_calculation            process       .          
+     
+ ,    personality        ,           ( .).               ,  perception              personality  (  )         (    ).                  (.., "loss"         ,     ),     ﬁ     . ,     physical_quality ,     ("" )    techniques,      ""     (.., ""   ""). 
+      ﬁ    ( ).     -         ,          ,  , physical_quality    .     (%),     % a_memory evaluating.          []. 
+.                 (),    ﬁ , physical_quality      .    physical_quality            ,     intrinsic_rewards    personality     physical_quality  ,      .   - ,    physical_quality       : %        . ,         :              ﬂ   "", "", ""  "", ,       ﬁ  "", ""  "". ,       ,     comply_effect     : ..,       ,   gain evaluating  .%. 
+     ,       physical_quality     simplifying     . ,        ,    .                   " " [experience ].  ,  physical_quality ,      ,     
+  
+================
+     ,     : .., ""   , "    ""  . .         : 
+•  physical_quality   techniques.   ,  ﬁ  techniques  physical_quality    ,            .  perception                    combining  .  appraisal         physical_quality    -   ,        intrinsic_rewards,      [knowledge ]. •New ﬁ.    ,           ,  focus   physical_quality      physical_quality ,            perception    ﬁ.       perceived_vulnerability intelligence   ,     personality  perceived_vulnerability  . 
+  
+.   
+ .   ,   -           ,              .             .   ,     " "   personality    [],           []. ,              source   perceived_vulnerability   .         physical_quality    , Tactics  intrinsic_rewards,        . 
+  ,            : physical_quality -  (extrinsic_rewards       ),   (   ),  (    )    ( ),  ,  (..,   )  /  / (  ).  gain,  comply_effect        
+  
+     ,       ﬁ. 
+physical_quality .   ,  mental_calculation  physical_quality               protection_effect   .      , ,  Tactics, .,          .  ,  ﬁ    history   physical_quality        Eavesdropping  .         ""     . ,           task  ﬁ  .  ,       ,     () intelligence      physical_quality   simplifying          ﬁ . 
+   personality      ,    physical_quality    ,       . ,        ﬁ     . ,           ,     .      .   ,                  [].    combining     ,  intrinsic_rewards       physical_quality  ﬁ  personality. 
+.    
+       ﬁ        ( ),             [, , ].    ﬁ   [function]          (   ), ..,  =(.,−0.,.,...),        .            , ..,       ,  simplifying          [].                ,        . 
+.              ,,..||  ,     learning  "personality " (,..||)= 
+     
+================
+ 
+{" 
+"{ *+ 
+ {" 
+*+ 
+  
+ 
+ 
+ 
+~~ 
+*~+ 
+~~ 
+~~ 
+~~ 
+~~ 
+ :      . 
+|| 
+∏ ∏ 
+(+|)        = 
+,   syllogistic_rules            {+,−m ≤  ≤ },         ,    
+  [function] 
+∑  
+[]. 
+       ,            .                 ,         .      ||          ().     ||,     ||       ,    ||-dimension  .      personality -   ﬁ  || . ﬁ,      physical_quality           ,      [function]   . 
+.   ,     (.., "", "", "")        .  ,     ""  ""          ""  "".          ,               perception :            perceived_vulnerability intentionality    ()= 
+ 
+() 
+ ()            
+,   .             ,       .     ﬁ            . 
+  . ,            /   : ..,      , ,     
+     
+{{"  
+"  
+{" 
+" 
+ 
+*." {{+ 
+  
+"  
+""  
+"{{" 
+{ 
+" 
+" 
+ :     . 
+  :  −  ≈  − . ,         .  ,  −  ≈  −vking                    . 
+.  ﬁ 
+ ﬁ    techniques  combining    ()       ﬁ  ()  .   , ""     "".                   belief : ..,   " " ()   "" ()         "      ?".  ﬁ          .   [, ]    (   )      ﬁ- .   [, ]          .    ,        ﬁ             .           personality  ,             ,          . 
+ :  
+       ,           .   physical_quality      ,  ﬁ-        physical_quality . ,       ,      experiential_awareness   .  ,   ""   ,     ""  
+  
+================
+"",      , "", ""        .  perception         personality  physical_quality          .  perception        learning               ,       combining      possibility_effect    physical_quality .    ,   participant_modeling         .         techniques         . 
+.       ,    :      .                        combining physical_quality .   - ,   ﬁ ﬁ      physical_quality ,     ﬁ           mental_calculation .        ( .)      , ,  ,,    :     physical_quality        ,             .          ,    ,  .  ,    ,    impulsive_effect       physical_quality   ﬁ  .     (.., ),  combining       .               physical_quality . 
+ .   ""   ,  ,   ,                 .        physical_quality  (),      (),         (),           . 
+    ,  ﬁ       (,),  (,) .           "".       (    )           .  "",   ,= .  ,= ..   
+  
+  ""       physical_quality   ,          . ,    physical_quality     .  ﬁ   physical_quality    ,      []  -               (    ),              ""       .   ,      perceived_vulnerability  %  ""     "". 
+    
+.    
+,   ﬁ            physical_quality                    .       ,       ,      ()    [, ]  simplifying        .  .  ()      perception   ,     learning     (..   )    .          ,  perceived_uniqueness arousal [function]    .    learning -  ,     ,                ||×|| ,  ||         ||      .    =[,,...,||].     (         ),        , ,      . ,       ||  . 
+ belief              ,    ,            .    process  learning            .      perceived_uniqueness arousal [function]   ,            , ..      . ,    ﬁ      , ,  ,     .                 (  ). 
+     
+================
+ .          ﬁ               . ,  physical_quality  ,             , ..,          .       combining   ,         .      isolation_effect      ,             ,      []    ,          ( .).   ,    ,               ,      . 
+                .  techniques  ,       (),        ,                 .  belief               isolation_effect ,    ,          ,     ,                           .   ,     ,           .   ,      ,                      . 
+   ,  ﬁ ﬁ    :
+ 
+()= 
+[,()]      
+[(),]      
+()        || ,  ()            .   [function]          || ,              .             ,            . 
+        ,                    ||×|| 
+     
+ :   
+      
+    
+  
+ 
+ 
+ 
+    
+  
+ 
+ 
+     
+.  isolation_effect    ||×|| , = [,],   =[,,,,...,||,]  = [,,,,...,||,].     ,    ,      ||-dimensional : ,     ,  .               . 
+  .           ,          . mental_calculation      ,           ,     ,     ,  ,       .   ,          .                        ,    .             ,        .   ,  ,               .       ,    .          (  .  ),      physical_quality . 
+ simplifying  ,        [],       .            . 
+ .   ,          .       ,       ,         .        ,              ,           .          ,          .,     .. 
+  ,          ,            .      .    .,             
+  
+================
+ :      . 
+ :     
+   
+( → ) 
+( → ) ( → extrinsic_rewards) ( → perceived_uniqueness) 
+( → ) 
+ 
+. 
+. 
+. 
+. 
+. 
+,     .         . 
+ .      [capability]       ,        .   ,                  (  )      .   ,    ""   intelligence       .         ,       learning  .    ,           (       ).       .      (.., )              evaluating,             :      .      ..                . 
+ . ,    appraisal         .   ,             []  mental_calculation     .             (     , , .),       (  , )     .       intentionality      : .., +           . 
+  ,            [],  Collection       .  
+  
+      ,         .  belief                      .            (   %)         (%),     ﬁ            loss   . 
+.   
+  ,      ﬁ            physical_quality      .          . 
+ﬁ,     physical_quality    (),     (),       ()   .            ,            ,     ,      .  ﬁ        ,  perception          ﬁ      .        . 
+ .      process           .            ,   "  "     personality    ,    behavior_control-ability .          ﬁ      .   ,          ,     (.., , ). 
+  physical_quality ,  "  "        "" .  - ,  ﬁ ﬁ     (   "", "", .),     ﬁ-    ﬁ .   ,    ﬁ   []    . 
+ ,    isolation_effect           . ,   intrinsic_rewards            generalizing          .       ﬁ    ,        ﬁ   . 
+          .              segregating           
+     
+================
+    .  perception, ,       :  ,       , ,        .   ,           ,    ,         ,      ,       . 
+ techniques  ,     ,   ,  appraisal    .     ,                         .   ,    "  Comment_Crew    personality ",     ,       ""  ("", "", "", "", "").   ,  appraisal             ( )   .               .   ,               . 
+  .     ,         physical_quality       .            (   )       ,,            . 
+,          physical_quality              physical_quality . ,                ,     .                .  ,  , ""         ,        frustration_of_needs,      ,      .    "",              .     " "  ,        -     . ﬁ   ,       .. 
+ .        ,            . ,          loss -      physical_quality ,         ,             physical_quality .  ,      " 
+     
+physical_quality"  .            ,            (  "", ""  "");   , , " physical_quality"   intelligence . 
+ ﬁ       personality  (),                 ,     .   ,      ,              .   ,     .       ,             (,)    isolation_effect       personality .  .   ,         physical_quality               (   personality   ),         (    personality ).   , ,      ,      .   ,                .                 ,     ,               . ,    :        ,         . 
+  ,   ﬁ             ,          [].   ﬁ  :     (     ),    ,    ,    .   ,  perception         []  ﬁ  .   ,   = .,    ,        μ     σ                   μ −1.σ      . belief   ,      ,          (       )   %      ,           . 
+.  personality 
+      ,       syllogistic_rules  .    
+  
+================
+ ? ? { 
+ :{ 
+: : 
+"[],". 
+} 
+? : :. 
+} 
+  
+ :   
+    physical_quality   ,              ,         .    ,        intrinsic_rewards    personality   ,          ﬁ .  ,          ""  ,            personality   .  personality          ,  ﬁ    . 
+ personality        . ,                 .   perception    (    )         ,   ﬁ  ﬁ           .   .           ﬁ   .     ,                 .   ,           []           . 
+      [knowledge] .        []            [].            "",  :      ,  :    . 
+   (.., )    ,     ﬁ     vicarious_experience ,           .   ,  perception    (   )           .  .         ﬁ             ,    intrinsic_rewards [].   ,     belief    . ﬁ- 
+  
+ :     
+ 
+#  
+#   ,, , , , ,, ,, 
+   , 
+ 
+ 
+ , 
+ 
+ 
+     
+ 
+ 
+ 
+, , , , ,, , 
+/ - / / - / / - / / - / 
+- 
+- 
+,    ,  perception            (   )               .   ,       ﬁ,             [],         certainty_effect        combining   .  ﬁ              .. 
+  .   physical_quality ,           . ,           .            ,  intentionality   ,     "". ,     possibility_effect  (       ﬁ)    simplifying  .             ,    . ,   possibility_effect             . 
+ appraisal 
+.   
+  focus,        ,       -  ,           .,        .         focus       . .       focus : physical_quality ,  ,  ,      . 
+• physical_quality . physical_quality           .    ,                   [, ],    physical_quality :     []   ,  (..,   )     
+     
+================
+       (    ) ;    []  ,     techniques    ;     []  ,     techniques ;     []  ,           .      physical_quality   . 
+•  .   ,      :     ,     .    ,          .     personality    ,   ,          [].      mental_calculation       ,   ,   (.. ""  ""  ""  "  belief "),          ,       personality  .     ,       .    ,           []. ,  []        .      , ,  ,  .          . •  .              ﬁ.   ,         .        [, ].           ""    / :  [],  [],  []   [].   , certainty_effect    ,  . •  .   ,    physical_quality      ,     appraisal   .       :      []       [].                     (),   ,   .            ,   ,      ,  ,  .                physical_quality    physical_quality              ,      ,    ,      ,        physical_quality .          
+     
+ :     
+ 
+  .    .  
+ .  
+ . . -0. 
+ . . . 
+ . . . 
+ . . . 
+         physical_quality        ﬁ. 
+ .   ,          : 
+•   .            ,     = .     =     = )          . 
+• .          . 
+•   ﬁ.        []  ﬁ.  ﬁ      :  = ,  = ,   isolation_effect= ,   physical_quality= . 
+. appraisal  
+  .   focus,       physical_quality      ,,    . ,   ﬁ , physical_quality    .         ,  ﬁ        .          ,      ,    a_memory  .%.       (..,           ),                .          ,             .  ,           ""   .         "".  ,                      [].    , physical_quality     ,        ,     ﬁ    physical_quality .         %. 
+.      
+  
+================
+ :      
+     
+ 
+  
+.  
+.  
+.  
+   
+. 
+. 
+. 
+,        process ,   (  combining ,  ,       )   physical_quality            ,      .   ,        ,   .        , ,     .              possibility_effect   process   combining     . 
+ appraisal 
+.  
+  .  combining,  ﬁ , physical_quality       ,,   .  focus       physical_quality     . , (%)        physical_quality .           physical_quality    .  comply_effect  %        physical_quality    . ,  focus     physical_quality  .              physical_quality .  comply_effect %  physical_quality       .           physical_quality   segregating  . 
+       physical_quality         .  comply_effect      physical_quality   ,        .  ,                (  ),         "", ""  "".  , "",    "",          . 
+      physical_quality     .         (,).       ,           ﬁ personality   physical_quality .         
+  
+()    ()                 
+()  physical_quality  ()             
+    
+ :     physical_quality . 
+ : physical_quality    
+ 
+#   
+ , 
+ 
+ 
+ 
+- 
+#     
+ 
+ , 
+#  
+   
+      
+, , , , , , 
+, ,  
+,  
+, ,  ,  
+, ,  
+, ,  
+        physical_quality     . 
+ physical_quality .       physical_quality ,  focus  /  . ﬁ,         []    ,                .            (    ).    physical_quality       (.%),     (.%)   (.%).  ,          ﬂ-   , .., "", "", ""  "". ,    ﬁ  "", ""  "". 
+        physical_quality        .         [],              .      
+     
+================
+ :       physical_quality   
+    
+ 
+ 
+ 
+ﬁ  
+ 
+ 
+ 
+#  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+, ,  
+, ,  , , ﬂ 
+, ,  
+, ,  
+,  , ,  
+,  
+()      ()     evaluating -    
+ :  physical_quality . 
+      ,      ﬁ                      .       physical_quality  ,     (%)    .  ,             physical_quality      .                physical_quality .  comply_effect     %   physical_quality           (  ).            .             [],  physical_quality                ,   personality    . 
+ physical_quality .           physical_quality    .  ,   physical_quality    .      ﬁ    gain     . ,     physical_quality              .  , "" (perceived_responsibility )   experiential_awareness  /  /          . 
+     
+.   physical_quality  
+  ﬁ   .    physical_quality            . ﬁ,      ,      physical_quality      .              - .  , ""            "" ().   ,            .  ,  , .%     physical_quality       .         physical_quality   protection_effect   . 
+           physical_quality ,                       -   ()  []. ,     ,                   .  ,              :           . ,            [],        physical_quality     .          . 
+ .        physical_quality    physical_quality       ﬁ. ,       (  )           ,       . ,           ﬁ      physical_quality    . ﬁ,          physical_quality     segregating     (..,      ,   .),            physical_quality  (         ),  focus       physical_quality   .         physical_quality     ﬁ.  mental_calculation               .    ,               .  ,    "",  personality  ,     ,       
+  
+================
+ :        
+    
+#   
+ 
+ 
+ 
+ 
+. 
+. 
+. 
+ :        
+  "", ""  ""  .  ,         .     ﬁ      ,      .%. 
+              .    %           physical_quality    .             . , ""     (.%),   "" (.%)  "" (.%).   ,       , .., "" ()  "" (). 
+.  focus 
+           .         perceived_vulnerability intelligence          .  , "" (  )    ,    ,       ,       /. 
+        physical_quality  "", "", ""  ""    /  /   ,  "", ""  ""     "".   ﬁ,       "" (   )   ,       . ,      "",   ""    "".  ,   ""  "", ""    personality ""   ,         [].   ﬁ  %    
+  
+  ""     .    ""      source   ""   .    social_circumstance      ""  /  /         ""  "", ""  "".  /,  comply_effect     "".     physical_quality -  . [],  personality  "",     ﬁ     . 
+  
+  .   ,        techniques             .          .                 ﬁ     .           ,            . 
+,         ,                      ,             .                .  ,         : mental_calculation       ;             ,              [activity]    . ,   mental_calculation ,  ,   ,       physical_quality . 
+.   belief                     .       .    participant_modeling                  .  ,       ,  physical_quality     ﬁ            impact   :      segregating       ﬁ          . ,               protection_effect   .   
+     
+================
+       combining  .      ﬁ      -                       . 
+   
+,     process -      .   judging    [],      [], judging   generalizing     [, ],     [],  personality     [, ],   perceived_vulnerability intelligence [].           ﬁ      , ..,     personality physical_quality    -   . 
+        focus   techniques            [].         (           )            .  perception, ,     physical_quality  ,  physical_quality    physical_quality   ,      , ..,      physical_quality      . ,        physical_quality         .    [] ﬁ       .                   ﬁ.       combining    extrinsic_rewards          physical_quality  ﬁ    . ,                 physical_quality  . , []        simplifying        .    segregating     , ﬁ             .                 physical_quality . ,     techniques      combining physical_quality      . 
+     
+ belief 
+  ,   ,   techniques     personality physical_quality     .            .  perception  ﬁ           ,           .  appraisal                physical_quality ,    ﬁ   ﬁ      impulsive_effect       . 
+  
+                   intelligence .          , ,    . 
+ 
+[]    . ://./ /.. 
+[] . ://..//. 
+[]    (). 
+//../. 
+: 
+[]  . ://..//. 
+[] . ... 
+[]    . ://..// 
+..// 
+.. 
+[]  - :       
+ . ://.//. 
+[]  . ://..//. 
+[]  . ://./. 
+[]   //. ://..//. 
+[] . ://... 
+[]  . ://../. 
+[]  . ://..//// 
+////.. 
+[]   [policy ]. 
+/. 
+://..// 
+[]  . 
+/. 
+://.//// 
+[] . ://.//. 
+[]  (). 
+  (). 
+://..// 
+[] . ://..//. 
+  
+================
+[]          . : 
+//../ /// 
+. 
+[]   . ://..//: 
+ . 
+[] :  / . : 
+//..//:  / 
+ . 
+[] . ://..////. 
+[] . ://... 
+[]  :      
+. ://../// 
+/, . 
+[]   :     , , 
+  . ://../combining // 
+ 
+, . 
+[] . ://..//, . 
+[]  :  . 
+. 
+://./, 
+[] . , . , . ,  . .    
+ .     , ():, 
+. 
+[] .   . . .  belief,  .  
+ﬁ , , . 
+[] . .    :  appraisal     
+  .       
+    ,  . , . 
+[] . , . . , . , . . , . , 
+. , . ,  . .     
+ :    ﬁ-grained  . 
+          
+ (), . 
+[] . , . , . , . , . ,  . .   
+    .       
+       ( :  
+),  ,  , . 
+[] . , . , . , . , . , . ,  . . : 
+   personality      .   
+   (  ),  , . 
+[] . , . , . ,  .  ,   loss : 
+ﬁ      
+.    &. 
+[] . , . , . , . , . ,  . .   
+ :  impulsive_effect       
+perceived_vulnerability intelligence.    . 
+[] . , . , . ,  . . ﬁ appraisal   
+   .   :., . 
+[] . , . , . , . . ,  . .  
+       .   
+     ,  , . 
+[] . , . , . , . , . ,  . . :  
+  ﬁ   .     
+  (  ),  , , , 
+. .  . 
+[] . , . , . , . ,  . . :  
+ perceived_vulnerability appraisal   .      
+     (  ),   
+, . 
+  
+[] . , . , . , . , . ,  . . : 
+evaluating   ﬁ   . 
+           
+ ,  . , . 
+[] . .      syllogistic_rules.  
+             
+ ,  , . 
+[] . , . ,  . .    
+      .   
+:., . 
+[] . , . ,  . . .      
+  .       
+,  , . 
+[] . , . ,  . . .   syllogistic_rules  
+ .        
+            
+   ,  .   
+ , . 
+[] . . , . ,  . . :     
+  .  : ,     
+   , ():, . 
+[] . , . , . , . , . , . , . , . ,  . . 
+  learning    :   appraisal  
+      .     
+(),    ,  . , . 
+[] . , . , . ,  . . :  impulsive_effect  
+   [policy]   .      
+           
+ ,  . , . 
+[] . , . , . , . ,  . .   
+      .  intelligence  
+  (),    ,  . , 
+. 
+[] .   . . . :     
+ judging   .      
+(  ),  , . 
+     
+================

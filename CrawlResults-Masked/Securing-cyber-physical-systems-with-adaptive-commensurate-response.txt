@@ -1,0 +1,348 @@
+satisfaction_of_needs       
+ ,  ,    . .   
+⇤ 
+  &  ,  &   
+   & ,  &   
+:{ , , ,  }@. 
+  ()     ,    ,    .      ﬁ          physical_quality     ,           impact    .       ()        loss     impact          impact   .  impact         (  )       []    [] ( ).           ,              .   focus                    . 
+ , ,  ,   ,  
+.  
+ 
+  ()    
+       intelligence  [],    []  /  [].                     , , ,  simplifying    .            ,        .    [],                     . ,        []  . , ,          .     ,       ﬁ     . ,             . 
+               ﬁ impact   , ..              . ,                          .   , //$.    
+        extrinsic_rewards          ﬁ    ﬁ     :        (..,                 ﬁ)   gain  ﬁ-to-detect  behavior       ﬁ impact [].           ﬁ.   ,       ,           (          combining  )       . 
+       ﬁ   :      .    focus        protection_effect        /  []- [],  []-[],   [].   ,    , focus     .              .  , personality  []-[]               []-[]    []. 
+      ,      (),              loss        ﬁ-to-                .             impact   .   ,                 .         ,        ,  .     ,         .        personality ,      (),       . 
+     combining     .         ,                    intelligence  .       ,        
+================
+ .        personality       [function]   perceived_vulnerability [exposure]   .      ,  perceived_vulnerability [exposure]                 .       Masquerading  ,           belief,               personality   .        ,              ,            .       gain          ,                satisfaction_of_needs  .          combining  .  ,    ,    []   perceived_vulnerability [exposure]             ,       ,          protection_effect    satisfaction_of_needs   .   ,        []     ()     .            personality      ()   protection_effect . 
+    ,     focus                  .                 (  ),                     (  ).  ﬁ      . ,            [],       []    . ,    ﬁ            . ,                   (..   ). 
+        : 
+•     ()    
+        
+         
+ .     
+,    . 
+•         
+     extrinsic_rewards   
+    .    ﬁ 
+        . •         
+[function]          . 
+          
+  . 
+•         
+      .   
+         
+     . 
+        .            .      .       focus        .  appraisal    focus     .         . ,                . 
+.   
+. :       . 
+.                  .    . (),        ,     (  )   (  ),   (  ),       , ,   .            participant_modeling         ,        .           .  ,                . 
+           :   , ,    ,  . ().    ()     process.        ()   ,      ()   .            ()          ()= () (),  ,        .    ()               . 
+             :   ,   .      ,              ()     ()          .          
+================
+,  ,  []                 .            . 
+. :      (). 
+      ,    perception    ,      ()         .       combining  focus       ﬁ :  , gain , ,   .       :          ,   ,   ,        [].          ,          . 
+.                  [] ()   .               : () gain      combining         ()%  ()%     (     %   focus ); ()                  []; ()              [],       ;  ()          []     []. 
+ gain,  ﬁ                    .      ﬁ    .                       ().      ( - ) ﬁ     ,  ,                              .       .       ,    . ,    ,         ,    ,       ﬁ          . 
+mental_calculation                  ()=      (  ).   gain    = .     = ,      ( )= .,       .   gain     ,   = .,        :      ,        .          ( ).    gain         . 
+   ,                  .  gain,      ,  gain    ﬁ         ()    . ,               []   physical_quality ,        .                            extrinsic_rewards               . 
+   belief,           : 
+()=  ()+  ()+  
+() 
+ 
+() 
+ ()       , ()= ()()   , ()  ,  ()      .      intrinsic_rewards ,  intrinsic_rewards   intrinsic_rewards .    ,   [function]     () : 
+()= 
+() 
+() 
+= + 
+ 
+ 
++   
+() 
+   personality . 
+     [function] 
+() 
+() 
+    : 
+()= () · () 
+()= () · ()= () · (() ())  () 
+() 
+= 
+() · () 
++() · () 
+() () 
+() 
+ ,         (, ,  )     ,    []   []. ,               : 
+)  gain         
+  ( ),   
+  mental_calculation     
+ (     ); )     (    
+),  (evaluating ),   
+(evaluating )    ﬁ. 
+================
+)     gain , 
+ , ,     
+  ﬁ  . ﬁ constraint   
+       
+. 
+ gain       
+   
+ gain    gain gain      
+ :       ,,. 
+   ﬁ . [] 
+             . ,          (). 
+.    
+        ,    .      ,      :             ;           . ,             
+      . 
+         ,   ﬁ  
+    .  ,    gain  gain , 
+ possibility_effect.      ﬁ     . ,      
+   .     personality          ,     ,              ,   .             . 
+.   
+                 .  combining    :     . .         .                           .           ,  , ,   .    mental_calculation           [function] .            [], []. 
+. :       . 
+ .                  .                [].              ( ),             .  ,     ()      . 
+ .     ,                 ,         [].       ()    ;  ()          ;   ()       ﬁ      .          ,   
+personality   ,       ,          []              .                 personality    .          ﬁ   ﬁ    ,          . 
+.  
+.             ()      .  personality , ()        ,       .    ()        : personality   personality . 
+. :      . 
+ .   personality   ﬁ  intelligence                  intelligence .            ⌧;                .   ,          ,           : () ﬁ      ;  () ﬁ             [action ].           impact      ,       . 
+ .    personality ,            intelligence              .              
+================
+        .  focus       . 
+      : 
+ 
+ 
+()= 
+· + +  ·  
+   () : 
+() 
+ 
+()= 
+ · + +  
+ 
+ 
+·  
+ · + +  ·  
+() 
+    () · ()    : 
+() 
+ 
+ 
+· ()= 
+· + +  ·  
+ 
+() , ,         .               . , ,          (): 
+= (()), 
+ 
+ 
+=(()), 
+ 
+ 
+=(()). 
+ mental_calculation    : () :          ;  () |()|:        ()     [] .       " "         .    |() |   " "                .           .       ﬁ    [function]  ().       ,   intrinsic_rewards          ,   . 
+.    
+ belief      ()       () gain  (    )             .              ,     extrinsic_rewards   ﬁ         . ,                            ,    .             combining  .   ,  mental_calculation     ,    . 
+          [function]             .     . ()  (),                        (   )     (   ).              protection_effect     .    
+ ,            .    persistence       . 
+. :      . 
+. :     . 
+.        .      ,            ()             .      ,        : 
+)    intelligence    (, ,  )  intentionality      , appraisal  intelligence gain  . 
+) isolation_effect      [, ]   ;   [policy]    (   [, ])   gain   (  [, ]).        . 
+)   ,            . 
+)  personality         .         ()          
+ 
+. 
+)           gain         . 
+)    ,        ,    ,       , ,  . ()    
+ 
+ ()= 
+ ·s+ + ·s2 
+++ 
+    . 
+             ,  personality , ()        (),     (),  . 
+.    
+  ,           , |()|,   
+================
+    ().                      .         ﬁ  ﬁ        [].           (),    (  |() |)     .             . 
+. :     . 
+.        .    ,                   .     . (),         (   )       .      ()   ,    ()      ﬁ   . 
+       . ()    ,        ,     ,  .       " "  personality .                          ,       .  personality                  .                 ,     .     belief             .                  []           |()|     . 
+       ﬁ " "     ﬁ   ,        ""          personality  ﬂ       .                    ,       . 
+.  focus :    
+   
+.  &   
+ .              , 
+     extrinsic_rewards.      []        .        []. 
+. :      . 
+. ()         []        (   ) .      ,     (  ),      .                         belief. . ()    .                  .               .                   .                   .             . 
+         ﬁ-order  : + = ,      ,    ,     ﬁ.             : = . 
+   [function]     
+: 
+()= 
+() 
+() 
+= 
+ 
++  
+[/] 
+() 
+  ,           []:   ()=  ;  ﬁ ()=  ./;    ()=  . 
+  .                 ﬁ   .    []       ﬁ      imagination,    .          ,        .   ,        . . 
+================
+ .     ,             (= ),         / ( ).                  %. ,             .  physical_quality,      : () = ; () < %; () = .;  ()     . 
+. intelligence    
+           = ., = .,   =.  intelligence   : 
+ 
+()= 
+ + +   
+ 
+= 
+.+ . 
+ 
+() 
+   [function]      : 
+() () · () 
+() 
+= 
++() · () 
+= 
+ + +   
+(+ ) ·  +( + ) · +  
+= 
+.+ . 
++ .+ . 
+() 
+.         intelligence     gain   ..                (..     )  .. ,                   = .. 
+ 
+ 
+ 
+ 
+ 
+ 
+  () 
+ 
+     
+ () 
+. : intelligence      gain   .. 
+.     
+,         .    personality    ()=  ·s+ + ·s2 
+++ 
+. ,     ()·C()    : 
+ 
+() · ()= 
+ · + +  ·  
+ 
+() 
+    (),     appraisal         
+             [policy ],   .  mental_calculation    ,            .         .             .      gain . 
+ ()     
+ -  . . .  
+ -  . . .  
+ -  . . .  
+ -  . . .  
+ -  . . .  
+ -  . . .  
+ -  . . .  
+ -  . . .  
+ -  . . .  
+ :    [policy ]. 
+      , .         gain :   [.,.]      . ,        gain        (=  ),         = ..               .        . ,                ,              .         ﬁ,      ﬁ         ﬁ.        ,                    extrinsic_rewards (   ).       gain   .   ,             . ,                    physical_quality . 
+================
+ 
+ 
+ 
+ 
+ 
+ 
+  () 
+ 
+ 
+   () 
+ 
+ 
+================
+    ,   personality  []-[]     .    combining                 .      [], [], []   belief         evaluating, personality  [], []    combining      combining            . 
+. belief 
+                   physical_quality .     ,      ()     techniques                  .    focus       .   focus                          .                  ﬁ      .   ,    combining       mental_calculation    . 
+.  
+                .        &    (). 
+ 
+[] .   . , "intelligence :     
+," .   , . , . , . , . [] , "  — ,   
+," . []. : ://..// 
+.?= &= [] ——, "  — ,   ," 
+. []. : ://..//.? 
+= &= 
+[] . , ":    ,"  
+& , . , . , . , . 
+[] . . , . . ,  . , "    
+     ,"  .  ., . [] . , . , .  , . ,  . . , 
+"   :   ﬁ-based . . 
+.    ,"  . , , . . [] .   . , " . . . .   . 
+. . . ( ),"  . , , . . [] . . .   . , "     
+,"  . , , . . 
+[] . , . ,  . , "  .  
+ ,"  . .  . , ,  
+.  . . . , , . . [] .   . , " [modeling]  /  
+    ," , . , . [] . . , . . ,  . . , " .  . . 
+ personality  ,"  . , . 
+[] .   . . . , "     
+    ,"   . 
+, , . . 
+[] . , . ,  . , "    
+     ,"   
+ . , , . . 
+[] . , . ,  . . , "  
+      intelligence  
+,"  , . , . , . , . [] . . , . . ,  . , " . 
+   ."  . , . [] .   . , "personality : personality 
+  .  ," .   , . [] .-xxx. , . ,  . , "belief  .  
+personality      . ."  
+ . , , . . 
+[] . , . ,  . , "   
+      ,"   
+. , , . . 
+[] . , . ,  . . , "     
+[] appraisal    ," , . , . , . [] . , . ,  . , "     
+ ,"   . .  intelligence  . 
+(). , , . . 
+[] .   . . , "perceived_vulnerability appraisal   [] 
+appraisal       ,"  
+.  intelligence , . , . , . , . [] . , . ,  . , "    
+    ,"    
+ (). , , . . 
+[] .   . , "protection_effect    ,"  
+ .  .  . ,  . ( 
+). , , . . 
+[] . . , . ,  . , "protection_effect :  
+  ,"  . .  . . 
+.  (). , , . . [] .   . , "     
+  :  experiential_awareness focus,"   . 
+gain . . (). , , . . [] .   . , "   impulsive_effect  
+,"  , . , . , . , . [] . .   . . , .  . . , 
+. 
+[] . . , "  ﬁ    
+," . []. : ://.../. 
+?=&=&=&= 
+[] . , . , . , . ,  . , ".  
+: belief  ."  . , , . . [] . ,  .  . .& . , . [] .-xxx. , "   & ,"  
+, ://...//.?=. [] .-xxx.   . . , "Fingerprinting     
+  ,"    . . ( 
+).  , , . . [] . , . .-xxx. , . , . , . , . ,  
+. , "    intelligence  ," 
+.   , . , . , . , . 
+[] .   . . . , "   
+:      ﬁ ,"  
+ . , . 
+[] . . , . . . ,  . , "satisfaction_of_needs . . .: 
+  . . ."  . , . [] .   . , "    ," 
+ .  . . . , , . . [] . ﬁ  . . , ".  . . .   
+. ,"   .  .  . , . 
+================

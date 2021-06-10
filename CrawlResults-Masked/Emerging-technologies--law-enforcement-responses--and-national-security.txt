@@ -1,0 +1,416 @@
+/:      [policy]     
+ ,   
+,    
+ .,..* 
+ 
+.   ..........................................................................  .       :   
+ ...................................................................................  
+.   .......................................................  .   ...................................................  .    ...........................................  .      ,    
+ ,   ........................................  .        
+ ...........................................................................  
+.  perception :    extrinsic_rewards
+ .............................................................................................  .   ..............................................................................  
+isolation_effect :           , personality     []                 behavior_control-ability    .          [policy]   ,                  . ,    
+* ,       intrinsic_rewards,    ;  ,    task ,    . @.. 
+================
+ 
+/:      [policy] 
+[. : 
+               role               techniques      .  ,       ,   ,       , ,    .          ,                    .             perception     ,     mental_calculation  role        . 
+                  . - .  ,  
+.  
+                     .           []            behavior_control-ability  personality   . ,       belief           personality ,    "opportunity_for_criminal_acts    ,"        self-efficacy          ( , ;    ). ,           "  , ,      loss" (   , ). ,   ,       intelligence ,         [policy]           ,      , perceived_vulnerability ,     (..,  , ;  , ;  , ;  ;   , ). 
+================
+] 
+ 
+
+         possibility_effect ,          ,     intrinsic_rewards, (..,    , ;  , ;  , ;  ;  , ),    [action]           protection_effect    [] . ,                           .       " "    ,   self-efficacy         ,  ,  ,   ,    (..,  , ; , ,   , ). ,           imagination  ","                    .      , : ,     ,   .
+              physical_quality              ,    ,    ,               (..,    , ;  , ;  , ).  perception      ,         impact       .  focus    : ,             , ,    . ,         ,          impact     .             perception     .                ,                       personality . 
+================
+ 
+/:      [policy] 
+[. : 
+.      :  
+ 
+             ,    ,  ,   ,  ,     ()    .                     .       (..,         )      "."             ,      (.., , ).    ,    focus   .
+      ()  [Organization]   , .  perception       ;          protection_effect        .    (..,     ,   )   personality  (.., )    extrinsic_rewards    ( ),           ,      .  ,   personality      segregating    (..,  )      ,           .    "  "     ,  possibility_effect            .                ,          persistence     . ,     "." ,    (..,   )       .         .,           ("          ,  ,        "),  ("  "),   ("       ") ( ).      ,    .      (  )        ,    
+================
+] 
+ 
+ 
+            ;    ,      ,       (..,  , ;    , ;    , ;    , ).
+          [function]     .   ,               ""                 extrinsic_rewards.    ,   , , ,   (   , ). personality           imagination ,   , ,   .        extrinsic_rewards  ,  ,   ( ),   (..,     )     .                 .        ,       -                           ,         ""     (.., ,  ). , "."    ;          ,                 .            ,          .
+                          .          ,           ( ) ,   ,   .                  . 
+.    
+  ( )         (  ) loss    ,  
+================
+ 
+/:      [policy] 
+[. : 
+      ,       .      "  participant_modeling"  ,   ,   ,    (),  ,  ,        personality   ( ).        ,   ,     . ,   mastery_experience  ;           physical_quality   ,    "  "         .          loss     ,                      ,        (..,  ,  )       . ,                  perceived_vulnerability          . 
+
+   ,                .                   ,      . 
+================
+] 
+ 
+ 
+ .       
+ 
+       ,    ,     impulsive_effect  (.., , ,      ;   ),          (..,  ,  , , , Stone_Panda , , , , ,   ,   planning ) ( ).           ,      .                 fear_arousal    perception    ; ,  
+
+    . 
+================
+ 
+/:      [policy] 
+[. : 
+           . ,       ,      protection_effect             (   , ).  possibility_effect   loss                . 
+ .         
+.   
+          [activity ],     (.., ,  , ),     , ,   .       ( )            ,  ,    ( ),  gain         ,           . ,     ;                 .       , 
+
+ " "                (..,  ,  ,  ł). 
+================
+] 
+ 
+ 
+    personality     ,      . 
+ .          
+ 
+    (..,  )                ; ,                          .        , ;      ,    ,     ( ). ,      -        -      ,       .            extrinsic_rewards,      (ö, , ,   , ).   [authority]      , , ,        .         (  )          history ( );       techniques ()      ,   combining,        .  
+
+    . 
+================
+ 
+/:      [policy] 
+[. : 
+        ,                   ; ,       combining                       ,   .     (..,     )    , ,     (  )     ,      -  ,        .       ()             combining  combining       (  . , ).                ,                    extrinsic_rewards. ,         ,                 .  ,      (.., , ,  , , )          (.., , , ). ,      protection_effect   ,  , , , ,  .                  (.., " personality ").     personality,  ,      planning, intelligence ,     .        ,   protection_effect        
+
+ " "         (..,   /    )              .   Careto     . 
+
+        ,  ://. (   , ) [://./]. 
+================
+] 
+ 
+ 
+  ,         . 
+.   
+       impact , personality  ,   ,          ,  ,   .             ,          (..,     perceived_responsibility ,   ,   )  .      ,    (..,  , ,   ,  )     $   .   , ,                 ( );   ,     personality         ( ). 
+ .       
+  ,       impact , , ,       ,         .  
+================
+ 
+/:      [policy] 
+[. : 
+        imagination  ""  ""           ( , ).       (.., " , ,  ")        ( ;  , ).  ,             ,         possibility_effect     loss   ,    ,     (   , ). 
+.     ,    
+,  
+   ,    (  intelligence   )      "       "           ( , ).        ,     personality ,        ( ).                           ,               (..,    ,   ,       intelligence,    ,   ) (..,     ).                     [] ,   perception         [capability]       behavior_control-ability                   .
+                      ,  isolation_effect       , [],        [authority ].    ,     ;       ,     
+================
+] 
+ 
+ 
+ (; ..,  )           ,    .  ,      intelligence        ,      intelligence   (..,  ) .                   ,          impact          [authority] (..,               ,    ,        [authority]          ).
+            ,      intelligence    . ,        ,           impact  ,        .   judging                       perception  ,                 fear_arousal. ,   impact       ,   .                ,          ,  ,           ( ;  ;  ).
+ ,          ""   ;  ,        ()  ()     ,  ""  ""        . ,   physical_quality    personality       ,   " "         (   , ;   . , ;  , ;  , ;  , ).           ,           judging  .  ,   
+================
+ 
+/:      [policy] 
+[. : 
+         $,                . ,         ,    loss  $,                    . ,             ,      "physical_quality "   (   , ;   . , ). ,       loss  ,     personality      mastery_experience        ,         , [],  .                ,                     loss .                 ,                loss .                   techniques  , ,        .   ,   persistence     ,  ,  .
+          ,              behavior.            ,                     perceived_uniqueness  ,                , [],   .               ( )     [authority ].          ;    ,                         ( , ;  , ).    segregating       .       intentionality 
+================
+] 
+ 
+ 
+       ,                . ,   (..,  ),  (.., , , , ),   (..,        )   .
+            -         ( )       social_circumstance ,          . ,         ,          ,  segregating       gain    opportunity_for_criminal_acts  .  ,        ,         ,         ,          . ,     belief                         ,               [experience]        (   , ;  , ).
+                 process      personality  .    physical_quality,               (..,  , , , ,  ).  ,      task  (;             ),          ,        isolation_effect         process (, ,   , ).             ,  , ,   ,  ,    ,  .
+      ,             [].  task     , [],         
+================
+ 
+/:      [policy] 
+[. : 
+   ();  ,                .   ,    ,       ,  ,          segregating        .             .  ,      (..,   process        )   $,  ,    $,          (, ,  , , ).    ( gain      )        ,                 combining           [activity ],          ,   process   .               (.., ),           ,        ,    gain .
+ ,                       .           perception   " ," ","  "  ,"          mastery_experience          [knowledge]        techniques  ( ,  ;    ; , ,   ;  ;  ;   . ).                    behavior_control-ability    ,                     .              /          ( ,    ; , ,   ;    ; , ,   ),  perception          ,  
+================
+] 
+ 
+ 
+,    ,          ,            . 
+.       
+ 
+                   .                    , [],   (  ,  ;  ;  ),         behavior_control-ability       .    physical_quality,       (   , );                .                  perceived_vulnerability  Interception  ,         ,         perceived_vulnerability,           perceived_vulnerability     .  ,       ,        ;           ,               ( ).     ,                  ;        personality   .  role                 ,              personality               ;      ( )  /  combining  ,  ,     , [],     ,           task  ( , ;  , ).           . 
+================
+ 
+/:      [policy] 
+[. : 
+.   perception :    extrinsic_rewards 
+  perception    techniques   . ,                        (..,     ).                techniques     (.., ),      "    ...           " (  . , ). ,     (      )      , [],   ,    extrinsic_rewards             .  ,         " [division ],"      , , ,  .      ,   ( )         [] .              satisfaction_of_needs   ,     ,                  (..,  ).                 protection_effect      .
+               techniques       ,  gain      ( , ;   . , ).       gain             (..,  , ),     " "      protection_effect   (  . , ). ,                  protection_effect      ,    (.., , ),   belief    techniques   .                 intrinsic_rewards,     
+================
+] 
+ 
+ 
+ ,   segregating,   process   personality.  personality                ,     possibility_effect .
+ ,               perception         ( gain       ),    protection_effect    [activity]   .       mastery_experience          (..,    , ;   . , ;  , , ),           ,          . ,       ( )          ,            . ,          .           ,               (  . , ).  ,       (      )  ,           , [],      (    ).    gain   perception     techniques , ,        ,      , [],   vulnerabilities              .
+ ,                 physical_quality.  "        source      ,"      ,    perceived_vulnerability           ( , ;  , , ;   . , ).            ,     ( , ),  
+
+                  .   ,          . 
+================
+ 
+/:      [policy] 
+[. : 
+          ,   "    [norms]           [function]" (  . , ). ,                       "       []          " (  . , ).        ,                 perception        mastery_experience  mastery_experience    ,           . ,      ()        extrinsic_rewards  gain         .     , ,                intrinsic_rewards,      Collection         (  , ).      ,    ,             ( ) ,          physical_quality.   (, ) , " [] behavior     ." 
+. belief 
+                 impact                techniques  behavior_control-ability      .                      ,   ,  focus         perception         , ,    .  ,       personality       
+
+              , . 
+================
+] 
+ 
+ 
+     .             ,         , [],    vulnerabilities   . 
+================
+ 
+/:      [policy] 
+[. : 
+,  . & .  :  
+, . 
+, .   :    
+. :    , . 
+,    .    [] :   
+  . : , . 
+,    . "   
+:           ." 
+       
+ (), ,  ( ): . 
+. . " ." ://./. 
+ö, ,  ,  ,   
+. ": , ,  ." 
+    , .  ( ):  
+. ://..//. 
+,    . "   role  
+  ." :     
+    , .  (): . 
+, .        
+. :      
+  . , .  (): . 
+  intrinsic_rewards  (). "    
+  ."  .   
+ , . 
+://..////.. 
+://./. 
+, ,  ,   . " 
+    techniques  ." 
+   intrinsic_rewards , .  (): . 
+================
+] 
+ 
+ 
+,  .   perceived_vulnerability :  
+   .     
+(): . 
+, . "   :  appraisal  
+     ."    
+       ():  
+. ://./ 
+. "     
+."   , . ://./ 
+. 
+, . "       ." 
+.    , . 
+://../// 
+. ://./. 
+, . "    :    
+    ,  ."   
+       , . , 
+(): . 
+, . "  :   ." 
+    , .  (): . 
+,  . personality  .  : , 
+. 
+     , . . . , 
+ .  (). 
+, . "    personality  
+."     (): . 
+   (). "   ."  
+  .   , . 
+://..///// 
+/.. 
+://./. 
+================
+ 
+/:      [policy] 
+[. : 
+   (). "      
+  .".   , . 
+://.../////.. 
+://./. 
+,  .,  ,   . " 
+    :   
+    ."  :  
+    &   
+, .  (): . 
+,  .   . . "    
+       
+."    . , .  (): 
+. 
+,    . "   
+:       ." 
+    , .  (): . 
+://./. 
+, . "     
+."  .    , . 
+://../// 
+. 
+://./. 
+    ( ). ":    
+       ." 
+  .  , . 
+://..///.. 
+://./. 
+,    . (). : 
+       . 
+    : . 
+, .. "        ." 
+       (): . 
+, . "      , 
+  ." .  , . 
+================
+] 
+ 
+ 
+://.//// /. 
+://./. 
+,  .   . . "    
+         
+ ." , behavior,   
+ , .  (): . 
+,  .   . . "judging    
+intrinsic_rewards    ."   
+  intrinsic_rewards , .  (): . 
+,  .,  . ,   . "judging 
+[]        
+."   : , ,  ,  
+. :  , . 
+   task  (). "  
+ ."    .   
+ , . 
+://...////. 
+://./. 
+, ,  ,  ,  ,  
+ . . "  possibility_effect    
+:   focus   , ,  
+     ." 
+      . 
+://./// 
+.. ://./. 
+, . "   :   
+."    . :  
+, ., . 
+, . "       
+."    : , 
+,      ." ,  : 
+  , . 
+================
+ 
+/:      [policy] 
+[. : 
+, . " , ,  ." 
+     (): . 
+, . "       
+."  ,  , . 
+, ,  ,  ,  ,  , 
+ ,  ,  . "    
+    ."    
+  , .  (): . 
+://./. 
+    (). " ."  
+ , . ://...//. 
+://./. 
+, .      satisfaction_of_needs   
+ .    , . 
+://..// 
+. 
+    .   perceived_vulnerability 
+self-efficacy   [action] . . 
+://../ 
+//// 
+.. ://./ 
+. 
+, . ",    
+ ."      , .  
+(): . 
+, .  :     ( 
+).  : , . 
+, . "    $   focus  
+   ."    .  
+  , . ://./. 
+, . "    ."   
+ intrinsic_rewards .    , . 
+://..///// 
+================
+] 
+ 
+ 
+.. ://./ . 
+, . " situational_circumstance perception  personality 
+."     .   
+ . ,  . ,   . . : 
+ , ., . 
+, ..,  ,  ,   
+. " ,  :    
+     ."  
+ .   , . 
+://../// 
+///.. ://./ 
+. 
+, ,  ,   .  : 
+  .     (): . 
+, ,  ,   . " 
+,    perceived_responsibility :  
+    ,"    
+ . , .  (): . 
+, . " perceived_vulnerability   :     
+."   . , . 
+://../ 
+/. 
+://./. 
+,    . "evaluating   
+      ." 
+      ,  
+: . ://./. 
+, . "    :    
+ ."      
+   (): . 
+, ,  ,  ,   . 
+" physical_quality     :    
+  ?" intrinsic_rewards  , .  (): . 
+================
+ 
+/:      [policy] 
+[. : 
+ . : .   
+://..//.. ( 
+  , ) ://./. 
+ .   .   ://../ 
+(   , ) ://./. 
+ . .   
+://../. ( 
+  , ) ://./. 
+,   , . . "   ." 
+    ,  , . 
+://./. 
+, . :       
+ physical_quality. :  , . 
+, . "   :   
+     /."  
+ &  belief  .   , 
+. 
+://..//.?=&= 
+. ://./. 
+ . "       ." . 
+://.//.. ://./ 
+. 
+================

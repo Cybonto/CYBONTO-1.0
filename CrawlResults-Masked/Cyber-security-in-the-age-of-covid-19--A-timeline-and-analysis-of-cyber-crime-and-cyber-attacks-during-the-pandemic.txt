@@ -1,0 +1,958 @@
+ 
+    physical_quality  :        
+    
+  ,  . ,  . . ,  ,  , 
+ ,    
+,   , 
+, , .@.. 
+    ,  , .@.. 
+  ,   , ...@.. 
+   ,   , .@... 
+     ,   , .@.. 
+:. [.]    
+                                [norms]       .     impact       ,          [circumstances]      .   frustration_of_needs          satisfaction_of_needs    gain       . 
+                 learning    .                     .                       ﬁ   ,             ,        .   gain        focus                 . 
+; ;  ; ; ;  ;  ; 
+.  
+   ()         perceived_vulnerability ,     isolation_effect            .     ,    Organization ()   ()    .  ﬁ      , [] .     
+ ,      vicarious_experience ﬁ perceived_vulnerability    ; ..,    ,      ,    .   ,          (.., )   (.., , )[, ],   protection_effect [, ],      () []     [, ].        ,          .                     .           ,    (.., [])       , frustration_of_needs  frustration_of_needs  .  gain,               ,           . 
+         [].    ,    ,        ()         ()      ()          personality perceived_vulnerability ()        [].       Phishing,     (.., ,  ) .        , ,    appraisal          .   []      
+================
+,      ,  ,     .                 personality . 
+      protection_effect              .          personality       ,    ,          .              ,           .                   [policy ].                  ﬁ       ; , ,       .      focus   ﬁ  ,       impact   .    ,  ﬂ        ,               perceived_vulnerability.                                 .                      . 
+     .   ﬂ      ,    personality          /.                focus        focus   [activity ].       ﬂ    (      ).       impact           perceived_vulnerability.           . 
+.   
+             ,       , ,   ,  .             [],      $    (  $   )[]          loss [, ].     [] 
+ 
+  perceived_vulnerability  (         ),          . 
+,   ,       [],  ﬁ       ,     :  ,  motivation   .        ,  motivation          ,             (..,      perceived_vulnerability       ).    ,    [activity] belief ()[]    []      ,           ,           .           ﬁ     ,    ﬁ intrinsic_rewards, , constraint  ; personality      .  ﬁ "personality "              []. personality      ﬁ vulnerabilities   ,       ,    vulnerabilities. ,  ﬁ               .    gain  ,   , fear_arousal        [, ].    personality     /perception     ,       . ,       constraint                .     constraint,    ,  ,        impact           . personality       intrinsic_rewards,  ,             ﬁ   .   loss,  perceived_vulnerability  ﬁ        [].   ,  personality    experiential_awareness   gain  ﬁ ; ,    :
+  :      
+ loss       
+     [].   
+,      
+   ,   
+      
+       
+ intrinsic_rewards .      
+================
+      , 
+         
+[],    [],   
+ ﬁ    [].
+    :    , 
+  loss     
+   .      
+,       
+      []. 
+      loss 
+  ,   possibility_effect 
+        
+ ,       
+ ,      
+ [].    
+      .  
+       ,  
+        
+  [].  ,  , 
+   .
+  :  ,      
+        
+ [].       
+  , ,     extrinsic_rewards 
+  physical_quality .   , personality 
+       .  
+ learning ,     
+Phishing,       
+      ,  
+   Phishing   personality   
+[]. 
+           ,             .       ,            :   ,       [activity ],  fear_arousal    [, ].     ,     frustration_of_needs   gain        . ,  impulsive_effect    ,            ,             . 
+   ,         ﬁ [],  Phishing       %   [].   ,        Phishing      [].  gain   extrinsic_rewards,    extrinsic_rewards      (..,    ()      ),   ﬁ  
+ 
+     ,             [, ]. 
+Brute_Force        ()     [],     ,     .                  ,       persistence.   ,            [, , ].         perceived_vulnerability,     ,  ﬁ      personality     .     techniques        ﬁ          impact    . 
+.     
+ 
+          personality           ,  personality  ,             .           simplifying        ﬁ        [, , ].         ,        ,          ,        , , .   ,     ,         []. ,               [, , ]. 
+. perception   extrinsic_rewards 
+  ,         .  behavior_control-ability          ,    ( ) ,        focus ,    .     possibility_effect    . 
+) :               .               ,   , , , , 
+================
+ .          ,            [Organization] []. 
+)    :         ,         combining     .       ,  ,     .                        . 
+              ,       ﬁ ,    ﬁ     . ,        ﬁ,   ,    ﬁ ﬁ ,     ,   ﬁ   .     focus        . 
+,             .          (  ,    ),  ,   ,    .               source,          judging   perceived_vulnerability,        .          ﬁ     ,       .                ,              ,            . ,        perceived_vulnerability        .            . 
+           .       learning   .                ﬁ      .   belief   ,          [],              [].             [].                     learning   .        .         ﬁ 
+ 
+              [, ].             . 
+ :        extrinsic_rewards     .    (       participant_modeling ),  (  ),  (     focus  ),   (     focus  ). 
+ :           .          []   personality          .      ,      :  , , , , (   , ﬁ     [Organization] []), (   , ﬁ      ,   []).    ,      : (    []   []), (        []),   (     []),   (     []). 
+ :    ﬁ           .       ,    ﬁ,    ﬁ     ,           []. 
+ :          ,      segregating   .     )    , )   extrinsic_rewards     , )      ,  )    . )    :       extrinsic_rewards       ,    ﬁ     .     focus       .           (.., [, , , ]),      [].    ,         ()   
+.. .. .. .. 
+================
+. .    [] 
+.  ﬁ           ﬁ  . 
+        :    [].      , "       ,          ()"[].   , "  ,             ,          ()"[].               .             .  ,  Phishing     (..,   )           .             ﬁ ,      ( ﬁ, )       .  belief           . 
+    ()          (,    )    [, ].   ,  mental_calculation       ﬂ      ,         (.., vulnerabilities)    . 
+Phishing,     ,            participant_modeling  [action] (.., participant_modeling     )           .      ,        (   ). Pharming    Phishing         ,      (..,      )      .         ,       
+ 
+ .             ﬁ intrinsic_rewards     .      ,      participant_modeling  ,  ,  ﬁ. 
+,      ()              .     ﬁ     ,    possibility_effect   [skill ];  intrinsic_rewards     vulnerabilities  isolation_effect  .            ,        .           [, ],      .         ﬂ     .  [goal]           ,      ﬂ. 
+                perception        . 
+)    :   ,       .  ﬁ  " "         .      ,                   .       " "        . 
+      ," ".  judging  ,   ﬁ          ,   .  intelligence                        . 
+)    :           ,       
+================
+                 .         ,             .  syllogistic_rules                 . ,          perceived_vulnerability ,                   ,                   ,     ,         ,                . 
+,             perceived_vulnerability     . 
+.   
+  ,  focus     .                   .      ﬁ    , ,  , , , , , ,         .                 : :Phishing ( ), :. :Pharming, :, :, :     :ﬁ .      perceived_vulnerability         protection_effect    live_modeling. 
+          .   ,       .          ,       .        ,        . ,       ﬁ                . 
+  ﬁ     ﬁ      :   (..   ),       ,      intrinsic_rewards      . 
+.       
+             intelligence,     
+ 
+       focus  simplifying   .          ,       [policy] /      .          ﬁ   .   ,      ﬁ        []   ,     . ,                     opportunity_for_criminal_acts      ﬁ .            learning               .    (),   ,             []       (), £4.          ,   Phishing /    [].  ,      ()       []   (    )      []. 
+          ﬁ    .            . 
+           ,          ﬁ   [policy] .      ﬁ      .                 .           ,               .  ,       ()   personality          . ,          personality          .  ﬁ   Phishing    personality     .   ,                                   .    ,           []  :  £5bn perceived_vulnerability    
+================
+ 
+. .            
+================
+ 
+. .   
+================
+  
+     
+ 
+. 
+ 
+ 
+ 
+ 
+[] 
+ 
+  . 
+      Phishing     
+ ﬁ 
+  
+[] [] 
+. . 
+  / 
+  / 
+/ / 
+- / 
+     
+[] [] [] [] [] 
+ ,       
+..  .. ..  
+    Phishing                             
+      
+Phishing      
+  Phishing     
+ appraisal                       
+  
+     
+/ / / / / 
+/ - / / / 
+            
+[] [] [] [] [] [] [] [] [] [] [] [] 
+            
+  .. . . . .. .. . .. .  
+Phishing      
+        
+                 perceived_responsibility extrinsic_rewards Phishing       ( ) 
+        
+  /           
+        
+                 ()    
+  
+/ / / / / / / / / / / / 
+/ / - - / / / / / - / / 
+           gain 
+    
+    
+[] [] [] [] 
+    
+.   . 
+       
+  .              
+ﬁ   
+ 
+[] 
+ 
+. 
+/ / / / 
+/ / - - 
+/ 
+- 
+ 
+[] 
+ 
+. 
+ Careto                .                      $,  
+extrinsic_rewards   
+/ 
+/ 
+  
+[] [] 
+  
+. . 
+                    ,    
+   
+ 
+[] 
+ 
+. 
+  
+[] [] 
+  
+.. . 
+/ / 
+- / 
+/ 
+- 
+/ / 
+ - 
+     
+[] [] [] [] [] 
+     
+ ...  .  
+         combining   . combining        
+          extrinsic_rewards        .   .         .   ,    extrinsic_rewards        Phishing  
+ ﬂ         
+      
+      extrinsic_rewards                 frustration_of_needs    
+loss 
+  
+[] [] 
+  
+. . 
+/ / / / / 
+/ - - / - 
+/ / 
+- - 
+         
+              : :Phishing ( ); :Pharming; :; :; : ; : 
+protection_effect        ;           ;    protection_effect     ;  £500m perceived_responsibility        opportunity_for_criminal_acts   ;         ﬁ;         . 
+ ,       
+  protection_effect    .   :    protection_effect        ( );  perceived_responsibility  ();      opportunity_for_criminal_acts  ();  possibility_effect      ();     ();            (). 
+    gain     
+================
+ 
+  
+       
+  
+ 
+,   
+       ;      
+     ﬁ      
+ 
+ 
+ 
+ 
+                           attending . 
+ . £60 frustration_of_needs ﬁ,  ()   £100 
+ perceived_responsibility     simplifying     £150     physical_quality      perceived_responsibility    extrinsic_rewards              
+ 
+     
+certainty_effect               .       combining       ,              .      perceived_consensus extrinsic_rewards  £250 (),   ﬁ   (),     (, , ),       .             . 
+   belief                   .            .           ,   . possibility_effect      , ,  .         .   ,           perceived_responsibility /loss  .       process        learning  ,  ,   (behavior_control-ability   intrinsic_rewards    intrinsic_rewards ),        ,        . 
+.       
+          focus         simplifying       physical_quality 
+ &  
+ ,,  ,,  ,, 
+ 
+ ,, 
+ , 
+    . combining     perceived_responsibility       possibility_effect   ﬁ intrinsic_rewards extrinsic_rewards.        .    perceived_responsibility /loss   
+        perceived_responsibility            .     
+ frustration_of_needs  
+ ,, 
+    
+ ,,  ,,  ,  , 
+Phishing                 
+    Phishing . 
+  .      ﬁ      (),  ﬁ       .        ().    ,            .             :
+  (%)  Phishing /  
+  (%)  
+  (%)    
+  (%)   
+. .   [] 
+================
+  (%)  ﬁ 
+  (%)  Pharming
+  (%)   
+    ,              .            ,  ,     ()  Phishing ()   extrinsic_rewards      ﬁ  ().        ,,. judging                   .       :
+ ,: =, %
+ ,,: =, %
+ ,: =, %
+ ,: =, %
+ ..: =, %
+ ,,: =, %
+ ,,: =, %
+ ,: =, %
+ ,,,: =, % 
+                     .       ﬁ      [goal]         , ﬁ                     .  ,  ,,  ,,      . 
+                  ,    .  ,       %    .                     .            .    ,            ,      ﬁ       ,       ,    Phishing . 
+    mental_calculation       ﬁ .     Phishing      (=)    .      ﬁ [goal ],     ﬁ .      : ,,,     ,,      ,. 
+                 ,         
+ 
+          .         .          .        combining    ﬁ   .               physical_quality.  ,         ()    frustration_of_needs ﬁ ()   ,           ()      ()    .  ﬂ       ,     Phishing ( ) ,  ,       .  combining,     %    .   , ,  Phishing     loss   possibility_effect extrinsic_rewards .     ,        ,  ,      (), ,     .  ﬁ            intrinsic_rewards,    [goal]  .  ,      ,     ﬁ         , "  /              "[][]. ,  [] : "             ". ,       ,   personality ( 
+. .      
+================
+      ),          [, ].  intrinsic_rewards             ,         [],                 [].          / .        ﬁ   . 
+  gain   extrinsic_rewards  Phishing     ﬁ             [].       ,   ,                  ()    (.., ., .,       []).  ,   ,   ,     ,      [].                    ,     intrinsic_rewards.  ,       ,    ,        . Pharming          %  .      ,      . 
+     /ﬁ     fear_arousal     ﬁ ﬁ.   ,      Phishing           .   ,                ,         [].  Phishing intrinsic_rewards  ,         extrinsic_rewards : "         loss      personality  ,    ".               participant_modeling        .           intrinsic_rewards         []. 
+       ,      .  ,   ﬁ        protection_effect,    ,    /       gain       
+ 
+ [].     , ,        .      ()               "       protection_effect, , , focus  "  [, ].    ﬁ ()     ﬂ                 [],    ,        ()   judging              []. 
+           (   %  )     .                          extrinsic_rewards  [].  gain     ,             (      ).   extrinsic_rewards,      [] : "      extrinsic_rewards,          ".     fear_arousal     ,    (..,    )   ﬁ    . 
+                  .   ,       ,   %  .               .            ,  , , , , , , /,  (     . ) , , ,   . ,  ,    perceived_vulnerability       ,            ;          []. 
+   ,   ﬁ-                  .       , ,     [, ],       .   ﬁ                       ; .., 
+================
+           loss  personality .               ( )   .   ,    ,   ,    ﬁ       ()  ,       [activity]       []. 
+       : ,                   ,     ﬁ            [];  learning   ()                   [];    .,                 , ,     [].    ,         ,     loss, .., , ﬁ, ,  ( )  []. 
+       ﬁ    combining (%)   ,       .           ,        . 
+  ,     , "     [activity ],   ,     ,       ﬁ      "[].                   [].   ,  personality perceived_vulnerability ()          ﬁ    ,    ,      .  [goal]        (    ),     personality    personality  (..,  , ). 
+          ,   (            )   vulnerabilities   personality  ()   ﬂ[].        .          ﬁ, ,      ,      
+ 
+    ()        / []. 
+. IMPACT   
+    ,   isolation_effect                 ,       ,        -        .           ,    ,    ,      .      impact        .                .    perceived_vulnerability ﬂ,  , personality        ,        . ,     personality   personality          ( ),     loss  isolation_effect        . ,   ﬁ personality        impact appraisal ()     protection_effect  .     impact             .   perceived_vulnerability ﬁ,   :   , perceived_vulnerability     perceived_vulnerability    perceived_vulnerability   perceived_vulnerability. , ,              ,          .             perceived_vulnerability   ) perceived_vulnerability , ) vulnerabilities, )  /process   )  : [exposure]    perceived_vulnerability      .         perceived_vulnerability                   .    ,   ﬁ              ,   ﬁ    []. ,          (, , )       gain     . 
+, personality       mental_calculation       impact         ( , 
+================
+. .  Impact   
+[]).                 .      ()               ﬁ          [].  gain,                 - ,         [activity ],      .                           .    possibility_effect           simplifying    .                   []. ﬁ          protection_effect       ,         []. 
+   gain   , 
+ 
+                combining certainty_effect       impact   .               personality ﬁ         [].      ,                           [].          .                Collection   ﬁ  simplifying  .         ; ,          . 
+                    gain  intrinsic_rewards       .  process    process - 
+================
+               perceived_consensus,    personality               .                  ,   syllogistic_rules        ﬁ       [].         (   )              .     protection_effect personality        ,        task. ,          &             [, ]. 
+                             [].  gain     impact            ,     ,   ﬁ   . ,       perceived_vulnerability        ,    Data_Destruction                .  ﬁ        ﬁ            perceived_vulnerability     []. 
+. belief    
+           [circumstances]    .                                         extrinsic_rewards. 
+  ,    evaluating        ,        .      ,          .  gain  ,      ,                      protection_effect .           
+ 
+            protection_effect         []. 
+                .      Phishing        ﬁ    .  ﬁ          ,  ,      ﬁ .        gain    extrinsic_rewards,  Phishing      .       ,      ﬁ             .    gain     ,                     gain            .        /            .       .                    .                 ﬁ  syllogistic_rules.                          ﬁ  . 
+ 
+[] . . . (), "   () 
+," , ://../, ( 
+  . 
+[] , " live_modeling  
+ [Organization]  isolation_effect   
+," , ://../ 
+/// 
+ 
+/, (   ). 
+[]  , " live_modeling  
+    ," , 
+://...// 
+ 
+, (   ). 
+[]   , "  
+    ," , 
+://./// 
+/ (   
+). 
+[] . , "    
+   Phishing ," , 
+://..///// 
+ 
+ (   ). 
+================
+[] , " ﬁ:  
+   perceived_vulnerability," , 
+://.../ 
+/ 
+ (   ). [] , " Phishing :  
+    ," , 
+://../ 
+. (   
+). 
+[]  , "  protection_effect    
+ ,  Phishing   ," , 
+://..///// 
+ ( 
+  ). 
+[] . . . , "  :   
+         
+,"      . 
+, . 
+[] , "    
+   ," , 
+://...// 
+ (   ). []      ()   
+     ()  
+     (), 
+":      
+," , ://...// 
+ (   
+). 
+[] , "     ," , 
+://.../ (  
+ ). 
+[]  , " ﬁ- 
+   ," , 
+://../ 
+ (   ). []  , "  , 
+ ," , ://. ./ 
+//// 
+ (   ). 
+[] . , . , .  , . ,¨ 
+. , . , . , . ,  . ,´ 
+"evaluating   loss  ,"  
+      (), . [] . , personality  intrinsic_rewards   
+. , . 
+[] .   . . ,    . 
+ ., . 
+[] . , "     appraisal  
+physical_quality   [activity] belief,"    
+, . , . , . , . [] . . ,   extrinsic_rewards;  focus   
+   .  , . [] . , . ,  . , :   
+:   .  , 
+., . 
+[] .   . , "personality  : 
+    ,"  
+  , . , . , . , . [] . , "   
+    ," , 
+://../// 
+/ 
+ 
+. (   ). 
+[] , "  ," , 
+://. ./history // 
+ (   ). 
+[] , "     
+    ," , 
+://...//// 
+ ( 
+  ). 
+[] , "     Phishing 
+," , ://..// 
+/ 
+(   ). 
+[] . , "  ﬁ   
+," , ://. ..// 
+/ 
+behavior / (   ). []  , "  
+ loss   ," , 
+://..//// 
+ (   
+). 
+[] . , "  loss  , 
+ ," , ://../ 
+/// 
+. (  
+ ). 
+[] , "   !      
+    ," , 
+://..//// 
+/ (  
+ ). 
+[] . , "   ," 
+, ://..// 
+ (   
+). 
+[] . , "    
+  Phishing   personality   
+," , ://../perceived_vulnerability - 
+/// 
+ 
+(   ). 
+[] , "#," , 
+://../// 
+/ 
+(   ). 
+[] , "          
+," , ://..// 
+/ (  
+ ). 
+[] .   . , " 
+       
+," , ://../ 
+//// (   ). [] . , "perceived_vulnerability :  Phishing," 
+, ://..////perceived_vulnerability - 
+ (   
+). 
+[] .   . , "  
+      ," 
+, ://..///perceived_uniqueness - 
+/ 
+ (   ). 
+[] . . , "     
+================
+    ," , 
+://../belief // 
+/ 
+ (   ). 
+[] . , " :  gain    
+," , ://./ 
+/ (   
+). 
+[] , " :  
+ Organization  ," , 
+://...// 
+(   ). 
+[] , "   ,  , 
+     () ," , 
+://..///// 
+//. (  
+ ). 
+[] , "    
+  ," , 
+://...//// 
+ (   ). [] .   . , "  perception 
+   ﬁ    
+,"    , ,   
+: , . , . , . , . [] .   . , "   [modeling] 
+ impact appraisal ,"     
+    ﬂ ( ). 
+, , . . 
+[] . , . , . , . , . , 
+. ,  . , "    
+     intrinsic_rewards,  
+  ,"   :., 
+. 
+[] . , . ,  .-xxx. , " 
+       
+,"         
+    :  
+ .     
+, , . . 
+[] .  , .  ,  . , "ﬁ- 
+      ,"    
+ . , , . . 
+[] .   . , " fear_arousal  
+:         
+       ," 
+  , . ., . [] . , . . ,  . , ".  
+,"  ,  , . , . , 
+. , . 
+[]   Organization (), "   
+  ()      ," 
+, ://../// 
+// 
+()-and-the-virus-that- 
+ (   ). 
+[] , " -  ,"  
+   (), . ., , 
+://...// 
+ (   ). [] . , . , . , . ,  
+. learning, " perceived_vulnerability  APT32  
+      perceived_vulnerability 
+       
+ 
+," , ://.ﬁ.//perceived_vulnerability - 
+/// 
+. (   
+). 
+[] . , " Phishing  
+   ," , 
+://./ 
+// (   
+). 
+[] , "    
+     ," , 
+://..// 
+/ ( 
+  ). 
+[] .   . , "    
+   ,"   .  
+  focus  ﬁ intelligence   
+ behavior (), . , . ,  
+  :    behavior 
+   . 
+[] . , . , . ,  .  
+, "     :  
+ ,"     protection_effect  
+. , , . . 
+[] , " ," , 
+://.../ (   
+). 
+[]   Organization (), " 
+  () ," , 
+://..//// 
+ (   ). 
+[]    ,   , " 
+     ()." 
+, ://...//// 
+ . (   ). [] .-xxx. , .-xxx. , .-xxx. ,  . , 
+"     [modeling]  
+   [],"      
+ , . , . 
+[]   Organization (), "  
+ﬁ gain   ,  vigilance," 
+, ://..//// 
+ 
+ (   ). 
+[] , " ," , ://./ ( 
+   ). 
+[]  , ":""  
+      ," , 
+://../// 
+ 
+. (   ). []  , "   ,  
+     ," , 
+://..////// 
+/    
+        
+/ (   ). 
+[] . .  , "      
+,"     , 
+. , . , . , . 
+[] . .   . . , "    
+   ,"   , 
+  , . ., . [] . , . , . , . ,  .  
+================
+, "     intrinsic_rewards  
+ ,"      
+  .    
+ segregating, , . . 
+[] . , . , . , . , .  
+, . ,  . , "  
+         
+   ,"  , . , 
+. 
+[] .   . , " :  
+ ,"  ﬁ, . ., , 
+://..../ 
+//// / 
+ﬁ//. (   
+). 
+[] ——, " :   -  
+ ,"  ﬁ, . ., , 
+ 
+[] ., "    "" fear_arousal 
+ Phishing,   perception  !" , 
+://../// (   
+). 
+[] , " gain   ﬁ! " 
+   "  ," , 
+://../ /// 
+ (   ). 
+[] , "   
+   ," , 
+://..// 
+/ 
+(   ). 
+[] ., "     
+    ," , 
+..//. ( 
+  ). 
+://....// [] . , "    
+/// /ﬁ 
+//. (   ). [] , "   
+Tactics :     
+     ," 
+, ://..// 
+/  
+ 
+ (   ). [] . , . , . , . , 
+. , . ,  . , "  
+     ﬁ 
+ ﬁ,"     
+ . , , .  
+. 
+[] . , "   
+ﬁ    physical_quality," , 
+://../// 
+. 
+(   ). 
+[] , " []   ," , 
+://../ﬁ// 
+/ . (   
+). 
+[] , "    ," , 
+://..//thinking / 
+/ (   
+). 
+[] , "     
+   :    ," , 
+://..////// 
+ 
+/# 
+(   ). 
+[] , "    
+  ," , ://. 
+protection_effect ./ 
+/ (   ). [] , " Phishing," , 
+://..// 
+Phishing // (   ). 
+[] . , "perceived_vulnerability :   
+ / ," , 
+://../ 
+/, 
+(   ). 
+    ,  
+," , ://../ 
+/ 
+/ 
+., (   
+ ). 
+[] ., "    
+      
+      
+," , ://../ 
+/. (   ). [] ﬂ, "   
+ -    syllogistic_rules?" , 
+://ﬂ.// 
+ (   
+). 
+[]  , "    : 
+     ...  
+.  , ," , 
+://...//// 
+  / (   ). [] . , "    
+    ," , 
+://../ 
+ 
+// (   ). [] .   . , "   
+    ," , 
+://../// 
+/ 
+ (   ). 
+[] . . , " perceived_vulnerability    
+      
+," , ://../ 
+ 
+ (   ). 
+[] . , "     
+ Careto    ," , 
+://../// 
+ 
+(   ). 
+[] . , ", ,  ," , 
+://..//// 
+/ (   ). 
+[]  , "  
+   ," , 
+================
+://./    
+   . 
+(   ). 
+[] . , "  Phishing ," , 
+://./// 
+ (   ). []   , " @     
+        ," 
+, ://.// 
+/ (   ). [] . , "      
+      ," , 
+://...// 
+/ 
+(   ). 
+[] . , "   
+extrinsic_rewards   ﬁ ," , 
+://..// 
+/ (   ). [] . , "  
+ ﬂ ," , 
+://..// 
+/ (   ). [] . , "       
+          
+       
+      perceived_responsibility  ," 
+, ://...// 
+/ 
+. (   ). 
+[] . . . , "    
+    Phishing  ," 
+, ://.// 
+ 
+ (   ). [] . , "   
+   ," , 
+://../// 
+ 
+/ (   ). 
+[] physical_quality , " Phishing  
+    ," , 
+://../ 
+/ 
+/// (   ). [] , " perceived_vulnerability intelligence  
+:   ," , 
+://..//// 
+/, (   ). 
+[] , "  physical_quality     
+    ," , 
+://...// 
+ 
+, (   ). []  , ":     
+  £4.   ," , 
+://..// 
+ 
+, (   ). 
+[] . personality, ":   perceived_vulnerability  
+," , ://. ..// 
+ (   ). 
+[] . , "      
+Phishing  ," , ://. 
+ 
+.///, 
+(   ). 
+[] . , " : 
+    ," , 
+://../// 
+, (   ). []  , " ," , 
+://.../, 
+(   ). 
+[] . , . , . , . , 
+. ,  . , "   
+    perceived_vulnerability perception ,"   
+      
+,    appraisal (). , 
+, . . 
+[] . , . . . ,  . , "  : 
+  perceived_vulnerability  Phishing ," 
+    , 
+. , . , . , . 
+[]  , "     
+         
+       
+      
+   perceived_responsibility  ," , 
+://...// 
+/ 
+. (   ). []  , "  
+:    ," , 
+://..//// 
+/ (  
+ ). 
+[] , "     ,  
+perceived_vulnerability     ," , 
+://..////// 
+ 
+/ (   ). []    intrinsic_rewards (), " ," 
+, ://.intrinsic_rewards .// 
+ (   ). 
+[] . . , . , . , 
+. , . . ,  . , " focus  
+ perception      
+  ." , . , . , . 
+, . 
+[]     (), " 
+   () ," 
+, ://..// 
+/ 
+ (   ). 
+[]   ﬁ (), "  
+     ," , 
+://..//// 
+/ 
+  (   ). 
+[]  , "    
+  judging     
+    ," , 
+://../// 
+ 
+ 
+(   ). 
+[] , "     
+     ," , 
+================
+://..//// 
+ 
+/ (   ). []  , " :   
+   ," , 
+://../// 
+ (   
+). 
+[]  : , "  
+   Phishing 
+    ," , 
+://.../// 
+ (   ). [] , "    
+    ," , 
+://..// 
+/ 
+/ (   ). [] , "   ﬁ 
+# ," , ://. 
+./// 
+(   ). 
+[] , "  
+  ," , 
+://..// 
+/ (   ). [] . ﬁ, . . . , . , . , 
+ . , "   : ﬁ 
+     personality  
+ ,"   , . , . , 
+. 
+[] , " ﬁ    
+   ," , 
+://..// 
+/ 
+ 
+(   ). 
+[]      ()   
+     ()  
+     (), " 
+:        
+," , ://...// 
+ ( 
+  ). 
+[]      ( ), 
+"    ()  
+   ," 
+, ://. ./// 
+/ 
+ (   
+). 
+[] .   . , "   
+      ," , 
+://..//// 
+/ (   ). []   extrinsic_rewards, "   
+," , ://.// 
+// (  
+  ). 
+[]    ﬁ, "  
+  ():  ():   
+," , ://..// 
+/ 
+/// 
+ 
+(   ). 
+[] . , "   
+ physical_quality    ," , 
+://../// 
+/ 
+(    ). 
+[]  , "  
+    ," , 
+://...// 
+// 
+/ 
+(   ). 
+[] .   . , "   physical_quality   
+ ,"  , . ,  . [] .-xxx. , . . , . . ,  . . , 
+"evaluating        
+:     ," . 
+[] , "    
+       
+   possibility_effect  ," 
+, ://..// 
+// 
+ 
+. (  
+  ). 
+[] . , ":      
+  -    ," 
+, ://..//// 
+/ ( 
+   ). 
+[] . , "     
+     ," 
+, ://./// 
+. ( 
+  ). 
+[] . , ":   
+  perceived_vulnerability   ," , 
+://../ 
+/ - 
+/ (   ). [] . , . , . ,  . ,  
+       
+  :       
+  , .    
+: .     
+,  , . . 
+================

@@ -1,0 +1,751 @@
+  : 
+      
+  
+@... 
+  
+@.. 
+ @.. 
+ @... 
+ @.. 
+       
+ ,   
+isolation_effect 
+      participant_modeling     ,  ﬁ         Collection .                  .          (  personality      ). 
+     :   .               evaluating.            ,       . 
+                       behavior  intelligence - . ﬁ,   possibility_effect   () .       ,  participant_modeling            . 
+ 
+ ;  ; ; ;  ;  . 
+.  
+   ,         personality , , ,   .  ,             [, ].       .                [],       intrinsic_rewards   personality ,    vulnerabilities. 
+                                ﬁ   gain             ﬁ .            ()   .   perceived_responsibility  .   ,  ,         ,   ﬁ  /  .    @.. 
+,   , ,  
+      /().     .  //... $. 
+:://.././. 
+ ,  perception           participant_modeling personality      []. ,               .     ,     participant_modeling        . ,         ,        ﬀ    [, ]. ,       ﬃ      . ,                       . 
+   ,                    :               .              .  []     ﬀ            .           [],    [,],   [],    .                - ﬁ              . 
+ ﬁ  ,        Collection    .     Collection          .              evaluating.  ,   ﬀ     (   )    combining.          intelligence - .    Collection               ,   combining   .                evaluating      (   )  .   perceived_consensus   ,        ﬁ   (  )      . 
+://....// 
+ 
+================
+              : 
+ intrinsic_rewards.    ﬀ       ﬁ  . ,       protection_effect - physical_quality         .    simplifying          intelligence .     personality   ,                 . 
+  .    ﬀ    .  ,  combining      , ,       . ,   combining          . 
+ .    ﬀ          participant_modeling   .           ,              . 
+,        : 
+•         
+         
+.     ,   
+      intrinsic_rewards   
+         
+  .     
+         
+,  , ,  .    
+    ﬁ       
+   . 
+•          simplifying 
+ .  ,  simplifying  ﬀ- 
+       
+.         
+        
+ .   ,    
+          ( )      evaluating (). 
+        :           .       ,  ,     .          :          .          ,         belief   . 
+.   
+     Collection                            .        task :   .         Collection    . 
+    Collection              (  ).        
+ :       Collection  .            ().           ,     ,       . 
+             .             . 
+          .        behavior     .          .        .           combining.              .   ,   
+          . ,   ,                .      .                   .                       (..,       ,        participant_modeling ).         .   
+ 
+ 
+% 
+% 
+% 
+% 
+% 
+     
+ 
+ 
+% 
+     
+? 
+    % 
+% 
+ ? % 
+% 
+   
+ %  
+ 
+ 
+% 
+ 
+% 
+      
+ 
+% % 
+%  
+         ,     
+     learning   ? % 
+  
+% 
+  % ? 
+% 
+%  
+% 
+% 
+% % 
+  
+ :      . 
+ 
+================
+       ,  ,   perception.          .             .           . 
+       : ()        , ()       [experience ], ()           , ()     ,  ()       .   ,        ﬀ  .         ()     .   ,       behavior        ﬀ        . 
+        ,          . .    
+.. :  Collection  
+.    Collection         [].                 ,      .      personality   ,       . ,     ﬁ            .  ,      ,           .  source     ,    ﬁ     history,      . 
+   ,       .      ﬁ               .  ﬁ      .     ()    ﬁ-      .  ,           ﬁ     ﬁ   (..,      ).           (..,      ).  ,      :   .    ,              .     ,           . 
+               ﬁ   .   ﬁ  ,     ∼50MB. ,      ,     ﬁ          . 
+.          ﬁ      (        ). ,          .              .  perception                 combining     ﬁ    .        ,    ﬁ .    
+   ,     .                .             .          .           /        .                . 
+ .      ﬁ combining   ,     ﬀ      .           ,      behavior_control-ability            .   ﬀ            .    ,            intelligence  . 
+                     personality.   : 
+.          
+combining          
+combining   ﬀ   ﬀ . 
+,       
+         ,  
+  ﬁ  . 
+.         
+combining     ﬃ []. .  ,      ,  
+  ﬃ. 
+            .  ,      ()   %  ﬃ      (). 
+.. :  behavior  
+.                  .            : ()               (    ). ()                .   ,          vulnerabilities       participant_modeling   . 
+    ,          behavior   ,  ,        .           (+ behavior)    participant_modeling .            ,        .   ,                           .        ,           ()  . 
+://..///// .  . 
+ 
+================
+ 
+   behavior 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  , ,     /      .   : )     ,  
+ 
+ 
+/ 
+)       history.  .         , /         .  
+       
+      . 
+ 
+       
+. 
+ ,   #    
+. 
+        . 
+ 
+Phishing 
+      
+   , ,  . 
+       ,   . 
+   
+ personality    , 
+,      .   
+   : )   ./ 
+  ,  )  .  
+ 
+         
+        . () 
+ 
+ 
+       /     ,     . 
+  
+  
+ 
+ : )    
+,  )    
+./ .... 
+ 
+  .          
+ 
+  vulnerabilities. 
+ :      
+ 
+ 
+ 
+ 
+ 
+−50 
+    () 
+     () 
+−100 
+       
+ 
+ 
+      [] 
+ 
+ 
+ :      ,      . 
+            .                .  combining,              .                    .         ""       .               . 
+.              .       ﬁ    [action]  .   [action]             (..,      ). 
+   ,        :    .               .   ,     .           () 
+"[action] ": "  ", "": "", 
+"": "  ()", "": , "": "", 
+"": ".", 
+"":  
+"[action] ": " ", 
+"": "", 
+"": "     ", "": , 
+"": "", 
+"": ".", 
+"":  
+"[action] ": " ", 
+"": "", 
+"": "  
+ ( [], []);;", "": , 
+"": "", 
+"": ".", 
+"":  
+ :        . 
+                 .    behavior     ,      ;          . 
+             .           .             behavior     .         (.., ,  )  behavior    ﬀ  (..,      ). 
+         .   ,                    ,    ,    ﬀ.              .     ﬁ     ,   [action]    (..,      behavior ).   ﬁ    [action]     ﬁ    ﬃ , ,  ,   .    ﬁ     ﬁ  . 
+            .    behavior_control-ability   .   ,           ()  ,      . 
+.    
+  Collection      : ,  ,  ,   ( ).    ,                 .   ,               .  ﬁ,             ,                     .        ,                  ,   ﬀ    . 
+ 
+================
+     
+  :     
+  :     
+     
+  :     
+()  -  ()   - : ,  
+()   -  ()   -SMS   
+()   -  / Phishing ()  -   
+()  -   
+   
+()   -Ransomware 
+  
+()   - Clickjacking ()    
+  : 
+()   -Botnet 
+    
+()    - . 
+  
+(..)         
+(.)  :  ,     (..)     
+(.) intentionality      .()      participant_modeling ,    
+(.)  :   intentionality (..)       ,       
+(..)   (isolation_effect intentionality )(..)   evaluating   ""  "" ( ) 
+(.)     ,         (.)  : , ,  
+(.)  : , , ,  /(.)   () :    
+   
+================
+  
+ 
+ 
+================
+ :   . : ,  . : ,   . 
+  ﬀ       .  ,                ()                       .       generalizing               task.                      . 
+                          (   .). ,                  . 
+.   
+.  behavior  
+..  
+,     ﬀ     ﬀ.  [],                   . ,        ,         .   ,  focus           judging  impact      . ﬁ,  focus    [resource]   . 
+    focus      :    .  ,                   .  ,      ,    ,       , : ()      ,      ,     ( ),  ()   , ,  ,        history    .         . 
+                   (..,     )   (    behavior ). 
+.. appraisal  
+      .     [resource]                  .           :   ,    . ,   ,   ,     .                    , {,}         [action] -     .                ﬁ (Collection ),   =   = ..   process        . 
+  ,  perception    .         ,          (   ). .. appraisal  
+   impact        ,  focus       intrinsic_rewards ()   .          ﬀ    . ,                     []. 
+              ()   ()   .     ﬃ         ,    (  behavior)     . ,          ,        .    personality       ﬀ  ,                . ,             intrinsic_rewards.                 . ,   gain          . 
+     ,             ﬀ   .                    [].   syllogistic_rules              . ,      personality     . 
+,      ,  personality          .    personality                 .     prospect,        . .   
+..  
+             [],  %     protection_effect    [].     protection_effect        ().    process  
+ 
+================
+ intrinsic_rewards 
+ 
+ 
+ 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ . . . .  . . . . .  
+ :   intrinsic_rewards              . 
+ judging    behavior        belief  (..,    ) []. 
+           : ()         , ()   behavior  ,  ) perception           [].                    . ,       ,     personality [resource]     appraisal   . 
+.. appraisal  
+mental_calculation    .          .              .   ,         opportunity_for_criminal_acts             .                . 
+       ,             
+ 
+    .   appraisal         (..,   )          . ﬁ,         ,    ,   .      .    
+  ++  , ,         . 
+ 
+滁逛呻滁 
+滁龟侧滁 滁瓜瓜馆囊纵逛邹滁 
+  
+    /      / 
+     
+ :            . 
+    appraisal      
+     .       
+        .    
+            
+(, ). 
+     : ()     
+   ,+ ,     
+        ﬂ  (.., 
+ )     . ()     , 
+   ,      
+  /     . () combining - 
+          
+   .  process     
+ﬀ    . 
+         
+ process  ()       
+     , ()   
+            
+  ,  ()     
+     . 
+    ,   , 
+   ﬀ       
+    perception  [].     
+      ,    
+     ,     
+.        ,   
+,         . 
+   ,       
+    [].     
+ behavior      , ..,  
+       . 
+  ,      
+perceived_vulnerability       .  , 
+            
+  [,]    perceived_vulnerability  
+    ,        
+   . =(),...,        experiential_awareness    . ,   
+      
+ 
+
+ 
+()= ([],[+]) () 
+= 
+.. appraisal  
+    appraisal   physical_quality,         /.       
+================
+ :        . 
+           .    . . . . .  . . . . .  . . . . .  . . . . .     .   . . . . .  . . . . .     .  
+ :          . 
+ﬀ          . ,   appraisal,        ,        . 
+               [].   ﬁ,       ([]    ),      experiential_awareness .          (),              [],          perceived_vulnerability (   possibility_effect ).  ﬁ             . 
+    ()          .            evaluating ()         ( ).       .                  .            . 
+.   
+  ,            .  , [activity]  ,  ,  .                .         (..,         ),     ﬁ    ,      . 
+                  
+.                      .    ()            , ,           :  intrinsic_rewards, &  ,    [activity] .          . 
+.  intrinsic_rewards 
+   ,        ﬁ .      ,        evaluating (    ﬁ)      ,      ﬁ.      ()  intentionality          .        . 
+     ,      ﬁ         .         .  ,         ,              .           ﬁ . 
+ ﬁ                 .                ﬁ . ,          ∼0.%,   ∼26.%  .          . 
+                   behavior (..,     [modeling]    ). ,    mental_calculation        .  ,         ﬁ combining  loss (    )   ﬁ      . 
+               ( ).       :    [],   ,   ﬃ ,        . ,       %   ,      ,      ﬁ   . ,                 . 
+. &   
+              .    ,             .  gain   ,    ,  ,      .     ,        belief   [activity] perception []. 
+            .  ,  [] (,  , .),   personality ,  ,    .            behavior.   
+ 
+================
+ #         
+ 
+ 
+ /,  ,  , / ,  , , , , 
+: 
+ &     Collection 
+ () 
+   
+ 
+   
+ /, , / ,  [activity ],   : 
+   ,    Collection () 
+: 
+ 
+  
+ 
+evaluating  
+ 
+   ()      
+  
+    ()      
+,   , . 
+ /,  ,  , / ,  , , , , 
+ /, , / , . 
+  
+   
+, , ,  [activity ], / , , 
+ , . 
+   
+, / , / , , , 
+,  ,  ,   
+  
+ 
+    
+  
+  
+ ()    ( 
+ ) 
+     
+.      ,  , / .    
+    , , / , 
+  . 
+   
+ :        : ,   [],  [], 
+ [],   [],    []. 
+ evaluating : ... 
+   
+, , , 
+,    
+:   
+  :   
+ 
+physical_quality&   :   
+ & [resource]  :   
+ :             . 
+      . 
+ (. )   . 
+  . (. )  
+(. ) 
+ 
+    
+.% .% 
+  
+  
+ 
+ 
+ :                 . 
+    ,     ﬁ             . ,    ﬁ         . ,  combining                 . 
+ ,         intrinsic_rewards          .                    extrinsic_rewards  . 
+.   [activity]  
+                 ( ).      [knowledge ],         ﬀ          . ,         .     ,        
+            .                     . ,       .         . 
+. belief 
+   ﬁ    intelligence -      .   ﬀ         ,     evaluating        . , Collection              ,               . 
+      ,             ,               .                  .   ,              .  ,         ,            . 
+.        ﬁ :  ,   ,  ,   .          ,   . 
+.  
+[]  ()  . 
+://../// 
+//., 
+.  .. 
+[]  perceived_vulnerability 
+  . ://../ﬁ// 
+/ perceived_vulnerability    ..  .. []   ,  
+,  ,  ,  ,   
+.  :  perception, mastery_experience, 
+ 
+================
+ behavior.       
+    ,  . , . [] .  .  
+..  ..  .  .  ..  
+. , . . :    
+      . 
+     (), . []  ,  ,  ,   
+.   intelligence personality     
+ .    , : 
+- , .    protection_effect  . []  ,  ,   . : 
+personality [policy]    . 
+         
+ (  ),  , . []  ,  ,   . 
+:      
+.          
+      , . []  ,  ,  ,  
+ . :     
+  .  . , . []  ,  ,  ,   
+. :       
+ .        
+   ,  . , . []  ,  ,  ,   
+. :    
+  personality    process 
+   .     
+&  , , , . , . []  ,  ,   
+.  behavior     
+.   intelligence   
+(),     , . [] .  .  ..  . , 
+. . :    intelligence  
+ .    , . []  ,   ,  
+,   . ,  
+     intelligence .  
+& , , ():, . 
+[]  ,  ,  , 
+ ,   . :   
+     .  
+ intelligence  , ():, . []  ,  ,    .  
+     .   
+        , 
+,  ,  . , . []  ,  ,   .  
+      ,  
+  .     , 
+(): - , .  appraisal   
+      . [] .  .  .  . , 
+. . :     
+  ﬁ  .   
+    . , . [] .  . , . .   
+   personality  . , . []  personality,  ,   . [activity]  
+ perception   .  , . []  ,  ,  ,   
+.      behavior. 
+  ,  . , . []  ,  ,  ,   
+. :     .  
+,    (),  
+  ,  . , . []  ,  ,  ,  ,  
+ .  : judging    
+    .  . ., . []  ,  ,  ,   , 
+ ,    .   
+      . 
+         
+  ,  . , . []     .  
+      
+  .     
+(),      , . [] .   .. .    
+  .  , . 
+[]  ,  ,  , 
+ ,  ,  ,   . 
+   .     
+    
+    ,  . , . []  . .  perception 
+   (   ). 
+  , ., , , , . [] . .    .  
+   .  , . []  . 
+://../// 
+/... []  | , . ://../ 
+//.  .. [] intelligence     .    -  
+. ://../// 
+/// 
+..  .. 
+[] .   . . 
+      
+.    , . []   .   perception 
+:  .   :., . []  ,  ,  ,   . 
+:       
+    .   
+ [knowledge]    . , . [] ..   ,   .  
+ .   , .  .  
+   ,  ,  . []  ,  , 
+  . :   source  
+    . ://. 
+.//./////, . []   ,  , 
+ ,   .   
+    .    
+: belief  , ():, . []  . ,  ,   . . 
+ :    Collection. 
+ participant_modeling. . ., ():,  . []  ,  ,  ,  , 
+  . : evaluating   
+     ﬁ.   
+ appraisal , ():, . []  ,  ,  ,   
+,   .     : 
+  Collection . . , , . []  ,  ,  
+,  ,  .  "  []" 
+  .   , ():, . []     .  :   
+  .    , . [] ˆ    . judging   [activity] 
+perception.        
+ intelligence    intelligence :  
+ :   .,. 
+ 
+================
+ 
+.       
+ :         . 
+ 
+.  
+ 
+  
+ 
+  
+          
+ 
+techniques, , ,   ,         .  techniques, ,   ,                . 
+        . 
+  intentionality :           .  
+    ():   , , , ,  , , . 
+   , / , , , , ,  , , ,  .       , ,  :    ,    ,     . 
+       . 
+ 
+ :         . 
+ 
+  
+ 
+  
+ 
+. 
+          
+ 
+     . 
+   . , , ,   . 
+  {, , , (  )}, ,  . 
+ 
+  
+  , ,  social_circumstance . ,  , ,  . 
+   : , , ,   .    : ,   (), ,   . 
+            . 
+ 
+  
+   : , , , 
+  ,  , 
+    . 
+   
+   
+   
+   
+     
+  
+  
+   
+   
+  
+         , ,   . 
+ 
+  
+     . 
+physical_quality 
+ 
+ 
+ 
+  
+       , ,  ,  ,    . 
+   :   ,    . 
+    
+  
+       . 
+  process     / . 
+ :           . 
+) 
+  
+(
+ personality ()  ()      
+ .  ,,, combining     
+           
+   
+   
+   
+   
+   
+   
+  
+   
+  [] 
+   () 
+ personality 
+  
+   
+   
+    
+   
+  
+    ()
+  
+  
+  
+  
+    ()
+ 
+  
+    
+   personality 
+    
+   personality () 
+   () 
+       
+ 
+process 
+ 
+ ()   ()  
+   
+ 
+ ()  
+ () 
+ ()    ()   
+ 
+ 
+   
+
+                  
+    
+ combining     combining     combining     combining     ( )   ( ) 
+  ( ) 
+ ( ) 
+  
+ 
+ 
+   
+      
+.  .  .  
+.  .  .  
+.  .  .  
+.  .  .  
+.  .  
+  () 
+ 
+ 
+================

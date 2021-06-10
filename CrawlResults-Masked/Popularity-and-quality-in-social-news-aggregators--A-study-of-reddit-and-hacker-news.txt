@@ -1,0 +1,247 @@
+      :  focus    
+  
+    
+isolation_effect 
+        syllogistic_rules          intrinsic_rewards .  experiential_awareness     syllogistic_rules                ﬂ     .    focus        ,    .  ﬁ                 ,    ,      .         appraisal       .           ,    experiential_awareness    .                 .   appraisal,  ﬁ           ﬂ  intrinsic_rewards   . 
+:. [.]    
+  
+       intrinsic_rewards          , ,  ,     gain      .    ,   " "    ,            ,               ( ).    mental_calculation -  combining             personality    .  ,         (  . ),  role   ﬂ     (  . ),            (, ,   ). 
+     ,       techniques   :       ?   " "  ?   perception ,             evaluating        .  " ",      ,     ? 
+      , ,   (; )     . 
+  ,                 .    ,       ""                    .      comply_effect           .           .                 intrinsic_rewards  . 
+            ;     participant_modeling        opportunity_for_criminal_acts   .      personality  ,                .        .                    .  ,             ,             .      ,   generalizing,       appraisal  . 
+  
+       syllogistic_rules   intrinsic_rewards         ? , ,            , ,     ,  ,      .          -        ?              ,                     experiential_awareness  . 
+            personality   focus  syllogistic_rules      .    focus   ,    .         comply_effect       ,         .                 .       
+================
+   ,       . . 
+        experiential_awareness    .  ﬁ         appraisal             .        ,    ,   experiential_awareness     ()     .      ,             belief        .        intrinsic_rewards. 
+        ﬁ  "".       [function]   (      )  physical_quality.  ,                  ,         .    ,      mental_calculation              .    ﬁ                   ,         .                      .          process,     appraisal     appraisal  . 
+,              syllogistic_rules    .  ()        ﬁ     personality        .           ﬁ          intrinsic_rewards   . 
+.   
+                  .              behavior   .                focus  ﬂ      . 
+                 personality.  combining               ﬁ     ,  ﬁ       ()               personality       . 
+            experiential_awareness ,   [goal]       appraisal                
+    ,      . 
+.          belief                    possibility_effect  ﬂ .                 ,           .  ﬁ          ,       personality        . 
+  appraisal,  focus  syllogistic_rules      .  ﬁ        belief      .   ﬁ    syllogistic_rules     ,     personality              . 
+    focus   behavior               personality      .  - ,                  ,         perceived_vulnerability      personality. 
+   
+            ,     [goal]   .  [goal]            ,            ,   [goal]   ""      .    (, ,   )        ﬁ           .             comply_effect   combining   . (   )               .          (, ,   )         .  (  . )  (  . ) ﬁ           ,      intelligence         .   (, ,    )           ,  (, ,   ) ﬁ                .                             ﬁ. 
+           focus        ﬂ-   .   . ()         ﬂ              perceived_vulnerability         .   . () 
+================
+      .  appraisal                 .  (   ) ()            ﬁ     ,  ﬁ          perception    .    ,    ()           ﬂ.   ,      appraisal           (  ). 
+       ( ),         .    () simplifying                physical_quality belief   ""  .    (; )    ,                      .    ()       perception    behavior_control-ability         . 
+            source.   perception      ,         focus     . , ,   ()   personality -   isolation_effect :               .         participant_modeling   role   personality - .    () focus  behavior                 ,             . 
+  
+ 
+        "".   "/"         .        .          combining  .          (.),               .               "" .         ,                (.. .//).   ,         " ",   ﬁ : 
+( ) 
+ 
+ 
+ 
+ ;                      
+ , "/"  ﬁ           
+           .                  > .                            . 
+                . ,             . ,       :  ""        ,   " evaluating - ".   " ",        " " (         ): 
+( ): 
+(+ ):
+  
+               ( )        .           ,      "physical_quality physical_quality"  " ".                  impact.        ,        .              . 
+ Collection 
+ combining             //  //   .   ,  combining               , ,  belief    (      , , ).                     .   ,  perception    (; ; ; ),         experiential_awareness  belief ,           + . 
+ ,  combining        evaluating -        ,      , , belief,   (     )   .       (; ; ; ; ),         experiential_awareness  belief               + .                 ;         " Fuzzing ",       .       . 
+    
+          experiential_awareness       appraisal    .      belief           ﬂ   vicarious_experience .        intentionality   . 
+        / . 
+================
+ :        ﬁ      . 
+               .   ﬁ  belief   belief      ﬁ   .     appraisal -            ,           belief    ﬁ    belief .       belief       ,     appraisal      .   belief       [function]      .    ,  ﬁ          ,    ,        . ﬁ,   mental_calculation                  .        ,     belief  intentionality            . 
+           .         ﬁ   ,            .           ﬁ             .     , ,  .              ,  ﬁ               . 
+       .            ,           intrinsic_rewards  .        personality       syllogistic_rules     . 
+  
+             .     ,  appraisal  intrinsic_rewards                  
+. ﬁ,    appraisal                 ,                     .   ﬁ        ﬁ  ,               (  .          ),     possibility_effect ﬁ. 
+. appraisal 
+          comply_effect                .   comply_effect       ,            .              (   ),                        . 
+                  (   ),(   ), (  . ).          belief,   (, ,   ),                    .  perceived_vulnerability          , personality     belief .     belief ,         .        appraisal    ,     appraisal. 
+                      ,        .     perceived_vulnerability         ,  appraisal  evaluating      .   (   )         belief       .    ,             ﬁ      belief : 
+ ((+ )) 
+                  belief   .  ﬁ        appraisal      (       ).   perception  (   )   ﬁ      ,       ﬂ-   combining  .      perception   . 
+.      
+         belief            .  ﬁ        ,                     .  combining 
+================
+ physical_quality      .       ( )     perception       . 
+           ,       .   (   ), (, ,   ),(  . ), (, ,   )      ﬁ       behavior.  combining       ﬁ                    .           .    : 
+ ( ++ +()) 
+ ,    appraisal        ,  belief      belief,     physical_quality,     . 
+          ,         [function] ( ). 
+ appraisal 
+        appraisal        .         .             ( , ,   )       appraisal   .  ﬁ       appraisal      .        personality         ,        . 
+.  
+     (, ,   )              .      ,         .   ﬁ  ,               (       ).    ,                  . 
+             .      ﬁ  ,            ﬂ,  appraisal           .  ﬁ   : 
+; (+ ;+  ; ) 
+ ;               , ;   belief        ,  ;               .  
+://.. 
+   ﬁ              : 
+ 
+ 
+^= + ;  
+= 
+              .           , ,  ﬁ .          ,           .        ,     ﬁ  =  . 
+.     
+               .   ,         perception         , .., 
+^= + + physical_quality +  () 
+           ,   gain  .    appraisal   perceived_vulnerability     situational_circumstance             combining .   evaluating     evaluating     situational_circumstance  perceived_vulnerability,    intrinsic_rewards       evaluating   
+ evaluating.     experiential_awareness     combining           .   intrinsic_rewards         : 
+^= ^ ( ) 
+        ﬁ-   self-efficacy ( ),   ,    .  gain        ,               . 
+.  
+      .          ,   %  %       .    ,   experiential_awareness          /  ﬁ .        experiential_awareness                .   ﬁ   personality,    .      situational_circumstance                (,            ,        ,    ﬁ            ).   belief         appraisal     ,          . 
+            , ..        
+================
+()      () experiential_awareness     ()  belief       
+    .   / (,)                       . 
+  
+/* / / /* /   
+      . . . . . . . . . . . . . . . . . . 
+      . (.) . (.) . (.) . (.) . (.) . (.) . (.) . (.) . (.) . (.) . (.) . (.) 
+ . (.) . (.) . (.) . (.) . (.) . (.) 
+ :       .            .                 . 
+  .             ,       ,    .   ,         gain           .       appraisal     /  /.    belief             ;   appraisal               .     belief        ""    .        ,                behavior. 
+  
+ ﬁ   appraisal   belief       .            .                .   -   evaluating  belief         ﬁ        
+    . belief       = . 
+/ / / / /   
+ . . . . . . 
++  . . . . . . 
+ . . . . . . 
+ :          .              appraisal    ﬁ   belief . 
+     evaluating       .        belief               (       ).         evaluating            isolation_effect (belief   ),       .     belief      appraisal    (  . ),(   ). 
+.    
+  appraisal  syllogistic_rules           .     ﬁ                      .  ,                  .   ﬁ      
+================
+,         : 
+ = 
+ 
+  
+ 
+ ,   : 
+ 
+ 
+ 
+=
+ ( ) 
+  
+
+ ( ) 
+    experiential_awareness     combining     ( ﬁ ). 
+ ,,          -     .  ,   ﬁ         ,  /,   ﬁ ,      .     syllogistic_rules   .        ,        (      .      %        ). ,       ,            . 
+ syllogistic_rules             .                 .   ﬁ                personality    ,            .  ,  syllogistic_rules                .  ﬁ         ﬁ    .      syllogistic_rules     .  /        .. 
+                      .  belief                   persistence       personality         .  belief   ;         syllogistic_rules    combining .  appraisal combining   
+, ..  combining  belief       
+ 
+     .  syllogistic_rules  combining          ,              .           -     . 
+.  
+       .            intrinsic_rewards     .  ,                          .  opportunity_for_criminal_acts       
+  / / / / /  
+ . . . . . . . 
+ . . . . . . . 
+ :       experiential_awareness ,     . 
+     .    []           ,                   possibility_effect combining  perception.    ,       (  ),         ,         .                focus       .             . 
+    ,         personality           possibility_effect combining  perception.      perception      :                ,   " "    ?     ,      evaluating      .    ,    ,          . 
+  
+     ,           opportunity_for_criminal_acts.                  ( ).     ()           ;  ﬁ     personality        opportunity_for_criminal_acts       personality.      role           . 
+    ( )       personality,       .          personality ,   behavior     loss.     ﬂ   role      personality   .  ﬁ                 .           appraisal            segregating      behavior.                   . 
+================
+() experiential_awareness     () experiential_awareness     ()       
+   .        /         
+ . 
+.   ﬁ           .     . 
+ :             . 
+ focus           /  .        ,             .      combining  ,   ; ,        ,   combining  ,   .                  .     certainty_effect syllogistic_rules    ,    comply_effect personality    .               ;             .                 .  . 
+                 .        personality   /,  personality  ﬁ      %         
+.                  .            personality  .    ﬁ   personality   ﬁ ,       personality   , .      %         personality   ﬁ ,  %          personality   ﬁ .           personality     ;               ,       .  belief,      ,     belief  ( )                  personality . 
+         . 
+     perceived_vulnerability          gain        
+ belief          syllogistic_rules            .                           process           .      personality       ,    ,      personality ,   personality           .      [knowledge ],        ﬁ   . 
+           perception   appraisal,       .                  ﬂ-   ,    .   role          ,                     . 
+        focus,            .   .          appraisal             persistence              .            ﬂ-   vicarious_experience .         ,            .   ﬂ                . 
+  
+                 .  
+         . 
+================
+() syllogistic_rules      
+()         
+    
+  /   
+  
+        learning -        behavior  .              .  , ,       . 
+ 
+[  . ] , .; , .; , .;   , . . evaluating     .   :.. [, ,   ] , .; , . .;  , . .           .   . 
+[  . ] , .; , . .; , . .;  , . . .   ﬂ:  ﬂ  .              , . . 
+[  . ] , .; , .; , .;  , . .  role       .           , . . [, ,   ] , .; , .;  , . . .       :  .  . 
+[   ] , .,  , . . .      .            [knowledge]    , . . 
+[  . ] , .; , .; , . .; , . .;  , . .    ?            , .       . 
+[  . ] , .; , .; , .;  , . .  experiential_awareness    
+ .              , . . 
+[   ] , . .,   , . .             .                  , . . 
+[  . ] , .; , . .; , .;  , . .  . 
+[ ] , . .    .            , . . [ ] , . .   belief   . . 
+[, ,   ] , .; , . .;  , . . .      .          , . . 
+[   ] , . .,  , . .      . ﬁ   . 
+[   ] , .,  , . .      . . [   ] , .,  , . .    ﬂ    .   :.. 
+[  . ] , .; , .; , .;  , . .   ﬂ     .   ():. [, ,   ] , .; , . .;  , . .     ? personality    , ,     .  . 
+[   ] , .,  , . .  ()  :       
+================
+  .             , . . 
+[   ] , .,  , . . .   :         .              , . . 
+[   ] , .,  , . .           .           , . . 
+[   ] , .,  , . .  belief     .   ():. 
+[, ,   ] , .; , .;  , . . .  ﬂ :   .  ():. 
+[ ] , . .     segregating .    ():. 
+[ ] , . .         opportunity_for_criminal_acts. 
+[  . ] , .; , .;  , .; , .; , .; , .; , .; , .; , .; , .; , .;  , .; , .; , .; , .;   , . . :    .      :. [, ,   ] , .; , . .;  , . . .           .              , . . 
+[, ,   ] , .; , .;  , . .  :    evaluating   .           , . . 
+[   ] , . .,  , . . .    :  experiential_awareness focus      ﬁ  .     ():. 
+[, ,   ] , . .; , . .;  , . . . experiential_awareness focus        ﬁ  .  ():. 
+[   ] , .,  , . . .      .     ():. 
+  
+.   
+ belief            ﬁ .  belief               
+.  ,   /     "          $?"                        .               ,           .                                   . 
+     belief                   .  ,    belief   /          /.        belief   /,            ,         .               .                               segregating   . 
+      belief   ﬁ  .                           .    combining               intrinsic_rewards   .                       .  behavior_control-ability              . 
+   
+   focus,     combining     .  techniques     . 
+.   
+ fear_arousal           ,            ,             .          ,  ﬁ      evaluating -         +     .  %    ,  belief        belief     belief,   %          .   ,  %         . 
+. perception   
+.     experiential_awareness      
+  . 
+.  ,        
+      [; ].   ﬁ 
+     ,   /    
+.            
+================
+        .  ﬁ 
+          
+   . 
+.          
+  .       , 
+    simplifying     .  
+ ,  %      %  
+     . 
+.        ,  
+ﬁ            
+ . 
+  ﬁ ,           ﬁ       .      combining         ,         .           ,      .               evaluating . 
+.  Fuzzing 
+         " Fuzzing"   appraisal     .     , ,   (     )          ""   combining.                  .    ,   process  .            ,            combining    .         . 
+                      ""  experiential_awareness   .        ,     ,           . 
+                          ,          . ,      "  "   Fuzzing .   gain           [activity]       .   []                 []          .   ,     ;             . 
+                    ; ;   ,  (; ; )   experiential_awareness , ,          .      ( = :     ).         ""        .         "" ,          ""       .  Fuzzing    ﬂ             .           , ,  . 
+://../ 
+          (  . ). 
+================

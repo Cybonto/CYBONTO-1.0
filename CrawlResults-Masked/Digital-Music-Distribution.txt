@@ -1,0 +1,474 @@
+   
+      
+     ()     ()        
+   
+  /  
+    
+   
+================
+  
+               .     ,           ,  ,  ,  ,   ,       .          ,                          physical_quality . 
+ [action]        ()           .    ,         [authority ].   ,       ,        () . 
+              ,        .            :     .            ()              ().  ,           ;  ,              (  ).             ,           . 
+  ,            %  participant_modeling     .    ,           ,         .                                   , . ,                ,          . 
+      :  intrinsic_rewards     ,   gain         .    ,             ,                    . 
+ 
+   
+================
+ 
+          ,                 . 
+    ,         ,                , , ,  participant_modeling  ,    , participant_modeling, ,    . 
+    focus                       ,          (),      . 
+ focus          ;       (..,         extrinsic_rewards /             ). 
+         ,       ,        .              ,    focus                  . 
+  history     
+          -sharing     .               : )      )             , ,  participant_modeling   )         ,  )          . 
+           .  physical_quality         .              , ,      .               ,               .            [activity]     physical_quality ,
+    
+ 
+================
+  .           ,             ,          . ,           --          . 
+ [action]         .    ,        [authority ].    ,    , ,   segregating      .          ,     ( )  ,       -   --      [activity]             .  ,                    ,                  . 
+    ,              .           "" .    ,         "        ?,"     --                 . 
+             [authority ].     () ,  ,           ,    perceived_uniqueness      . 
+       ,                        , .                ,          .   ,             [action]        ().          .         ,       ,  ""                 , "       ."
+ 
+     
+ 
+   
+================
+"    perceived_vulnerability          ,            ." 
+     [action ],   focus   ,       .             ()    ,             perceived_vulnerability              () .  ,       ,           , ,      .     ,    ,          ,    .         !  . 
+            ,          . .., ,     ,          ,   ,  .          .         , personality ,         . 
+    ,                 .   , , ,    .     ,              .        ,      .                   ,             .           , ,  .         ,        . (            .) 
+ ,   ,     ,   [goal]                    possibility_effect ,     .        ,                 .
+    
+ 
+================
+   ,                "participant_modeling  ."      ,  ()          .  ,               ,     -  - . 
+   ,                    /       ,      .               ,    ,           . 
+   ,                     .          , ;     personality    
+       .      .   personality                    /   .         ,          .          techniques.                . 
+   
+ syllogistic_rules 
+ &  
+ syllogistic_rules 
+vicarious_experience &  
+  
+ 
+   
+  
+  
+ :       
+ 
+   
+================
+        
+   ,        focus         .     ,             " ,"    [Organization]    ,     "  ." 
+         ","               .    appraisal         .      ,  %     (     ),    ( )   (         protection_effect ).             ,   ,       .               ( )    ,        (    ).    [function]   , , /  .      personality ,        ,        . 
+        ,     participant_modeling         .       ,    . 
+                (    ).       ,   ,  .            ,       .       ""  "vicarious_experience"    .   ,       ,            ,               ( vicarious_experience )    syllogistic_rules   , ,  .               "."      ,                .
+    
+ 
+================
+  
+   
+ 
+syllogistic_rules 
+ & 
+ 
+ 
+syllogistic_rules 
+vicarious_experience  
+&  
+extrinsic_rewards 
+extrinsic_rewards 
+ 
+ 
+  
+  
+ 
+  
+ extrinsic_rewards 
+  
+  
+  
+ 
+  
+ extrinsic_rewards 
+  
+ 
+ 
+  
+  
+  
+( ) 
+ extrinsic_rewards 
+ extrinsic_rewards 
+ +  
+ +  
+ +  
+ +  
+  
+  
+  
+  () 
+  
+ :      
+         : 
+    
+       Collection      (  )    .       ,       ,    ,    behavior_control-ability   --   -- extrinsic_rewards     .            loss . 
+                protection_effect     .    ,          ,   ,  , , .   ,                . 
+        .  ,   combining      .   ,     ,       , ..,             . , !        !  , ,  ,    .        ,            .        fear_arousal    
+ 
+   
+================
+                   ,        .    extrinsic_rewards    ,              . 
+ syllogistic_rules 
+       syllogistic_rules            source (  )  .  combining             ,    .           ,            ,   intentionality          personality    syllogistic_rules (       ,         ). 
+    
+           : )          )       )           participant_modeling ,          .       extrinsic_rewards       ,   . 
+ extrinsic_rewards        [function]     ,    extrinsic_rewards     ,          (..,          , .      /  ).       (     vicarious_experience ),  --      --       . 
+ syllogistic_rules 
+  ,                       ,     syllogistic_rules  .   syllogistic_rules                   .           protection_effect    . ,  ,    [function]                      .
+    
+ 
+================
+vicarious_experience    
+   , vicarious_experience        :   ,   ,    .             ,   ,           .  extrinsic_rewards                 , ..,          ,              ,          . 
+              [function]    vicarious_experience , ..,         vicarious_experience,  syllogistic_rules,            vicarious_experience .                  combining                    extrinsic_rewards   .  ,                 ,    .     -     -     ,      ,           persistence        . 
+   
+     ,         [Organization]       .            ,       ,    . 
+  ,            ,                 .            . 
+        ;  ,        ,   perceived_uniqueness.   ,        ,   .         ,   syllogistic_rules.       ,            ,   
+ 
+   
+================
+"."           :    ,   ,   . 
+ extrinsic_rewards 
+  
+ extrinsic_rewards 
+  
+  
+  
+  
+      
+ 
+  
+  
+  
+  
+   loss    .  ,   %  participant_modeling. 
+  
+  
+      
+   
+  extrinsic_rewards/  
+  
+ 
+ ( ,  ) 
+   
+  
+  
+ 
+/ extrinsic_rewards 
+        .  ,    
+%    
+  
+. 
+  extrinsic_rewards 
+$ 
+      (  ,     . 
+ extrinsic_rewards 
+$? 
+$   %   
+ , 
+  
+ :        
+            .           .    ,       ,        ,            .                    ,      (  )      .     protection_effect  ""   ,       physical_quality     . 
+         ,          extrinsic_rewards   extrinsic_rewards  ,         .  %  participant_modeling        .. -    %    ( )   (     ) --             .        ""    ,    appraisal  % intrinsic_rewards evaluating      ,                 %     evaluating .     ,    
+    
+ 
+================
+ evaluating  %. ,          ,   "          ,         ,"       . 
+            ,              ,     .                ,         intentionality,  .         (   )           ,          / . 
+ 
+  
+personality 
+/  
+protection_effect "" /  
+  
+    
+ 
+ 
+•        ()   (combining) 
+•    •   ()     
+ &    
+   
+  
+•         •     ,        
+   
+•        
+  
+ :      
+     ,        ,  ,    .         ,        combining .     .      ,          ( ) ,   ,   participant_modeling           (..,       ,              ).      ,      ,               . 
+ 
+   
+================
+  ,         ,             .  ,       .  ,          participant_modeling    ,            ,             ,              .     (  )            protection_effect .                 . 
+  participant_modeling     .  combining      ,        ,          . ,      ,           ,  (   )    :  extrinsic_rewards.   / ,     %    ,  belief      .            ,  ,       / . 
+   isolation_effect       , (),             .        combining   ,     ,  ,    . 
+            ,    ,    ,       (.),   !,    ""       .      ,                .         ,      ,         --  ""    participant_modeling     ,    . 
+                   ,           ,        .                .   ,           .          
+    
+ 
+================
+     ,                 . 
+ perceived_vulnerability    
+          .    ,        extrinsic_rewards   ,             .          ,                            .      +  [experience]       extrinsic_rewards .  ,                 -             ,   .   ,     protection_effect     ,               --      physical_quality      ,           . 
+ extrinsic_rewards            ,       belief.     intrinsic_rewards     .   ()  ,          ,        perception       ,           . (                    " .")    ,    ,     ,       .       ,          ,         ,    . 
+                ,   " "          -     $,   $/  .     ,             belief    .            personality,     [ownership]      ,    
+ 
+   
+================
+ ,  .   ,            ,         ,        $/   .            (    ),         personality  , ,    ,     %  .         . 
+
+ 
+ , ,             ,                        intelligence  .                 , ,    , "           personality,   +       ." ,           . 
+             .   ,         -      --       .    ,          participant_modeling   ,      ,       . 
+,   ,     ( )          ,                 .        , ,   ,          ,   &.  ,   " "   &  ,         . 
+    personality     ,    .           (   perception ,  )      (      ),         combining         [experience ],                           .   ,               ,               .
+    
+ 
+================
+   ,                .    ,    ,             intentionality syllogistic_rules,   -                 -         ,         .   ,        ,    persistence personality             ,    [experience]    . 
+   ,    persistence   ,    (     )       ,            /       . 
+      ,     .     (    ),     %    ,     . ,                                    .  ,          .     focus     ,  %                      %. 
+  ,            arousal            .                   , ..,   .  ,    ,    personality         :     "               ." 
+       .   protection_effect    ,   possibility_effect         .   ,        ,     .    ,             (     )             ,       .            . 
+ 
+   
+================
+   ? 
+               .          extrinsic_rewards   ","           . ,         ,      isolation_effect   .        ,        ,      .            ,        .         ,       .      loss   . 
+                      $$  ,       .      participant_modeling      possibility_effect ,      ,  &,    extrinsic_rewards   ,                  , ,   . 
+          perceived_vulnerability   .           ,       combining            -               .       ,          protection_effect         extrinsic_rewards .         , ,         .      , ,              -      .       ,            . 
+           ,      --        -   .   ,          ,   possibility_effect         ,         .      combining    ,         ,       frustration_of_needs     .
+    
+ 
+================
+  experiential_awareness             ,         .      [ownership]      -  -              .             .          ,        live_modeling   .  ,                role  personality    .          extrinsic_rewards    personality  -     . (,    participant_modeling  ,           , ,     ,     .) 
+      perceived_vulnerability                   ,       ,        ,       . 
+                         ,         protection_effect     .        "                ."  %               ,                ,      ,         ,
+ 
+    gain         . 
+      
+  extrinsic_rewards         intentionality,   ,    .                 ,    ,   ,     . 
+ 
+   
+================
+      
+ ( ) 
+  (    
+   ) 
+ 
+ 
+ 
+ 
+  
+  
+•   •  •  •   
+• . 
+•   •    •  
+    
+ •  •  •  
+ •  •  •  
+•  •   
+•  •   •   
+•IcyPole 
+??? 
+ :      
+ 
+•      •        [experience] 
+•     
+•    ""   •      •       •       
+ •   •     •  () 
+ 
+•       •   participant_modeling     •  participant_modeling   
+•      ( ) 
+•         /  •   protection_effect     •               •       intrinsic_rewards    
+  
+ 
+•     ( ) • /  (  ) 
+•    [action] (      ) •     ( ) •    
+•    
+•    
+•Rent  
+• participant_modeling      - gain    
+• /     
+ 
+•        •   /extrinsic_rewards  
+ :    
+    
+ 
+================
+         , ,    () ,     .                      .            . 
+   ,         ,     ,  %  participant_modeling   .
+ 
+   ,          intentionality      personality   , ,         ,                personality  .       [activity]          , ,   ,        ,     .        [activity ],       (    ),        extrinsic_rewards  --         --                .                  ,          ,        personality .  ,            possibility_effect  ,               . 
+          -          "  " --         ,     (          physical_quality )       .    ,   experiential_awareness                   . 
+,                %.  intrinsic_rewards      appraisal       %  %.       intrinsic_rewards   ,  %       %    . 
+ certainty_effect    % gain             ,   % gain        ,     % gain    .   , ,            " ,"         . 
+ 
+   
+================
+  belief 
+               ,  ,  ,   ,  .      --  --          .  ,  ,             , participant_modeling         ,   ,   ,             . 
+    focus           ,                 ,         . 
+                   ,              ""         .      , "      ,"       ,     .   possibility_effect          segregating  loss        ,           .              loss       . 
+ 
+                            .            ,     (),   (),   (),   (),   (),   ( ),   ( ),    ().                                           .
+    
+ 
+================
+
+ 
+
+      . 
+
+         ,  ,   . 
+
+  , "   ,  ,  , , , 
+://..///,,,. 
+
+ ,   ,                      segregating     / . "" --               --        ,  ,    perceived_responsibility (             ). 
+
+       ,  ://..//.. 
+
+  , ,   ,  . 
+
+  ,  ,  ,   , "       ," ,  , ://..//. 
+
+  ,  ,  ,   , "       ," ,  , ://..//. 
+
+      ,    . 
+
+  , "    ,"  ,  , , 
+://.../////. 
+
+ "      ,"  ,  , . 
+://..///. 
+
+  , "       ,"  ,  , , 
+://../. 
+
+ " ,     ,"  , , ., 
+://..//////.. 
+
+      . 
+
+ ://.. ////.. 
+
+  , ":          ,"  ,  , ://../.?=. 
+
+ "      participant_modeling  %  ,"  , , ., 
+://../////.. 
+
+  ,   "   fear_arousal,"  ,  , , 
+://../.?=&=%%%+++fear_arousal 
+
+  ,"      ?" .,  , . 
+://...//.?=/////.&=//// /.. 
+
+  , "   :    segregating,"  ,  , . ://.../////.  ,  , "      ,  , , 
+://...///. 
+
+  , "      ,"  ,  , . 
+://.../////.   
+://..///. 
+
+   , "     ," ,  , , 
+://././/.. 
+
+      , "        ,  ,  , ://../.?=  , ":         ,"  ,  , 
+://../.?=. 
+
+  , "        ,"  ,  , . ://.../////. 
+
+     , "        ,  ,  , ://../.?= 
+ 
+   
+================
+ 
+ "         ,"  , 
+://..///.?=. 
+
+ "       ,"  ,   , 
+://../////. 
+  , "      intelligence ,"  ,  , 
+://.../////. 
+
+    ,                       .      possibility_effect perceived_consensus      ,   ,  ,  ,   ., "     ,"  ,  . 
+
+  , "        ,"  , ,   , ://../. 
+
+  , "        ,"  , ,   , ://../. 
+ 
+"       satisfaction_of_needs  belief,"   ,  , ://./// _acceptance/ 
+
+  , "    protection_effect  ," , 
+://../.. 
+
+  , "        ,     ,"  ,  , ://..//.. 
+
+  ,    ,    , "     ,"  ,  , . ://...///// 
+  , "   ,"  , ,  , ://..////.. 
+
+         . 
+
+  , "      ?", ,  , , 
+://..///. 
+
+  , "  ,"  ,  . 
+
+  , ",  combining    ,"  ,  , ://../%++combining ++++/ 
+.?=. 
+
+ "         ,"  , 
+://..///.?=. 
+
+  ,    , "    ,"  ,  ., ://..///.. 
+
+ "         ,"  , 
+://..///.?=. 
+
+       ,   , 
+://../?=%%. 
+
+ "   ,"  , ,  , 
+://../.?=&=%â€™s%% 
+      . 
+
+ "focus :   personality    ,"  ,  , . 
+://../focus +++personality ++++/. 
+ "  :  ,"    ,  . 
+://../////?= &combining = 
+
+ "      ,"  ,  , . 
+://..///. 
+
+ "   , ,"  , . 
+
+ "   ,"  , ,  , 
+://../.?=&=%â€™s%% 
+   ,  ,  ,  , 
+://../++,++/.
+    
+ 
+================
+ 
+       ,   , 
+://../?=%%. 
+ 
+   
+================

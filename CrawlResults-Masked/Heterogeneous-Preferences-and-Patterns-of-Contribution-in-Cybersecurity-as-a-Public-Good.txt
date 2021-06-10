@@ -1,0 +1,327 @@
+       
+    personality 
+  
+ 
+      ,      , 
+ ,  ø,  
+: 
+ ,  ,  ,  [modeling ]. 
+isolation_effect : 
+              personality.     personality               . ,    belief                personality .     personality       ,     .   ,        ﬂ    , perceived_uniqueness, ,  .                           .   ,    perceived_vulnerability       ,             .           , [modeling]    , ,        .       ,  ,         behavior      [experience]  . ,                personality          .           focus              . 
+  
+       behavior      .  ,    perceived_vulnerability , situational_circumstance ,  loss fear_arousal,    behavior      .           experiential_awareness             segregating.           ,     belief           .    (  ., )           ﬁ         behavior  . 
+ 
+://./ 
+  ,    , intrinsic_rewards            experiential_awareness     . 
+ 
+, . 
+           personality. : ./ 
+               ,           ,  ﬁ      .            . ,       $     perceived_vulnerability    ﬁ      . ,                personality          . 
+ ,             personality (  , ).     intelligence,     ,           ﬁ         ,                 ﬁ   
+          ﬁ intelligence ( ) -  ,   
+:  
+     -    , .   personality 
+================
+           personality 
+   . ,        ﬁ             personality. ,       belief                      . ,     focus               belief (..  ,    ,   )             (.. personality          ,  ﬁ         ).   focus,      [modeling] ()                  personality       .           belief      personality   . 
+  gain ﬁ        personality. ,   ,             personality.       .            . ,            . 
+    
+ personality 
+ ﬁ           (, ).       personality  ,            loss.  , ,     ﬁ     segregating     personality  .              (.. ).                        [policy] .          ,          ﬁ     personality.                   . 
+    personality     
+       , ,             ,  ,      .      ,         personality,      motivation (..       ),    (..       loss ).  loss             (   , ; , )           personality. 
+        personality          protection_effect [policy]      protection_effect , , ,     (, ).        personality        ,      ;    .   .    role     , ,       (  ., ).         generalizing  ﬁ      ﬁ  ﬁ role      .           segregating            .                ﬁ   ,               (  , ). 
+                personality     belief      role    [policy]  .  appraisal          ,      simplifying         belief    belief                   . 
+  
+  ,     [Organization]        [resource]  ,    .                 ().  combining   
+ 
+================
+  -       ﬁ intelligence 
+       
+    = 
+= 
+.   intrinsic_rewards  [Organization]      
+ 
+= 
+
+ +( 
+ + () ) = 
+ 
+ 
+ = 
+ 
+ 
+=  =  
+() 
+     loss        appraisal (),                    .     belief ,    ﬁ        
+(, 
++ ¼  
+ 
+ 
+(-) 
+ 
+ 
+¼() 
++ 
+ 
+personality 
+personality 
+(-) 
+().   ,      :       :    .= .       
+      ,       
+π 
+ 
+. 
+ 
+= 
+ ( ( ))  
+ 
+()  ,       loss  ,  perceived_vulnerability       appraisal,   loss  , .    ,              
+= 
+ ()  
+ 
+()         intrinsic_rewards  loss    , .  experiential_awareness     ,              ,           (  ., ). ,   ,      ;    .      .  ,      behavior_control-ability    loss   ()    .  ,     ,    personality ,    . 
+    ,      perceived_vulnerability fear_arousal  isolation_effect          .    ,     [function]  : 
+(;)=   [ ;]  [ ;] 
+()            [function]           perceived_uniqueness, .      .          . 
+ 
+     ,        .  personality       ,    ( 
+  : =      .       ,  combining   . ,          : 
+). , (  ., )    
+.  ﬁ         (  .  .).           : = 
+.    ,     perceived_vulnerability      . ,       
+            (π, π). 
+     possibility_effect   
+  ,   constraint    ≥ . 
+.    ﬁ       ,  .focus     ,       . belief   
+    ( ),        
+  (π − , π+ ). 
+      ,  
+    ( ),        
+     ﬁ    (π − , π+ ). 
+        
+•    perceived_vulnerability                   experiential_awareness . 
+ﬁ     ,     personality ( ﬀ    .   evaluating    extrinsic_rewards        .     , , ﬁ   ., ).          combining           , ..      possibility_effect   extrinsic_rewards   . 
+ . ,       ,      
+   possibility_effect   . 
+.   
+                   participant_modeling   participant_modeling            personality (..   ﬁ    extrinsic_rewards   personality ).   ,  participant_modeling    personality     ,               ﬁ loss  .    ,   appraisal    ,         ,         . ,  impact           [resource]      [resource ]. 
+       impact    .             ( 
+================
+           personality 
+ :         ... 
+  ., ).           . ,          . ,         behavior   ,                 ,             . 
+      (  )                ,    .  perceived_vulnerability             ,   [resource ],  [experience ].        perceived_vulnerability    behavior_control-ability -     , ,     comply_effect          . ,             . 
+  
+           .              belief                . ,       ( = )    .                 persistence     .  ﬁ     
+  .               personality          ﬁ ﬁ    . 
+        .               personality ,  ,    .   comply_effect,  perceived_vulnerability         .      , gain   behavior    .  ,   , gain   behavior      .        fear_arousal     (  , ;   , ).  fear_arousal   [preference]      situational_circumstance .    ,           gain     . , gain          .  ,            ,       behavior        persistence     .     ,       personality   ,                     . 
+ 
+================
+  -       ﬁ intelligence 
+    
+  
+ 
+ -   -   -   -   -   -  
+ 
+ 
+ 
+  
+ 
+        
+      
+ 
+ :     ()    (). 
+. .     ()    ()       
+perceived_vulnerability             
+  -  
+ . -  
+ 
+,   [resource ],  [experience ].         -  
+ perceived_vulnerability        ,  
+  -  
+,     comply_effect          
+ 
+ . -  
+  -  
+. ,             . 
+   
+          .   
+           belief                . ,       ( = )    .         
+       persistence     .  ﬁ      .             
+  
+        
+      
+ 
+ :    ()    (). 
+. .    ()    () 
+.    personality           focus     , [resource] 
+ﬁ ﬁ    . 
+    ,     ( ) techniques     .             ﬀ       .                
+        personality , , 
+           ﬀ  .   comply_effect,  perceived_vulnerability       ,      behavior  .         .     , .   ﬁ ,      perception        behavior    .  ,    gain         .     , gain   behavior         .   
+ .        fear_arousal    
+  [, ].  fear_arousal   [preference]      
+situational_circumstance .    ,     
+ 
+     ﬀ   ﬀ  .  
+, gain         . 
+,          
+ ,       behavior    
+    persistence     .  
+   ,  comply_effect    personality   , 
+================
+           personality 
+    
+ 
+. 
+  -   . -    -    -   . -    -  
+ 
+. 
+ 
+. 
+ 
+  
+. 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ :    ()    (). 
+. .    ()    ()       
+ 
+ 
+ 
+  . 
+      personality  . 
+  , [resource]   .   
+      .                     ,        
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+# 
+ 
+ 
+ 
+ 
+. 
+. 
+. 
+ 
+intrinsic_rewards       personality .    loss    (  ). ,       ,              .       personality     behavior        .                     [experience]  behavior   . 
+         
+ 
+  ( ) techniques     
+ 
+    ,   certainty_effect  
+            ﬀ   
+      persistence    behavior  .     perception    
+  
+      gain        .       
+  ,    focus     , [resource] ﬀ   . . . . . . 
+        ,       .      
+ .                ,  
+  
+  .   ﬁ ,      
+       
+  gain          (= ) 
+ : Impact   behavior    . . 
+Impact   behavior               persistence  .  experiential_awareness      .    
+    (= ). 
+. ,      ,            , [resource] ﬀ       
+.        ,   certainty_effect  
+      persistence        gain     ,         process            .                   possibility_effect      persistence   . ,               frustration_of_needs         loss    (  ). ,      .      ,                       .      personality     behavior        .        behavior         behavior       personality   (  ,      [experience]  behavior   . ).     . .  
+     , ,      process                                 ,   Collection     .   personality               behavior      personality . ,        [].     .       focus.       , ,           personality ,   Collection     . ,       (, ).        focus.   ﬀ 
+ 
+================
+  -       ﬁ intelligence 
+              personality,   ﬁ    behavior    . ,      (..             ). 
+          (  , ). ,     personality      (..   behavior    perceived_consensus   ,    )    perceived_vulnerability   behavior      ,             perceived_consensus   .               (  , ;   , ;    , ).        
+        (..  ,    )       . 
+ belief 
+ focus    [modeling]                ﬁ      .                          personality.           .             [experience]   ,                   behavior   .               ,       source  .                . 
+           ﬁ                         . ,  focus    belief     participant_modeling   ﬁ role             persistence     
+ 
+. ,                       .      [experience]            . 
+   ﬁ                belief       .  focus                 .  ,         ﬁ         ﬁ  ﬁ     . 
+ 
+, ., , . .,  , . ().  
+    personality :  role   
+, ,  .   , 
+   , ():. 
+, .  , . ().  [modeling] : 
+personality  .      
+ , ():. 
+, ., , .,  , . ().   
+loss   focus.  : , 
+, . 
+, . .  , . (). :  belief  
+, ,  .   
+ , ():. 
+, ., , ., , ., , ., 
+ , . ().    
+ .     , 
+():. 
+, . ().    personality .  
+    , ():. , .  , . ().  belief   
+. 
+, .  , . . ().  belief  , 
+,  .    
+ , ():. 
+, .  , . ().   
+, ,         
+  .   , 
+():. 
+, ., , .,   , . ().¨ 
+   . , 
+():. 
+, . ., , . .,  , . . ().  
+    experiential_awareness . , ., Ø, ., , . .,  , . 
+().       
+   .   
+   ,  
+. . 
+================
+           personality 
+, . .   , . (). .´ 
+ ,  . . , . .  , . . ().   
+. , ():. 
+, .  , . ().   ﬁ- 
+       .  
+     
+      ,  
+. . 
+, . .  , . . (). personality   
+  :   . 
+  ﬁ       
+ (). 
+, . . ().   belief    
+.      ,  
+. 
+, . . (). ﬁ     
+ .   , ():. , . .  , . . ().  
+        
+.    , (): 
+. 
+, . ().     personality? 
+ 
+================

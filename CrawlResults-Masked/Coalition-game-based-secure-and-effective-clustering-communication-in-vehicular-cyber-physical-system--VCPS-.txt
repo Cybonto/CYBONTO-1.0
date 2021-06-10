@@ -1,0 +1,645 @@
+ 
+ 
+  protection_effect         () 
+  *,   *,      
+     ,   ,  , ; @.. (..); @.. (..) 
+* : @.. (..); @.. (..); .: + (..) 
+ :  ,      
+:   ; :   ; :    
+isolation_effect :   ,  techniques   ﬁ             (),                   .         ,      ,             process.    ,         ,  belief          .    ,                        .   ,                  . ,   ﬁ     ,      ﬁ  .  behavior          . ,      extrinsic_rewards       ﬁ    .       , ,             ﬁ   . ,   focus     extrinsic_rewards     participant_modeling   role      . 
+: ;   ; ;  ;  ﬁ;  ; extrinsic_rewards    
+.  
+   () [,]   personality    combining ,        situational_circumstance .  ,     []  combining           intelligence .     ,   ,     ,          . ,       ,     () []      gain      , ,        , ﬁ     .        ﬁ   () [],                participant_modeling  ﬁ . 
+,   ,           ,      []. ,          
+ , , ; :./ ..// 
+================
+ , ,  
+   
+       ,       physical_quality,        ,      . ,     opportunity_for_criminal_acts   personality      ,       ,          . ,   ﬁ         . ,         ﬁ       ﬁ . 
+   techniques  ,          gain      .  ,                         .   belief                            personality   .             ,         personality     . 
+         ,     fear_arousal        .          [], ,               (..,       ). ,          ,                      ,       . ﬁ,               ,        ﬂ    ,  . 
+    ,   ,    , belief,    ,    perception          belief []. ﬁ,            process. ,         ﬁ []        .   ,            combining. ,           ﬁ []           .        ,              . 
+,     ,     [,],      ﬁ   .                  . ,       personality       ﬁ    . ,  ﬁ            behavior.  ,               .  physical_quality,        .
+ 
+      ﬁ    ,            . 
+     gain    [resource ],      ()    [resource]  . ,             . 
+           ﬁ  possibility_effect             . 
+  extrinsic_rewards            ,    protection_effect  ,        . 
+================
+ , ,  
+   
+        .        .              . ,  ﬁ   [function]     ,            ﬁ  ,               .      extrinsic_rewards   . ,                 generalizing     . 
+.   
+           .              personality     .  belief,       learning      ,     .    []             belief.    extrinsic_rewards      source   .    []   personality              ,   personality ﬁ        .  [],           .          ,                 possibility_effect      ﬁ   .     ,       belief                ﬁ  . 
+     process        ,         . ,  ﬂ        ﬁ.       ,  [],        ,       .                                    . ,                     personality .         ,       .   [],             combining  . ,       []  segregating     .          [,],         live_modeling      .         ﬁ               . ,    []                 ﬁ   ,    belief. 
+    []     ,                            ,        . ,                       . ,               .   , []     protection_effect         simplifying   . ,               ,      ﬁ. 
+   ,            ﬁ                . ,          
+================
+ , ,  
+   
+  ﬁ.       intrinsic_rewards  [,]            ﬁ    . ,   focus  ﬁ    extrinsic_rewards            . 
+.   
+..   
+  ,  mental_calculation                    ﬁ ,     .   ,    ()               . ,                  ().   process       ,               ,   belief       . ,      ﬁ          . ,  ﬁ           . ,   ,    (),                . 
+ 
+ 
+ 
+  
+  
+ .  . 
+..     
+                  , 
+belief       .      combining  ,     ! 
+     .      =  
+! 
++  
+! 
+! 
+, 
+  
+! 
+    
+          . ,           : 
+!! 
+,= 
+  
+!
+ 
+!
+ 
+  
+ 
+() 
+================
+ , ,  
+   
+  personality ,  mental_calculation              < 
+ 
+ 
+      > 
+ 
+ 
+. 
+ gain      ,           . belief ,                    ,       ()          . 
+()= 
+
+ 
+ 
+ = 
+
+ 
+ 
+ 
+() 
+,  (,)  (,)    belief     .   belief  ()       ,        loss,        . 
+()= 
+ 
+ =(( 
+
+ )+ (
+ )) 
+() 
+  generalizing                   ,                      physical_quality  . 
+   [],  ﬁ             : 
+()=  ()+  () 
+() 
+    ,  learning    ()  ()          . ,       combining          . ﬁ,  ()       ,            . ,          .  ﬁ   ()       [function]           . 
+,   combining              possibility_effect  techniques  ,      . ,                  ,          ,   , ﬁ   perceived_vulnerability  .           ,         ,                       [,].   ,               .   ,              ,       ﬁ       .    ,                       . 
+.    
+       protection_effect    ,             .   ,  ﬁ               .  ,         combining         . ,  ﬁ          ,    [function ], belief [function]  ﬁ [function ],       ﬁ        . 
+================
+ , ,  
+   
+..  [function] 
+  ,                  [resource]  evaluating. belief             ,    , belief  ﬁ [function]     .        . 
+...   
+  perception     ﬁ             .   ,             belief   .       , ,  ﬁ    [function]  belief [function]   . 
+ﬁ .  [function] :  ,   [function]              .           ,              . ,   [function]   : 
+ 
+= 
+= () 
+ 
+() 
+ﬁ . belief [function] :            loss   . ﬁ,      belief [function]           . ,  belief [function]   : 
+ 
+= 
+= () 
+ 
+() 
+... ﬁ-Related [function] 
+        ,  ﬁ      ,       . ,    [resource]                .      gain   [resource ],      ﬁ  ﬁ  . 
+ﬁ . ﬁ [function] :         ()                .  ﬁ [function]                combining     ,     . 
+= 
+ 
+  
+(,>
+ 
+) 
+ 
+() 
+ protection_effect         ,             ,      . ,         ,  ,              . 
+    ﬁ  ,          ﬁ    (),               . ,          ,         , ..,   ,        []     [].    ,       ﬁ      []. 
+================
+ , ,  
+   
+=  +  +   
+() 
+  [,],         ., . ,       ﬁ ﬁ    . ,                     .   [], ,       ﬁ            . ﬁ,        ()   mental_calculation     . 
++= + 
+ 
+ 
+
+  
+() 
+      ﬁ  
+ 
+
+ 
+       
+   . ,        ( ) .  , 
+ 
+<> 
+, ">  , 
+>:
+ , "< " 
+,  
+ "< 
+  
+< 
+  
+ > 
+ " 
+() 
+    ﬁ         ﬁ  [].  (),  mental_calculation                 .      , ,        certainty_effect     ﬁ      . 
+     ,     ﬁ      (..,  ).  (),  learning                . ,         ,   ﬁ,   .   ,      combining  ﬂ   . ,    ﬁ       , ..,      ,        (ﬁ  ()),    combining  (). 
+..       
+     ,   = , ..., ,      .       ,    ,    loss   participant_modeling   role. ,          .         personality perceived_consensus          . 
+belief .         . 
+.   ,    isolation_effect    ,   [  ,             . ,    ﬁ    .   ,          . 
+     [function]  (),    ,      .  loss  ,                  ,     belief [function]   . ,      [function]   ﬁ [function]     . ,    : 
+([ )> ()+ () () 
+================
+ , ,  
+   
+, ()        ﬁ.   ,      ﬁ                [ . ,        . 
+belief .        . 
+.    ﬁ  ﬁ [function ],                     ﬁ [function] ,          . ,                 ,     [resource]   . ,           : 
+<
+  
+ 
+() 
+,        certainty_effect               . 
+belief .         . 
+.          ﬁ       .   ,       combining    .          ,            ,        (.., ,     ).          ,        . 
+belief .            . 
+.    ﬁ   ,     ﬁ    .     ()    ,   ﬁ [function]           . 
+,                  ﬁ     belief. 
+..    
+       ﬁ              .  ,       , ..,         []          [].     ,             .  ﬁ,   ﬁ       . 
+ﬁ .     ﬁ    = , ...,,      , .., ,   isolation_effect ,   
+= 
+= . 
+ﬁ .                ,    combining         . 
+ ()=
+ 
+() 
+= 
+() 
+================
+ , ,  
+   
+           .         ﬁ  ﬁ      .   ,         ,            ﬁ . ,     simplifying       ﬁ    .      (),   ﬁ       . 
+ﬁ .      ,               (  )       (  ).                   .   ,          ﬁ  . 
+  , ()< () 
+() 
+  ﬁ ,                   .                 . ,        : 
+  , (())+ (()) 
+< (())+ (()) 
+() 
+ ()           . ,    ﬁ     combining      ﬁ,            ﬁ,  .                     ﬁ        . 
+.      
+  ,    ﬁ              persistence    ﬁ ,     ,        . 
+..     
+ behavior_control-ability              .                . ,     ,    ,    ﬁ       .  ﬁ      : 
+ﬁ .  :    = , ...,,    ()    ,  = ()        ,   [   ().   ,     
+ 
+       ,      ()< (). 
+,    behavior_control-ability    ()  combining          [      (). ,            ,                 . 
+   [goal ],          .              ,           .             . ,       , , belief, ,     ,             .   ,       ﬁ  
+================
+ , ,  
+   
+    ()     . ,     ()           .  > 
+ 
+ 
+,               .      ,        ()      . 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+... 
+ .  . 
+  ,       combining     .         ;                 , . ,   ()  (),       (())  (()),           .  ,            . 
+           .   belief      ,              .       (..,     ),                . 
+    . 
+:    ;   ;     (); :      
+: : 
+ ();    ()  
+:        ; 
+:       (): = (()), = (()); :  = (()), = (()); 
+:   +<  +  
+:     ; 
+:   
+:   
+:   
+:        
+:        ; 
+..    
+   (), ()      ,          combining          .           ,  ,               . ,                 .        ﬁ       .                
+================
+ , ,  
+   
+    .    ,            . 
+         (    ),    ()  ().  ()< ,            .        ,          ,                 .         , ()  ﬁ                       . 
+          . 
+    . 
+:    ;     ;   ; :     combining    ()> ()  
+:  ()  (); 
+:  ()<   
+:          ; 
+:   
+:   
+:     behavior_control-ability           :  (),  ; 
+: =  (()< ); 
+: = (()); 
+:   
+:    ; 
+                  ﬁ   . ,      ,                       . ,             simplifying  segregating  .         . 
+..   
+...     possibility_effect  
+          .        combining,  (,)> 
+ 
+       , (,),    ﬁ   .   ,                ,       combining  .    simplifying    loss,     ,       ,      . 
+ ,     .        protection_effect      ﬁ          .      belief            . ,    simplifying  combining      . 
+             .       ,                      ,    protection_effect     combining    .                      ,    simplifying  combining     . ,               . 
+================
+ , ,  
+   
+  [],  , , ( , 
+  
+ 
+)  ( ,)      belief           , .            . 
+ 
+= (  )+ (  ) () 
+  belief              ,      , ,,   : 
+> 
+>> 
++ 
+  
+>>> 
+< 
++ ,= 
+  
+>>> 
+  
+>> 
+ 
+
+  
+:> 
+  
+  
+      , >      , <        , <      , >  
+, () 
+         .     ,          ,                   .    ﬁ  possibility_effect   ()      . 
+   possibility_effect  . 
+:    ;    ();   ();   ();    
+ ();    (); 
+:    ()  
+:  (()+ ())< ()||(()+ ())< ()  :  ,  ,; 
+:  ,< ,  
+:    ; 
+:   
+:   
+:   
+,             simplifying    loss. 
+  ,         ,,,,     ,. ,  learning      simplifying   loss. ,       simplifying       ,     (). 
+( 
+ ) 
+() 
+                   . 
+================
+ , ,  
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ .   protection_effect  loss. 
+...   
+          .        combining,  (,)> 
+ 
+       , (,),    ﬁ   .  gain,      extrinsic_rewards       ,       process,    ﬁ    .   ,         . 
+   . 
+:    ;     ;      ; 
+:     extrinsic_rewards       :      
+: 
+: : : : 
+ (,)> 
+ 
+ 
+ (,)>   
+= ; 
+   ; 
+         ();    ()  
+:    ; 
+:        ; :    ; 
+:   +<  +  
+:     ; 
+:   
+:   
+:   
+:   
+:   ; 
+..       
+belief .       ,       ﬁ        isolation_effect     . 
+.          ,   ﬁ               .       ,      combining         .                  combining  .    ﬁ   ,       segregating. ,           ﬁ        ,    . 
+================
+ , ,  
+   
+ﬁ .    == , ...,      ,()  [       
+belief .          . 
+.   ﬁ     ,              ,   [     (). ,   participant_modeling   ,         ﬁ . ,    . 
+.  extrinsic_rewards    
+     ﬁ   ,   [],             ﬁ          .   a_memory        ﬁ        . ,     ,  ﬁ               ﬁ    [],      ﬁ  . ,       persistence  .        ﬁ      extrinsic_rewards   . 
+..  ﬁ  belief 
+   ,       ﬁ      . ,          [],              .    extrinsic_rewards       ﬁ              . ﬁ    ﬁ      . 
+ﬁ .  :            ﬁ. 
+,          .         . 
+. 
+. 
+. 
+          ﬁ      .           . ,          combining          .  ,   loss      ,  ﬁ  ,   +,    ,    loss , . 
+                . 
+,      loss       (+ +  +...)           . ,    loss     .        behavior_control-ability  loss          . 
+.. extrinsic_rewards    
+...   
+      ,  ,                     .   personality,  ﬁ            ,        .   ,      extrinsic_rewards    ,          .  ,   ﬁ        +,       . 
+================
+ , ,  
+   
+  extrinsic_rewards                  . ,      perception                ﬁ.   extrinsic_rewards              . ,          protection_effect  ﬁ. ﬁ,        (   perceived_vulnerability)        ( personality  )       ﬁ   .   
+,          
+...  
+       . 
+     loss          .       behavior        ,  ﬁ                perceived_vulnerability,    gain  perceived_vulnerability   .       ﬁ    ,           . ﬁ,     focus       .            
+  ,             
+ . ,       
+        perceived_vulnerability. 
+          . ,           . ,           . ,            . ,       
+  personality    . 
+ 
+① 
+① 
+④ 
+③ 
+ 
+② 
+ 
+①①RReeppuuttaattiioonnBBrrooaaddccaasstt ②②BBaannddwwiiddtthhAAllllooccaattiioonn ③③AAccccuussaattiioonnPPaacckkeettTTrraannssmmiissssiioonn ④④DDeetteeccttiioonn&& 
+ .   extrinsic_rewards   . 
+   extrinsic_rewards        process        ﬁ . ,                   combining  process   . ,           , 
+     loss . 
+.  appraisal 
+  ,   ﬁ             , ﬁ   loss.   ,    [],  []      [],       simplifying     , . ,      focus        extrinsic_rewards   . 
+..  appraisal 
+      ,     .        ,        ,   ,     .   personality ,           ,  
+================
+ , ,  
+   
+         /   /;          ﬁ   /   /, . ,       ,      combining            . 
+    ,     ﬁ       simplifying     satisfaction_of_needs  ,        ﬁ ﬂ     (..,         []).   ,   behavior_control-ability          (). ,           .,        .,         []         belief.      ,  ﬁ           ﬁ         . 
+                  . ,             .    , ,                      . ,         ,         ,     .     gain           . ,                          .   ,                   . 
+. 
+. 
+. 
+    
+. 
+. 
+.
+    () 
+. 
+. 
+. 
+   
+ 
+ 
+ 
+       
+ 
+ 
+ 
+ .    . 
+      ﬁ  ,         . ,    ﬁ      .               ,                .     , ,         .    , , 
+================
+ , ,  
+   
+       .        ﬁ           mental_calculation      .   ,            .  gain,    learning    ﬁ             ,                  . ,   ,       ﬁ.      loss        .   ,         .  ﬁ possibility_effect       ,        ,  ﬁ      ﬁ  . 
+ 
+ 
+ 
+    
+ () 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+          
+ .    . 
+        ,           simplifying   .               .                        .   ,  learning        ,      ,          . ,      loss   gain    ﬁ    .   ,         ,        ﬁ  . 
+================
+ , ,  
+   
+ 
+ 
+  
+ 
+ 
+  () 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+   
+   
+ .       . 
+,            .              , , . ,                     (..,   ),    segregating  perceived_vulnerability. ,   generalizing                 .           ﬁ possibility_effect ,            participant_modeling. 
+ .   . 
+        
+       
+       
+   .% .% .% .% .% .% 
+,              combining          .            ,  mental_calculation    .    ,                           ,      (). ,     ,          = () .   ,           
+ 
+= 
+() . ,       
+  
+ ﬁ    . ,            .    ,             ,  combining       . 
+================
+ , ,  
+   
+  ,             ﬁ,            . 
+      ,   generalizing                     . 
+..  focus 
+           .  [],     personality        ,       ,    personality  . ,      perception,  ,                 [].     protection_effect        ,              .  ,   extrinsic_rewards                  ,         .     extrinsic_rewards   ,      focus  simplifying   protection_effect . 
+      (  )   intentionality  (  ). ,           ,         (.., , ,   )  , ,    .           ﬁ , loss , extrinsic_rewards    . ,         .   ,       ,        [capability]         satisfaction_of_needs  . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .   . 
+ ﬁ simplifying       (.., ).        ,                 . ,  ﬁ behavior       ﬁ. ,      extrinsic_rewards      protection_effect   .   ,  ﬁ            . 
+,        ()  ,       [capability] (..,  )                   .      ,             . ,         combining      ,         . ,   (.., )        . ,    extrinsic_rewards   . ,            
+================
+ , ,  
+   
+   [capability]  .            ,  ﬁ           . 
+ .    . 
+     
+ +
+    
+ .    [capability ]. 
+      
+ +   
+  
+    extrinsic_rewards   ,  ,            . ,            . .           . 
+  ,   focus        ()       ()    .     ,  learning                     +. ,   generalizing    extrinsic_rewards           . 
+.  
+  ,                 techniques           .              ﬁ  ,      ﬁ   combining   ,    [function ],  belief [function]   ﬁ [function ].  ,       ,                   .  belief ,         ﬁ  . ,          simplifying    loss     extrinsic_rewards             protection_effect  ,        .       focus             ﬁ,     [capability]     .   ,    focus                   . 
+:             ( . ,   )          (, ). 
+ :           ,     .      .       .        ,   learning    ﬁ . 
+ﬂ  :     ﬂ  . 
+================
+ , ,  
+   
+ 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+, .; , .; , .; , .; , . :   perception    .  . . . , , . 
+, .; , .         .  . . . . , , . 
+, .; , .; , .; , .            , . .  . 
+, .; , .; , .; , .; , .       .  . . . , , . 
+, .; , . :     intelligence  .               (), , , ,   . 
+, .; , .; , .; , .; , .          .      , , ,   . 
+, .; , ...; , ..-xxx.; , .; , ..       .  . . . . , , . 
+, .; , ..; , .; , .; , ..  [modeling]     personality ﬁ,      .  . . , , , , .; , .; , .; , .; , .            .        , , ,   ; . . 
+, .; , .; , .; , .; , .    ﬁ     . .  . . , , . 
+, .; , .; , .; , .        .           (), , ,   ; . . 
+, .; , .; , .; , .      ﬁ      . . . . . ,  . 
+, .; , .; , . , .; , .; , .        , .  . , , . 
+, .; , .; , .; , .; , .; , .          .  . . . , , . 
+, .; , .; , .; , .; , .  ﬁ            .  . . . , , . 
+, .; , .-xxx.            .  . . , , . 
+, .; , .-xxx.          .          (), , ,   . 
+, .; , .; , .; , .       :     perception.  . . . , , . 
+, .; , .; , .; , .; , ..; , . :         .           (), , ,   . 
+, .; , ..; , .; , .; , .             . . . , , . , .; , .; , .; , .; , . personality         .           (), , ,   ; . . 
+================
+ , ,  
+   
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+, .; , .; , .            .  .  . . , , , 
+, .; , .; , .           .            , , , ,   ; . . 
+, .; , .     .      intelligence   , , , ,    ; . . 
+, .; , .; , .; , .      ﬁ   .              , , ,   ; . . 
+, .; , .            .  . . . , , . 
+, ..; , ..              . . . . , , . 
+, .; , .; , .; , .; , .            .  . . . . , , . 
+, .; , .; , .    ﬂ      .             (), , ,   . 
+, ..; , .; , ...        .          ,    (), , ,   ; . . 
+, ..; , .; , ....  intelligence    .            (), , ,   ; . . 
+, .; , .            .            , , ,   ; . . 
+, .; , .; , .; , .        .      , , ,   . 
+, .; , .; , .; , .; , .; , .; , .             . . . , :./. , .; , .; , .; , .; , .; , .           .          (), , ,   ; . . 
+, ..; , ..; , .-xxx.; , ..; , .  ﬁ        .  . . , , . 
+, ..; , .; , .; , .; , . mental_calculation   ﬁ behavior             .          (), , ,   . 
+, .; , .; , .; , ....        protection_effect     .  . . . . , , . , .; , .; , .; , .; , .         . .  . , , . 
+, .; , .; , .; , . protection_effect       .           ( ), , ,   . 
+, .; , .; , .; , .; , .; , .; , .; , .; , .        . . . , , :./. 
+================
+ , ,  
+   
+. 
+. 
+, .; , .; , .; , .       personality      . . . . . . , , . 
+, .; , .; , ..   ﬁ    .               ,    (), , ,   ; . . 
+    .  , , .                intelligence   ( )  (://.///./). 
+================

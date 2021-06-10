@@ -1,0 +1,453 @@
+.. 
+ [modeling]         
+, ; ,  ; ,   
+ö/   /   
+ /  : 
+, ., , . .,& , . . ().  [modeling]        .    , (), . ://././... 
+: 
+        ( )  ü . ä ü      : 
+://.///./extrinsic_rewards . 
+  : 
+          ().    : ://.///. 
+================
+ [modeling]         
+ * 
+     
+ (   ;    ) 
+isolation_effect 
+          ,  , participant_modeling ,   protection_effect,  ,   , participant_modeling , participant_modeling  personality ,   .                    .  ,                     .  appraisal           [knowledge]        .     intrinsic_rewards                 .  focus      , ,  simplifying          perception        . 
+: ,  ,  ,  [modeling ]. 
+ : ( ) ,    ,   ,    (), ,  : @.. 
+  :     ,    (), ,  : @.. 
+  : learning   ,   ,    (), ,  : .@. 
+      .    .   : ://... 
+.
+ 
+.
+ :  
+.
+ : @..  :  : ./... 
+ 
+================
+ ,   ,     
+
+   .    
+  
+  
+ 
+  ,   ""                  .    [knowledge]           ,  ,     ,  ,  ,  , .     ,                  .   ""   personality       .            , ,   [capability ],  ,  , ,  , .       perception  ,     possibility_effect       perception  .  (  )       . mental_calculation  intelligence         (& , ). 
+       ,          (  ., ;  & , ).        [knowledge]  personality             [knowledge]  perception,             (  ., ;   ., ;   ., ;   ., ). 
+  focus      intrinsic_rewards        [knowledge]   .                  .      isolation_effect       ,   ,     ,  .    ,      .    segregating            personality     [knowledge ]. ,    intrinsic_rewards         .  focus   isolation_effect                      .     ,    ()            . ,               [knowledge]    . 
+. ://..///. 
+================
+ [modeling]         
+  
+   
+     ,                    .      techniques  personality   .      ,     : "                 " (& , ).      ,  ,        .           ,    ,  , ,   .        (,  , .).   ,      .     ,      .   ,    ,        .                ,         (& , ).         ,        " personality ".    perceived_consensus () appraisal            ,   %   intelligence  (, ).                       , , participant_modeling,     . 
+,        mental_calculation      .           ( persistence )         .  ,    ,       ,      .     ,        physical_quality     .  ,       live_modeling,                  (& , ). 
+
+   .    
+  
+  
+    intrinsic_rewards 
+  ()                intrinsic_rewards     
+. ://.././/?=: 
+================
+ ,   ,     
+
+   .    
+  
+  
+                  possibility_effect  (  ., ).             intrinsic_rewards       .  ,        ,  ,  ,       (& , ).  ,           ( ),     ( ),      (perception / ),       ( ),  ,           ( syllogistic_rules modeling) (&  , ). 
+        extrinsic_rewards.       focus              . ,               (  ., ). 
+          .                 (),   () ,     () (& , ).      ,        intrinsic_rewards.       process         , ,                 ()       . ,        .  ,   intrinsic_rewards   ,  ,  ,       , ,           (, ). 
+ [modeling] 
+ [modeling]   personality perception  judging   combining   .           .   [modeling]        .      perception       ,     intrinsic_rewards        , , ,     (  ., ). 
+ belief           
+================
+ [modeling]         
+     ,      perceived_vulnerability    .   ,        .             (  ., ).       ,   ,           .      [modeling]       [modeling]     personality      intrinsic_rewards (  ., ). 
+ 
+  
+   ,        (experiential_awareness  )                  .      intrinsic_rewards      .              ,             source .        ,     ( ï�ve ,  , gain  , ,  protection_effect   ())             [knowledge]   .
+   .    
+  
+  
+  
+ focus   combining    (  [knowledge ])           [modeling] .          [knowledge]           .    ,             [knowledge]   .               . 
+        focus.     Collection, ,  ,    . ,           . 
+ Collection 
+      ,   gain      .            .    ,    
+================
+ ,   ,     
+ 
+               [knowledge ].          .
+   .    
+  
+  
+ .    
+ .      personality  
+================
+ [modeling]         
+  experiential_awareness    []         personality      [knowledge ].             personality . 
+
+   .    
+  
+ .  personality     
+   Collection,      .  experiential_awareness      .     ,    segregating.  combining                intelligence . 
+  
+  
+        . 
+ .                 ,   , ,                 (& , ).       intrinsic_rewards     , ,        (  ., ).   ,    intrinsic_rewards          . 
+ .    ,  , "@"       .     ,  ,     segregating. 
+    .   ,         .                 .              
+================
+ ,   ,     
+ 
+        (& , ).        ,     focus   source    . 
+.    process            ,  .                           ()  (& , ).   ,    ,      "", "", ""     "".
+   .    
+  
+  
+  
+     simplifying        ().             ( )              (, ).   ,   (      )    ()  ,     ,   .         perception. 
+     
+                  [modeling] .  ,               Collection  .                focus.    appraisal    .             .  focus           (  ., ;   ., ; , ;   ., )        gain. 
+             .   ,                  .  ,              .       ,             .  ,                 . 
+  . ()      .             .           .        .      
+================
+ [modeling]         
+                  . 
+
+   .    
+  
+ .       
+ .      
+  
+  
+  
+   
+ 
+, , , , , , , , , , perception, , , , , intelligence, , , ,  
+, , , , , , , , , , , , , , , , , , , , , , , intelligence, , , [],  , , , , , focus, , , , , , , , , , , , [policy ], , , , , , , , ,  , , , , perception, , , , , , , , , , , intrinsic_rewards, , , , , , , , , , , , ,  
+, , , , , , , , , , , , behavior, , , ,  
+, , , , , , , , extrinsic_rewards , , combining, , , , , , , ,  
+, , ,  , , , , , , , , , , , , task, , constraint, , 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+================
+ ,   ,     
+ 
+              .                evaluating      personality         .         .    "", "", "", "", "",  ""   perception   .                    .
+   .    
+  
+  
+ .       
+            . 
+ : , ,    
+    ()     ,                 ,          , ,     participant_modeling      .        personality        (),    (),       (),       .       , 
+================
+ [modeling]         
+,     .        personality ,          intelligence .          ?   persistence         ?               ? (, ). 
+        protection_effect  " " personality                              perceived_vulnerability   loss (, ). 
+                        .        .    "", "", "", "", "", "",  "",      ,  experiential_awareness    .        ,        .  ,  λ   .  loss        (λ          ). 
+
+   .    
+  
+  
+ .      λ  . 
+================
+ ,   ,     
+ 
+           λ      .
+   .    
+  
+  
+ .       
+ .           .           
+ :   
+   ()                   intrinsic_rewards.                     .     intelligence      (  ). 
+                 .            , , , , ,    (  ., ).               .   ,    "", "", "", "", ""  .  
+================
+ [modeling]         
+ :   
+   ()                   intrinsic_rewards.                     .     intelligence      (  ). 
+                 .            , , , , ,    (  ., ).               .   ,    "", "", "", "", ""  .             .        "", "", "", "", "intelligence"  ""    (   ). 
+
+   .    
+  
+  
+ .     
+================
+ ,   ,     
+
+   .    
+  
+  
+ .       
+ :     
+         "       ."             .          ,    Collection                 () .     experiential_awareness      .               . belief        possibility_effect fear_arousal.     perceived_responsibility          ()      (, ).                 .          . "", "", "", ",  ""     . 
+================
+ [modeling]         
+
+   .    
+  
+  
+ .       
+       "", "", "", ""  ""   ,   . 
+ :   
+    (, , , , ,  )                 participant_modeling   . perceived_uniqueness ,    ,    personality             " ."   ,    , , ,  ,      "   ".   , ,         perceived_uniqueness       .           "", "", "", "", "", "physical_quality "      .                       .                . 
+================
+       "", "", "", ""  ""   ,   . 
+ :   
+    (, , , , ,  )                 participant_modeling   . perceived_uniqueness ,    ,    personality             " ."   ,    , , ,  ,      "   ".   , ,         perceived_uniqueness       .           "", "", "", "", "", "physical_quality "      .                       .                ,
+    
+ ., 
+   
+ 
+
+   .    
+  
+  
+ .     
+ .     
+ .       .       
+  :  
+        loss      ,  ,     (  ., ).           ,        , ,  ,  ,        .            certainty_effect ,                   (  ., ).            "", "", "", "",  "",  experiential_awareness .         . 
+ 
+================
+ [modeling]         
+ :  
+        loss      ,  ,     (  ., ).           ,        , ,  ,  ,        .            certainty_effect ,                   (  ., ).            "", "", "", "",  "",  experiential_awareness .          . 
+
+   .    
+  
+  
+ .       .       
+   :     :   combining      
+ combining           ).    
+       (,   
+          (,   ).       .            . 
+           .                            focus.   .    (  perceived_vulnerability)      , 
+,          .  ,    
+      ,          
+ .              
+. 
+================
+ ,   ,     
+ 
+  
+              focus.     (  perceived_vulnerability)      , ,          .  ,          ,           .        . 
+      . . 
+       
+ 
+ .
+   .    
+. 
+. . 
+.. 
+.. 
+  
+ 
+       
+      
+   
+  
+           . perceived_vulnerability   
+        
+ focus          perceived_vulnerability  . perceived_vulnerability  
+ focus     
+   .  ,       
+ . perceived_vulnerability     perceived_vulnerability    .  ,        
+       ( ).  focus         perceived_vulnerability    .    ( ). ,             ( ). 
+    
+  ,        ,            ,       ,       ,        .            .         gain        .          ,        .           ( gain    )  , a_memory       . .            . gain     .            .      .                 
+ .              ( gain    )     ( gain    
+. . . 
+)  , a_memory     , a_memory  . 
+. 
+. 
+. . 
+              
+   .              .       .     
+     gain  .     &    
+ 
+ 
+  a_memory 
+  . . .   . . . 
+                                                     .          .           gain  .       gain  .        &      .    
+ 
+================
+ .      
+ 
+ 
+  
+  . . 
+  [modeling]        . . 
+a_memory 
+. . 
+&      .    ,             &  .       (,                 )          .             .         gain  .     &      .& ,  &           ,        gain  .  judging        &  .       (,            "", "", "", " ", -system)          . & ,  &  ""               gain  .  judging         ( ).          "", "", "", " ",  ""             ( ). 
+ .    gain   .    gain   
+
+   .    
+  
+  
+    ""     .    role         ""     .    [Organization]   ( ). 
+    role       
+ [Organization]   ( ). 
+ .          
+================
+ ,   ,     
+ 
+         .         .        . 
+ .      
+   .    
+  
+  
+    & ,   &          .   process                         . ,                            .   . ,   
+         .             .          
+   . 
+ .      
+ .      
+ 
+ 
+    () 
+ (),  (),  (),  (),  
+ 
+, ,  (), intelligence (),  (),  (),  
+  (),  (),  (),  (), 
+ () 
+ (),  (),  (),  (), 
+    (),  (),  (),  (), 
+ (),  () 
+ (),  (),  (),  (), 
+     (),  (),  (),  (),  
+(),  (),  () 
+() (), physical_quality  (),  (),  (), 
+    (),  (),  (),  
+() 
+ (),  (),  (),  
+  (),  (),  (),  (),  
+(),  (),  (),  () 
+belief 
+judging          [knowledge ], combining        . , ,          .                 "", "", "",  "" "", "", "", "", "", ""    .             ,   ( )     ()           intelligence         protection_effect       . 
+    ( )     .          .    "", "", "",  ""      . ,   ()      loss      ,  ,          ,     . 
+  ( )                   -time.   "", "physical_quality ", "", "", "",  ""      . 
+ 
+================
+ [modeling]         
+belief 
+judging          [knowledge ], combining        . , ,           .                  "", "", "",  "" "", "", "", "", "", ""     .            ,   ( )     ()           intelligence         protection_effect       . 
+    ( )     .          .    "", "", "",  ""      . ,   ()      loss      ,  ,          ,     . 
+  ( )                  .   "", "physical_quality ", "", "", "",  ""      . 
+
+   .    
+  
+  
+ 
+, ., , .,&  , . (). appraisal   
+    :  personality . 
+   [knowledge]  , (), . , ., , . ().     [modeling]    
+. . . , , . 
+, ., , ., , ..,& , .. (, ).   
+        :  
+.     [knowledge]  
+   (. ). , , . , .. ().   ,  , perceived_vulnerability, 
+      .   
+, . 
+, ., , ., , ., , .,& , . ().    
+    . , (),  
+. 
+================
+ ,   ,     
+
+   .    
+  
+  
+, .., , .., , ..,& , .. ().  
+          
+.   , , . 
+, ., , .,& , . ().     
+perception [modeling]     .  
+é, (), . 
+, . .,& , . ().     ( 
+  ):    .  & , , 
+. 
+, ..,& , . ().   .  
+     , , . 
+, .,& , .. (). , ,  . 
+   , , . 
+, .., , .., , ..,& , .. ().   
+     .  
+ , (), . 
+  perceived_consensus () (). evaluating  
+ .    ,   
+. 
+, ., , ..,& , .. ().     
+   protection_effect     
+.    , , . , .,& , . ().  intrinsic_rewards   
+. . : .   :// 
+../// 
+// 
+/.. 
+, .,& , . ().         
+  .  , , . , .., , .., , .,& , .. ().   
+     .       
+    [knowledge]    
+ ().  :   , , . 
+, .. ().      
+   .     , , . , .,& , . (). :   . 
+         
+  , , , ,  . :  
+  segregating, . . 
+, .. ()        (. 
+).  :    segregating. 
+================
+ [modeling]         
+ , .,& , ... ().  appraisal   
+    intelligence     
+  .      
+  , (), . 
+, ..,& , .. ().      
+        
+ .   , , . , . ().   personality .  . ,  
+   ().  ,  : . 
+:./. 
+, .., , .,  , .,&  , . ().  
+  appraisal   personality .  
+       personality , . , ., , ., , .,& , . ().      
+.       (). 
+   , . 
+, .. ().         . 
+       intelligence, , 
+. 
+, .,  , .,&  , . ().  
+      mental_calculation   
+    . , (), . , .,  , .., , .,& , ., ().   
+   [knowledge]  impact   : 
+     .    
+  , (), . 
+, .,  , .,& , . ().     
+evaluating  [knowledge]  [capability ].     
+ & , (), . 
+, .. ().  .  , . , .,&  , . ().     .  
+ &  , , . 
+, ., , ..,& , . ().  
+intrinsic_rewards     .    
+ &  , , . 
+
+   .    
+  
+  
+================

@@ -1,0 +1,1545 @@
+  perceived_vulnerability focus : 
+  [activity] 
+     
+  
+  
+ , .. 
+  
+ perceived_vulnerability appraisal     ,  
+  
+  
+  
+  
+      , 
+ 
+  
+================
+   
+   .  
+  perceived_responsibility   Collection          ,      ,    ,      ,      Collection  .     perceived_responsibility appraisal       Collection  ,      perceived_responsibility,    ,      ,    ,  ,   .           ,               Collection     
+        . 
+.     
+.   
+.    
+.  
+    
+. perceived_responsibility  
+ perceived_vulnerability focus :   [activity]     
+. () 
+.  [Organization] ()  techniques () 
+.   
+.    
+.   
+. task  
+.    
+.  [Organization]   
+   ,   
+(),,, 
+. /  ()  techniques () 
+. /  
+   ;   
+.   
+. isolation_effect 
+.   
+.   : 
+.   
+. isolation_effect  
+.    
+. / () 
+. /  () 
+.   
+isolation_effect 
+   () 
+.    
+ 
+.     
+   (. ) 
+     
+================
+   
+ :  ....................................................................   perceived_vulnerability   .............................................................................   extrinsic_rewards       perceived_vulnerability  .................................................    / ....................................................................................    perceived_vulnerability focus ............................................................................................................  [Organization]   ........................................................................................................   :     perceived_vulnerability focus    [activity]    ..............................  ...............................................................................................................................   .............................................................................................................................     .............................................................................................................    ........................................................................................................   :             [activity]     .........................................................................  ...............................................................................................................................   .............................................................................................................................     .............................................................................................................     ..................................................................................................   : belief :          ...........................................  : ..............................................................................................................   :   ..............................................................................   :     ..........................................................................   : .........................................................................................   : .........................................................................................  
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+ :  
+ 
+   ,          simplifying              .      ,    segregating [authority]      . ,       behavior_control-ability                  [authority]     . 
+       belief              ,               .  ,   segregating [authority]   ,                 .           . 
+                 .            perceived_responsibility       . belief                          . loss        $ ,      . 
+******** 
+              
+ .            
+    .     ,   
+               
+        .     
+    ,       behavior_control-ability,   
+   .           
+ behavior  ,           . 
+             
+        ,      
+   .   loss          
+  . 
+           ","   ,    ,               loss.     ,      possibility_effect    
+ 
+ 
+          .      
+:     , ,  .  .     , . 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+perceived_vulnerability     [knowledge] ,   ,   / . 
+  perceived_vulnerability    
+  perceived_vulnerability          .       fear_arousal            ,   loss     .         loss   [Organization]             loss                 . ,          [Organization]            ,   Organization       personality       . 
+     protection_effect ,            appraisal  combining vulnerabilities ,   ,   personality    . ,        perceived_responsibility       protection_effect       .        role   ,        protection_effect            ; ,          [action]      protection_effect          . 
+ gain,     protection_effect      persistence                 personality : 
+•    
+•    •  
+•    
+• perceived_vulnerability  
+•    •   
+•  
+• 
+ 
+
+       . ( ). ://..// 
+
+    ,    ,     
+    . ,       
+  isolation_effect . ,     focus      , 
+       .  
+://../////.
+ 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+•  
+•      •  
+•    
+        ,              protection_effect        .                           personality .     perception    perceived_vulnerability  
+. 
+ extrinsic_rewards       perceived_vulnerability  
+  combining     
+appraisal       personality       [activity]      .              .        loss   ,    ,           . 
+,                     .    ,™7      , ,      ,               .                   ,  %           , %  ,  %   . 
+  techniques   perceived_vulnerability  
+                 .     
+ 
+
+   ,     ,      planning       perceived_vulnerability   ,  . 
+  ,       . ().   . , :   [       ]. 
+ , . ().   /     ,    [     ];    ().    ;    . 
+ ://..///. 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+    [knowledge]           () .  ,           
+•    combining      learning  
+     
+•       perceived_vulnerability   intelligence 
+ 
+•              
+       
+,            gain [knowledge]   . ,                personality    perceived_vulnerability.  ,               .    personality     techniques     perception    ,  ,    . 
+  perceived_vulnerability focus ()           ; ,                         .           perceived_vulnerability appraisal  ()            ().            ,     .
+ 
+
+ , . . (,  ).       , ,          .  , :  ();    ().   perceived_vulnerability :      perceived_vulnerability  process . , . 
+ , ., , .,  , . ( , ).  :      :   ,  Vulnerabilities, . 
+
+    ;  . 
+
+ , .  , . (). personality   perceived_vulnerability :      . ://..////
+ ://..////. 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+  /  
+ ,              combining, ,   possibility_effect  ,  vulnerabilities ,    .     extrinsic_rewards        
+.    combining, ,         
+   impact         
+[Organization] 
+.    combining, ,        perceived_vulnerability  
+     
+.        personality , ,   
+ combining          
+  possibility_effect  ,  vulnerabilities ,     
+         /  .                     loss  .     [activity]                   . ,     
+•          ,    segregating , 
+  , perceived_uniqueness ,   ,    
+•      , ,  
+  
+•   ,     ,    loss  
+         
+       mastery_experience         mastery_experience      .          thinking  behavior        perceived_vulnerability   ,  ,   .               impulsive_effect  personality .  [goal]           perceived_vulnerability appraisal  -   combining, ,    perceived_vulnerability  loss            participant_modeling  impulsive_effect,  personality, behavior .
+ 
+
+ , . .,  , . ( ).  intelligence& perceived_vulnerability appraisal :    []     .    intrinsic_rewards. , ., , ., , ., , .,  , . ( ).          :          .        . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+  ,    . .    (),            .   extrinsic_rewards                ()           perceived_vulnerability  .  focus      combining                .            , ,     simplifying  perceived_vulnerability           .  ,  /                  behavior  mental_calculation      , ,   ;              ,    intrinsic_rewards . 
+  perceived_vulnerability focus 
+  ,              loss   [Organization]  , ,       personality , ,        .          personality , ,     , ,   protection_effect   [activity ].   focus   focus   combining                 . 
+      : 
+•   ,     ,  appraisal    
+ [activity] learning       personality  
+ 
+•    focus          
+  ,     (),  
+    
+•             
+    [goal]  
+ 
+
+ ..// //. 
+ combining, . ., , . ., , . .,  , . ., , . .,  , . . (, ).      :   .    ://..///. 
+  ,       . (). &    . , :  .  
+, . ., , ., , ., , .,  , . (,  ).  perceived_vulnerability focus :   [activity]      .       .    ://..  
+://..///.
+ , ., , ., , ., , ., , .,  , . (, ).  perceived_vulnerability focus :      .      .    ://.. 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+   focus         
+•     
+•    
+•   
+•   
+•    
+•  
+•  
+ ,  perceived_vulnerability focus :   [activity]    ,   ,  ,        extrinsic_rewards. 
+focus  
+   extrinsic_rewards   : ) combining           , ,   ; ) combining vulnerabilities         ; , ) focus  [activity]       . 
+   [activity]               . ,  [activity]     , ,           . ,     ,  ,    ; ,      [activity]          . 
+  
+      : 
+.       , ,  
+              
+ belief        loss? 
+.         [activity]    
+? 
+.      impact   [activity]     
+? 
+.               
+ loss? 
+.            ? 
+ 
+     focus ()         ,   [Organization]       ,     focus. 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+focus  
+ "" 
+          .          . 
+ " [activity]" 
+     , " [activity]"                , ,   ;          [Organization]  , ,    . 
+    
+     ,       , [],    ,  personality            personality          .                     . 
+focus  
+ combining                       .                   . 
+    ,  combining      .    segregating      focus    intentionality : )        ; / )      . 
+                .     
+•      ,       , 
+   perceived_uniqueness  ,       
+
+ 
+•    
+•       
+•        
+ 
+ 
+ "[]"   " []   ,    ,  ,   , ,  ,       ,   intrinsic_rewards     ."  ""   " , , , , ,   personality    [],        [Organization ],      [Organization ],                          []  personality , ."                       . 
+ " "      ; "perceived_uniqueness "     ,  ,              perceived_uniqueness  ;  " "         . 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+    [activity]     
+•    protection_effect / 
+•    () 
+•       () 
+•   
+•   , [], ,      
+   
+      focus,                     loss    belief        .       ,    , ,   -     -        . 
+    source    ,    ,    ,     ,  ,   ,  ,        history  ,  vicarious_experience source    .       , , ,             history    [Organization ].     [Organization]   ,    [Organization]  ,       loss    [Organization ].                 [activity]     . 
+     situational_circumstance        source  .   ,     ,  ,         .           .      , [Organization] , ,     . 
+
+ 
+                        .          : 
+•     
+•          
+•  planning   
+•   loss   [Organization] 
+•     
+ 
+
+   ,                  . 
+            . 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+• • • 
+      [Organization]    history 
+  mastery_experience   
+        
+•          loss 
+•   motivation     
+•            [Organization] 
+•              
+ 
+•            
+•       
+        
+•            
+•      
+•      
+•      
+•       combining   
+•     [experience] perception     , , 
+, . 
+      [Organization] :     [Organization]    ,  ,   ;      ,  ,   . 
+    ,    gain        .   ,         combining             . 
+ gain,      focus fear_arousal   (  ),       (  ). ,                  . 
+ 
+  ,           [activity ],    ,                     .                     . ,       focus          .      generalizing  focus    [Organization]                     perceived_vulnerability. 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+,                   [knowledge]      judging  .  focus   perception          .  perception                       focus        . 
+[Organization]    
+         .        focus.         .     belief,       possibility_effect     [activity]    . 
+,     .               ;       ;   loss    ;     .                 focus.            .                     .              . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+ :     perceived_vulnerability focus    [activity]     
+            : 
+•   
+•   
+•    
+•     
+              ,      ,   ,         .           planning         .                     .   ,    ,     .            possibility_effect    ,       ,  ,     .          
+   perceived_vulnerability  . 
+           .  ,      focus fear_arousal  ,      . ,                     . 
+  
+ 
+ 
+•    participant_modeling   . 
+•           protection_effect 
+   segregating  . 
+  
+   participant_modeling    . 
+•        (%)   (%). 
+ 
+•       (%)   (%).  
+   (%)   (%). 
+•       . 
+
+ 
+ #    . 
+ #    . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+•   (%)            
+/ , , / . 
+•     (%)        , 
+ , /        . 
+•    (%)         / 
+  (%), /   (%),   
+   (%), impulsive_effect  (%),    (%). 
+       protection_effect . 
+•  (%)        protection_effect ,  
+  , ,   ,  . 
+•            protection_effect   
+     . 
+•   (%)       ,    
+, ,       . 
+           . 
+•     (%)   ,     
+ (%)         
+ (%)       loss. 
+•        , ,  
+       . 
+•            
+  .    ,   
+       %    .  
+        (%),    
+      (%). 
+  
+ 
+•           behavior 
+   ,         
+. 
+  
+     (%),     behavior         .   : 
+•     perception    (%)   (%)  
+behavior      ;   ;   
+ perception;          
+. 
+•     perception     (%),   (%),   
+  (%)          behavior. 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+           [Organization] . 
+     (%),              . 
+ 
+ []    ()            .      [activity]              satisfaction_of_needs               .            .         ""    .     ,     ,            .    ,                 []        . 
+ 
+•  intrinsic_rewards    motivation ,   ,     
+. 
+•     ,    ,      , 
+       . 
+  
+   
+     (%)  certainty_effect   intrinsic_rewards .       intrinsic_rewards  . 
+   certainty_effect   (%).   certainty_effect    loss    [Organization]   
+•    (%) 
+•        (%) 
+•           (%) 
+,    certainty_effect    frustration_of_needs (%).   (%)         .      :
+ 
+ 
+  ,      motivation (          ;  , )    [goal] (   
+      ;  ,    ).
+        . 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+• %            
+. 
+• %             
+ . 
+     perceived_vulnerability  loss (%)     . 
+     (%),  intrinsic_rewards     [goal]       .       / (%);    / (%);  personality  (%);    (%),         . 
+    
+     (%),    ,    ,   .          ;     [action] (%);  perceived_responsibility   (%);       [Organization] (%);    frustration_of_needs  ,  [Organization ],    (%);    (%). 
+     (%),            .    
+•  %,           participant_modeling 
+  [activity ]. 
+•  %   ,         
+. 
+•  %   ,           
+. 
+          .    (%),               .    
+• %            
+extrinsic_rewards  extrinsic_rewards .  ,      
+  
+        ,   
+       ,  extrinsic_rewards (%) 
+ isolation_effect , simplifying ,       extrinsic_rewards 
+(%) 
+ gain   extrinsic_rewards    , ,  
+    , ,    (%)
+ 
+ 
+  ; combining    %. 
+   ; combining    %. 
+          (). 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+• %            
+    . 
+   ,     (%) learning      loss.   , %  learning         loss. 
+   planning 
+                          .          perceived_responsibility              $,. 
+    perceived_vulnerability             .               .      [knowledge]             process.                   .       $ $    . 
+ 
+•       . 
+•    ,  ,  extrinsic_rewards     . 
+  
+      (%),          .  %       belief      .          (%),        .   planning [activity]  
+•       
+•            
+•  , , /       
+•         
+•  /   
+ 
+  (%)       planning      : 
+• %     . 
+• %  . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+• %     . 
+  (%)           , , ,  . 
+   (%),  -     -      , , / .       planning,          ,       planning. 
+  ,          . , %            .             .               [activity]        .           . 
+      ;                .        ,  %        . 
+     
+           [Organization]                   .  ,              ,   [activity]        extrinsic_rewards    . , Organization     Organization      learning  ,       .   , Organization                   extrinsic_rewards. 
+ 
+•               
+. 
+•         . 
+•          . 
+•             
+  . 
+  
+    [activity] (%)       .   
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+•         . 
+•          belief. •           . •       . 
+•        . 
+                    .   
+• %  ,  . 
+• %  ,  . 
+• %    . 
+  
+• %    . 
+• %    ,  . 
+• %    ,  . 
+• %     .
+ 
+ %  ,              .      (%)             .      ,  
+•     
+•   
+•    
+•              
+•           
+•    
+         ,   
+: 
+•            
+•             
+•  [Organization]     
+•             
+         ,  
+ : 
+•     
+•              
+      
+•         perceived_vulnerability
+ 
+
+           , ,     perceived_vulnerability       intentionality,       . 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+•       
+•  "  sudo"  participant_modeling    
+•       combining      
+,              
+       
+ gain,             ,  
+•       ,        
+         
+•  ,     source     
+      
+•       "   "   
+•     .      
+•     isolation_effect       
+      .        .   (%)        satisfaction_of_needs     /. 
+  (%)    .           ,  %      ,     ,       ,     .             . 
+ process      
+            
+         .   ,   
+perceived_uniqueness         perceived_responsibility   
+       $,.     $  
+  perceived_uniqueness ,  $       
+      perceived_responsibility  .      
+           . 
+       perceived_uniqueness ,   
+            
+     perceived_uniqueness,       
+ 
+ 
+sudo                   (   ).  ://..//Sudo   . 
+
+     ,  .              . 
+                  . 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+   satisfaction_of_needs  perceived_uniqueness . ,             ,                  ,          intelligence  . ,                   process. 
+ 
+•          
+           
+  . 
+  
+     vulnerabilities   .   
+•           ,  
+      . 
+•             
+  ,     ,    
+. 
+•          . 
+   (%)         .      vulnerabilities       segregating  .   
+•           
+     . 
+•    segregating        
+  [policy]      . 
+•   (%)           
+  . 
+•   ,           
+. 
+•       participant_modeling     .
+ 
+ 
+     process            process       protection_effect   . 
+
+  Collection  ,        [Organization]      [goal ].      , , ,   ,   ,    extrinsic_rewards .   process       protection_effect, .., , ,  .
+         ,    .   ,       .    participant_modeling          .         role  ,    role      participant_modeling   . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+   
+        satisfaction_of_needs    $,         .                satisfaction_of_needs       .             ,            .               satisfaction_of_needs      .                . ,          satisfaction_of_needs   (  )             intelligence  .       ,            . 
+ 
+•          , ,  
+. 
+  
+ (%)        .      (%)        ,  %        loss.              [activity]   segregating .
+ 
+        ,     ,    ,     . 
+•             
+  [function]  role  :   (%),  
+ (%),    (%), /   (%). 
+   :   (%),   (%),  
+  (%), /   (%). 
+•           [function] 
+ role       :   
+ (%),  (%),        
+(%).    :    (%), 
+ (%),        (%). 
+•            
+     :  (%)   (%).  gain, 
+      %   . 
+•  %    ,       .
+ 
+
+         . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+ %   ,              (%),   (%),  (%),           (%)  source   (%). 
+             , , ,  ; %        ;  %       . 
+ %   ,         combining    perceived_uniqueness   .    
+• %           . 
+• %    . 
+• %    . 
+• %     . 
+•          :  ,    
+   ,   . 
+     (%)             [Organization ]. 
+          , ,      . 
+•   (%)          
+. 
+•   (%)           
+segregating       . 
+     
+•     ,      
+  
+•        
+•  ,        history  
+•       
+•          
+•      impulsive_effect       
+  
+•         ,       
+   
+•             
+       
+ 
+
+            . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+  (%)           ;  (%)              (%).             . 
+     
+           segregating        " "     .    ,                    .  [action]                           . belief               . ,       ,                     .       perceived_vulnerability       ,      .        combining    .   [exposure]       ,                           .               combining  $. 
+ 
+•       . 
+•             
+. 
+  
+         (%).     []  (%)    (%). 
+ 
+        ,   (%)  . 
+•           (%),   
+ (%),      (%). 
+•   (%)         extrinsic_rewards   
+focus. 
+•      (%).
+ 
+ #    . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+•  %      .       
+ . 
+     (%),       . 
+•    (%)          
+. 
+•          (%). 
+   ,   (%),  (%),      (%). 
+    focus  ,   (%)     .   (%)    .         (%),    (%),     (%). 
+ %    ,             . 
+•   (%)          
+. 
+•  %            . 
+•  %   ,        ,   . 
+  (%)     perception        .
+ 
+   
+   ,        
+   .   loss        
+$,.            
+      belief    [division]   
+     .      [authority] 
+         .   
+              
+        .
+ 
+ 
+•    , [],    . 
+•   impact     loss   loss  
+  . 
+•            
+     [activity ]. 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+  
+[Organization]  
+               - , [],  .      ,   ,  . 
+•     loss          
+ ,  %      , % [] 
+,  %  . 
+•     .       ( 
+); %   (,);  %   ( , 
+) .  
+•         focus     
+ , ,   []        
+   , . 
+•           ;   
+        , . 
+          , ,      ,  ,   
+,  , ,  situational_circumstance . 
+•     (%)         
+ . 
+•   (%)      . 
+•   (%)           loss   
+ . 
+•      (%)   . 
+•   (%)         
+. 
+    ,              loss. , %     learning     loss    focus;       ,    ;    []              .       learning     . 
+
+            . 
+Impact   
+   loss        
+•   (%) 
+• perceived_uniqueness   (%)
+ 
+ #    . 
+ #    . 
+ #    . 
+ #    . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+•   (%) 
+•  (%) 
+•     (%) 
+•          (%) 
+    ,         . 
+•   , ,        % 
+  . 
+•      /      (%)   
+. 
+•         %   . 
+•  %   ,          
+.        ,  
+            
+      . 
+  (%)    learning     loss .   
+• %     $,   loss. 
+• %   $,  $,  loss. 
+• %   $,  $,  loss. 
+• %   $,  $,  loss. 
+•  %   $,  loss       
+$,,   loss. 
+[Organization]    
+          . 
+•  (%)         . 
+•     (%)       
+      perception . 
+•   (%)            
+           
+. 
+•    ,       
+(%),     (%),   (%), impulsive_effect 
+   (%),   /  (%). 
+•   (%) [Organization]   , ,    
+ . 
+         (%) .
+ 
+ #    . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+•              
+loss. 
+•    (%)         
+. 
+•     (%),         
+  . 
+        (%). 
+•          (%). 
+•       %   . 
+• []      %   . 
+•  %          . 
+  
+             
+            
+     $,    .  
+      segregating      
+        .   
+         
+ [Organization ],         
+            
+  persistence   
+ 
+ 
+•        impact      
+  possibility_effect     . 
+  
+•      ,          
+     . 
+•   (%)       (%)   
+          
+: 
+     perceived_uniqueness      
+,         .;    
+       . 
+    []     .    
+     .       
+    ,   .
+ 
+ #    . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+  $,  perceived_responsibility           
+   [] perceived_uniqueness .  gain,    
+          
+    combining  perceived_responsibility  . 
+          
+    . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+ :             [activity]     
+                  .         :  ,  ,   ,     .           .                    . 
+  
+  
+ 
+•           protection_effect  
+  segregating  . 
+ behavior 
+•           behavior 
+   ,         
+. 
+motivation 
+•  intrinsic_rewards    motivation ,   ,     
+. 
+•     ,    ,      , 
+      . 
+ 
+•            
+  participant_modeling   [activity]   . 
+•      , ,    
+/ behavior   . 
+•         ,  
+,  ,  gain  perceived_vulnerability    [activity]  
+        intrinsic_rewards. 
+            participant_modeling   [activity]   .        fear_arousal       
+ 
+
+ , ., , .,  , . ( , ).  :      :   ,  Vulnerabilities, . 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+     , ,   .  , ,       personality    personality loss. ,                       protection_effect    segregating  .        perceived_vulnerability    [activity]      belief  [skill]  ;        perceived_vulnerability ,     [skill]          . 
+     , ,    / behavior   . 
+      [activity]            [policy]    .          .              . ,       behavior   , ,   ,       .             personality,   behavior         .   %        behavior    ,      ,      [Organization]           . 
+ ,  personality   behavior     ,         gain      [policy] .  ,                 .           ,          ,   .     ,    personality       behavior , Organization   .      ,       ,       . 
+          ,        [activity ].          behavior   ,  ,  [activity] .     [Organization]            [activity ].
+ 
+
+ , . .  , . "   :           ,"     ,    (). , .:     , . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+        ,   ,  gain  perceived_vulnerability    [activity]          intrinsic_rewards.  intrinsic_rewards    motivation          .    loss               [goal]     intentionality  loss  [Organization ],  ,   .      ,  , ,   personality      extrinsic_rewards         [Organization ]. 
+     protection_effect        ,  ,   ,   ,       .      perception   ""             .   , ,         ,     ,                   extrinsic_rewards.          extrinsic_rewards.                   ,    ,   perceived_uniqueness . 
+     ,           .  ,        /                .         ,            extrinsic_rewards  .
+ 
+,            gain      .         ,  ,   ,  techniques ()   .               belief    .               perceived_responsibility       . 
+   planning 
+  
+•       . 
+•    ,  ,  extrinsic_rewards      . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+ 
+•          . 
+•    process        
+      possibility_effect  [activity ]. 
+        .      ,   [knowledge]             .              .     ,   [knowledge]        perception   .   ,    experiential_awareness       intrinsic_rewards         .      ,        personality    . ,    experiential_awareness      ,                  .           . 
+                    ,     [activity]      .   ,          . , ,  ,        intrinsic_rewards         .  ,               combining extrinsic_rewards    segregating         . 
+              loss   [Organization]         simplifying       loss. 
+   process             possibility_effect  [activity ].        [knowledge]     behavior             intentionality  loss.  gain,              combining     [Organization]     .    process                     source   .       process        behavior. 
+           [Organization]  participant_modeling       behavior.   , ,  ,  ,     extrinsic_rewards         behavior  fear_arousal. 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+     
+  
+•               
+. 
+•         . 
+•          . 
+•             
+  . 
+ 
+•     ,  ,      
+    .         
+, , ,  /,    , 
+,    perception . 
+•          
+ . 
+•           
+   . 
+•         
+, ,     . 
+•        protection_effect      
+protection_effect           . 
+•  vulnerabilities    [activity ]. 
+•   perception     . 
+    , ,          .     perception     [function]    [Organization]   . ,          vulnerabilities           . 
+     
+• [policy]          ,  
+       ,      
+  
+•        
+•          
+       
+•             
+  (      ) 
+•          combining    
+   
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+•            
+             
+•               
+  
+•  vulnerabilities          
+      
+ 
+          perception   .          , , ,  / ,    , ,    perception .  gain,           [Organization]   . 
+            .   ,                 , ,  .                     role -   .   ,                .                . 
+         .  gain,             .                      . 
+         . ,            .                . 
+             .                 participant_modeling     .                           .   ,     protection_effect       [Organization]      . 
+ 
+
+       perceived_vulnerability focus            .    ://..///.  ://..//. 
+                belief.  ,       .  gain,       ,   ,       .              .  
+://..///#      . 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+       protection_effect     protection_effect                  .      .               .   ,      protection_effect      .          ,              .
+ 
+           , , ,  / .       gain  vulnerabilities    .        .            process.           ,                . ,              ,                           perceived_responsibility. ,          protection_effect       . 
+       , ,     .               segregating             
+ .           [Organization]  , ,   .              .  ,            . 
+                           . Organization    source     [function]           impulsive_effect           [activity ].           belief        . 
+,  [Organization]              personality   .       ,             
+ 
+ 
+ :           ,    protection_effect ,       ""         . impulsive_effect                        ,  .   process            .       gain    , ,    : ://..///.
+ 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+   .             .  gain,                          . 
+    ,             .   personality ,  ,    .      , ,            .               .  gain,         ,  isolation_effect        ,  protection_effect         . 
+            ,               .  ,      personality              .  ""               ,           [Organization]        .                     . 
+       protection_effect      protection_effect           .                       .    ,   mental_calculation        judging   ,     perceived_vulnerability        . 
+            ,    "."      loss,            .            [Organization]  "  sudo,"           . Organization           Organization                   Organization       . , Organization      ,          . 
+                        .        protection_effect         
+ 
+
+  ,  .                     .  
+sudo                   (   ).  ://..//Sudo   . 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+ ,         loss       . 
+ vulnerabilities    [activity ].          gain    vulnerabilities     .        
+•  vulnerabilities         
+      [activity] 
+•  [Organization]          
+   vulnerabilities 
+  ,    gain     perceived_vulnerability    [activity] .   techniques       ,       vulnerabilities       [Organization]    .  vulnerabilities         [Organization]  .          vulnerabilities,            [Organization]    opportunity_for_criminal_acts. ,        [Organization ],     [Organization]      satisfaction_of_needs       [Organization]     ,    . 
+    perceived_vulnerability        perceived_vulnerability       . ,                   ,          vulnerabilities       .  " [knowledge]"            intrinsic_rewards    ,        . 
+ gain  perceived_vulnerability ,            [Organization]  gain     .  ,  [Organization]     "  sudo"           .                   mastery_experience     possibility_effect . 
+  perception     .                  possibility_effect    .   perception      protection_effect         
+ 
+
+        vulnerabilities   [activity] : 
+://..//.    vulnerabilities       ® 
+         ,             . 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+   [Organization ],      ,   possibility_effect    [Organization]      . 
+                           opportunity_for_criminal_acts.                      . , , ,          belief.  gain,         [activity ],             ,            . 
+       perception   .            ,                        [Organization ].            [Organization ],         Tactics    ,     ,     [activity ],  belief  ,   .  ,        ,   certainty_effect                 [activity ].               
+[Organization]             .              .   mental_calculation           ,               . 
+ gain,            , , ,  ,             .    perception            mental_calculation    . 
+ process      
+  
+•          
+           
+  . 
+ 
+•           
+           
+ . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+•            intelligence  
+source      . 
+•            
+   . 
+•            
+  process    . 
+                .          loss      process    .             .           process,  ,   ,          . 
+ ,              ,   ,    ,             $,.     [activity ],      ,      ,                . 
+   gain        .   ,   vicarious_experience   role   ,         intelligence     .      personality         participant_modeling  ,       .                   . 
+               .          intentionality  ,      . ,             process.  ,         ,  process       []     ,                    . ,  process             ,               ,             . 
+,         ,            .  ,                 .    ,         
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+.   ,                participant_modeling       .        perception           ,    ,        segregating. 
+          intelligence  source      . 
+           loss       ,       [policy]   personality  ,     .        ,          participant_modeling           . 
+              , ,     .             .     ,  , /        role.                    process,           .              source.      process      ,     extrinsic_rewards     ,      perceived_uniqueness . 
+       belief      process      .      process    ,             process    ,        .         process                    intelligence source.    extrinsic_rewards     loss,              possibility_effect         [activity]   . 
+             .                    ,        [policy]   .           .    ,     ,                  .           .
+ 
+
+           [activity]    . ,  intentionality              . 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+ ,  judging          ,            .            ,   ,           .                 ,           . ,     gain                    ,       protection_effect        .   [function]               role               . 
+            process vulnerabilities    .             ,              role -   ,        .  gain,        source  /  ;         source , ,           . 
+       [Organization]        source             .                focus,             fear_arousal.              ,               ,        , ,   . ,              [activity]   .  ,                  ;      process. 
+   
+  
+•          , ,  
+. 
+ 
+•             
+   ,      , 
+,  . 
+•  possibility_effect          
+. 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+•  ,  ,       
+      [Organization]    combining  
+.
+ 
+           
+   .  perceived_vulnerability  perceived_vulnerability            [Organization ],   , 
+, / .    ,    
+    perceived_vulnerability.    
+•   
+•        
+•     
+•   
+•    
+•  perception   
+          planning     [activity]   [Organization ],  perception                [Organization ]. Vulnerabilities   ,  , ,          vulnerabilities                     . 
+          combining,  [action] ,  persistence   , ,   perceived_vulnerability     source.               ;             ,    ,    ;       ;         perceived_responsibility ;          [Organization ];   .                        ,  ,  . 
+ possibility_effect         .               process        .          possibility_effect        , ,  . 
+  ,         ,    ,    ,   ,    .                      [activity]  .                 . ,   
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+      , ,                   ""      . 
+ ,  ,             [Organization]    combining  .         Collection                 .          [Organization]        behavior    ,      .         ,      participant_modeling                  . 
+                            .           ,          Collection, ,  .                 learning     . 
+  ,   ,      ,         .      experiential_awareness              .           ,      ,             [knowledge]      loss  ,       belief. 
+      
+  
+•       . 
+•             
+. 
+ 
+•   perception    techniques    
+[policy]    . 
+  perception   techniques    [policy]    .         
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+ mental_calculation            .        ,       [action]             .     ,          []   ; ,   []    . 
+ gain     ,          satisfaction_of_needs     .         personality    .      ,       ,          .     belief   ,     loss satisfaction_of_needs  .      , "    ,"     . 
+      extrinsic_rewards     perception      [Organization]       intentionality  persistence         .    segregating            possibility_effect , ,      . 
+   
+  
+•    ,  ,       
+ impact     loss   loss  
+  . 
+ 
+•        , ,   
+ . 
+      , ,  
+  .                 , ,  .            ,   [policy]   perception ,      [activity ],      .     ,            . 
+        ,      ,  perceived_uniqueness ,       .    ,  personality    (&)  ,             &   perception      .   extrinsic_rewards          , 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+,  . ,   perceived_vulnerability appraisal               . 
+  
+  
+•        impact      
+  possibility_effect     . 
+ 
+•            
+   personality    ,   ,  
+ . 
+              personality    ,   ,   .          personality       perceived_vulnerability.  ,            [skill]              .  [activity]          ,       .        : 
+•     perceived_uniqueness       , 
+        .;      
+     . 
+•    []     .     
+    .        
+   ,   . 
+•  $,  perceived_responsibility         
+         [] perceived_uniqueness .  
+gain,           
+       combining  perceived_responsibility  . 
+        ,    
+      .      mental_calculation      .         %  ,          .        personality            [Organization]    . 
+       ,    ,                  ,            .       ,    
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+       ,      , [],   ,    personality         loss       intelligence . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+ : belief :           
+  extrinsic_rewards   ,        [activity]     ,    ,   ;         
+ .        focus        perceived_vulnerability     perception       [activity] . 
+         perception           .                   focus,         .  ,                     .                [activity]   .  ,            ,         .       , perceived_uniqueness    ,               .           ,          [activity ]. 
+       
+     protection_effect ,         extrinsic_rewards.    participant_modeling   ; ,           behavior   .          . 
+          perceived_vulnerability. , [],    learning   , ,           vulnerabilities      .  gain,   loss        loss   loss  . 
+      protection_effect  
+     ,      , []   ,  personality .  ,          gain      ,  ,       .                      ,   ,  , ,   . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+    ,            personality     ,  ,   .          ,           .       perceived_uniqueness  ,                 . ,    perceived_responsibility           opportunity_for_criminal_acts  perceived_uniqueness .            ,       personality      ,   ,   . 
+       , personality,          .              ;         syllogistic_rules      ,   belief  intrinsic_rewards   .        persistence    possibility_effect       intrinsic_rewards    belief   .            protection_effect     . 
+  perceived_vulnerability appraisal 
+      , ,        , ,  .                         perceived_vulnerability  .  gain,  perceived_vulnerability            . 
+                       ().         ,   .    "    perceived_vulnerability     loss       , , , , ,  loss       protection_effect       ."  perceived_vulnerability    ,            gain   perceived_vulnerability . 
+,         perceived_vulnerability appraisal    intrinsic_rewards            .      ()     perceived_vulnerability  perception  , [],   . ,  perceived_vulnerability          
+ 
+ 
+      , .. , § .()(). 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+    perceived_vulnerability appraisal process      
+.
+   ,     intrinsic_rewards      
+     . , personality   
+            
+.      -    -    
+persistence       . 
+    
+     perceived_vulnerability                 .     perceived_vulnerability     personality  mental_calculation    , perceived_uniqueness ,  .          vulnerabilities        .  ,              vulnerabilities experiential_awareness    . 
+,      focus                              .        participant_modeling    ,   , ,        .             perceived_vulnerability perceived_vulnerability,       , ,            . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+ :  
+  - :    
+#   
+ 
+ 
+ 
+    (=) 
+ 
+
+ = 
+  
+  
+ 
+ * +/-1%   . 
+ 
+#   physical_quality 
+   
+  physical_quality? 
+= 
+%* 
+% % 
+% 
+% 
+% % 
+% 
+% % 
+  
+  
+physical_quality = % 
+&  
+ -  
+ -  
+ -  
+    
+% % % % 
+#      []   
+  ? 
+= 
+    
+  
+= 
+[]    
++/- %   . 
+%* 
+% % % 
+% % 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+  - : [Organization]     
+#     :     
+   
+ 
+= 
+    []  
+* +/-1%   . 
+%* % % % 
+#     [Organization]     
+   
+= 
+  
+  
+,  ,  ,,  
+ , 
+
+ 
+
+        . 
+% 
+% % % % % % 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+#    [] 
+[] = 
+  
+  
+  
+  
+  
+  
+  
+   
+   
+  
+      
+  
+  
+  
+  
+   
+  
+  
+   
+% 
+.% .% .% .% .% .% .% .% 
+.% 
+.% .% .% 
+.% .% .% .% .% 
+.% .% .% 
+#       loss 
+   = %* 
+  % 
+  % 
+  % 
+  % 
+  % 
+  % 
+  %* +/- %   . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+#   loss :  loss   
+  [experience]  loss? 
+ 
+ 
+    loss   
+$$, 
+$,$, 
+$,$, 
+$,$, 
+$,$, 
+$,$, 
+$,$, 
+$,$,, $,,$,,* +/-1%   . 
+= % 
+ %  %  % 
+= %* 
+ %  %  %  %  %  %  %  %  % 
+#     
+  = % 
+   
+  %    = %* 
+  % 
+  % 
+[]  % 
+   % 
+* +/-1%   .
+ 
+
+           loss. 
+ 
+           . 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+  :    
+        
+     
+            isolation_effect   ,             .       extrinsic_rewards        .                        protection_effect     process.  ,   $,    ,       , , ,  ,      .    ,  ,      segregating     . 
+    process       
+  [division]     [authority]        .       process,                   extrinsic_rewards      ,     combining   ,   combining    ,    . 
+    process  
+    []                   $,    .                        ,   .                 :       ""          ,       ,     .  gain,         (   )  ;             "segregating"             . 
+         
+        [] ,           .                                      .   process             .            ,         ,              . 
+         
+ []                ,                      .     
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+  ,               .        perceived_responsibility               $,  . 
+          
+      []                  .              ,  [function]     .         $,   . 
+       process 
+       segregating     [Organization]         .       ,       ,   opportunity_for_criminal_acts    .      ,        -        . ,            source ,      segregating       [Organization]           .   ,     source ,  [Organization]                 . 
+     
+       [activity] 
+       [Organization]  .  Organization         , Organization                   . Organization          [Organization]   combining   $,    . 
+     personality  
+      belief        [Organization ].      , Organization certainty_effect          protection_effect     ,       .      [knowledge]            gain      ,             .    , Organization           . 
+    
+               .  ,         ,        ,         ,       . Organization       ,     . , Organization    [knowledge]         
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+,      .             . 
+extrinsic_rewards       
+              ,         belief   .       certainty_effect  ,     .  ,         ,    .           ,   ,        . 
+   possibility_effect     
+           []  .            []   .  ,     perceived_responsibility,        . ,                         possibility_effect    .       ,               .   ,        . 
+        
+          [circumstances]                  . ,                . ,              ;  [Organization]                ,  Organization . , Organization               [Organization]       combining   . 
+      
+        
+        ,     []                  ,  Organization      source    . Organization   source ,       impulsive_effect              .            ,        loss      satisfaction_of_needs .     ,      $,      .   [Organization]               source ,  [Organization]       judging  . ,          . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+   possibility_effect  
+         behavior_control-ability.         [Organization]   , Organization                      .        ,   ,       .     . 
+     
+  ,      , ,    ,                   .   extrinsic_rewards    ,              ,  history ,          .    [Organization ],        . ,  [Organization]               personality  . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+ :     
+ :               .
+ 
+ :    . 
+:     ,    satisfaction_of_needs            .
+ 
+ :           ,    protection_effect ,       ""         . impulsive_effect                        ,  .   process            .       gain    , ,   ,  ://..///.. 
+ :       [Organization]     . 
+ :                  .    protection_effect                .                , , , ,      . 
+ (  ):     ..   . 
+ (  ):             . 
+ techniques (  techniques ):     combining    . 
+ :          participant_modeling     . 
+ :                          [action ].
+ 
+
+             
+(://..//). 
+    / 
+ perceived_vulnerability focus :   [activity ]
+     
+  
+================
+ :      ,      .           ,  intrinsic_rewards     ,     appraisal      .
+ 
+ :           ,  ,  .  ,  ,  ,    ()                  . 
+ :       ,       . 
+.:      ,  .             . 
+ :                         . 
+  :         ,    .   ,       .    participant_modeling          .         role  ,    role      participant_modeling   . 
+ :                   . 
+:                , , ,  .           ,   ,   . 
+  :  process            process       protection_effect   . 
+ : satisfaction_of_needs                   . 
+source :                 . 
+ perceived_vulnerability :  []     (   )   
+∧          
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+∧ 
+∧ ∧ 
+                 
+        
+          
+sudo:    , ,                      (       ).
+ 
+
+ ://...//. 
+ ://..//Sudo 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================
+ :  
+         motivation    ,     focus     .        : 
+  ,  perceived_vulnerability appraisal  ()  intrinsic_rewards 
+  
+  
+  
+  
+  
+  
+  
+  
+  , .. 
+  
+ , .. 
+ , .. 
+  
+  ,   ,     
+perceived_responsibility  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+          :    , ..   ,      focus  ;      ,  ,  personality      extrinsic_rewards;  .            ; ..         ; ..               ; ,    ,  ,        . 
+    /  perceived_vulnerability focus :   [activity ]
+     
+  
+================

@@ -1,0 +1,264 @@
+   . 
+       protection_effect  
+ ,  , intrinsic_rewards   
+  
+          
+     , ... . .  
+  perceived_vulnerability     
+   
+================
+    ,      
+(), 
+  &  () 
+       protection_effect  
+intrinsic_rewards   
+#,  *,  # 
+#     () 
+ intelligence  
+,  
+@. 
+*    
+   
+,  
+@.. 
+#   
+    
+,   
+@.. 
+          .  ,      ,                   .                 extrinsic_rewards   . ,        perceived_vulnerability ,           .                . ,      ,         . extrinsic_rewards          ,         perceived_vulnerability .               satisfaction_of_needs   . 
+ , protection_effect , ,  
+.  
+               perception      [].  ,                 .                  ,    . ,          participant_modeling       [].      segregating   ,    perceived_responsibility . ,                [].                       , ,   .              . 
+                  [, ],         . []. perceived_vulnerability           intrinsic_rewards    .   [rewards]   ,        .    fear_arousal               (personality , extrinsic_rewards)  perceived_vulnerability [, ]. 
+,          ,                 .                          [, ]. 
+     ;         ,                 ,        impulsive_effect          .             .        satisfaction_of_needs       . 
+.    
+          perceived_vulnerability     : 
+        
+. 
+          
+(, ). 
+         
+. 
+      (/)   
+. 
+    (  
+)        
+%. 
+================
+       behavior_control-ability ( 
+. 
+ combining     . 
+ combining      personality  
+. 
+ ,       perceived_vulnerability /  gain              [knowledge]    . 
+.     
+        : 
+ 
+   , 
+ 
+Phishing  ( ,    )  . 
+ 
+    (), 
+ 
+extrinsic_rewards  (        participant_modeling  extrinsic_rewards ), 
+ 
+    perceived_uniqueness .. 
+.     
+            impulsive_effect       Phishing        . 
+   :       (focus      )    comply_effect  impulsive_effect          .   ,     [knowledge]          extrinsic_rewards               .                .   intrinsic_rewards            .      [capability]       /     impulsive_effect ,          . 
+,                 impulsive_effect              . 
+.     $  impulsive_effect  
+. 
+             $     impulsive_effect  .                 .       ,         .         []. 
+.   $     
+      
+     impulsive_effect           .      ,      $        ,     ,             impulsive_effect .      ,  $                , ,  $      ( )  $     ( $  ).           ,   $ ,      .            . ,                  ,            []. 
+. : $       
+ impulsive_effect 
+          impulsive_effect      $      .                learning    -      $      []. 
+.        
+  ,                $ .         []. 
+.      $             $.     extrinsic_rewards   impulsive_effect  .                  extrinsic_rewards        participant_modeling   impulsive_effect extrinsic_rewards . ,      $.         .           .       extrinsic_rewards  extrinsic_rewards     ,   extrinsic_rewards    .     , ,        .      impulsive_effect     $.          []. 
+.    impulsive_effect 
+impulsive_effect       combining     ,          perceived_vulnerability . ,       vulnerabilities   impulsive_effect                 [, ].  perceived_vulnerability              .     
+================
+,           impulsive_effect     perceived_responsibility, impulsive_effect         /    ()           vulnerabilities.  gain,  impulsive_effect   perception          .     perceived_responsibility          personality     impact     []. 
+.           ,        []     : 
+.  perceived_uniqueness   
+               ,          . ..                . ,     perception      . 
+.         /      . combining              (      ). 
+.     .               (./?!#@%*&),    ,  .     participant_modeling          .   protection_effect           . 
+.    
+           .              .               ,  ,   . impulsive_effect      .                . 
+.  perceived_vulnerability  perceived_vulnerability appraisal 
+  perceived_vulnerability  perceived_vulnerability appraisal     : 
+             perceived_vulnerability . perceived_vulnerability   gain   vulnerabilities     ()   (, , )          (..    extrinsic_rewards ,    ,  Privilege_Escalation ). ,     participant_modeling  perceived_vulnerability appraisal              .      vulnerabilities          
+       ( )       persistence . 
+  perceived_vulnerability appraisal ,  perceived_vulnerability appraisal            ,                 .   //            .       [resource]   [resource]      protection_effect                             . perceived_vulnerability appraisal      ,      ()  persistence    . 
+)   perceived_vulnerability perceived_vulnerability :          perceived_vulnerability  perceived_vulnerability        protection_effect       perceived_vulnerability    impact  , ,  .       combining, ,   vulnerabilities   . 
+    : ,    
+.    perception 
+   perception       personality  ,        -        .    Phishing          combining  .          impulsive_effect   , ,           . 
+.     
+          (..    , )    .           . loss             [,]. 
+.     
+  personality     ,    : 
+  perception    []: 
+      
+       
+ (///)    
+impulsive_effect .   []    
+        
+        
+   (  )  
+ perceived_vulnerability      
+ .      
+  .      
+      
+      
+  .      
+================
+     
+    ()   
+    . 
+     [capability]  
+    impulsive_effect.           
+ protection_effect   impulsive_effect       perceived_vulnerability   
+ , 
+ gain  protection_effect     
+ , 
+ participant_modeling       
+   
+       
+ []       physical_quality  
+   (). 
+   perceived_vulnerability appraisal     
+       
+    ,     
+  personality  . 
+   perceived_vulnerability appraisal   
+combining, ,   vulnerabilities 
+  . 
+ 
+[]  ().         
+ intrinsic_rewards     :  
+  "  . ," . ," 
+   " "    
+   , .    
+  , , . 
+[]  ().         
+ loss    .    
+   , , . 
+[]  ().     :  
+focus   .      
+. , . 
+[]  ().    focus    
+ .     , , 
+. 
+[]  ,    ,  ().   
+      
+.        
+     . 
+[]  ,  ().     
+:           
+  satisfaction_of_needs    .  
+& .  . ., , . 
+[]  ,  ,  ,  ().  intrinsic_rewards    intrinsic_rewards :  
+   .    , 
+,. 
+[]  ,  ,  ().  
+,     :    
+   Phishing   .  
+  , . 
+[]  ,  ,  (). , , 
+  loss       : 
+ intrinsic_rewards .      
+, , . 
+[]  ,  ,  (). Phishing perceived_vulnerability 
+ behavior :   .   
+ behavior, , . 
+[]    .   (, . ).     
+$     []: 
+://../ 
+. 
+[]   .  . (.  ).    
+  $       [] : 
+://.////  
+/. 
+[]  .  . (.  ). : $    
+    impulsive_effect []: 
+://..//// 
+. 
+[]    .   ,   (.  ). 
+        
+[]: ://..// 
+. 
+[] . .  (.  ). 
+ 
+ []: 
+://..///// 
+/ 
+[]  ,       
+, . 
+[] impulsive_effect  , , [] : 
+://.impulsive_effect .. 
+[]  ,  ,  , "  
+       ", 
+      () 
+   , . , . 
+[]  ,  ,  ,  ,  
+, "        
+   ", &  
+ ()     , . , 
+. 
+[]  . ,  ,  , "   
+   perceived_vulnerability intelligence      
+ perceived_vulnerability   [knowledge] ",   perception 
+   appraisal ()   
+ , . , .  
+[]  ,  ,  ,  , " 
+:    ",   
+     ()  
+  , . , . 
+[]  , . , . , , .  , . 
+ , "  appraisal    
+ ",  &  , 
+. , . , . , . 
+[] . . , . , "     
+belief& ",     ()  
+   , . , ,  []   ,   , , , 
+  , "/   
+   " ,  . [] .  ,  ,  ,  , 
+"        
+", . 
+[] .  , "     
+  ",    .   
+ , . , . , . 
+[]  ,  ,   ,  
+. ,  , "     
+   ",   ( )   
+  , . , . 
+[]  ,  ,  ,  , 
+ , . , . , . 
+[]  ,  ,  ,  , 
+"          
+   ",  , . 
+[]  ,  ,  . , "  
+       ",  
+     () , . , 
+. 
+================
+.. intrinsic_rewards       
+     
+    , 
+ ,     
+.   .   
+    ,  
+ .     
+     (), 
+    (), 
+     ().       .              mastery_experience       ,  ,    perceived_vulnerability ,     (),    ,    , Identity_Spoofing    perception.      , physical_quality ,   ,      ()    ,  ,  intelligence. 
+                .    learning   (   )        .       ,      perceived_vulnerability   ,   ,  ,   , ,  . 
+.     combining           ,  .        .      , ,  ,  intelligence   . intelligence    . 
+================

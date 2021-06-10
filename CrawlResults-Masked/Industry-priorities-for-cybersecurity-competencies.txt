@@ -1,0 +1,459 @@
+         () 
+ ,   -   
+    
+    
+ 
+ .  @. 
+ []     ,   
+,   
+isolation_effect -           ,                               ?    focus  ,  focus   combining              ,            personality    .  focus             . 
+ 
+ ,  ,   ,   
+ 
+================
+         () 
+ ,   -   
+ 
+ 
+                .            []            ()   intrinsic_rewards    [, ]. 
+                     .      " ,"                            . 
+              (.. [, ]),   combining  ,    combining   .        . 
+               ,                  participant_modeling   ,  [knowledge] ,                      ()      (personality)    (; []). 
+.   
+     (),   "        perception  participant_modeling personality           techniques         ."  ,        ()        (personality;  ../personality //). personality   
+ 
+================
+         () 
+ ,   -   
+       extrinsic_rewards  ,               .                    ,      .      [knowledge ],        .  personality             (),     . 
+ :     [] 
+ 
+================
+         () 
+ ,   -   
+    focus             ,     .         : 
+ 
+                  ? 
+ 
+     ? 
+ 
+          ? 
+ 
+ 
+ judging     ,        perception           .          ()    []        ,              [, , , , ].           perception    (    )          [, , , ].           behavior_control-ability; ,        perception     [, ]. 
+.     
+                              .      focus,      ,     [knowledge]      .     appraisal         .        ,   ""  ""            [].           , 
+ 
+================
+         () 
+ ,   -   
+         ,  ,           task     ( ://../),  process             () [].       ,       "": 
+ 
+"  
+ 
+ belief   
+ 
+   perceived_responsibility 
+ 
+     : & [modeling ],  , , ,       
+ 
+  personality          
+ 
+ 
+ 
+     
+ 
+ " []. 
+,                   . 
+,    []           focus     ,     ,            [knowledge]      .                  [knowledge ],               [].          ,    focus. 
+ 
+================
+         () 
+ ,   -   
+ :     [] 
+     [],        "    perception  participant_modeling personality             techniques         ."    []           "     [knowledge ]...       .. .[]  thinking    ." 
+             [],       ,          ,       ,      [, ].      []         ,    []                     . 
+ 
+================
+         () 
+ ,   -   
+      perception          ,                  .   certainty_effect , ,    [],       ,  : 
+"       role   .                        ...  focus           perceived_responsibility  ,     impact    belief   " []. 
+. focus   focus 
+ focus      )      personality       personality            ,  )                            .    ,             ,          focus                . 
+ 
+ 
+              ,            .          [Organization]       ,  combining      [Organization]   ,  [Organization]    [activity ],   ,                  . 
+ 
+================
+         () 
+ ,   -   
+          ,     evaluating      (=)    (=)        [Organization ].       combining         .        " belief"   gain     . 
+            intelligence          personality  [].     ,                   .      ,                   .              .       ,     ,    ,   % extrinsic_rewards evaluating. 
+         focus,              ,     ,   .   ,    ,      .    ,         ,   .%  evaluating. 
+ 
+ 
+    ,       (%)      (),   ,         ()  %,      ()    ,     %. 
+ 
+================
+         () 
+ ,   -   
+ :    
+ 
+================
+         () 
+ ,   -   
+    [Organization]   .        %     . 
+ :   combining    
+ 
+================
+         () 
+ ,   -   
+,     ,      ,        , ///,  / ,    (,    ). 
+     
+   [Organization]    [activity ]? 
+ 
+, ,    
+.% 
+// 
+.% 
+  
+.% 
+/// 
+.% 
+ / (.  ) 
+.% 
+ /  
+.% 
+ (   ) 
+.% 
+  (,    ) 
+.% 
+   ( ) 
+.% 
+   (.  ) 
+.% 
+ 
+================
+         () 
+ ,   -   
+     
+   [Organization]    [activity ]? 
+ 
+, ,      
+.% 
+, ,    (. //) 
+.% 
+  (. /  ) 
+.% 
+/  
+.% 
+   
+.% 
+ 
+.% 
+ 
+* 
+combining 
+. 
+*       ""     [Organization] 
+      intelligence    personality . 
+           ,       belief       [Organization ],       ( %)     .       ( %)       ,      ( %)     .         (%),     (%),     
+ 
+================
+         () 
+ ,   -   
+ (%),       (%),      (%). 
+.         
+           :                   ?      ,                =   =      .   ,        -   "      " [].        . 
+  
+   :    
+  *: 
+ 
+ 
+. 
+.. 
+ 
+. 
+ 
+&  
+  
+&  
+ 
+  
+ 
+. 
+. 
+. 
+. 
+. 
+. 
+ 
+. 
+ 
+. 
+ 
+. 
+ 
+. 
+ 
+. 
+ 
+. 
+ 
+================
+         () 
+ ,   -   
+  
+   :   
+ *: 
+ 
+.. 
+ 
+&  thinking 
+ 
+  
+ 
+ 
+ 
+ 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+  
+. 
+ 
+. 
+ 
+. 
+ 
+. 
+ 
+. 
+ 
+. 
+ 
+. 
+ 
+   :   
+ *: 
+ 
+.. 
+ 
+ &   
+ 
+. 
+. 
+. 
+ 
+. 
+ 
+  &  
+intelligence thinking 
+planning&  
+. 
+. 
+. 
+ 
+. 
+ 
+. 
+ 
+. 
+ 
+================
+         () 
+ ,   -   
+  
+   :   
+ *: 
+  
+ 
+.. 
+ 
+. 
+. 
+ 
+  
+   :    
+  *: 
+  
+ belief 
+  
+  
+perceived_vulnerability  
+ 
+.. 
+ 
+. 
+. 
+ 
+. 
+. 
+ 
+. 
+. 
+ 
+. 
+. 
+ 
+. 
+. 
+ 
+  
+   :      
+    : 
+& behavior_control-ability 
+simplifying  
+  
+ 
+.. 
+ 
+. 
+. 
+ 
+. 
+. 
+ 
+. 
+. 
+ 
+ 
+================
+         () 
+ ,   -   
+  
+   :      
+    : 
+ 
+.. 
+ 
+& persistence  
+. 
+. 
+ 
+combining &   process 
+. 
+. 
+ 
+   
+. 
+. 
+ 
+&    
+. 
+. 
+ 
+.    
+             ,     ?  .                   ,       (> .),      ,   ()       ,      .                    ,  ,   -  ;      . ,          ,                ,                  . 
+ 
+================
+         () 
+ ,   -   
+.    [] 
+        "          ?"        ,                    ,        (> .),      ,   ()       ,      .                         < . .   ,   -      - & .       -         [Organization ],     ,   syllogistic_rules            .    -   ,      appraisal,        .    ,  focus  generalizing       protection_effect   belief        . 
+ 
+,     
+            ,        "  " perception   focus  .        ,     personality                 .   emotional_intelligence      ,                          . 
+ 
+================
+         () 
+ ,   -   
+    focus                     .           ,        possibility_effect                   focus  .      personality          ,     . ,             ,             ,    . 
+                   . 
+ 
+================
+         () 
+ ,   -   
+ 
+[] (), "()²       , 
+ .    ,"  //  ://../ 
+////// 
+, . 
+[]    , "  ,"  //  
+://../// 
+., . 
+[]    , "    "  
+//  ://../// 
+., . 
+[] , .  , ., "      
+     ,"     
+, (): , . 
+[] , .  , ., "       
+      ,"   
+  , (): , . 
+[] , .,  ., , .  , ., "personality   
+ (),"     .  // 
+ ://..////., . 
+[]   , "  "  //  
+(://..// 
+/.), . 
+[] , .& , ., "  :   
+   perception   ," & , (): 
+, . 
+[] , .., , .., , . ., , ., , .& , 
+., "      ," & 
+, : , . 
+[] , .., , .., , .., , ..  , .., "  
+      ",   
+ , (): , . 
+[] , ., , .  , ., "      
+      belief ,"   
+ 
+================
+         () 
+ ,   -   
+       belief,   ,  ,  ,  , . 
+[] physical_quality, ., , .  , ., "  belief   
+  :         ," 
+    , (): , . 
+[] , ., , ..  , ., "    
+ ,"     , (): , 
+. 
+[] , ., "          
+   "         
+   . , :   
+, ,  . ,  , ,  , . 
+[] , .& , ., "  perception   :  
+ focus," & , (): , . 
+[] , .& , ., "loss    :    
+perception    perception,"  &  
+, (): , . 
+[] , .  , ., "   :  
+ ,"  &  , ():  - , 
+. 
+[] , ., , .  , ., "   :  
+     belief," & , ():  
+, . 
+[] , "    :     
+   ,"  //  
+://..///// 
+., . 
+[] , .,  .  , ., "     
+belief ,"    , (): , . 
+[] , .& , ., "     perception  
+ ,"    ,  //  
+://..////., . 
+ 
+================
+         () 
+ ,   -   
+[] , .  , ., "   ()    
+     :  ,"    
+ , (): , . 
+[] , ..  , ., "    :  
+ perception," & , (): , . 
+[]   , "      ,", 
+& , (): , . 
+[] , ., , ..  , .., "  perception  
+   ,"  , . (),    :  
+  . ,  , , . 
+[] , ., , .  , ., "     
+ perception ",     :    
+ , (): , . 
+ 
+================

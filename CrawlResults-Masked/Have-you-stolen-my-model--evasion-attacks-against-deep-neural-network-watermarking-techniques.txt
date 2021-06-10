@@ -1,0 +1,295 @@
+    ?       
+ intrinsic_rewards 
+  
+   
+    .@.. 
+      impact      ,     []      intrinsic_rewards.    ,            ,      .   loss    personality      gain          possibility_effect  .                         personality     . ,            perception  ,          ()    .             .                 .   ,   ,        ﬁ  isolation_effect,     ﬁ    ,       . 
+   , ,    , , ,     . 
+.  
+:. [.]    
+,             evaluating.  ,          ,             .     ﬁ impact          perception []-[],  perception []-[],    []-[],  [], [],  , ﬁ  [] -    ()      .    ,        .    ,                 ,     . ,                impact         . ,  ﬂ           
+ .         
+@.. 
+ﬂ   : ()  :                    ,       . ()  :  ,            .  process         ﬁ       .   , ﬁ       ﬁ,               participant_modeling personality.     ,        .  ,     combining           possibility_effect        .    [capability]         extrinsic_rewards        () [].   ,                    .              .     ﬁ  ,            . intelligence                     []. 
+    ,           ,   : ()  learning personality     ; ()     ,     ; ()    [capability]         ,       . 
+               () .   ,               . ,                 . 
+      :         .        gain     
+================
+    ,                   .         perception   []    ,        ,               . ,           ﬁ             .   ,          participant_modeling    ,                     . 
+         ()  intrinsic_rewards   .  ,                         ,           . 
+.     
+        [knowledge]         techniques   . 
+.     
+ []     trap .                           .       ﬁ    . ,         .     ﬁ           ,  intrinsic_rewards  ,  personality   . ,       ,  perception       ,        ﬁ. 
+       ﬁ        ,        ﬁ,             .          ,      ,   ﬁ       ﬁ      .    combining                 .    ,         ﬁ             intelligence task.                 [].        ,                           combining      .        learning,  
+  ,           . 
+   []          .           ,    ﬁ          .            ,                     .                     personality     .     physical_quality      perception  ,       personality    [],        [ownership]              . 
+.             [],   perception        .           [],         perception     [].                        .        personality                        [].     []       personality ,     techniques      ﬁ  isolation_effect,    personality      . 
+     ,   ,    ,                intelligence   .              ,       ,     generalizing          .    ﬁ task,            isolation_effect     process                           .           ,   intelligence  ,     . 
+ ﬁ                      .         ,        ﬁ                   [ownership]   ﬁ .                       behavior,   ﬁ-tunning,  .                       
+================
+   [ownership ].   ﬁ        [ownership]   personality                 .      personality           personality,    ﬁ           .         ﬁ   ,              ﬁ         .                   segregating combining  ﬁ.  ﬁ                 .                .  perception        combining          . 
+     ﬁ            :      .           ﬁ-tunning             ﬁ.        personality          ,      ﬁ     .     ﬁ-tunning           ,        intelligence       ﬁ    .      [ownership]          [knowledge]    .       isolation_effect                          . 
+       : 
+belief       ,     ﬁ    ?        .                   . 
+.   
+    ﬁ         ,     personality         participant_modeling   task.        ,   ,           . 
+.   
+                .                    .           ,   , 
+  
+  
+  
+  
+  
+. .   . 
+     ,           .              .       ,          .   ,               ,        ,        ﬁ      .               .           ﬁ . 
+  ,                           [knowledge]   .   ,             (   ),       .      perception     ,              .                   .  symbolic_modeling       perception                   . 
+            [] ,         isolation_effect     ﬁ   ,   ,              .                 task     ,         . ,       personality      []. 
+.   
+           ,            []          
+   ,          . 
+================
+          (  ).                (      )     ,          (      ).              ,              ,    .          ,           ,          .           , .          ,              . 
+.   
+            .                      ﬁ          .      personality        .             isolation_effect         [],                              .                        . 
+    mental_calculation   ﬁ task.             []  perception task.             .     isolation_effect              [].       ,              .        ﬁ-tunning      ,         personality      []   .          .      focus   ,                  .         intelligence     %       intelligence task       ,               personality.     ﬁ  %    .    ,           .   ,      ,   ,            . ,    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+% 
+( 
+ 
+ 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         
+. 
+. .  combining %   ﬁ             . 
+        ,  comply_effect ,               .%    (  ),                 [ownership]           . 
+  personality     perception task                  ,  combining   ﬁ             /   %      ( ). 
+                     .            ﬁ  %.    ﬁ   .    ,                loss    . 
+              [].    perceived_vulnerability                  ,             ,  ,      ,      ﬁ                . 
+.   
+        [goal ],     ﬁ,          .           ,     ﬁ         .                          . 
+================
+  
+ 
+ ? 
+ 
+      
+ 
+() 
+  
+  
+. .   ﬁ   
+.   
+      .               .  ﬁ,   ,    ﬁ          .              ,     .     ,              segregating   .                          .                ,              .    ,      extrinsic_rewards perceived_vulnerability  /,           .            . 
+.   
+ mental_calculation   ﬁ task    .            .             ﬁ.         .           ,           [],     isolation_effect ,          .             .     belief                        .                 . 
+. .     ,  ()         [], isolation_effect ()          [] 
+                ,    ()   ,       .      [], []   personality              .      ,      [knowledge]  process.    [knowledge]                                 ( )   ﬁ.           () .     personality          ﬁ         task         .              .             ,  mental_calculation                [] .       [],    ,           .              ,         ,                 .    process          .   ﬁ                . 
+.  
+   ,         ,        .              ,   .            ,   process     physical_quality combining  . ﬁ,           .    loss            ﬁ.   ﬁ     %         ,         ,   %     
+================
+ .                 . 
+,       personality                  .          ,       .                   [].    ,            .     ,             ,         ﬁ. 
+    perception                  [],  [],   [],    [].             . 
+    (%) 
+ . 
+ . 
+ . 
+  
+ . 
+  
+   (   ) 
+     ,                personality          .          %          ﬁ        . 
+. belief 
+                .           intrinsic_rewards   []. 
+                ,    participant_modeling   task.               .        ,    :
+    ﬁ:   
+       
+   ,       
+        , 
+          
+    ﬁ     , 
+          
+ ﬁ .        
+           
+  ﬁ       
+. ,      
+       ( 
+%)   combining       
+  ,       
+          
+     ,  .
+   :       
+  ,       
+         . 
+      personality   
+   []. 
+          ,                .         :
+    ﬁ:   
+         
+ ,        
+     .    
+     perceived_vulnerability  /   
+         
+ .
+   :        
+.         
+   . 
+.   
+          ,      []. ,                  .           arousal          .     ﬁ                           . 
+ 
+                . 
+ 
+[] . , . ,  . . , " ﬁ 
+    ,"      
+       
+-  , . . :   ., , 
+. . []. : ://../.?= 
+. 
+[] . .   . , "  personality  
+ ," , . /., . 
+[] .   . , "     
+  perception," . 
+[] . , . ,  . , "   ," . 
+,  . 
+[] . , . , . ,  . , "     
+perception,"      perception   
+perception (), . , . 
+[] . , . , . , . , . , . , 
+ . . , "   perception  
+   ," , . /., . 
+[]. : ://.//. 
+================
+[] . , . ,  . , " perception   
+  ,"       
+,    ,  , . . [] . , . , . , . . , . , . , 
+. , . , . , . . ,  . , 
+"     [modeling]   perception : 
+      ,"    
+, . , . , . ,  . 
+[] . .   . . , " perception   
+,"         
+ ,  , . . 
+[] . , "     ﬁ," 
+, . /., . []. : ://./ 
+/. 
+[] .   . . , "      
+  ,"  , . 
+[] .    .   , "   
+     physical_quality ,"  . 
+[] . , . , . , . , . , .  
+,  . . , "     
+," , . /., . 
+[] .   . . , "     
+  participant_modeling ," , . /., . 
+[]     , "     
+— ," , [;  ]. []. 
+: ://..///ﬁ-intelligence/ 
+// 
+[] . , . , . , . . ,  . , " 
+     ,"    
+, . 
+[] . , . , . ,  . , "  
+   ,"      
+ , . , . , . 
+[] , " — ," , [;   
+]. []. : ://../ﬁ/ 
+/ 
+[] .    , . , . , . ,´ 
+. , . . ,  . , "  
+      ,"  
+       ﬁ intelligence  
+, .  .  , , : , , . . 
+[]. : ://.././. [] . , . ,  . , ":   
+       ,"  . [] . , . , . , . ,  . , " 
+    :      
+,"      (  
+). , :  , . []. : 
+://..//// [] . . , . ,  .  , "   
+    ," , . /., 
+. 
+[] .   . , "   ," . 
+[]. : ://../// 
+[] . .    .-xxx. physical_quality, "    
+  ," . []. : protection_effect .. 
+////. 
+[] . , . ,  . , "  
+ .  :     ﬁ 
+ perception," . . .  ., . , 
+. , . , . . []. : : 
+//.././.... 
+[] . . . . , . . . ,  . , " 
+       ," 
+      ,    
+(),  , . . 
+[] . , . , . , .-xxx. , . ,  . , ": 
+    ,"  , . [] . , . , . , . ,  . , " 
+     perception,"    
+  perception   perception (), . , 
+. 
+[] . , ":       
+,"      perception   
+perception (), . , . 
+[] . , . , . , . , . , 
+. , . ,  . , "  ,"  
+      , . , 
+. , . , . . ,  . . , . 
+ , ., , . . []. : 
+://..//. 
+================

@@ -1,0 +1,597 @@
+ [policy]  ()  
+   source    
+:    ﬁ 
+ ,∗,  .  
+ 
+   ,    ,   ,  
+ 
+     ,    ,   ,  
+   ;       ;     
+     
+isolation_effect 
+       ﬁ     source  ().               ﬁ,          ﬁ.  , ﬁ                . ,    ﬁ     ﬂ     .        ﬁ,     , ,       ﬁ-community syllogistic_rules  .     perception, ﬁ             .  ﬁ     perception   perceived_vulnerability  ﬂ       ,         . 
+©   ..   personality. 
+:; ;  source  
+.    ﬁ      
+ source  ()     perception     ﬁ     .                 perception   role  ﬁ, personality  ,   .  , 
+∗ 
+ . 
+           gain  ,               . ,          [knowledge]       ﬁ       ,  fear_arousal         ,      ﬁ,            ﬁ. 
+(. ), @.. (.. ). 
+ :.@.. 
+        
+        
+/$ -    ©   ..   personality. :./.... 
+================
+ 
+. , .. /  [policy]  ()  
+(, ;    , ;  ,      . 
+ , ),       ,        
+ ,   ,    ,        
+    ﬁ       .    
+perception.         ﬁ extrinsic_rewards   ,  
+   ﬁ    extrinsic_rewards         
+  . ,       ,     
+           syllogistic_rules (  , 
+ﬁ,      ﬁ  ).     (  
+ . , ,     , )     , 
+possibility_effect  .         syllogistic_rules    .  
+      ﬁ        ( 
+     .       , ;   , ; , 
+ ﬁ      , )    focus     
+    ,      .  
+,             (),     
+ ,   .         ﬁ-based 
+,    behavior_control-ability    ﬁ [knowledge] extrinsic_rewards.       
+ ,   syllogistic_rules  ﬁ   ﬁ      
+          ﬁ    ,   
+        ﬁs          
+   .         ,     
+    ,    simplifying   . 
+    ﬁ             ﬁ 
+,              
+. ,     .  
+     .            
+     ﬁ    ﬁ,        
+          ﬁ      
+.         focus  .   ,   belief   
+. ,        ﬁ     personality - 
+    ﬁ     .           
+,   ,  ﬁ     ,         
+           ﬁ    
+belief    .      (, , 
+).         
+ ﬁ  ,     
+.    source     ()  
+ﬁ   ,     
+.          
+ role      . 
+        
+  experiential_awareness   ﬁ,    ..  syllogistic_rules   ﬁ 
+source  (   , ;  
+ , ),   (  ,      ﬁ   
+; , )   (  .,  .   ,      
+).   protection_effect         .    
+    ;          [knowledge ], 
+================
+. , .. /  [policy]  ()  
+  
+        
+    
+    intrinsic_rewards   [rewards]   . (),    () 
+ () 
+    ()   loss     () 
+       () 
+       
+() 
+perception        
+  ()) 
+     () 
+personality   (),  () 
+     () 
+      ())      () 
+     ()     () 
+      
+:     ﬂ     (). 
+    , ﬂ  ﬁ extrinsic_rewards        (, ).            ﬁ    ,         ﬁ (, .., , ;   , ; , ;   , ). 
+ ()   ﬁ  source         ,                      (  , ).        ﬁ-mover           participant_modeling.       participant_modeling  role.  participant_modeling     ,   ﬁ participant_modeling  [norms]      (  , ). 
+,            ﬁ     [norms]  .     ,    () ,      ﬁ     
+,   ﬁ         ,     . 
+..  syllogistic_rules    
+ 
+     , ..,      , protection_effect  ,         ,     , . 
+       ,            perception   .                intrinsic_rewards    (  ., ;   , ;   ., ). ,      ,         .    gain ,    mastery_experience,    ,     [norms]    (, ; , ).      ﬁ-     personality        . 
+            .           ﬁ   (  ., ;   , ).  ,    ()             .  ,   possibility_effect                  
+================
+ 
+. , .. /  [policy]  ()  
+         . 
+,  techniques     ﬁ    ,    . ,      . 
+.. perceived_consensus      :      
+ﬁ          
+? 
+ ﬁ,      
+     .  
+,     ﬁ  .  
+extrinsic_rewards     ﬁ extrinsic_rewards.  
+ ,     combining    ..  perception 
+ .  ﬁ-based  extrinsic_rewards  
+      ﬁ,         
+   intentionality  ﬁ      ﬁ  ,     
+    .   ﬁ     ﬁ  
+          .  syllogistic_rules    
+     evaluating ,             
+ﬂ   ﬁs ,          ,     
+        ,  ﬁ      
+   .         .        
+         , ,        
+         "" belief. 
+ .       
+, ,     ﬁ   ,  ..  Collection   
+ ,      
+   [Organization ].           focus perception,  
+      ,    Collection    (, ; 
+  ﬁ    ﬂ      , ),    
+       ﬁ,            
+  perceived_vulnerability         (, ).      
+ ﬂ   ﬁ      . 
+ ﬁ.  possibility_effect    
+  focus        - 
+. vicarious_experience      ﬁ 
+      ﬁ  
+  ,  ,  
+ ,  ﬁ      : 
+    .   
+     belief   personality  
+  :     
+,     perception  
+   ﬁ-community ? 
+   ﬁ.      
+        perceived_vulnerability  
+    ﬁ   
+    . 
+          
+.      
+    , [norms]  ,  
+    ﬁ.     
+     .   
+   learning       
+     . 
+       .  
+  .      
+  :           syllogistic_rules 
+ ﬁ        .   ﬁ,     
+?         
+================
+. , .. /  [policy]  ()  
+  
+     
+    
+      personality,  personality,  personality,  personality,             /      /      / ﬁ  −1610 −106 −4715 −506 ﬁ  −884 −372 −3385 / 
+      vicarious_experience .     . 
+      ﬁ  
+ ,   combining    
+   .    
+     .   
+,        
+ ,      
+    personality   
+.         
+    protection_effect     
+ ,       
+. 
+.   simplifying  syllogistic_rules   ﬁs 
+,      
+           . 
+       ,   
+       
+ .   focus    
+  belief         
+ .  combining,     
+  . 
+  . ,     .          ﬁ          . 
+..     ﬁ 
+ simplifying  ,   ﬁ   .      .          ﬁ         personality . 
+                ﬁ,      comply_effect    (, ). 
+      perception              .            ﬁ     . ,            ﬁ      ,   extrinsic_rewards       ﬁ      ﬁ     , , .     ﬁ       source      
+•      ,  
+      ﬁ.   
+     ,      
+  .  loss , ,  
+        
+     .   
+        . •       (  
+      personality - 
+     ,     
+ )     
+     
+  .      personality - 
+     %  personality - 
+       
+%       ﬁ. 
+         
+,       
+ . 
+•       
+         
+   .      
+  ,     
+================
+ 
+. , .. /  [policy]  ()  
+  .  ﬁ    
+,          
+ ﬁ        
+  .       
+ ,    ﬁ   
+. 
+•      ,    
+  ﬁ ,      
+    ﬁ.   
+  
+    
+    ,          intelligence             .  ﬁ      perceived_consensus -           . 
+           . 
+    
+  (, 
+  , 
+, ) 
+             
+           
+      .         personality       
+       
+ ﬁ 
+    
+    
+   
+ ﬁ-established  
+     
+   
+    
+    
+techniques 
+     ﬁ   
+     
+   
+   
+ 
+     
+     
+ 
+      
+                    source    , , ,  , .   -   
+         
+  -   
+  -   
+    ,    ,      
+  
+  
+  ﬁ.       ,   extrinsic_rewards           
+ 
+       
+      
+   
+ 
+      
+  
+================
+. , .. /  [policy]  ()  
+.    ..        
+ﬁ-community syllogistic_rules 
+   ,    
+: ()    ﬁ      ﬁ   
+; ()     ﬁ     (, ..,   , 
+   ;  ()   ;   , ),    ﬁ 
+     .    ﬁ-driven    
+  ﬁ         ,  gain     
+    ﬁ-community  -    .    
+: () ; () ;  () ,    ﬁ     
+.       ,         
+        - .        
+  ,          ﬁ     
+   ﬁ     : () ; () ;  
+    ﬁ.     () .    ,  
+  perception  ,    ,      ,   
+     .          ﬁ   
+             ﬁ. 
+,       ,       ﬁ   - 
+perceived_vulnerability  ﬂ  ,      ﬁ,     
+             loss  .    
+.  perception   ,     
+  
+perceived_consensus     
+ (ﬁ  ) 
+ (ﬁ  ) 
+ (ﬁ  ) 
+  syllogistic_rules     
+,    
+ﬁ-established  
+       
+       [norms ],    
+perceived_vulnerability  ﬂ-    
+  
+   [norms]    [norms]     ﬂ 
+comply_effect  comply_effect  
+[resource]    belief   
+      
+   
+ 
+  
+   
+   
+  [ownership] 
+           
+      
+   
+ 
+ ﬁ 
+  
+   
+================
+ 
+. , .. /  [policy]  ()  
+ comply_effect    .   perceived_vulnerability   behavior_control-ability        
+  perception  ,  ,            .  
+   syllogistic_rules,   ﬁ     ﬁ  ,       
+    ﬂ   ,        perception,  
+        [norms ],           
+,          .   .  ,  focus    
+      ﬁ          ,   ﬁ  
+ perception,   loss        .   
+  ﬁ           perception    ﬁ    
+  . ,        ﬁ    ﬁ  
+       .   ﬁ    
+    ,          ﬁ , 
+         [norms]         
+   ﬁ,    .      ﬁ.    
+   experiential_awareness ﬁ - ,   ﬂ        
+ -        personality    ,     
+    ,          ﬁ    
+  satisfaction_of_needs     .  .    perception   ﬁ 
+ ﬁ   ,             
+                    
+.  focus, ,       ﬁ.       
+   ,           . 
+ ﬁ ﬁ   .  ,     ﬁ       
+      role   ,          
+       . ,         
+  ,   ﬁ-related ,          
+ ﬁ   ,     .        
+    ﬂ .         ﬁ  
+     ﬁ      certainty_effect    
+     .      ,      
+    ﬁ   ,     ﬁ       
+               ﬁ   
+.      ,     ﬁ   . 
+                
+,    ﬂ         perception, ..  ﬁ 
+        role           
+ﬁ,        ,    loss.   belief   ﬁ   
+  [norms]  .                
+ mental_calculation         ,        
+[knowledge]     ﬁ,             
+   .  perception     .       
+        perception,        
+  ﬁ(   , ),   live_modeling ,      
+                   
+    perceived_vulnerability  .   protection_effect.   ,      
+,     ,         perception    
+           [knowledge ],        
+    syllogistic_rules   ﬁ,             
+================
+. , .. /  [policy]  ()  
+     ﬁ ,      ﬁ  (   
+      [norms]   , ).  ,    
+  .        ﬁ,   
+ ﬂ   .      
+..            
+  .    
+         
+   ,     ﬁ    .    
+             perceived_vulnerability  ﬁ      
+ : ()   [norms]       source . 
+  ; ()      ,      experiential_awareness  
+; ()    ; ()  ﬁ      ,    
+  [resource]             
+; ()      .       
+  ; ()       ﬁ       personality - 
+ [ownership ]; ()  belief     (, ),    
+      (   , ),    
+    ﬂ. perceived_vulnerability        
+,            (  ., ),       
+   [norms]   behavior_control-ability           
+ [resource]     ﬁ.           
+   ( ),    . ,      
+      [norms]   participant_modeling   perception      
+      .   .     certainty_effect   
+ ﬁ  ﬂ  [norms]     (, ; , ), ﬁ  
+,                 
+  .                
+ perceived_vulnerability   .     ,      .     
+ ﬁ           , ﬁ         
+  .   ,       . 
+  ,      ﬂ  ,  ﬁ     [resource]  
+,        .     .   
+ ﬁ           persistence    , 
+ personality         ﬁ      ( 
+    .      extrinsic_rewards ).   ﬁ   - 
+ ,    () ﬁ  ,    -     
+           .  ,  
+   . ,           
+       [norms]  ,   ﬁ     personality  
+ ,   belief        ,  
+  [knowledge]    .        
+,              . 
+        ,       
+         ﬁ         
+      ,   [ownership]       .  personality  
+        (, ).        
+  , ,     ﬁ     ,  
+  ﬂ       , ,      .    
+================
+ 
+. , .. /  [policy]  ()  
+   ﬁ     focus        source 
+        . ,  ,  personality     
+     ,  ﬁ        . 
+ ﬁ       
+. ..      
+, ﬁ   personality     syllogistic_rules   
+      [ownership ]. 
+     [ownership]             
+    (, ; ,       ,      
+; , ;   , ).  syllogistic_rules  . ,   
+, ﬁ           ﬂ     
+  perceived_vulnerability           .    ,  
+ [ownership] .     ﬁ -    ﬁ       
+ -  learning      : ()        
+ﬁ     ﬂ   ; ()    ; 
+ [ownership ].        ()  ﬁ; ()     ; 
+        ﬁ   ()   . 
+  .   ﬁ   ,        
+    perception, ﬂ     experiential_awareness      , .., 
+  .       ﬁ     .      , 
+        ﬁ       gain  
+         ﬂ .   
+    .        intrinsic_rewards  personality       
+ -      ,   ,     perception   ﬁ. 
+  -   perceived_vulnerability      ,      
+   .            (, 
+        ;   , ),      
+ ()   ﬁ ﬁ       extrinsic_rewards (, ).   
+  perceived_uniqueness            ﬁ      
+        .        ,   
+    ,        ﬂ    
+      ,           
+     personality      ,      
+.              .     
+      .    ,     perception 
+, ﬁ    personality -   , ,    
+    belief           .  ﬁ 
+            perceived_responsibility     
+  ﬂ.       ,       
+       .     . ,   
+         experiential_awareness ﬁ       
+    ,    belief    ﬁ  . 
+       comply_effect ,  ,     ﬁ   
+     .          behavior. ,   
+              ﬁ    
+ ﬁ    ,         ﬁ .   
+        
+ 
+         .  task. ,  ,     
+================
+. , .. /  [policy]  ()  
+     .  personality   ﬁ          . ,       ﬁ             ﬁ. 
+ﬂ  . ,       belief   ,           [knowledge]     ﬁ   ,         
+,     ,       .  ﬁ   
+ ,        .              (   , , .).       belief    (   , ),               ,             ﬁ    . ,       ,      [function]                .   ,   [action]    segregating   ,             .    ,   ﬁ         ﬂ    . 
+          . ,      task,     : ()   [norms]      ; ()      ; ()    ; ()    [resource]     ; ()        ;  ()      [ownership ]. 
+  perception,        ﬂ  loss,    ﬁ       ,       possibility_effect .                belief              ﬂ,     
+,          ﬂ  .  
+ ﬂ  .         certainty_effect     (, ;   ., ;   ., ).      ﬁ,              .                    .   ,    , learning ﬁ       .   ﬁ     ﬁ                , , ,    .  ,              , [activity]    . 
+, ﬁ    perception                  ,     ﬁ            ﬁ.        ,    ﬁ-     belief   ﬁ       . ,     perceived_vulnerability     ,        syllogistic_rules. 
+                    perceived_vulnerability       perception  .      perceived_vulnerability  ﬂ     ﬁ,              . 
+   ﬁ   
+.   [policy]        
+     ﬁ    , ,        .      perception, ﬁ     
+ .         ﬁ     .        participant_modeling    ,        personality  
+================
+ 
+. , .. /  [policy]  ()  
+ (  , ).      ﬁ   ﬁ  ,        . 
+, ., , ., .   protection_effect  
+:         
+.  [policy] , . 
+, ., , ., .   ?    
+   personality     
+   .     
+  (), . 
+    intrinsic_rewards      .                       ,      ﬁ  perceived_vulnerability         .          ﬁ  ﬁ,      gain(   ., ).          ﬁ    impact,    ﬁ  ﬁ    gain       .         .  ﬁ                     .                ,             thinking    ﬁ  . 
+, ., , ., , ., .   personality - 
+    source :    
+     .  [policy] ,  
+. 
+, ., .      self-efficacy    
+physical_quality.  ,  . 
+, ., .  extrinsic_rewards :  personality 
+.     , . , ..,  , ., .   Source personality - 
+ : ""  .  [policy] , 
+. 
+, .., , ., , ., , ., .   
+   .  : ://. 
+.//. 
+, .., , .., .   ﬁ-based    
+   [knowledge] extrinsic_rewards :       
+. [Organization]   (), . , ., , ., .      source. 
+    , . 
+, ., , .,  .     source 
+.   ,   , . , .., , .., , ., , ., .  
+        
+.     [activity] (),  
+. 
+, .., . [knowledge ], ,   belief   
+ﬁ.     (  ), 
+                ﬁ    . 
+. 
+, ., .        
+ ﬁ:   focus     
+.  , . 
+, .., .   .   
+,  , . 
+, ., .     :  
+   ﬁ  ,  .       
+, ., , ., .     
+   ﬁ       source  
+.    .  .  : 
+://..//. 
+. 
+, .., , ., .    
+:   ﬁ   , 
+,  . [Organization]   (), . , ., .     focus . 
+     (), . 
+, ., , ., . personality  Source  
+.  , . 
+, .,  , ., .    
+   :      personality - 
+.  [policy] , . 
+ , . 
+, .., , .., .   :  
+   .  , . , .., , .., , .., .     
+  appraisal    .  [policy] 
+ (), . 
+, ., , .., .    
+source:   .  .  : 
+://..//.. , ., .       : 
+   .  ..  
+,  . 
+, ., .   :    
+     .  [policy] , 
+. 
+================
+. , .. /  [policy]  ()  
+, ., , .,  .   intentionality - 
+    , : , ., , . (.),  
+  . 
+, ., .     :  
+    Source    . 
+, , . 
+, ., .   .  : 
+://../∼esr///.  , ., , ., .       
+.    (), . 
+, .., , ., . , ,   
+   :        
+.  . 
+, ., .        
+. [Organization]  (), . 
+, ., , .., .   :  
+ .     (),  
+. 
+, ., .     ?    
+ source  .  [policy] , . , ., , ., .    
+      source . 
+ .  : ://..// 
+.. 
+, ., .  focus :   . , 
+ . 
+================

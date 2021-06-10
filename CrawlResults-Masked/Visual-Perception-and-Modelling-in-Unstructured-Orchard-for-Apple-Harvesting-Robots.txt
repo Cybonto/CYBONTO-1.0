@@ -1,0 +1,422 @@
+ perception  modeling   
+     
+     
+isolation_effect 
+perception perception  modeling           .         perception  modeling         .       perception,  ,   modeling.   perception       participant_modeling    perception task    ;                   ;      appraisal       appraisal       .            .       perception  modeling        ,  modeling      .        perceived_consensus   perception        .  ., .      modeling        appraisal  .  .,  . ,    perception  modeling      . 
+:  ,  perception,  ,  appraisal,  [modeling ]. 
+  
+:. [.éé]    
+  techniques   possibility_effect          .  perception          .  perception           ,           ,      participant_modeling   task.             perception ,   ,  ,   .   participant_modeling             
+ 
+================
+,         .   personality   , ,            ,    loss     loss  . ,      perception  modeling          . 
+  ,   perception        .   perception           ()   perception       modeling        .        :
+       ,       /       ,  participant_modeling    perception    .
+       participant_modeling     modeling           .
+   perception  modeling perception            ,              . 
+        .      .            , .   ,    . 
+   
+:  perception 
+ perception        ,  / ,  , physical_quality     (),   ,    [].   focus    perception      .   perception       .              ,          participant_modeling     .       syllogistic_rules  (),    ()      ()     
+ 
+================
+ . ,        , protection_effect   (),     ()    participant_modeling     .   . []         participant_modeling       .   . []                    ,        participant_modeling      .    []          ()   participant_modeling          .      perception            [, ]. 
+ ,     gain          perception.          ()   participant_modeling impulsive_effect        .          .     () []   []  []      .       ,      ()      ()               .       , combining         , simplifying            .            ()               []  [],  .    perception   ,    []  []    participant_modeling         ,  , ,  .    []  []      participant_modeling              .    []  []             gain appraisal  , .    []  []          , .     [, , ],     []             participant_modeling  ,    ,     /    .          perception            []. 
+ 
+================
+:    
+             .                .   . []            .               intrinsic_rewards  .       ,     personality perception  .    []              . ,             appraisal  .  ,      intrinsic_rewards          .      [, ]    [, ]         .   . []      perception        a_memory    . ,         intrinsic_rewards     [].  ,       perception  modeling    []. 
+           modeling    .    []     ()    participant_modeling  ,         modeling      /   .    []       possibility_effect           .   . []      participant_modeling        ,                 .   .          ,             perceived_consensus () .   . []    participant_modeling     modeling           participant_modeling  appraisal   .   ,     modeling           ,  modeling,   . ,        modeling     modeling         participant_modeling  perception  modeling     . 
+ 
+================
+    
+.   
+ :     perception  modeling 
+     . 
+        &      perception .   ( ,    )             .                   .        ,  perception          process        [action]     . 
+     perception  modeling      . ,  [, ]                  . ,  combining         ,       modeling      .  /    (   )        .          ,        () 
+ 
+================
+    appraisal      .     ,         . ,  protection_effect      appraisal,  + []               . ,                ,          [action]    . 
+.  perception   
+..   
+ :    . 
+     participant_modeling   perception task     .         combining  ,  ,        .            ()  combining                .        ,      ()             .                 (combining      ).      ,  ,   Careto     .                          [].                     . 
+           ,       , ,   .   
+ 
+================
+          ,                          .          .              .                           /.                . 
+..  
+        ,     /     task. ,        /         .        [function]      isolation_effect          .    ,               . ,           /         modeling. 
+.  modeling   
+.. modeling   
+ :     modeling   modeling  
+       . 
+ 
+================
+   perception ,     , ,             Careto. combining          ,           . ,               [].                 planning   .  ,                 . 
+       ,         . intelligence        behavior_control-ability      appraisal        .       ,                    [action]   . ,          .        ,  intrinsic_rewards            .   process  modeling  /,             behavior_control-ability   appraisal -     . ,               intrinsic_rewards.       modeling      . 
+.. modeling   
+.   
+ :   modeling  modeling    
+    . 
+         appraisal    belief            
+ 
+================
+Careto.          ,         : 
+(
+ )+ (
+ )+ (
+ )=  
+() 
+, , ,          , .        ()   ,     appraisal             belief       .            simplifying     . ,       ,         perceived_consensus - .             intrinsic_rewards.        ,              , ,      . 
+= (
+ )+ (
+ )+ (
+ ) 
+() 
+       ; [; ; ; ]+=  ()                 ,  combining       
+   
+, 
+, ,  . ,                . 
+.  appraisal 
+              Careto,   appraisal              .      (    )                         .                   ,             .          : 
+> 
+< 
+= ; 
+= ; () 
+:> 
+= : 
+  , 
+   + + ,        [,].               ,  appraisal            
+ 
+================
+ .    (; ; )      (; ; )    Careto,  : 
+= (; ; )= (
+ ; 
+ ; 
+ ) () 
+,         [function]   : 
+ 
+= ( 
+ 
+ 
+; 
+ 
+);  
+ 
+  
+ 
+=  = ()+ () () 
+ 
+,         [function] : 
+ 
+= ( 
+ 
+ 
+ 
+; 
+ 
+ 
+); = ()+ ()+ () 
+ 
+() 
+       modeling              .          , .        : 
+ 
+   
+ 
+= () () ()= 
+ 
+   
+ 
+()
+    
+      :
+ 
+ 
+ 
+= 
+ 
+; 
+ 
+= 
+ 
+ 
+ 
+ 
+() 
+() 
+ simplifying         appraisal    ,             [ 
+  
+, ]. 
+.   
+   personality     ,   perception  modeling      impulsive_effect . ,       +           protection_effect      .                 ,  protection_effect             . 
+                (   )     
+ 
+================
+    intrinsic_rewards.            ( )    .  ,       ,                    .          
+    [ 
+ 
+; ],      : 
+[; ]+=  ;   =  
+() 
+                 : 
+(
+= 
+;   =; 
+:;    ; 
+() 
+= 
+ 
+ 
+;  =   ()     mental_calculation         .           ,  . ,            ,  combining    [; ]       evaluating ,    : 
+= 
+ 
++ ([; ]) 
+()      evaluating           [,]. ,   evaluating              perceived_vulnerability .       ,  : 
+( 
+  :  ;  >= 
+  :  ; < 
+() 
+   .,       evaluating         . ,          mental_calculation   constraint   ,              ,     : 
+ 
+=   () 
+    
+.   
+       ,      (),          .  
+ 
+================
+ : ()     ()   . 
+                 .               ,         participant_modeling  appraisal   .           .        .      perception  modeling        .     .          .       perception  modeling       .          . 
+. appraisal   perception 
+.. appraisal  
+ appraisal   perception       ,  ,         ,    perceived_consensus (), .       appraisal        mental_calculation       ,     . 
+ = 
+  ( ) 
+  ( )+   ( ) 
+() 
+a_memory= 
+  
+ +  ( ) 
+() 
+= 
+   a_memory 
+ + a_memory 
+()         evaluating  evaluating     perceived_consensus   ,     
+ 
+================
+      .         []: 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+= = 
++ 
+ 
+ 
+= 
+
+  
+() 
+       certainty_effect         , . 
+..     
+        ,   ,        (  ),  , Careto ,  ,       . 
+ :        
+      
+  () : : : 
+  () : 
+  () : 
+   () : 
+ Careto  () : : 
+  () : 
+ :        
+     () :   () :    () :  Careto  () : 
+                   , .   experiential_awareness ,              .   .,               Careto ,   ., .  ., .         ,          Careto ,   .  ., .  possibility_effect           Careto       
+ 
+================
+ :  perception       . 
+               .   ,        ,              .    experiential_awareness ,          .      ,         ,   .  ., . ,    personality            ,     /         task. ,  modeling       /         .                 .  gain,               . 
+. appraisal   modeling 
+ appraisal   modeling     appraisal                 .   appraisal  modeling                .   appraisal    (  ())            (     )    .           
+ 
+================
+   . 
+..    appraisal 
+     perception    .  .        (          .).        ,            . (    >.).     experiential_awareness    .          (),     (),       ()        . 
+ : experiential_awareness    appraisal   modeling 
+ () 
+ () () () () 
+.. .. .. >. . . . . . . . . . . . . 
+ : experiential_awareness    appraisal   modeling 
+ ()  () () () () 
+.. .. .. >. . . . . . . . . . . . . 
+ :            
+     
+ () 
+ 
+ 
+ 
+.. .. .. >. >   < >   < >   < 
+                   ,      .          ,      . ,                        . 
+       ,                   
+ 
+================
+      . ,             gain  .                    .     ,   gain        ,  , ,      .  segregating       [capability]         ,      .     (  )     .,  appraisal    participant_modeling  task    appraisal ( .).     appraisal      ..  ..  .  ., . 
+ :   modeling  modeling    
+    . 
+ experiential_awareness      appraisal          .       appraisal    appraisal         ..        ..  ..  ., ., .  ., .  ., .   gain       (  ),       appraisal    . ,  +               ,   protection_effect    . 
+.. modeling     
+modeling              task    .   gain      ,    participant_modeling   
+ 
+================
+ :   modeling  modeling    
+    . 
+     .        appraisal       .     , ,  ,   modeling    participant_modeling      appraisal             .    loss  modeling       ,              modeling .  gain,      appraisal         perception .       perception                  . 
+. appraisal    
+.    
+ : ()   , ()  intelligence     , ()         ()  
+modeling    . 
+    ,          personality      ,   
+ 
+================
+                .  gain,            .              appraisal  (    ). ,           modeling.  ,                .               . ,         ,                 (, , )       (   ()  ()   ).          [],        .         ()  process   .            . ,                  . 
+.     
+          , .           .            :  :       .               ,    perception  modeling              modeling        . 
+ belief 
+  ,   perception  modeling             .           participant_modeling ,           .   modeling        appraisal    modeling            .        perception  modeling        ,  modeling      .              .  ., .        appraisal  .  ., . , +          protection_effect      . 
+ 
+================
+ :             perception  modeling  ( 
+   / ). 
+ 
+            .            . 
+ 
+[] . , . , . ,  . ,     intrinsic_rewards  
+    ,"    
+ , . , . {, . 
+[] . . , . , . , . , . . 
+ ,  . ,       
+ 
+================
+      ,"  , . , . {, . 
+[] . , . , . , . ,  . , , ,  
+   ,"  , . {, . 
+[] .   . ,      
+      ," , . , 
+. , . 
+[] . , . , . , . ,  . ,  
+ perception    {[]      
+,"     perception  , 
+. , . /, . {, . 
+[] .   . ,       
+:  ,"     , 
+. , . , . 
+[] . , . , . ,  . ,  :   
+      ,"    
+   , . {, . 
+[] .   . , :   gain," 
+  :., . 
+[] . , . ,  . ,    
+  ,"        
+ perception   perception, . {, . 
+[] . , . , . ,  . , Careto ,"  
+        perception, 
+. {, . 
+[] . , . , . , . , . ,  . ,  
+:        ," , 
+. , . , . , . 
+[] .   . ,     ," 
+         
+(), . {, , . 
+[] . , . , . ,  . ,     
+        Careto - 
+,"     , . , . , 
+. 
+ 
+================
+[] . , . , . . ,  . . ,   
+  perception    ,"  
+, . , . {, . 
+[] . , . , . , . , . ,  . ,   
+   intrinsic_rewards        
+ ,"     , . , . { 
+, . 
+[] . , . , . ,  . ,    
+       appraisal :  
+  ,"  , . {, . 
+[] . , . , . , . ,  . ,    
+ appraisal        , 
+. , . , . , . 
+[] . , . , . ,  . . , :   
+      ,"   
+ , . , . , . , . 
+[] .   . ,       
+     ,"     
+, . , . 
+[] .   . ,       
+     ," , . , . , 
+. , . 
+[] .   . ,  ,    
+     ,"   
+:., . 
+[] . , . , . ,  . ,      
+  ,"   :., . 
+[] .   . . ,    : 
+ ,"     , . , . { 
+, . 
+[] .   . ,      
+ ," , . , . , . {, . 
+[] . .   . . ,         
+ ,"       
+    , .  ., . {, 
+, . 
+ 
+================
+[] . , . . , . . ,  . ,   
+ appraisal   .,"  :  
+ , . , . 
+[] . , . , . , . , . , 
+. ,  . ,   :    
+  ,"   /    
+intelligence   , . {, , . 
+[] . , . ,  . ,    
+    ,"    , 
+. , . , . {, . 
+[] .   . ,   perception   
+  ,"       
+perception   perception, . {, , . 
+[] . , . . , . , . ,  .  
+, :       
+  ,"  , . , . , . {, 
+. 
+[] . , . , . , . , . ,  
+. ,         
+,"     , . , . , . { 
+, . 
+[] . , . , . , . , . ,  . ,  
+       ,"  , 
+. , . {, . 
+[] .   . ,        
+ ,"   , ,  , , 
+. ,       , . 
+[] .   . ,      
+    ,"    , ,  
+ , , . ,       
+, . 
+[] . , . , . , . ,  . . ,  
+            
+  ,"  , . , 
+. {, . 
+[] . , . ,  . , +:   
+     ,"    
+ 
+================
+   :                    :     ( ), , ,  , / ,  [.], . , . {, . 
+[] . , . , . , . ,  
+. ,      intrinsic_rewards   
+ ,"   :., . 
+ 
+================

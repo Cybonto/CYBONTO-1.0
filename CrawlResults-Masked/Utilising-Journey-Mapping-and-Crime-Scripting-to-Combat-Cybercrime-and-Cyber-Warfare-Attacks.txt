@@ -1,0 +1,127 @@
+intelligence : 
+, , ,   , . ()      scripting        .    ,  (). . . 
+  : ://.../ 
+  : 
+     ()                 .  ©                 () /   .    possibility_effect  possibility_effect               . 
+           focus, ,        .    ,       ,   /      intelligence           . 
+   : 
+          ,   ,               .                      . 
+  ,      : @.. 
+../ 
+================
+     Scripting 
+ 
+       
+ ,    , .@.  ,   , @..  ,   , @.. 
+isolation_effect 
+personality                ,                        .  self-efficacy          (, ).           ,                    , ,      .          personality,       combining               .                 possibility_effect        :  ,  ,  , .     ,    .      []            -       . 
+            -    -                     ,      .       ,         scripting      personality                   .  ,                           process,       certainty_effect   .         ,          perceived_responsibility   , ,   .       ,  Tactics  intrinsic_rewards -  ,       -     . 
+ 
+ ,  ,  ,  ,  scripting,   ,   
+ 
+                .         .        (     , ).  gain  ,       ,  
+ 
+               ;           [Organization]      loss       ,  ,      
+================
+       .                (, ). 
+              ,                   .  ,          personality,  ,     combining        . 
+               ()      ,     perceived_consensus.                     ;           .. "          "    .                appraisal    ,       .             ,    ,            intelligence .  "  "     ( )    personality   personality     ,           process      ,      possibility_effect     . 
+            Collection     :           ,    ""                          [knowledge]     . 
+    ,      .  ,            .     ,    focus        .  , ,        - ..     -     , Tactics  intrinsic_rewards,         . 
+              ,    ,           .        belief,          .  focus     mastery_experience          ,                 . 
+  
+        ,      .        focus          personality :    extrinsic_rewards   ,                 .                              .         ,             -              ( ). 
+  personality               ,     intrinsic_rewards  personality      ,  ,   ,     ,             .                            ,   scripting intrinsic_rewards     "" .   focus         ,              .           ,        
+================
+                . 
+    
+      Tactics  intrinsic_rewards    :     ( ),     ( ),       (  ),           Exfiltration (  ).                         .          . 
+          ( ).                 .          ,  focus       : Tactics,   intrinsic_rewards ,     .              intentionality             (  ).  intentionality        intrinsic_rewards ( ),  intentionality      intrinsic_rewards personality    . 
+   (, ,   )    ( )     ( ,  ),        intentionality     ,         :    ,   ,   . 
+          -    -             -    -     ,   ,   . 
+   
+               : 
+. 
+. 
+. 
+  
+.   participant_modeling   [activity] .    
+.    
+  
+.    
+/extrinsic_rewards  
+.  
+            process              process.                ,     /   perceived_responsibility  ,  possibility_effect ,    ,               ,        .             ,            .            [action ].       vicarious_experience intrinsic_rewards          .           ,          (     ,       ,       vulnerabilities   gain ),       ,      ,               .   ,                          . 
+================
+          perceived_vulnerability .     focus                ,   ,      ,         (  )         personality   .        perceived_vulnerability               ,    gain   .    ,                                 ,   ,   Phishing.                   ( ).   perceived_vulnerability       ,   personality     ( ).              . 
+         (, ) [], "      personality , ,  .     ,        loss   ". 
+intelligence                -  -  - .    ,    personality  .       ,   ( )     :          :    .              ,    , Tactics      . 
+ ( )               .    ,        :       , , .       :       .            :             ,           . 
+  simplifying        scripting               personality     ,                 . 
+  
+                [experience ],            .                     .  ,        personality           .                         . 
+  scripting 
+                       .                  (, ),    "[]            " (, ).      perception  , .. "isolation_effect      [knowledge ],      ".              [activity] (      ),           (, ).    ,          intelligence  . 
+================
+       ,            personality  (, ).                 intrinsic_rewards    personality  personality           (, ).      ,               .            ,    personality            . 
+      ? 
+       ,                        (, ),    ,          .   ,     scripting            possibility_effect         (, )      .  ,                       ,     combining              .     ,        protection_effect         focus  ,        ,      ,    perception ,  behavior   possibility_effect ,               .       ,      personality,      personality         ( ,  ).  personality   ,      ,    .                       . 
+             ,             .   ,        ,        (     ).          ,    /    . 
+              (, ).       ,             ( ).           ,           .      personality   personality  ,          ,           . 
+             scripting (, ),        .       : , ,  .                  .    process       satisfaction_of_needs       .  ,       , ..  ,      ,  ,    .           ,    () perceived_responsibility                          [resource]   .            ,               (..     (), , , .) . ,        Tactics            ,                       .      ,               [circumstances]           perceived_responsibility                 
+================
+possibility_effect perceived_vulnerability        extrinsic_rewards.       extrinsic_rewards      /    ,                   .        intrinsic_rewards                      . 
+  scripting      
+               .                                       .                 ; 
+()               ,             . 
+()              ,     /           focus     . 
+)                   [goal]             . 
+ :      
+           ,    . 
+     .                 .      personality      " "   personality,   syllogistic_rules           .   
+================
+     possibility_effect    ,             .          , ; ()        .            ,    ,               process       . ()      /     -       process ( , , , , , , .),  ()                (). 
+       .          ,    ,     .   ,            ,  ,  ,    Phishing intrinsic_rewards    .         ,      ,       .                         .        ,      vulnerabilities       satisfaction_of_needs       gain  , ..            . 
+    satisfaction_of_needs  .      intrinsic_rewards,         ,           ,       .  vicarious_experience  intrinsic_rewards               ,          .  extrinsic_rewards      , ,  extrinsic_rewards  (   ),      (  ,   ).    extrinsic_rewards    ,             extrinsic_rewards     .          segregating,             . 
+                      intrinsic_rewards     .    ,           intentionality          (  ).   intentionality        personality   extrinsic_rewards,  intentionality      intrinsic_rewards personality    .    intrinsic_rewards personality gain,       -          .        ,       , ,   ;         ,            ( ). 
+belief 
+  ,        scripting      personality       .       intrinsic_rewards            .    scripting             .  gain   ,            personality,                . 
+            , perceived_vulnerability  ,  ,     ,          combining           ( )      .                 ,         intrinsic_rewards. 
+================
+ 
+, ., .     
+, ., , ., , ., .     scripting:     , ,  ,  , .  
+, ., .  belief   scripting,   , :.   : ://..//// 
+, .   .   : 
+://..////. 
+, ., .  .  ,  , . 
+ , . .   .     .       , , .   : 
+://.//////. 
+, . .      -     .   : ://../////. 
+     , ... .           . .õ, ., ., ., ., ., ..   
+ perceived_vulnerability  .  .    : 
+://...//// / 
+, . ://../// 
+, ., . :      intelligence.    , .  . ,   ./. 
+, ., .  .  ,  ,  
+     , . ://../. 
+ .   ..  ,  .   : 
+://.//// . 
+  .     Exfiltration.   : 
+://...////. 
+  ://../////// . 
+, . .   :      , ,     .   .  
+================
+, . .             .           , , . :   segregating,  . 
+, ., .    :   .  , . (.)    .   ,  . 
+ , .        ?   : 
+://..///. 
+ .   : ://..//. 
+ .  :       perceived_vulnerability .   : ://..///. 
+, , " :       ",  , . , . , , . . ://..//// 
+ , .            ?   : 
+://..// / 
+  .       ,  focus  ,  .   : <://..// 
+/./. 
+, ., .   :           .  , . (.)    .   ,  . 
+================

@@ -1,0 +1,226 @@
+       () 
+   
+      
+() 
+ 
+  :            loss 
+  
+ , @.. 
+  
+ , @. 
+  
+ , @. 
+  
+ [] , @. 
+     :://../ 
+  
+, ; , ; , ;  , , "  :            loss" ().  . . 
+://..// 
+              ()     ().                   ().   ,  @.. 
+================
+   
+  :            
+loss 
+ 
+  
+    , ,   
+@. 
+  
+    , ,   
+@. 
+isolation_effect 
+   
+  
+    , ,   
+@. 
+ .   []  ,   @. 
+       focus           loss.                  Tactics       , personality      .              .  focus                intrinsic_rewards, , fear_arousal,  .                 . 
+: , , , fear_arousal, , intrinsic_rewards 
+ 
+ 
+       ,       $     gain  $    ( ).       (, . )    "   ,    protection_effect ,        ,    ,    ,    ,          ".                   .      focus         . ,  ,    %            ( ).  ,         perception,  focus                  [policy]          . 
+  ,       .            personality, personality,  personality,               (  . ).   belief,  intrinsic_rewards            ,          ( ; &  ;   . ; &  ).  intrinsic_rewards   
+ 
+      ,   
+================
+   
+      ,                       (  . ). 
+ intrinsic_rewards     ,            intrinsic_rewards. mental_calculation    .      participant_modeling ,  ,    .         ,    personality        frustration_of_needs.  ,          -phish       perceived_vulnerability  .       ,  -specific                    (  . ).          -phishing                 intrinsic_rewards  .           [Organization]   .       perception     intrinsic_rewards    intrinsic_rewards      .    ,  perceived_responsibility   intrinsic_rewards         (&  ). 
+,    perception    focus    intrinsic_rewards,    intrinsic_rewards,   .       ""     (&  ; &  ),      fear_arousal( &  ).  fear_arousal                 .           ,       ,                   . 
+     intrinsic_rewards    ,  focus    : 
+.       [function]        
+   [function ]? 
+.   perception           
+ fear_arousal,      ? 
+     . ,             fear_arousal   . ,               intrinsic_rewards      . 
+  
+ 
+ %    internalization   -phishing  ( ),   ,  %,         ( ,  ,  ).   ,     focus       combining       combining       . 
+,     ( ;   . )      (  ., ),       perception       ().     combining                    .       ,   %      Tactics ( ). 
+      combining     .   perceived_vulnerability          (&   ;  .  )   (  . ).         ,       vulnerabilities   ,     (..,  Phishing)    (.., opportunity_for_criminal_acts ).    
+ 
+      ,   
+================
+   
+      [Organization]       belief   role    .         combining       . 
+     personality                ,  ,  .  ,                     .            possibility_effect         . 
+,     combining        .  ,      ,         .                     .             ( ) ,        .  ,     personality      ,            ,             .              .  ()         ,      perceived_consensus       ( ).   . ()       ,      [Organization]   . ,        . 
+    , ,      ,     personality         .   personality  ,          . 
+intrinsic_rewards   
+personality           .  focus  ,       intrinsic_rewards -betrayal-aversion (). 
+intrinsic_rewards      intrinsic_rewards          ,       protection_effect, perceived_vulnerability  .        syllogistic_rules,      belief           ,   loss . ,   intrinsic_rewards      belief         (   ). 
+    ,    ,  intrinsic_rewards      loss            [Organization] (&  ). intrinsic_rewards                ,      .               ,      , ,     motivation (  . ;   . ;   . ;  ;  ). 
+  intrinsic_rewards          personality   .          ,              (&  ),    internalization    (&  ;  ).                    . 
+                    .  ,    (& , )       , ,     .    
+ 
+      ,   
+================
+   
+,  ,    ()        , intrinsic_rewards, intrinsic_rewards,        [Organization] . 
+personality   ,           [action]    .  fear_arousal                   . &  ()              ( .%)         . ,              ,      ,           ,        . 
+ fear_arousal   
+  intrinsic_rewards          . &  ()        ,          , ,            loss,        loss        . 
+          .      ,    ,   perceived_vulnerability,       (&  )     (  ).               . 
+    , , personality,  personality        (&  ).                   [Organization] ( ; &  ; &  ;   .  ),             ,        [function] ( ). 
+ :       
+ behavior 
+   (&  
+) 
+ 
+ 
+ 
+      ,      ,          . 
+ 
+ 
+        ,    Phishing ,          . 
+ 
+personality 
+                ,          ,     . 
+ 
+personality 
+       ,         ,    .  . 
+     
+           fear_arousal  behavior_control-ability  intrinsic_rewards,    intrinsic_rewards,       ( ). 
+ 
+      ,   
+================
+   
+ :    fear_arousal 
+                  .        [function]   [Organization]   .   gain           intrinsic_rewards       (&  ).              [Organization]       perceived_responsibility (&  ).        belief                 possibility_effect perceived_vulnerability.            ,   Phishing .   Tactics                    intrinsic_rewards.              [Organization]  isolation_effect   perceived_responsibility    (&  ).            combining  source  ,    ,      belief     .  ,       combining         Phishing             .             perception          .      gain  ,         intrinsic_rewards    (&  ). 
+:           gain   perception  . 
+:           gain   perception  . 
+  vigilance         (&  ).                 (&  ). vigilance             [Organization]         .  participant_modeling  role                            .  ,          Organization /Organization                      Phishing           .       segregating   , ,       (&   ). , vigilance   combining  situational_circumstance             .  ,            ,  isolation_effect    ,               ,      . 
+:     syllogistic_rules   ()    ,   ()    ,      ,     . 
+ 
+      ,   
+================
+   
+: vigilance    syllogistic_rules   ()       ()    ,     vigilance ,     . 
+ fear_arousal       ,   syllogistic_rules           (&  ).   impulsive_effect   personality       ,             ,             loss (&  ).    [function]             possibility_effect perceived_vulnerability, /       Tactics      . 
+:       gain    fear_arousal. 
+ fear_arousal         protection_effect          .  ,        -  ()   attending        ( ).                    ().  ,     personality      ,      -in-the-middle . ,    belief   (personality)        personality     perceived_vulnerability       . ,             [Organization ]. 
+:  fear_arousal  gain         .  
+     perception, combining      .       .      ,           appraisal      .    ,       appraisal        .            . 
+   
+            Tactics    .      -phishing    [Organization]     .  extrinsic_rewards    -phishing ,       [Organization]           combining  vulnerabilities  . ,               (,  ,  [modeling ],   )            .     . 
+ 
+  , , , ,   vigilance       .       , ,   fear_arousal       ,     ,  ,    ,    (  . ). 
+  
+     [modeling] ().   focus  appraisal    (..,      ). ,   focus   .  
+    role     fear_arousal    .    : 
+,       ,  fear_arousal        .             
+ 
+      ,   
+================
+   
+     .                       ,         [Organization] (&  ). 
+,        ,  gain         intrinsic_rewards      .    (  . ),   intrinsic_rewards            .            Tactics      ,             .   ,   ,           . 
+,   personality         .    . () ,           ,             .                  ( ; &  ;   .  ).  focus     ,              . 
+,                  .          ,   imagination     perceived_responsibility ,        focus         , gain  , participant_modeling   ,  ,   motivation (  . ;   .  ;   . ;  ;  ).  
+, . ., , . ., , .,& , . . ().    : 
+ intelligence   .    , (), . , . . ().  :     . & 
+, (), . 
+, ., , .,& , . (). :    
+.  , (),  -858. 
+, .,& , . . ().      intrinsic_rewards      : 
+    behavior.  ,  -268. 
+, .,& , . (). intrinsic_rewards       .   
+    , (), . 
+, ., , .,& , . ().  perception      
+   :   perception.   , 
+(), . 
+,  (). intrinsic_rewards   .    (.), _Trust:    
+ . . .  -72. 
+, . .,&  -Jackson, . . ().  impact        
+:    perceived_consensus    .   impulsive_effect behavior, 
+(), . 
+, ., , .,&. , .. ()    : [Organization] -wide 
+     .      
+ - .     . 
+://.../ 
+, . .,& , . . ().   intrinsic_rewards  .    
+, (),  -566. 
+, .,& , . ().   impact    :  . 
+   , (), . 
+, ., , . .,& , . . ().    belief .   
+belief (. ). ,  , . 
+, ., , .,&  , .. (). intrinsic_rewards     :   
+.  , (),  -90. 
+ 
+      ,   
+================
+   
+, . . ().  -based :      .  
+, . 
+, .. intrinsic_rewards :  syllogistic_rules     belief  personality . 
+   , ,  (),  -237. 
+, . .,& , . (). judging      
+:     .   , . 
+, . .,& , . . ().  fear_arousal :       
+ loss.  behavior    , (),  -261. 
+, .,& , . ().          
+.  , . 
+, . ., , . .,& , . . (). intrinsic_rewards  :    . 
+   , (),  -458. 
+, . .,  , . .,& , . . ().  appraisal   
+     :     intrinsic_rewards.  , 
+(), . 
+, . ., , ., , ., , . .,& , . . ().    
+     :       .  
+, (), . 
+, . . (). , ,   .    , (), 
+. 
+, . ., , . .,& , . . ().      intrinsic_rewards. 
+   , (),  -734. 
+, . . . "intrinsic_rewards   ."  . .  (.),   
+  . .    , , : , 
+. . 
+, . ., , ., , . .,& , . . (). intrinsic_rewards    :  
+     .       
+ (), (), . 
+, . .,& , . . ().      intrinsic_rewards  .  
+:   intrinsic_rewards  , , . 
+, . .,& , . . ().     :     
+ perceived_responsibility  .    , (),  -256. , . . ().  belief   :  intrinsic_rewards  perceived_vulnerability   
+ belief .     , (),  -134. , . .,& , . ().  perceived_responsibility    : 
+, ,   role.   , (),  -399.  ,  . ,  . ,     (). "  
+ :           
+,"     , . (), .  -47 ( ). , . ., , ., , .,& , . ().    .   
+    (.  -15). , , . 
+, .,& , . (). :         
+   [policy] .  , (), . 
+, . . ().      .  :.. . 
+, . ().  intrinsic_rewards      *.      
+  , (), . 
+, ., , . .,& , . ().  perceived_responsibility  simplifying  [policy]  
+  .     , (),  -290. 
+ , .,&  , . ().      . & 
+, , . 
+, .,&  , . ().     .  
+& , (),  -198. 
+, ; , ; , ; , ;  , . Phishing perceived_vulnerability :   
+      Spear_Phishing .     
+, ,  (),  -362. 
+ 
+      ,   
+================

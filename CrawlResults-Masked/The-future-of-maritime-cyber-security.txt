@@ -1,0 +1,378 @@
+      
+  , ..  , ..    ..   
+================
+  
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+           personality       personality.    intrinsic_rewards    personality                     personality     . 
+ 
+ 
+  
+ 
+   :  
+ 
+  
+ 
+ imagination -Scenarios       
+belief 
+ 
+belief 
+ 
+  
+ 
+           personality               
+,              .                 perception   planning                : ,   . 
+ 
+ 
+                            . 
+================
+     |  
+ 
+            ,     ().       (   -   ,   )     perception       ,                perceived_vulnerability           ,          . 
+                             perceived_vulnerability   .   self-efficacy   ,                      .      ,     impact    . 
+           role.       ,   ,       .            . ,   ,     ,              extrinsic_rewards      :     Deadeye_Jackal, ,     (), ,    ,   Deadeye_Jackal,  ,   ,          personality   Deadeye_Jackal.     participant_modeling   role     personality  -          (     -   )      .           focus  .      ,        ,         . 
+                     personality       .         .  ;    fear_arousal  perceived_vulnerability          ;           ;   possibility_effect           . 
+================
+|       
+ 
+                        - ,   .         ,             personality physical_quality.    ,    ,       .         ,                    opportunity_for_criminal_acts.     personality     ;           intelligence   .           perceived_vulnerability  , , constraint  .      syllogistic_rules          ,      intrinsic_rewards         syllogistic_rules                 . ,       perceived_responsibility  planning  mental_calculation               . 
+                     .        , vulnerabilities                                       .               planning        . 
+ 
+ 
+ 
+ :           
+    
+  belief                      personality     .                 
+.   ,    ,    mental_calculation             .       impact            
+================
+     |  
+personality       . ,    Deadeye_Jackal - , ..     Deadeye_Jackal     . ,         . mental_calculation        ;            .      ,               
+  ,            . 
+ :           
+ perception            ,           .     
+      . ,    perception            mental_calculation              . 
+           - ,   .               .                      .                         - .              ,             .      ,           .  belief         . 
+================
+|       
+ 
+           []        ;                  .  Deadeye_Jackal          ,                     . 
+       ,          (    ).               , , [knowledge ],    ,        segregating  impact.    ,       . ,        ,          .      ,      Deadeye_Jackal          ,        extrinsic_rewards     .            ,    perceived_vulnerability     . 
+  
+:  ,             ,    possibility_effect   . 
+:            . 
+:            ;              . 
+:    ,                ,   perceived_vulnerability    combining   . 
+ 
+   : personality      ,     ,      ,       process,        .     ,  syllogistic_rules   personality   ,    intelligence   personality   . 
+ :       ,     perceived_vulnerability   .    ,   .  
+================
+     |  
+                perceived_vulnerability   . 
+ 
+  :  gain         ,                    ,         (),    personality     source  (). 
+:     persistence   belief           ,     ,        .    process     ,       ,        .    vicarious_experience                 . 
+: ,       ,    ,        ,         . 
+:       ;                              .     ;             combining  , ..           .    process  ,   syllogistic_rules    ,   . 
+belief 
+ :   ,       
+================
+|       
+                  , ,                         . 
+          personality     ,           , protection_effect    .   ,       ;       extrinsic_rewards       .   combining self-efficacy                      . 
+,       (  perceived_vulnerability   ),      ,                     .   ,             ,   segregating    ,          .     self-efficacy       ,                 . 
+                ,                 .        (     behavior_control-ability    )         ,        ,    ,         . 
+================
+     |  
+ 
+     personality                      (  )   . 
+          .         personality      ,              impact    perceived_vulnerability      . 
+  
+:              personality  ;    , , personality   .   history             .    vicarious_experience     .       vicarious_experience        ,      ,      .           ,        .                               .  history    personality  ,           perceived_consensus        .  vicarious_experience       possibility_effect  . ,         protection_effect    [function]                .    vicarious_experience      opportunity_for_criminal_acts. ,        [function]     impact              [function ]. 
+   ,   intelligence syllogistic_rules,                       .             ,               .      belief  ,           (    )             task. 
+intrinsic_rewards :     .              learning                     .               .              .   coding    vulnerabilities         .           " "       .       vulnerabilities  ,      .     Organization.  coding   
+================
+|       
+      opportunity_for_criminal_acts         .                .            participant_modeling    .                                     personality   . 
+       .  ,      process  personality     () . personality              personality ,     ,    gain  possibility_effect  .           ,        .               .      process        %                    ,           [capability]              protection_effect    .          perceived_vulnerability            .     ,                    ,  personality             , ,    ,       learning   .           intrinsic_rewards                 . 
+ :        .  ,             protection_effect      ,   .     personality                  Deadeye_Jackal   .       syllogistic_rules                 .      protection_effect          .    protection_effect                   .       ,        ,  personality         .                . 
+                   .                        .    [policy]                 .    intrinsic_rewards    ( )          persistence               . 
+          .                .   
+================
+     |  
+     perceived_vulnerability     ,       protection_effect         . 
+   personality    .                 .                      .   combining      planning                              . 
+:    participant_modeling          physical_quality .           .       ,   .   personality        protection_effect  personality       extrinsic_rewards.       ,      . 
+    ,          .         .            ,          ,                     [resource] .           [resource]                  .         physical_quality   source              , ,        .    vulnerabilities                     . 
+ 
+ intrinsic_rewards :               .     perception             .  perception              .     perception                   .  perception                  .      intrinsic_rewards      .                            .               personality                               ,      .           belief         ,       . 
+ intrinsic_rewards  [capability] :  [capability]       .      : 
+   isolation_effect :           ,   ,     .  intrinsic_rewards  [capability]    isolation_effect  . 
+================
+|       
+     :       ,   vulnerabilities,   .               ,         [knowledge]   . 
+ :   perception              .              personality          . 
+              [capability]      .    mental_calculation     ,                                 syllogistic_rules. 
+& :                .            personality         .          gain,                .       .       (  )        . 
+      impulsive_effect          .                        .                         .                 .                          .   isolation_effect               .       syllogistic_rules                 . 
+ &  :            .                              ,   .        ,             ,            . 
+ self-efficacy        .                 persistence     .          self-efficacy      possibility_effect  .        .        .          
+================
+     |  
+            .                . 
+                 role    .           persistence       .            vulnerabilities       
+. 
+: , & :                    .       "  "       combining .                    Deadeye_Jackal            .            .                 -                            protection_effect      . 
+           "  ".   personality                 ,     .          ""                   .                                       syllogistic_rules    Deadeye_Jackal. 
+            mental_calculation        : 
+ :         
+        .   ,              .       
+================
+|       
+        protection_effect         ,       perceived_responsibility              .          syllogistic_rules             .       , ..       .     loss                     . 
+  :         .             ,      perceived_vulnerability    .     combining        possibility_effect       .  loss        .      gain           participant_modeling      . ,              .          . 
+ 
+       :             .             syllogistic_rules             planning.                .      opportunity_for_criminal_acts             intrinsic_rewards     . 
+                  (      ).               protection_effect  .                perceived_vulnerability  . 
+       .       .        personality perception             . 
+   :        personality       .    [action]       fear_arousal   ,       .            .     task    personality   personality (  personality)        .     focus   combining possibility_effect     fear_arousal  . 
+   :            .     focus                 combining        .  focus          (  )           . 
+================
+     |  
+  :            .  loss,  [skill]             .     mental_calculation              personality      possibility_effect         ,    ,    syllogistic_rules      . extrinsic_rewards         .            physical_quality     -        Deadeye_Jackal  protection_effect     ? 
+          .                         .   appraisal   impact           perceived_vulnerability    . 
+belief 
+ :   ,       
+  persistence       .                .                        .       . 
+                                .  gain personality   ,            simplifying       .                Deadeye_Jackal. 
+================
+|       
+    .                     protection_effect Deadeye_Jackal        extrinsic_rewards.               ,             .        history  certainty_effect        ,     loss            . 
+================
+     |  
+ 
+    protection_effect      perceived_vulnerability    ,   .         .         arousal          isolation_effect        . 
+             role   participant_modeling       ,        participant_modeling             . 
+       (  ,   )         .     intelligence             .   intelligence            protection_effect     .         intelligence       loss    ,         .            .                  . 
+                     .                                  .         .         personality      techniques  Phishing           intrinsic_rewards.           ,     Phishing          % . 
+ , , perceived_uniqueness ,                .  personality                personality       .    Defacement      ,               ,     $         .              segregating     impulsive_effect .         .      ( )           perceived_vulnerability   .          belief      personality      . 
+         .       ,   ,          
+================
+|       
+ .     /      perceived_vulnerability  , , constraint  . 
+  
+   
+   :        .  
+            .   
+   (        )   
+ ,     .         
+              
+       .  personality ,  
+     [knowledge]   personality       extrinsic_rewards. 
+        . 
+            .     loss 
+  ,  loss             
+syllogistic_rules    .       personality    
+                
+syllogistic_rules. 
+       source        
+        ,      
+       .        -xxx 
+      extrinsic_rewards        
+.         intelligence 
+     . 
+ :     [function]        
+    .         
+     combining  ,      , 
+  .             
+  . 
+        comply_effect,      
+  .     , techniques,  ,  
+techniques,      ,       .  
+        ,         
+           personality    protection_effect    
+     . 
+                 
+           ,     
+        . 
+               
+   .             
+      .           
+================
+     |  
+planning  attending.     [function]                        .             , ,                perceived_uniqueness         -                .  syllogistic_rules       possibility_effect    . 
+:                     .                            .             , ,            .                 . 
+   ,                  perception  [ownership]       .                                   .                personality .                       physical_quality.     isolation_effect        .                          .           [ownership]   personality     . 
+       ,  situational_circumstance impact   .                  
+    .      
+    belief  personality    
+          
+  .       
+ . 
+:      .             "        ." 
+        
+      .           live_modeling   .    perceived_uniqueness   live_modeling 
+ : "  ,   
+   " -    
+================
+|       
+        .    intrinsic_rewards     . 
+         .      behavior    .             ,     -                      .           impact            . 
+                  .                    .     perceived_responsibility        certainty_effect          . 
+        perception  ,       .     [activity]  personality        .               ( ),   ( impact     )   perceived_vulnerability (    ). 
+:               .                      physical_quality.       . 
+             .        (,   )        [capability]                 ,           .            syllogistic_rules                 . 
+    .     perception     .                      .     self-efficacy  personality                 Organization        .              . 
+        . personality                          .               Deadeye_Jackal     .            personality              .               . 
+================
+     |  
+loss :         situational_circumstance    (  )           situational_circumstance         .          loss -        .      -           learning     . 
+              loss      .            perceived_responsibility      syllogistic_rules     extrinsic_rewards   .     ,          .       personality    .                    £5,.                        Deadeye_Jackal -   belief      personality . 
+ certainty_effect         possibility_effect   loss      .      ,        loss.  combining  extrinsic_rewards            ,       personality . 
+ 
+ :                              .                      persistence.               .                     combining      participant_modeling    persistence.            ? 
+       . ,   participant_modeling            .               .                      participant_modeling       .                 , physical_quality,  ,            .            fear_arousal   .          participant_modeling              protection_effect,     .                       . 
+             .                       .                .     perceived_vulnerability                 ,                      .    
+================
+|       
+         .                                 . 
+ :      
+ thinking                   mental_calculation   .                    .    belief ""        personality         .  belief ""   personality  participant_modeling       . 
+:          impact      .                         participant_modeling.             history           ,        . 
+    loss      .        simplifying  loss       .           .                          ,           . 
+                         .                   ,    .                     possibility_effect . 
+ 
+ focus :                  loss    .  focus        
+================
+     |  
+  , combining                     perceived_vulnerability ( ,  .) 
+:           ,          . 
+       personality.                ,                        . 
+       .              perception           .   perception       .              perceived_vulnerability        combining      perceived_vulnerability              Deadeye_Jackal. 
+:           .           .           .                  .           .            live_modeling        . 
+      personality                       .                     .  ,         ,                personality           . 
+ :          .            . 
+         .             . 
+             perceived_vulnerability.        [policy]      . 
+================
+|       
+belief 
+ :   ,       role    . 
+    perceived_vulnerability      ,         . 
+  perceived_vulnerability              personality          personality    .                     , personality   intrinsic_rewards.            ,    ,           .             perceived_vulnerability         . 
+,   perceived_vulnerability     persistence.                 .    persistence      constraint       (      )         physical_quality .  personality           intrinsic_rewards. 
+              .  segregating         Deadeye_Jackal,       ( )      .     .         [goal]   possibility_effect  extrinsic_rewards   .                           
+================
+     |  
+     .              .                            Tactics.                 . 
+      impact         .                     ,   .                  ,           .                     .        .              ,             [activity]       . 
+     ,   Deadeye_Jackal,        evaluating       .                          .                     source      . 
+ loss       Phishing, perceived_uniqueness ,       persistence  .  loss             combining      .                           . 
+ possibility_effect loss              personality     .            role           protection_effect Deadeye_Jackal        .   possibility_effect     loss,       ,         ,        ;   perceived_vulnerability        history. 
+================
+|       
+   :  
+    personality   .     ,                personality .        [skill]   .    Organization   . 
+             ,   .                           protection_effect      . 
+    syllogistic_rules               vulnerabilities -   , ,    -   process       planning.       ,     .      planning  perceived_vulnerability     .     : ,   .  ,    ,    personality     fear_arousal. 
+                 , ,   .        []    physical_quality,     -            -    opportunity_for_criminal_acts     ,    .            -        protection_effect          personality . 
+  personality               ,        .                        .              . 
+              personality   .                .  ,        personality                -                participant_modeling        loss  .             ,         . 
+    ,    ,     . [skill]            personality   .    
+================
+     |  
+          ,   .                      ,          physical_quality  imagination        mental_calculation  vulnerabilities   . 
+  
+ 
+intelligence :   intelligence            :            intelligence   intelligence        behavior.         intelligence.                  .                 .  
+: ,     ,      , behavior_control-ability    protection_effect.                . 
+ :           /  .  impact     : )      protection_effect ,      .        . )        protection_effect.          (           )   perceived_responsibility          . 
+ :               .              Deadeye_Jackal            .          personality        (                persistence ,  ). 
+ 
+  :             .    ,     (,   )  .           Deadeye_Jackal           impact     personality .                     []  .      perceived_vulnerability    possibility_effect  . 
+:                 .      , , persistence    .        perceived_vulnerability   ,                
+================
+|       
+    ,          . 
+ imagination -Scenarios        
+ ,           perceived_uniqueness   .  frustration_of_needs          :                          . 
+    impact .  frustration_of_needs                   ,     .  personality   fear_arousal                           intrinsic_rewards          personality .          .               :                   .              [capability]   intelligence :              ,              isolation_effect .           .     [activity]              .     extrinsic_rewards       perceived_vulnerability          protection_effect. 
+  
+         .         personality         .           :             . 
+       fear_arousal      .                    .                       combining   personality               Tactics    . 
+              .           personality         .   personality      ,            .  perceived_consensus        possibility_effect    loss               . 
+================
+     |  
+   
+                           intrinsic_rewards.     ,               .        personality                .   impact           perceived_vulnerability                 . 
+ perceived_vulnerability           .               fear_arousal        .       perceived_vulnerability  personality        .          .                .       personality               . 
+belief 
+      ,   .                     .       .               .   Deadeye_Jackal     extrinsic_rewards  loss,  extrinsic_rewards  loss     loss.     ,               . 
+          .       belief           .          ,            . 
+================
+|       
+belief 
+       thinking       .      : ,   .                       . 
+                      simplifying   .                        .                      isolation_effect.                       . 
+    ,                possibility_effect  .                        .               gain ,      perception   ,        .       possibility_effect       ,              . 
+      focus      .               ,        .     .    techniques          possibility_effect vulnerabilities         (               ),       .           ,                      . 
+                  simplifying   perceived_vulnerability    . 
+================
+     |  
+ :   
+================
+|       
+     
+ :     syllogistic_rules                 , syllogistic_rules     .   focus       intrinsic_rewards  ,          personality   . 
+ : combining          
+    combining    ,     .                  ,      perceived_vulnerability .                      . 
+ : combining        
+                                :       ,                ,   personality . 
+ :    syllogistic_rules   
+     ,  [policy]    
+,        .    
+ ,     ,      
+       .    protection_effect 
+      perceived_consensus,  ,   ,     ,    ,      ,      . 
+================
+     |  
+ 
+, .   , (  :  , ) 
+, . , ( : , ) 
+,  . "      ",  , () , . "           ", ,   ,  : ://.// , [:   ] 
+ . "       ?   ",  ,   ,  : ://../// . [:   ] 
+, . "      Phishing ?",  ,   ,  : ://../// / [:   ] 
+,  . "       ",   ,   ,  : ://..//,. [:   ] 
+. "  :    ", ,    ,  . "    &  :        ", ,   ,  : ://..// [:   ] 
+, . "       -   ",  ,   ,  : ://..///  [:   ] , & , .     Vulnerabilities, ,   ,  : ://../combining // vulnerabilities [:   ] 
+================
+|       
+================
+              intrinsic_rewards     , intrinsic_rewards     perception  mastery_experience      .    ,               .                   ,   .               , ,   personality          .                  
+              ,    protection_effect   .     perceived_responsibility          .  perception                impact.                 ,         .                             . 
+                 . 
+       
+         
+,                    mastery_experience : 
+•   • &   
+•  •   
+•  •    
+   
+           : 
+•     
+•    
+•    
+•   
+•     
+================
+            ,      .             satisfaction_of_needs   .     (  )               , ,      ,  ,  ,          perceived_responsibility, perceived_responsibility  perceived_responsibility           ,    ,  self-efficacy              . 
+   ©2015 
+                        
+://. ... 
+================

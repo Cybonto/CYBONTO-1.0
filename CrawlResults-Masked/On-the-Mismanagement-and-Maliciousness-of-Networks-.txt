@@ -1,0 +1,512 @@
+ , ,       : ://..// 
+       
+  ·    
+: ./.. 
+  
+  
+ , : 
+  
+  ,  
+     
+  ,  
+  ,  
+  
+  
+             : 
+    
+  Source            
+              . 
+        . 
+================
+      
+ 
+ ,  ,  ,  ,    
+†Computer    
+   
+‡Department        
+  [division] 
+{, , , }@. .@. . 
+  ,      ,  belief            .      ,  ,  , ,   ,  ﬁ              ﬁ. combining       , Phishing, ,  ,  ﬁ   ﬁ             . 
+.  
+ﬁ         [],            gain     ,   perceived_vulnerability    ,       .          ﬁ          ﬂ         .  ﬁ     experiential_awareness            impact [], [].         ﬁ            .           techniques          [], [], personality     [], [].   ,          : "      ﬁ protection_effect loss   ,     loss   segregating          loss   segregating        extrinsic_rewards  protection_effect loss   []." 
+ focus          ,  focus     .      
+   live_modeling                        ﬁ . live_modeling           perceived_consensus    ,  ﬁ-named  ( live_modeling     ),              . 
+ ,   ,  , ,  
+   ,   
+://.././.. 
+focus,  ﬁ    loss             .    syllogistic_rules   ﬁ  possibility_effect  , ﬁ                .      syllogistic_rules          . 
+      vulnerabilities ﬂ        (..,    ﬁ ),        ,            experiential_awareness  ﬁ,        experiential_awareness  behavior,      .      , ,  belief              possibility_effect  ,     . 
+   evaluating  judging                    ﬁ , ,   .    ,     ﬁ     ,        ,     ,          source  . 
+    ﬁ      () .            syllogistic_rules      .  ﬁ       combining    ﬁ combining  ﬁ    .  ,   ,          ﬁ   ,     ,         participant_modeling source  .   ﬁ     ﬁ      .  ,   , certainty_effect                             ﬁ. 
+================
+ combining        .        ,  ,          .  ,  ﬁ                    .    possibility_effect   ,        possibility_effect      .        , Phishing,    [activity]  generalizing  ,      ﬁ,  certainty_effect  (.   ﬁ <. )    possibility_effect . 
+       ,      ﬁ  generalizing - . ,      possibility_effect  participant_modeling   . ,                ,   ,  belief  []   . ,  ﬁ   syllogistic_rules      personality     . 
+ focus   belief     ﬂ  .  belief    -                     .   ,  personality   syllogistic_rules    ,  belief   perception       belief  simplifying        . 
+.    
+      ﬂ   .  simplifying    ,      .                 ,    focus              ()     () [],         .    focus             ﬁ vulnerabilities        .     simplifying           mental_calculation     (..,    ﬁ ). 
+                 , ,   .       . ,        [Organization]   .  ,         judging     ,  focus           ﬁ . ,         simplifying     .   
+     ,           .   possibility_effect            ﬂ        . 
+   ,              ,   ,    Collection . 
+.    
+              perceived_vulnerability       role   ﬁ .   ﬁ ,              source  techniques.        ,         ,   ,     .   []       ﬁ      . ,       ﬁ  ,  , segregating   . 
+   simplifying  ﬁ   ,          [],   personality      techniques          techniques       .          , ,   ﬁ      .   Collection              []. 
+ ﬁ mental_calculation     , ,   .     combining.  mental_calculation    protection_effect     ﬁ,   possibility_effect perceived_vulnerability      loss       . ,  ﬁ .       . 
+.  Source   
+DNS_Cache_Poisoning                   . ,            protection_effect Cache_Poisoning . ,  ,       DNS_Cache_Poisoning       []. ,                     participant_modeling. ,                       . 
+   (  [])     source         protection_effect  Brute_Force .   ﬁ,          source       ,  ﬁ       .  ,      , source ,     gain  ,      .  personality         source   [], []. 
+ 
+================
+       
+ /     ﬁ  
+    DNS_Cache_Poisoning  
+    -  
+ ,     -  
+ /   -  
+ ,       
+      
+      
+   
+ Source   
+     
+ ﬁ 
+  
+  ﬁ 
+    
+     
+ .       ,       
+            source  ,  simplifying         [] .  .      , .  combining,  experiential_awareness      .   . 
+  ,    source            generalizing        source    source    ﬁ.  ﬁ  , ,    .%  combining     ,    source  . 
+.      
+     ,   techniques ()   ()       .             techniques.       techniques    . 
+                      frustration_of_needs   .  ,               .     ﬁ  ( [])           []. 
+  focus,        appraisal      :  .  .         ﬁ          personality  []. 
+          ,  participant_modeling          , ﬁ    .   participant_modeling               .  ﬁ  .   ,    .%     ,       . 
+             . ,   .  .             []       personality    ,              . 
+.  ﬁ 
+       ()      .          ﬁ       
+   .                   . , ﬁ        ,        vulnerabilities (..,  [], [])   (..,   []). 
+  .   %    (   )    ﬁ [].    [policy]       ,     ﬁ       . 
+   appraisal  ﬁ,                    [].   ,             ﬁ    ,   generalizing             ﬁ.   .   ,    .%         .        ,                     (..,     ﬁ-graned  ). 
+.   
+   source            [], [].      ,        ,  participant_modeling  ﬁ      []. 
+   appraisal      ﬁ,  mental_calculation      [],    , personality            ﬁ.  ﬁ-  simplifying    ,          source  techniques   .         ,  mental_calculation      techniques ﬁ   ﬁ.         , ,   .%     ﬁ. ,      ,   . 
+.   ﬁ 
+   . ﬁ            perceived_uniqueness  .   ﬁ,  ﬁ       ﬁ [authority ]. 
+ 
+================
+   ﬁ        ,            ﬁ.  ,  mental_calculation     ﬁ   possibility_effect   ﬁ. ,        ﬁ  ﬁ         [authority ]. 
+     []   ﬁ  ,  mental_calculation                  [].   ,   .   TCP_SYN_Scan        techniques    ,      .              ,       ﬁ     . 
+  ,  mental_calculation   ﬁ-       ﬁ [authority]      (..       ﬁ [authority] ).         , .        ,  .   . ﬁ.   ﬁ,  .  (%)  ,   .  (%)       ﬁ. 
+.    
+         participant_modeling  ﬁ   source           .               ﬂ ﬁ   .    ,         (  [],  []). 
+         ,    TCP_SYN_Scan    techniques         ,                       .         ,    syllogistic_rules    . 
+  ﬁ .         .  ﬁ    .     , .   segregating  , ,   syllogistic_rules   ,  ,     ,      . 
+.      
+        ,  ,    ,    ,     .           intelligence    ()  ,       ,      (),     (),       (). 
+         ,       perceived_vulnerability       [].           vulnerabilities,            personality            [], [], [].  ,  mental_calculation         ﬁ. 
+   appraisal       ,  mental_calculation   ﬁ       .      ﬁ       , ,   .   ,       ,  . 
+.      
+  ,    focus          ,    ,   vulnerabilities    ﬂ     mental_calculation    .   focus         ,        . 
+                       ,   combining     . ,                      [Organization] (..,        ). 
+,  comply_effect               mental_calculation,    ,  ,     vulnerabilities. ﬁ,  ﬁ    ()     , () ,          source   , () .          , () .    , () .%          ﬁ, () .      ﬁ, () ,       ,  () ,    . 
+.     
+  
+  ,  simplifying                ﬁ-       appraisal       ﬁ. 
+.   
+      appraisal          ,                ﬁ              ﬁ     . 
+ 
+================
+           ,    ﬁ [],       ﬁ     [], [], [].                          ,   belief      . 
+           .  ,           (..,     ).  ,               ,            source   ﬁ. 
+.   ﬁ  
+              extrinsic_rewards     .    belief,  mental_calculation        ﬁ        . 
+ evaluating        ﬁ ,      vulnerabilities   .     belief,         ﬁ         . 
+     ,             ﬁ vulnerabilities  . 
+)   :          combining        .   ,          (..,           )   ,     .  ﬁ       ﬁ ,   %        ﬁ  .           ,             ﬁ.    ,   (.%)    %    ﬁ   .       %     ,         . 
+)  source  :         source     combining       .       .   ,  (%)     ﬁ  .  ,     ﬁ   %    ﬁ,    %       source      , . 
+)     :  ﬁ                        .          .   
+      ,  (%).               :         ,                   , . 
+)  ﬁ:       ﬁ,  mental_calculation             ﬁ.      .      ,    ﬁ     . ,  ﬁ          .             ,         %        ﬁ.           ﬁ    personality []. 
+)  : ,        ﬁ      combining      . ,             , . ,  appraisal                , .     ,             techniques ﬁ,                ﬁ   . 
+                ﬁ. ,    appraisal    source techniques   %   . ,                    behavior    . ,    ,        ﬁ             possibility_effect   . 
+)   ﬁ:        ﬁ   combining        .       .     perceived_vulnerability      ﬁ,  ﬁ            ﬁ. ﬁ,   ,  (%)       .  , ,               ﬁ. 
+)    :        combining       ,              .      ,  ﬁ       .  ,              %      ﬁ. 
+)    :  ﬁ             ;  combining  ﬁ    , .    combining       ,     ( ). ,       %              . 
+ 
+================
+ 
+ .
+ .
+ . 
+   
+ .
+  . . . .  
+
+    
+      ()
+ 
+ 
+         
+    evaluating 
+()   
+ 
+ .
+ .
+ . 
+  
+ . 
+    
+ 
+ 
+         
+    evaluating 
+()  
+ 
+ .
+ .
+ . 
+  
+ . 
+   
+ 
+ 
+ 
+    
+    evaluating ()  ﬁ
+ 
+ 
+ 
+ .
+ .
+ . 
+  
+ .
+  . . . .  
+ 
+    
+      ()
+ 
+ 
+         
+    evaluating 
+()   
+ 
+ .
+ .
+ .
+ .
+  . . . .  
+ 
+      ()
+ source   
+    
+ 
+ 
+         
+    evaluating 
+()  source  
+ 
+ .
+ .
+ .
+ .
+  . . . .  
+ 
+      () 
+   
+     
+ 
+ 
+         
+    evaluating 
+()  ﬁ
+ 
+ .
+ .
+ . 
+ 
+ . 
+    
+ 
+ 
+         
+    evaluating 
+()  ﬁ
+ .
+ .
+ .
+ . 
+   
+  
+ .
+ 
+ 
+ 
+    
+    evaluating ()  
+  
+. .    ﬁ    .                
+  ﬁ . 
+ 
+================
+       ﬁ.  ﬁ  ﬁ     
+- 
+. (< .) . (< .) . (< .) 
+. (< .) . (< .) - . (< .) . (< .) 
+. (< .) . (< .) 
+- . (< .) . (= .) . (= .) 
+       ﬁ.   ﬁ     
+. (< .) . (= .) . (= .) . (= .) - -0. (= .) 
+. (< .) . (< .) . (< .) 
+. (< .) . (< .) . (< .) 
+. (= .) . (< .) . (< .) 
+. (< .) . (< .) . (< .) . (< .) . (< .) . (< .) . (= .) . (< .) . (< .) . (< .) 
+. (< .) . (< .) - . (= .) . (< .) . (< .) . (< .) 
+. (< .) . (< .) . (< .) -0. (= .) - . (< .) . (< .) . (< .) . (< .) . (< .) - . (< .) . (< .) . (< .) . (< .) . (< .) - 
+ .        .   
+   .(: ; : .) 
+.    
+       syllogistic_rules,  ,         .    syllogistic_rules   ,    evaluating  ,         .                        . , evaluating -      appraisal         . 
+         -1  ,        syllogistic_rules     certainty_effect    certainty_effect syllogistic_rules.    ,  participant_modeling  belief    % ﬁ        experiential_awareness   ﬁ (..,  <.).   ﬁ   ﬁ,     ,    syllogistic_rules.     [],      ﬁ  .  .     , .  .  ,  .  .    . 
+   ﬁ       .  ﬁ   ﬁ          % ﬁ .  ,       ,     ,      .   ,  ﬁ      :   , loss   source  ,     ﬁ. 
+     ﬁ       .       ,             .   ﬁ,              possibility_effect    (  ). 
+   ﬁ     ﬁ ﬁ    ,     comply_effect. ,               . ﬁ,       ﬁ      ﬁ      .  ,          . 
+ possibility_effect              
+ 
+ .
+ .
+ . 
+  
+ .
+  
+   
+        
+ 
+ 
+ 
+ 
+ 
+. .    .        ,             . 
+         .   ,               [Organization ],       [Organization]  ﬂ   ,    process,   ,   perception   vulnerabilities. 
+. ﬁ    
+  simplifying              .  ﬁ combining         .  syllogistic_rules          appraisal    ,          .    ,  mental_calculation           role. 
+) combining :  combining          [],           .                     evaluating    .       ﬁ             .  evaluating            . 
+)  :  ﬁ mental_calculation                      [].     ,     ﬁ     evaluating      .         ﬁ    . 
+ 
+================
+    
+ [], [], [], [], 
+[], [] 
+Phishing / [], [], [] personality    , [], [] 
+ .    . 
+ ﬁ        ,               .  %           ,  %        . 
+                  .  gain,        ,  [exposure]             . 
+.    
+  ,       syllogistic_rules          possibility_effect         .    mental_calculation    combining      ,  Phishing ,     .  combining,         .       . 
+                    ,   possibility_effect         .  ﬁ                       . ,   ﬁ    certainty_effect    ,             . 
+.    
+       . ,        ﬁ          . ,        ,  ﬁ,                .   syllogistic_rules,  mental_calculation   techniques          ;    mental_calculation  techniques                 . 
+ ﬁ  ,  (%)        techniques.           .       ﬁ ,      :        %     ,           .
+ 
+ .
+ .
+ .
+ . 
+     
+  perceived_consensus   
+  
+ 
+ 
+      evaluating 
+ 
+. .    .      ﬁ ,            . 
+ ﬁ       .< .  certainty_effect  source   .< .  certainty_effect      .< .  certainty_effect  ﬁ .< .  certainty_effect    ﬁ .< .     ﬁ .< .  certainty_effect     .< .  certainty_effect    .< .  certainty_effect  .< .  certainty_effect 
+ .            
+  .          
+ . 
+.     ? 
+      certainty_effect        . ,        ,           protection_effect          . ,           (..,  , ﬁ- /frustration_of_needs)    impact  . ,     ,    persistence                 . 
+     syllogistic_rules     ,  focus      .  ﬁ           .      focus    ﬁ certainty_effect syllogistic_rules   possibility_effect     % ﬁ .       .  ,    (..,   ,  source  ,    ﬁ)        .  ﬁ         ,        . 
+ ,  ﬁ            .                  ,  perception      mental_calculation   
+ 
+================
+     evaluating   . (< .) . (< .) evaluating   . (< .) . (< .) 
+ .   (  )  /  
+.        /      
+ .   /  ,          . 
+#  #   evaluating   -0. (< .) -0. (< .) evaluating   -0. (< .) -0. (< .) 
+ .   (  )    
+/.         /   
+  .   /,       
+   . 
+        mental_calculation ﬁ vulnerabilities  . 
+      syllogistic_rules;               [].  ,      ,       ,         ﬂ  . ,     focus       personality     .      generalizing -  ,                 . 
+                      .                .   ,      ()               .     ,       ﬁ         % ﬁ .  ,    /  ,         (..,    evaluating    ). 
+ gain,      syllogistic_rules    generalizing    ﬁ . ﬁ,    :       .                  personality   .                       [policy] .     ()         ,      possibility_effect           . 
+              personality   ,      generalizing - .  ﬁ       belief 
+   
+  
+#  
+#  
+ 
+ 
+. .   .         personality     . 
+() [] ,             ( ﬂ     ).  appraisal         ()    situational_circumstance perceived_uniqueness   experiential_awareness ,       (). 
+                 ,           experiential_awareness .      .   ()    (>)    /         .   ()       ,                   ,          . ,   (!)       
+      .       ,     syllogistic_rules. 
+        
+            personality     .         
+    possibility_effect , 
+     syllogistic_rules    
+  (   )    
+. ,      
+       , 
+  ﬂ    possibility_effect  
+   . 
+. Impact       
+                  ,         ,  mental_calculation                  .  ﬁ         (.., 
+ 
+================
+ ﬁ       .< .  certainty_effect  source   .< .  certainty_effect   ﬁ .< .  certainty_effect 
+ .     : 
+                     
+. 
+          certainty_effect     certainty_effect     persistence ). ,  ﬁ       certainty_effect       .        . 
+.  
+         combining   . ,               Collection  ,      ,     .       impact  personality    ,     impact    .        impact,      combining   . 
+    ,       .  perception               gain    .  ,                          ,        . 
+.  
+  protection_effect .  ﬁ                    perceived_vulnerability      . ,    (..,  ﬁ),  ﬁ   perceived_vulnerability      ,     perceived_vulnerability.   ,    extrinsic_rewards  ﬁ  .         ﬁ                [].  ,                  ,      gain        .   ,   .                      .   ﬁ    ,    ﬁ extrinsic_rewards  satisfaction_of_needs  []. ,    segregating   .                  . 
+     .             focus -       [],  
+   [], [],         [].         ,        .           ,              protection_effect    . 
+ .  .          ,         . 
+       . ,            .  ,         perceived_vulnerability     .                persistence     ?            ﬁ           ? 
+                   .  ,       extrinsic_rewards  personality              . 
+.   
+. evaluating  
+    appraisal  ﬁ   ,          .         appraisal .       ?     participant_modeling  personality          ,   ?      appraisal            ?         protection_effect  ?     possibility_effect      .        ,          . 
+.    
+                   perception     . ,     personality               impact      .   personality  ,               . 
+.  . 
+  focus,     appraisal  , ,     generalizing   syllogistic_rules    .   possibility_effect   ﬁ-grained            ﬂ  . 
+ 
+================
+.    
+.   
+         ﬁ      ,    [],     [],      [],           ﬁ        .  ,   . []   personality appraisal   ,     focus     ﬁ.     %           source techniques   %    techniques   / .       ﬁ,        gain     . 
+ ,   .   %       ﬁ   .%-1%        ﬁ  [].  focus     ﬁ      ,   , ﬁ ,   .   focus,      ﬁ     ﬁ. 
+ ,   .  personality   appraisal ﬁ        focus   ﬁ  [].             ,  ,    [], [].             personality .   .   ﬁ            [].    , ,   ,  , / ,    .          intrinsic_rewards       . 
+     ﬁ  , [policy ],  perceived_vulnerability,  focus                   ﬁ   . 
+.   
+  . []    perceived_consensus perception  combining          .  focus          ﬁ           . ,    focus           . 
+  . []  ,          protection_effect       Phishing.      ,   ,          participant_modeling .   ,  mental_calculation                      . ,  belief                   
+          . 
+                 ,       focus   syllogistic_rules           . 
+. belief 
+    ,  belief        perceived_vulnerability  ,       .   ,   focus  syllogistic_rules      judging          .   ,  ﬁ          ,    ﬁ   syllogistic_rules      personality     . 
+     ,   -    syllogistic_rules       ﬁ      .           perception                   . ,  belief             . 
+.  
+                  .                  perceived_responsibility  , ,  ;     ()  perceived_responsibility   ,  ,  ,  ,  ,   ;        perceived_responsibility . . 
+ 
+[] 
+[] 
+[] [] 
+[] 
+[] 
+[] 
+[] 
+" focus  ﬁ ," ://../  .. 
+.   . , " ﬁ ," ://. .//., . 
+"   ?" ://.////. .   . , "      ﬂ ,"  /  , . 
+.   . , "  ﬁ:         source techniques ﬁ,"  /  , . 
+"     ﬂ," ://.ﬂ./ . 
+"      ," ://..//// 
+. 
+. , "      ," ://./// /. 
+ 
+================
+[] 
+[] 
+[] [] 
+[] 
+[] 
+[] [] [] [] 
+[] 
+[] [] 
+[] 
+[] 
+[] [] 
+[] [] 
+[] 
+[] [] 
+[] 
+[] [] 
+[] 
+[] 
+[] 
+[] 
+. , . ,  . . , " belief         ," , . . , "   process -  ,"  /  , . 
+"  ," ://./. 
+"   —      personality ," ://..///ﬁ/.. .  ., . 
+"   opportunity_for_criminal_acts  Cache_Poisoning," : //...///. 
+.   . . , "        ,"  , . 
+://..///. 
+://..///(= .).. ". ," ... 
+. , "    ﬁ ,"  , . 
+"     personality  ," ://..// /. 
+" -  ," ://../. 
+"     . .    ," ://..////// //, . 
+. , . , . , . .  ,  . , "techniques   personality ,"  / , . . , . , . , . ,  . , "  ﬁ   techniques ,"  / , . 
+://.././//.. . , . ,  . , "personality  ﬁ,"     , . .  , "  ," ://../. . , . , . ,  . , "personality  ﬁ    source techniques  ﬁ,"     , . 
+"          ," ://../// / , . 
+" ," ://../.. 
+. , . ,  . . , ":   -      ,"        , . 
+. , "    ,"  / , . 
+. , "   ,"  , . . . , . ,  . . , "       ,"         , . .    ,  ., , . , ://...///protection_effect // /.. 
+. , ":      "","   , . , ://..//%++ ++++%%/. 
+.   . , "     ,"       , , ,     , .  .  , , : , , . . []. : ://.././. 
+. , . , . , . ,  . , "      ,"       , . 
+     
+[] 
+[] 
+[] 
+[] 
+[] [] [] [] 
+[] [] [] [] [] [] [] [] [] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] 
+[] [] 
+[] 
+[] 
+[] 
+[] 
+[] 
+. , . . , . ,  . , "     ,"    , . 
+.   . , "personality   behavior  ,"     , . . ,       .  , . 
+. .  , "     ,"´      , . 
+://..//.. 
+"  ," ://../. ":  frustration_of_needs ," ://../. 
+"  : , , ,  ," ://. ./. 
+" frustration_of_needs ," ://../. 
+":  personality  ," ://../. " ," ://../. ":   ," ://../. "," ://../. 
+"   ," ://./. 
+"," ://../. 
+"," ://../. 
+. . , " :   ,"      , . , . , . . , . ,  . , "   ﬁ     ?" / . ., . , . , . 
+. , . ,  . , "     :       ,"     , . 
+. , . , . ,  . , "evaluating  :     ,"        , . 
+. , . ,  . , "     :      ,"    , . 
+. , . , . , . , . , . , . ,  . , "    :     ,"     , . . , . , . ,  . , "         extrinsic_rewards   ,"     , . 
+"  / :       ," ://../ .. 
+"  ," ://../. .    . , "   ()   ," ://..////       ., . . , . , . ,  . . , "    ﬁ ,"           appraisal (). , . . 
+"  ," ://../// . 
+. , . , . , .  , . , . , . ,  . , "    :  appraisal    ,"             ( ), . 
+. . , . . ,  . , "       ," / . ., . , . 
+. , . , . , . ,  . , ":   ,"           ( ), . 
+ 
+================

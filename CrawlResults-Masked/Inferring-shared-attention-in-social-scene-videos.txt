@@ -1,0 +1,361 @@
+  perception     
+ ,  ,  ,,  ,,    
+ 
+  perception, ,   , ,  ,  
+ 
+  ,  ,  
+ 
+   , ,  
+{,}@.., @.., .@., @.. 
+isolation_effect 
+         perception     .                     .      perception              .          perception           .    ,     possibility_effect            perception    .   ,    physical_quality -                  .  combining         ,   personality      ,          perception focus.           generalizing  perception  .            . 
+.  
+ perception  ﬁ   perception focus            [].  perception    perception               [].  perception          comply_effect           .    ,      
+∗Lifeng      . 
+†Ping     . 
+    : 
+://.../ ˜lifengfan/. 
+ .  perception      .  perception    ﬁ    ,      intelligence     belief   []. 
+       perception        perception     .   combining      perception      . ,       ﬁ               perception   []. .       perception       perception             perception. 
+            ,      behavior    role   ,        [, , ].          ,    ,     perception        [, , ].   ,    ,              
+ 
+================
+      perception,  [experience ],   [knowledge ], . []. ,  perception    ﬁ     ,               belief   [, , ],  mental_calculation  [, , ],     []   .  focus   perception        perception            .            perception     intelligence     . 
+     ,    perception   segregating    perception  .    techniques       ,   ﬁ-person        [, , , ].  segregating  perception   ﬁ     [, , , , , ].                 . 
+    ﬁ      perception   perception,      :  perception    focus            ;    ,  task        perception      perception   .    ,  combining              :  appraisal ,   ,       .              : ) ,  ,      learning   []    [],       perception .                   .                . ) ,      ,      .        .    ﬁ,               perception,        task  . ,         ,   ,   , .,       task.       ( [, ])   perception   ﬂ         ,      perception                .            possibility_effect   personality   . )  perception  
+     .     personality constraint          .               ,       perception        ﬁ  perception           perception . 
+     : )      -    
+     .     
+ [knowledge ],    ﬁ      
+   perception . 
+)       techniques  
+    perception  .  
+       
+,   ,    
+     perception. )         
+   , ,   
+       perception focus. 
+.   
+     perception           : 
+ :   .    learning -         []       .   ,        ,         ﬁ        .            []       .            ,     ,                         .    focus    ,    mental_calculation  task   perception       . 
+ perception   :        perception     .   .          ﬁ                   [].  ,                ﬁ-person   [].    focus  ,    ﬁ       perception    . ,     perception   constraint    behavior  ﬁ-person ,             .    ﬂ      
+ 
+================
+ .    ,            .                .    . 
+               perception []. ,        perception       . ,   focus  ﬁ-person   generalizing     . 
+ perception  :  ﬁ    ()    , personality      ,     [].    ﬁ                     perception [].            perception           appraisal [, , , , , ].                              .    ﬁ       perception       ,   learning  combining      perception   . 
+.   
+        ,   ﬁ     perception   .          . . 
+ Collection.      Collection   : 
+•   .  perception      .           perception focus,               . ,     personality   
+          .     ,           perception , ..,  [],  [], . ,      ,  [action] perception,   [action] personality, .,          perception. ,                 .           . 
+•     .           .   combining           .       ,            evaluating   .  combining,   ,      intrinsic_rewards   × . 
+•   .       protection_effect    ,    , , , , .    /,       .        ,  -   , , , , ﬁ, , .        .     . ,                        ,          .       .       ﬁ             . .     perception       .                    ,          [, , ]. 
+ 
+================
+ 
+  
+ 
+, ,  [action]    ,  
+ 
+ [] 
+  
+ [action] 
+ [] 
+  
+  ,   
+     ,   
+ []   
+ , 
+,   []   
+, , 
+,   []   
+ , 
+      []   
+,  , 
+,    ()   
+ , 
+,  
+  
+ .   . 
+ .,  ,  . 
+  
+ perception ,   . 
+[goal] 
+ perception 
+[action] perception 
+- 
+ Source  , 
+ 
+      
+- 
+    
+impulsive_effect   
+- 
+    
+- 
+ , 
+  ,  , , , . 
+    
+- 
+ 
+  
+- 
+  
+ perception  
+ 
+ 
+    
+ .     .    ,       perception focus. 
+   .%  .%  .%  .% () .% 
+     .%   .%  .% ﬁ .%  .%  .%  .%  .%  .% () .% 
+ .          . 
+ 
+# 
+ 
+#.. 
+#    
+  ≥2 
+, , , 
+#   .. 
+    ≥6 , , , , , 
+ .   .        perception                     .    . 
+ .             [].   ,       perception   .      perception   ,         .             ;             perception. ,    perception,              perception          perception . 
+ .  isolation_effect        ,    .     (, )    ,   (, )        (, )    .   ﬁ         ,  isolation_effect     .   ,        ,                perception . 
+.   
+ perception                . ,               perception    .    perception      : )   appraisal  (§ .)              ; )     (§ .)        ; )     (§ .)               perception   ;  )     (§ .)           perception    .           . . 
+..      
+ appraisal .            {}=,...,,          ,= ( 
+, 
+, ,, ,, , ), = ,,..., ,              (     .  ()  ()).         ,      
+    
+,,  
+= ,,..., .          Ψ(·)      , ∈ [−1,] (   .  ()  ())   
+    
+,: 
+, (,, ,)= Ψ(,). 
+() 
+                     ,,   perceived_vulnerability   
+ (θ,|,) ∝ 
+ 
+σ 
+{− 
+θ, 
+σ}, 
+() 
+ 
+================
+ .     .   appraisal                    .               participant_modeling  perception     .         
+    perception . 
+() () () () () 
+ .       .    belief , (   ()())       , (   ()()),  ﬁ     ,  ()  (),     ﬁ     ()        (). 
+ θ,              ,.    belief ,      ,,    θ,          .     perceived_vulnerability         ,.  
+   , ( .  ()  ())    belief ,  ,    ﬁ   
+ (.  ())    ×    {,}:
+ 
+= 
+
+ 
+ 
+= 
+, 
+= 
+ 
+φ(Ψ(= 
+,), ,), 
+() 
+ φ(·)        . .            . . 
+  .     ,       (·)            ×     : 
+= (). () 
+         () []      {,, = ,,..., }                          . 
+..   perception  
+       appraisal                       perception . 
+  .  perception   ﬁ     .      (·)        combining             perception : 
+= (,  ), 
+() 
+  
+˜ 
+    perception       . 
+  .         ,  combining       (·)          ()  []       perception  : 
+{ˆ}=  ({}), 
+() 
+ ˆ   vicarious_experience  perception . 
+ 
+================
+ .   belief process.  ()     ()  perception ,  ﬁ              ﬁ     . ()             . ()      ﬁ  perception . 
+..   belief 
+  loss [function ],       ()     perception  ˆ      perception   : 
+(ˆ, )= 
+ 
+ · 
+ ˆ −  , 
+() 
+  ˆ       × . 
+ belief          ˆ,                ,.              .        () []         ﬁ  perception    .  .     . 
+      perception      perception   ,      protection_effect         perception . 
+..   
+       ﬂ  .    appraisal ,  ﬁ ﬁ-     []     .                  {ω,}      appraisal.         ,       ()  ()        .    arousal                 ﬁ-tuned  
+     loss.     ,                    σ= ..      ,        []         . 
+     appraisal            × .                    ,    ﬁ        ×      , ,  ,           × ,       arousal.           ×   perception    .        ﬁ  .  ﬁ   , , ,    .      ×    ﬁ      ×       .  ﬁ      arousal [function ]. 
+.  
+.. experiential_awareness  
+       isolation_effect ,          ,    §3.       perception             .  ,              . 
+appraisal .                  perception     .    perception   task,   physical_quality      perception                .    perception    task,          perception      , ﬂ-     a_memory           .          (  ).      ,    (   )          perception      . 
+ .    perception       (, intentionality )   personality ( , +, ++)   . :             . intentionality :    . ,  
+ 
+================
+ 
+ . 
+  
+  
++ 
+++. intentionality  
+ 
+  [] +[] +[]+  (++) 
+ . 
+.% 
+.% 
+.% 
+.% 
+.% 
+.% 
+.% 
+.% 
+.% 
+.% 
+.% 
+ .    
+ 
+    
+ 
+ 
+ 
+ .  appraisal        .  ,               . 
+  perception      .    ﬁ-biased                       .  :        []       ﬁ          . +  + +:             [],  mental_calculation          . 
+ focus.             ,           .  .:  ﬁ           ,         .  :            appraisal      .  :                . +:  combining   appraisal        . ++.:          ,                  . 
+..    
+ .                   appraisal      .           perception   task ( .: .%)    perception   task ( .: ). 
+    ,      ++    .  .% 
+ .  appraisal    ,          . 
+   .  .                   perception                 ,   ﬂ    .           perception  ,       perception         ,    perceived_consensus   . 
+    , +       ( .: .%   .: ),             .         ,    appraisal       role          ,      .         .  .   focus            (§ )       perception   . 
+.              ,     .        a_memory             . +    participant_modeling ﬁ     .    ﬁ  ﬁ        .                      intrinsic_rewards      task    perception    . 
+ . .         perception          .        perception                perception.       possibility_effect  perception 
+ 
+================
+ .  perception     .     ,        appraisal            .        perception 
+     .          perception  ˆ.  ﬁ   ( )      ( )      . 
+ 
+      .                 perception ,      .      ,               perception  .  ﬁ   .    vicarious_experience  perception   (   )      perception  (   ).  ,   personality        perception    ,      ﬁ . ,       .  ,             perception,            .     loss                                  .      perception       .       ﬁ       . 
+. belief 
+         perception     .   perception          ,     segregating    perception .             perception  .                .      ,           perception  .     possibility_effect    ,         .  belief                  . 
+.                   personality protection_effect  intelligence .          ,   extrinsic_rewards ,    . 
+ 
+================
+ 
+[] .   . .      
+ :  . . .-Robot ., (), 
+.  
+[] . , . . , . , . . ,  . . 
+impulsive_effect       . 
+ . ., (), .  
+[] . . :      
+belief  .  , .  
+[] . .  , . . ,  . . . .  - 
+      perception.  
+,  , . ,  
+[] . .    :  , [function] 
+    . &  
+, (): - , .  
+[] . . , . . , . ,  .  
+.       
+ .  , ():, .  [] . . .    :  
+.   , .  
+[] . .    perception :     
+thinking. : , ., .  
+[] . , . , . ,  . .   
+   .  , .  
+[] .   . .     perception. 
+ , ():, .  
+[] . , . , . ,  . .     
+    .   - , . 
+,  
+[] . , . , . , . ,  . . 
+:         
+.  , . ,  
+[] . , . , . , . , 
+. ,  . .      
+perception   .     
+, (): - , .  
+[] .   . .  personality    
+  ﬁ   .  , (): - 
+, . ,  
+[] .   . . .  perception :    
+role  .   , . 
+,  
+[] . , . ,  . .    
+      .  
+behavior  , (): - , .  [] .   . .      
+ [skill]     .  behavior 
+ , (): - , .  
+[] . . personality     perception 
+  perception    .  
+belief,  , . ,  
+[] . .  role       
+  perception.  , . ,  
+[] . , . , . ,  . .   
+       perception. combining. 
+., :, . ,  
+[] . , . , . , . ,  . . 
+.       
+ .  , . ,  
+[] . . , . ,  . .    
+  .  , .  
+[] . .   . .   .  , 
+.  
+[] . , . , . ,  . . 
+       .  
+, ():, . ,  
+[] . , . , . ,  . . 
+   ?  , . , ,  
+[] . , . , . ,  . .  
+   .  , . ,  
+[] .   . . : , , 
+.  , .  
+[] . , . , . ,  . .  
+   .  , .  [] . , . , . , .-xxx. , .-xxx. ,  
+.-xxx. .   :   
+ perception   .  . 
+.  
+[] . . , . . , . . , . . , 
+. ,  . . . .     
+     .  , . ,  [] . , . . , . ,  . . .   
+   ﬁ  .   
+:., . ,  
+[] . , . , . ,  . .  
+   perception     
+  .  , ():, . 
+,  
+[] . .   ﬁ    :  
+    belief    
+    .   perception, 
+():, .  
+[] . .    .   
+, .  
+[] . , . , . , . ,  
+. . personality   :   
+   .    , 
+():, .  
+[] . , . ,  . . ﬁ  
+    . , (): 
+, .  
+[] .   . .   perception .  
+, ():, .  
+[] . , . ,  . .  :  
+   .  , .  [] . , . , . , . ,  . . : 
+       . 
+  perception, ():, .  
+[] . .   . .  :   
+  .  , . ,  
+ 
+================

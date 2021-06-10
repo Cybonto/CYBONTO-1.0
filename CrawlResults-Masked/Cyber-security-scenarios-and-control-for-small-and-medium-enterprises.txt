@@ -1,0 +1,596 @@
+ 
+ ă . , . / 
+          
+  ,   
+.. 
+( ),  .,  ,  ,    
+   
+ ,  
+.,  ,   
+@., @.. 
+       ,          , ,  ,    /     .     fear_arousal     . loss   / perceived_responsibility/         .        ;     /     / .       mastery_experience  protection_effect                protection_effect .    ?         .        [policy]           .              belief     ()         loss   
+. 
+:  ,  ,     ,  
+  
+ 
+,        
+                  intrinsic_rewards      " []. 
+.             :            .               extrinsic_rewards  .       //           opportunity_for_criminal_acts   .   .                            fear_arousal.  
+     [].  
+        
+            . ,  
+ [Organization]      
+  mental_calculation     
+    -     -         .  ,  ,              personality             [].         []. 
+         intrinsic_rewards     [policy] .               .                     
+ /         
+ -  intrinsic_rewards     .      - 
+/        /      persistence    [],    /                   /      fear_arousal    - " /      
+================
+ ă . , . / 
+ 
+        //    intrinsic_rewards     [] [].                      [].    loss                     fear_arousal     & perception           []. 
+        
+  ,   
+ process  .           
+ :     .  
+/       
+                  .      [policy ]& ,          .      .     belief  
+  . 
+    
+-     /loss /  ,       []. /        live_modeling  
+       personality            /  . 
+     //.            gain.      
+ /[Organization]          certainty_effect                .    ,  
+,          loss    intrinsic_rewards,  
+.        ,      
+loss        /    [].   
+    ,      /            (  , ,  
+       
+ ).    loss  
+ .           . ,       satisfaction_of_needs        mastery_experience,  ,           [knowledge ],      .      
+    ,    &       [], [], []. 
+     loss    ,     [].      
+               personality  
+         
+ .     
+  .        .    
+                 
+   perceived_vulnerability       , 
+     thinking  & ,            .    ,    [Organization] ().               segregating           evaluating    .           
+       .         
+              
+ /       .           ,   
+  protection_effect  /   
+      
+================
+ 
+ ă . , . / 
+         []. 
+   []. 
+           
+  ,             . 
+.   [],    "            
+,    " perception.    
+        
+    [Organization ],     protection_effect          , persistence /      /.  simplifying         "  // . 
+" .   ,      "      
+..Phishing 
+   ".                                     [].      
+combining, ,      
+  intrinsic_rewards  Phishing " 
+        extrinsic_rewards          [].  -       
+  ,      
+     
+   perception  ,  ,   
+        
+ -       
+     [action]  loss           .             vulnerabilities       "[]. 
+ personality      
+     protection_effect   .. 
+ .      
+       ? 
+                     perceived_responsibility     
+combining    . 
+     / 
+                     belief      [activity]       loss  appraisal.        [activity]           .        - ) & combining      combining       perceived_vulnerability    vulnerabilities. )         & protection_effect      perceived_responsibility       
+   . 
+    
+    ,     
+             .             , ,  ,   
+ gain        .,  . .                 combining            .  /  ,   /      techniques     
+     
+          
+//  [].        .    
+         
+        . 
+          -     ,  
+     .   - 
+   live_modeling   intelligence .  
+               - 
+================
+ ă . , . / 
+ 
+        Phishing []. 
+.    .   
+          ..  Phishing             Phishing . 
+. . Phishing  
+extrinsic_rewards       [] 
+..   Phishing    [] -     ( )   
+   Phishing         &   : 
+. .   Phishing  
+extrinsic_rewards   &   -  ,    
+  [] 
+      combining  Phishing -    :   []: / /  
+================
+ 
+       
+      . 
+       learning  
+      
+      
+.        
+ -     personality    
+.      , 
+         
+motivation.        
+   ,      
+     Phishing  ; - :       
+ / /  
+  .     
+ ă . , . / 
+        combining 
+,        
+ .      
+extrinsic_rewards     Phishing  
+ ; 
+-       :    
+        
+    .   
+  (   )  combining  
+   techniques    combining 
+     .  
+   ( ) -    
+combining      
+  techniques     
+  intelligence   ; 
+. . combining       techniques 
+extrinsic_rewards   &   -  ,    
+  [] 
+- &   personality  
+:       - 
+  //    
+intelligence        
+       
+       
+       
+participant_modeling      
+  .     
+self-efficacy     ; - :     
+       
+   intelligence   techniques 
+         
+ .  ..:    - 
+.. -   
+    : 
+../../ 
+.. 
+..     Phishing -        - 
+ /  
+/      .  
+        
+       
+          
+- 
+- 
+ source []; 
+                 source,        [Organization]               [activity]             []; 
+   -      techniques           techniques     -      generalizing      perceived_uniqueness []; 
+ intelligence                Phishing  []; 
+   protection_effect     /personality /perceived_responsibility       (  ) []; 
+      /live_modeling       ://      protection_effect  .    personality -    techniques    /      
+================
+ ă . , . / 
+ 
+                 
+[]; 
+- 
+        
+                 / .     .                  
+       
+  SQL_Injection   
+ ,   .  () .           , &   
+ []; 
+      [].   
+- 
+            coding  
+   []. 
+.    
+ gain     ,               .  
+ /       [].     ,        ()      SQL_Injection        intrinsic_rewards []. 
+. .      extrinsic_rewards  . ://..[] 
+..        
+? 
+...  SQL_Injection   ? 
+       belief #             .     .    
+      /     
+    . mental_calculation    ;   
+ //  .   --                      . 
+ . 
+ ,    
+================
+ 
+ = "+.+";       [] - 
+ ă . , . / 
+...       
+  
+   thinking      -Sanitize  :                  ,    ; 
+=; 
+     ;    ,         
+ ,     = ";    -- 
+     generalizing,  ( 
+-xxx   :                  . 
+..        
+ Scripting ()? 
+            /   []        
+  )     , , ,             opportunity_for_criminal_acts     
+       [] - 
+         
+.      . .  ,       ,         ,  ;           perceived_uniqueness    [].  
+  
+,        /   
+ ,    /      
+ = 
+  []. 
+; ()     ...    
+               ,          ()      combining   
+  . 
+:       
+    .       combining     ,   
+   isolation_effect  .            
+          . 
+    .            
+ - - ( self-efficacy)            .          behavior_control-ability     ,        .    ,          behavior_control-ability  (  )         
+      []. 
+   [knowledge ]. 
+================
+ ă . , . / 
+. .   extrinsic_rewards  ..[] 
+...  appraisal  protection_effect   
+ 
+-   :      
+    combining   
+ 
+                 .         gain    
+    <> , [exposure]       ,         ,  
+    []. 
+/, personality  , 
+- 
+:        . 
+       
+      .. 
+      .  ,      
+       
+ ? 
+        
+ &#        intrinsic_rewards     .              ,       /          .      []. 
+              
+    personality        []. 
+.   
+     ,  
+ frustration_of_needs  extrinsic_rewards   segregating.             .   gain       ,       
+               simplifying        .   satisfaction_of_needs   .                               role.      extrinsic_rewards . 
+        
+      /   ...    protection_effect  
+    role.     
+  
+================
+ 
+- combining   [Organization]   
+: [Organization]      
+   (extrinsic_rewards, ,  .) 
+       
+ protection_effect / . ..:   
+ ă . , . / 
+   .                  /          [Organization ]. 
+  ,   - segregating   :  
+   personality     (   ),      (    ),      (     ),        ( // .),         ,                 (& / & ).       , 
+     personality       / ,   .           .      ,              .       learning //    .             []. 
+    , -    :  
+  ,     
+ .  ,    
+         
+    belief  
+[]. 
+-     :   
+        
+   participant_modeling   
+       
+   thinking   
+   /            /           ,   participant_modeling               .                  []. 
+         -     process :  
+   . ..:       [Organization]               participant_modeling      /    
+          /   .        /  []. 
+      .    
+ /.     
+      .  
+  participant_modeling          thinking     personality,     .               ? /                
+. 
+-   :   
+      
+           .    behavior_control-ability  protection_effect    
+/   ,   thinking   . 
+      
+      . .. 
+           
+    /    ? 
+       -  :      
+================
+ ă . , . / 
+   ,          .          
+ 
+ ,           []. 
+      -   :   
+.   ,     
+    ,  
+,  ,   
+  []. 
+-   :     
+        
+      
+      
+ techniques      
+  []. 
+-   :    
+       .  
+        
+  []. 
+  &  -     :   
+ ,      
+  [experience]    
+       
+         
+  intrinsic_rewards  []. 
+-   :   
+     [activity]   
+             .                               []. 
+[Organization]   .   -    :   
+      [Organization] 
+    ,  
+intrinsic_rewards,       
+  []. 
+-   :   
+       
+       .           []. 
+.   
+        
+   ()             .                        .     / ,          
+   [Organization]    
+    .     
+               
+   []. 
+..    protection_effect  
+   
+-    :   
+     .         .               .  
+    [Organization]   combining  [Organization]   
+      
+  . 
+ 
+       /       .             
+belief           []. 
+      .          .  
+-   :           
+       ,        
+   protection_effect   
+          
+  .      / .                 ,  personality       ,   .       .  []. 
+================
+ 
+ ă . , . / 
+..       belief    
+   
+        
+-   syllogistic_rules -       ,  
+  [Organization]     
+   /   
+          .  intrinsic_rewards    
+ ,    combining    personality  ().   
+   /        loss    
+         protection_effect  /   
+ ,        
+    .   
+     (   , ,    ,     , )      
+/    simplifying    .     
+               
+ syllogistic_rules       .      
+.                   []. 
+           . 
+  ,       
+-     -         
+        
+ appraisal  .   
+     .  mastery_experience,           //          
+            intrinsic_rewards /  
+    .    personality     
+   . [Organization]          loss.               
+ []. 
+      , 
+- protection_effect  personality  -           
+   personality          . 
+            
+.               
+          ,   
+personality       ,  ,    
+[]. 
+-  protection_effect  -   
+  .             
+      protection_effect    . 
+ .     
+       
+   []. 
+-      -   
+     combining   
+  syllogistic_rules    
+.     , 
+        
+ []. 
+-    -  
+      
+   .    
+      
+    []. 
+[] ., .  ., 
+" ,    
+     
+ ,"  
+&  , 
+, .. 
+[] ., .  ., 
+"    
+    :  
+ perception,"    
+,   
+.:://../ 
+================
+ ă . , . / 
+ 
+///// 
+.? 
+[]    , " 
+    "  
+: 
+://../ [] , " :    
+   "  
+: 
+..// 
+. 
+[] .  ().   
+     
+      
+.  ă  
+[]. : 
+://.../// 
+%. 
+[] .  .., " 
+     
+     "  
+.     
+[], "    
+[] . , "   
+[]   , "    
+[]  , "    
+"  , ,  : 
+://..///// /. 
+ ," : ://../ // . 
+     ," : 
+://../  /.?= 
+     -   
+,":://../ //// /.  
+intelligence    []  &  , 
+.: ://. 
+.//. []     
+, ,  , " 
+"   Phishing   , ,   ," : ://..// /. 
+      [] .., "Phishing  Pharming 
+,"  ,  :://. 
+.// 
+ . 
+-   ,"  ,   , , : ://..// //  
+[] ., .., ., .  [] ., "Phishing :     
+., "    ,"   personality -     ,   , ., ., , , . 
+ ,"  ,   , : ://..// // 
+ 
+[] ., "   []  &  , 
+:  ,"  
+     
+ , : 
+://../// 
+/. 
+[] ., "      
+  ?"  , , 
+: 
+://..// 
+ 
+[] ., "Spear_Phishing,"   
+[]  &  , 
+"       ," : ://..// /. 
+,  , , : ://..// // 
+"   :     
+================
+ 
+ ă . , . / 
+ ", : [].,"  ," 
+://..// 
+/.# []..  .. (),  
+ perceived_vulnerability  -   
+, : ://..// 
+// 
+/ 
+.  ă []., "   
+[]., "   
+,"  , , : 
+://..// //  
+    ",  , , : ://../combining / / 
+ []. : 
+://..///% 
+%,%. 
+[], "  ," 
+:://..// 
+ 
+[].., ., ., 
+.  ., " : 
+  SQL_Injection  
+.,"  &  
+, 
+://../ 
+//. 
+[]., ., ., 
+., .  ., "  
+      
+  ," 
+ , , ., 
+ , :  
+[]., "    
+:     ,", ,  : 
+://../combining / /  
+. : []., "      
+://.../~/ 
+ 
+/%%% 
+ 
+[]     
+,", , : 
+://../ // . 
+, " Scripting [], "   ," 
+(),", : ://.././ () 
+: 
+://..//// /. 
+[], "  Scripting ," []., "     
+: 
+://../ 
+/. 
+[]., " scripting," , 
+ ," , , : ://..///  
+://..// 
+/// 
+[] , "    
+ Scripting," : 
+://../// 
+. 
+, : . 
+[]., "     
+ ,"., , : ://..//,, ,. 
+================
+ ă . , . / 
+ 
+     .   &       , ,   .;            . ,     ..     ,  .       ,   , protection_effect  ,     
+ . 
+         
+, ,   .         
+   (   , ,   
+,  , )     [experience]   
+. ,     combining , , ,  
+.        ,  
+   ,  ,     Source  .        (     ),           , ,  .        judging          ,  .             ,  ,        . 
+================

@@ -1,0 +1,835 @@
+    
+ , .  
+  :  
+  : 
+. 
+          :   
+ ,   &  
+ ,   &  
+ ,   &  
+. 
+personality    Impact:             ,    
+ . ,    
+ . ,    
+. 
+ :        ,    
+. 
+ perception    &     ,    
+ ,    
+. 
+    :          
+ . ,   
+ ,   
+ . ,   
+ ,   
+ ,   
+ ,   
+ . ,   &  
+================
+    () 
+:  
+ ()   
+     ()          (     ).       .       
+. 
+    (://.).   ,     (://..)   , , ,     . 
+  belief  process        ,                         .        .        extrinsic_rewards  ( %),    ( %), ,   .                     .                .    belief evaluating      
+%. 
+                     ,       .         @.     @..        participant_modeling       . 
+     ()    
+    & 
+ 
+    & 
+ 
+    []  
+ 
+   []  
+ 
+      
+      
+ 
+     
+ 
+      
+ 
+   . 
+  
+  
+      
+ 
+    
+ 
+  .   -  
+  
+ ©         ().                                  extrinsic_rewards   .         .          ,   ,        .        , , @.. 
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () 
+:  
+ ()   
+    
+  
+  
+  & 
+ 
+    
+   
+  
+combining   []  
+ 
+  
+ 
+    
+ 
+        
+  
+combining    
+  
+    . 
+ 
+  
+combining    
+  
+combining    
+    
+     
+  
+    
+    
+  
+     
+  
+   
+  
+     
+  
+  
+ []    
+    
+    
+      
+    
+  
+  []  
+  
+  []  
+    
+    
+    
+      
+      
+     
+    []  
+    
+    
+  
+  []  
+    
+    
+   []  
+    
+     
+ .  
+   
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+ ()   
+    :          
+ .  @. 
+  @. 
+ .  @. 
+  @. 
+  @. 
+  @. 
+    
+  
+,  
+ .  
+@. 
+      
+  &  
+,  
+isolation_effect 
+   ,               perceived_vulnerability    ,    ,         () ,     ,  .        "" ,      possibility_effect      ,             .       ""       [knowledge]   ()          ().                   "" ( )  [knowledge]      , process   .      "" ( )         : ,      ,  personality      ;  ,         ,       ""          .               ,                . 
+©2019  (     ) ://./; ://. 
+  
+================
+    () :  
+ ()   
+:  ,  , [knowledge] ,  ,   ,  [knowledge]  ,  . 
+.  
+     focus                ,          . ,              (, )    (, ).       ,        ,  ,  , ,    ,   .        ,  ,      perceived_consensus     . 
+      ()  "       , , , , ,  loss    ." [. ] 
+ (    )    &   . ()   "   , , ,     certainty_effect      .    extrinsic_rewards, , ,    protection_effect  .      focus,    , [policy ],  , ,  perceived_vulnerability ." [. ] 
+     (  )            , .., , , ,  , , , [policy ], , , ,    (, ).    isolation_effect           isolation_effect           (  ). 
+ ,       ,  ,    [action]          [knowledge]                       (, , ,& , ; , ; , ; & , ). 
+ .     ,  
+ focus                    . ()   .      ,        ,  comply_effect     [knowledge]     " " (, ; , ; & , )                . 
+.  [knowledge]   
+        [knowledge]   (& , ; , )  ,      ""     [knowledge]      , process    (, ).      ""                (& , ). ,          personality    (, ),   (, )    (, ,& , ). 
+                          (& , ).         ,  (),  ()  
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+.           [knowledge]       ""               .  generalizing       []   ,          ,     arousal            focus   . 
+.     
+         focus.   ( )        ,         ,  , perceived_uniqueness ,   ,   . ,  ()                      ,      ,  .  ,         [knowledge]  ()      .          (, )       ( ,      )       (      )  . 
+               (..,    )     (..,    ). 
+  
+  
+  
+syllogistic_rules  
+  
+  
+ 
+ 
+  
+ . [knowledge]  ()   ,  (), .    ,  (& , ) 
+     ""     , process    (, ).        .  ()  
+ ()   
+                                         (  "").    (.., ,   )        [knowledge]                      (, ). 
+ .  [knowledge]     ""  ,       
+               ,      .           . (),                    .       extrinsic_rewards,       -              -       &   . (). 
+  ""  ,      [experience]         combining       .          ""   ,          process     
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+.           ()      ,     . 
+ .          
+                 .               (, ;  , ).      (& , ; , ,& , ; , )        .              .       [knowledge]     ""   ,      (        )    
+ ()   
+         . 
+ :       ""           
+         focus   personality ,        ,         .                 " "    .      ,       ,       ( )  .                      ,              . 
+    perception          %    extrinsic_rewards   .            ,     --     [norms] --       . 
+.      
+ 
+  [goal]                .       . ,         ""          .    ,   personality         .  ,  
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+               . ,    personality                . ,    ""            ,                     . 
+ .            
+""  
+            ,         (, & , )    . 
+         .           -    ,       -    -   -        . 
+.           
+ focus               .            ,             self-efficacy   .     ,                     .          .  focus               ()     
+ ()   
+vulnerabilities, ()   vulnerabilities, ()      ,()   isolation_effect   .    , ,   ,              .            ""         . 
+    :    ;     role  ;   personality ;   ;     ;   
+.    behavior -   :                  fear_arousal    gain           . ,             personality        .  ,         ,   personality  impulsive_effect   .    personality           ,     )       , ) combining  []          role   perceived_vulnerability , )      []   ,  )              .       appraisal                      . 
+    :  ;     ;  ;   ;  ; perceived_vulnerability  
+.    :    .      possibility_effect       ,          .       
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+           .  belief        ,  ,   ,    .         , ,          .        ,   focus        ,    ,   focus        .         possibility_effect       judging        .  focus           . 
+    :   ;    ;     ;   [policy ]; , ,  ;     
+    ,            .   ""  [knowledge]       ,             .              [knowledge]     "",             .    ,                     . 
+       .    ,  simplifying     []       .    ,  mental_calculation      personality    persistence       . 
+ ()   
+.  
+     (, ; & , ; & , ).            [knowledge]     , ..      syllogistic_rules  (, ; & , ; & , ).                    .          .   ,                : 
+      
+   ;    ;  ; 
+ ; 
+   ;   , ,  . 
+,    "   perceived_vulnerability "         . 
+   ,                 ()       (, ).   personality        (). 
+               ()            (, ).    () focus      [knowledge]     focus,     ,    syllogistic_rules    [knowledge]  ()   . 
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+ .    ()   ()     [knowledge]  () 
+         [knowledge]            .                        (, ).              (& , ).  gain               ,               focus  (, ).      ""       . 
+,    ()                    .  ,    ,   ;    .     . ()                  : 
+      
+; ; 
+; 
+perceived_vulnerability; 
+ thinking;   thinking. 
+ ()   
+ .    ()   ()      
+.    
+ 
+  ,          protection_effect    (, )      ,             .        personality                           (  )    .           ?        personality            . 
+   
+      ,                         , ..,   (, , ,& , ).         mental_calculation               [knowledge]        (, , ,& , ; , ).       focus,      mental_calculation          
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+         .        ,          , ..,    ;  [policy ], ,   ; . 
+     ,  []       .       []              .  ,        [activity]   gain   .    personality   mental_calculation                 (, ). satisfaction_of_needs     (..,     ), ,     . 
+   
+                "  ,"      []   (, ; , ).      mental_calculation  [knowledge]         ""  ,      [Organization]   .                       .    ,                .        (  ),            ,       (& , ). 
+         combining            .   perception                 ,     physical_quality  [knowledge] .                             . 
+  
+       (  )        
+ ()   
+           . ,     personality       ()   .      satisfaction_of_needs   , ,   perception,       "".         ""?      ,    ,     ,      . 
+ ,            (, ).    ,       ()         .               [knowledge]     .   physical_quality, ,          .          ()       ().              ,   .  ,   (& , )  (, ,& , )     personality     (& , ).                 (& , ).     (, ), (& , )  (, ).      ,  ()      . 
+           ""    .      , ,             (, )  protection_effect,  ,   (, ).           (& , ; , ,& , ;  , ).         ,           ,     (, ),    . 
+                      . ,                
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+  & ,              protection_effect , ,  perceived_vulnerability. ,                .        perception              perception    .                . ,        ,                ,  ,   . 
+.  
+     
+ (). ().   
+     
+   . 
+, .   
+://./ 
+ 
+/ 
+, . ().     
+ -   .   
+   , 
+(. ).  , . 
+, . ().  :   
+ , process,   
+( .).  , :  . , . ().     
+ ( .). , : . , . ().  :   
+ ( .). , :  
+ . 
+, .,& , .  . ().  
+      
+.   
+  .   
+://..// 
+. , . .,& , . . ().  
+  ( .). , : 
+. 
+, . ().   :   
+thinking    
+ .  ,  :  
+. 
+, . .,& , .  . (). 
+  .  ,  : 
+. 
+ ()   
+, ., , . .,& , . (). 
+()     
+   focus  
+( .). , : . 
+, ., , .,& , . . ().   
+    ? . 
+ /, .   
+   . 
+, :   . , . .,& , . ().  
+    : 
+      
+ .    
+   , , 
+ . 
+, . ().    
+ .    
+  , (. 
+). , . 
+, . .,& , . . ().   
+:     
+  thinking    .  
+ , (), . 
+, . ().   , 
+  ://.// 
+. , . 
+, .,& , .  . ().   
+    protection_effect 
+.    
+, (), . 
+, ., , .,& , . (). 
+ protection_effect     
+?    mental_calculation  
+  .     
+. , . 
+, . (,  ).     
+     .  
+personality. 
+, ., , .,& , . (). 
+ :   
+ .   
+  . , . 
+, . ().  : 
+     
+personality .  [policy ], , 
+. 
+, ., , .,& , . (). 
+ : personality   
+   ( .).   , 
+:  . 
+, .,& , . ().  
+ [knowledge]   
+[knowledge] :     
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+[knowledge] .   
+, (), . 
+, . ().   
+ ( .). , :  
+. 
+, . .,& , . ().  
+    
+:   .  
+ , , . 
+, . (). :   
+ extrinsic_rewards .   
+://./.. 
+      
+(). ().    
+  ,  
+.. , . 
+   ( ). (). 
+      
+ ()  [knowledge] .. 
+ . , . 
+   ( ). ().  
+      ()?. 
+ . , .   , 
+,  :// .// 
+/ 
+/ 
+, ., , ., , .,& , . 
+().     
+ (personality)   
+,   . 
+,  :     
+   (). 
+, . .,& , . ().  () 
+     
+focus . , : . 
+, .,& , .  . (). 
+    : 
+    .  
+  , (), . , . ().     . 
+   , (), 
+. 
+, . .,& , . . (). judging 
+ :  perceived_vulnerability/ perceived_vulnerability/ 
+ perception.   
+, :  . 
+, ., , .,& , . . (). 
+  ,  
+ ,  . , 
+ :       
+ (). 
+ ()   
+, .,& , .  . ().  
+  :  
+    
+   .  , 
+ : . 
+, . .,& , . ().  
+    : 
+   role   
+  .   
+ , , . 
+, . .,& , . (). 
+  :   
+  .  ,  :  
+ . 
+, . . (). personality . 
+, :   . , . ().    
+:    ( .). 
+, : . 
+, ., , ., , .,& 
+, . ().   
+:   , , 
+    . , : 
+. 
+, .,& , . .  . (). 
+    
+     ( 
+). , :   
+ . 
+    . (). 
+   satisfaction_of_needs   
+ ,  .. , . , . . ().    
+  ( .). , : 
+ . 
+, . (). : ,  
+physical_quality   .  ,  :  
+. 
+, .,& , . ().   
+&   .   
+  . , . 
+, . ., , . .,& , . 
+().     
+ ( .). , : . , . .,& , . ().   
+    
+  :    
+     
+.     , 
+( ), . 
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+ ()   
+  -  task     [knowledge]  [     (& , 
+)] 
+[knowledge]  
+[knowledge]  
+ 
+  
+    
+  
+  
+protection_effect   
+Cryptanalysis 
+  
+   
+  
+ 
+ 
+  
+   
+   
+ 
+ 
+  
+  
+  
+  
+ Reverse_Engineering 
+  
+    
+  
+   
+syllogistic_rules  
+  
+  
+  
+  
+  
+ thinking 
+  
+     
+ protection_effect         
+     ,  ,   
+    role   
+  
+  personality  
+   
+,   ,   perceived_vulnerability  
+Vulnerabilities      
+protection_effect          
+Reverse_Engineering 
+, , ,   
+      syllogistic_rules  
+  
+ perception 
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+  
+  
+  
+  
+  
+   
+perceived_uniqueness  
+  
+   
+ / [policy ]/ 
+ [norms] 
+  
+perception  personality 
+    
+     
+    
+perceived_vulnerability  
+   [policy] 
+  
+  
+ 
+ 
+ planning 
+ , loss ,    
+   
+  
+  
+ 
+  
+  
+  
+ [policy] 
+ 
+ ()   
+ [policy]        
+perceived_uniqueness  
+  
+perception  personality           
+perceived_vulnerability  
+  [policy] , ,     planning 
+      [policy]  
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+ ()   
+  -    
+  -     
+  -  
+   
+:  .  
+ : @. 
+ : & : - :  :   
+ :  
+   
+ , . 
+  
+,. ().    :   ,  . ,  :  . 
+ gain    ,          . 
+  
+     focus  , ,   ,       .     ,    . , , ,  .       ,        behavior_control-ability   .   
+  extrinsic_rewards      ,       : 
+.    personality  ,   ,     
+   personality . 
+.   personality     ,  , 
+ ,   , ,   
+. 
+. intrinsic_rewards mastery_experience      ,   ,  
+    . 
+©2019  (     ) ://./; ://. 
+  
+================
+    () :  
+ ()   
+.   personality           
+protection_effect  . 
+  
+.   :            
+  .      personality          
+      .        
+    . learning    
+  . 
+. 
+   :       ,         .           .            ,         . ,     comply_effect         .  ,        ,       . ,       .. 
+. 
+:          ,      ,   .                 ,       . 
+. 
+ /:  , ,            .            . 
+  
+appraisal 
+    extrinsic_rewards       (  ): 
+  
+% 
+    
+% 
+  
+% 
+  
+% 
+ ,    
+% 
+combining 
+% 
+^ 
+             extrinsic_rewards. 
+©2019  (     ) ://./; ://. 
+  
+================
+    () :  
+ ()   
+          .                 . 
+ 
+  learning             .           extrinsic_rewards.                  .  gain       ,   participant_modeling           . 
+ 
+      .       extrinsic_rewards.   
+    
+              .     ,     persistence       .         behavior          [action]        . 
+ gain,        protection_effect     intrinsic_rewards        .  participant_modeling  perceived_responsibility     personality . 
+               .          . ,       personality           ,   ,                 .,    participant_modeling  perceived_responsibility    personality . 
+    ,   self-efficacy   intrinsic_rewards  ,               ,             ,          ,  persistence        ,       comply_effect         . 
+        
+   : 
+     .    
+:,,   
+   source;     
+  , ,         
+source   . 
+            
+perceived_responsibility        . 
+©2019  (     ) ://./; ://. 
+  
+================
+    () :  
+ ()   
+   : 
+         .    
+,         . 
+           . 
+                 . 
+  
+     motivation   intrinsic_rewards    protection_effect        ,  ,  .          , , physical_quality, ,  , ,  ,    .         certainty_effect            personality .                      ,       ,          (  ). 
+  
+ 
+/  
+ 
+ 
+  ( ) 
+ . 
+   :  , ,  (, ), , , , .  ,  , . 
+  
+  ( & ) 
+ intrinsic_rewards :  
+, , ,    , . 
+ ( &  ) 
+  :  ,  , .  . 
+ 
+  ( & ) 
+(): , , , . . 
+ 
+©2019  (     ) ://./; ://. 
+  
+================
+    () :  
+ ()   
+  ( & ) 
+  :     ,  ,   ,   ,   ,   (, , , , ).    ,  . 
+  
+  ( & ) 
+     :  ,     .  , ,   . 
+  
+  
+  
+    : ( &  ) 
+  ,  
+ ,  . 
+  
+  (  &) 
+  : 
+, ,  
+ ,    . 
+  protection_effect  , . 
+  ( & ) 
+ :    . ,     . 
+  
+  ( & ) 
+   : 
+       
+(    
+).    , 
+  . ,. 
+  ( & ) 
+ : 
+,   , 
+,   . 
+   perceived_uniqueness,  perceived_uniqueness. 
+  ( & ) 
+    (): , history  .  , perceived_vulnerability ,  . 
+   
+©2019  (     ) ://./; ://. 
+  
+================
+    () :  
+  ( & ) 
+      ?  , history,    ,   ,  
+, . 
+        (): , , , . 
+  ( & ) 
+  :  ,      ,   ,  perceived_consensus,  ,  ,  , , , . 
+  ( ) 
+   
+( ) 
+  
+( ) 
+   
+ ()   
+  ,  
+  ,  
+comply_effect      (.)  :  
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+ ()   
+  -       [knowledge]       (, ) 
+       () 
+         
+   
+     
+  
+ Scripting     
+  
+     
+  
+  
+    .   
+ 
+       
+  
+ 
+  
+  
+    
+  
+    
+  
+  
+  
+     Reverse_Engineering / 
+  
+                    
+       planning   
+ [policy ], , ,           
+ /  
+                                    belief       /       protection_effect     belief   Reverse_Engineering              
+    
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+            personality / focus /        belief   
+ ()   
+     perceived_vulnerability           
+      
+©2019  (     ) 
+://./; ://. 
+  
+================
+    () :  
+ ()   
+  -   
+      .  [Organization]                   ,  (). ()  personality         (), ,    ,          (, ,& , ). ,        [knowledge] ()    ,     [experience] ,          (, ,& , ).   ()   (://..)     "          [experience]            .               ()²          [experience ].  perceived_responsibility       [experience ]."                 ""      [knowledge]     . 
+ :    ()    .      ""   .      . 
+ ()          ,        ,  ()   , ..,    (, ,& , ; , ,& , ; , ),            .      ""                ()    (& , )    [knowledge] ( ). satisfaction_of_needs          [experience]                     . 
+            personality ( )           (& , ; & , ).   ,       (),        ,     (, ,& , ; , ,& , ),  personality        .         [experience]               [knowledge ]. 
+©2019  (     ) ://./; ://. 
+  
+================
+    () :  
+ ()   
+ combining,            ,       , ,          (, ,& , ; , ,& , ; , , ,& , ; & , ). 
+©2019  (     ) ://./; ://. 
+  
+================

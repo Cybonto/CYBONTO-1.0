@@ -1,0 +1,287 @@
+     
+ ,  ,  ,         ,    
+,@ﬂ., ,.@.ﬂ. 
+   ()        personality           ﬂ,  ,       . ,  vulnerabilities       gain  possibility_effect           ,    ﬁ loss.             ,  ﬁ,    ,            .   ,            .     intrinsic_rewards             . ,     ,       ,     ,    . 
+.  
+   (),     intelligence ,       personality       ,           .     intelligence       combining, process,      ﬁ   .                    /  perception  .   ,                  vulnerabilities   personality  . 
+ vulnerabilities       gain              ,    ﬁ loss,  .   perceived_vulnerability  ( )          [].            .       [].   ,    vulnerabilities,                   [].   ,              behavior_control-ability        . ,        ,          .   intrinsic_rewards        intrinsic_rewards   ,             
+[capability ], ,    . ,                    vulnerabilities. ,       , ,  ,                    .   ,     focus        physical_quality              . 
+        :   ,           personality       perceived_vulnerability .   ,  simplifying    intrinsic_rewards    .   ,                 protection_effect    .     . 
+.      
+          ,         [capability]     .     ,    intrinsic_rewards                        ﬁ possibility_effect.             ,   ,       ,      []. ,   ,  focus                        .              intrinsic_rewards       loss   [capability ]. ,         , ..,       ,        ﬁ              .   intrinsic_rewards               (      /)   ,        (..,   ),                 [], [].    . ,             . 
+================
+ 
+&  
+ Rootkit 
+/ (& ) 
+ 
+   
+ 
+ 
+ Impact 
+  
+  
+ 
+     
+   
+  
+     
+     personality   
+Fault_Injection 
+  
+   
+ 
+ 
+  
+  
+  
+. .         intrinsic_rewards. 
+. personality                 .  ,   , ,  ,              .   behavior                     [activity ].  Rootkit,    ,         intelligence ﬁ    ﬁ.              . ,  ,    ,           ()      ()          .          ( )                     .  .      personality  (  ) / personality           intrinsic_rewards             .       intrinsic_rewards    protection_effect       . 
+ Fault_Injection.           Fault_Injection      . ,            [knowledge]           ;         ﬁ  .  ,                      [].           vulnerabilities   ,   personality    . 
+                   
+[]-[]. ,       personality          intrinsic_rewards : 
+-    ,    
+ ,   opportunity_for_criminal_acts   .  
+,          
+,        
+  [knowledge ].  ,   
+       
+  loss   []. 
+-    ()  
+         
+.        
+      intelligence    
+     vulnerabilities   
+          
+   . ,    
+ opportunity_for_criminal_acts   . 
+.   intrinsic_rewards 
+     possibility_effect                        .         combining           vulnerabilities.    . ,  intrinsic_rewards      ,   ,  protection_effect    . 
+. protection_effect     
+        protection_effect                 protection_effect        .     ()               intrinsic_rewards [].    
+================
+                     , ,  .   ()                          []. ,   []    protection_effect  () []-enabled  combining                              [], [].    , protection_effect     []   []     protection_effect personality         . ,         ,     ,         protection_effect          . 
+.      
+   protection_effect         ,      , ,          . ,    , ,              ﬁ .  ,    ﬁ              .       perception          .    ﬁ-grain ﬁ   ,  combining  ,          . 
+            ()     personality    [], [].   [goal]        perception                    ().  ,                (    ),    ,              .                   [].       focus   combining         .      ,           judging     ﬁ    .  gain  ,       ,                   .        .       ﬁ 
+ﬁ  Rootkit   participant_modeling  ,            . 
+  . []                  personality .                        ,    ﬁ       . ,  personality  , ..      combining,             intrinsic_rewards.  ,       ,       ﬂ ﬁ   intelligence    ﬁ  . 
+  . []        (behavior      ).           behavior.    ,     intrinsic_rewards    behavior    .                ,       .           ()         behavior    / .     ()         (   )    personality            [policy ]. 
+  . []      ,  ,     ﬁ   ﬁ   ,   , ,            intelligence  ﬂ .  techniques            intelligence ﬁ.       ﬁ ﬁ , ,       ( )       .   . []     perceived_vulnerability  ﬁ ﬁ. ,   ,        personality  ﬁ  [modeling]          . 
+.      intrinsic_rewards                       (..,     ﬁ)     , ,         ﬂ    ( )    . ,      intrinsic_rewards  learning       combining  personality           
+================
+  
+  
+  
+  
+   
+  
+   
+   
+    
+simplifying    
+learning  
+  
+  
+  
+ [action] (& ) 
+ 
+vicarious_experience  
+( ) 
+. .     . 
+certainty_effect / [], [].      intrinsic_rewards : )        Collection  ,  )  ﬁ   intrinsic_rewards  ﬁ- /.   . []      protection_effect         .           
+-         ﬁ 
+       . 
+-     task,    
+     ﬁ. 
+    ,         participant_modeling    ,    . : 
+)  Collection   .    
+        
+       process  
+ . 
+)  .     behavior ( 
+)  judging  .  ﬁ    
+, ,      
+     behavior. 
+) [action] .   [action]   perceived_vulnerability  . 
+      ﬂ/    
+   possibility_effect perceived_vulnerability      
+      /. ) protection_effect .       
+        
+ﬁ   vulnerabilities.     
+ protection_effect            
+[authority ]. 
+                   .                
+     . ,                             .  combining                ﬁ    .    ,      techniques    ﬁ-grained intrinsic_rewards         participant_modeling   role           . 
+  focus  impact    intrinsic_rewards   ,   . []         .                 ,     ,             .   possibility_effect    ﬁ intrinsic_rewards              ﬁ. ,    techniques          .           ( )           techniques    ﬁ  .  ﬁ    /     ,     extrinsic_rewards   %. 
+.    
+          . []    . [].         -         , ﬁ Reverse_Engineering,  , ,  ,    ﬁ        .   . []           ﬁ     ,    intrinsic_rewards,     ( )         ﬁ       . ,          .       personality     ,    ﬁ    ﬁ            . ,     personality            ﬁ . ,       personality   . 
+,   . []                 .                techniques   possibility_effect   
+================
+/   .   . []                ﬁ     ﬁ.  intrinsic_rewards             . 
+,   . []          ()   .      behavior              ﬁ.       participant_modeling   ;                       .  techniques                      ,     syllogistic_rules          Collection,    impact   (  ) . 
+.     
+  . []    ﬁ              .            personality     ()         .                 .            ,      vulnerabilities      , ,           . 
+          vulnerabilities      .  ,    ,         .   techniques         ﬁ . ,                     . , ﬁ,            isolation_effect     . 
+,   . []            Rootkit.     Rootkit,       ﬂ        ﬁ.    ,    Rootkit    trap          .                 ,          personality      . ,                , , 
+     .  protection_effect  Rootkit ,    personality   ﬁ,      ﬂ,          behavior. 
+.     
+     intrinsic_rewards        personality  ,             ﬁ,  ,   .        :
+    protection_effect ,    , 
+        
+   .     
+        
+         
+ personality      .
+      
+    ﬁ  personality  
+ intrinsic_rewards       
+ . ,   intrinsic_rewards  
+   ,      
+          
+ /ﬂ   . ,  
+,         
+  ﬁ      
+    .    / 
+        evaluating (..,   
+ )   perceived_vulnerability    
+    . ,    
+extrinsic_rewards evaluating     [].
+     intrinsic_rewards     
+      , ,  
+.        
+          
+        
+. ,   vulnerabilities   - 
+        .
+        
+        
+  . ,    
+        
+     .     
+, satisfaction_of_needs      
+       
+.         
+syllogistic_rules, ,  intrinsic_rewards    
+  situational_circumstance   impact  
+   .       
+ ,     
+    possibility_effect      
+. 
+              . 
+================
+                  .    intrinsic_rewards      perception  / .  gain  ,    ,      ,          . 
+. belief 
+  gain       ,          protection_effect              .          intrinsic_rewards        . ,                .                      . ,    fear_arousal                       . 
+ 
+      , . 
+ 
+[]    :  . [:  
+ ]. []. : ://::/ 
+ 
+[] . , . ,  . , ":    , 
+, ,"  , . 
+[] . , . , . , . , . , . ,  .  
+, "    :   
+,"      , 
+. 
+[] . . , "      
+ ," . 
+[] :   . [:   ]. 
+[]. : ://:://ﬁ/: [] . , . ,  . , ":  
+     ,"    
+  (  ), , , , . 
+. 
+[] . , . , . . ,  . , "  
+ intrinsic_rewards,"   , . , . , .  
+, . 
+[] .   .-xxx. , "      
+:      ,"  
+, . , . , . , . 
+[] . , . , . . , . ,  . . , 
+"  ,"    ,  
+  . , , . . 
+[] . , . ,  . , "    
+     ," .  ,   
+,,. 
+[]      ﬁ   
+ . [:   ]. [ 
+]. : ://::/// 
+/ [] .   . ,  personality    .:   
+      physical_quality  . , . []    ()     . [: 
+  ]. []. : ://::/ 
+//// 
+[]  . [:   ]. []. : 
+://::// 
+[]   protection_effect  ( ). [:   
+]. []. : ://::// [] , "    protection_effect    
+ ( )," . 
+[] .   . , "  ."    
+, . , . , . 
+[] . . , . . ,  . , ":   
+protection_effect ,"  &   , . , . , 
+. 
+[] . . , . . ,  . , " protection_effect   
+      ,"   
+        . , 
+, . . 
+[]      -   
+  . [:   ]. 
+[]. : ://:://:?= 
+/:::/: 
+[]         
+-  . [:   ]. []. 
+: ://::///ﬁ//// 
+: 
+[]  ﬁ    . [:  
+ ]. []. : ://:::/ 
+// 
+/ 
+[] . , . ,  . . , "  
+     ,"   
+      . , , 
+. . 
+[] . , . , . . ,  . , ": behavior 
+     :    
+     ,"       
+     (),   
+  . , , . . 
+[] . , . , . ,  . , "ﬁ: 
+ ﬁ ﬁ      
+  ,"    (),  
+/   . , , . . [] . , . ,  . , "   
+  loss       ,"  
+         . 
+, , . . 
+[] . , . , . , . , . , .  
+,  . , "       
+  ,"      
+, . , . . , , . . 
+[] . , . ,  . , "judging    
+ ,"         
+ . , , . . 
+[] . , . ,  . , "     
+,"      . , 
+, . . 
+[] .   . , "      :   
+     ."   
+ , . , . , . , . 
+[] . , . , . ,  . , " 
+    :    perception," 
+        
+protection_effect . , , . . 
+[] . . , . , . , . , . , . , 
+. , . , . , .   ., ": 
+         
+  ."  , . 
+[] . . .   . . , "   
+     ﬁ,"    
+ ,  . , , . 
+. 
+[] . , . , . , . ,  . , 
+":       ,"  
+         
+. , , . . 
+[] . , " :    
+     ."  , . 
+================

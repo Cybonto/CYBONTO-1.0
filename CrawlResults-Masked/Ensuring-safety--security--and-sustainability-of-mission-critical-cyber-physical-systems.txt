@@ -1,0 +1,782 @@
+  
+ , ,         protection_effect           ;      focus 
+      . 
+  ,   ,  . ,  ,  ,  ,    . ,    
+isolation_effect|   () combining         ,  -     , intelligence  ,   ,       ().              ,     .     protection_effect   ,     : ) :   ; ) : belief  , ,    ;  ) :           .          task         .   ,                  ,           , ,  .                   . , 
+   , ;   , .     , ;      , .            ()    , ,     ,  , ,  . 
+.   . . .       , ,    ,  []  (), ,    ( : @.; .@.). 
+. .          ,   , ,    ( : 
+@..). 
+.      []  (), ,   .        ,  ,  ( : .@.). 
+  : ./.. 
+/$.   
+              . 
+|    ();   ();   ();  ; ; ; intelligence  (); ;    () 
+.  
+      gain     intelligence                 .   : )                         []-[]; )          []  protection_effect ; )   ()        [];  )    ()         participant_modeling  [].      intelligence    role      .             .           ,           ,     (). 
+          ,  ,                
+. , . ,  |     
+ 
+================
+  .:  , ,       
+  .               (..,      )    (..,                 possibility_effect loss   ).                  intelligence                        .  ,       ()             (..,     [])  simplifying   impact. 
+  combining personality  personality     .  ,           .  ,           (..,   fear_arousal      )               .  loss            impact  loss  , possibility_effect  loss, ,  .   
+          .       [],    combining             intrinsic_rewards   .       personality     .  ,         ,              gain   ,      [].          ,            ,  ,      .                 combining       ,       .         perception                      . ,              .            ()  protection_effect personality      evaluating 
+     ,   .  
+  techniques    ,              personality       .           ()             .  ,             perceived_consensus    intrinsic_rewards   protection_effect  []. 
+                    .                 .     , ,                   
+                  loss       loss []. 
+  ,         ,                  .            perceived_consensus      .       : , , intelligence  (),  ,              .                    
+([]). .         
+                   loss     . ,    personality     ,  combining      .   ,              participant_modeling   perceived_responsibility                 []. 
+  , ,   ()   ,          ,    , ,       .         personality   
+ 
+    |.,., 
+  . 
+.      
+,    . ,     ,                  , satisfaction_of_needs personality ,      .                .      
+://..//. 
+================
+  .:  , ,       
+. .  ,           . 
+           .  ,             ,           [],  perceived_responsibility    ,        .                 .         situational_circumstance ,    , ,  combining  . 
+  ,                        .              .                .                  , combining      ,       .           .      . ,              :  !  (    . ),    .            .  ,                       . ,            :   ;;!     (   . ),  ;;       . 
+ ,             , ..,  [], 
+      .    ,       intentionality         , ..,         [],       , ..,        [].   [action]      . 
+ :                   . 
+  (  ):         [],     ðÞ   combining    ðÞ.    [function]   ðÞ    .        gain     ðÞ        [].        .            gain   ,      . 
+  ( ):                     .    evaluating ðÞ        ðÞ    process.   process ðÞ        [].         ðÞ     , ,   loss evaluating         ðÞ     [action] possibility_effect.  
+   . 
+. , . ,  |     
+ 
+================
+  .:  , ,       
+                               frustration_of_needs []. 
+,       : )  ,                  ( );  )   ,                  ( ). ,     ,            ,  experiential_awareness     .        loss                    [].    ,       . 
+. , ,     
+  ,                . 
+) :                  .                            [].                       ,       ,  ,  ,   ,  , ,   . 
+               .,              .       ðÞ       [action]  .          constraint   .                mental_calculation     . 
+,            belief              .   ,          ,  isolation_effect   personality     .  ,     []  [],          .   process                evaluating .     
+ 
+   | . , . ,  
+ 
+belief              .    belief  , ,          personality  .  ,                .        [],               . ,        ,                     .  ,  focus      . 
+           . 
+•     :  
+       
+        
+ .     
+       
+.      
+       
+       
+       . 
+•        
+:    
+       
+        
+ (   ). 
+•        
+ :       
+   frustration_of_needs    
+   .  ,  intrinsic_rewards 
+       
+  . 
+      task. ,    personality                   .            (       ). 
+) :           protection_effect                .        .         extrinsic_rewards             [].    
+         certainty_effect  []        ()         appraisal   .             gain       [policy]    . 
+://../ 
+================
+  .:  , ,       
+. .     : ()  source   ; ()  source         .                      . 
+  [  perceived_consensus ()] []:                       
+     .        . 
+•   : 
+  . ,   
+         
+        
+.       
+  .         
+         
+  ()    
+   fear_arousal []. 
+•    : 
+   personality    
+  process.     
+   ,     
+  loss  , ,   
+.  ,  [knowledge]   
+       
+      
+  . 
+•   :       
+    .  
+      
+      loss   
+ .  ,   
+      personality   
+       
+    loss. 
+• 
+       
+,     , 
+      protection_effect    
+. 
+       .                  ,   Brute_Force    .      ,          ðÞ         .               ,            combining        .     task            . ,       segregating        .                . ,           ,             .           .                  participant_modeling  . 
+:, 
+ðÞ     [].     
+    ðÞ    
+       ðÞ.   ðÞ                     ðÞ.         ,        ðÞ         .        . 
+) :                            (..,         ) []. ,                       . ,         ,        . .       :) source    () ,   / source       ;  )  
+      : )  ;  )   .             . 
+. , . ,  |     
+ 
+================
+  .:  , ,       
+source      () ,   source                 .     .      ðÞ,      ,      ,     ,   combining        .  combining         .   perceived_responsibility ,   ,          .              perceived_responsibility ,  ,     . 
+            . 
+/   : situational_circumstance  
+     . 
+,         
+           
+     .    
+. ,       ,  
+       .  
+  ,       
+combining        
+   combining    .  
+    ,   
+        
+        
+         
+. 
+/   : 
+        
+        
+source.        
+       [function] 
+[] (. ).      source  
+      . , 
+  ,     
+     intentionality    
+. 
+     : 
+  (   ):                 (. ).   ðÞ  impact       gain ðÞ   ,         ðÞ.                  .           persistence     .                       [].          
+ 
+   | . , . ,   
+. .     . 
+   ,        ðÞ.       . ,          source  .                   .   ,                             () []-[]. 
+                 ,  ,    . ,                  .  ,       ()          personality,        ,  personality . 
+.      
+     ,            . ,    , ,        mental_calculation            .                 .      : )          ; )             ;  )              .                 . ,  intrinsic_rewards     ,  ,   
+================
+  .:  , ,       
+       .                     ( ).     perceived_consensus     . 
+ ,   ,        ,        evaluating,    persistence    personality    frustration_of_needs [].   ,         process  ,          .   intrinsic_rewards   belief          .                  intrinsic_rewards       . 
+             perceived_consensus.   
+ experiential_awareness   .  ,         .       .  , experiential_awareness         : ) perceived_vulnerability   loss   ; ) segregating        ; )         ,      ;  )                . 
+  ,     techniques    ():           judging     .       : )  ;)  [].     ,        intentionality      .  isolation_effect [modeling]         
+         
+      [].  []     mental_calculation          .  belief   mental_calculation         focus  behavior. ,          behavior    ,    . perception   perceived_consensus               . 
+.      
+       possibility_effect          .         . 
+.   
+           .    personality   personality   personality        .       .  ,         ,                [].            . ,   segregating   ,             .                         [],     
+,  ,    .   ( )    isolation_effect           . 
+,   techniques                ( ).   ,   () []   isolation_effect [modeling]        . .            ().      ,  ,         : )   impact ();  )    ().         ðÞ,   ,        ðÞ  ,     gain.                   ,   evaluating, ,  evaluating.                 , .          . 
+•  ,       
+  ðÞ     
+   .   
+  ,  ,  
+ loss evaluating. 
+•  ,      
+    .     
+      
+. 
+•  ,      process 
+      
+. , . ,  |     
+ 
+================
+  .:  , ,       
+. . isolation_effect [modeling]   ,   (). 
+ .  ,         
+              ðÞ. 
+            
+(..,   []  . ).      .              
+.           .             ,     
+ ,       .   [].       planning 
+    ,       .   ,    , ,     personality   .            . 
+          . 
+  ( ):          (   . ).                  .          , ..,      () (   . ).    ðÞ                  .    ðÞ   , ,       .  belief          ðÞ, 
+ 
+   | . , . ,   
+   protection_effect               []. 
+            []          mental_calculation .      perception                       .        : )                 ;  )  participant_modeling     .            [modeling]     personality     . ,  [modeling]    gain   [modeling] ,       .                          .    
+://.../ 
+================
+  .:  , ,       
+. .     . 
+ [],              .    techniques,               .      personality     .    perception                 []. 
+      simplifying   : )         ;  )  ,              .   ,      ,   ,       . 
+.   
+     ,     mental_calculation   ðÞ      (, , ,  evaluating ),            ( ).   ,      satisfaction_of_needs       ,    ()     [].       ,         situational_circumstance [knowledge ]/    [].  belief      [capability]     .     [capability]  ,                         .            personality 
+ personality        .           . 
+• :       
+   ,   
+       
+     focus   
+   . 
+• : 
+       
+       
+, ,     
+ [ ,    
+, ,  . 
+•  : 
+      ,  
+     intrinsic_rewards 
+    . ,   
+       
+,       
+  . 
+.         .     :            process;      protection_effect            ;      satisfaction_of_needs        personality ()   () ;                 ;  ,                     . 
+. , . ,  |     
+ 
+================
+  .:  , ,       
+. .   . 
+.   
+          ,      source        . ,               source    . ,  combining                 .  ,   [], []    combining         , ,               .             intrinsic_rewards : )          ; )  perceived_responsibility    ;  )   . 
+  intrinsic_rewards,  [goal]       protection_effect      personality [].                . mental_calculation   
+. .    perceived_responsibility       .            . 
+  ( perceived_responsibility ):    ðÞ         .  ,       []       . .  ,      syllogistic_rules   ,     ,               .         ,           ( ). 
+    , ,  ,       ðÞ      ðÞ        .        ðÞ  satisfaction_of_needs         [].     ,     perceived_responsibility   simplifying          .  perceived_responsibility                 .,               . ,  perceived_responsibility               ,    perception  . 
+.                    
+    .      ¼  : , ,  . 
+   ðÞ.    personality       ,          ðÞ.   ,        personality    .   belief []            .     perception,        
+.   [modeling] 
+[]   :    ,                 ,     .      
+.         
+       ,   perceived_responsibility              []   [].     perceived_responsibility         . 
+ 
+    |.,., 
+          .  ,   . []    . []           . ,     mental_calculation         
+================
+  .:  , ,       
+    .   . []    [modeling]         .                       []. 
+ [modeling]           behavior           [], []         .                   personality     . 
+     :     ,        .    [modeling] intrinsic_rewards          .         [modeling]    
+. .      (, , ,)     . 
+.[],          
+ [modeling]  .                       .    ,      : )        ;  )    .   , combining - ,  [modeling]     ,  ,      [modeling]        []     .   [modeling]       combining () []                  . 
+   ,       ,     .                   . 
+  (      ):    () []      . .                   .              ( ).          Collection       personality        .    []     Collection   ( [] ),         personality  ,      . ,  ,  []    
+://../ 
+ .    . ,        gain,            .            [] .          .      ,          ,         []  . ,  ,   []           []      . 
+  (   ):             .      intrinsic_rewards        [].        participant_modeling          .    ,     ,         .  intrinsic_rewards  simplifying   [] protection_effect        (). ,      .                  .   techniques             .   ,            intentionality      . ,   []                     [] [].         [],            . 
+. , . ,  |     
+ 
+================
+  .:  , ,       
+. protection_effect     
+[]   :                 ,    .         , intelligence,          [].         [], [], intelligence  [],    [].         perceived_vulnerability .      personality    perception, perceived_vulnerability    ,         .               []        intrinsic_rewards    ,         . 
+,     ,          intrinsic_rewards          personality    [], [].   perception       .           intelligence ,           behavior_control-ability   opportunity_for_criminal_acts      .  ,   mental_calculation         perceived_vulnerability,                            .        ,      ,        .        intelligence      perceived_vulnerability,    ,  combining personality    . 
+  :  satisfaction_of_needs       ,         () []   .                 ,            .            persistence     .              ,               []. 
+      perception         personality    .    [action]   ()     perceived_vulnerability planning techniques   [].      (                   certainty_effect)     ,    . 
+ 
+    |.,., 
+       (   ),      [],                []. ,               ,         .                    . .       .          [    [policy] . 
+/ :       
+       
+. 
+/  perceived_vulnerability :    
+    personality  
+        
+   . 
+.    
+[]   :          .               ,       .   ,    : )     intrinsic_rewards    , ..,         [], [],  personality  , ..,       ()      []-[]; )  , mental_calculation -     personality         [], []-[]; )              [], []-[];  )  loss       []-[].           ()   [        [ [],[]. 
+    
+    :   
+          .           []        .                 [],         simplifying  . 
+   []  personality   
+ ()     
+ ()        
+          
+,        
+================
+  .:  , ,       
+. .   . 
+   .               [].          . ,   loss                    [].          
+    [knowledge]   ,     [capability]     process    participant_modeling  . 
+       ( )           .          ()           perception. ,   
+[].         ,   
+                   .                 . 
+ [],            : )  ,    combining      ; )   ,         ;  )      ,          intelligence   .  focus                  : )  ,     physical_quality ; )   ,   ;  )  [knowledge ],  ( [knowledge ])   (  [knowledge] ).        , ..,    , ,     ,      ,   protection_effect      .   belief          ,    protection_effect          . , personality    
+  source      []   .            gain      . 
+.       
+.  
+             . mental_calculation                    .                         .     intrinsic_rewards                 []. ,                       .            . 
+                           []. 
+://impact..///./ 
+. , . ,  |     
+ 
+================
+  .:  , ,       
+    ,      ,    .    ,       protection_effect            .    ,         : ) ;  )  .              . 
+.  
+                  . ,         (  participant_modeling            )   .              protection_effect      .               behavior          . 
+                          belief  .   
+   source           , ,      [].   gain       .                . 
+    perceived_responsibility ,            . ,         combining       .  ,                            .                         . 
+    []           .                   .         .              .        behavior     . ,     
+          
+ process [].       .             ,    process     .              intelligence ,         ,   ,   protection_effect       .               impulsive_effect   . 
+,           ,           protection_effect      .                impulsive_effect       .              ,    .                . ,        protection_effect,         . 
+.  
+          .            %    $.     [],         . ,      
+ 
+   | . , . ,   
+      []    []. 
+. belief 
+               , intelligence ,     .    belief  ,  , protection_effect,       .                protection_effect , protection_effect,   .                           .          , , ,              ,      .  gain,              .     , ,                  [].  
+ 
+      . , . , .,.,     . 
+================
+  .:  , ,       
+ 
+[] . , . , 
+. , . , . ,  
+. . . , :   
+     
+  ,[ . . 
+ ., . , . , . . [] . , . ,  .  , 
+       
+,[  . . . ., . , 
+. , . , . . [] . , . ,  . ,  
+       
+ ,[  . . . 
+., . , . , . , . . [] . , . , . , . , 
+ . ,   perception 
+     intelligence 
+ intelligence   
+  ,[ . 
+, . , . , . , 
+. []. : ://. 
+.//// 
+. 
+[] . , . , . , 
+. ,  . ,  
+     
+,[  .   . . 
+ .  . 
+., . , : ./. 
+.. 
+[] .   . . . , 
++:    
+    
+      
+  ,[  .  
+  :   
+  , , . . [] . , . , . ,  
+. ,   
+ behavior_control-ability     
+    ,[ 
+ . . ., . , . , 
+. , . . 
+[] . , . ,  
+. . . , :   protection_effect  
+perceived_consensus     ,[ 
+ . . . ., . , 
+    , . , 
+. , . . 
+[] . , . , . ,  
+. ,    
+   ,[  
+.  / . ., 
+, . . 
+[] . . ,   perception  
+   ,[  
+ . ., . , . , . , 
+. . 
+[] . . . , . . , 
+. . , . . , . . ,  
+. . ,    
+ loss :    focus ,[ .  
+ ., . , . , . , . [] . , . . ,  . . ,   
+ perception    ,[ 
+, . , . , . , . [] . ,     
+    
+    
+,[  . . ., 
+. , . , . , . . [] . , . ,  
+. . . ,      
+      
+,[  . . .   
+. ., . , . . [] . , . ,  . , 
+      
+ :  ,[ 
+. . . . , . , . , 
+. , . 
+[] . . ,      
+      
+,[ . . ., . , . , 
+. , . 
+[] .   . ,   
+:      
+  ,[ 
+ . . ., . , . , 
+. , . . 
+[] . . , . . , . . , 
+. . , . , . . , 
+. , . , . . , . . , 
+. . ,  . , 
+     
+      
+     
+    
+,[  , . , . , 
+. , . 
+[]  ,  . []. 
+: ://..// 
+ //. 
+?=. 
+[] . . , . , . , . , . , 
+. ,  . ,   
+      
+ ., . []. : 
+://..//. []        
+. []. : ://. 
+.// 
+,,.. [] . , . , 
+. . . ,  . , 
+     
+   , 
+. , .  , , . 
+    
+:   
+ . 
+[] . , . , . , 
+. ,  . ,   
+    ,[ 
+  ., . , . , 
+. , .-Mar. . 
+[] . . . , . , 
+. ,  . , 
+    
+ ,[  , 
+. ,      
+(), . , . 
+[] . , . ,  
+. . . ,    
+     
+  ,[  .  . . 
+  . ., . , 
+. . 
+[] . , . ,  
+. ,     
+     ,[ 
+ .  . . . , 
+ , , . . 
+[] . , . , . ,  
+. ,   loss 
+      , 
+. []. : :.. [] . , . , . , 
+. . . ,  . . (, .). 
+    
+ behavior_control-ability    
+   ?, 
+ . []. : :// 
+.././.... [] . , . , . ,  
+. , :    
+     
+     ,[  
+.  . .,  
+    , . [] . . . ,    
+  protection_effect    ,[ 
+    ., , , 
+. ,  []. : ://. 
+.//.?= 
+&=. 
+[] . , . ,  . , 
+    
+    
+ ,[  . /  
+. . . .,  
+() , . . 
+[] . , . , . ,  
+. ,    
+   ,[ 
+ .  / . . . 
+., . . 
+[]       
+    . []. 
+: ://../// 
+//.. [] . .   . ,  
+     
+,[   ., 
+. , . , . , .-Mar. . [] . , . , . . , . . , 
+ . . ().   
+     
+. .  . []. 
+, . . : ://combining ../ 
+combining /?/// 
+[] . , . , . , . ,  
+. ,     
+     
+,[  .  . 
+ ., , , . . [] . , . , . . , . , 
+. ,  . ,  
+personality      
+,[  .  / . . 
+. ., , . . [] . . ,  belief   
+,[ .  .  . 
+ . ., , . . [] . , . . ,  . , 
+     
+,[  .    ., 
+ , , . . 
+[] IMPACT , . []. : 
+://...///// 
+ [] . , . ,  . . . , 
+:     
+    ,[ 
+,  . 
+[] . , :   
+    ,[  . 
+ :    
+(), , . . 
+[] . , . . . , . ,  
+. ,     
+ .  : 
+, . 
+[] . , .-xxx. , . , 
+. . . ,  . ,  
+   ,[  . 
+. ., . . 
+[] . , . , 
+. , . , . , 
+ . . . , :   
+     
+  ,[  .  
+. . . .  ., 
+./. , . . 
+[] . , . , . , 
+. , . . ,  
+. ,    
+. , . ,  |     
+ 
+================
+  .:  , ,       
+ personality ,[   
+., . , . , . , 
+.-Dec. . 
+[] . , . , . , . , 
+. ,  . ,    
+intelligence :    
+,[ , . , . , . , 
+. . 
+[] . , . , . , 
+. , . , 
+. , . , . ,  
+. ,  :   
+   impulsive_effect ,[  .  
+. . .  . ., 
+. , . . 
+[] . , . ,  . ,  
+    :   
+    ,[  
+.  .    , , 
+, , . . 
+[] . , . ,  
+. . . ,    
+   perception  
+  intelligence ,[ 
+ . . . .,  
+   , , (  
+). 
+[] . . . , . ,  
+. ,  
+      
+,[  .   . 
+ ., . . 
+[] . , . ,  
+. . . ,  [modeling]  
+     
+ ,[  . . . 
+. . .   ., 
+. , . . 
+[] . , . ,  . , 
+:    ,[ 
+  , . , . , 
+. , . 
+[] . , . , . , . , 
+ . ,    
+  ,[  .  
+. . . , . . [] . , . , . , 
+. .,  . ,   
+     
+,[  .  . 
+. .  ., . , 
+. . 
+[] . , . , . ,  
+. ,    
+ personality  ,[  .  . 
+. . . , , 
+, , . . 
+[] . , . ,  . , 
+     
+   
+,[  .   .  
+. ., , , , . . [] . , . ,  . , 
+ loss, ,   
+    
+,[  .  , 
+, , , . . [] . , . , . , . , 
+ . ,     
+   ,[  .  
+ . . . , , 
+. . 
+[] . , . , . , . , 
+. ,  . , :   
+    
+ ,[  .    
+  ., , . . [] .   . ,  
+        
+    ,[ 
+  .  , 
+. , . , . , . [] . , . , . , . , . , 
+. ,  . ,   
+     
+  ,[  
+.   . . .  
+., , , , . . [] . , . , . ,  
+. ,   : 
+    
+ ,[  . . .  
+. . ., , , , . . [] . , . . . ,  
+. ,  
+ task   
+   
+ :   perception ,[ 
+ .  . ., . , 
+. , . , . . [] . , . ,  . , 
+: , ,  
+     
+  ,[  .  . . 
+. ., . , . . [] . , . ,  . , 
+ personality  : 
+    
+[modeling] ,[  .   
+., . , . , . , . [] . , . , . ,  . , 
+  loss :  
+       
+ ,[  
+.  , , : ./ 
+... 
+[] . , . , . ,  
+. . ,      
+   ,[  . 
+    . ., 
+. 
+[] . , . , . , 
+. ,  . ,    
+perceived_responsibility   ,[  . 
+  .  ., , 
+. . 
+[] . , . , . , 
+ . . ().   
+perception     
+    . . 
+., . .,     
+      
+ . []. (), 
+. . : ://. 
+.//// 
+ 
+[] . , . , . , 
+ . . . ,   
+     
+ ,[  . . .  
+ ., , . . [] . , . ,  
+. . . ,     
+    
+,[  .  . 
+.,       
+  , . , 
+. 
+[] ,      
+ ,   ., 
+  ,  
+,   , . [] . , . . , . , . , 
+. ,  . , 
+     
+judging      
+ [resource]  intrinsic_rewards ,[  
+. .  . ., , , 
+. 
+[] . , . , . , . , 
+ . ,      
+    [function]   
+ ,[ . . . . , 
+. , . , . , . [] . . ,   ,[ . 
+, . , . , . , . [] . ,    
+ ,[ , . , . , 
+. , . 
+[] . , . , . , ,  
+. ,    
+  .  : 
+, . 
+[] . , . ,  
+. ,   
+: , ,  
+. ,  : 
+ . ,  . 
+  ( , )   ..          , , ,  . ,      ..       , ,     ,  [] , . 
+  ,      IMPACT    [] .         
+ .      ://impact. 
+.//.. 
+ .  (, 
+)   ..     
+  ,  ,    
+..  ..      
+ [] , ,  . 
+        
+    ,  
+  , .   
+  protection_effect  ,  
+ , intrinsic_rewards ,   
+ .       ://.. 
+./~/. 
+..          
+  (). 
+ 
+   | . , . ,   
+================
+  .:  , ,       
+  (, )   
+..       
+  , ,    
+..       
+[]  (), ,  . 
+        
+ , , .    
+ / ,  
+ ,  ,  
+ ,    
+.       ://impact..//. 
+  .  ( , ) 
+  .     
+     , 
+  , , ,  , 
+ ..      
+     , 
+, ,  ,   ..  .. 
+      
+  [] , ,   
+ , . 
+        , ,    ,  [] , ,          .            , .    intelligence        (IMPACT)    [] .      , ,         ,       ,   .            ( : ).           ://impact... 
+..            ,      & ,   .               extrinsic_rewards       .[           (). 
+. , . ,  |     
+ 
+================

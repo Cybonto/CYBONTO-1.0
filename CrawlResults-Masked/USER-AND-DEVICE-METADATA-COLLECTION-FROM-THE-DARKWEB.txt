@@ -1,0 +1,656 @@
+  ""   ˆ Č• "ˆ  Ě 
+  ""   "Č•CH "• 
+  ""  ™STAV "Č•CH ˆŮ 
+  "  combining "    Ě  Ž"Ů  Ř•ZEN•   
+    
+     
+"   
+". " œ, .. 
+  
+================
+é čí é  ě  čí í 
+Ú čí éů () 
+áí ářé á 
+ý  / 
+:  á 
+: čí  
+á: ě  žů  říí   
+    Collection    
+:  
+áí: 
+.      šáí    /    
+. 
+.    á žňíí ří   íí (ř. , ,  č ) 
+    (ř.  č ). 
+.  čí í  áé á (áě žšě  áí )  
+  ě ů é  é ě . 
+.  řší    ,  ý ě ýé   é  ě 
+()ý  žý  á. 
+. ď čí áí,  žá šíří. 
+: 
+, . . ().   ,  ,   . 
+   , (), . 
+, . .,& , . (, ).      .     
+  (),      (. ). . 
+, ., , . .,& , . . (, ).   physical_quality :    .  
+   (),       (. ). .  ěí áč  í   žá: 
+  ž . 
+é áé   áí á  ://.physical_quality ../// 
+í á: ý í, ., .. 
+í ú: ář š, . .. . 
+ áí: .   
+ áí: . ě  
+ áí: . ří  
+áí ářé á/// 
+    
+================
+isolation_effect 
+  belief        ,         .                        . 
+ [goal]   focus                               .                    .                               . 
+    belief                            ,                .              techniques    . 
+ 
+á á á š é á  , á   ľ  ž    á .  é ú áé ž íť   á ú   áý  é   čý ť. 
+í ľ  ť   äčš   ý   í č äčš žá áí  á, é   ú č ž    áú. ý é  š , ž   á č žľ  ýš žá   ý   žľ,  á     šá á   á  ,   á  á   š    š ý. 
+ý  á ž á čý   í š ý  žľ úšťú  á č ľ ú ť á áť é á žá,  š íé  ú é  š- ú   á.  á  šú  ôž ýť š  čť äčší  . 
+ 
+,  ,  , ,  
+íčá  
+, ľé , šá á, ť,  
+ 
+, á.     
+Collection   . , .  .    ,    .  . í ý, .. 
+================
+šířý  
+ľ  á á  í č äčš ž á  žľ, í ží á    á á čí. á áš šú óí, é  žíú  úč á  ú í  . 
+  č ú íé é čé , é   žíú   ó ý  žň  á.  á  ž ý   á  á     á, é  ú ľ é  žé žľ, š    á  .  š  íý žíší č ,    áé , é čú ý   č á   č  é  á, é á š .   č   á- í  íá ó, á  žíá ý č  á  áý ý ň  šý á ýá  . 
+  é, á    á á  "šá" á     í , é   ň žíú.    ú  ž í ó í á, í ž  , é  ý  ôž úť   áí   ô, ý  ľé á á-   í á. ý  ý í    č   čí  čý   .    á- ý  ž  á  , é   á ú é   í á ľ ú žľ   ý á. á ž  á  , ý  žíší    , é  ú .   ä ď  š  ž  á  ší  ý  ší á   á á.  á  áň íé šé  í-  á  ý .  ŕň í  á á  . á   á áí    áí, é á á á  ú ť   é . 
+ý ý  á   č äčš  á  ž- ľ      é ť, é á  ú žť  , é á  á á íť  ô  é ú  á é  ľ šľ. 
+   é  , ý  š á    ň áé ží  ,   é  íí   žľ, í ú  á .   íý    á   .   á  ý žá  ú , , ž    í,   ž ôž ť. Ď  ú íť í  á  , í  ú ú.  íí áé ž   žé íť š  žľ ýú   ý, í  ý  ú  áú  ú.  á ý ší  žé ť ú ý   . 
+================
+    Collection    
+ 
+      belief     intelligence        . í ý ..        . áš .     ,        belief,          . 
+....................... 
+á  
+ ,  
+ 
+       .. ý   personality perception,                           .                              .       belief    .            . 
+   :       ,   ,    ,    ,     ,  ,   .   :  ,     ,      ,      . 
+:      .    ,               . combining             personality (  ).         isolation_effect .         ,   .  isolation_effect     .   ,     physical_quality       . combining    ,            .       isolation_effect       . 
+================
+ 
+   
+   
+.  .................................  
+.. ................................  
+.. ..................................  
+.. .....................................  
+.  . ..............................  
+.  ....................................  
+.. ................................  
+..  ..............................  
+.  ...................................  
+    
+.  .................................  
+..      .............  
+.. ...............................  
+..  ............................  
+. .......................................  
+.. ...................................  
+.       .................  
+..  ...........................  
+..  ...........................  
+. ......................................  
+.   ............................  
+..     ................  
+. .....................................  
+     
+. ......................................  
+. .......................................  
+. .....................................  
+.  ............................  
+.   gain ..............................  
+. ......................................  
+..   ..........................  
+ belief  
+ 
+================
+  
+    
+     
+. ...................................  
+. ....................................  
+   
+ 
+================
+  
+ 
+  ,     ()                        [].                   .      ,          ,                               . 
+ [goal]    belief     , simplifying           combining    . ,         ,             combining    .          .      belief               ..  .   techniques        ,         .                 participant_modeling  techniques   .   .         . 
+    belief   intrinsic_rewards                                . 
+              ,       ,   belief  focus      .                        ,     ..           personality      ,%       , , ,        ,%     . 
+ 
+================
+ .:        
+[] 
+ 
+================
+  
+ 
+             .                      /   .                . ,           .    combining             ()            techniques.   simplifying           possibility_effect         combining  . 
+   ,        intrinsic_rewards.   [goal]   intrinsic_rewards       perceived_uniqueness      .        ()       intrinsic_rewards   physical_quality.          .        [knowledge ],               .               , .., /    . ,             . 
+.   
+     , 
+"            ."[]               .                    ..                   . 
+    
+  
+personality 
+ 
+ 
+perceived_vulnerability    
+ 
+ 
+ 
+ loss 
+   : 
+ 
+================
+ .:    
+[] 
+∙  :    ,                ,              . 
+∙ personality :        segregating   ,            ,                  . 
+∙ :                 .        personality            . 
+∙ :                .          . 
+perceived_vulnerability : 
+∙ :                       .     . 
+∙ :         techniques  ()  .         . 
+∙ :             ,      ,   perception     . 
+ 
+================
+∙  loss :       generalizing                    segregating   ,   . 
+              .                . 
+..  
+                ,   .               .  extrinsic_rewards            . 
+    :"  source                     ."          ,  perceived_responsibility           .     extrinsic_rewards,          ,     .        . 
+ protection_effect  ,           
+"".             [function]         .                                         .         . 
+ .   extrinsic_rewards process      .   extrinsic_rewards        ,       (),    .    ,   extrinsic_rewards        .            .                    . 
+..  
+                  .                 .  perception      loss      opportunity_for_criminal_acts  possibility_effect . 
+           ()  participant_modeling       .                       .                  .           
+://.// 
+://..// 
+://..//// ://.//. 
+ 
+================
+ .:     
+://..//// 
+ . ,    [knowledge]              . 
+                          [action]  .                     .   personality                .              .               .    ,          mental_calculation                .         ,           personality     , participant_modeling   . 
+..  
+    ()                            process .              .     ,      . 
+  ,           .              . ,      ,             .                .      
+://.// 
+ 
+================
+ ()     /  ().                .                .                 .      ,        techniques    . 
+.  .  
+                ,    belief          perception [].     symbolic_modeling            .      belief                   perception    .                     .    focus        ,          ()         .                . 
+       %                      .                         ,           .            .                .        .    ,          .  perception     .                 .   perception        mental_calculation     .                     .     techniques                 . 
+.   
+   ()     source     .      .        /  .              .       ,         .           () .    possibility_effect            . 
+ protection_effect              ,                .    ,         .  
+://...////?=;=;=;=.. 
+ 
+================
+,             personality             extrinsic_rewards   .        ,      .[]              .          .                 .              . ,                        .         . 
+,             .            .             .                 .           .   ,       .     experiential_awareness      ,             .               .                . 
+..  
+        .                          , ,     syllogistic_rules.      [function]       . 
+                  .           .                 .  ,  perception                .[]  belief          
+""         .            .         personality . 
+             .  combining         personality    process         .                          .         .        .  combining     .    ,       ,       protection_effect        . 
+..   
+            belief  . ě .[]         . 
+ 
+================
+ .:     
+://.//////. 
+∙  :         .          .          .                 syllogistic_rules.        -  ,  /,   /.           ,         . 
+∙  :          .             []   .       . 
+∙  :       .             []       .            .               . 
+∙  :          .          .      perceived_uniqueness      .               . 
+∙ :           .             . ,    perceived_vulnerability     . 
+∙ :            syllogistic_rules    combining  .    combining      
+ 
+================
+    combining   .        . 
+.   
+            .       syllogistic_rules          , , , ,  .           techniques. 
+  [goal]                  .   ,              ,              .       .              personality . 
+                        .               ,          .       syllogistic_rules ,        ,           .                   .         .               possibility_effect         .  .            .              .                     . 
+ .:         
+[] 
+ 
+================
+  
+  
+       .   ,           .      .                                combining  .    ,            .      ,           .                          .                 .   loss          . 
+  mental_calculation          extrinsic_rewards,      personality .  ,        .    ,      .                 . ,                               ..                .             behavior. 
+.   
+                 .   [function]          ,  , perceived_responsibility ,  ,    extrinsic_rewards   ,      ..            , extrinsic_rewards           . 
+ learning   wanting               .                  techniques.            . 
+ 
+================
+ .:  process 
+://..// //////. 
+ belief        ,       . 
+ .:        imagination    
+     
+    
+    
+..       
+          .            .% .       % extrinsic_rewards.                                      .                         ,    combining      .                  . 
+                          .        .                       .       [experience]   .    appraisal           (   )             
+://.// 
+ 
+================
+ .        appraisal  .         .     . 
+∙ :          , simplifying    physical_quality .        + .                     .      . 
+�=  · 
+� 
+ 
+· 
+� 
+ 
+−  · � 
+(.) 
+ = , =   , = , = .                   ,              . 
+=  · 
+ 
+ 
+· 
+� 
+ 
+−  ·  
+(.) 
+= 
+ 
+ �=  
+(.) 
+(.) 
+                          belief. belief           .    . 
+�= 
+( · �) 
+� 
+(.) 
+∙  :      . , , , .               .     . 
+     ,       physical_quality    ,         .      appraisal  .              ..       .      .      .                  ,       .        .     ,     .    ,       .  combining     .   ,       .  .         .    ,          .     combining  ,    combining  .        .            . 
+ 
+================
+ 
+ 
+ 
+ 
+ .:    
+  
+ 
+, , , , ,  , 
+,  
+ 
+, , , , 
+, , ,  
+ 
+ 
+,  , , , , 
+, ,  
+ , , , ,   
+ ,  
+ 
+ 
+, , , , 
+, , , , , 
+, , , 
+,  
+, intrinsic_rewards ,  , 
+,  , , 
+,  , , 
+, , , , 
+ , , , , 
+ 
+..  
+              .                .       .       ..          ,        . 
+ .:    
+       .      .              . imagination -           . ,    ,                 . 
+     . 
+ 
+================
+..   
+                     .           ,                 .                     . 
+...  
+  , []                           .         extrinsic_rewards,      .          .        .      .             .     isolation_effect          [authority ].   ,    intrinsic_rewards      .             . 
+∙  :         isolation_effect,          ,     techniques.        ,               . 
+∙  :   techniques                      physical_quality       . 
+∙  :                  .      .            extrinsic_rewards         techniques . 
+                  .             .            combining        intrinsic_rewards       .                    . 
+.  
+                    .               () ,          .      ()  ,               .            . 
+ 
+================
+             .                  .          .                 .       ,           .                scripting       . 
+            .               .  perception         ()          .            .             .               .        intentionality   .                .        ,                  .. 
+   
+<> <!> 
+<>  </> <!> </> 
+ .:    
+        .                ,    .       ,              .                  isolation_effect <>.  : 
+∙ :          .      
+                 
+      . 
+∙ :        .   
+   behavior          behavior   
+ .          
+∙ :          .    personality 
+                
+         . 
+∙ :     .        . 
+∙ :       .       
+   
+     
+< =""> !</> 
+<  =""> </> < =":">    .</> < ="">.</> 
+< ="">   .</> 
+ .:  . 
+ 
+================
+..  
+              personality   .  belief      .          .      techniques       . 
+              .          ,    .             .        .  ,     .   appraisal      .         .       , ,    .             .     .                             . 
+ 
+ ..("//[()=  ][]/::") 
+ .:  . 
+.        
+    personality     .                      ,    . 
+      .                      personality     .   ,   a_memory                        .                  .             . 
+         ,     .      isolation_effect               .      ,            ,        task.                        .           .     role       . 
+..   
+   Collection                        ,   process   . personality     . 
+ 
+================
+...  
+      [].        . ,         .                 .                . 
+...  
+     /.    ,       combining    ,     .    syllogistic_rules   impulsive_effect.                 .            . 
+...  
+    ,     . ,       .           ,            .     ,   gain      behavior  , ,    .   loss,           .                  . 
+...  
+         ,             .           personality          .  gain             impulsive_effect  . 
+..   
+   ,                   .      personality                       .     ,                 . 
+...  
+             .               learning.   personality                    .       . 
+ 
+================
+...  
+      .           .                .        protection_effect  , ,  ,   . 
+.  
+            .                     .             .                .        .      learning                opportunity_for_criminal_acts            . 
+      personality   . ,      personality  ,                    .            ,  .    behavior       .                   [action ].       .        .     .                                 . 
+  ( )               .. 
+ .:    
+          .                      .           .     ,      .        . 
+://..////. 
+://..///://...//extrinsic_rewards - /. 
+ 
+================
+.    
+     ,            .               .            vulnerabilities   .        .          .             judging             .    ,    .               .                    .  .           .        ,              . 
+ .:     
+://..////. 
+..      
+          process                    .          ()      .        .                     . ,              . ,        .     .           .            . 
+ perceived_vulnerability        .      perceived_vulnerability     . 
+ 
+================
+          simplifying              .         ,   ,        .          .        techniques       .           physical_quality   ,            .             mental_calculation               . 
+            .              .        techniques   source   ,                      . ,                  .  intelligence          . 
+           .    physical_quality                . ,       .         .                  .                     .    ,       source    .  ,     ,           .              possibility_effect           . 
+.  
+                     [].                  .         .                  .            . 
+ perception       ,         segregating          .   ,           personality perception  .                     .         intrinsic_rewards      . 
+          ,               .                                        . 
+        .  participant_modeling   role       .       perceived_consensus  
+ 
+================
+ ,       .     source        personality             .         
+∙  : .., ,   ; 
+∙  : ..,      ; 
+∙  :  . 
+         extrinsic_rewards, intrinsic_rewards   ,     . 
+ 
+================
+  
+   
+                      . intrinsic_rewards    Collection         .        .          ..              .   physical_quality      .. [knowledge]                 extrinsic_rewards   .              .. 
+ .:   
+      process   physical_quality           .   process          :  ,            . 
+ 
+================
+.  
+  ,    .   ,                           ,  ,  ,                 .                     . 
+                ,         .  behavior     intentionality   .   [policy]               .  process               . 
+  ,                    .         ,             .               .     combining              .                  . 
+.  
+   ,   [goal]   isolation_effect          belief.     .      []   .       ,                  . 
+  ,              .                   ,     ,     .                 .                   .         . 
+                             .. 
+://../// ://..// 
+ 
+================
+ .:         
+.  
+        .            ..           .                .            .. 
+       .     source        .        .                         .   ,        .        ,           .   .   syllogistic_rules     . 
+∙ :   ,      .  [goal]   combining        . 
+∙ :           
+∙ :            .       (  ). 
+∙ :      . 
+∙ :      .        . 
+       .        .         .   ,       
+ 
+================
+.    ,       ,     .         .                    segregating   .                  .        .                      . 
+ .:  syllogistic_rules  
+ belief         .           . 
+∙ :       .           . 
+∙ :            .           .() [function ]. 
+∙ .:     mental_calculation   .                   ..    . 
+∙ :     syllogistic_rules    . 
+ 
+================
+.   
+               ,   gain.           . 
+∙  personality  :   ,                  .  ,              .              .        ,            .      belief,                     .    .                          intentionality    .           . 
+,           .   ,        [action]          ,         .    behavior  .            .                                  . 
+∙  :    belief,          .                  task    personality. isolation_effect      . 
+    personality                   .      personality     .             .             .               .                             . 
+∙     :               .    ,            ,       ,      .          . ,                 ,              . 
+              ,         .  
+://..// 
+ 
+================
+ ,             .             .               . 
+∙  :              . ,    .                .         . 
+                 .     .              belief.                . 
+.   gain 
+    ,                     ,         .             process     .                   perception () . ,             .               . 
+   []        , .     combining     ,                 .  intelligence belief                                         . 
+.  
+       process       .     task         belief.         .            .               .                  .                vicarious_experience .          process  . 
+..    
+         ()   .  .   ,        . 
+ 
+================
+ .:   
+                  . 
+   
+ .combining, ., . 
+   combining   .=   .= (); 
+ .:  . 
+       . 
+       
+combining| |  
+-------------------------------------+-------+----------   ()| |  
+  ()+    | |  
+  ()| |  
+  ()+    | |  ( ) 
+ .: . 
+        ,   .         
+   
+ , ,  
+   combining   .= .  .= (); 
+ .:  . 
+  
+    
+| |  ---------------+---------------+--------------- | |  
+( ) 
+ .: . 
+ 
+================
+ .      . 
+ .:    
+         
+   
+ , , .appraisal, ,  
+   combining   .= .  .= (); 
+ .:  . 
+  
+    
+| | appraisal| |  ------------+-----------+--------+------------+------------ 
+| | .| |  
+( ) 
+ .:  . 
+                  .                        . 
+                            . ,        combining   , ,          ,   appraisal     .                      . 
+://..// 
+://..//. 
+ 
+================
+ 
+ (*)  ; 
+ .:  . 
+      .        .        ,   isolation_effect   .                 .        ,         . 
+        [function]   .     .     .                impulsive_effect . 
+ 
+================
+  
+belief 
+  [goal]   belief        combining     .   ,     simplifying     Collection               . 
+,        combining                       .              ,       combining     .                    .         . 
+      belief                                          .         .      focus           belief       .      .                     .         ..            ,   personality           .               . 
+                   .     ..          .       impulsive_effect  ,      .. 
+                 ,           .         .                 .          ,         .                  .          .       . .                        .         personality     
+ 
+================
+,      .        ..                    .       ..              .. 
+ belief                               ,   . 
+://...////.?= 
+ 
+================
+ 
+[]       .  . [;  
+ ]. 
+ : ://..// 
+[]  ,  ,  :      
+    . . [;   , ]. 
+ : ://../// 
+////: 
+@/ 
+. 
+[] . ě :      ý íě . . [; 
+  , ]. 
+ : ://.physical_quality ../focus //.?=&= 
+[] ; ., .:  :   :   .  . 
+[;  ..]. 
+ : 
+://...///..?=;= 
+[] , . .:   ,  ,   
+. . . . , . .  : . .  
+. :./.. 
+ : ://.././. 
+[] , .; , .:          
+       - .  . 
+ : 
+://.//// 
+/ 
+[] . personality , . .:    : , ,  
+.   ;   ( , ). .  
+. 
+[] , . .:  role    . [;  ..]. 
+ : ://..///. 
+[] , .; , . .; , . .;  .: : personality  
+   . . 
+ 
+================
+[] , .:      ,    .  . 
+[;  ..]. 
+ : ://.../// 
+// 
+ 
+[]  :    . . [;   , 
+]. 
+ : ://../// 
+////: 
+@/. 
+[]  :  physical_quality . . [;   , ]. 
+ : ://..///// 
+//////. 
+ 
+================
+  
+  
+                   . 
+    : 
+∙ .:       belief 
+∙ : source  
+- . :   
+- . :   
+- . :   
+- . :   
+- . :          
+∙ .:            
+∙ .:  physical_quality    ,     
+∙ .:   
+∙ .:        
+ 
+================
+  
+   
+              extrinsic_rewards -     . 
+.  
+           .     . 
+           . 
+.  
+         
+  -xxx . 
+                     
+ -xxx .  
+ combining      
+ :/// 
+               . 
+: ://. 
+:  
+:  
+                 .         . 
+ . <> 
+behavior_control-ability                . 
+ 
+================
+  
+ 
+ .:     
+ 
+================
+ .:    
+ 
+================

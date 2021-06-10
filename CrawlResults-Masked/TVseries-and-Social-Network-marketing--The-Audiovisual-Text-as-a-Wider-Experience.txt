@@ -1,0 +1,358 @@
+  
+    :       [experience] 
+  
+ 
+       perception ,          perceived_responsibility   .           ( :  , :  , :  : physical_quality ),  ( ),  (:, :  ),  (,  ),  (" [experience] "),   (" "). 
+   ,             perceived_responsibility   .   personality           belief         [experience ],     ,  . 
+ perception       perception  "perceived_responsibility ":    ,  ,       "[experience] ",       perception              . 
+                        perceived_responsibility. 
+  physical_quality          syllogistic_rules   ,   mental_calculation  personality            [experience]          (,   ),     belief  "  ".       simplifying       role       . 
+ belief,       belief        [experience ]. 
+ syllogistic_rules    
+               ( ).       syllogistic_rules        " ".     (: ),    "    belief      impulsive_effect        motivation     ,"        motivation   .         segregating      [goal]    ".  -     ( , ) -       
+ 
+================
+  
+syllogistic_rules   ,   "" (, ),           "  ". 
+    (: ) "      ,    ,    ".  ,    ,         -   " " (, ) -           .       ,     (, )                . 
+           ,  ,   perception   .    "perception " (  , )        perceived_responsibility         personality role                 "";      "":        (, ).               .          syllogistic_rules                   . 
+   (, )    " "     (, )      focus     .           ,                  ,              (, ),    syllogistic_rules       (, );      ,        " ".            "",   "" (, , , ). 
+ ,             ,       ,   personality role    ,   combining      . , ,            ,     " intelligence," (é, )     "perception  " (, ).          . 
+            judging   ,         .                [Organization] (, ),           (, ).              syllogistic_rules :          . 
+   [division]         
+ 
+================
+  
+           " "        ,         . 
+     perceived_responsibility 
+           .   :    ,   ,    . 
+    combining        . 
+    
+             . 
+,         :  "/ "   syllogistic_rules    [knowledge]   .    ,            ,       . 
+     " [experience] ",     combining     ""  : ,             "perception"      participant_modeling  .          perceived_vulnerability           :  .      combining      .         : ()         [experience]  ()     perceived_vulnerability      participant_modeling  " ()   ".    participant_modeling       "  " ,          :          ,    ;             :            .          . 
+   ,  ,   focus     ,    ""    .          ,     ":   " ,     ,          .   ,                          ,    (      ).    ,  ,     :              . 
+ belief      ,    ,           ,     ,      .            ;         
+ 
+================
+  
+                     :              .      ,   ,   "",   ,      .         ,       ;  ""      . 
+  impulsive_effect  ,   ,      perception     personality   [experience ]. 
+  ,             syllogistic_rules,    ()       .          ,            .                 . ;   ,           personality .   ,        process       ,    perceived_vulnerability         ,       [experience ]. 
+ perception         "    [experience] ".        ,               .    " "          (         ,    )                     .         ""      ,        (  [preference]  )       .                       :      .           (             ),            .             .     :        -     # -     ,     .                  .      ,       .          perceived_vulnerability,      ,    combining     ("")    .   [activity]     satisfaction_of_needs    . 
+             -    -  .        [experience]    ,      (          (    ).         :  
+ 
+================
+  
+ ,     ,   intrinsic_rewards  (   )    . 
+   [experience]              live_modeling,  ,    . 
+                           ,   belief             (,  ,      intrinsic_rewards ). 
+       comply_effect  :             ,      .  , ,        intelligence [activity] (    ), ,     ,           ,        ,      . 
+ ,            "  "   , ,   perception      ,      ,    ""     ,               (    intelligence   ,    ,     ). 
+ ,                 combining       .                   . 
+   : , ,    
+           .        simplifying      . 
+              .      personality           . 
+              .             ,    ,        :  , ,          ,       .       ,        ,     .     -      -            participant_modeling           .             (    "" ). 
+            extrinsic_rewards    
+ 
+================
+  
+@   personality   .       ,        -  .           ,   -         -      :       ,       .       certainty_effect social_circumstance. 
+              .             .   ,                  .     -                    .          ,      .   ,   , .       ..  . 
+                ,            :          ""       [experience]   ,  , ,      .   ,    [function]         .                   :      ,      ,           ,    ,                  (                  ),   ì-related     ,        . 
+   :      
+              participant_modeling ,      personality   :         "  ",    combining    "  ".          intelligence   .           . 
+      ,      -       "   " -              "    ".     [knowledge]  techniques       extrinsic_rewards ,   role  ""      intelligence [action ].   ,            ,                     . 
+ 
+================
+  
+                         .   ,             ,   -    -    intelligence  .       [function]       . 
+   [action]      "   ".    -            -      (   #,       )                 .      ,   ,      .   , : () vicarious_experience             , ()    -  gain        -    ()    . 
+        belief    ,    ""    . 
+ ,      ,    .            :          (    )?    -       -       "  "       .   , ,          .                    .       -     (       )       :         ,    ,    ,       .         ,               . 
+        .              ,  -       ( + ,      perception   ) -             .         extrinsic_rewards,    gain           " ".          -     .     combining extrinsic_rewards :       ,                   ,      ""       . 
+    "  "              [activity ].              syllogistic_rules   :  intelligence  
+ 
+================
+  
+()      ;    ""      , ,  ,           , satisfaction_of_needs  perception   .    .          ,            ,    : "             personality   motivation      ".                ()    ,    motivation    .    ,           :  intrinsic_rewards,          participant_modeling            .         "       ",         perceived_responsibility .     . 
+     syllogistic_rules          [action]             (  ,      personality   )   social_circumstance            (.           : "   .   ").              syllogistic_rules  extrinsic_rewards    ,    . 
+   ,                 . 
+   : ,       
+   ,          :    ,      ,          .               personality        . 
+    perceived_responsibility    ,    .  ,   participant_modeling     ,                  . ,  ,   " "     extrinsic_rewards    , , ,      participant_modeling        .  ,  combining       ,    . 
+                    . 
+  ,         possibility_effect    :                   ,       ,     
+ 
+================
+  
+     .               ,   , ,   ,              [experience ].  ,  ,    perceived_vulnerability      , ,        /  .          participant_modeling      "perception ",       ,                . 
+           :                (% extrinsic_rewards  , %    )    (, ,   ),    (,      ). 
+       ,   .               :      satisfaction_of_needs   ;   ,     .                    participant_modeling    . 
+perceived_responsibility     :       [experience ]. 
+belief :      [experience] 
+  ,    ,   participant_modeling    motivation,       . ,        :  intelligence   [experience]     personality        [function ]. 
+ perceived_responsibility          , ,   ,   personality  syllogistic_rules    belief      perception    . 
+      , ,            perception   ,        ,                 .  ,  belief     ,  perception :           (,  , ,        .)        process,       personality "" ;    :      "" (, ):     personality  . 
+           perceived_uniqueness    (      )  vicarious_experience  (    process ),           
+ 
+================
+  
+.       ,           [experience ]. 
+     "      " (, : )           :  -   -   
+  
+    
+, . (.) ()    , ,  : ..  
+, .   , ., (),  .     , 
+:   
+, . () .      ,  :  
+, . ( ) "   behavior_control-ability.     
+", &  , . , .  
+, . ()        , : 
+  
+, . .,  . .( ) "      
+     ",      
+, , . -  
+, .   , . ( ) "      
+",     , . , . , .  
+á. . () .     , :  . 
+, . ()  extrinsic_rewards  .       
+,  :   , 
+  , . ()  , :  
+, . .    . . () . personality  , :  
+ 
+, . () "  ()   :  role   ",  
+, . (.)   . , perceived_uniqueness   , : 
+  
+, . () ,   .   ,    ,  : 
+& . 
+, . ( ) "  . ,  ,   
+    ",    , . , .  -  
+ 
+================
+  
+, .    . (  ) " :     [activity]    ", &  , . , .  -  
+, . () "  "  , . (.)  ,   
+ 
+, .,  .,   . ()   : , ,    
+     , :     
+, .,  . .,   , .( .) (),  , :  
+ 
+, ., , . .   , . () " .:     ",  
+, .,   . .,   , .( .),  , :  
+ 
+, . ()   . , à, à     
+, :     
+, .    . () " :       Impact  
+ ",    , , /, .  
+, . ()   :        , :  
+ 
+, . .   , . . ().  perception : personality   
+  .     
+  , . ()     , :     
+, . ( ) "   ",  -  
+       , . , .  -  
+, . ()      , , :   
+. 
+, . ()  behavior.     , ,  
+:   
+, . ()   .     , :  
+, . ()    , :  
+, . () :    à , :  
+, . ()  , :  
+, . () .  é   é, :    
+, . (.) ()  ,    
+, . ()   , :  
+, . ()   .        , : 
+ 
+================
+  
+  
+, . () .      ,  :  
+, . ()  :       physical_quality, , 
+ :  
+, ., , .  , . . () :      
+ ,  :     
+, . ( ) " ,  .   ",  
+   , . , .  -  
+, .   , . (.) ()    , : 
+   
+, . ()   ,  
+, . ()  , :  
+, . () " : ",  , .  , : 
+  
+, .   , . ()  personality .  ,    , 
+:    
+, . ()  :      ,  :  
+   
+, . () , ,  :   ,  :  
+   
+, . ()  .     ,  : 
+ 
+, . ()    personality  .   personality    
+  ,  :   
+, . () ,   .      intelligence   
+  physical_quality, :   
+, .   , . ()  ,   :   
+ 
+, . ()    .      , : 
+    
+, .. () .      ,   
+  , . ()   :     , :  
+    
+, ., , ., , ., , .   , . ()  . 
+     , :  
+ 
+================
+  
+é, . () , :   
+é, . ()  .     , :  
+é 
+, . .( .) ()   .    personality , ,  
+:  
+, . ()    :  é     éé  
+, : é  
+, . ()     , ,   
+, . (.) ()  .     , :   
+, . ., , . .   ,  . (  ) "  
+",   , , , .  -  
+, . () ,  syllogistic_rules  .  Impact      
+behavior,  :    
+  ., . .  , . . ( ) " ",    
+, , , .  -  
+, . (),  ,  :  
+, . . (.) (),  .      , : .. 
+ 
+, . .   . (.) (),  , :   
+  
+, . . ()       ,  :    
+, . .    . (.) (),  .    , 
+: / ( combining ) 
+, . () intelligence .    , :   
+, . ()   . satisfaction_of_needs    , ,  : 
+  
+, . () .    ,  :   
+, . () :    , :  
+, . ()   .  à      , :  
+&  
+, . ()   .      ,  
+:   
+, . ()  perception  .          
+ 
+================
+  
+  perception  , ,   ,  :  
+, .   , . . () .     , 
+ :  
+, . ()     , :    
+, . . ()    physical_quality.      ,  
+:  
+, . ()  , :   
+, . . ()   .       
+,  :   
+, . ( , ) :       , , , 
+.  à   -       
+[] 
+     
+, . ( , )      , [], : ://. 
+.////. [, ] 
+, . (, ),   , [], : ://..// 
+/./. [, ] 
+, .,  .    . ()   .  extrinsic_rewards  , [], 
+: ://./_repository//. 
+ [, ] 
+,  (, ),  gain  , [], : ://../ 
+//./. [, ] 
+, . ( , ),    .    
+              
+, [], : ..///?= [, 
+] 
+, . ( , ),     ..., [], : ://. 
+///. [, ] 
+, . ( , ),    ..., [], : :// 
+.///. [, ] 
+, . ( , ) extrinsic_rewards     ( ):     
+, [], : ://./// 
+. [, ] 
+ 
+================
+  
+, . ( , ) extrinsic_rewards     ( ):     
+", [], : ://./// 
+. [, ] 
+, . ( , )      :      
+, [], : ://./// 
+. [, ] 
+, . ()     :      
+physical_quality, [], : ://../////. 
+[, ] 
+, . ()   :       ,  
+  , , , [], : ://.././ 
+.. [ ] 
+, . ( )  .  :   , [], 
+: ://..//[, ] 
+, .. ()      [], : ://.// 
+// [, ] 
+, . (, )   à :    , [], 
+: ://..// 
+. [, ] 
+, . ( , )      : ,  
+ ,   , [], : ://. 
+.// [, ] 
+, . (, ), [ ]      : , 
+     , [], : ://.. 
+// 
+. [, ] 
+, . ( , )    :    
+  ., [], : ://..//// 
+/ [, ] 
+, . ( , )   :    è   
+, [], : ://..//// 
+/ [, ] 
+, . (, ),    :   ()-motional, 
+[], : ://..// 
+. [, ] 
+, . ( , ) fear_arousal   [experience] :   
+  ?, [], : ://..////fear_arousal - 
+ 
+================
+  
+/ [, ] 
+, . ( , )    :      
+,   , [], : ://../ 
+/ [, ] 
+, . ( , ) :       , [], 
+: ://..//// 
+/ [, ] 
+, . ( , ) ,       :    
+, [], : ://..//// 
+/ [, ] 
+, . ( , )   &   :   
+ , [], : ://..//// 
+/ [, ] 
+, . ( , )         :    
+,    , [], : ://. 
+.//// 
+/ [, ] 
+, . ( , ) :    , [], : :// 
+..///// [  
+ ] 
+, . ( , )        : 
+  , [], : ://..//// 
+/ 
+/ [, ] 
+, . ( , ) :    , [], : 
+://..///// 
+[, ] 
+, . ( , ) :      è  , 
+[], : ://..//// 
+/ [, ] 
+, . ( , ) :     , [], 
+: ://..//// 
+/ [, ] 
+, . ( , )    :      
+, [], : ://..//// 
+/ [, ] 
+ 
+================

@@ -1,0 +1,182 @@
+   
+ 
+    
+ perceived_vulnerability 
+      
+  
+================
+  
+     
+perceived_vulnerability 
+      
+           
+   [policy]     ,   , 
+ : + ()  
+ ..
+ 
+                .         ()         [policy] .         [policy ],        [policy] .
+     [policy]         ,   personality            .     ,             [policy] .
+         ,      .             situational_circumstance .
+ 
+:       
+================
+     perceived_vulnerability 
+isolation_effect 
+ behavior_control-ability   perceived_vulnerability         .          intentionality, perceived_vulnerability  extrinsic_rewards, perceived_vulnerability          .  impact         perceived_vulnerability   perceived_vulnerability      impact .  behavior_control-ability  personality               (  )       perceived_vulnerability. 
+ : , , ,  
+:  perceived_vulnerability,  ,   
+   - .@.      
+  - .@..    
+ 
+     personality ;      ;         personality .            .       [modeling] ()      .                  ,   [policy]             
+================
+     perceived_vulnerability 
+        ,           protection_effect  perceived_vulnerability  loss       ,       .  appraisal      ,     $    perceived_vulnerability .  perceived_vulnerability          perceived_vulnerability .   ,     perceived_vulnerability      ,              . 
+,        .     loss   process            .            : 
+)    fear_arousal ;  
+)  impact   fear_arousal   . 
+          ,      fear_arousal    impact          . 
+
+  behavior_control-ability      personality               techniques  perceived_vulnerability. ,  perceived_vulnerability     . 
+.       fear_arousal? 
+  ,  ,         ()              .          ,             gain    .   ,        loss
+ 
+ 
+ ()      ,          (. ). 
+ 
+ .. perceived_vulnerability ,      ,   . 
+ 
+   (),    ()   ()        perceived_vulnerability       .  
+        ,   -  ,  ,   . 
+ 
+ (), . . 
+ 
+================
+     %    .   appraisal             $   .  appraisal        %       . 
+         .       ,       .       ,   satisfaction_of_needs      .        ,       . 
+,  intentionality. personality      intentionality,      loss,   combining    ,      . ,  perceived_vulnerability.   ,        perceived_vulnerability  extrinsic_rewards    ,         ,   . ,  .       ,              .     ,           loss   combining  .   ,                .   .    intrinsic_rewards     simplifying  loss      impact,        loss   .         vulnerabilities. 
+   participant_modeling    .  ,  [activity]    .      ,      ,   perceived_vulnerability - ..       -   . 
+         ,    impact       .  ,     
+  
+   . (), . . 
+ 
+ ..,  ,   .  
+ (), . . 
+ 
+  (). 
+ 
+ ..  (), . . 
+ 
+================
+       . ,        ,        ,         .    ,    intrinsic_rewards          .          .        perceived_vulnerability        .      
+,   ,    . 
+          personality,     .        planning  ,   loss       .  ,  impact      persistence     .   perceived_vulnerability     loss      ,                 .        loss        .   ,  ,     loss   
+ ,        . 
+     planning   motivation       . perceived_vulnerability           perceived_vulnerability. 
+,     perceived_vulnerability        perceived_vulnerability ,           . 
+.      ? 
+   ,              ,            .
+  
+ ..  (), . . 
+ 
+ ..  (), . . 
+ 
+  (), . . 
+ 
+  . (), . . 
+ 
+ ..  (), . ;  (). 
+ 
+================
+ ,                . 
+      personality       ?  ,        personality     perceived_vulnerability  . ,         personality perceived_vulnerability ,             .  ,               belief   .                   belief     (             ). 
+,  [exposure]        .       vulnerabilities.    ,               perceived_vulnerability   . 
+,  ,        perceived_vulnerability              (..  ,     ).      ,             .                     . 
+, ,     .      participant_modeling       ,      personality  
+ vulnerabilities.        ,  protection_effect  . 
+,   extrinsic_rewards       appraisal .                  perception    .
+  
+ ..    (). 
+ 
+================
+,     behavior_control-ability        perceived_vulnerability   ,    role  . ,  fear_arousal                        .       ,     .     [knowledge]         loss    ,            .    ,         ,     ,    role   . 
+.     [policy] 
+              ()        .            [policy] .        perceived_vulnerability         . 
+ : persistence      belief      . 
+         perception   .     ,                   . ,                 .     
+  perceived_uniqueness  ,           . 
+        . 
+ : persistence        ,   perception      .
+  
+ ..  (). 
+ 
+   (), . ;  (), . .  
+  (). 
+ 
+================
+             , /     .                  personality .            [action ],    participant_modeling [knowledge] 
+  . 
+ :            . 
+                  .        ,               ,   loss          .      ,                ,    personality . 
+.  role   [policy] 
+                personality    perceived_vulnerability .     techniques              .   perceived_vulnerability                    .            . 
+ :       vulnerabilities     impact    fear_arousal. 
+    perception      [policy]  ().  ,                                 
+ 
+ 
+ ,  ,             ()  combining    .   ,       ()      .            . 
+ 
+================
+ .              mental_calculation         /  .                  .     ,   self-efficacy       segregating .    combining           personality. 
+ :                . 
+          planning   .      planning            .         
+ ,     perception   . 
+                 .          . ,          impact,             [function ],     .   ,     certainty_effect     planning               protection_effect   ,         . ,         .   ,     ,        protection_effect  .   ,             ( ,     ),                 . ,          .
+ 
+ 
+   (), . . 
+ 
+   (), . . 
+ 
+    (), . . 
+ 
+            ,         . 
+ 
+================
+ :      vulnerabilities          
+,          vulnerabilities       ,    [exposure]   . ,     perception    . 
+ perception   extrinsic_rewards          [resource]  .  ,      ,                       .      perceived_vulnerability,         extrinsic_rewards               .  ,        perceived_responsibility   personality ,     mental_calculation   extrinsic_rewards         [function]     frustration_of_needs. 
+  perception    behavior     perceived_vulnerability.  ,         loss    perceived_vulnerability           .       loss       techniques  . ,          . 
+    techniques  .              .  ,           .             (    ).             .          (..      )        [action ].                   .      perception,             . 
+ 
+================
+. belief 
+         ,           impact   . personality                .          . 
+    ,                  .            .       process           .                     . 
+ ,      belief,               perception      .               perceived_vulnerability.    ,    ,              fear_arousal,   perceived_vulnerability       impact   fear_arousal .
+  
+  (). 
+ 
+================
+ 
+  . . "  ."  . , . 
+  . . "      ."   /. 
+. . "       ." , . 
+. . "    appraisal      ." . 
+. . "       ." . 
+, . . "    ,      history."  , . 
+, .  . . "       perceived_vulnerability."   , . 
+. . "  ." . 
+, ,     . . " perceived_vulnerability,  loss   ."   , /. 
+, . . " Impact    -   ."  , . 
+   . . "  perceived_vulnerability   .  ." . 
+   . . "   :   ", perception, . 
+. . "  loss .  perceived_vulnerability loss        ." . 
+, .  . . "loss    focus.        ."  , . 
+,  . . "    ."     , , . 
+, .  "   :    perceived_vulnerability     ?"     , . 
+ 
+================
+, . . "personality ,  ." ,    social_circumstance, , . 
+ 
+================

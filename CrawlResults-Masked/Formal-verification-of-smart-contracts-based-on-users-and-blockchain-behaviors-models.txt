@@ -1,0 +1,186 @@
+   intelligence     
+    
+ ,   
+   : 
+ ,  .    intelligence        .        intelligence   (),  , , . ￿hal-01760787￿ 
+ :  
+://../ 
+     
+                ,       .             ,     personality  . 
+   ,  é  éô  à        , é  , é  é     ç  é,     é. 
+================
+ ﬁ  intelligence    
+     
+ ,   
+∗IRT , , , : 
+.@. 
+†EDF &, , , : 
+.@. 
+         .            intelligence           .    ,   intelligence perceived_responsibility     .       ,         vulnerabilities      ﬁ. ,          behavior .   ,      [modeling] perception    intelligence perceived_responsibility behavior    .        intelligence perceived_responsibility   simplifying        perception. 
+.  
+              [],                  , ﬁ, ,   .    ﬁ       ,        [].      ,    [function ],     perceived_consensus,         , , , , ,       .   ﬁ    ,   .  ,       :    (..   ,  )    (.. , perceived_uniqueness  ).  ,    intelligence perceived_responsibility      . 
+   intelligence perceived_responsibility   []           ﬁ       perceived_consensus. , intelligence     ﬁ  , ﬁ (.    ),  (..         )   (..  ).    ,             .  ,          intelligence  [].              intelligence ,          
+persistence    [].        ,  intelligence perceived_responsibility               .    intelligence         .      [Organization] (.. []),      (.. []) :  ﬂ  (..    []). 
+     ,  personality -       ,  intelligence        . ,        intelligence           ∼$  []      (∼$     []    ∼$     []).  vulnerabilities             ,    intelligence    ﬁ  (.. [], []). ,     :           perceived_vulnerability     ﬁ.     intelligence perceived_responsibility       intrinsic_rewards   belief (.. [], [] ).        behavior,            . 
+  ,     perception   intelligence perceived_responsibility               .     ,     behavior,  vulnerabilities   intelligence          .    perception    personality        intelligence perceived_responsibility. 
+     .                 intelligence perceived_responsibility  .  perceived_responsibility behavior                 .        ,    perceived_vulnerability   intelligence perceived_responsibility        . 
+================
+.   intelligence perceived_responsibility 
+        intelligence perceived_responsibility  .  [goal]   perceived_responsibility       techniques    .  personality                          techniques.              . 
+  source     perceived_responsibility   . 
+  ˆ..; 
+perceived_responsibility { 
+ ( => techniques) personality 
+; 
+ ( _success); 
+[function] ( _name) { 
+ ([_name] != techniques ()){ 
+_success= ; 
+} { 
+[_name]= .; 
+_success= ; 
+} 
+(_success); 
+} 
+} 
+ ﬁ  ﬁ     ,    perceived_responsibility   perceived_responsibility           .  internalization  ,   ,    / .       "" ﬁ     (..      ,      )    .              . 
+[function]                                .  [function]          
+.   
+        .   ﬁ-state ,      .       .   [action]       .        .     ,    ,      .      ,   protection_effect,   [action]     ﬁ   .  ,         .      ﬁ : 
+∙  ﬁ    �= {�0,�1, ..., ��}; 
+∙     �; 
+∙     �,     �  � 
+    ; 
+∙    . 
+     �,   source [] ��   
+ [] ��   (��,�,��,��,��) 
+� 
+,  ��   protection_effect,  ,          ��   [action]        
+. �        , [modeling]  . 
+. .   [modeling]   
+          
+      techniques      ����   .  techniques          .:      [function]         ,  intelligence perceived_responsibility      techniques. 
+  ﬁ ,      :           ,         . ,           :  [modeling]  intelligence perceived_responsibility,         ,    perceived_vulnerability   . 
+techniques,        �����, 
+.    behavior    
+. [modeling]    
+       (behavior  )                 ﬁ [].   ﬁ           . 
+    physical_quality          .  [] ,     ,     [] .  protection_effect [ == ]  ,     []     physical_quality  .  protection_effect [ == ]  ,    []     ���ℎ�  .       [] .           .       ,    .       ,           . 
+.   
+   ﬁ     (  )  .       .       ,  ,          .   ,     protection_effect              . 
+================
+   ,   �1  �2         .      ,    ���          ���   ��  ���. 
+. :      
+           ﬁ    [], [].   (  )              ﬁ   �,    appraisal     .         (    ) .           intrinsic_rewards        : 
+∙ :   perceived_vulnerability     �  
+      �? 
+∙ :    perceived_vulnerability     
+�?  perceived_vulnerability    appraisal,  
+  appraisal �′,    �   perceived_vulnerability 
+ �,:ℙ(∣�′ − �∣≤�) ≥1 −� 
+   ( perceived_vulnerability  )   (  )           . 
+. intelligence   
+       intelligence   .  ﬁ    [modeling]   [modeling]   intelligence perceived_responsibility . 
+.  intelligence perceived_responsibility ﬁ 
+ intelligence perceived_responsibility         combining    .         intelligence perceived_responsibility ﬁ. 
+ perceived_responsibility   ﬁ      : ∙  = �1..� �    [function] . 
+         
+     techniques. 
+∙  = �1..��     [function] 
+.          
+  . 
+∙  = �1..��    . ∙  = �1..��      
+ . 
+  behavior    perceived_responsibility      .      [function]          .       [function]          ,        .    ,         perceived_responsibility [modeling ]. 
+. .  intelligence perceived_responsibility ﬁ 
+.   intelligence perceived_responsibility 
+    [modeling]     perceived_responsibility        behavior.    behavior    intelligence perceived_responsibility   ﬁ-     .   perceived_responsibility   ﬁ  : 
+) : :  ��������   (@, �����)             [function] .  ������   (�������)         .  ������    [function]   . 
+) behavior :  ﬁ   :    [] ��,         ��������,    [] ���,    �����           ������.  [] ���,        [] ����.    techniques@      techniques [������ == ]  �������    �����. ,  techniques          �������������and �������    ����. ,  perceived_responsibility   ﬁ    ������       []   ������. 
+   live_modeling       ,     behavior      intelligence perceived_responsibility  .          (@ : ,����� :"����").     [function]   ������������     ﬁ    ���������� .   [function]      ����������.                   . ,    ,  focus      . 
+.    intelligence perceived_responsibility behavior 
+     intelligence        ,          behavior .   ,  ﬁ       
+================
+. .     intelligence perceived_responsibility 
+. . intelligence perceived_responsibility       
+  process              .   live_modeling  simplifying           intelligence perceived_responsibility,      . 
+. [modeling]   behavior 
+  combining             (  ).  ��� ��receives       ���������and ������        . 
+∙     social_circumstance   
+.         
+      . 
+∙       process. 
+        
+    intelligence perceived_responsibility.  ﬁ- 
+ ,          
+     perceived_consensus. 
+∙       
+        ������. 
+∙  :  mental_calculation   perceived_responsibility 
+    .    
+ [function]        
+  . 
+. ﬁ  
+ simplifying      intelligence perceived_responsibility       behavior .        perceived_uniqueness        techniques.        . 
+ :              . 
+ :                 .  :       ,  ,         . 
+      () perceived_vulnerability appraisal    � =. � =..              .   ,    
+================
+extrinsic_rewards           .      ﬁ .    : 
+ (  [,]): 
+=? [,](.techniques == && .extrinsic_rewards)  (  [,]): 
+=? [,](.techniques == && .extrinsic_rewards) 
+  ,          .   perceived_responsibility             .   ,       %    .   ,       %    . 
+    impact      .     perceived_vulnerability  extrinsic_rewards   .  physical_quality   (. �<),          .              (..            ). 
+. .     
+       extrinsic_rewards    .  ,   intelligence perceived_responsibility            ,       perceived_responsibility  .  ,                 .     ,          ﬁ.  ,             .   ,               ,             . 
+     ,   process    .                      . 
+.    
+    [modeling]       intelligence    .   
+        intelligence perceived_responsibility,    behavior            perception.                         intelligence perceived_responsibility behavior     .            .  ﬁ        [modeling]            ,  perceived_consensus ,     .                   . 
+ 
+          intelligence   ().                 ,               . 
+ 
+[] ,  .  : ://./. [] . , . ,  . .    
+ .        
+   ,  ,  ,  
+, , , . . 
+[] . , . ,  . .       
+intelligence  ().       
+  intrinsic_rewards,  . , . 
+[] . , . ,  . . [modeling]   
+   .      
+      (),  , 
+ . 
+[] . , . , . ,  . . :  
+   Vulnerabilities   ﬁ.  , 
+ ,  . , . 
+[]  ,  ,  , 
+ ,  ,  , . , 
+. , . ,  . .  ﬁ 
+ intelligence .         
+     ,   
+, . 
+[]  ,  ,  ,   . 
+   intelligence    belief  
+ .       
+  ,  . , . 
+[]  , . , . , . ,  
+. . , satisfaction_of_needs     
+   :  .    
+intelligence  , , . 
+[] . , . , . , . ,  . .  
+      intelligence perceived_responsibility :    
+   .      
+   ,  . , . []  . :    extrinsic_rewards . . [] . .       personality  
+     $      .  
+ , .  : ://./. 
+[] . .      $      
+   .    ,  .  
+: ://./. 
+[] . .   satisfaction_of_needs    . 
+ , (), . 
+[]  ﬁ. $ :        
+. ,  .  : ://./. [] . , . , . ,  . .    
+:  . . 
+================

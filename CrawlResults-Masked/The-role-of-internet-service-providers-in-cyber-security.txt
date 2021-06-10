@@ -1,0 +1,197 @@
+  
+ role        
+  
+ , ,   
+ , ,   
+ , ,   []   , ,   
+   
+ perceived_vulnerability              , ,  .   (.., , ; , , ,& combining, )                       .       ,    ""  "" ( "")             [activity] (, ). ,                              ,      protection_effect (, ).         " "  " "  (& , ). 
+              ()     personality belief   protection_effect      behavior,              (.., , ; , ,  , ; ,
+ 
+ 
+================
+ 
+;  , ).           appraisal         personality  ,                role.  focus                ,                   (  ).         gain                loss,        . 
+            personality             protection_effect  ,     ,     gain  . 
+      .    ()   ()             ,  gain         . ,                          . 
+   ,  ""         ""  (    ),                   "."  ,  ,   ,           perceived_vulnerability : "    " (, ).            protection_effect          perceived_vulnerability      (& , ). 
+   appraisal,        %         ,  .   (, ).         ,  "Phishing" ,  extrinsic_rewards     () .  appraisal    %  %     ,   %  %     (, ; , , , ,& , ).    ,  extrinsic_rewards (..,  ),  ,        isolation_effect , ,     ""  .    ,                    ,    (, ; , ,& , ; , ; , ).
+ 
+  ,    ,            (, ).
+ 
+ 
+================
+ 
+  :    
+ comply_effect        .     belief  comply_effect           (..,      )  ""  .  ,         ,         ,                 . ,             . 
+,       ,     (, ).  ,                   : 
+.  :      (..,     )  
+  (..,  ). 
+.  :           [activity] 
+  (..,             
+ ). 
+.  / :         
+participant_modeling  role     (..,       
+        ). 
+      " "   .    , ,         (..,        )     ,                    .                . ,              . 
+  ,         " "    .   ,            (, ).                    ; ,             (.., , ; , ; , ). ,           (  ., ; , ).   ,           (& , )—   
+ 
+             protection_effect  .        perceived_responsibility,    ()        :         .            .
+ 
+ 
+================
+ 
+           () 
+
+         loss        . 
+,      protection_effect            (, );           . &       . 
+    "    "        .     ""          .    , ;         techniques,     . 
+  ,    extrinsic_rewards ()         participant_modeling   role                       ,    .  ,         .                         .    ,              ,              ( , ). 
+              .                .             ,    []  [policy] ,           [policy ]. 
+    role       ,          .       ,                 ( ).      ,      , , , ,   ,         ,   ,    .      isolation_effect       ,    . 
+  ,  ,  , ,  ,              .  ,         ,    persistence       ,   perceived_vulnerability ,     ,             (   ).   
+ 
+           .
+ 
+ 
+================
+ 
+ certainty_effect    "  ,"  Collection          ( ). 
+,               ;     , ,      (..,       )         . 
+     
+,    (.., , appraisal )                     . , ,   ()            loss                 . 
+   ,   focus        .                 (& , ): 
+ 
+ :           ;    personality .        intentionality   ,       combining possibility_effect      . ,      intrinsic_rewards   ,      . 
+ 
+  :                .      ,         ,     . ,   /                  techniques.     [activity]   . 
+ 
+ :      protection_effect     ,    mental_calculation  possibility_effect  .   frustration_of_needs       gain  perceived_responsibility (..,                  ,         ). 
+   focus       ,   loss            ,              isolation_effect ,   $   (  , ). ,  loss        .
+  focus   ()   loss       ;     loss        $. 
+ 
+ 
+================
+ 
+             ,             ,      loss    ,     .
+    ,      extrinsic_rewards   .  belief                      "  "              . 
+    
+ extrinsic_rewards     satisfaction_of_needs        .       source   (       simplifying  ); ,   extrinsic_rewards           (..,   )   . 
+              . ,         ,       . ,                : 
+()  :     combining personality loss   
+   ,     impact   (  ., 
+). 
+()  :   personality      
+             
+    [Organization ]. 
+          .   focus         %      $       .    focus, %            ""   ( , ).    ()               %    $        .            %    . 
+ ,   focus    ,  [preference]            .              $.   ( gain      perceived_responsibility)              segregating   .  ,
+ 
+   (..,  )                          .
+ 
+ 
+================
+ 
+              perceived_vulnerability  perceived_uniqueness ,      ,    perceived_vulnerability   (        )    gain   . 
+    
+          ,      . belief            ,               self-efficacy.  ,               ,       ,                ,   ,   possibility_effect       perceived_vulnerability. 
+       , , ,&  ()    extrinsic_rewards    .  ,             participant_modeling          certainty_effect        . , ,   ()      simplifying  extrinsic_rewards                    .            , ,    (),           (..,         ,       ,          loss ).  ,    ,         ,         appraisal          . 
+         personality   ,    [action ].  ()                    ,     ()                 . ,            [authority]  ""     ,     protection_effect   . 
+     protection_effect       personality      personality  [action]       perceived_responsibility   .
+ 
+                     (, ). 
+
+  ,         .  "  ,"  
+ 
+ 
+================
+ 
+belief 
+                ; ,       .                ,    perceived_vulnerability      .    ,         perceived_responsibility       .         protection_effect   . 
+           protection_effect         Tactics         appraisal  possibility_effect           .  ,                  . , ,                (..,  / )    ,  ,   personality . 
+         role,      belief       .  ,    [policy]           ..,                  ,             .      perceived_responsibility       ,         ,   ,  ,        (  ) protection_effect . 
+  
+  
+  ,  ,  ,   ()  
+@.
+    ()             (, ).    extrinsic_rewards ()      "  ,"           combining  isolation_effect        (, ).       extrinsic_rewards   .
+ 
+ 
+================
+ 
+        ,   , ..  ,    . 
+ , ,       .    [experience]             :     [policy] . 
+ ,        .     [experience]                   situational_circumstance . 
+ , ,             .. [] .          ,         (). 
+ , ,   combining    .       Collection   protection_effect       situational_circumstance . 
+ 
+, .,& , . (, ).     . , , . 
+ ,        . ().    () .   , ,  ://.../// /. 
+, . (,  ).     .   .   , ,  ://..//,/.. 
+, ., , .,& , . ().            .     
+ ():. 
+, . (). "   ?"   ://..///.. 
+  ,     (). ().    ()  .   
+://..//// .. 
+, . (,  ).    .  ..   , ,  ://..//.
+ 
+ 
+================
+ 
+    ( ). (). ""     .   , ,  ://. .///.. 
+  extrinsic_rewards (). (). ,       "."  .   , ,  
+://..//////.. 
+, ., , ., , .,& , . ().          extrinsic_rewards   .          , , ,   , . 
+, . (,  ).    " perceived_vulnerability  ."   .   , ,  
+://...////.. 
+, ., , ., , .,& combining, . (,  ).       personality   .         .   , :  . 
+, . .,& , . . (). ().      protection_effect .        ,   .   , ,  ://../.?= 
+, . (,  ).       .    .   , ,  
+://..//. 
+, . ().       .      extrinsic_rewards  ,  , .   , ,  ://../////. 
+, ., , .,& , . ().       extrinsic_rewards .     , (),  , .   , ,  ://../.?=.. 
+  . ().       .   , ,  ://..////.. 
+, . .,& , . . (). belief   :  behavior,    [ownership] .    , (), . 
+, .,  , . ().     .     .       . . 
+, . (,  ).        perceived_vulnerability.   .   , ,  
+://../////..
+ 
+ 
+================
+ 
+, ., (,  ).     .  ..   , ,  ://..//. 
+, . (,  ).    :      .         .   , ,  ://...//. 
+, . (,  ).      .  .   , ,  
+://../[action] /.?=&= . 
+, . (,  ).  personality ,  .    .   , ,  ://../////.? =&=&=&=&=. 
+, . (,  ).       protection_effect  . .   , ,  
+://..//.. 
+ . ().    ... [authority]   .   ://../////.. 
+. .  role       [policy] .   ,   ://..////.. 
+, ., , ., , .,& , . ().      .   ,  (), . 
+, . (,  ).     loss     ,  .  .   , ,  
+://../ ///// .. 
+, . (,  ).     .   .   , ,  ://..//,,/.. 
+, . ().            ?        .    , ,  ://..//.. 
+, ., , ., , .& , . (, ).        .         .   , :  . 
+, . ().       ?         , .   , ,  
+://../////..
+ 
+ 
+================
+ 
+, . ().  :    ?         , .   , ,  
+://../////.. 
+ . (,  ).           .  .   , ,  
+://../.?=&task =&=&=. 
+, . (,  ).      perceived_vulnerability.  ,  . 
+, . (,  ).       . .   , ,  ://...//,.. 
+, . ().      .         (),  , , , . 
+, .,& , . ().      .  ,  , .   , ,  
+://.../perception /// /,,,.. 
+ , ., , ., , ., , ., , . ().  role       :       .   ://..///.. 
+, ., , ., , ., , .,& , . ().     .   (),      ,   , .   , ,  
+://.///..
+ 
+ 
+================

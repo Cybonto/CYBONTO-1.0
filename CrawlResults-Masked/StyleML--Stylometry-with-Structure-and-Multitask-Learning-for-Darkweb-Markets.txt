@@ -1,0 +1,419 @@
+:         
+ 
+      
+  []  
+{.@,.,.}@. 
+isolation_effect 
+                    .         ,         ,     combining       ().  ,         ,   ﬁ  combining    .        perception                 physical_quality    [activity]   .     appraisal           ﬁ    ,       .    evaluating    a_memory @. 
+  
+   "                  " (,  ).        ,           .  perceived_uniqueness            ; ,  intrinsic_rewards            .               .              . 
+            .            , ﬁ       ﬁ    (, ;  
+ .,  ).  intrinsic_rewards              ,           , ,    ,    , .             ﬁ-  ,     . ,  intrinsic_rewards                . ,     intrinsic_rewards      ,   .           [modeling]             ﬁ      possibility_effect     (  ., ).   ( )                     . certainty_effect   extrinsic_rewards   ,               . ﬁ,    : 
+:. [.]    
+•                perceived_uniqueness (         )      () . 
+•       ,                     ﬁ         ,       combining   . 
+================
+•    ﬁ     task            :   ,   ,  ,    .      (  ., ;   ,  ).         focus   impact       ﬁ      . 
+   
+          ,  ,   task   . 
+.    
+,    physical_quality         ,   ,    ,  , ,     (  ., ;   ., ).      , ,   .   .( )             ( %),  combining       ,  , , ,   .                 ;             (  .,  ),   combining      . 
+              ,         .( )    . ()    belief      () ,      ,  ()       (  ., ;   .,  ).   .( )            ,              .         ,  ,  ﬁ,         ,      
+             
+               .  ,   .( )     perception      ,  ,      .       (  ., ;   ., )     ,    . ,   focus      . ,   ,         (,  , ,   )           -    segregating   . ,    . 
+.    physical_quality  ( )      ()   ﬁ.      (  ., ;   ., )          ,    .         evaluating                    .       (  .,  ),   ,    possibility_effect  participant_modeling       .        personality        ﬁ  (..,  (  ., ))        (  ,  ).               (  ., ).                    . 
+.   
+  () (,  ),          intelligence task     .         generalizing            .                -     ( )      (personality - ) (,  ).    
+================
+     ,   mental_calculation [modeling] (  ,  ),    (  .,  ),   personality (  .,  ).      [knowledge ],    ﬁ            physical_quality . 
+   
+certainty_effect   extrinsic_rewards               (  , ;   ., ),        .        , ,       .             .                        : 
+ 
+!      task  protection_effect          .        ﬂ           .     [modeling]              ( )    task.  combining                .
+ 
+ :   ﬂ 
+.   
+            , ,   = (; ; )  .          . 
+  ,             .                     ,              , , : : :; 
+ .     
+ :    (, ) 
+. 
+   .  ,      ﬁ,  ﬁ  = ;;;           ,       (  ﬁ). ,           ,     .       ﬁ     ﬁ.     . 
+                          .          ,   mental_calculation       ()    .                              ,    ﬁ    . 
+                 .   (  , )          .    ,                     .      ,      .          perception             . 
+ﬁ,            :  (),  (),  (),   (),        (, )    (,  ) syllogistic_rules.  learning       ,     (  ., )   ﬁ      .     combining 
+================
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ :      
+ﬁ      .  ,         ,                   .           ,     : , , , , , ,  .   ,      protection_effect       ,        (). 
+.   
+            = + +   .     , ,     .    ﬁ    ,         .             ,        .              (  ., ;   .,  ),              combining   .          ( )            .         perception. 
+               : (;; )! 
+ 
+.   
+          learning   [function]    .                          .  =            ﬁ  learning -  ,   = 
+ 
+ 
+    
+ :    .   .                  ﬁ     
+  loss    , ..,    loss. 
+()= 
+ 
+ 
+ 
+= 
+           () (  .,  ),  () (  .,  ),    () (  .,  ). 
+.   
+             ,          .    = (; ; )  ,          , ,  , .             
+.  ﬁ              .    ﬁ   loss     ,      .  ,  ﬁ   ,             .    ﬁ      (.., )  ﬁ     ,         . ,                 ,     . 
+================
+.   
+       learning -  task   . ,            . ,    ,    participant_modeling    (  ,    )  .      physical_quality        . ,       (   ),             ( ﬂ  ).   ,     ,                 . ,  combining         .                 .  ﬁ     perception          task  = ;  ,              task.           : ! 
+. ,        ,    loss      .      ,    ﬁ          ,        .            .   loss [function]   combining      . = [; 
+ 
+()] 
+  
+  ( )                    .       participant_modeling           .  focus       -  ,   .,  ,   .       , , ,  , .   combining      ﬁ     (..,      ),  ,   ,  , ,   
+ :  .     
+     ([], [ ], [ ], [ ], [combining ], []).  protection_effect      ﬁ          .    ,  focus        (.., :    ). 
+     ,  isolation_effect                            .             .            . 
+     #  #  
+                    
+ :      
+                 (  .,  ).  combining            ,     process. ,        ,              .  ,           (   
+================
+              ).       combining             ,     personality ,        . 
+ appraisal 
+             ,         evaluating        .                ﬂ       . ﬁ,     perception  ,          .         = ; : : : ,   = ; ; : : :      .             .  = ; ; : : :                     ,   (:)      .     : 
+  evaluating : ()         evaluating   ﬁ  ( )    .             . 
+ 
+
+ ()= 
+
+ 
+= 
+ 
+ = (( 
+)= 
+())   evaluating        . a_memory @: (@)     (),  ﬁ  a_memory @                    ; : : :; . @      a_memory      . 
+ 
+
+ @=
+ 
+= 
+ ;()=() 
+        . ,  mental_calculation  personality physical_quality     (  ., ) 
+       .      protection_effect     (, )         ,     combining    .           (  ,  ).                  .            
+  
+.   task  
+      ,           ,  , ,      .             ,         . ,       ()  (  ,  ).  ﬁ              .            ﬁ      (< :).          .     ,        .    ﬁ  ﬁ          (   ).           (..,      ),                  . ,         . 
+ 
+:  
+ :  
+ 
+:  
+. 
+. 
+ 
+. 
+. 
+. 
+ 
+ 
+  
+    
+ 
+ 
+ 
+  
+ : :  .  
+        
+================
+ 
+     @  @  @  @ 
+  .( ) () . . . . . . . .+ +  . . . . . . . .+ + +   . . . . . . . . 
+  ( ) () 
+ () 
+. . . . 
+. . . . 
+  . . . . . . . .   . . . . 
+. . . . 
+-   . . . . . . . . -graph  -  . . . . . . . . 
+. . . . . . . . 
+ () 
+-   . . 
+. . 
+. . . . 
+-   -  . . . . . . . . 
+ :     .      .  < :, @< :,   ,   .         (  ., ;   ,  ),           (  .      @)   . 
+ .      ()        .           task        .           ﬁ (: <  )          .                  ﬁ (  ., ;   , ).          ( )    task      ﬁ-  ()               .   ,   ﬁ  (: <  )       . 
+ 
+ 
+ 
+ 
+. 
+. 
+ 
+. 
+. 
+ 
+ 
+ 
+ 
+ 
+ : task :         ,         
+                  .       
+,   combining         . 
+ 
+ 
+ () 
+ () 
+. 
+. 
+ 
+. 
+. 
+ 
+ 
+   
+ 
+ 
+ :           
+.   
+   ( )                     .          ﬁ,        .   ,                    ( ).    ,               constraint ( ).                task      . ,  ﬁ   ( )        ( ). ,          task     ﬁ  ( ),          
+================
+ 
+ () 
+ () 
+ () 
+ () 
+. 
+. 
+ 
+. 
+. 
+. 
+ 
+ 
+ 
+ 
+ 
+ :        
+     . 
+.  focus :   
+                (  ).   (.  )              .               ,      :      , ﬁ         ,          (  ).               ( ).              (..,   - ,  - , .).           (; ),        ,             (= ).     ﬁ         (  ) -             .  ﬁ        ﬁ   ,      (, , )         ().           (  )  ,       . ,      combining     ﬂ        . 
+ belief 
+       perception          physical_quality    [activity]    perceived_uniqueness 
+ :            .         (, , , ).         . 
+   physical_quality    .        -            ﬁ    [] - .   ,  belief          simplifying   persistence intrinsic_rewards         . ,                             .                    ,        . 
+ 
+    . .  
+       . 
+         
+  ﬁ (),  , 
+ , .    
+. 
+    . .  
+     .  
+       
+       
+       
+mental_calculation  (),   
+,  , .    
+ . 
+================
+ ,  ,  ,  
+ . .    
+     .    
+      
+   (),   
+. . 
+ . .  . 
+, ():. 
+ 
+ ,  ,  ,   
+. . :    
+loss    perception.     
+    perception   
+perception,  . 
+ ,  ,  ,  
+ . . :   
+      
+.       
+        
+  :   
+,   (  physical_quality ), 
+ , , .  
+   . 
+ ,  ,  ,  ,  
+ . .     
+  .     
+        
+       
+     ( 
+ :  ),  , , 
+.    . 
+ ,   ,   
+. . :   
+    .   
+       
+  [knowledge]    , 
+ . 
+ ,  ,  
+,   . .   
+    physical_quality  :   
+   perception.     
+   intelligence   
+ (),  . . 
+ ,  ,  , 
+ ,  ,  
+ . .   
+  physical_quality  .   
+:.. 
+ ,  ,  ,   . 
+. impulsive_effect      
+:       
+      
+ .  ,  . 
+ ,  ,   . . 
+:      
+    .  
+        
+  [knowledge] ,  . 
+ ,  ,    
+. .  coding    
+   .      
+       
+   ( ),   
+, , .  . 
+ ,  ,  ,    
+. . :  intelligence  
+       
+  .    
+      
+ [knowledge]    ,  
+. 
+    . .  
+  ﬁ-tuning   ﬁ.  
+         
+    ( : 
+ ),  , , . 
+   . 
+ . .  . 
+ . ., ():. 
+. 
+ . .    
+  ﬁ.     
+       
+  (),  , 
+, .     
+. 
+ ,  ,  , 
+ ,  ,  
+,   . . ﬁ:  
+       
+.       , 
+ . 
+ ,  ,   . 
+.         
+       
+:  ,  .   
+         
+    :  
+ ,  . 
+      . .    
+         
+    .     
+ ,  . 
+ . .    physical_quality :   
+        
+. . 
+    . .  
+        
+    .  
+   [policy ], :. 
+ ,  ,   . 
+.     . 
+================
+ ,  ,   ﬂ- 
+. . :    
+      . 
+       
+   [knowledge] &  
+. 
+ ,  ,  ,  , 
+   . .  loss 
+       learning - 
+.        
+ perception   perception,   
+. 
+ ,  ,  ,  
+ ,   . . 
+    ﬁ task   . 
+       
+   appraisal,   
+. . 
+    . . ﬁ   
+     .  . 
+ ,  ,    
+. .      
+personality   [] .   
+         
+  ,  , , 
+.     
+. 
+ ,  ,  ,  ,  
+ ,  ,  ,  ,  
+,   . .     
+:       
+ ﬁ ﬁ     
+   .  
+    ,  ,  
+,  , , .   
+ . 
+ . .     
+task     . , 
+/.. 
+ ,  ,    . 
+.     
+       
+.   :.. 
+ ,  ,   . 
+.       
+  .       
+       
+ ( :  ),   
+, , .    
+ . 
+ ,  ,  á, 
+ ,  ,   . 
+.      
+  physical_quality .      
+        
+   :  , physical_quality 
+,  , , .  
+   . 
+  ,  ,   . . 
+   physical_quality     
+.        
+   [knowledge]  
+&  ,  . 
+ ,  ,  ,  
+,  ,   , Ł 
+,   . . perception   
+ .       
+ ,  . 
+ ,  ,  ,  ,  
+ ,  ,  ,   
+. . :    loss  
+  perception.      
+   perception    
+,  . 
+================

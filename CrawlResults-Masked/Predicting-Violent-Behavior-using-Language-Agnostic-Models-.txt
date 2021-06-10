@@ -1,0 +1,304 @@
+ impulsive_effect behavior     
+ ,  ,  ,      . , 
+  ,   ,  
+     ,   ,  
+: 
+ ,   ,   ,    
+. 
+isolation_effect : 
+     ﬁ loss    .   ,       combining impulsive_effect      .        , ,     ﬁ  . ,     ,      combining .       intrinsic_rewards   impulsive_effect         . ﬁ,       .          .              . ,                combining       ﬁ.  focus  perceived_responsibility   ,  intrinsic_rewards   combining impulsive_effect  . 
+  
+         ,         certainty_effect ,            -        .   ,           impulsive_effect    . 
+   belief   behavior   certainty_effect         ,   (  ., )  (  ., )                 certainty_effect .   .       impulsive_effect    ,              personality  (  ., ).  ,                     ()  (.., ,  ,  ).                     ,  
+ 
+, ., , ., , ., , .  , .  impulsive_effect behavior    . : ./ 
+  participant_modeling         .   ,       (  ., )      personality   (..,  .)       : )             ; )    personality      ;  )         (  ., ). 
+  focus,            ,          ﬁ              ﬂ     .        ﬁ,      .   ﬁ       , perceived_vulnerability -   ,         loss  loss.  impulsive_effect   ﬁ      participant_modeling       ﬁ  ,      perceived_responsibility   [action ]. 
+  focus,    impulsive_effect   
+      : ://. // 
+         [knowledge] , [knowledge]   [knowledge]  ( ) -  : ,   
+:  
+ ©    -    , .   personality 
+================
+impulsive_effect          isolation_effect    .               .           focus  )  , )   , ) persistence -   ,  )  . 
+   
+    ﬁ     intentionality        .           .  ,       intentionality           intentionality (  , ).                 focus         (  , ).   . ()    . ()       simplifying     certainty_effect .           appraisal        .          generalizing  ﬂ       [policy]   (..,  ).             . 
+        ﬁ   .     perception, ,          ﬁ      ﬁ   (  ., ).    impulsive_effect intentionality      .                         ;                .  [modeling]  impulsive_effect , ,    gain  ﬁ      (  , ).      extrinsic_rewards   [modeling]                 (  ., ).  ,             .  ,                        
+ impulsive_effect behavior     
+     (  ., ).  ,   . ()        impulsive_effect .            .      personality           gain   . ,   . ()   belief    .   ,  simplifying            . ,     ,     ,      . 
+  intrinsic_rewards     focus personality .  intrinsic_rewards   ,                     (  ., ).  intrinsic_rewards          ,       focus   personality  (  ., )                 focus         (  , ).      , .         mastery_experience     ﬁ  ;  ,            [action]         [action] (  ., ). 
+  Collection  
+ 
+     ,      ﬂ ,    source          .  ,      ﬁ       ,    ,           .              .      , ,  , ﬁ, ,     . 
+  focus,     impulsive_effect          .  impulsive_effect ,            ,  , ,  ;      
+ 
+================
+  -     [knowledge]     
+ :      impulsive_effect    . 
+  
+  
+  
+    
+     
+impulsive_effect 
+  
+ 
+ 
+    
+   
+  
+  
+  combining 
+  
+  
+     
+personality  
+ perceived_consensus  personality     perceived_consensus      
+ 
+  
+   
+     combining 
+ , , , ,    ;     - , .   ,              ,  ,  ; personality       ,  perceived_consensus  personality ,    perceived_consensus,      ;       ,  ,    .      ﬂ            ,        , ,   personality .     combining         simplifying   . ,  techniques   ,              .     extrinsic_rewards          ;  , ﬁ        impulsive_effect   .       extrinsic_rewards  satisfaction_of_needs         .         
+ [ ],  ,  -  , . . .  , . :///. 
+ 
+   
+ 
+ 
+ 
+ 
+, 
+ 
+ 
+ 
+ 
+, 
+, 
+, 
+ 
+ 
+, 
+ 
+ 
+ 
+ 
+ 
+ 
+, 
+   
+, 
+, 
+, 
+, 
+,, 
+, 
+, 
+, 
+, 
+,, 
+,, 
+,, 
+, 
+, 
+,, 
+, 
+, 
+, 
+, 
+, 
+, 
+,, 
+     focus.  impulsive_effect          , , ,  . 
+ combining,  ,   . ,         , ,   source       ,         . ,        .     ,            ,      . ,          ,  ,      isolation_effect  impulsive_effect   .      certainty_effect     . 
+   ,     .   ,       .       (..,                ).         (),    .     .            [goal]     .        (      )   ,          
+================
+ impulsive_effect behavior     
+ :    impulsive_effect          . 
+  ,       . ,     isolation_effect     personality       belief       ,          . ,    ,         . 
+ [modeling] perception 
+      : )  , )    , )   ,  )  . 
+ ,     () ,                 perception (.., , , )   physical_quality    ﬂ       protection_effect   .                 ()  .           intrinsic_rewards :     intrinsic_rewards (  , ).        ,        ﬁ  . ,                . ,               ﬁ. 
+       learning -  .  ﬁ ,    (),     ﬁ   perception; ,   
+    ﬁ   ﬁ,       (  ., ).        ﬁ     ﬁ    .          ,   ,        .   ,          .    belief            ,     .   ,                     .                       .    personality     , ,           (, ).                                ,        . ,    ,  personality         .        (, ),      : )   ; )     ; )    %  ; )       ﬁ       .       ,       arousal [function] (   , )            ; )                    ;      %  ;  )        arousal [function ].          ,   (  , )    loss [function ],   
+ 
+================
+  -     [knowledge]     
+          (  ). 
+   ,     ﬂ. ,    learning      ,   .          .    belief           ,         personality     . ,         .  ,      ()  .       persistence -   ,                        ,       .          ()  protection_effect                    . ,  protection_effect         ,       (.., ),  ,       ,             .         : )  ; )     ; )    %  ; )       ; )     %  ;  )        arousal [function ].          ,   (  , )     loss [function ],    ,           (  ). 
+               ,    ﬁ      .                        . ,             (..,         ),         personality.     ,                . ,     ﬁ           .  techniques             ,    participant_modeling  . ,          ,    ,     ,      ﬁ      .   
+ 
+     , 
+()= α∗ 
+|| 
+β 
+()  β   ﬁ    α     .   β=  α=.  ,          ,            .   ,   
+β 
+      
+α 
+,   ,        , 
+  
+|| 
+ 
+ 
+β 
+= ()  ||%β=  
+α 
+()=
+ 
+ 
+ || 
+β 
++= () +  
+α 
+() 
+ ,        , β=   α= ,       , , , ,  . ,      ,              β,   . ,          ﬁ . 
+,     ,         (),     ,         . 
+   
+ 
+            Collection  . ,          .         (  , )    . ,       (  , ).       impulsive_effect ()   ()  .           ,  ﬁ  impulsive_effect             .                .      :   (éé ),  behavior_control-ability -   ().   
+  . ://./ //.. 
+================
+ 
+ impulsive_effect behavior     
+ :            . 
+  ﬁ  
+   /  
+[Organization] -0. . 
+-    -0.  
+  -0.  
+  . 
+ -0. . 
+ impulsive_effect impulsive_effect 
+ :    impulsive_effect ()   impulsive_effect () . 
+,   ﬁ     (certainty_effect  )    .  éé,    ﬁ     (  .    .  .)                        ,    ,               .     ,  segregating           éé  . ,     ,  ﬁ-  ,       .   ,     [authority]      ( )   .      ,      .  ..          ,            ,          
+,  .  ﬁ             .          ,     ﬁ    éé       .                .          "  "  " "       ,           ,       .     " ",         ,        . 
+ :      . 
+  certainty_effect    
+ .% .* .  .%* . .*  .%* . .  .% .* . 
+∗ 
+< .    
+   . 
+     ﬁ      . ,               . ,    ﬁ   éé         .                      ﬁ     .  ﬂ                behavior        .       .      ﬁ   .           behavior  . 
+ 
+================
+  -     [knowledge]     
+ 
+ 
+ 
+ :    . 
+   impulsive_effect  
+    . 
+   . 
+ perceived_consensus  personality   . 
+  . 
+      . 
+   . 
+   . 
+     . 
+  . 
+    . 
+  . 
+     . 
+    . 
+   . 
+  . 
+     . 
+      . 
+   . 
+  . 
+ :      personality  . 
+   certainty_effect    
+personality .% . . 
+ .% . .* 
+∗ 
+< .   . 
+,      certainty_effect      ﬁ         .          ﬁ     ,         ﬁ (..,    ).                 %  (  ).                                .          . 
+,    appraisal  gain        .       .          ,      
+,     .           ﬁ     
+   , ://./ / //learning /. 
+ , ://./ 
+ 
+ﬁ  .      ,  experiential_awareness  ﬁ gain     .    ﬁ  (  ., ). ,    ,     .               ,   ,  ,           ,        . 
+  
+             impulsive_effect       .         behavior_control-ability      ().  ,          task.         certainty_effect ,              . ,            
+================
+  ,      participant_modeling   . 
+,    ,  experiential_awareness               ﬁ        . , belief            ,          .                                      .                             . 
+ 
+, .  , . ().    
+        
+ .       
+   ,   
+.    . , ., , .,  , . ().   
+ :     
+      .  
+   ,  , 
+ .    . , .  , . ().   
+perceived_vulnerability   .    
+       
+ :      
+,  . 
+, ., , ., , ., , .,  , 
+. . ().      
+  behavior.     
+    (), 
+,  . . 
+, ., , ., , .,  , .,  , 
+. . ().      
+  personality     
+.       
+ (),  . . 
+, ., , ., , ., , .,  , 
+. ().    ﬂ  
+  combining      
+  belief.  personality  
+[division]      
+ , , . 
+, . ().      
+ ﬁ. , /.. , . ().      
+ ﬁ.   :.. , . .  , . (). :  
+ impulsive_effect behavior     
+   .   
+:.. 
+, .  , . (). judging   
+    .    
+ﬁ    [knowledge] , 
+ . . 
+, ., , .,  Ø, . ().  
+        
+:      ﬂ  
+.        
+     , 
+ . 
+, . ., , .,  , . ().  
+        . 
+  , ():. , .  , . ().   
+   .    
+   ,  . , . . .  , . ().   
+ .     , 
+():. 
+, ., , ., , .,  , . (). 
+ﬁ appraisal      
+. , /.. 
+, .  , . . (). ﬁ   
+   .   
+        
+ (),  . 
+, .  , . ().  .: 
+isolation_effect          
+. :     
+ , ():. 
+, ., , ., , ., , ., , 
+.,  , . . ().    
+       
+.       
+  (),  ,  . 
+. 
+, ., , . .,  , . ().  ﬁ 
+  :    
+  perceived_vulnerability appraisal .  , 
+():. 
+, .  , . . ().   focus 
+     .  , 
+ ,  . 
+ 
+================

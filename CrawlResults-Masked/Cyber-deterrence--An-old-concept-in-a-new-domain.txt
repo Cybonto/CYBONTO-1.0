@@ -1,0 +1,791 @@
+ :   perception     
+ 
+   .  
+  
+    
+   
+ :  
+    
+   
+      extrinsic_rewards      learning  
+  .                     [policy]  belief   
+   ,   ,    . 
+================
+         extrinsic_rewards            ,   , ,  , () .  extrinsic_rewards                  
+    . 
+================
+   
+  
+ .  
+   perceived_responsibility   Collection          ,      ,    ,      ,      Collection  .     perceived_responsibility appraisal       Collection  ,      perceived_responsibility,    ,   ,       (),    ,  , ,  .           ,               Collection            .          techniques. 
+.  () .   .  ( - )     
+.    . . perceived_responsibility 
+  : 
+  perception     
+.   
+.    
+. ()
+   .    
+.   
+. task  
+.    
+.  [Organization] ()  techniques ()   . , .
+     
+.  [Organization] 
+  
+. /  ()  techniques ()
+    
+   
+ ,   
+. / () 
+. /  
+() 
+. /  
+  :    .   . 
+.    : , 
+. isolation_effect
+          .                      (, Deadeye_Jackal,   ). ,  ,       possibility_effect          loss  possibility_effect loss    .               loss   ,    internalization    ,       behavior  . ,          .   ,         ,     [norms]  behavior  ,       . 
+.  
+  [policy ],   
+.   : 
+.  
+ isolation_effect .  
+ 
+  
+.    
+. 
+  
+. isolation_effect
+  
+ 
+.     
+.   (  ) 
+   (. /)    . . 
+================
+================
+    
+ :   perception     
+ 
+   .  
+  
+  . , . 
+    
+  
+      extrinsic_rewards      learning    .          extrinsic_rewards            ,   , ,  , () .  extrinsic_rewards                      . 
+                    [policy]  belief      ,   ,    . 
+    
+ ,   
+================
+================
+isolation_effect 
+: 
+ : 
+  perception     
+ : 
+  
+ : 
+ 
+ : , 
+ : 
+ [policy ],   
+: 
+ 
+         .  
+                 
+    (, Deadeye_Jackal,   ). ,  ,   
+    possibility_effect          loss  possibility_effect 
+loss    .          
+     loss   ,    internalization  
+  ,       behavior  . 
+,          .  
+ ,         ,   
+  [norms]  behavior  ,      
+ . 
+================
+================
+ :   perception     
+ physical_quality    personality  ,         . 
+−Carl  ,   
+         .   
+       
+         
+ .             
+          (, Deadeye_Jackal,   ).   
+     
+impact   .   
+           . 
+  
+         .   
+   perception 
+   
+: 
+                      perceived_vulnerability  .          intrinsic_rewards     possibility_effect      [action ]. 
+ 
+     "  possibility_effect     
+        [activity] ."      
+   loss extrinsic_rewards . ".. .     ( 
+  protection_effect)      [action]      
+  forethought_capability   [action]      .. ."   , 
+     loss      possibility_effect   
+ .            
+================
+    loss           possibility_effect 
+. 
+loss  
+ loss         combining         
+    possibility_effect           . 
+  appraisal possibility_effect           
+ ,   belief           
+  . "    perception :     ,  
+         .. ." 
+    appraisal           
+appraisal    .      $,  
+$,          /.      
+                 
+.             loss    
+ belief. " ,         
+...   perception        
+( )          
+( )." 
+     loss    possibility_effect      
+  .  ,    possibility_effect belief    []   
+    []       .   
+  loss          . 
+   appraisal    belief        
+.               
+ 
+================
+          loss  .    
+      possibility_effect    ,     
+            
+     .        loss  
+            . 
+ 
+  loss      extrinsic_rewards   [rewards] 
+   .     perceived_vulnerability    
+              .   
+     ,          
+           .    
+        syllogistic_rules      
+,       belief        
+    ,      gain. 
+perceived_vulnerability            behavior_control-ability 
+ :.       extrinsic_rewards    segregating   extrinsic_rewards   
+      loss.     belief  extrinsic_rewards  
+            loss    
+ possibility_effect .    fear_arousal        
+.    certainty_effect loss perception  []     
+    []  loss      ,  
+    .         behavior_control-ability 
+             
+     loss   .      
+ 
+================
+perceived_vulnerability   .          
+         loss  . 
+perceived_vulnerability        belief    
+    .        , 
+ perceived_responsibility     .        
+               
+extrinsic_rewards       loss  possibility_effect     possibility_effect 
+.                
+     , ,       protection_effect? 
+   extrinsic_rewards       .   
+    syllogistic_rules   .      intrinsic_rewards  
+  personality gain.        .  
+               
+     ,  ,      .  
+             ,  
+     .       loss extrinsic_rewards . 
+,       :   loss    
+extrinsic_rewards? ,          ? 
+      
+loss 
+     ,     
+.        possibility_effect     
+ ,     ,      
+ .   
+       , 
+ 
+================
+,    . "      :  
+, intelligence   ,     vulnerabilities   
+ intelligence,           
+ syllogistic_rules ." 
+            loss.   
+             .    
+               . 
+ loss           . "    
+  ...          loss  
+   .. ."   loss       personality 
+       .     
+                
+ .         ,  personality 
+     ,    .    
+       loss   ,  possibility_effect   
+              . 
+  loss              
+   possibility_effect .         
+     [] .        
+()            
+  
+    
+          
+ . "            
+    ,         
+ 
+================
+".          .   
+          [Organization]    
+                 
+.    possibility_effect    .   
+    []    , 
+( 
+    
+    
+),         
+,(  
+  
+ 
+    
+)?        
+    . 
+ 
+ 
+          ,    
+        
+       
+.   []       ,     
+  .   ,     []   
+  possibility_effect      
+ .   []   
+internalization  source   ,    .   []   
+, 
+     
+, loss    
+,     []  
+    .     internalization      
+          . 
+ 
+             
+  . 
+   
+         
+     .         
+         belief      
+    situational_circumstance  
+.      
+ 
+================
+         ,     
+         . 
+            
+ 
+ perceived_responsibility   []   
+(   
+,      
+    
+-connected    , , 
+   
+).   
+  
+ 
+,   
+,  .      
+, 
+ segregating      .  behavior   
+situational_circumstance          
+            . 
+  
+               
+. 
+     ,      
+             
+ .           
+         .    ,   
+  , "  [ ]      
+         personality :    
+     ."  ,       
+     .    perceived_vulnerability     
+       .  ,     
+  possibility_effect        [capability]  combining 
+ . 
+ 
+================
+ 
+             
+  perceived_vulnerability         .   
+symbolic_modeling        mental_calculation,        
+               
+ .  intrinsic_rewards ,           ,    
+                   
+  .      ,   perceived_vulnerability    
+      intrinsic_rewards    .    
+      .          
+    .          
+        .      
+perceived_vulnerability,           .    
+          segregating. 
+   vulnerabilities         
+            
+    intrinsic_rewards         .   
+           process  
+            . 
+         "  perceived_vulnerability 
+ .. .        ."     
+       opportunity_for_criminal_acts        
+protection_effect  loss     .      
+       protection_effect    . "   
+ 
+================
+,       ()        
+        ()      
+ personality  ."   ,       
+      ,           . 
+           .    
+           .   
+                 
+.             
+  combining  source       .       
+  , ,      . 
+             
+ .             
+   protection_effect          
+ .     symbolic_modeling,         
+   protection_effect             
+           intrinsic_rewards .  
+   segregating     persistence  .     
+ ,    gain .  ,    
+          combining  . 
+              
+ .            
+       . 
+ 
+================
+ 
+  
+ 
+    
+,        
+  
+physical_quality 
+  .              
+- 
+ ,   .   Deadeye_Jackal      
+ .    
+ 
+,        
+  
+,     .        , 
+     , , Deadeye_Jackal  ,      . 
+            
+  
+     
+-xxx          
+.     .      
+, ,           
+       .      
+             
+ 
+================
+.              
+               
+  .           
+  ,             
+  
+     
+      combining  
+ 
+. 
+  
+ 
+         
+       .  ,  perception 
+   
+       .        
+    "    [   ]   ".   
+[]               
+    []     behavior_control-ability  .     
+             
+  physical_quality . 
+           
+   ()  "       
+  , , ,        
+    ,   /  ."  
+               
+    .         
+              ,    
+".. .            
+  .         ;    
+ 
+================
+         ."      
+ ,           
+     , ,          
+ personality perceived_consensus       ,     . 
+        .    
+    (),       
+     vulnerabilities        
+               . 
+           ,     
+ ,          .  
+    ,         
+               
+   behavior. 
+         .     
+    .          
+               
+        ?         
+       gain      
+         ?       
+           .  
+    .        .    personality 
+               
+ 
+================
+" "  . ,         
+. 
+            .   
+             . 
+               .            loss   .             focus  ,         .           . 
+           ,     
+       
+    . 
+     
+ possibility_effect        . 
+     
+        . 
+ 
+  
+ 
+================
+              
+  .            
+               
+      . 
+       .     
+ physical_quality       ,    physical_quality      
+       .     
+        .        
+           
+"         ...    
+.. . "           
+          .     
+    .  possibility_effect       
+           belief     
+      . 
+   
+ perception          perception  
+      .       
+     protection_effect      .   
+            . 
+       perception    combining   
+. 
+ 
+================
+    
+           loss 
+   .   loss          
+behavior_control-ability    . ,       
+        loss extrinsic_rewards .  
+    vulnerabilities      
+        .   mental_calculation   
+   loss extrinsic_rewards . 
+  ,  loss,       
+   ,   .  gain  possibility_effect loss,   
+ belief   gain  possibility_effect perceived_vulnerability  .      
+loss        .       
+           extrinsic_rewards. 
+      loss  .      
+        .     perceived_vulnerability  
+,     possibility_effect loss    .      
+             loss   
+.               
+             loss   
+.  [resource]    possibility_effect          
+      . 
+  loss           
+extrinsic_rewards    .          
+       ,        
+ 
+================
+              
+ loss.          loss, 
+         loss   .  ,   
+         .     
+ segregating      .    
+   loss extrinsic_rewards . 
+             
+  .             
+   []         [].     
+               
+       intrinsic_rewards       .  
+              
+ .   behavior_control-ability       protection_effect    
+.    loss          
+   . 
+    
+,           
+    .     ,      
+          loss   .   
+           ,    
+            
+      ,         
+      .         
+ 
+================
+    ,             
+    . 
+      internalization     
+.             
+          .  ,   
+   ,        
+             
+   .   ,        
+              
+.           .    " 
+  physical_quality"            
+            . 
+     
+          
+     .          
+                
+   
+    
+  . 
+ 
+    
+gain  perceived_vulnerability      ,      
+   .   []           
+ []     
+      .  , 
+            
+    , . 
+        
+           . 
+ 
+================
+             
+        .  []    
+      perceived_vulnerability        
+        .   perception  
+              [action]   
+ .     belief.    perceived_vulnerability    
+ .       ( )   
+ ( ).    ,  perceived_vulnerability    (/ 
+)      perceived_consensus     ( ). 
+  [policy]              
+. 
+.. .     personality          perceived_vulnerability   ...         , , ,         ,    behavior_control-ability  ,  ,  ,   . 
+      
+.       
+segregating 
+    
+          . 
+ possibility_effect       gain  
+possibility_effect     .   
+,    
+   segregating   
+     segregating  .         
+            
+-escalation    
+     .   
+    
+   ,    . 
+ 
+================
+ [policy]    
+          extrinsic_rewards :  
+ ,  perceived_consensus   ,    
+   .         .  
+    
+  
+extrinsic_rewards  
+      
+ 
+gain 
+.  
+ [policy]   perception    
+   ,   
+  perceived_consensus      . 
+ 
+  extrinsic_rewards   
+physical_quality      [policy ],   .      
+      
+       
+. 
+          
+  ,       ,  
+      
+. 
+
+   
+                            combining           possibility_effect . 
+       possibility_effect        . 
+..    
+   
+ 
+   "    ,    
+     techniques        
+     ."         
+            personality  . 
+         extrinsic_rewards     
+      .      ,  
+ ,  personality         
+ 
+================
+         .    
+ gain         . 
+           .  
+      
+  [norms]  []         . ,          simplifying   [norms]           .         perceived_consensus   [norms]  behavior   
+.. . 
+,        [norms]  
+behavior   personality      [norms]   .   
+   personality  participant_modeling  role   ,    
+  [Organization]        [norms ]. 
+   , ,      , ,        - []                   participant_modeling      . 
+ [policy]   
+.         
+ [norms]   behavior  .       
+   
+     perceived_consensus  . 
+    extrinsic_rewards,  ,     gain   
+.            
+ . 
+   
+  
+,         
+  . 
+   
+        
+ loss  ,   ,  perceived_responsibility  personality  
+ . 
+          
+ 
+================
+            
+    .   possibility_effect    
+personality 
+           
+. 
+ 
+,    perceived_responsibility      participant_modeling 
+  . 
+ 
+        
+  
+      fear_arousal    . 
+  
+  
+   
+gain   . 
+belief 
+       
+    
+:    
+,     
+         , 
+      .          
+,   
+   
+,     
+  
+ [capability]  
+internalization    
+ [norms]  behavior      . 
+    combining           
+   combining ,  loss        
+  
+     self-efficacy.       
+         .      
+         .     
+ 
+  belief  
+,      ,    
+         . 
+ 
+  ,   
+(,  :   , ), 
+. 
+ 
+================
+         ,         , ,  ( ): . 
+      .   "  : constraint,     ,"     , .  ( ): . 
+  , "   ,"  personality      physical_quality, . ..   . ,     (  :    , ), . 
+ , " :   belief   ?"    , .  ( ): ://.../////. (  ). 
+ ,  ,  , 
+   , ( extrinsic_rewards       ): . 
+ " ," . 
+       ,    ,  , ://../  (  ). 
+ , "        ,"  
+,  ,  ://..//// 
+/?= (  ). 
+ . , "        ,"    
+ , ( ), ://..//. (  ) . 
+ . , , ), . 
+   ( , :  
+ , "  , "   ,  ,  ://../////.?_r=& (  ). 
+ 
+, , . 
+, "  ". 
+, " ," . 
+, 
+, . 
+,  
+. 
+ 
+================
+ , "     ,"     ,  ,  ://..// /# (  ). 
+, " ," . 
+ 
+, "        ." 
+, " ," . 
+ , "     ."
+ 
+, 
+,. 
+,  
+. 
+,  
+. 
+,  
+. 
+  , ://..// 
+(  ). 
+ 
+     ,  ,    
+ ,     , ://. 
+.// 
+%%%%. (  ). 
+ , ",       ,"    .  ( ): ,://..//. (  ). 
+ . , "        ," . 
+ .    . , "     ,"     (  ) ://.///  (  ). 
+ 
+. 
+ , 
+   physical_quality, ,     (, :  , ). 
+    
+    -       ,   , , ,  , . 
+ , 
+    (,  :   ,  ), . 
+ , "     ," 
+ 
+================
+  ,  ,  , "    
+,"        :        [policy] (  :   , ) 
+ , "     ." 
+   , 
+    [policy] :               ,   (,  :   ,  ),  
+://..//////%% %%. (  ). 
+ , "     ." 
+ 
+ , 
+   , . 
+  ,  ,  , "    ," . 
+ ,     , "      ,"  , , ://../ //// (   ). 
+. 
+, , "      ,   ,"  ,  , , ://../ / (   ). 
+. 
+ 
+================

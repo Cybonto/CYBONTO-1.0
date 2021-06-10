@@ -1,0 +1,514 @@
+     
+,  () 
+syllogistic_rules     behavior   : 
+   ? 
+ ,  ,  ,   .    ,    ,   , ,  ,  
+      ,    , 
+   , ,  ,  
+(   ;    ;    ) 
+ focus               combining       behavior        .                     combining  .               ,         appraisal .                     .                ,   ,  ,   .              ,     behavior       combining  ,                 combining .                        ,     
+    . 
+: ./.. 
+.  
+            behavior,         behavior   , ,  extrinsic_rewards,    .  ,  [,]                        ;   . []        ,    ,          perceived_responsibility       ();   . []          .       ,            combining      behavior []    intrinsic_rewards     []. 
+           intelligence   .  .       persistence    ()     ,  ,  . 
+    ,   behavior     , ,  combining          ,             . ,                    behavior.  ,                       learning     ,                    ,         physical_quality. ,                . šć  . []           impact   ,         []:  :     ,  ,   ,   .  :                [knowledge ].    :        ,             . 
+                  
+ ==()=()        
+================
+, , ,   . . . . . ,  () 
+,  gain       .  ,    []   impact              ,   . []    impact      [resource] ,    .    . [,]      techniques     behavior    .   . []     [resource]              . 
+  focus,    :                  ,        ?            ,               behavior,             :          combining     behavior?   ,        ""    focus        participant_modeling    ,   ,      ? 
+   ,               ()           .         appraisal     .                    [,]   gain          [].        focus      ,    , ,    appraisal ,      .    ,       : , ,  ?  , 
+.   :         
+   ? 
+.    :      
+        
+    ,   
+         
+  ? 
+.    :    ,  
+       ? 
+      
+physical_quality      
+    [,,].           šć []:  ""   
+ 
+           ,  ""    []        ,   ""            . 
+                " [],"  "[]"  physical_quality.                   ,      . . . ,         . 
+             ,     ,      ,  ,    .         extrinsic_rewards   . 
+       combining             ,        .  techniques     []      ,                   [],          .     ,                  ,                focus [].    . ,         combining            . 
+ . ,                ,    extrinsic_rewards          .   ,   ,                .                        ,         .               ,           focus. 
+. focus  
+.     
+          ,      source             [].     
+================
+syllogistic_rules  ... 
+   ()   appraisal   () (. . ).           combining   .                [knowledge]        .    ,             .          focus,                 ,                  .        ,  , , ,   ,                       .     ,                .    ,            [],   "   "  [].    ,            appraisal   [knowledge]   . 
+                    .            .    ,    ,                 . ,        ,                         .       %                .    segregating    .        focus            .         ,   possibility_effect ,     .           (     ,    ).       personality    ,        . 
+. .         .       . 
+ 
+. . . . . ,  () 
+            []   appraisal  [].            .[].     ,         . 
+.                       ,      .         ,       ,    . 
+         .          ,       .         .       %   combining  ,      .             .                    .           .  .  combining        ,       . 
+.  
+                  ,                     ,           .                ,         .      techniques        . 
+.                      [,].    focus,           :     .—An      ""       ,      "."                    ,         comply_effect  . 
+focus .—A focus                   .      focus    combining        
+================
+, , ,   . . . . . ,  () 
+ .     .   ""            .            []. 
+[]  []     focus      focus  
+ focus     focus      
+ focus     focus      
+ focus    focus      
+ focus     focus  
+          
+  ,        .         ,          ,         focus . ,  experiential_awareness   %   ,      focus     .   %          focus         %      focus   .   %   ,   mental_calculation      focus ,      .    %   ,   ( ) focus   opportunity_for_criminal_acts       %    focus ,      .      impact      ,    mental_calculation      focus ,           focus ,      focus . 
+.      .        
+  
+  ( ).—The         ""     , ..,            .          :
+  ():          
+.        ()   
+         
+      ,    
+      ; ()   
+    [knowledge]  [skill]      
+  ,       
+        ,  
+    ","     
+     .
+  ():         
+  .   ,     
+         .
+  ():         
+            
+ . 
+ 
+; ;;; ;;;; ;;;;; ;;;;  
+;; 
+        []     combining             ,       . . . .   ( ).—The      ""           focus ,         .  ,                     .         ,           [],  ""    focus ,  ""  ""       .           . 
+ syllogistic_rules                  focus   personality :                [knowledge]      .    ,               certainty_effect  learning              focus  . 
+  ( ).—The       ""          , ,          .                physical_quality       .    ,        ,              ,     .     ,         , ,     focus       .                        extrinsic_rewards     learning   . 
+,  isolation_effect    , ,       ,          ""  ""     .  ,   []    
+================
+syllogistic_rules  ... 
+ .    , ,   . 
+         
+ 
+  
+    
+ 
+  
+  
+. . . . . ,  () 
+,    ,         learning    ,          ,            .      ,      learning                 ,      .   ,           ( ).         
+       belief   
+   ( focus    focus ).    ,               .  ,            .                 .         .—Previous            intentionality              (.., . [,]),                . . 
+   focus,  physical_quality                ,        ,                [,,].             . ,              ,         belief. ,           ,    isolation_effect  physical_quality        . 
+. .      physical_quality            ,      .             focus. 
+ 
+    personality      ,        .      gain      . 
+       [],       .       ,                .          possibility_effect      ,                    focus .                 .       segregating  .     focus ,            ,     ,       .     focus ,    (  )         , ;            focus    .     ,                    .   possibility_effect                             . ,    ,     %     ,  mental_calculation       , ,    focus.    ,       focus      ().                . 
+. [modeling]      
+ combining   
+.                                ,     . (),     ,                 (            ), ϵ   " "   
+================
+, , ,   . . . . . ,  () 
+            .    ϵ         : 
+  
+ ¼ β β;δ;; β;δ;; 
+  
+
+ β;δ;; ϵ: 
+ 
+ðÞ 
+   , δ;;     δ;; ¼        []    ,  δ;; ¼  ,   ¼ ;;.. .;;  ¼ ;;.. .;,   ¼ ;;.. .;.             ,               .   δ;;       ,         ,    . ,    β           " []"   ,  β;          []        []. 
+     ,   []       []   .     ,  focus         , , ,  . ,   []       . 
+.    ∼  .  [] :  
+.    ∼  .  [] :  .    ∼  .  [] : 
+ 
+  ,   []      []            [knowledge]      .                [].  ,                        : 
+ ¼ α α; α; ϵ; 
+ðÞ 
+             ;  ;          , .   α             α ( α, )   combining            (, )   . 
+ 
+.      
+  
+   .—To     (),     ¼  −   ; .., , ,  , ,   , ,  .           ¼        .  ,            () ,        ()     .                [],    ,  appraisal   personality         belief      .     ,   syllogistic_rules     ,               . 
+    ,     loss    () appraisal [,], belief             .      appraisal           combining  ,      : 
+ 
+ðβˆ;βˆÞ¼ðβ 
+;βÞ 
+ð − β − δ⊤i βÞ λβ; 
+ 
+ðÞ 
+   δ ¼ðδ;;; ≤  ≤ ; ≤  ≤ Þ⊤    []     []    ,  β    .    λ        ,       appraisal.   λ           . 
+ appraisal       β                (., . []).   ,   ()                  perceived_vulnerability.  ,     ,  ()            perceived_vulnerability  .                  .                    ,    ¼f1 ≤  ≤  ≠ .  ˆ ¼f1 ≤  ≤  ≠          . ()  δˆ 
+ 
+         .  appraisal    β⋆     : 
+================
+syllogistic_rules  ... 
+. . . . . ,  () 
+. .       () . 
+ ¼ δ⊤ˆ β⋆ ϵ; 
+ 
+ðÞ 
+   ϵ             .    . ðÞ         . 
+.      
+     
+             ,                ,    . .                  .            []          []    .            
+       ,               []    .         =,  =,   =       ,            .       combining               ,             .               focus []: .              .                ,   []        . .          ,                 . 
+. .       () . 
+ 
+================
+, , ,   . . . . . ,  () 
+. .       () . 
+ gain,          appraisal           :       β⋆ˆ     ,      
+ 
+β⋆ˆ  
+ 
+    α< . ,      β⋆ˆ      α< 
+ 
+. .    β⋆ˆ>    
+ 
+ physical_quality  (#) ,    β⋆ˆ<   
+ 
+    (#) .              . 
+.  
+.   
+         (  ¼ .,  ¼ ., <.)     .  ,                  ,                ,          α <. . 
+.  :       (    ),           ,  
+ .           (). 
+       ¼ .; .;  ;<..          .           ,       []      []   .  gain   ,          ,         .                . ,   []          ,               .      (. ),       , , ,     (  )          ,  
+ .       ()     ( ). 
+[]  (α)   
+ . .**  −0. .**  −0. .** 
+ 
+ []  (β⋆)   . .**   −0. .   −0. .   −0. .   −0. .   −0. .   −0. .*   −0. .   −0. .   −0. .*   −0. .*   −0. .*   −0. . 
+−0. . 
+−0. .   −0. .*   −1. .   . .* 
+================
+syllogistic_rules  ... 
+     .                 .  ,              ;             ;                  ;              . 
+.  :      ,           ,         ¼ .,  ¼ .; ;<.,          .  gain   ,              α ¼ . ,   , ,     α ¼ . .           ,   , , ,  . 
+          (. )     ,               .     ,   : , ,             ,   
+ .       ()     ( ). 
+. . . . . ,  () 
+ []  (β⋆) 
+  . .**   −0. .*   −0. .**   −0. .   −0. .*   −0. .   −0. .   −0. .*   −0. .   −1. .*   −0. .   −0. .   −0. .*   −0. .   −0. .*   −0. .*   . .*   −0. .   −0. .   . .   −0. .   −0. .*   . .   . .   −1. . 
+ 
+, ,            .         behavior             . 
+               ,     : 
+.   ,    ( 
+[])         
+,     .  ,   
+      
+,           . 
+         
+        , 
+      , 
+    . ,  
+      extrinsic_rewards 
+  ,        
+     ,      
+.        
+         
+         
+.       
+    ,   
+    ( .). 
+.    (, ,  ),   
+        , 
+          
+  ,          
+  .    ,  
+       , 
+      []. 
+.  :      ,            ( ),         ¼ .; .; ; <..                 α ¼ . ,        α ¼ . .    certainty_effect  ,    . 
+    ,     , ,                  α ¼ . ,               .  ,  ( [])       ( certainty_effect ),                      .         /  /,              ,          
+================
+, , ,   . . . . . ,  () 
+ .       ()     ( ). 
+ [], ,         . 
+ []  (β⋆ 
+).       
+  . .**   −0. .*   −0. .**   −0. .   −0. .   −0. .   −0. .*   −0. .   −0. .   −0. .   . .   −0. .   −0. .*   −0. .*   −0. .   −1. .**   −0. .   −0. .   . .   −0. .**   −1. . 
+         .         .       ,           ,     ,  , ,         , ,     .       : ()           ,              ; ()        ,      . 
+   ,           : 
+.          
+         
+ extrinsic_rewards.    ,     
+     ,   
+    ,      
+. ,      
+""        
+. 
+.         
+    .  , 
+         , 
+         
+    .      
+          
+ certainty_effect      
+experiential_awareness     ,    
+ 
+    .      ,         ""      , , ,        , ""      .  ,         ,        .             ,         . 
+.  
+.        
+   behavior        combining        ,             behavior.     [. ()]             .      ,                 . ,                .              ,      segregating   combining           combining  .       (.  ., )       .        [],     (.)    (.)         (. < <.Þ.                     .         , , ,  ,           ,             loss (   ).            focus     belief     learning   .    ,       syllogistic_rules . ,     , ,        ,                   focus  . , .                     []  ,          . 
+================
+syllogistic_rules  ... 
+                 (   ).  gain                     ,              .                     . 
+      (. )    ""         ,          ()      focus (  ).  ,                  (  )    ,           (). ,    ,            []  .  perception                ,        frustration_of_needs   :             (      extrinsic_rewards - ),               . 
+                 :         =         (    ),              .     [,,,],          =               source. 
+.    
+                  .   ,           . 
+             ,             .     ,            "     ,   ."           belief   ,     .  gain,           certainty_effect                      .    ,               : 
+ 
+. . . . . ,  () 
+.   ,     
+       
+        . 
+  ,      learning  
+ . 
+.          
+      
+         . 
+.    frustration_of_needs  ,   
+         
+   ( )     
+  . 
+  ,      "focus "  " ,"   personality    "      !    extrinsic_rewards     ."  gain,          belief : 
+.         gain 
+   extrinsic_rewards     
+. 
+.      intrinsic_rewards , 
+         
+extrinsic_rewards []. 
+       (     []),             ,            .     personality   [modeling]    ,           ,  ,               .            ,     impact   belief   . ,            .                  experiential_awareness           . 
+.      
+   
+  ,         ,    ,    ,                 perception          ,                . 
+,  focus          [capability]   
+================
+, , ,   . . . . . ,  () 
+.                         appraisal   ,           .        [capability]                     [,],         .  ,  gain  []  segregating       segregating  ,       . ,                participant_modeling   personality role   , ,          ,           . 
+.  
+                   .          ,                personality             .   behavior_control-ability    comply_effect          focus         []  .  ,    ,    []   isolation_effect         ,       evaluating.             behavior    =            = . 
+                  combining   extrinsic_rewards,       . ,           ()       %   combining extrinsic_rewards  ()      %           .   ,            combining    . 
+.          simplifying                   . ,  focus      syllogistic_rules   behavior         ,                       .    focus            focus. 
+ 
+,                    ,      process     .          personality    behavior.                . 
+,    combining             personality      , ,   participant_modeling -     ,         .       ,      appraisal               . ,                      ,        ,       .            ,       .      ,   focus           .     extrinsic_rewards -        ,     segregating            .  ,                        [].   focus   perceived_vulnerability              . 
+      focus                  behavior   .          focus                  . 
+,                  [],        appraisal          .      perception       behavior       .           ,      []   appraisal  intrinsic_rewards   . 
+,           extrinsic_rewards                .  ,      intrinsic_rewards  perception       appraisal ,     perception 
+================
+syllogistic_rules  ... 
+,        ,              ,           focus. 
+ 
+                  .         .    gain     ()       . 
+:         
+.                       :   ;    ;   ;       ().                  perceived_consensus -      ,       personality    [].    physical_quality          : , , ,  .         .       ,        .                  ,        . ,          personality physical_quality          physical_quality    ,      physical_quality  physical_quality   .  protection_effect ,            ,  gain             
+ .  physical_quality            ,      . 
+      ()  .  .  .  .  .  .  .  .    .    .    .    .    . 
+ 
+. . . . . ,  () 
+. .      physical_quality    ,      .             ,              . 
+ focus             . 
+  physical_quality     ,             ,     .        ,           physical_quality ,         .        ,          physical_quality ,       . ,       perceived_vulnerability   ,           ,       combining             . ,         ,              .    . ,                . 
+.        focus   ,      (   )          .          .     ,                       focus   focus. ,                 , ,   focus .           . 
+ .        focus    ,    . 
+             focus            focus           
+================
+, , ,   . . . . . ,  () 
+[] . ,        
+      :   
+focus, . . . . ,  (). 
+[] . ,     
+behavior, ,  , . .  . 
+. . ,  (). 
+[] . , . , . ,  . , 
+syllogistic_rules      
+perceived_responsibility       , 
+. . . . . ,  (). [] . . , . . , . . , . . , . . 
+, . . ,  . . ,   
+ perceived_responsibility       
+  , . . . . 
+. ,  (). 
+[] . , . , . . , . , . , . ,  
+. , [modeling]    behavior  
+,       
+       
+ ( ,  , , ), . . [] . . , . ,  . ,  
+: judging     
+   ,    
+  (), . , ://./ 
+./.. 
+[] . , . ,  . , 
+  :       
+ ,       
+  @ @  ( , 
+ , , ), . . 
+[] . , . , . , . , 
+ . , judging    
+    [activity]    
+,       
+     , 
+,   (), . . [] . . , . . ,  . . ,  
+  :     gain 
+ extrinsic_rewards,      
+   [knowledge ], , ,  
+ (), . . 
+[] . . ,      
+    intrinsic_rewards   , 
+ . . ,  (). 
+[] . , . ,  . ,     perceived_vulnerability?  
+    ,      
+     , 
+,  (), . . 
+[] . . , . . personality, . . . , . . 
+,  . . ,      
+:   source  , . learning. 
+. ,  (). 
+[] . . , . , . . ,  . , 
+judging       
+  ,       
+    , ,  
+(), . . 
+[] . š, . ,  . ,    : 
+    ,  , 
+(). 
+ 
+[] . .   . . ,    
+,     belief  
+,   . . , . ,  . . 
+ (   , 
+, , ). 
+[] . .   . . , judging  
+behavior      
+appraisal, . . . . . ,  
+(). 
+[] . . , . , . , . ,  
+. . , judging  impact    
+        
+, . . . ,  (). 
+[] . , . . , . , . . 
+ñ-Merino,  . . , @ : 
+        
+ , . . ,  (). 
+[] . . , . . , . ,  . . 
+, , ,     
+ , . .  . . . ,  
+(). 
+[] . . , . , . , . ,  . . 
+,         
+?, .  ,  (). 
+[] . , . . , . ,  . 
+,      
+ :  , . . . 
+. . ,  (). 
+[] . .   . ,   
+        
+    behavior,     
+       
+,   . . , . . , . , 
+ .  (    
+, , , ). 
+[] . , . ,  . ,    
+       ,  
+       
+  ,   .   
+ .  (, , ), . . [] . , . . ,  . . , 
+  extrinsic_rewards      
+, . . . . ,  (). [] . . , . . , . . , . . ,  . . 
+,      extrinsic_rewards?  
+    , . .  
+. . ,  (). 
+[] . . intelligence  . ,   extrinsic_rewards :   
+appraisal      , 
+. . . ,  (). 
+[] . . intelligence, . . ,  . . ,   
+ behavior   :  
+    appraisal , . 
+. . ,  (). 
+[] . . , . , . ,  . ,  
+ :    judging   
+     , . . 
+. . . ,  (). 
+[] . ,  loss     
+, . . . . .  ,  (). 
+================
+syllogistic_rules  ... 
+[] . , . . ,  . ,    
+  behavior       
+   ?,     
+    , , 
+,   . , . ,  . .  (, 
+ , ). 
+[]    , , :// 
+.../. 
+[] . . , . . ,  . . ,   
+       
+     , . . 
+. . . ,  (). 
+[] . .   . . ,    
+  ,       
+personality   (  
+  ,   ),   
+. .  ( -  physical_quality  , 
+, , ), . . 
+[] . , . ,  . ,   
+learning      , . 
+.  . . . ,  (). 
+[] .   . ,    
+   , . . . ,  
+(). 
+[] . ,    , :// 
+..//. 
+[] .   .,    , .  
+Source  ,  (). 
+[]   , :      
+ , .. (). [] . .   . . , [modeling]   
+        perception  
+evaluating , . . appraisal. ,  (). [] . , . , . , . ,  . , 
+        
+   ,      
+   , ,  
+(,  , ), . . 
+ 
+. . . . . ,  () 
+[] . .   . . . , :   
+       
+, . . . ,  (). 
+[] . , . ,  . ,  
+       , 
+. . . ,  (). 
+[] .   . ,      
+, . . learning. . ,  (). [] . . ,    :     
+ , . . . . ,  (). [] . . , . , . . ,  . . 
+,   :    
+ ,        
+     :   
+     (). 
+[] . , . ,  . . , intrinsic_rewards  
+       intrinsic_rewards, 
+. . . .  ,  (). [] . .   . . ,    
+    personality ,. . ,  
+(). 
+[] . .   . ,   behavior 
+ mastery_experience       
+,        
+ , , ,   . , . 
+,  . .  (,  , ). [] . , . ,  . ,  gain : 
+     combining  
+    gain, . 
+. .   learning. ,  (). [] . . , . . , . ,  . . 
+, evaluating      
+belief, . .  . . . ,  (). [] . . . , . . . ,  . . ç, 
+     ,   
+,     : 
+       
+ ( , ), . . 
+================

@@ -1,0 +1,380 @@
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+  
+ loss  
+ 
+  
+ 
+  
+  
+   
+ 
+   
+ 
+ 
+  
+personality   
+ extrinsic_rewards  
+   
+:    
+   
+    
+ perceived_responsibility   
+    
+  
+/   
+    
+ 
+ /  
+ 
+    
+  
+ 
+   
+   
+   
+participant_modeling -   
+ 
+   
+  
+ 
+  
+ [policy]   
+      
+   
+  
+/ / / 
+ 
+    
+ 
+  
+ [activity]  
+ 
+  
+   
+ 
+  
+    
+ loss        perceived_vulnerability 
+ 
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+  
+   history    frustration_of_needs    (  ) 
+extrinsic_rewards     ( )    
+      
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+  
+     Exfiltration        
+extrinsic_rewards      
+    
+ /   
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+  personality   
+     Exfiltration   Exfiltration (///)      
+          
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================
+ loss        perceived_vulnerability  
+©     
+[  ]           . 
+ 
+================

@@ -1,0 +1,726 @@
+  
+     
+      personality  
+   perception 
+ &   
+:   
+:  
+:  
+:  
+================
+isolation_effect 
+       extrinsic_rewards         perception    ,        . , personality     ,           .               .      -plore  personality      ,          .    perception   personality                   .               .         perception   belief              . 
+isolation_effect   
+  ä       å ä   ä å  ä å    ,    å  . ä      ä- ,      ä å .  ä ä ä    å    ä.          ö ,   ä   ä ä   .     ö        ..          . ö   ä       ä.    å ä        ä  ä å     ö     å. 
+ 
+             protection_effect                  . 
+ 
+ , ,  (),   ,   ,  , ,    () 
+================
+   
+ . . . . . 
+..........................................................................................................  ..................................................................................................................... ............................................................................................................................ ............................................................................................................................ ................................................................................................................... belief .................................................................................................................. 
+ . . .. .. . .. . .. .. .. .. .. . .. . .. .. .. .. .. .. 
+  ...............................................................................   ...........................................................................................................   personality .................................................................................... 
+...................................................................................................................  
+intrinsic_rewards ............................................................................................................................. ...................................................................................................................... 
+..............................................................................................................   ................................................................................................................... 
+............................................................................................................................ 
+.................................................................................................................. 
+ ................................................................................................. 
+................................................................................................................... 
+    ...............................................................................   ................................................................................................  
+ appraisal .........................................................................................  ................................................................................................................ 
+ .......................................................................................................................... 
+ ..................................................................................................................  
+ ....................................................................................................................... 
+.....................................................................................................................  
+.................................................................................................................. 
+........................................................................................................................ 
+ . . . .. . .. . . 
+perception ...............................................................................................................     ...........................................................................................  ...................................................................................................................   .................................................................................................................. 
+ ............................................................................................................  ..............................................................................................  
+....................................................................................................................  ....................................................................................................................  ..........................................................................................................  
+ . . . .. .. 
+.......................................................................................................     .....................................................................................   ................................................................................................. ................................................................................................................. 
+ ...............................................................................................  
+................................................................................................................. 
+================
+. .. .. . . .. .. .. .. .. . 
+ ................................................................................................... ..............................................................................................................  .........................................................................................................................  ................................................................................................................    ......................................................................................    .......................................................................................  ................................................................................................................   ..................................................................................................   ............................................................................................................  ...................................................................................................  ........................................................................................................................... 
+ . . . . . 
+  belief ..................................................................................     ................................................................................................  extrinsic_rewards   ............................................................................................  .............................................................................................................   .................................................................................................................  belief .................................................................................................................... 
+  -     
+================
+  
+    personality                .    ,     ,          personality      (& , ).                     perceived_vulnerability       . 
+,     ,       personality   participant_modeling personality .                       .                      ,            ,              . 
+      (, )          ,     ,    syllogistic_rules    .       ,                     ,    .   perception   ,         . 
+      ,    (, ), 
+"       ,   ,                         ." 
+     belief   ,          ( )     personality                 . 
+     ;                ,               participant_modeling  " "? 
+.  
+                                      .          .             . 
+   perception           .                .                   perceived_responsibility    . 
+ , ://..// 
+ 
+================
+                . ,            perception     ; . 
+  / perception    syllogistic_rules,                        .                        .  ()              combining    ; .             . 
+               ,       (, ),   ,    .      loss       .     perception      ,         ()       ,  ,     -to-peer . 
+ :  .       . 
+            ,    ,    protection_effect         -   perceived_vulnerability       (  , ).      loss,    perceived_vulnerability    perceived_vulnerability                   (& , ),      mental_calculation          .      personality          ,     .       ,         intrinsic_rewards         . 
+ , ://../ 
+ 
+================
+        personality    .   , ,     ,       ,                 -to-peer    . 
+                    ,       ,   ,              ,      ,   . 
+ :  .              .              . 
+         .        possibility_effect            segregating      .             (& , ).                         source,            . 
+       ,  perception       personality             ,           perception             mastery_experience  .                 loss     ,   perceived_vulnerability           .            . 
+ , ://../  , ://../ 
+ 
+================
+           ,          participant_modeling ? ,  personality      perception     (& , )          ,                 source    []       .        combining     possibility_effect,           . 
+.  
+    belief                  perception      personality       protection_effect,             -to-peer  . 
+.  
+           belief      extrinsic_rewards perception (, ).    ()   process   ; 
+• 
+perception. 
+• 
+. 
+• 
+. 
+• 
+appraisal. 
+• 
+belief. 
+perception   perception                  .     belief   . appraisal                 .  belief       ,  [knowledge] intrinsic_rewards     impulsive_effect            .         intelligence ,        . 
+ intrinsic_rewards perception,           .      focus    ,    (),        protection_effect        .               ,     ""  .                belief    focus   .           .            belief. 
+   -      , ://..      ,    
+ 
+================
+        ,     ().      ,        .    [circumstances]            .  perceived_vulnerability                  physical_quality        personality .      ()     ,    ,   ,  ,         . 
+                                          (& , ).      ,               ,               . 
+       ()  ..       ,     perceived_vulnerability   .                             . ,               personality     . 
+.  
+         belief         personality - ,         segregating      perception.        perception              . , judging                     .                       . ,    segregating ,            participant_modeling   . 
+. belief  
+        .        intrinsic_rewards        ,      .     perception          .  belief       . 
+ 
+================
+    
+ [goal]   belief       perception   personality         ,   intrinsic_rewards              ,  perception        . 
+.   
+            personality  perceived_consensus         .            ,    (, ). 
+• 
+       ,         . 
+• 
+        , ..       . 
+• 
+             . 
+          history,       (..  )       (),  -                syllogistic_rules    impulsive_effect .   ,               ,        . 
+ :        . 
+        ,   ,             .          ,       ,           .           combining 
+ 
+================
+           .                . 
+                      , ..                     . 
+       combining        /,   / .            .     ,        ; ,                  . ,              .        ; ,   , ,       ,    . 
+ :  /      . 
+      belief    /,           ,   .                  syllogistic_rules  ,      .                  belief     ,    . 
+.   personality  
+     Collection       personality            perceived_vulnerability       .          isolation_effect  .  ,   ,                . 
+ 
+================
+        ,              .    ()                belief     -  (       ): 
+.                 
+ . 
+.             . 
+.      . 
+              perceived_consensus -   belief             . 
+                                     ,       . 
+   behavior_control-ability    : 
+"  " "       belief               .         , ,   ,           focus   ." 
+                             . ,  focus   belief      ,         imagination      ,             . 
+    []       : 
+• 
+,        . 
+• 
+,          . 
+• 
+,   ,      . 
+• 
+,         . 
+• 
+, ..         protection_effect    -    . 
+           ,              physical_quality.    ,        physical_quality          - .    perception                    .        
+ 
+================
+          ,         . 
+                   -    physical_quality     ,     , "  "    " ".         intrinsic_rewards. 
+..  
+      /  (, ): 
+"        [resource]        perceived_uniqueness." 
+perceived_uniqueness        , ,  .  -       perceived_vulnerability             .            .. isolation_effect . 
+            (, ): 
+• 
+ ,      .   . 
+• 
+  ()    ()                 -  . 
+• 
+ ,              . 
+.. intrinsic_rewards 
+intrinsic_rewards        : 
+"certainty_effect self-efficacy   , , ,      ." 
+     protection_effect        participant_modeling personality   .           ,     intrinsic_rewards     personality            .         protection_effect  perception  . 
+,         ,    personality          belief.         ()  : 
+  , ://.. 
+ 
+================
+"   personality                 ,      combining     ." 
+               self-efficacy   ,       ,                       .    personality                       . 
+.  
+          personality           ().       learning       combining        ,          .            ,      . 
+          (, ).            .            ,          (& , ).                  []        combining      (, ). 
+..  
+             perception         (& , ).         source        gain participant_modeling -   simplifying perceived_vulnerability   . 
+    perception            ,    ,          ().      participant_modeling          ,             (, ).            ,     .               .     -                       .            ,        . 
+          ,                                       .          ,       (& , ).           .             personality  ,   . 
+              .           .    participant_modeling     
+ 
+================
+              .  perception              .    techniques                             ,      .        . 
+ :   .             .          . 
+     ,             (& , ).          syllogistic_rules, ..        .       ..      ,                 behavior    ( & , ).                         ,              .  behavior          (& , ). 
+    participant_modeling           .                 ()    (& , ).  ,             ,   (, )     .                     .       .                 (& è, ).              ,         .                    .                    .                                . 
+ 
+================
+      ,               .        personality       .     ,     ,    extrinsic_rewards           .         ,        .                            combining     participant_modeling  . 
+ :         .                  . 
+.   
+              , .                  ,         .          .      Collection  ,     .        ,                  (  , ) 
+..  
+                 (  , ).                ,  . 
+    Collection       . ,      ,        , ,   .             .      . 
+      , ..         , 
+ 
+================
+   ,                           (). 
+ 
+     . ()      , ..          ,        .      ,       : 
+• 
+,         . 
+• 
+,             ,      . 
+• 
+,      protection_effect    . 
+• 
+,      . 
+• 
+,  . 
+• 
+,           . 
+• 
+,    ,   .. extrinsic_rewards,       . 
+  
+         ,             ().   ,   ,     , , learning, ,    : 
+• 
+,                       . 
+• 
+,                     . 
+• 
+learning,  learning   ,              ,  ,          . 
+• 
+,               .        . 
+• 
+,            .  ,     ,        .        . 
+• 
+,      ,         ,    .           . 
+                 , ..                    
+ 
+================
+     .       protection_effect          . 
+..  
+     combining     ,          perception   (  ., ).                 .          ,      .                  .       , ,      .       .                 .                  .                protection_effect       . 
+                      .     perceived_vulnerability;           combining              .          perception      participant_modeling   task     . 
+       .              ,            .           .                ,       .                    . 
+..   
+           ,        ().              ,     ,    ,               .               .        learning            . ,                    . 
+..  
+            loss       (  ., ).            perceived_vulnerability      ,    .    perception            perceived_uniqueness   .                 .           . 
+                     
+ 
+================
+  .  ,          segregating .                    task.    ,   ,        -   : 
+• .        . 
+• .                  
+   . 
+• ,      . 
+ perception      ,       [activity]        ,                     (). 
+..      
+                  (  ., ),              .        ,         intentionality.      perceived_responsibility        ,            .          ,          . 
+   ,              .                          .                fear_arousal       . 
+.    
+    ()            -  (  ., ).               participant_modeling      .                       .          ..             . 
+         ,   .               .                  .     perceived_responsibility        . 
+..  appraisal 
+    appraisal                ().    ,           combining     .       ,  
+ 
+================
+      .             ,           .  gain,   ,       ,     process   
+  . 
+.   
+           :    personality        ()           .     focus  personality                       .                combining   .                        : ,   . 
+     loss  perceived_consensus      .    
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+,    ,  ,  
+   
+                  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+() () () 
+ :           .   &  (). 
+           ,   .              perception,                          perception.         ,            .                  .       ,            
+ . 
+ 
+================
+        
+       
+           
+ 
+  
+ 
+,      
+ 
+ 
+ :        . 
+..  
+    perception     .         -       , participant_modeling              .              ,                    .    ,      .            ,          .     .             . 
+..   
+                     .        intrinsic_rewards                .             . 
+..   
+        ,                 combining,    . combining             .        .               .  ,   ,          .     perceived_vulnerability        loss.             loss     .         opportunity_for_criminal_acts             source    . 
+..  
+                             ,   . 
+ , ://../ 
+ , ://.///  , ://../ 
+ , ://../ 
+  , ://..// 
+ 
+================
+                  -        . 
+..  
+             syllogistic_rules     -  ,  ,          combining    .           ,                          . 
+..  
+    participant_modeling ,      " ",           .      .        ""        .         .                  .         personality  .       ,   " "   ..   .             ,         belief                     . 
+ , ://.../  , ://./. 
+ 
+================
+ perception 
+ perception                      ,                   .              perceived_vulnerability  participant_modeling  ,   .     .                          ,         .       ()        mental_calculation,   ,   .  focus   perception  personality  ,          .               . 
+           .                  ,       .             .                     .           ,          intrinsic_rewards       . 
+     participant_modeling          .               .            ,           .                    .    learning        combining         .     possibility_effect     ,           segregating combining             . 
+    perception       .                                          ,           .       ,                   learning  .   possibility_effect       possibility_effect   personality            belief.           ,    .                 ,     
+                   .             ,     . 
+            ,           [action]           .           ,          .     ,         ,               .              participant_modeling     .         
+ 
+================
+                 . 
+                        .                  .                syllogistic_rules ,     . 
+                ,   ,    source   .              protection_effect               . 
+.     
+ perception       .                  : 
+• 
+,       .  ,       task. 
+• 
+ ,                 .                    (, ). 
+• 
+       simplifying               segregating    source.         . 
+• 
+  source    perceived_vulnerability    perception   . 
+• 
+,          personality           . 
+           ..        : 
+• 
+,                       . 
+• 
+,    ,    ,            ?                    . 
+• 
+            .         combining  intrinsic_rewards      
+ 
+================
+.   
+          process. 
+  
+       .       .      combining  . 
+ 
+  participant_modeling    .         .    ,   . 
+  
+     .    . 
+     .   participant_modeling   .    . 
+  
+   syllogistic_rules  , .. , .      . 
+   . 
+.   
+              .                   .                  .          ,       .     perception     . 
+      .        syllogistic_rules        .                 . 
+ 
+================
+ :         .        . 
+ :  syllogistic_rules        . 
+ :                . 
+ 
+================
+..   
+     ,                                 . 
+  
+               .                ,                ,  ,        .                  ,   ,    ,      .       . 
+  
+                    learning    .                             .            . 
+learning  
+                      .          %            learning          .                                    .                ,                 . 
+  
+                      .         .                  . 
+  
+           .            .             ,           . 
+.   
+       /   (  ).                       .   syllogistic_rules      ,             . 
+ 
+================
+..  
+                     .           ,            . 
+       [action]  .                     .             ,      .                          .                         .        ,      .            ,         .   possibility_effect        .  appraisal     syllogistic_rules  intrinsic_rewards   . 
+.   
+     combining            combining          participant_modeling  .  combining            techniques.       combining              .       . 
+.   
+              .           .                                         .      impulsive_effect                  . 
+ 
+================
+  
+                .     extrinsic_rewards  (, ),         perception.                  .     ,       perceived_vulnerability  "   ". 
+.    . 
+   segregating                   perception.           : 
+• 
+  . 
+• 
+ ,       . 
+• 
+      . 
+.    
+        .      #.     .            ,       [experience ].      ,  ,      participant_modeling  isolation_effect    source . 
+.  
+               . 
+..   
+  [goal]    ()                      .   belief     physical_quality  . 
+      , ,    (& , ).         . 
+ 
+         .  ,      .      [activity ],         [function]    .   ,       ,    belief .         . belief                
+ 
+================
+  .        perception      . 
+ 
+      ,     .            ,      .             focus    coding        .     ,        , .   ,     . self-efficacy          . 
+ 
+                     personality .                   .       ,    belief     ,   focus  . ,     ,     ,  . 
+ 
+                 .     ,  , ,    coding . 
+..  
+    . ()              .                  .                  , .      . 
+      :   .             .     focus    ,     .    ,           .        appraisal   .         .                       ,      -   . 
+        .           .      [function] -              .           . 
+       ,         .             .      ,        .            . 
+ 
+================
+  ,           .                      .       perception                           perception    . 
+             ;                     belief. 
+.   
+                                 .           . ,           perceived_vulnerability      .        ,    [knowledge ],             personality .                   , .                 . 
+..  
+    source       (& , ).          .  ,               . 
+          ,   [goal]                       .                . 
+      .. , ,  ,   ,  techniques    ,     .  perception                    .             ,   personality              . 
+..  
+               .               [resource]  task.                  .  ,     source . 
+ , ://../  , ://.// 
+ 
+================
+        , .,     , ..     .. learning,         /           .         ,             .            .   ,           ,              .              .                  .  gain     perception                    . 
+   #          belief    .   ,          ,  #.                ,              . 
+.   
+  ,  ,         .                  .            mastery_experience. 
+ 
+================
+ :  . 
+.     
+                     .            ,                .                             .                  .               ,       [experience]   . 
+           .                    .          .            .               . 
+ 
+================
+ :       . 
+ :        . 
+ 
+================
+..    
+  ,   ,    ,      .                          .      ,  ,  ,     .             .                 . 
+                                   ,         .    ,                  -     . 
+..   
+                 .            .                     ,        .       intelligence ,           appraisal  simplifying  impact  .                  . 
+..   
+     belief,           .          ()   . 
+          .             :   .          .     combining     ,         .     combining       -  Collection ,  . 
+,    .      ,              ,                ,     combining        .            personality   ,  ,                      ,  ; <>. 
+..   
+            perception.          .  techniques              .                .          combining     techniques                   
+ 
+================
+.         .                         . 
+ :        combining /. 
+..   
+  ,          .                                  .              . 
+                               .    techniques              .            combining      ,       ,   ,              . 
+.  
+    syllogistic_rules         (& , ).                           .       intentionality      .                     .    ,  ,    ""       . 
+ 
+================
+          : 
+  () 
+{ 
+ =  (); 
+ = .;/ 
+ = ; 
+ ; 
+= .(); 
+.(, ); 
+.("    
+  ."); 
+} 
+             .          : 
+  () 
+{ 
+ =  (); 
+ = @":."; 
+ =  ( 
+.(), 
+":", 
+ () 
+); 
+ ; 
+= .(); 
+.(, );
+} 
+   ,              ,                      .          . 
+ 
+================
+   belief 
+ belief           ,  perception          perception.      , ,         . 
+.      
+        belief        .           ,             intrinsic_rewards             participant_modeling .            belief         . 
+. extrinsic_rewards    
+  extrinsic_rewards           intrinsic_rewards        .              intelligence         .      ,          .     ,                           .     belief              . 
+   extrinsic_rewards  (, )      perception     .             combining               belief .         perception, , ,    belief                .  belief           thinking        personality . 
+                    ,    ,     ,      source        ,      fear_arousal               .    ,                      personality       .                    .           belief          . 
+         impact     ,   ,    .         ,         .                .                                 
+ 
+================
+    .   [experience]    ,          perceived_vulnerability      ,       impact     ,   . 
+        personality                   .   gain                personality    .                  ,      . 
+           intrinsic_rewards   . .                    focus               learning    .        [experience]     ,       ,                 . 
+           ,       ,      learning             . 
+             personality            .      ,       combining            . 
+  ,           belief   personality           segregating           . 
+.   
+      extrinsic_rewards   belief     .        ,   ,       ; ,   .                perception.           perception.          .                  . 
+ perceived_vulnerability         ,    ,  isolation_effect  .  gain                .          perception     .           .       techniques    combining  participant_modeling                   .            . 
+               ,       ,              .            .  belief               personality  techniques,        
+ 
+================
+  protection_effect     .     ,       techniques             .    ,                  personality techniques. 
+  ,      combining             ,    .     persistence                 possibility_effect  ,        . 
+                    ,      focus                  .                   . 
+.   
+                 .          perception               perception.                     . 
+                        ,           ,                .            ;           .                     gain . 
+             personality.        extrinsic_rewards     focus         participant_modeling   appraisal.                       ,                  . 
+                  .             ,              belief                        certainty_effect            . 
+ 
+================
+. belief 
+ belief           personality       extrinsic_rewards          personality perception.            .                           .        physical_quality              [goal]   .  perception          .                               . 
+      perception         .      perception     .       possibility_effect    ,     ,              personality   ,           . 
+                 belief                     . 
+ 
+================
+ 
+, .,& , . (). judging     .           . 
+, .,& , . ().   :  . ( .). : . 
+, ., , .,& , . ().   : , , , . , : . 
+, ., , ., , .,& , . ().        .            . 
+, . .,& , . ().  . :  . 
+, . . ().      :  . 
+, ., , . . ().  ,     ,  , . 
+, . ().   ()  .     , (), . 
+, ., , . ().       ,   , (),  - , &  
+, .,& , . ().    :     : . 
+, .,& è, . (). :         .          -to-Peer ,  . 
+, ., , ., , . .,& , . (). :  learning /  -to-Peer  .            . 
+, . . ().    :  . 
+, . (). : , , ,     ( .):  
+, . .,& , . . (). satisfaction_of_needs       :  . 
+, ., , . ().    :    personality  .               (): ,  , . 
+ 
+================
+, ., , ., , ., , .,& , . . ().         .    ,  . 
+, ., , . .,& , . ().    ( .): . & . 
+, .,& , . ().   :    . : . 
+, ., ().           -to-peer   .      . .   - -to-Peer : ö,  
+, . ().       ,      , (), ,   
+ 
+================
+  
+, . ().   personality ,  ,   , ://..///. 
+, . ().    ,   , ://..//. 
+, . ().     ,   , ://../. 
+, . ().  -    ,   , ://...//// 
+, . ().     ,    ://..//. 
+ ().   ,  [Organization]  ,    , ://../// 
+, . ()      ,      , ,   , ://..///// 
+, .& , . (). ,   , ://../// 
+, .& , ., ().   focus /,   , ../focus /. 
+, .& , . ().     ,    . ://./ 
+, . (). <>:      #,  ,   , ://..//// / 
+ 
+================
+  -     
+Source: ://..// 
+   
+• 
+,            .     .  . 
+• 
+  
+• 
+   ()     personality,           .    intelligence   ( ),   . 
+• 
+   ()   ..     . 
+• 
+    (/)   ( )      focus         .          . 
+• 
+   ()         ()               . 
+• 
+    ,    
+• 
+   ()         . 
+• 
+   ()          .         . 
+• 
+       . 
+• 
+   (),               isolation_effect  . 
+• 
+   ()    (         )      .          ().      . 
+    
+• 
+         (   )       .      .        . 
+ 
+================
+• 
+   () ()          .         . 
+• 
+        .                 . 
+• 
+   ()      ,    .        (),         [resource ].   , , ,     . learning            . 
+• 
+    source protection_effect, ,            . 
+    
+• 
+    ()     techniques     .          . (      ,       ) 
+• 
+    (, ).       ,   focus     .     -  . 
+• 
+   ,         .      source .      .  protection_effect    . 
+     
+• 
+        ,     .. 
+• 
+      ,    .        .         ,      .         . 
+• 
+    .    ,      ( ).     . 
+• 
+     .     ,            ,   /, 
+ 
+================
+/    ,  ,     .      . 
+• 
+       .       . 
+• 
+          combining    .   , ,      . 
+• 
+    ()  . protection_effect     .   ,   .   . 
+• 
+          .           / combining       .       . 
+• 
+   ()   focus   ,     .        . 
+• 
+   .        . 
+• 
+   ,        ,        .       ,             .      .         . 
+• 
+       ,    ,   ,        .    (   )  . 
+• 
+     .        ,     /  ,  ,           . 
+• 
+    ()      .        . 
+• 
+     focus      participant_modeling -          .        . 
+• 
+                           .        . 
+• 
+      ()       .                   .   .  protection_effect      .         . 
+ 
+================
+ : 
+• 
+   Source ,        [function]  .     .          gain   .            . 
+• 
+    ,       .      .     ... 
+• 
+   (                 /  ) focus           .      . 
+• 
+   .         ,      .         .   .  .     .       .     . 
+• 
+ ( ) -          ,      
+• 
+        ()    ().  ,     .. 
+• 
+      .     , ,  protection_effect   .  /            ()           .   . 
+   
+• 
+           
+• 
+       ()  isolation_effect      isolation_effect ,  protection_effect   ,    . 
+• 
+         ++                 ;   participant_modeling       ,  . 
+• 
+    learning /   .        ,            intrinsic_rewards              . 
+• 
+  ,   ,      #. 
+ 
+================

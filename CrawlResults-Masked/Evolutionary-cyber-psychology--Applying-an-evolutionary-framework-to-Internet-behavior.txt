@@ -1,0 +1,556 @@
+   . 
+ :       behavior 
+  
+   behavior 
+    ? 
+    ? 
+  , ,    
+       
+      
+  .  
+================
+   behavior  ()  
+     
+   behavior 
+ : . 
+.// 
+ :       behavior 
+ *,  .  
+    ,   ,   ,   ,   
+  
+isolation_effect 
+ history :      
+:    
+  belief  
+ 
+  
+         focus   behavior. ,    opportunity_for_criminal_acts                  behavior.         focus   behavior    : ()    , ()   , () intrinsic_rewards   ,  ()  
+ .             behavior   ,          
+.
+   .   personality. 
+.    ( , ). ,    
+  (..,  )    
+  ()       ,               ,     (, , ,& , 
+ ,   :    ; & , ). 
+ .  ,               ,                  ,                       (, ). personality  behavior. ,   
+          (                   )     ()   intrinsic_rewards    .        belief (.., 
+,     ,    , ,& , ),live_modeling  belief 
+    %        (..,, ; , ,& , ), 
+  .    %   ( %  (..,, ; & , ), perceived_uniqueness  
+)         ( (..,, , ,&  , ),  
+&   , ),      belief (..,, ),   
+  gain    (  (..,& , ; & , ; 
+ , ;   , ). , )—to behavior_control-ability  behavior.     
+      .               ,     ,  (..,          ,     ,      ; , ). , 
+   ,         techniques    , 
+          role         
+, ,      
+          
+         
+. 
+*  . .: + () ; : + () .          
+ techniques :@..(. ). 
+        focus 
+/$ -      .   personality. :./.... 
+================
+. , .. /    behavior  ()  
+  behavior.      ,           .    .      (.., & behavior)             (..,  []   ,  .).   ,          behavior,       .  : ()    ; ()   ; () intrinsic_rewards   , ; ()   .   ,              behavior,      certainty_effect     (      ).   ,          ,    syllogistic_rules  ( )  ( ) behavior. 
+..      "? 
+                     ()    ()  (..,   ., ),     possibility_effect     (..,   ., ),            possibility_effect      (.., , , ,& , ; & , ; & , ;   & , ).               (& , ).  ,   (   ) gain       intrinsic_rewards,     ,   ,    (& , ). 
+     (.., ,   ),      impulsive_effect   ,    . ,        impulsive_effect    (       live_modeling  )      impulsive_effect    ( , ,& , ). ,          (..,      ),                  (, ; , ). ,     ,        (& , ),             (, ,& , ). 
+     ,      ()             ( , ,& , ; & , ), ()   (     )   persistence    (& , ;    , ,& , ; , ,& , ),      persistence      (  ., ),  ()     syllogistic_rules       (.., ;  & , ),    persistence ( & , ). 
+,         ,     . ,    
+ 
+            (, ).            . ,              ( & , ;  ).  ,              ,              ,          . 
+,       (& , ; & , ).             (..,   ), participant_modeling  (..,  ),      (..,  ).         ,     ,     (..,  ),  protection_effect,  persistence  syllogistic_rules   (..,   )         (  ..). 
+,         (, ).   () ,    ,"       (    ").        ,       .             ,   ,    "   ,      live_modeling   ( , ). ,     (..,            (..,          ) ( ).            ( , ),         (  ..). 
+                    .                         (, ).                            ().            behavior (  )                (..,            process; ..,   possibility_effect                ,    process      (..,   ,  )       ,         ( , ; , ; , , . ).              ,     behavior  live_modeling  behavior. 
+ 
+  ,              ,      ; ,      combining        .      "      (   persistence  ) ( & , ).  gain  ,                        ( , , . ). 
+================
+ 
+  
+      .  belief       ()   behavior     . 
+.        
+.        
+()              ,    [goal]    
+()                ,    [goal]   intrinsic_rewards   
+()                            
+()                
+()                     motivation 
+. , .. /    behavior  ()  
+.   
+()                 ,             
+()             intelligence   ,               
+   personality   
+()                (..,      ) 
+() /          / 
+()                     
+.    frustration_of_needs 
+()      [experience] frustration_of_needs       (..,    )    ,       [experience] frustration_of_needs     
+impulsive_effect      
+()         ,    ,    syllogistic_rules    ,          
+(  ) ,   ,      behavior_control-ability     ,      isolation_effect   syllogistic_rules        
+(  ) ,   ,      behavior_control-ability   impulsive_effect  ,      isolation_effect   syllogistic_rules      impulsive_effect  
+.       
+.  
+()      personality role      behavior   belief      belief   
+()      personality role  ,  ,      behavior 
+()           behavior      ( belief) 
+()           behavior      ( belief) 
+.  
+()    ,    (.., ,  )        (.., , , )     
+ 
+.    intrinsic_rewards    
+. intrinsic_rewards    
+()                 ,   ,   (.., )  
+.       
+.    
+()   forethought_capability         (..,    )    behavior 
+()                   
+(  )          behavior,   personality           segregating    
+ ,         
+================
+. , .. /    behavior  ()  
+.   
+..        
+     ,               personality , %                personality ;      (  )          ; %     (  )           ,  % ( )           syllogistic_rules       (& , ). ,    (   )      , participant_modeling        ,         (& , ; , ; , ). ,                      . 
+         . ,              possibility_effect . ,                                 . ,    physical_quality combining      personality  live_modeling     ,  ,         (, ). ,             possibility_effect  .                      .           ,          . 
+      ,        .     , ,               (& , ).  ,                   (, ).    ,             . 
+           (   , , touching)    .          ,                (..,    ; , ).      .           (..,     ,  ,       ),      fear_arousal    (& , ).       ,                 personality live_modeling      live_modeling         [goal]    (  ., ; , ). ,     ,           "                 (, ,& , ). 
+ 
+     extrinsic_rewards                      (, ). 
+ 
+     physical_quality    behavior.    ,                 live_modeling      (, ; & , ).    persistence     ,      behavior          ,     belief (, ),     ,      belief (& , )   belief (, ).                 (..,   ,      frustration_of_needs (, , ,& , ; , ,& , ). 
+...        behavior 
+                   ()    possibility_effect       (, ); ()       (, & , ); ()    (, ); () (, ); ()       (, ); () satisfaction_of_needs   (.., ,  ); ()   (.., ) (, , ,& , ), ; ()     (..,     gain     ).                .     behavior,     [goal]          ;  ,  physical_quality -        (& , ; , , ,& , ). 
+   ,      possibility_effect             ( )      extrinsic_rewards (..,      possibility_effect )       (, ).            , personality               (, ; & , ; , ). ,                     (, ; & , ; , , ,& , ; & , ). 
+   ,   (    )         .      belief (, ),         combining     extrinsic_rewards     possibility_effect .            (, ; , ),        ,      intrinsic_rewards (     possibility_effect possibility_effect )     . ,    ,         (..,      )    gain             .      belief     "     ,   (& , ; , ,& , ). perceived_consensus -        belief,             :     ()   
+================
+ 
+. , .. /    behavior  ()  
+ , ()        ,  ()       .  ,                ,   ,           (   ., ).                ,        ,  ,            (   ., ,      ). 
+    belief,          : ()               (..,      ),    [goal]    (.., ); ()                  ,    [goal]   intrinsic_rewards  ; ()                            , ()                 ; ()           (.., ,  techniques)    ,          syllogistic_rules. 
+...   
+          possibility_effect          (, ).       participant_modeling        ,   ,   participant_modeling           ,         (, ).    participant_modeling                  extrinsic_rewards (, ; & , ).       ,  participant_modeling           (..,  , extrinsic_rewards,  ),     (&  , ; & , ).    ,    , ,  personality    ,  participant_modeling         (, )             (& , ). 
+  ,            ,     ,             .    ( )                         ,      ,      " (, ; , ).  (   ")                .    ,         (& , ).   , ,   (..,        ) (& , ),   
+ 
+ ,   persistence  ,       ,  ,  protection_effect         (& , ; & , ). ,          ,      ,  ,    (, ,& , ; & , ). 
+         ,        (& , ;  , ). ,      protection_effect      ,               " (& , ). 
+            ,                    ,    .        ,  ,         (& , ).        : ()                  (..,      mastery_experience ),                (..,         ); ()             intelligence   ,               . 
+,                personality      ( Ö,& , ; , ; & , ).  ()               participant_modeling              parent-child_experience         (        intrinsic_rewards            (  & , ).  ,   ,            (..,  , )        personality ,  -   behavior_control-ability          (..,  vicarious_experience personality ,              )          (  ";  & , ). 
+   focus     (),          vicarious_experience ,       vicarious_experience  (..,  )   ,   (..,   )     ,        ,           ( , ; & , ).      (),    vicarious_experience          ,       . personality          (),               (..,  ),             vicarious_experience    ,   personality ,              ,        (& , ). 
+     (  )              experiential_awareness  .      &     ,   ( )          (%),      (%),     (%),     (%) (, ).    
+================
+. , .. /    behavior  ()  
+    ,       ,   personality     perceived_consensus,       ,      .          (..,  ),     (%)               (, ). 
+   belief  vicarious_experience /           (, ; & , ),              .  ,       protection_effect             (& , ).  behavior                , ,  judging    (& , ). ,    ()                (..,      ).    (.., )         (..,   ")    (& , ; & , ).    ()       .      (),         . fear_arousal         .     ,     ()              (..,   ),        . 
+...    frustration_of_needs 
+                  ( , ,  ).     . (),   ,           (..,      )  ,           (..,    perceived_consensus      ) . , ,   ,     behavior_control-ability         impulsive_effect ,      isolation_effect                impulsive_effect       ,    (  ., ). ,           :       perceived_vulnerability       ,        satisfaction_of_needs        (, ). 
+      ,            (, ; , ).     ,  ,  (      ), " (   ),              .    ,        mental_calculation      .  ,  ()     evaluating                       ." ,        (           .        focus,    extrinsic_rewards task  (, ). ,          belief     physical_quality  . impulsive_effect    
+ 
+  behavior            (.. ,  ,  , ). 
+      belief     ,       impulsive_effect       (..,           ,  syllogistic_rules     ).            "     ()      ()         [experience] frustration_of_needs       (..,    )    ,       [experience] frustration_of_needs     impulsive_effect      (       syllogistic_rules ). 
+,        ,     [activity]     frustration_of_needs    . ,         .                    impulsive_effect     .    ,            ()   , ()     ,  ()   syllogistic_rules    ,         . 
+   ,      : () ,   ,      behavior_control-ability     ,  ()       isolation_effect   syllogistic_rules       ; (  )         (  ),  impulsive_effect . 
+ physical_quality,                                  (..,   ., ;   ., )    . 
+..       
+...  
+     &     ,    (%)             ,   , ,  ,     (%)            (& impulsive_effect - , ).  %, ,        (%             ; %  ).    (%)             ,               ; %         %      ; %         ;  %     (& , ). ,  %        (, , ,& , ). 
+              ,   , participant_modeling   ,    arousal                       fear_arousal (, ).    (),                    . 
+================
+ 
+. , .. /    behavior  ()  
+ %          ,          (, ).   possibility_effect     combining -         ,    personality  %                      ,       personality       participant_modeling         (& , ). 
+    belief (, ),  parent-child_experience        (..,            extrinsic_rewards ).     perceived_vulnerability belief,     %     (  )   perceived_vulnerability     .     ,          ,   (, ). ,   belief  ,        , parent-child_experience       (, ).                     behavior.    ()       personality role       behavior   belief      belief   (..,    ),  personality    (..,   ).    ,    ()       personality role  , ,      behavior. 
+    belief (& , ;    , ),                       .   ,    ,            possibility_effect  . ,       behavior_control-ability,     (       ,         ,            ,  ,      ,       ,   personality  .       belief   personality       behavior      .   belief  ,    ()            behavior     ,  ()              behavior     . 
+...  
+   , %        / .  ,   participant_modeling %      .  participant_modeling %       .    ()   (  )     ,              (..,  , , , .)  .  ,   belief                perceived_vulnerability         . 
+ protection_effect      ( , ).  , ,   ()  focus,          (.., )              
+(.., )   .  ,   ()           (..,      )          (.., )     .    ,     ,     (..,      )   (& , ).     ,                        . 
+ personality  ,    ,    isolation_effect  . ,   ,    (.., ,  ,    ),          protection_effect (  ., ;   ., ).         ,      " (       ; combining - , ).  ,   (..,      )       syllogistic_rules   ,       . 
+        ,    ()     ,     (.., ,   )        (.., , , )     . 
+..    intrinsic_rewards    
+     &     ,           (.., , ),           (, ). ,      / ,       ,         . (). ,     persistence.  , %        fear_arousal     perceived_responsibility       (, ); frustration_of_needs        "            (& , ).    ,                  behavior_control-ability      . 
+   ,   syllogistic_rules            " (..,    loss )—is            (& , ; , ,& , ; , ),           .            personality     , intrinsic_rewards (.., intrinsic_rewards         extrinsic_rewards        ; intrinsic_rewards           )       (, , ,& , ).  ,    focus  , , ,   (      ., )  ,    ,     personality  (.., extrinsic_rewards,  history)     intrinsic_rewards. 
+        (  )    ,  , loss  extrinsic_rewards (..,       ), loss   (..,         ), loss   (..,   ),  loss   
+================
+. , .. /    behavior  ()  
+(..,              ).    ,                 (.., )     (..,       history  ) (, ; & , ).   ,             ,     intrinsic_rewards       ( , ; , ). 
+,                    .    behavior_control-ability  extrinsic_rewards            ?             "    intrinsic_rewards (, ,& , ;   ., ).   ,     , combining, isolation_effect,       behavior (  ., ).       (    )             .      (),      :              ,     ,        (. ). 
+   ,         vicarious_experience  (, ). vicarious_experience     process    extrinsic_rewards        (.., , intrinsic_rewards,  ,  , .)    .  ,                  ,     possibility_effect    (, ).  vicarious_experience   ,      .  ,      :  perception   (..,        ) (& , ).         ,      . ,   ,           vicarious_experience : intrinsic_rewards        " (   ., , . );  ,        ,      ,         intrinsic_rewards. 
+                 . ,   , , ,   ()    extrinsic_rewards      , ,      (  & , ).    extrinsic_rewards   ? 
+     ()              (.., ,  )       .  ,                .  ,   
+ 
+  ,   ,      appraisal   (, ,  )        extrinsic_rewards;    .         ,       , ,         ( & , ).      ,      ,      . 
+ 
+         ,   .       ,                  .     : ()                ,   ,   ()  (..,      ,      /     ). 
+..       
+...   perception     
+     .  ,            ,  segregating, loss  syllogistic_rules,    ,        (& , ; , , , ,& , ).    ,             (, , ,& , ; & , ),    arousal (& , ; intelligence& , ),       satisfaction_of_needs   (,  ,  ,& , ; , ). 
+    ,                  ,             (  ).      ,                syllogistic_rules       (  )   ( & , ).            .  ,                          .     , ,               personality            (  & , ). 
+          personality    ,       perceived_vulnerability        learning    (..,  ).       ()    impulsive_effect       ,       vicarious_experience           .        ,              ,  ,                (           (..,         ). 
+   ,          syllogistic_rules   intrinsic_rewards (& , ; , , ,& , ; , ; , ,& , ).         motivation   (& , )            syllogistic_rules        " (& , ). ,           possibility_effect     . 
+================
+ 
+. , .. /    behavior  ()  
+...     
+      experiential_awareness    ,     (.., , ; combining - , ; & , ),        (.., , ,& , ).          gain   behavior. ,  ()              personality  perception   (         / )        (        ). ,    ()     (..,    )         ( protection_effect          ). , , , ,   (   & , )   intrinsic_rewards        behavior,       intrinsic_rewards -        " (. ). ,         ,     , ,   (),  ,     ,      ,         (       ),    impulsive_effect ,   ,     . 
+        (..,   , )   behavior (..,  ; , )    behavior      (.., & , ).  ,      ()        (..,      , .., )       ( ).     (     , ..,  ),        combining    ,   ,    ,          . 
+,       possibility_effect  .      ,  ,                    . ,        (..,        intelligence )        (.., , ),         (..,   ) ( ).        personality    ,     personality     " (, , . )   .  ,    (),                      . 
+,                      (, ).      history,        () ,            (, ).   ,     combining         behavior      (, ; & , ).    ,      ,   .   ,             fear_arousal 
+ . ,        ,   ,       .        impulsive_effect /   ,                      syllogistic_rules  ,          . 
+       personality  . ,   ,             .       (),   forethought_capability           behavior.    ,    ()    forethought_capability         ,     ,    behavior. ,             personality       ,    ()                . 
+              [circumstances]      protection_effect   (..,     ),    ()      ()         behavior,   personality            segregating       ,          . 
+.. belief 
+                  behavior.                 .          (..,    ;   ; intrinsic_rewards   ;    )                 behavior.                           . ,  belief         .                 thinking            ,              . 
+ prospect       behavior  .    , personality           .   behavior  ,  .           perception  behavior_control-ability    ( , ; , ; , ; & , ). ,           ; ,                behavior_control-ability    ( )      .    ,          .                         , ,       ,        
+================
+. , .. /    behavior  ()  
+       ( &  , ).                    personality   (..,  ,   ),       ,         (..,        )    personality . 
+  ,                    behavior.    , ,          (.., , ),                   ,                live_modeling    . 
+ 
+       personality      ,           . 
+ 
+   . ().  .   
+, ,  ://.. 
+, . . ().     .  :   . , .,& , . ().  :     
+.  : , ,& . 
+, . ().       :   
+ .    , , . 
+, . ().    .  :  . 
+, .,& , . ().        
+. & behavior, , . 
+, . ().     .   
+ behavior, , . 
+, . ., , . .,& , . . . ().  , .  . . 
+, . , . . ,& . .  (.), certainty_effect  perception :  
+ . . .    personality   
+ (. ). , :    
+. 
+, . ().      :    
+  . , . ,& .  (.),    
+(. ).  :   . 
+, . . ().      behavior.  
+. & .  (.),    : 
+, ,   ( .). , :  
+. 
+, ., , .,& , . ().  [experience ],  
+,   :   belief  
+.  , , . 
+ . (). , impulsive_effect ,  perceived_vulnerability  . 
+   behavior, , . 
+, . .,& , . . ().   role  perception :  
+     .    
+, , . 
+, . .,& , . . ().     
+.  , . 
+ ., Ö, .,& , . . ().     
+  . personality behavior, , . 
+, ., , . ., , .,& , . ().     : 
+             
+       .   , ,  
+://../. 
+, . ., , .,& , . ().     
+ ?  experiential_awareness .  , 
+, . 
+, ., , . ., , .,& , .-xxx. ().    
+    : ,   intrinsic_rewards.  
+   , , . 
+, . ().    .  . .  (.),  
+    (. ). , :  & 
+ .. 
+, ., , .,& , . ().     
+ :       [function]    
+   .   personality   , , 
+. 
+ 
+, . . ().    :     
+    .   personality   , , 
+. 
+, . . ().      :  
+    .    , , . , . . ().   .  :  . 
+, . . ().   ( .).  , : & 
+. 
+, . . (.). ().    . , :  
+&  .. 
+, . .,& , . . ().   .     
+ , , . 
+, . ., , ., , .,& , . ().    
+frustration_of_needs : , ,  .  , , 
+. 
+, . .,& , . . ().   belief :   
+   .  , , . 
+, . .,& , . . ().     
+ .   , , . 
+, . ., , . ., , . ., , ., , ., , ., 
+ . (). frustration_of_needs          
+       , ,  
+.  , , . 
+, . ().  : ,     
+.    , , . 
+    . ().      
+   :  .   ,   
+://../////.. 
+, .-xxx. ().       :  
+ live_modeling . , , . 
+, .-xxx. ().   intentionality     : 
+        . 
+& behavior, , . 
+, .,&  . (). [exposure]      : 
+impulsive_effect impact,    vicarious_experience  .  
+   , , . 
+, . . .,& , . ().    : 
+         
+.  , , . 
+, . ., , . ., , . .,& , . . ().   
+ perceived_vulnerability        perceived_uniqueness.  
+, , . 
+, .,& , . ().     .  . 
+, . ,& .  (.),    (. ).  : 
+  . 
+, .,& , . ().     .  . 
+& . .  (.),    ( .). (.  
+).  : . 
+, . .,& , . . ().  , ,   
+ .  , , . 
+, .,& , . ().  :    
+  .   , , . 
+, . ., , .,& , . ().      
+.    , , . 
+, .,  .-xxx.,& , . . ().      
+ . & behavior, , . 
+, . ().      : perceived_responsibility    
+  .  , , . 
+, ., , . .,& , . . . ().  role     
+ :  .    behavior, , 
+. 
+, . ., , ., , .,& , . . (). .  
+, : . 
+, ., , .,& , . ().     
+       . & behavior, , 
+. 
+, . ().      :    .  
+   , ().   , ,  :// 
+..///.. 
+, . . . ().    .    
+, , . 
+, .,& , . . ().    :    
+    .   , , 
+. 
+, . .,& , . ().        
+: parent-child_experience ,  ,     . 
+ , , . 
+, . ().  ,     .    
+.   , ,  ://../// 
+//.. 
+, . .,& , . . ().     :  
+   .    , , . , . . (). , :      . , 
+ :   . 
+, . . ().   parent-child_experience .  . .  (.),  
+   (. ). , :  &  .. 
+================
+ 
+. , .. /    behavior  ()  
+, . ., , . .,& , . . ().    : 
+ role    , ,   extrinsic_rewards 
+  .  , , . 
+, .,& , . . ().   :    
+  . personality   , , . , . . ().      behavior.   
+ , , . 
+, . ., , . ., , .,& , . (). , ,  
+ :       . 
+personality    , , . 
+, . . ().    intrinsic_rewards.   personality 
+  , , . 
+, . .,& , . . ().    vicarious_experience : 
+    .    behavior, , 
+. 
+, . .,& , . . ().      
+.  , , . 
+, . . ().  :       frustration_of_needs 
+     .   , ,  
+://../. 
+  . ().       . 
+  ,   ://../ 
+.. 
+, . . ().    :  
+role     .     
+, , . 
+, . . (). personality     behavior :  
+,  . :  . 
+, . . (). ,  perceived_vulnerability,  [preference]    
+ . & behavior, , . , . ., , . .,  , . .,& , . ().     
+     personality    , , 
+. 
+, . .,& , . . ().     . 
+ , , . 
+, . ., , . ., , . .,& , . . ().  
+      :   
+, ,       .  
+ personality   , , . 
+, ., , .,& , . . ().    
+  .  , , 
+. 
+, ., , .,& , . ().    : 
+   ?    behavior, , . , .,& , . ().   impact   .   
+, . 
+, ., , ., , ., , ., , .,& , . 
+().  :        
+  intrinsic_rewards?  , , . , . ().    .  . & .  
+(.), intrinsic_rewards, ,    :    
+experiential_awareness  (. ).  : . 
+, . .,& , . . ().     .   
+personality   , , . 
+, .-xxx., , . .,& , . . ().   process 
+    :     [modeling] 
+perception.    , , . 
+, .,& , . ().   ?     
+ .  . . & .  (.),  :  
+   (. ).  , : . 
+, . ().    .   , ,  
+://../. 
+, .,& , . (). :       . 
+  , ,  ://../. 
+, .,& , . (). , &   :   
+         physical_quality  . 
+  , ,  ://../. 
+, ., , ., , . .,& , . ().    :  
+               
+     .   , ,  
+://../. 
+, . . ().     .   , ,  
+://../. 
+, .,& , . ().  :      
+        ,       
+fear_arousal      .   , ,  :// 
+../. 
+, .,& , . . ().   :   impulsive_effect 
+  .   personality   , , 
+. 
+, . ., , . .,& , . . ().    
+:       . 
+: belief, , , , , . 
+, . .,& , . . ().     :  
+   .     , , 
+. 
+, . . .,& , . . ().     physical_quality    : 
+perceived_uniqueness    .   
+personality   , , . 
+, . . .,& , . . ().    .    
+   personality   . personality   
+ , , . 
+, . . ., , . .,& , . . . (). syllogistic_rules   
+  :    ?    , , . , . . . ().      :   
+.    behavior, , . 
+, .,& , . ().       
+.    behavior, , . 
+, . .,& , . ().   vicarious_experience . , 
+(), . 
+, .,& , . ().     .  
+    , , , . 
+, . .,& , . . (). , intrinsic_rewards  .  .  
+(.),    . belief, , . 
+:   . 
+, . ().   :      .  
+ &  , , . 
+, . .,& , . ().    .    
+ , .   , ,  :// 
+..///.. 
+, . . ().  :       .  
+: . 
+ &   . ().     . 
+  , ,  ://../. 
+ &   . ().   .  
+ , ,  ://../. 
+, .,& , . . ().       
+personality     .    behavior, , 
+. 
+, .,& , . . ().        
+.  , , . 
+, ., , ., , .,&  , . ().    
+ :       
+behavior. personality    , , . , .,& , . . ().     .   
+  , .   , ,  :// 
+..///.. 
+, . .,& , . . ().    perceived_vulnerability   
+     vicarious_experience . personality behavior, , 
+. 
+, .,& , . (). intrinsic_rewards     : 
+     .  . .  (.),   
+     (. ). :  . , ., , ., , .,& , . ().  : 
+ intrinsic_rewards   .    , , . , ., , ., , .,& , . ().    
+  :   . experiential_awareness , , 
+. 
+, . ., , .,& , . ().    :  
+  . & behavior, , . , . . ().    : , ,     
+. :   . 
+, . ., , . .,& , . . ().    
+    ? , & , , 
+. 
+, . .,& , . . ().   , ,  
+. personality    , , . 
+, . ., , . .,& , . ().   :  
+         , , 
+. 
+, ., , .,& , . ().     : 
+     .      
+        (. ).  : 
+ . 
+intelligence, .,& , . . ().      :  
+   .   personality   , , 
+. 
+, . ().     .   , ,  
+://../. 
+, ., , ., , . .,& , . ().     
+  . & behavior, , . 
+, . .,& , .-xxx. ().     :  
+   .     , 
+.   , ,  ://../// 
+.. 
+, . ().    . :   loss   
+  .    behavior, , . , . ().    . & behavior, , 
+. 
+, . (). ,     :     
+  .   , ,  ://.../ 
+//. 
+================
+. , .. /    behavior  ()  
+, . ().     .    , 
+, . 
+, . ().     .  .  (.), 
+        (. ). : 
+ . 
+, . .,& , . ().     
+     .  , , 
+. 
+ . . ().      perceived_responsibility :   
+.     , .   , , 
+ ://..///.. 
+, ., , ., , ., , .,& , . ().  
+  perceived_vulnerability   . personality   
+, , . 
+, . . ().     
+:    , ,  
+.    behavior, , . 
+, . . ().    :     
+     & behavior, , . 
+ 
+, . . ().       . belief& 
+, , . 
+, . . ().    :    
+    .    
+, , . 
+, . . ().   ,    : 
+       .    behavior, 
+, . 
+, .,& , . (). physical_quality //:       
+   . & behavior, , . , .,& , . (). , perceived_vulnerability ,  :   
+ .   , , . 
+, .,& , . ().    . & 
+behavior, , . 
+, . .,& , . . ().   perception   
+ .    behavior, , . , .,& , . ().  syllogistic_rules :   
+ .     , .  
+ , ,  ://..///.. 
+================

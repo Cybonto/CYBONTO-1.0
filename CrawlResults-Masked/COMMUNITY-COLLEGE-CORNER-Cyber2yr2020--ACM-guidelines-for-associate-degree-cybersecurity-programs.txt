@@ -1,0 +1,206 @@
+belief 
+   
+  ,    
+: 
+      
+ 
+      ;   
+            
+          
+.      ,  role  participant_modeling. 
+      
+  ,   intrinsic_rewards    
+    .  
+         ,   task  
+ focus, (),       
+[Organization]     :  
+,         
+    .      () 
+ [].  ,   [],       
+    .     .             [].        ) []          :     personality (        ,  (),    (),  )           %,      [].        %,        %            ( ),     [knowledge] .      %,   "             ." []        (     ) % intrinsic_rewards evaluating    gain   (  .).    (        ,           )     .      ,   . 
+ :      intrinsic_rewards 
+       
+ 
+  .  process 
+     
+    ,        
+  intrinsic_rewards         task      
+   
+   ()         
+ % 
+ extrinsic_rewards             
+ % 
+         focus   
+ %   ,   .  task    
+.  gain  ,   ,    
+                .  task               . 
+        (   ) 
+•
+   ,    
+   [knowledge]  ,  ( ) 
+
+      focus   (      •   ,        .             
+ perception       . 
+,  
+: ©CAN  / 
+  . .  
+================
+•
+   ,     ,  
+•Amelia ,   ,  
+•Lambros ,   ,  
+•
+   ,    ,  
+•
+   ,    ,  ( ) •
+   ,    ,  ( ) •
+   ,    ,  ( , task  ) 
+•Cindy ,     ,  ( ) 
+: ©WWW../ 
+ gain          task ,                       ;  ;   ;    ;  
+         , ,  ,    task .         :  ( -  )   ( -  ).           .          ,          []. 
+   
+      persistence   [division]   [knowledge] /,  " "         .   [knowledge]    ,  ,  , syllogistic_rules ,  ,  ,   ,   .      , , , perceived_vulnerability,  thinking,   thinking. 
+belief 
+ [knowledge] /    ""  ""  .                 .                      . 
+              [knowledge] /,           [knowledge] /   [knowledge] .         modeling      :    perception        []: "  [knowledge ], ,      ." [knowledge] ("")   "mastery_experience      [knowledge ]."  ("mastery_experience ")  "     learning         ." 
+ .. 
+================
+belief 
+:       
+ (""  " ")  ", ,           [knowledge]     ."         internalization,  "    /     ." [] 
+      ,        [action]       [].    , personality, , judging, mental_calculation,             .  gain,       
+ 
+  appraisal .  [knowledge] /     " "      [knowledge] ,     ,      [knowledge] /.       . 
+             [knowledge] /     appraisal .       ,  ,    mastery_experience    ,    .   , ,   learning -   .   ,  ,      .     
+  
+       ,  ,  appraisal       []. 
+ 
+            .  ..-based                 (  )   (   )      ()   [].          [knowledge] ,          %      
+         possibility_effect vulnerabilities         . 
+    ,        ,          .                   techniques,      , , ,    .          ,       extrinsic_rewards, , ,   
+ . 
+  
+• ]  protection_effect       [ 
+    .  
+• [] simplifying          
+  . judging 
+• []  ,     ,   
+ protection_effect  .  
+   
+    
+ 
+ ]    protection_effect  process  . •[  • []   syllogistic_rules   [Organization]    protection_effect  . personality 
+• []   ,   ,    process  .  
+• []     ,    . mental_calculation • [] focus           . judging 
+• []          .  
+[knowledge]  
+   
+  
+| | | syllogistic_rules| | | |  
+ :    
+ :        appraisal . 
+ 
+behavior_control-ability         . personality 
+  perception   . remembering 
+  -  
+         .  
+  perception, ,     . personality 
+  
+focus         . judging 
+  perception, ,     .  
+       . remembering 
+      , , ,   . personality 
+  Cryptanalysis . remembering 
+  . .  
+              
+. personality 
+      , , ,   .  
+  Cryptanalysis ,    ,  ,  , ,  Brute_Force. personality 
+.  
+      , , ,   . mental_calculation 
+   Cryptanalysis ,    ,  ,  , ,  Brute_Force.  
+================
+belief 
+      
+    ,  ,  appraisal  
+    . 
+  [knowledge]    . 
+                     []              .                . 
+ personality    []   [resource]       .             personality .            []. 
+     Collection         ,  , ,     (       ).              ,             .                       . 
+     combining       ,       ,  []      .     ,    self-efficacy   [] ( )   .  
+ 
+. .  &  
+; ..// 
+.    . .       
+ .    
+     
+  . ( , , ). 
+: ://.././. 
+.       
+ .   
+   . ( 
+, , , ); ://../ 
+.    . .       
+ .   
+      
+ appraisal   . 
+( , , , ); : ://.. 
+/./. 
+.       
+ ; ://../. 
+   . 
+. , ..  , .. .,   
+ ,   :    
+    . ( 
+, , ). 
+.  .    
+  .      , 
+ , ; ://. 
+//.    . 
+. , ., , ., , ., , Å., , 
+., , ., , ., , ., , 
+.,  , . modeling   
+   :   
+ perception      
+ .    
+        
+     , 
+(, , , ), ; ://. 
+/./.. 
+. ().     
+  .      
+  gain ,  , ; :// 
+../// 
+/////. 
+   . 
+.  task    . 
+  :  
+      
+. ( , , , ); : :// 
+.././. 
+.      
+(personality ). personality   , 
+ ;    ; : 
+://././... 
+.   ,      
+   [knowledge] ; ://.. 
+//// 
+..    . .     .   
+,   ; :// 
+..// 
+/.. 
+   . 
+  
+      . ,   ,   .@. 
+: ./ 
+   /. 
+       
+() 
+       ()  , intelligence               ,  ,   intelligence.         belief,   .    ,     . 
+     comply_effect  
+, 
+ .. 
+ .. 
+================

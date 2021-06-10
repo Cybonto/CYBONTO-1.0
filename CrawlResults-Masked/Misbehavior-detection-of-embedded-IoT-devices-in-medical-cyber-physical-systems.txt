@@ -1,0 +1,235 @@
+         
+  
+ ,  ,  ,  
+    
+  
+      
+  
+isolation_effect 
+       techniques                   impulsive_effect     .       techniques     ()        . 
+ 
+   , , behavior ,  . 
+  
+ ,        intrinsic_rewards     (): ,     intrinsic_rewards [].     techniques       .           .  mental_calculation  intrinsic_rewards    intrinsic_rewards                loss              intrinsic_rewards.                          combining   
+†This    
+         . 
+                                extrinsic_rewards   gain              .              .   perceived_responsibility  .   ,  ,         ,     /  .    @..  ,  , , , ,  
+©     . 
+  //$. 
+://././. 
+      
+  
+     [, ]           ,  , ,   ,         .       possibility_effect perception          physical_quality [resource]      . 
+        DarkHotel     behavior              ,  , ,    .            intrinsic_rewards (      )    : ()         [modeling]   behavior          [, , ]; ()               behavior     protection_effect    (    )               ...   behavior ; ()          behavior   " behavior "     []      ; ()        Collection                  [] ;  ()                    . 
+        .   ,                     .   ,     .   ,               ()        .   ,            .   ,  generalizing       . 
+================
+   
+  ,          :    ,    ,     behavior    -based  intrinsic_rewards. 
+.     
+                  ()  [].    []         -power .   , ,     intrinsic_rewards              combining        [, , , , ].          intrinsic_rewards                  .                 . 
+.     
+  ,           [, , ]    [, , , , ].   . []       .   . []    behavior       .   . []     (..,   [activity ])  protection_effect                .      ,   . []           intelligence       .   . []         intelligence .   . [, ]      behavior                   behavior .   . []             .     ,  DarkHotel                . 
+.      
+         certainty_effect evaluating   ,                 protection_effect    [].   ,   . []                         protection_effect    .   . []    perception           ,  ,  ,   
+ [policy ].      () belief  [],           ,  ,         [policy ].      [, ],     " " [, , ]                            .     behavior     behavior     behavior     protection_effect   .   []    ,      behavior    ,     ,   .   [, ],                  ()   . 
+   
+     [, , , ]           .     perception       .             .         ()    ( )    .      ()     .  perceived_vulnerability            protection_effect   (.., [])              protection_effect     ,        .   process                     (  .  ). 
+         
+  ,               ()        [].  mental_calculation        participant_modeling          ,         [authority ]. 
+. behavior      
+    perception  " " [, , ]                   combining     behavior .                  .                       ,             behavior          . 
+================
+ mental_calculation          : 
+                   ;                   ;         evaluating    ; participant_modeling   ;      ,   personality   evaluating          evaluating       . 
+     ,              . 
+ :   . 
+   
+            
+         
+  
+           
+          
+ 
+        evaluating   
+          participant_modeling     
+    , ..,   
+ 
+     participant_modeling      
+      evaluating 
+    ,    personality  combining           ,     . 
+ :  . 
+ perceived_vulnerability 
+perceived_vulnerability             
+  personality   
+perceived_vulnerability             
+      
+perceived_vulnerability           perceived_vulnerability        participant_modeling   , 
+..,        perceived_vulnerability      evaluating    
+  evaluating 
+perceived_vulnerability          
+,    behavior     .     behavior      .       (, ,  )    behavior .  behavior       perceived_vulnerability   perceived_vulnerability                 behavior    personality behavior   personality        . 
+ :  behavior . 
+ behavior  
+        
+    personality  
+ 
+        
+       
+ 
+     
+    
+   participant_modeling    
+   evaluating participant_modeling     
+  
+  
+, ,  
+, ,  
+, ,  
+ 
+ 
+  
+ 
+  impulsive_effect     behavior       behavior      protection_effect    (    ).    [],  belief ,     (  )    behavior  (  )   .        belief (   [function ])      ,                  behavior . 
+.   behavior    [] 
+    
+  behavior    ,      []     .     process  impulsive_effect. ,    " behavior " ()   behavior   . ,          ()             behavior     . ,           () .   []        [] ,       ()   ().        ,       behavior            []. ,        ,       behavior   .    behavior   []   process    . 
+..  behavior      
+    ,       ()   ()    ,     behavior     .       ,          behavior .                  behavior     .  ,         , , personality  
+================
+evaluating  [action ].          [action]   ,       . 
+ , ,              " personality  ,"                "     ,"      ,      ,                                participant_modeling  . 
+   (    )                 evaluating   .    evaluating     -100   .        (personality  evaluating  )  ([action]  ). 
+   (    )            evaluating   .    evaluating     -20   .         (personality  evaluating  )  ([action]  ). 
+   (    )          personality     .        (personality = )  ([action]  ). 
+   (    )                  .        ( = )  ([action]  ). 
+   (    )                  , ..,                   .     evaluating   constraint    .        ( constraint  ) ([action] Alert-and-Hold).        constraint  evaluating   constraint        .        ,                . 
+   (    )              evaluating   .    ([action]  )  (= ). 
+   (    )              (   ),  personality       (  ).            .          . 
+  (    )         evaluating     evaluating.    ( evaluating    evaluating)  ([action ]= ). 
+,   (    )            .    (   )  ([action ]= ). 
+ :   behavior   . 
+   
+  
+  
+    
+      
+  
+ behavior  
+(personality  evaluating  )  ([action]   ) 
+(personality  evaluating  )  ([action]   ) 
+(personality = )  ([action]   ) 
+( = )  ([action]  ) ( constraint  )  ([action]   ) 
+(= )  ([action]  )        
+( evaluating    evaluating)  ([action ]= ) 
+(   )  ([action ]= ) 
+.. 
+        
+            (                         )            . 
+.. 
+ []     
+   ,      (        )   [] ,    combining     = ,         [] (            )        .          . ,                       / ( /)              . 
+.  Collection     
+         /learning  ,  behavior    Collection process  .     [] ,                                  .    ,        []     , , ,.. .,   []    (, , , , , , , , )     []       (  -  )       .       combining           (   )  evaluating           [] .  Collection process   .         ,      combining    
+================
+history �1,�2,.. .,��    .   []     [knowledge]     ,   Collection process   .                               .  protection_effect ,   process                   .                                 combining             . 
+.      
+       ,  ,      " " history �1,�2,.. .,��  (  .)                    personality    . ,       " "    �   perceived_vulnerability  [function] (.)             .          [function ],                      .              ""      , ..,                  ��,  mental_calculation     . 
+    mental_calculation �(.)= ����(�,�)   perceived_vulnerability  [function ].  �  �           history �1,�2,.. .,��   .                      �  � .   ,      �(�����).      ����(�)   � intentionality        perceived_vulnerability  [function ],       �      
+ history   �(�)                   (��)  (��), > , 
+(.)       ,     ���= (�> ��) = − �(��)       ""  ���= (� ≤ ��) =�(��)       "personality"  experiential_awareness . 
+   
+        -based behavior   []   personality       .                  ()         . %           learning          %      mental_calculation . 
+       personality           .           personality            []         .         perceived_vulnerability  %   coding ,     .  ,       []        %  perceived_vulnerability   coding ,  ,   .            perceived_vulnerability     .          history �1,�2,.. .,��      perceived_vulnerability,        certainty_effect evaluating ( − ���)   certainty_effect evaluating (���)       ��     .. 
+ 
+. 
+. 
+. 
+  
+ evaluating 
+. 
+ 
+              
+ learning  . 
+                 perceived_vulnerability ���   certainty_effect perceived_vulnerability ���.   experiential_awareness     "personality"              ��,     certainty_effect, ..,   personality     .    ,    experiential_awareness     ""          ��,     , ..,       personality .    ,          [function] 
+ 
+ . . . . 
+ certainty_effect perceived_vulnerability  :     . 
+ . 
+      ()     evaluating ( − ���)        certainty_effect evaluating (���)       
+.       ( )                 
+================
+      evaluating (���)   certainty_effect evaluating (���). 
+         .              .  ,       evaluating         ���     evaluating.       ��      ..,,     ..%  evaluating      ,     certainty_effect perceived_vulnerability ���   %    personality         .  internalization                     [] ,         appraisal        (  )          . 
+ belief 
+  behavior     techniques        personality             (.., , ,     )         .                       role    .  belief  behavior     techniques    possibility_effect      ,  , ,   ,        protection_effect         .        experiential_awareness . 
+ 
+        &    ()       () (. ,          ).               . 
+ 
+[] .   .. . .     
+  .     . . 
+ , . 
+[] . , . , ..   . . .  
+    -physical     .  
+    , . 
+[] ..  . ,  .. . .     
+        .  
+ ,  (), . 
+[] .   . .       
+.   .     &    
+  ., . 
+[] . , . , . ,  .. . . :  protection_effect 
+   .      . [] . , ..   . . .     
+    .  . intelligence ,  (), . [] . ,  . .        
+ perception    .  , 
+, . 
+[] . , . ,  . . .     
+  .    . 
+[] . , . ,  ... . .   
+      intelligence .  . .  intelligence 
+ . 
+[] .. . .        
+intelligence        .    
+     intelligence . 
+[] . , . ,  . . .   appraisal  
+      .   
+  ,  (), . 
+[] . ,  .. . .     intrinsic_rewards  
+  .   ,  (),  . 
+[] .   .. . .[modeling]       
+     .    
+,  (), . 
+[] . . . impulsive_effect       
+ .    , , . 
+[] . , . , . , . ,  . . .   
+        intelligence .  
+. intelligence ,  (), . 
+[] . . .      .  
+, . 
+[] .   .. . . behavior    
+       .  
+    protection_effect ,  (), . 
+[] .   .. . .      
+    behavior  .   
+ ,   ,  (), . 
+[] ..  ..   .. . . personality   
+     .  ,  (), . [] ..   .. . .    planning 
+   .   ,  (), . [] . ,  . .       
+  personality      . 
+     intrinsic_rewards, . 
+[] . , . , . , . ,  . . .   
+      .   . . 
+ .  . , ::. 
+[] ..  . , ..   .. . .  loss  
+      .  . 
+,  (), . 
+[] ..  ..  ..   ..  . .  
+       .     
+ , , . 
+[] . , . , . ,  . . . intelligence  
+   .  .  ,  (),  
+. 
+[] ..  . ,  . . .:  protection_effect 
+    .    . 
+[] .   .. . .      
+ . ://...////. 
+================

@@ -1,0 +1,430 @@
+       () 
+         
+ ﬁ    
+ ,  ,∗,  ,  ,  , 
+ ,  ,  ,  ,   
+     ,    , ,     ,      , ,  
+  , , ,  
+   ,  , ,  
+{,.,,,,}@., 
+@.., {,}@., .@. 
+    (..,  )             ,      role    .       ,   ,      intelligence  ( ﬁ)          ﬁ       personality perceived_responsibility   ﬁ  (    ,  personality perceived_responsibility                 ).  ﬁ,       ﬁ,          personality    ,  ﬁ       ()       personality      (.., , , ,   ). ,                       (  )    learning       ﬁ          ﬁ    .            . possibility_effect        ﬁ      ﬁ      . 
+   ;   ;  ;    ﬁ. 
+.  
+              ,                      intrinsic_rewards ﬁ    .          ,     [],  [],   [],              (..,  perceived_responsibility , )  
+//$. ©2020   ./.. 
+ (..,   ,  )   ﬁ, ..,          perceived_responsibility   $  [].         role     ,     ,      intrinsic_rewards   personality                  .   ,   ,    ,          ,,     ,,    ,, ,       ﬁ    process. 
+     (.., ),     ,   ,        .     ,   "***" (     ),           (   ,       /   ),         - .            "***"     process :    ﬁ                $.  ;                    perceived_responsibility;       perceived_responsibility,             ;   ,   perceived_responsibility     ""              [experience ].   perceived_responsibility,         (..,  , ,   , .),                . ,   ,        personality 
+ 
+   segregating :   @ .    ,  ::    .  . 
+================
+ . ﬁ    process    . 
+         .     ,    ,  (  ,   . , )       (..,        )   , ,   (.%)  personality   , (.%)   .     intrinsic_rewards        ﬁ      personality    . 
+       (..,     ),  comply_effect        personality perceived_responsibility  ,            perceived_responsibility  .   ,      ﬁ (.., ,  appraisal, .)                (..,   )    syllogistic_rules   ,      personality perceived_responsibility.  ,     ,      personality perceived_responsibility   "***"   "***"  ; ,   ,  ﬁ  "***"        "***"            : "   .    "; ".   ﬁ.      ".   combining      perceived_responsibility   "***"  "***".       generalizing       personality perceived_responsibility                . 
+ 
+    perception,   ,       ﬁ    personality perceived_responsibility    :   personality perceived_responsibility        ,     gain  perceived_vulnerability  ˆ=(, ()),  ()      .    ,       ,  ﬁ. ﬁ,  ﬁ       ()       personality       (.., , , ,   )    . ,                 .  learning    ,           (  ),        :   , personality   ,    . ,   personality perceived_responsibility,         (.., , ())      (.., ())     personality perceived_responsibility.      Collection   ,        ﬁ    ﬁ. possibility_effect      ﬁ   ﬁ      .       : 
+•         isolation_effect      ﬁ,         . 
+•            (.., )  learning                  . 
+•      [knowledge ],    ﬁ         personality    .                              . 
+        .          .        .   ,         .      . ,     . 
+.   
+  ,         ,   ﬁ     ﬁ . 
+   segregating :   @ .    ,  ::    .  . 
+================
+ .      ﬁ      ﬁ   . 
+ﬁ .      () [].  = {, ..., }       ,                 ﬁ     .    ﬁ     =( ,,)      φ: 
+= 
+.  
+   ﬁ     .  ﬁ, ()  ﬁ combining     ﬁ            ;  ()       
+     ψ:,  
+= 
+                   appraisal    ,            
+, | |+||> .   []. 
+  .     , () 
+      
+,= 
+= 
+           ,       =(  ,)              . 
+ﬁ .  [].    =( ,)        =(  ,),   ⊆T   ⊆R .     ﬁ   =( ,),      
+  . ,  =(  − , − ),   −=   −= .   ﬁ  [function] ϕ       , .., ϕ: . 
+ .    ﬁ.         ()   = {(−) }=,   personality perceived_responsibility    combining  ,     gain  perceived_vulnerability  ˆ= (, ()|,;Θ),  ()  () 
+   , (, ),(, ) ∈E.  ()     (, ())    ˆ           personality perceived_responsibility.   Θ       . 
+.   
+  ,     ﬁ      ﬁ    . 
+(.., )    learning               ; ()            ﬁ.            . 
+.   
+  ,     ﬁ   ,  mental_calculation ﬁ    (.., , , ,    )       . 
+  .     (..,   ),      ﬁ  ,  : ) :    personality      .               / evaluating   .  ,     evaluating       -3   . )  appraisal :            perceived_responsibility.          -  (.., certainty_effect ),  (.., personality)   (.., ). ) :    personality      .  ,    intrinsic_rewards    /         ;         . 
+ 
+   segregating :   @ .    ,  ::    .  . 
+================
+       ,  ,       . ,         internalization       .    (.., )  ,    []           ﬁ-length   (   ).   participant_modeling    []       (..,   ).           . 
+  .                 : ()      perceived_responsibility       ; ()           ; ()         ; ()            ; ()         ﬁ ;  ()          ﬁ . 
+   ﬁ   ,             .(),        internalization  . 
+ .      . 
+.   
+      ,     : ()      perceived_responsibility                 (     ).  ,   "***"  "***",       "***"    ,         . ()    perceived_responsibility,     /  
+intentionality    (..,            ).    ﬁ,    perception  ,        personality syllogistic_rules      ,                  perceived_responsibility.     .(),               .  ,                perceived_responsibility               . 
+.           ﬁ ,      ()  .          ()  [knowledge]  []-[].         possibility_effect,       ﬁ                     process.     ,        ,  ,             learning       ﬁ .        :   , personality   ,   .   .    = (,,)   :  ,  ,  ,  ,  ,      ∈M ,               .       .  loss  ,   =          (        ).    ,       ﬁ   : 
+= {(, )|∀c ∈C , :( |) ·Pr(|)= }, () 
+    (, )      perceived_vulnerability  (, ) ∈E  (, ) ∈E . ,     ,  ,   ,        ={(,), (,), (,)}.  ,    ﬁ   : 
+ ={(,)|(|) · (|)= }. 
+() 
+  ,         ; ,   (|)=( )  ﬁ  [function] π:        
+ 
+   segregating :   @ .    ,  ::    .  . 
+================
+ .    . 
+ . , . ()    : 
+= {(π(),)|() · (π()|)= }. 
+() 
+        ,  ,    ,     ={(,,), (, ,), (,,)}.   ,     ,     : 
+()= 
+π()|∀c: π(), 
+∈Z
+ π(), 
+, 
+()= 
+, 
+π()|∀c: 
+() 
+()= , |∀(, ) ∈Z 
+. 
+ ,       ,      {,}    ,   (|)=           (|) ≡   . 
+personality   .  participant_modeling -     ,     :  
+ 
+→   ﬁ                ,      [function] (..,    ()). ,   ,            intrinsic_rewards  perception   .  ,     ,     (.., , ,  ),     ,   intrinsic_rewards  perception         perceived_responsibility     .      ,  ﬁ             ∈ .    personality  β    (   )               α ∈ ||   ,  ,
+ 
+β(,)=  α, α= .|| ()   [],     loss  belief,    =    ∈ 
+ 
+ 
+ ∈  
+×d 
+( <). , β(,)        ,,   ∈ 
+ 
+             ;   ∈ 
+ 
+    .     physical_quality           [function] : 
+β(,)= 
+(β(,)) 
+(β(, 
+() 
+)). 
+()        ,       : 
+()= β(,), () 
+() 
+  physical_quality β(,)              . ,           (),  loss  ,  
+  combining   ×  → ,      ,     : 
+= σ( +())+ , ()  σ   arousal [function] (..,  []). 
+    ,  personality        process :   ﬁ ,   ()  () ﬁ  . (),               . ()  . () ;    ,           ()        . 
+ .    ,      personality    ,     learning   .                 . ,                .              ,         . ,   
+  ,      : 
+= σ (+  )+ ,
+ 
+() 
+()= β−1(,) 
+ 
+. 
+() 
+() 
+    {}=,           ,                ﬁ ;    ,         
+   { 
+ 
+}=: 
+= 
+⊕ 
+  
+=  
+, = 
+⊕ 
+  
+− 
+=  
+. () 
+ 
+   segregating :   @ .    ,  ::    .  . 
+================
+ :  
+:  ,  . 
+:  [function] (, |,;Θ). 
+/*     
+*/+ 
+ (, ) ∈Y ∪Y 
+− 
+ 
+/*   
+*/ 
+  ∈M  
+ ← ϕ(); 
+/*   
+*/ 
+ =, ...,  
+ ←Attn-Layer (, ); 
+ ←Attn-Layer (, ); 
+ 
+ ← ,  
+− 
+ 
+← ; 
+ 
+, ←Concatenate   . (); 
+ˆ ←      . (); 
+   . (); 
+ 
+/*    
+*/ [function] ( , ): 
+() ← combining   . ()-Eq. (); 
+()← combining    . (); 
+ 
+ 
+←     . (); 
+ ; 
+ [function] 
+.   
+ ,           . ,     , 
+       :  ×Rd → ,          : 
+ˆ= ( ⊕ ), ()  ˆ   perceived_vulnerability          perceived_responsibility.  loss [function]    :
+ 
+= (,ˆ)+ γ||Θ||, () 
+(,)∈Y+∪Y− 
+     loss         ˆ, ||Θ||      protection_effect .          .  ,   personality perceived_responsibility       ,     ˆ   (, )  (   )       perceived_vulnerability  ﬁ        perceived_responsibility.       personality         (||),  ||       .      ,       (||). 
+. experiential_awareness    
+  ,      experiential_awareness          ﬁ : ()  ﬁ              [] -      ; ()      ,  focus     ; ()         ﬁ           ﬁ; ()   ﬁ   ,           . 
+. experiential_awareness  
+ Collection  .   ,   focus   ,           .  ﬁ        combining        (..,        )     . ,   . , . , ,    ,  , personality   ,  .  ,   ,    mental_calculation                (..,    opportunity_for_criminal_acts ).    ,  ,     ,               (..,      personality ).   ,  ﬁ  ,          .   ,        ,    certainty_effect                     . 
+ .         ,       . 
+•  []       learning     . •  []             . •  [],   ,                . 
+•  []              . 
+•  []    perception         . •  []               . 
+ 
+   segregating :   @ .    ,  ::    .  . 
+================
+•  []     perception           perception   perception. •  []                   . 
+    (.., ,  , ),             ,                       .         :        ,     ,             .          (.., , ),  ﬁ     (..,   )     ,             ,         .          ,     .         learning  .      ﬁ     . 
+   .  ,         ,  [function]    ,   = ,    =.         [],        appraisal ()   evaluating  .    γ= 
+−4.  ,      .,   ,      arousal [function ]. appraisal .   , a_memory,  ()          .   isolation_effect     ,          .:.:..         .   ,         , a_memory,       . 
+.    
+  ,               ﬁ-    .    experiential_awareness     ,    : 
+•        .       ()              personality     ; ()        ,           physical_quality 
+  
+        
+ . 
+ 
+ 
+a_memory 
+ 
+ 
+   
+. . . 
+. . . 
+. . . 
+. . . 
+  
+. . 
+. . 
+. . 
+. . 
+   
+. . . 
+. . . 
+. . . 
+. . . 
+ 
+. 
+. 
+. 
+. 
+       ,        . •   , () ,   ,      ,              ; ()     combining      participant_modeling   ; ()     perception  physical_quality      gain      . 
+• ,   (.., , , ,   )  combining                     (.., ,   )     ﬁ. •     ,           .                       learning        . 
+.  focus   
+    ,    focus  focus    (..,   , personality ,   )      .       . 
+•  :      appraisal            .     impact   ,  mental_calculation    ,     ,           process. 
+•  :   ,            
+ 
+   segregating :   @ .    ,  ::    .  . 
+================
+• 
+     .       −. 
+ :   combining     ,          :   (..,        )    (..,              ),     . 
+  
+     . 
+ 
+ 
+a_memory 
+ 
+ 
+  
+. . 
+. . 
+. . 
+. . 
+ 
+. 
+. 
+. 
+. 
+  
+. . 
+. . 
+. . 
+. . 
+ 
+. 
+. 
+. 
+. 
+           ,      : 
+•   ,       (..,   )              . ,     ,  
+  ;  ,          . ,  combining        ,        ﬁ ,  (..,                  .)     (    )    .   experiential_awareness     ,    : •   ()      (),                        ; 
+•                  ,   ﬁ        ﬁ. 
+  
+   . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+ a_memory  
+ 
+. . . . 
+. . . . 
+. . . . 
+. . . . 
+. . . . 
+.   
+       −       .                   . •      ,         combining . ,      .                 . 
+  ,      
+    personality        
+         . 
+       ﬁ. •   personality        . ,   comply_effect : 
+.     
+  ,     ﬁ      . ,      : ()    ():  ,            ;  ,             . ()   ( ):  ,        
+()       ,             ,      . ,           . ()      ( = ,)       ; ,        = ,    (..,  )      . 
+ .   appraisal. 
+ 
+   segregating :   @ .    ,  ::    .  . 
+================
+.  focus 
+  ,   ﬁ     ﬁ   .     personality     Collection   ﬁ  combining          .   ﬁ ,       personality     , ..,             .     perceived_responsibility      .      (..,        )   . extrinsic_rewards -       personality           appraisal.  ,         $  $  ,      ﬁ     .    $  $,   .    ﬁ,       combining       ,                          . 
+ .  perceived_responsibility    personality ﬁ . 
+.   
+  .              ,          []-[].  ,      ,   . []        ﬁ ﬁ;   . []          participant_modeling     combining     ;   intrinsic_rewards       ﬁ    .     ,   ,      intelligence  ( ﬁ)        (..,  )   ﬁ      personality    ﬁ . 
+  .            [], []-[]. ,           .        appraisal     ,    (..,  [])     (..,  []   []). ,   segregating [capability]  [modeling]    ,    ,   () []               . 
+  .   ,         []-[], [].   belief            .  ,  []       []         .        ,              (..,  []   [])   ( []).  ,       ,      ﬁ                     process. 
+. belief 
+ intrinsic_rewards            ,   ,      intelligence   ﬁ  ﬁ      personality .  ﬁ,        ﬁ,          personality ,          personality   , , ,   ;             .     ,        ()               learning       ﬁ.  experiential_awareness           . possibility_effect    ﬁ         ﬁ   . 
+ 
+. , . , . , .   .           , , , , , , ,    ,  /    . 
+ 
+   segregating :   @ .    ,  ::    .  . 
+================
+ 
+[] , ://./. 
+[] , ://../. 
+[] , ://../. 
+[] . , . ,  . , "  
+    : personality   ," 
+      . , 
+, . . 
+[] . , . , . , . , . ,  . , 
+"      
+ ,"  , , . . 
+[] . , . , . , . ,  . , " 
+      
+      ,"  , 
+, . . 
+[] .   . , "    
+  ,"  , , . . 
+[] . . , . . ,  . . , "  
+," , . , . , . 
+[] . , . , . , . , . , . ,  
+. , ":      
+[knowledge]    ,"  , , 
+. . 
+[] . , . , . , . , . , . ,  . , 
+"      
+intentionality ,"  , , . . 
+[] . , . , . , . ,  .-xxx. , ": 
+[knowledge]  perception   ,"  
+, , . . 
+[] . , . ,  . .-xxx. , ": 
+       
+   ,"  , 
+, . . 
+[] . , . ,  . , " 
+     ," 
+ , , . . 
+[] . . , . . ,  . . , "ﬁ  
+     ,"  , 
+, . . 
+[] . , . ,  . , ":  
+   ,"  , , .  
+. 
+[] . , . . ,  . , ": 
+     ," 
+ , , . . 
+[] . , . , . , . ,  . , 
+" !      
+  ,"  , , . . 
+[] . .   . , " ﬁ- 
+    ,"   
+:., . 
+[] . ˇ , . , . , . , . ,´ 
+ . , " perception ,"   
+:., . 
+[] . , . . , . , .   , 
+. ,  . , "[modeling]     
+ ,"  . , , .  
+. 
+[] . , . , . , . , . , . ,  . . , 
+"  perception ,"  , , . 
+. 
+[] .   . , "personality  ﬁ  
+    ,"  (, 
+, . . 
+[] . , . , . , . , . , . , . , 
+. , . ,  . , "   perceived_uniqueness : 
+       ﬁ 
+ﬁ       
+  ,"  , , . . 
+[] . , . , . , . ,  . , "  
+ﬁ       
+    ,"  , 
+, . . 
+[] . , . . , . ,  . , 
+":      
+  ,"  , , . . 
+[] . . , . , . , . . , 
+. , . , . ,  .  
+, "      ," 
+ , , . . 
+[] . , . , . , . ,  . , " 
+ : judging     ," 
+ . , , . . 
+[] . , . , . , . . ,  . , ": 
+       
+ ,"  , . , . , . 
+, . 
+[] . , . , . . ,  . . , "  
+         
+ ,"  , , . . 
+[] . , . , . ,  . , ":  
+intelligence        
+   ,"  , , . 
+. 
+[] . , . , . , . , . , . , . , 
+ . , ":   coding    
+  ﬁ      
+ﬂ."  , . , , . . 
+[] . , . , . , . , . ,  
+. , " :      
+  ,"  , , .  
+. 
+ 
+   segregating :   @ .    ,  ::    .  . 
+================

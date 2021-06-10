@@ -1,0 +1,583 @@
+         
+     
+ ,  ,  ,    
+     judging             ()     .   ,       ,             .  ,                      .               .               .  imagination        .  imagination                     . ,  perceived_vulnerability                 . ,              . 
+.  
+:. [.]    
+  (),       ,       (),      ,     ,            []-[].            perceived_consensus       .                 [], []-[].   perceived_consensus  ,            .             . 
+           opportunity_for_criminal_acts   .         intelligence, ,   ()    intelligence  
+  ( 
+@..)    (@..)          ,  , , . 
+  (.@..)         ,   , , . 
+  (.@..)       ,  , , . 
+       ﬁ protection_effect         [division] . .   .       protection_effect             (    ). .        protection_effect            ()       ()        .        perceived_responsibility   . 
+             .  ,                .    ,                 personality     .         judging       .        ()     combining  perception    []-[].  [],           . ,            ()   .    []     ,    ,  ,            . 
+                 . protection_effect perceived_consensus              [].                      [].    []              perceived_consensus       .  [],         perception   .                     . ,                         .    ,           ﬁ           .              []-[].  [],                                . 
+   ,           personality                  .  ﬁ              . ,       imagination      .                
+================
+         . ,                    . 
+,           .  ﬁ   belief          .                          . ,                     . 
+        .   ,      belief                .                        .   ,   ﬁ      intrinsic_rewards           .                       .                  . 
+.  
+.  belief 
+          = {, , ..., },     ⊂  × ,     ﬁ        : (, ) ∈ ,     (, ) ∈     (, ) ∈ .       ﬁ  = [] ∈ ,  =      combining     .                     , ||= , | ·|      .     ﬁ  = (, ,..., ),         =  − . 
+.   , ,  perceived_consensus   []     ,    ,    
+()= ()+ (), ()= (), = , ..., , 
+() 
+ () ∈        , () ∈         , () ∈        ,    .  (, , )    .       (, , )    . 
+   perceived_consensus       (),    ﬁ appraisal              . mental_calculation   
+   
+(( ),( ))   ˆ  
++ 
+  
++ 
+(()( ),()( ))         ˆ(( ),( ))    
+  
+ ++   
+ˆ 
+  
+      
+. .  [communication_link]      .  ()           ,   ()         . 
+ perceived_consensus     () []:
+ 
+ˆ˙i() =ˆ()+ ()+  (ζ()+ ζ()), 
+ () 
+() =ˆ(), 
+ ˆ() ∈    []       , ζ()= () − (), ζ()= ˆ() − ˆ(),  ∈      evaluating  intrinsic_rewards ,   ∈     intrinsic_rewards     .  ( []):    , , ,     ,    ⊗  ﬁ   : 
+() (+ ) ⊗ =  ⊗ +  ⊗ ; 
+() ( ⊗ )( ⊗ )= () ⊗ ( ). 
+.   .       
+   (),    ∈     [] ˆ()   ()        ()= (ˆ(), ()).          combining,      opportunity_for_criminal_acts   ,    . .                            .             []. 
+,       ()= ˆ ()−ˆ()   ()=  ()−yj()  ()        
+ 
+()= (ˆ  
+ 
+(), ()+  
+ 
+ 
+()+ 
+()) = 
+(ˆ (),  ())    .     
+ˆ () ∈    () ∈             . 
+belief :                         .  :     segregating         ﬁ        /       []. , 
+================
+     perceived_vulnerability      ,         .    perceived_consensus  (),       ()   ()   [communication_link]        : 
+()= ()+ ˆ(),
+ 
+() 
+ˆ˙i()= ˆ()+ ˆ()+  (ζ()+  () 
+ 
++(ζ() −  ())), ()  = , ...,   =            ,  = , . .  
+      .  ﬁ                   intrinsic_rewards       ().                      .                                            .  ﬁ,      focus  perceived_vulnerability           (). 
+.    .    
+  ,     ()        ()     
+   .   ﬁ 
+ 
+ 
+ˇ= 
+ 
+ 
+ 
+ 
+  
+, ˇ= 
+  
+, ˇ= 
+−H  
+, 
+ˇ= 
+
+ 
+= 
+  
+ 
+, ˇ 
+  
+, ˇ= 
+  
+  
+. 
+() 
+ (),   personality  ()  ()     :
+ 
+ˇ˙i() =(ˇ+ ˇˇ)ˇ()+ ˇˇ (ˇ() − ˇ())
+ 
+ 
+() 
++ ˇˇ ˇ()+ ˇ(), 
+ 
+ 
+ˇ()= [()⊤ ˆ()⊤]⊤,  ()= 
+ 
+ () − ˆ (). 
+        ,   ﬁ                             . ,   ()= [ˇ()⊤, ˇ()⊤, ..., ˇ 
+⊤]⊤,   
+() 
+  []             . , ()= [ˇ 
+⊤, 
++() 
+ˇ 
+⊤ 
+, ..., ˇ() 
+⊤ 
+] 
+⊤f+() 
+,      .   ""  ""   
+     , .              ,  = + .  loss  ,     ﬁ      . ,          :
+  
+= 
+ 
+ 
+  
+, () 
+  ∈  
+ 
+     [],  ∈  
+, 
+ ∈  
+,  
+ ∈  
+. 
+          : 
+()= ()+ (), ()= ()+ (), 
+() () 
+ =  
+ 
+⊗ (ˇ+ ˇˇ)+  ⊗ ˇˇ, =  
+ 
+⊗ (ˇ+ ˇˇ)+  ⊗ ˇˇ,  
+ 
+= ( 
++ 
+,  
++ 
+, ...,  
+ 
+), =  
+ 
+⊗ ˇ 
+, 
+=  ⊗ ˇˇ,  ()= [ 
+⊤,  ⊤, ..., ()⊤]⊤.     
++() +() 
+   ()    ()       :
+  
+() 
+  ()  
+() 
+= 
+  () 
++ 
+ 
+(). ()      belief  []  ﬁ ﬁ     ﬁ    . 
+ﬁ :     ()      ,        ﬁ > ,      (), < < ,   
+      ()=   ()=   ()=   ()= , . 
+belief :      personality   ()   ( ˇ+ ˇˇ+ ˇ,ˇ ˇ)  = + , ..., ,  (, )  , 
+evaluating( 
+= 
+ )        ≤       < ,  = [,...,  =  
+()], 
+ = ,...,  − , = , = [,..., ()],  = 
+= 
+ ,     ,   ∈ ( 
+)×() 
+    ﬁ  ∈ ( ). 
+:   ﬁ
+  
+= 
+ 
+ 
+= 
+ 
+ 
+, . () 
+ 
+  
+      (), = , ,... (),       : 
+ 
+= 
+ 
+ · · · () 
+  · · ·  
+.() 
+   ()   ,       evaluating. ,     [, ]           ,       ,   personality.   ﬁ    ,   generalizing     [, ]      (, )  .        , , = ((ˇ+ˇˇ + 
++ˇ 
+ˇ), ..., (ˇ+ 
+================
+ˇˇ+ ˇˇ))     .   (·)     .  gain,  
+ 
+⊗ ˇ= (ˇ, ..., ˇ)   . ,           . 
+  = [,..., ()]         ,    , .., = ,  
+= 
+ 
+... ()
+ 
+, 
+ 
+  
+   · · · ()  
+ 
+ 
+ 
+ 
+   · · · ()  
+ 
+ 
+ = 
+. 
+. 
+.. 
+... ... ... 
+ ... 
+ 
+ 
+...   
+  · · ·   
+     = 
+ 
+= 
+ , = ,... , − ,             .                  ()      ().   , () ∩ ()= .                    ,     evaluating ()= evaluating (). ,      ,       evaluating,   ﬁ    (, )  . 
+  ∈ ()     ,   
+  
+ 
+     
+    
+= 
+   
+. () 
+                 .   ﬁ   
+ 
+=  
+⊤ 
+   .         
+ 
+      
+ 
+   
+⊤ 
+ 
+     () ( 
+ 
+).    ﬁ  ()∩ ( )= .       ﬁ    
+ 
+  
+ 
+ =... 
+ 
+ ... 
+() 
+×  
+() 
+() 
+ 
+=  , 
+= 
+     evaluating   ≤     evaluating  < .       belief. 
+ :     belief   ﬁ          intrinsic_rewards         ﬁ .                        .     ,              . 
+ ﬁ        . 
+ﬁ :   ()                 ﬁ > ,     (), < < ,    []      ()=   ()= . 
+belief :         
+. 
+                  .  , mental_calculation    = [, , , −1; −1, , , ; , −1, , ; , , −1, ]       = [, , ; −1, , ; , −1, ],         .        ,  λ= ,  , ,     ,      .    belief         ,   belief   . 
+ ( []):   ()= ()+ ()       ∀ , = , ..., ,        ,  ∈/ (). belief :  belief       personality   ()      ()    ﬁ       ( ˇ+ ˇˇ+ ˇ,ˇ ˇ), (, ),  (ˇ+ ˇˇ+ λˇ,ˇ ˇˇ)    = + , ...,   = , ..., ,  λ      . 
+:    ,    ()       . ,        ()    ,      ()  . ,    ()     ().  ()     ,       ()   ()     ( belief ..   ..  []).       (, )    belief .   (, )         []    , ().    belief ,       ,         ,    = (λ, ..., λ 
+).      ⊗ , ()     
+()= ()( 
+ 
+) 
+()+()( )(), 
+() 
+  ()= ( ⊗ ) 
+().  
+  ,    ()     ().   ( ⊗In)( ⊗In)= (ˇ+ˇˇ+ λˇ, ...,ˇ ˇ+ˇˇ +λ 
+ˇ 
+ˇ) 
+    ( ⊗ )( ⊗ ˇˇ)=   ⊗ ˇˇ. , ()       : 
+ () =(ˇ+ ˇˇ+ λˇ, ...,ˇ ˇ+ ˇˇ+ λ 
+ˇ 
+ˇ) 
+× ()+ (  ⊗ ˇˇ)(). 
+() 
+          ,     ,    (, )   
+================
+           .   ()      , ,     , ()      ,              (ˇ+ ˇˇ+ λˇ, ...,ˇ ˇ+ˇˇ +λ 
+ˇ 
+ˇ).         ﬁ           belief. 
+ :      ()    (),  ( ˇ+ ˇˇ+ λ ˇ,ˇ ˇˇ)            .       (),    ( ˇ+ ˇˇ+ λˇ,ˇ ˇˇ)                 ,    belief   . 
+ﬁ :        , ( ˇ+ˇˇ +λˇ,ˇ ˇˇ)           . ,       (),        ( ˇ+ˇˇ +λˇ,ˇ ˇˇ)           ,    .       belief. 
+ :    belief ,              ()  ﬁ      ﬁ . ,     ()   ()                  . 
+ :  ,       ﬁ               ﬁ     .  belief ,     ,   protection_effect        . ,              ﬂ       . ,               belief ,                    belief   ﬁ.              . 
+.     
+   belief ,                              (, ).      ,    ﬁ      .  imagination                   .   ,        belief ,      (, ),  .    ˆ=  = (λ, ..., λ  
+ˆ 
+) 
+=  ,           . 
+ﬁ :          ,   ,  ﬁ : 
+= evaluating (), = + , ..., , () 
+ = [(ˆ), ˆ(ˆ) ˆ 
+  −1i,..., 
+ 
+(ˆ)]     (    )ˆ 
+( )      ˆ. 
+       ,   ﬁ              . 
+ﬁ :     ()     ﬁ  
+= evaluating (), 
+() 
+ = [ˆ, ˆˆ,..., ˆ 
+ 
+ 
+]. 
+       ﬁ                 .  ﬁ,   [goal]   behavior_control-ability ||   = .             [].                       .     combining                  [], [], []-[]. 
+ :    perceived_vulnerability     ﬁ             = +, ...,   ()  (),      .    evaluating ()  evaluating ()             evaluating                    . 
+.      
+  
+  =           (),               
+  
+()= 
+−  −( 
+ 
+⊗ ˇ) 
+ 
+ 
+⊗   
+()  evaluating ﬁ, ..,  evaluating     evaluating.           
+  
+ 
+−  −( 
+ 
+⊗ ˇ)  
+ ⊗ ˇ   
+= , () 
+ 
+ ()=  
+ 
+ () ﬁ     ()  ()=  
+. 
+      ()  ﬁ  =                 ﬁ:
+  
+ 
+−  −( ⊗ ˇˇ)  
+ ˇ   
+= , () 
+ 
+⊗ 
+ ()=  
+ 
+ ()     ()  ()=  
+. 
+ﬁ :            ()  ()             ()  (), . 
+================
+ ()  ()   generalizing                       . ,         ,     () ∈ (),  = ,..., ,         []. 
+ :       ()      ()        syllogistic_rules  ﬁ   ()  ()  =   ,  ( ⊗ ˇˇ)=   ( 
+ 
+⊗ ˇ)= , . 
+:                  ( ˇˇ)  ( 
+ 
+⊗ ˇ ), .           impact     . ,                    ∈/ ( ⊗ ˇˇ)   ∈/ (( 
+ 
+⊗ ˇ)).       . 
+belief :                  ()    ()   syllogistic_rules  ﬁ . 
+:             ()   ()=  
+ 
+  ( 
+ 
+⊗ ˇ). ,       =  
+ 
+⊗ ˇ,  ˇ ∈ (ˇ).  (ˇ 
+ 
+⊗ ˇˇ) × ( 
+ 
+⊗ ˇ)=  ⊗ ˇ 
+ˇ 
+= ,   generalizing  = ()=  ∈ ( ⊗ ˇˇ),                    .     ()             . , ( ⊗ ˇˇ)=   ﬁ.    ()=  ∈/ ( 
+ 
+⊗ ˇ). , ()             ()      .       belief. 
+.   
+   ,                     .          (),  (), ,     []:
+ −2  
+= 
+−1  
+, = 
+   
+ 
+, = 
+  
+,
+  . 
+=, = 
+−1 . 
+−0.  
+         . ,       = [, , , , , -1; , , , , -1, -1; , -1, , , , ; , -1, -1, , , ; , -1, , , , ; , , , , -1, ]. 
+          , ,          = [, , ; , , ; , -1, ]  = [, , -1; , -1, -1; , , ],       λ= , λ= , λ= ,      [, , ], [, , ],  [, ., −0.], .            
+ 
+ 
+ 
+ 
+ 
+ 
+. .      . 
+ ,   belief  .   ,    belief    ﬁ  evaluating ()= . ,               ﬁ , ,     impact      ﬁ   belief . 
+ belief ,  evaluating    ( ˇ+ˇˇ +ˇ,ˇ ˇ)  = , ,     ,  evaluating       ( 
+ 
+,  
+ 
+)  ,   evaluating     (ˇ+ˇˇ +λˇ,ˇ ˇˇ)  = , ,     . ,     [capability]    personality    , ,       , ,  .    . ,      perceived_consensus    ,   =  ()          , ,             .  . ,    [capability]     personality   ,                    . 
+ . ,            =  ()          perceived_consensus   possibility_effect   .    ,                       .                 ﬁ ,         impact     behavior   . 
+          = , = , = ,       = .    = ,             personality    . ,                 ,  ,        . 
+. belief 
+  ,            .     ,                       . ,      ,    ﬁ  ,           ﬁ 
+================
+ 
+ 
+() 
+, 
+   ( , ,     ) 
+  
+  
+  
+  
+  
+  
+ 
+-10 
+-20 
+       
+() 
+   
+ 
+ 
+() 
+, 
+ 
+-10 
+-20 
+       
+() 
+. . []             =  (). 
+ 
+ 
+ 
+() 
+, 
+-2 
+   ( , ,     ) 
+  
+  
+  
+  
+  
+  
+ 
+-4 
+-6 
+       
+() 
+   
+ 
+ 
+ 
+() 
+, 
+ 
+-2 
+-4 
+-6 
+       
+() 
+. .    perceived_consensus           =  (). 
+.                .  imagination                      .  imagination     combining        [authority]    . ,                       .   belief  belief        focus    .         focus               . 
+ 
+[] .   . . , "perceived_consensus    
+      ,"   
+  impulsive_effect , . , . , . , . . 
+[] .   . , "     
+     ,"    impulsive_effect 
+, . , . , . ,  . 
+[] . , . ,  . , "  
+  perceived_consensus        
+," , . , .  - , . 
+[] . , . . , . ,  . . , 
+"      ," 
+, . , . , .  - , . 
+[] .   . , "   
+:   belief perception," , . , . , .  
+, . 
+[] . , . , . ,  . . , "perceived_consensus    
+     personality   ," 
+  belief& , . , . , . , . [] . , . , . ﬁ,  . , "  
+         
+  ,"  , . , . , 
+. 
+[] . , . , . ,  . , "perceived_consensus   
+    personality :  ﬁ  
+,"       :  , 
+. , . , . , . 
+[] . , . ﬂ,  . , "    
+ﬁ   ,"    impulsive_effect 
+, . , . , . ,  . 
+[] . , . , . ,  . . , "  
+     ," , 
+. , .  , .  - , . 
+[] . , . , . ,  . , "  
+     ,"     
+  (). , , . . [] .   . , "       
+    ,"     
+ (). , , . . 
+[] .   . , "     
+ :   ,"     
+   ,     
+(),  , . . 
+[] . , . ,  . , " perceived_consensus   
+      ,"   
+    , . , . , . , . [] . , . , . ,  . , "protection_effect   
+       ," 
+ , . , . , . 
+[] . , . ,  . , "perceived_consensus     
+     ,"     
+     (). , , . 
+. 
+[] .   . , "     
+  ,"       
+  , ,   (). , 
+, . . 
+[] . , . , . ,  . , "   
+   ,"      
+ , . , . , . , . [] . , . ,  . , "  
+:    ,"    
+ . , , . . 
+[] .   . , "     
+    ,"    
+, . , . , . , . 
+[] . , . , . ,  . , "  
+     ,"   
+   , . , . , . , . [] . , . ,  . . , "    
+        ," 
+   impulsive_effect , . , . , . , 
+. 
+[] . .   . . , "     
+ ," , , . 
+[] . , " ,"    
+  , . , . 
+[] . , . ,  . , "   
+    ,"     
+      (), 
+. , . . ,  . 
+================
+[] .   . , "     
+     perceived_consensus     
+personality ,"     . , , 
+. . 
+[] . . , personality  belief.   , . [] . .   . . ,    
+ belief :   perception.  &  
+, , . . 
+[] . .   . , "     
+  personality  ,"   , 
+. , . , . , . 
+[] .-xxx. , .-xxx. ,  .-xxx. , "   
+   personality ,"  , . , . , 
+. , . 
+[] . , "  ,"   
+    , . , . , . , . [] .   . . , "     
+     ,"    
+  (). , , . . 
+================

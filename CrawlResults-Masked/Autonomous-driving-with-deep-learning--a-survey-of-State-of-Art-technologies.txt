@@ -1,0 +1,1074 @@
+     :   
+  
+ 
+        . 
+ ,  
+.@. 
+     ()  /     ,       personality    .     ,        ,    (      ), ,   ,    extrinsic_rewards  .            .        ,   perception,   , , planning  , ,    .    segregating ,  focus      , .. /    perception,  appraisal  ,      ,   task  , behavior modeling        . 
+ ,  , perception, , , planning, , , , , , perceived_vulnerability, , , ,, ,  ,   
+. 
+ 
+    personality      [, , , ].    ,           .  ,            .   .    ,           ,          . 
+              ,   belief  () [].  ,     , ,   ,         extrinsic_rewards.           intrinsic_rewards        .     ,        ,       ()   []. 
+  ,        .          [, ].             ,   perception, 
+       . 
+ ,  
+.@. 
+  , , planning  , ,    .    segregating ,  focus    , .. /    perception     (,   ),  appraisal  ,    ,   task  , behavior [modeling]       . 
+. 
+    
+       [, ],       []       .   ,        ,   . ,    ,   ,    . 
+. .   . 
+.  belief 
+      extrinsic_rewards ,          .   ,        , ,     () [, ]. 
+  ,      ,     (),    (),    ()     () []    () []. 
+  ,          ,  
+================
+  (),     (),   (  ).  gain, ,      ,          . 
+   ,          intrinsic_rewards. ,         . 
+   []        .               ()  .    ,         : " intelligence   ,      ,      ,       ." 
+          history [, ]. 
+. .     []. 
+                   :)      ,      ()     [], )   isolation_effect       ,       ()  ,      [], )  (  )    perception  [], )     (  ) arousal [function]     ()     [], )    []        [], )  ( ) []    ,     ,    []  perception  .,   (  )     []       ( ) []    , )       [] (  . ),     []   [],  ) 
+ []      //intrinsic_rewards   . 
+  ,          .          ,     () [].   belief      []  :  ,     .     () []       .           " "     []   []     . 
+ [],     ,    perception       participant_modeling       .           task   . ,               personality    .  process            .         [],    , ,      (),    ()    . 
+       : )      , )       .      perception           .       () []         ,                 .  ,    , ..        personality           loss (  )             . 
+    intrinsic_rewards     simplifying    learning  ,    ()       [].    extrinsic_rewards          ()     ,  ,  .           ()    [].  ,    personality techniques   .          learning [],       learning    ,    [],   []     []. 
+   ()              [].    ,  protection_effect  []          
+================
+.  ,     ,  ,   ,   . 
+        ,   ,          process.       ""  [, ],      ,  ,    (), , physical_quality ,   evaluating, ,   (),    (), , ,    . 
+               [, ],   , , ,    . 
+.   
+         intrinsic_rewards        ,    extrinsic_rewards      .                  .          []. 
+             ().                (  ).   ,     simplifying (combining)     personality        .        . 
+    ,          belief         .       ,     ( ),     ( ),     ().     combining       perceived_vulnerability. 
+  ,          .             :  (,   ),     (    ,  ),   (   ). 
+            ,  [, ]      .     ,         
+  intrinsic_rewards,     personality  . 
+                            . ,       constraint          ,       ,     ()       ,     . 
+          ,                ,       [].      Collection  ,         . 
+          ,    , segregating ,  ,  /. 
+.     
+         ,                .     participant_modeling          .      intrinsic_rewards    [, ],     :    ,  , /  ,  [knowledge] . 
+,    ,              physical_quality physical_quality    [].    ,               [].    (  . ),      ,         (),        []. 
+. .    ,   []. 
+             ,        .        
+================
+ /    source  [].                    .        ,            .        ,    ()  . 
+. 
+    
+         ,    /   / [].   ,         ,   . ,    , perception, , planning, , , ,   . 
+. .        . 
+.   
+           ()        ()             (     )    (    ). 
+  ,          .            ,            .   ,                  ,            segregating .   ,       ,    perception     , ..         behavior_control-ability   . 
+.  
+           ,       () ,      
+  , ,       .            situational_circumstance perception   behavior_control-ability  loss. 
+         : ,    .      [], .. , , ,    .   .    ,  appraisal  (), ,    . ,         ()      ,        belief.         ,  ,  ,    . 
+         personality   . personality           appraisal         .   , ,  physical_quality    () .     ,          (.., physical_quality -    ). 
+      ,                        ,  perception   .     ,  , ,    .  protection_effect   ,      protection_effect   ,           ( ,  ).  protection_effect  ,               . 
+.  
+         ,           (), , [function]    .       -to-end   . 
+        .           (  )  / ( )   /.        :    ,      . 
+               .         ()    : perception,   , 
+================
+, planning   ,    . 
+• 
+perception        [knowledge]   .     personality   ,   ,     ,  /     .     ,   perception task      , ,          . 
+• 
+   , perception      :  perception, behavior  perception,   perception.  perception        , , ,  , . behavior  perception    (,  ,  )    .  perception  behavior  perception    Collection    perception perception. 
+• 
+         , , /    .  ,       :                 (), ..   () ,                . 
+• 
+   belief      .     ()   , , ,          appraisal  belief     loss.          .             .      appraisal  belief     belief,       . 
+• 
+,              ().    intrinsic_rewards                 .          perceived_vulnerability    perception ,     ,   appraisal,   ()   ( ). 
+• 
+          ,    - /physical_quality -term . 
+• 
+planning            ,       . planning      ()planning, behavior planning   planning   . 
+• 
+ planning            ,          [goal] - ,  -based,    -hop intrinsic_rewards. 
+• 
+ planning      task            ,       []  (). 
+• 
+ planning               task,      planning. 
+• 
+         .     isolation_effect     .         , /   ,      . ,     /   . 
+• 
+ (  )                  ,    ()   -  ().            physical_quality,   combining          .       , perceived_vulnerability        ,  physical_quality   planning   .         . 
+    ,   ( [Organization]  )   []                   .          perceived_vulnerability appraisal( )              .     ()   perceived_vulnerability          . 
+      -to-end ,      ""   .       experiential_awareness                 ,         /    . 
+        :  modeling (, ,   ),    ,    modeling  ,   ,     ,    (   )   behavior modeling (physical_quality, ,  .) 
+. perception 
+        perception  [, ].   ,  focus   , 
+================
+ ()   ,        (   intrinsic_rewards ), ,  appraisal,     appraisal (    ).     isolation_effect    .       , ,     . ,  appraisal     ,    . 
+.   
+   intrinsic_rewards     perception.                [knowledge ].            []. 
+              .     isolation_effect   -upsampling,  - ,  -upsampling    -xxx-  .       -shot ,      .      -resolution   []. 
+.   
+  personality      [, ].           physical_quality history. 
+     learning         .        () []     ;   []     (  ) []        ;   []        (  );  (  ) []                    ;         []. 
+ (   )         ,                 [].  (  )              [],             .  []        ,      . 
+     [, , ],             : 
+• 
+ []          ,       ,          ,            ; 
+• 
+  []   ,    [function]  personality  ,     ,     ( syllogistic_rules ); 
+• 
+  []   ()   (),  ,       (),    ()      ,   loss    . 
+       loss [function]  " loss"        [].  loss                 .  []          ()         .  []      ()   . 
+              loss [].          ,    ,       .               ,      . ,             . 
+. .     ,   []. 
+================
+        [],    [],  (  ) [],  [],    [],     [],  [],  (    ) []   [] .     []                 certainty_effect    ,        ()    certainty_effect         . 
+,         /, ..    ,     physical_quality.  ,     []                ;  (   ) []          perception;      physical_quality   [];   []   (  . )   ,             ,              . 
+.   
+   []         ,    (   ).    [ -125] focus        ,     ,     . 
+  ,      (),         -xxx  .   ,   -xxx      belief     -xxx intentionality ,  appraisal   -      -xxx .       segregating    . 
+      -based       (  ),     -based     . 
+)  
+         ,              (     ),    .    ,            . 
+     . ,    []             ,   personality   (  )       -xxx         .    
+   ,   . []   appraisal,       ,                 generalizing        . 
+  ()    []          ,                 appraisal  , ,    . ,  []               () .   [],               live_modeling, ,   belief      .  []                   ( -eye ) ,       appraisal     . 
+ . 
+     
+ (       ) []   ,          . ,  []         ()      ()   ( )    ,                   . 
+            [],   loss [function]       ,       physical_quality                 (  physical_quality ).   ,    []        personality    appraisal  -class          ()    appraisal   .  []            . 
+  .         [],                 
+================
+  ( ).    (  ) []   ,         ,        ( ). 
+ []    ,    :    ( )   appraisal     .  []              personality  ,                  ,          . 
+,    .    [],                              ()                ,  -to-end   .  []             ,   ,    perception   perception  . 
+,              ,  ++ []  ,                      learning      .  (   )     [],                ++           belief. 
+ (   )    [] (  . )       loss      appraisal       perception              ()  .      []:                         ,                  learning   ,             . 
+. .     ,   []. 
+        learning          () [],                                .           (  ) []  ,                         (  )-aware            . 
+      [],                          .   ()       [],                             (  ),       (perceived_responsibility)   gain perception   . 
+   []     ,                 perception  ,       .    perception                 ,  []             experiential_awareness     . 
+    ,    []                              .          ,                 [],       ++ . 
+       (  []),                   ,        ,    . 
+ ,          ;       ,   .   ,           . 
+================
+)  
+         ,  ,  ,    ,    . 
+  . []                  , ,   belief                       , ,    .   ()   []           ,                    ()           . 
+ . 
+     
+  .  []                appraisal                .     []    .  []                                  . 
+,    []       ()         ,                ,         .    []     -level        appraisal    :               , , ,    . 
+,    []             experiential_awareness  
+     ,    ,   ,   appraisal (),      . ++ []               ,         constraint,               . 
+   []        appraisal,      ,    ,           (    Careto)            ,           .   . []    belief  participant_modeling            ,                   . 
+,  []             ,             ( )  learning          loss.  []   perception                             . 
+  . , , []                            .   [],             ,                  loss. 
+  . []          (  )                  . ,    []       , ,         perceived_vulnerability appraisal           . 
+     ,   [],    syllogistic_rules     ,             .   . []      
+================
+ appraisal ()        ( )      . 
+ []     -LiDAR ,               -based      -based ,   -xxx .   .  [],      ,       ,         intelligence       ,               . 
+  . []            task,  physical_quality -guided   task    -grained   ,                  ,          .    -based ,   [],             ,      syllogistic_rules          , ,     . 
+     -based . 
+. . ,   []. 
+  . []    -LiDAR     (  . ),            appraisal.   -CNN  ,    []      ,      personality,            ()         . 
+,    []              ,               ,   (  ).   . []         appraisal       . 
+       (  []),                   ,        ,    . 
+     ,   -based        ,  - 
+      ,    - ,             .                   ,        ,    ,     mental_calculation   .               appraisal        . 
+)  
+,         .          ,            . 
+  . []            (    ),            ,         appraisal     . 
+ [],       ( ),                          ,             . 
+  . []    ()              ,                loss. 
+.  
+        [].          ,    () []     () [].               []      []. 
+        (, , , ,   ),   (        ),      (..,   ,   ,     ),   (.., , ,     ),       (..,      //). 
+================
+          (  ),  ,    []  . 
+  -based           ,    -based  . 
+.  
+    []   ,     .        ,      (  ),   , ,     ,  , , , perception    .            []. 
+         ,      []   ,  ( ) []      ,      []       (  ) []. 
+              []. ,           .     ,        .      isolation_effect    , , ,    .       ,  ,    .     ,        ,    . 
+.  appraisal 
+ appraisal      task   perception.         ,     loss  .          [].  appraisal          .          ,     ,  , ,    (),    .           []. 
+          ,              ""   perceived_vulnerability     . ,  , extrinsic_rewards         .              intrinsic_rewards  . 
+          / appraisal     perception      appraisal     ,       extrinsic_rewards    (:       " "). 
+ . 
+   appraisal  
+)   
+   []      loss       ,   (   ),         . 
+ [],     ,     :                    loss ,       loss      . 
+     []    :  , belief  appraisal,      ,           (     loss         )          . 
+ []             loss     . ,  []    ,      appraisal     loss               . 
+)   
+,    []        :            ,     
+================
+  .     []    ,                    .   . []         appraisal   ,    belief      situational_circumstance   ()        . 
+  . []        learning                 appraisal,         .   . []      learning          ,   .   .  []     ,                   loss     loss. 
+  . []       ,                    personality            loss.   . []         task       appraisal, combining        . 
+  . []    appraisal    ,   perceived_consensus     .   . []         :    ,   , [knowledge]  /syllogistic_rules,    loss.    []              ,         (  ),      . 
+  . []               ,  modeling             appraisal .   . []     ()                       . 
+   []         ,     appraisal  ,           appraisal  ( ,     )      loss    loss.     [],   (  . ),      
+   appraisal ,                       . 
+. .    appraisal   appraisal,  []. 
+  . []          (, )   ( ),    "  ()"                       .    personality  () [],              personality          behavior_control-ability        ,                . 
+  . []     []  modeling       learning         .        belief   ,   . []     loss         Careto      . 
+  . []    appraisal           process              . ,    []           loss         personality    personality   . 
+  . []    ,               ()            loss   perceived_consensus     .   . []   .      ,   ,      ,        .   [] (  "  "  ). 
+       (  []),           
+================
+         .     (  []),      appraisal       . 
+ ,   appraisal      /.      task         combining  ,    ,  ,    /.   ,   perception          appraisal. 
+) 
+  
+   []           ,            .   . []               ,      -wise belief    , [] belief,   protection_effect. 
+    -scale   () []     extrinsic_rewards     (gain,   )        . 
+.        
+    ,            .   appraisal       / appraisal,    ,        .  personality           [],    ,    . 
+   appraisal                []. 
+.   
+    [],       . )      ; )   combining   (, ,    .); )   combining         . 
+          task .        ,          . ,          -  ,              ,        -xxx     ,  / . 
+)      
+ []       ( ,     )      .  []                         ,                      . 
+)   
+   appraisal  ,                ,     , ,     .,    . 
+  . []        learning      ,    impact        . ,      []                .   extrinsic_rewards  []    appraisal         . 
+ . 
+       
+ ,    ,   []       .        []   appraisal       .   . []         personality     extrinsic_rewards        . 
+                    [],         combining                    .   .     ,   [],  appraisal         personality ,  . 
+================
+,    []       generalizing      personality           ,     ,    situational_circumstance     perceived_vulnerability                  .  []      ()-based                ,   combining     . 
+  . []     extrinsic_rewards      ,  combining    :        ,       belief ,        belief     .   . []      ,            intrinsic_rewards :    combining           situational_circumstance loss   ()    loss  . 
+  . []    ,    extrinsic_rewards  ()      (),          Careto,                . ,    []                 ,    belief          . 
+     ,   . []            ,           personality      appraisal .  [] (  . ),          ,        extrinsic_rewards   ,        . 
+. . ,   []. 
+   ,  (  ) []                             ,     , ..   ,      .   . []   
+                    belief        impact  . 
+    (  []),                 . 
+   appraisal   ,        .    ,          extrinsic_rewards     .    ,             extrinsic_rewards.          ,     , , , ,   perception . 
+)    
+,            , ,    ,    . 
+  .      [],  ,      :                              . ,    []    ,               ,           . 
+ . 
+        
+,    []                      ,               .  [] (  . )               ,   
+================
+        ,                                . 
+. . ,   []. 
+  . []           combining                  ,                      .  [],     .,    ,      appraisal                       generalizing      . 
+  . []     ,   (   ),                                   .   []                                        (). 
+  . []     ,          []         ,                .    []          ,   belief     ,                    . 
+      () []          ,        ( )     ,      (    )     appraisal  ()  learning   . 
+  () []      :               ,                         ;                ,            ,                         . 
+    []     [],            ,               .   . []         ,      perceived_consensus       appraisal        extrinsic_rewards /    . 
+   []          ()            .   . []          ,   ++,        ()         . 
+    () []      ,     ( )                                             . ,    []                  ,                       . 
+    (  []),                  . 
+ ,             ,               .              .          . 
+================
+)   
+            []. 
+.   appraisal 
+  appraisal              isolation_effect     .            .         [] (:         ). 
+. 
+   
+        . [],    .             ,           . 
+  . []          ,   appraisal,   appraisal,    ,   / ,      appraisal. ,    []       , ,    ,           ,   ,  , ,   ,  appraisal  . 
+        . 
+[]   /      ,      belief           ,       perception.  []      ,          ,  loss            appraisal   . 
+ (  ) []    ,            personality  appraisal                  ()          .  [],    ,               ,              . 
+ (   ) []                     ,   ,          .  []    
+    appraisal              ,        .  []     perception   appraisal     ,                  (  ) . 
+. . ,   []. 
+ []    appraisal                      .  [] (  . )              (),                    . 
+ []   -predicted personality            . ,     []         ()      .   . []         ()         gain   ,      appraisal                     -level  perception. 
+  . []             -n-Point () ,               .   . []          ,             process. 
+================
+. 
+, planning    
+          behavior  [, ]. 
+.  behavior [modeling] / 
+ behavior modeling      ,   .           ,       ,    . 
+ . 
+ behavior   
+  []        task       learning          .         ,           []     modeling.       ,   []   possibility_effect               loss,       . 
+    ,            perception,   history                [],     . ,    learning   perception  []    ,  ,                   -temporal  ().   ,      [],       physical_quality -            (),        personality []  . 
+   perception ()  (      )      perception      [].   perception modeling ,    [],        ( )  personality ( )          (    
+)   .   []      ( )   [],                          . 
+,        [],            ,                   .    ,    [],     possibility_effect           [capability ].      ()  [],      ,        constraint . 
+    []     ()  ,          process      personality ,                              .            ,        . 
+ []               ,         , ,      .             [],    generalizing                     (). 
+. .     ,   []. 
+     ,   (  . ),             [];          ,           behavior ,   ,    [activity]      . 
+    (  []),              . 
+================
+     behavior modeling     /     ,    gain       . perception          ,     [capability]        . 
+.   behavior [modeling]    
+ behavior      , ,   .              ,  (, ), ,    /,    . 
+ . 
+ behavior [modeling]    
+      situational_circumstance    ()  []       ,    extrinsic_rewards      : situational_circumstance                   . ,    []     perception         ,                    ,       learning    . 
+   ()        . []  learning        []      ,   , ,  ,    ,   []& extrinsic_rewards     behavior  [function]    .    ,   ,   ,   ()    [],  ,                 (). 
+  [],     .,            ,                   .           ,  ,   [],      
+ learning  (, ,  )          learning             . 
+      ,   [],    [policy]      ,            , ,    ( physical_quality /,     )     loss          gain.  behavior      ,  situational_circumstance   (),    perception              :        []. 
+  . []              (    process)   combining    planning          ()   ,  .    []        situational_circumstance modeling                  . 
+  .   []   ,      ()   ,   situational_circumstance   ()        ,         ,            ,           personality . 
+generalizing (    )      . [],     (   )                 ()     .  ( personality   )     ,    [],  participant_modeling              ,        ()            ,       (). 
+  , ,                []         ,          .      task     ,  ,           
+================
+() [],          perception                        task,      situational_circumstance    ( ).     situational_circumstance    ()  []         ,   personality, possibility_effect        . 
+     :     . ,      []             behavior        possibility_effect     behavior    ,       situational_circumstance   ()       belief        . 
+  .    []             intrinsic_rewards                (),  (),  ()  ,           ()     ,     intrinsic_rewards   . 
+       ()   [],           ,        ,          . 
+           ,   [],   intentionality             ,   belief           ,   ,        ,        . 
+  . []             -second          ,                -term     .     [],     .,    -stream      personality   -         ,           -agents,         -agent     personality, personality,   behavior. 
+. .    ,   []. 
+          : )      (  ) [],         modeling        personality          ; )    ( ) []    modeling        ,  ,           personality    ; )              [] (  . ),           ,      personality   ()         . 
+     ,   [],                         ,       ( )    . 
+    (  []),               . 
+ ,        modeling   behavior  ,  /         behavior .        [capability]   learning    planning.        modeling  . 
+.  
+     []      .            (      ),        ,      . 
+.   
+     ,         .        perception  ,   
+================
+planning   ( perception ),    perception  planning ( ). 
+  . []                       []    . 
+   []  .      live_modeling    planning        ,    ()  . 
+ []                    ,              . 
+  . []     process     task, ..         perception             ,         . 
+,    []                 ,                      .     learning      .   ,         [] (  . ),           ,                .        . 
+  . []    perception,  ,   []     ,            (  ),         perception -planning-  . 
+. .    ,   []. 
+. 
+ 
+            modeling.           modeling,    / perceived_consensus. 
+  . []                  loss    ,            (                       )     (     ),          ,        . 
+  . []                ,                 ,        .   . []           personality [function]    situational_circumstance      ,               (). 
+  . []               ,      personality      personality        personality  . 
+. .     []. 
+,    [] combining         (  . ),   appraisal           ,        /personality , physical_quality source ,  ,  ,     . 
+. 
+ 
+       ,       [],    [].   ,        , , , [resource]     .  ,         ,   ,   ,  /    . 
+================
+     ,        ,  perception  planning. 
+. 
+ 
+         .       , perceived_vulnerability,    . 
+  . []        () : , ,  .           .         .        .   perception  modeling perceived_vulnerability   perceived_vulnerability belief,               ,         . 
+ []       ,               .     techniques       perception          perceived_vulnerability.     ,      modeling ,          ,       perception . ,       process,             perception   perceived_vulnerability . 
+  .     Fault_Injection  [],   (  . ),         impact   ,      -grade     (   ).       live_modeling             . 
+. .  ,   [ ]. 
+  . []    ,         extrinsic_rewards      ,     : , ,    ,  .          
+   : constraint ,   perception,  ,  .    intrinsic_rewards   :  ,   ,     .  [goal]   intrinsic_rewards             .  intrinsic_rewards     intrinsic_rewards,        ,        . ,       :  ,  ,    . 
+. 
+    
+        :   [],  [],  []   [].  source          [],   []    [].       ,    [].       ,   [],               . ,     ,   . []   []. 
+        (..  ,  , , , /,     )    ,   [],  [],  [],  [],   [],  [],  () [],  []   [] .,    , , , , ,   (),      ,     . 
+         (   , ,        ),   [],  []   [] (  . ). 
+. .&       []. 
+================
+. belief 
+              .            possibility_effect . ,        ,       task       [],   . 
+• 
+perception.             .            ,             [ -347].   (   )      perception  ,     ,  modeling     (  )        . 
+• 
+.             ,  behavior   modeling   ,      .         ,     perception,     ,     ,    physical_quality  . 
+• 
+planning  . behavior planning   planning       ,         personality  .                . ,  planning        ,    . 
+• 
+. perceived_vulnerability            [ -351],    perceived_vulnerability   perceived_vulnerability.      [],          .         perception          ,         .            ,      /. 
+• 
+ .              ,    planning      ,                . ,                . 
+[] 
+[] 
+ 
+.   .,      intrinsic_rewards   ,  ., .  
+    .,      :  ,  ., .  
+[] . , . , . , . .   
+   perception.    ,  []   ,   .      .  
+, . 
+[]  ,  ,  ,       belief 
+,  ,   
+[] , ., , .& , . .   
+    . .  . process. 
+. . 
+[]  ,  ,   .   .  ., . []  .,  .,  .,   .    
+   :     .  
+.,  
+[] , ., , .& , .    .  
+., . 
+[]   .   .       
+. . .   , . . []    .   .    
+  . . 
+[]    .,       - 
+    ,  ., . []  ,  ,   .  ,  , . , 
+. 
+[]    .,  ,  , . 
+[]  . :      
+.  .,  
+[] , ., , ., , .& , .      
+.  .,  
+[] , ., , .,   , .& , . .  
+  .    
+[] , ., , ., , ., , .& , .  -and-Excitation 
+.  ., . 
+[]    .,   .  .,  []    ., : isolation_effect perception ,  ., 
+ 
+[]    .,         
+  ,  ., .  
+[]    .,      :   
+ , .  , ,  
+[]    .,  history   :   
+    ,  .,  [] physical_quality   .,      ,  ., 
+ 
+[]  ,  -Learning:  ,  . ,  []  ,   ,  .,  
+[]  ,  ,      
+ :    ,   , 
+,  
+[]    .,      : , intrinsic_rewards, 
+ ,   , . , . , ,  [] simplifying ,   ,       
+  , .   , , ,  
+[]  ,     : belief   ,  
+., .  
+[] , ., , ., , .      
+.  .,  
+[]  ,  ,  , :    [] -of-Art.  
+.,  
+[]    .,       ,  
+., .  
+[]  ,  ,     :  , . 
+,   
+[]    .,        :  
+ ,  ., .  
+================
+[]    .,       , 
+ ., .  
+[]    ., generalizing    :     
+   .,   
+[]    .,      : , ,  
+,  . . . . , ,   []    .,    :   , 
+ .,   
+[]  ,  ,   ,      
+perception :    ,  ., . 
+[]    ., :     
+  perception ,  . 
+[]    ., :     
+,  .,  
+[]    .,   ,  .,  [] physical_quality ,   ., :     
+  ,  .,  
+[]  á  .     planning intrinsic_rewards  
+ ,  . intelligence   
+. (): . 
+[] , ,  .     planning   intrinsic_rewards 
+   .    intelligence  
+. (): . 
+[]  ,  ,  ,  .    
+:        .  
+  intelligence ,  
+[]     ., perception, planning, ,    
+ , , , ,  
+[]  ,  ,       
+         
+ ,  , ,  
+[]    .    :     
+   .  
+[]    .,  perception   : , 
+  ,  .,   
+[]     .,   perception :   
+   ,    , ,  , 
+ 
+[]   .,  planning     : 
+       
+  
+[]  ,  ,  , planning   
+  ,    ,   
+ , ,  
+[]    .,       intrinsic_rewards 
+      ,   
+  , (),  
+[]    .,    : , , 
+  ,  .,   []    .,  :  ,  .,  []  ,  ,  , .     
+:     ,  
+.,  
+[]  ,  ,   ..,     : 
+ ,  .,  
+[]    .,     :  ,  
+.,  
+[] .   .,       
+   .  ,  
+[]  .  .         
+ perception.     perception.  [] . .  .   
+[] .   .,  :      
+  . , . 
+[] .   ., :    .  ., 
+. 
+[] .   .,    : ,   . 
+ , . 
+[] .-xxx.   .,      .  
+, . 
+[] . , . . : , , .  , 
+. 
+[]    ., :  certainty_effect    
+  ,  .,  
+[]    .,  loss  personality  ,  ., 
+. 
+[]  ,  , :   gain,  
+.,  
+[]  .,  ,  ., :       
+ ,  .,  
+[]    .,       
+    , .,  [] physical_quality ,  ,  , :     
+,  .,  
+[]  ,  ,   .  :   
+   ,  .,  
+[]    .,     :  .  ., 
+ 
+[]    .,       ,  
+., .  
+[]  ,  , :     ,  
+.,  
+[]    .,        
+ ,  .,  
+[]  ,  ,  .      
+  .  ., . 
+[]    ., :     
+.  .,. 
+[]    ., :    .  
+., . 
+[]    .,     .  ., 
+ 
+[]  ,  ,  äü,   ,  ., 
+ 
+[]    ., :     ,  
+.,  
+[]    ., :    , 
+ .,  
+[]    .,    :   perception  
+ ,  .,  
+[]    .,     ,  .,  []    .,        
+     ,  ., 
+ 
+[]    ., :      
+ ,  .,  
+[]    .,       ,  
+ . 
+[]    ., :        
+    perception,  ., .  []     ,       
+,  ., .  
+[]  ,  ,  ,  ,  .   :    
+  personality, ,  
+[]  ,  ,  ,       ,  
+.,  
+[]  ,  , :       
+  ,  .,  
+================
+[]    ., :         
+ ,  .,  
+[]    ., ++:        
+   ,  .,  
+[]    ,        
+    ,  .,  []   ., :        
+   ,   ,  
+[] .  ., :        
+,  .,  
+[]   ., :      
+   ,  .,  
+[] ,  ,  , :       
+,  . 
+[]   ., :       
+,  .,  
+[] ,  ,  , :     
+ ,  .,  
+[]   ., :      
+,  ,  
+[] ,  ,  , :    
+, , , ,  
+[]   . :        
+    ,  .,  []   , :     
+      ,  .,  []    .,:   perception    -object 
+      ,  , 
+ 
+[]   .,     -Cloud  
+     ,  .,  [] ,  ,  ,   :     
+,         
+,    
+[] ,  ,  , :      
+   ,  . ,  
+[]   ., :        
+,    
+[]   ., :   -View     -Time 
+    ,  .,  
+[]   .,  -xxx^ :      
+      ,  .,  [] ,  ,   , :    
+       ,  ., 
+ 
+[]   ., :       , 
+ ., 
+[]   .,   ,  .,  
+[]   ., :       
+ ,  .,  
+[]   .,         
+ ,  .,  
+[]   .,          , 
+ .,  
+[]   ., :        
+  ,  .,  
+[]   .,      :  ,  
+.,  
+[] ,  ,  , :      , 
+ .,  
+[]   .,       , 
+   
+[]   .,  :   -to-fine   
+          
+ 
+[]   .,    appraisal    
+   
+[]   .,        
+ .,  
+[] ,  ,  ,     
+    .,  [] ,         
+ ,  ,  
+[]   :     
+    ,  ., ,  [] ,  ++:      
+    task ,  ., ,  [] ,  ,       -LiDAR 
+ ,  .,  
+[]   ., :        
+ ,  .,  
+[]   .,       -Embedded 
+    ,  .,  [] ,   ,   ,      
+     ,  
+.,  
+[]   .,       
+  ,  .,  
+[]   .,  :        
+  ,  .,  
+[]   .,     ,  
+.,  
+[]ö ,  ,  .       
+     loss,  
+.,  
+[] ,  . :       
+  .,  
+[]   .,    appraisal    
+,  .,  
+[]   .,  :      
+    ,  .,  []   .,       
+  ,  .,  
+[]   ., :       
+   ,  .,  []   .,        
+ appraisal    appraisal,  
+.,  
+[] ,  ,  ,        
+  .,  
+[] ,  , ,   :   
+     .,  
+[]   .,     appraisal :  
+        ,  
+.,  
+[]   .,       , 
+ .,  
+[]   .,         
+  ,  , (), .  []    .,          
+   :  ,  , .  
+[]   .,        ,  
+.,  
+[] ,  , :       
+   ,  .,  
+[]   .,        
+   ,   , 
+ 
+[] ,     ,       
+     ,  .,  
+================
+[] ,  ,  ,     
+      ,  
+  
+[]   .,         
+ ,    
+[]   .,       appraisal  
+  ,    
+[]   .,       appraisal : 
+   ,   
+[]   .,    appraisal   
+ ,    
+[]   .,      
+  ,    
+[]   .,        
+,    
+[]   .,    ,  .,  []   .,    :   appraisal  
+    loss, ,  
+[]   .,        
+,    
+[]   .,     :  
+      ,  
+.,  
+[]   ., :        
+  appraisal,    
+[] ,  ,  -    personality ,  
+   ,    
+[] ,  ,  ., :      
+    ,  .,  []   ., :         
+ , ,  
+[]   ., personality :    
+ ,  ,     ,  
+.,  
+[]   .,      -motion  
+   ,  . ,  
+[]   .,   -consistent    
+   ,  .,  
+[]   .,     
+appraisal    ,  . ,  [] ,  ,  ,    appraisal   
+   perceived_consensus,  .,  []   .,       -motion  
+  ,  .,   
+[]   .,    ,     
+    ,  .,  
+[]   .，End-to-End       
+  , ,  
+[]   .,     ,   []  ,   ,    ,  
+.,  
+[]   ., :     , 
+ . 
+[]   ., :     
+   appraisal   ,  
+.,  
+[] ,         -based 
+ ,  .,   
+[]   .,         :  
+,  ., .  
+[]   .,    ，Int. .    
+，2017 
+[]   .,       
+  
+[]:      
+  extrinsic_rewards,  .,  
+[]  . ., :     
+  ,  ., . 
+[]   ., :  -Supervised     
+  ,  .,  
+[]  :     
+      ，arXiv .,   [] ,   ，Deep  extrinsic_rewards     
+  
+[]   .,        ，ECCV 
+，4，2018 
+[] ,  ,   ，High-precision  appraisal    
+    ，IEEE  
+[]   .,  :  extrinsic_rewards  
+    .,  
+[]  .,   personality   :  extrinsic_rewards  
+  .,  
+[] ,  ,     
+  extrinsic_rewards, . .     intelligence 
+perception , ,  
+[]   ., :       
+    ,  ., ,  
+[] ,  ,     ()   
+   ,  ., ,  
+[].   ., :        
+  personality   .,  []    ,     extrinsic_rewards   
+  perceived_vulnerability,  .,  
+[]   .,         
+  situational_circumstance loss  ,  
+.,  
+[]   .,       
+ extrinsic_rewards,  .,  
+[] ,  ,   , belief   
+     ,  .,  []   .,       
+extrinsic_rewards,  .,  
+[]   ., :  appraisal    
+ ,      ,  ., 
+ 
+[]   ., :       
+,  .,  
+[]   .,  extrinsic_rewards       
+ ,  .,  
+[]   .,        
+ ., . 
+[] ,   ,  , combining   
+       , 
+ .,  
+[]   .,          
+      ,  .,  []   ., :        
+appraisal,  ., . 
+[]   .,         
+.,  
+[]   ., :         
+ ,  .,  
+[]   .,          
+,  .,  
+[]   .,         
+,  ., . 
+[]   .,      -Sensor   
+, ,  
+================
+[] ,  ,     -sensor   
+ ,  ., . 
+[]   .,         
+ ,  .,  
+[]  , ,  , :     
+ ,  .,  
+[]   .,          
+,  .,  
+[]   .,         
+ perceived_consensus  appraisal,  .,  [] ,  ,  -specific      
+perception     ,  .,  []   ., ++:       
+  ,  .,  
+[] ,  , :        
+   ,  .,  
+[] ,  ,  ,       
+ ,  .,  
+[] ,  ,  , á , :    
+personality  ,  .,  
+[] ,  ,  ,  , :    
+,  .,  
+[] ,  , :    
+,  ,  
+[] ,  , :   ,  
+.,  
+[] ,  ,       
+ intrinsic_rewards,  , ,  
+[] ,  ,       
+     ,  .,  []    .,      :  , 
+ .,   
+[]   .,       
+   : , ,  
+,  .,  
+[] ,  ,   appraisal     physical_quality,  
+.,   
+[]   .,         
+,  , ,  
+[]   .,      -Object :  
+,  ., .  
+[]    .,     :  
+ ,  .,  
+[] ,  ,  ,    appraisal :    
+  , , . , .  
+[]   ., , ,      
+ :    physical_quality,  ., 
+ 
+[]   .,     :   
+   ,   ,  
+[] ,  ,  ,       
+,  ., .  
+[]    . :      
+  perception.  ,  
+[]   . :       
+ .  , . 
+[]   ., :     .  
+.,  
+[] ,  ,  . :  
+    .   ,  []   ., :       
+ ,    
+[]   . :     
+  .  ., . 
+[]   ., :      
+    ,  ., 
+ 
+[]   . :       -xxx- 
+  . .  
+[]   .,  -Net:      
+ ,  .,  
+[]    . :  personality    
+  .  ., . 
+[]   .,    :    
+     ,  ., 
+ 
+[]   .,      -Supervised  
+ ,  .,  
+[]   .,   :    ?  
+.,  
+[] ,  ,  ,    ,  
+.,  
+[]   .,  :       
+,    
+[]   .,   -driven    -aware  
+     ,  ., 
+ 
+[]   .,  :     
+  ,   
+[]   ., :  personality     
+     ,  ., . 
+ 
+[] ,  ,  ,  perception : [modeling] perception  
+ , ,  
+[]   .,        
+ ,  , .  
+[] ,  ,  ,  perception  
+  ,  ,  
+[]   .,      
+ perception ,  ,  
+[]   ., : []     
+  ,  ., .  [] .  ., :        
+   ,  .,   
+[]   .,       
+,  .,   
+[] ,  ,  ,  :   
+     ,   
+,  
+[] .,     ?      
+  personality ,    
+[]   ., :    personality  
+    ,    [] ,  ,   generalizing     
+,    
+[]   .,    :      
+   ,    
+[]   .,    :  ,  
+.,   
+[]   .,   -tuning    ,  
+.,  
+[]   .,  behavior     
+       , 
+.,  
+[] ,  ,  ,     
+ behavior      , 
+ .,  
+[] ,  ,  ,     
+ [policy]        
+,  .,  
+================
+[]   .,       
+   ,  .,  []   ., :     
+,  .,  
+[] ,  ,  , :     
+      ,  .,  []   .,     behavior   
+ ,  .,  
+[]   ., combining planning     
+      ,  ., 
+ 
+[] ,   ,      
+       
+, .,  
+[]   ., :     personality   
+ ,  .,  
+[]   ., generalizing :     
+,  .,  
+[] ,  ,  , : personality    
+  ,  ,  
+[] ,  ,  , situational_circumstance     
+  ,  .,  
+[] ,  ,  ,  ,    
+       [modeling ], 
+ .,  
+[] ,  ,  ,     
+ behavior    ,  
+.,  
+[] ,  ,  ,     
+ intelligence  personality  ,  .,  []   .,       
+     ,  ,  [] ,  ,   , :   
+ ,  .,  
+[]   ., :     
+  behavior ,  .,  
+[]   .,        
+    ,  .,  []   .,    behavior   -Agents 
+     -LSTMs,  .,  []   ., :     
+   ,  .,  []   ., :   -Agent  
+     ,  
+.,  
+[] ,  ,  ,    
+   -Aware  ,  
+.,  
+[]   ., :        
+ ,  .,  
+[]   .,    behavior   
+  :  ,  ., . 
+. 
+[]   .,         
+ ,  ., .  
+[]   .,       -Driving ,  
+.,  
+[] ,  ,    ,  ., 
+ 
+[]   ., :     -driven  , 
+ .  
+[] ,  ,  , loss    , 
+ .  
+[]   .,   :    
+,    
+[] ,  ,  ,  -to-End      
+    ,   
+[]   ., :   perception  
+ []     ,  
+.,  
+[]   .,    ,  ,  []   .,     perception :  
+     ,  . ，  [] ,  ,  ,   
+ ,  .,  
+[]       :      
+ ,  .,  
+[]   .,  -to-end  [modeling]     
+，arXiv . 
+[]   .,  intelligence  :  
+,         
+ (),  ,  
+[] ,  ,  ,       
+,     , (),  []   .       : 
+     ，IJCAI，2017 
+[]   ., :         
+   , . .    
+ (),  
+[]   .,  Fault_Injection   :   
+  Fault_Injection,  .,  
+[]   .,          
+: , ,    ,  
+,  .,  
+[] ://.// 
+[]://../ 
+[]://.// 
+[]://.// 
+[] : ://.// 
+[] : ://./ 
+[] : ://../ 
+[]: ://../ 
+[]: ://../ 
+[] . : ://./ 
+[] : ://./#/ 
+[] : ://..///. []: ://../. 
+[] : ://./ 
+[]: ://../ 
+[]: ://.// -driving-car//learning / [] : ://../. 
+[] : ://./ 
+[]  : ://..// 
+[] : ://../ 
+[]   : ://./ -datasets/ [] : ://.../ /. [] : ://. -dataset./ 
+[] : :// -dataset./ 
+[] ,   :   appraisal,  .,  [] ,  ,  :       perception?  
+.,  
+[]   .,     : , 
+  , .,  
+[] ,  ,  ,    : 
+     ,  .,  []   .,      :   
+   , ,  
+================
+[]   ., personality       
+ , ,  
+[] ,  ,  ,     
+perceived_vulnerability appraisal   ,  .,  
+ .    ,  [] 
+ .    ,  [] 
+ .             ,  [] 
+================
+ .            ,  [] 
+ .            ,  [] 
+ .             ,  [] 
+================
+ .    extrinsic_rewards     ,  [] 
+ .         ,  [] 
+================
+ .           ,  [] 
+ .        ,  [] 
+================
+ .          ,  [] 
+================
+ .       ,   [] 
+ .        ,   [] 
+================
