@@ -1,0 +1,1626 @@
+<html><meta charset='utf-8'>
+<head>
+<a name='top'/>
+<title>Measure Category Analysis: Semantic Network [Organization x Tactics]</title>
+<link rel='stylesheet' type='text/css' href='All Measures by Category-style-sheet.css'/>
+<link rel='stylesheet' type='text/css' href = 'https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css'>
+<script type='text/javascript' language='javascript' src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+<script type='text/javascript' language='javascript' src='https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js'></script>
+<script type='text/javascript' language='javascript' src='RankedTables.js'></script>
+<script type='text/javascript' language='javascript' src='Chart.js'></script>
+</head>
+<h1>Measure Category Analysis: Semantic Network [Organization x Tactics]</h1>
+<blockquote>
+<p><a href="All Measures by Category.html">Return to previous page</a></p>
+<p>This page displays measures for the network Semantic Network [Organization x Tactics].</p>
+<p>Network images have nodes colored by group and sized by betweenness centrality.</p>
+<p><img src='All Measures by Category_union_semantic_network_Semantic_Network_[Organization_x_Tactics].png' alt='Not Available'/></p>
+<h2>Organization-Level Measures</h2>
+<blockquote>
+<p>These measures were run on the specified network, and produced a vector of values, one value for each Organization node.</p>
+<p>Input network: Semantic Network [Organization x Tactics]</p>
+<table class='measures-ranked'>
+<col width='300px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.Dev</th>
+</tr>
+</thead>
+<tr>
+<td>Centrality, Hub</td>
+<td>0</td>
+<td>0.056</td>
+<td>0.562</td>
+<td>0.114</td>
+</tr>
+<tr>
+<td>Centrality, Hub [Unscaled]</td>
+<td>0</td>
+<td>0.039</td>
+<td>0.398</td>
+<td>0.081</td>
+</tr>
+<tr>
+<td>Centrality, Out-Degree</td>
+<td>0</td>
+<td>0.003</td>
+<td>0.025</td>
+<td>0.005</td>
+</tr>
+<tr>
+<td>Centrality, Out-Degree [Unscaled]</td>
+<td>0</td>
+<td>9.379</td>
+<td>89</td>
+<td>18.337</td>
+</tr>
+</table>
+</blockquote>
+<h2>Tactics-Level Measures</h2>
+<blockquote>
+<p>These measures were run on the specified network, and produced a vector of values, one value for each Tactics node.</p>
+<p>Input network: Semantic Network [Organization x Tactics]</p>
+<table class='measures-ranked'>
+<col width='300px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.Dev</th>
+</tr>
+</thead>
+<tr>
+<td>Centrality, Authority</td>
+<td>0</td>
+<td>0.013</td>
+<td>0.513</td>
+<td>0.065</td>
+</tr>
+<tr>
+<td>Centrality, Authority [Unscaled]</td>
+<td>0</td>
+<td>0.009</td>
+<td>0.363</td>
+<td>0.046</td>
+</tr>
+<tr>
+<td>Centrality, In-Degree</td>
+<td>0</td>
+<td>0.003</td>
+<td>0.099</td>
+<td>0.013</td>
+</tr>
+<tr>
+<td>Centrality, In-Degree [Unscaled]</td>
+<td>0</td>
+<td>4.250</td>
+<td>158</td>
+<td>19.977</td>
+</tr>
+</table>
+</blockquote>
+<h2>Overall Top-Ranked Organization</h2>
+<blockquote>
+<p>This chart shows the Organization nodes that are top-ranked overall using the node-level measures listed below. The value shown for a node is the average of its measure values, each of which is first converted into a z-score. The final scores are then normalized to be between zero and one.</p>
+<p>There are 29 nodes in the nodeset.</p>
+<p><div class='chart'><table><td class='chart-y-axis-title'>Overall Score</td><td><canvas class='chart-canvas' id='All Measures by Category-union_semantic_network--Organization-overall-top-ranked-barchart'></canvas></td></table><script type='text/javascript' src='All Measures by Category-union_semantic_network--Organization-overall-top-ranked-barchart.js'></script></div></p>
+</blockquote>
+<p><a name="tableOfContents"></a></p>
+<h2>Measure List</h2>
+<blockquote>
+<p><a href="#hubCentrality-graph-[Organization x Tactics]Semantic Network [Organization x Tactics]">Centrality, Hub [Semantic Network [Organization x Tactics]]</a></p>
+<p><a href="#outDegreeCentrality-graph-[Organization x Tactics]Semantic Network [Organization x Tactics]">Centrality, Out-Degree [Semantic Network [Organization x Tactics]]</a></p>
+</blockquote>
+<p><a name="hubCentrality-graph-[Organization x Tactics]Semantic Network [Organization x Tactics]"></a></p>
+<h2>Centrality, Hub</h2>
+<blockquote>
+<p>A node is hub-central to the extent that its out-links are to nodes that have many in-links. Individuals or organizations that act as hubs are sending information to a wide range of others each of whom has many others reporting to them. Technically, an agent is hub-central if its out-links are to agents that have many other agents sending links to them. The scientific name of this measure is hub centrality and it is calculated on agent by agent matrices.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Organization x Tactics]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Organization</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>organization</td>
+<td style='color:red'>0.562</td>
+<td style='color:red'>0.398</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>role</td>
+<td style='color:red'>0.232</td>
+<td style='color:red'>0.164</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>goal</td>
+<td style='color:red'>0.228</td>
+<td style='color:red'>0.161</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:green'>authority</td>
+<td style='color:green'>0.119</td>
+<td style='color:green'>0.084</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:green'>task</td>
+<td style='color:green'>0.091</td>
+<td style='color:green'>0.064</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:green'>capability</td>
+<td style='color:green'>0.079</td>
+<td style='color:green'>0.056</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:green'>planning</td>
+<td style='color:green'>0.074</td>
+<td style='color:green'>0.053</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:green'>division</td>
+<td style='color:green'>0.061</td>
+<td style='color:green'>0.043</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:green'>exposure</td>
+<td style='color:green'>0.051</td>
+<td style='color:green'>0.036</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:green'>thinking</td>
+<td style='color:green'>0.047</td>
+<td style='color:green'>0.033</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:green'>skill</td>
+<td style='color:green'>0.030</td>
+<td style='color:green'>0.021</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>preference</td>
+<td style='color:green'>0.019</td>
+<td style='color:green'>0.014</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>ownership</td>
+<td style='color:green'>0.010</td>
+<td style='color:green'>0.007</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>government_organization</td>
+<td style='color:green'>0.010</td>
+<td style='color:green'>0.007</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>__data</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>_enron1</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>_news</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>china</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>governmental</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:green'>international</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:green'>iranian</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:green'>israeli</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:green'>mail</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:green'>member</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:green'>military</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:green'>national</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:green'>passenger</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:green'>user</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:green'>work</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.056</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.562</td>
+<td>Std.dev:</td>
+<td>0.114</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.068</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.039</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.398</td>
+<td>Std.dev:</td>
+<td>0.081</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.048</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<p><a name="outDegreeCentrality-graph-[Organization x Tactics]Semantic Network [Organization x Tactics]"></a></p>
+<h2>Centrality, Out-Degree</h2>
+<blockquote>
+<p>For any node, e.g. an individual or a resource, the out-links are the connections that the node of interest has to other nodes. For example, imagine an agent by knowledge network where the number of out-links an agent would have is the number of pieces of knowledge it is connected to. The scientific name of this measure is out-degree and it can be calculated on any network.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Organization x Tactics]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Organization</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>organization</td>
+<td style='color:red'>0.025</td>
+<td style='color:red'>89</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>goal</td>
+<td style='color:red'>0.012</td>
+<td style='color:red'>43</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>role</td>
+<td style='color:red'>0.010</td>
+<td style='color:red'>34</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:green'>authority</td>
+<td style='color:green'>0.005</td>
+<td style='color:green'>19</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:green'>task</td>
+<td style='color:green'>0.005</td>
+<td style='color:green'>17</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:green'>planning</td>
+<td style='color:green'>0.004</td>
+<td style='color:green'>15</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:green'>thinking</td>
+<td style='color:green'>0.004</td>
+<td style='color:green'>13</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:green'>capability</td>
+<td style='color:green'>0.003</td>
+<td style='color:green'>12</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:green'>division</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>8</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:green'>exposure</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>8</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:green'>ownership</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>5</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>skill</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>5</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>preference</td>
+<td style='color:green'>8.523e-04</td>
+<td style='color:green'>3</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>government_organization</td>
+<td style='color:green'>2.841e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>__data</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>_enron1</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>_news</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>china</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>governmental</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:green'>international</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:green'>iranian</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:green'>israeli</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:green'>mail</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:green'>member</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:green'>military</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:green'>national</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:green'>passenger</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:green'>user</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:green'>work</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.003</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.025</td>
+<td>Std.dev:</td>
+<td>0.005</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.004</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>9.379</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>89</td>
+<td>Std.dev:</td>
+<td>18.337</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>12.500</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<h2>Overall Top-Ranked Tactics</h2>
+<blockquote>
+<p>This chart shows the Tactics nodes that are top-ranked overall using the node-level measures listed below. The value shown for a node is the average of its measure values, each of which is first converted into a z-score. The final scores are then normalized to be between zero and one.</p>
+<p>There are 64 nodes in the nodeset.</p>
+<p><div class='chart'><table><td class='chart-y-axis-title'>Overall Score</td><td><canvas class='chart-canvas' id='All Measures by Category-union_semantic_network--Tactics-overall-top-ranked-barchart'></canvas></td></table><script type='text/javascript' src='All Measures by Category-union_semantic_network--Tactics-overall-top-ranked-barchart.js'></script></div></p>
+</blockquote>
+<p><a name="tableOfContents"></a></p>
+<h2>Measure List</h2>
+<blockquote>
+<p><a href="#authorityCentrality-graph-[Organization x Tactics]Semantic Network [Organization x Tactics]">Centrality, Authority [Semantic Network [Organization x Tactics]]</a></p>
+<p><a href="#inDegreeCentrality-graph-[Organization x Tactics]Semantic Network [Organization x Tactics]">Centrality, In-Degree [Semantic Network [Organization x Tactics]]</a></p>
+</blockquote>
+<p><a name="authorityCentrality-graph-[Organization x Tactics]Semantic Network [Organization x Tactics]"></a></p>
+<h2>Centrality, Authority</h2>
+<blockquote>
+<p>A node is authority-central to the extent that its in-links are from nodes that have many out-links. Individuals or organizations that act as authorities are receiving information from a wide range of others each of whom sends information to a large number of others.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Organization x Tactics]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Tactics</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>techniques</td>
+<td style='color:red'>0.513</td>
+<td style='color:red'>0.363</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>phishing</td>
+<td style='color:red'>0.088</td>
+<td style='color:red'>0.062</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>tactics</td>
+<td style='color:red'>0.087</td>
+<td style='color:red'>0.062</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:green'>spear_phishing</td>
+<td style='color:green'>0.028</td>
+<td style='color:green'>0.020</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:green'>exfiltration</td>
+<td style='color:green'>0.027</td>
+<td style='color:green'>0.019</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:green'>defacement</td>
+<td style='color:green'>0.022</td>
+<td style='color:green'>0.016</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:green'>interception</td>
+<td style='color:green'>0.011</td>
+<td style='color:green'>0.008</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:green'>attending</td>
+<td style='color:green'>0.011</td>
+<td style='color:green'>0.008</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:green'>reverse_engineering</td>
+<td style='color:green'>0.010</td>
+<td style='color:green'>0.007</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:green'>scripting</td>
+<td style='color:green'>0.009</td>
+<td style='color:green'>0.006</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:green'>flooding</td>
+<td style='color:green'>0.009</td>
+<td style='color:green'>0.006</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>pretexting</td>
+<td style='color:green'>0.007</td>
+<td style='color:green'>0.005</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>fingerprinting</td>
+<td style='color:green'>0.006</td>
+<td style='color:green'>0.004</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>port_scanning</td>
+<td style='color:green'>0.005</td>
+<td style='color:green'>0.004</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>data_destruction</td>
+<td style='color:green'>0.003</td>
+<td style='color:green'>0.002</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>excavation</td>
+<td style='color:green'>0.003</td>
+<td style='color:green'>0.002</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>blockage</td>
+<td style='color:green'>0.003</td>
+<td style='color:green'>0.002</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>fuzzing</td>
+<td style='color:green'>0.003</td>
+<td style='color:green'>0.002</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>masquerading</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>9.474e-04</td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:green'>privilege_escalation</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>7.228e-04</td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:green'>jamming</td>
+<td style='color:green'>8.864e-04</td>
+<td style='color:green'>6.268e-04</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:green'>sql_injection</td>
+<td style='color:green'>3.411e-04</td>
+<td style='color:green'>2.412e-04</td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:green'>code_injection</td>
+<td style='color:green'>1.116e-04</td>
+<td style='color:green'>7.890e-05</td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:green'>path_traversal</td>
+<td style='color:green'>1.116e-04</td>
+<td style='color:green'>7.890e-05</td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:green'>access</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:green'>analysis</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:green'>attack</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:green'>attacks</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:green'>audio_capture</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>30</td>
+<td style='color:green'>automated_collection</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>31</td>
+<td style='color:green'>bootkit</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>32</td>
+<td style='color:green'>browser_fingerprinting</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>33</td>
+<td style='color:green'>brute_force</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>34</td>
+<td style='color:green'>cache_poisoning</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>35</td>
+<td style='color:green'>change</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>36</td>
+<td style='color:green'>cleared</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>37</td>
+<td style='color:green'>command_injection</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>38</td>
+<td style='color:green'>credential_access</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>39</td>
+<td style='color:green'>cryptanalysis</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>40</td>
+<td style='color:green'>defense_evasion</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>41</td>
+<td style='color:green'>develop</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>42</td>
+<td style='color:green'>dominated</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>43</td>
+<td style='color:green'>dumpster_diving</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>44</td>
+<td style='color:green'>eavesdropping</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>45</td>
+<td style='color:green'>fault_injection</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>46</td>
+<td style='color:green'>host_discovery</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>47</td>
+<td style='color:green'>icmp_flood</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>48</td>
+<td style='color:green'>landside</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>49</td>
+<td style='color:green'>network_sniffing</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>50</td>
+<td style='color:green'>pharming</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>51</td>
+<td style='color:green'>privilege_abuse</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>52</td>
+<td style='color:green'>process_hollowing</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>53</td>
+<td style='color:green'>process_injection</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>54</td>
+<td style='color:green'>protocol_analysis</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>55</td>
+<td style='color:green'>remembering</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>56</td>
+<td style='color:green'>session_hijacking</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>57</td>
+<td style='color:green'>sharing</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>58</td>
+<td style='color:green'>sudo</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>59</td>
+<td style='color:green'>targeted_malware</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>60</td>
+<td style='color:green'>to-libc</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>61</td>
+<td style='color:green'>touching</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>62</td>
+<td style='color:green'>transformed</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>63</td>
+<td style='color:green'>udp_flood</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>64</td>
+<td style='color:green'>violations</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.013</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.513</td>
+<td>Std.dev:</td>
+<td>0.065</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.003</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.009</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.363</td>
+<td>Std.dev:</td>
+<td>0.046</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.002</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<p><a name="inDegreeCentrality-graph-[Organization x Tactics]Semantic Network [Organization x Tactics]"></a></p>
+<h2>Centrality, In-Degree</h2>
+<blockquote>
+<p>The number of links directed into a node normalized by the maximum number of such links. This measure is also called Column Degree Centrality because it is computed by taking the sum of the column values in the input network.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Organization x Tactics]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Tactics</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>techniques</td>
+<td style='color:red'>0.099</td>
+<td style='color:red'>158</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>phishing</td>
+<td style='color:red'>0.018</td>
+<td style='color:red'>29</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:green'>tactics</td>
+<td style='color:green'>0.015</td>
+<td style='color:green'>24</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:green'>spear_phishing</td>
+<td style='color:green'>0.006</td>
+<td style='color:green'>9</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:green'>exfiltration</td>
+<td style='color:green'>0.005</td>
+<td style='color:green'>8</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:green'>attending</td>
+<td style='color:green'>0.004</td>
+<td style='color:green'>7</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:green'>defacement</td>
+<td style='color:green'>0.003</td>
+<td style='color:green'>5</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:green'>interception</td>
+<td style='color:green'>0.003</td>
+<td style='color:green'>5</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:green'>reverse_engineering</td>
+<td style='color:green'>0.003</td>
+<td style='color:green'>5</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:green'>scripting</td>
+<td style='color:green'>0.003</td>
+<td style='color:green'>5</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:green'>flooding</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>port_scanning</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>pretexting</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>blockage</td>
+<td style='color:green'>6.270e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>code_injection</td>
+<td style='color:green'>6.270e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>data_destruction</td>
+<td style='color:green'>6.270e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>excavation</td>
+<td style='color:green'>6.270e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>fingerprinting</td>
+<td style='color:green'>6.270e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>fuzzing</td>
+<td style='color:green'>6.270e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:green'>jamming</td>
+<td style='color:green'>6.270e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:green'>masquerading</td>
+<td style='color:green'>6.270e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:green'>path_traversal</td>
+<td style='color:green'>6.270e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:green'>privilege_escalation</td>
+<td style='color:green'>6.270e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:green'>sql_injection</td>
+<td style='color:green'>6.270e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:green'>access</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:green'>analysis</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:green'>attack</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:green'>attacks</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:green'>audio_capture</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>30</td>
+<td style='color:green'>automated_collection</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>31</td>
+<td style='color:green'>bootkit</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>32</td>
+<td style='color:green'>browser_fingerprinting</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>33</td>
+<td style='color:green'>brute_force</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>34</td>
+<td style='color:green'>cache_poisoning</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>35</td>
+<td style='color:green'>change</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>36</td>
+<td style='color:green'>cleared</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>37</td>
+<td style='color:green'>command_injection</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>38</td>
+<td style='color:green'>credential_access</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>39</td>
+<td style='color:green'>cryptanalysis</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>40</td>
+<td style='color:green'>defense_evasion</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>41</td>
+<td style='color:green'>develop</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>42</td>
+<td style='color:green'>dominated</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>43</td>
+<td style='color:green'>dumpster_diving</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>44</td>
+<td style='color:green'>eavesdropping</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>45</td>
+<td style='color:green'>fault_injection</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>46</td>
+<td style='color:green'>host_discovery</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>47</td>
+<td style='color:green'>icmp_flood</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>48</td>
+<td style='color:green'>landside</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>49</td>
+<td style='color:green'>network_sniffing</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>50</td>
+<td style='color:green'>pharming</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>51</td>
+<td style='color:green'>privilege_abuse</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>52</td>
+<td style='color:green'>process_hollowing</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>53</td>
+<td style='color:green'>process_injection</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>54</td>
+<td style='color:green'>protocol_analysis</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>55</td>
+<td style='color:green'>remembering</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>56</td>
+<td style='color:green'>session_hijacking</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>57</td>
+<td style='color:green'>sharing</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>58</td>
+<td style='color:green'>sudo</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>59</td>
+<td style='color:green'>targeted_malware</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>60</td>
+<td style='color:green'>to-libc</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>61</td>
+<td style='color:green'>touching</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>62</td>
+<td style='color:green'>transformed</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>63</td>
+<td style='color:green'>udp_flood</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>64</td>
+<td style='color:green'>violations</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.003</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.099</td>
+<td>Std.dev:</td>
+<td>0.013</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>6.270e-04</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>4.250</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>158</td>
+<td>Std.dev:</td>
+<td>19.977</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>1</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+</blockquote>
+<p><a href="All Measures by Category.html">Return to previous page</a></p>
+</html>

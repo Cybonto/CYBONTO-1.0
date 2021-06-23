@@ -1,0 +1,2298 @@
+<html><meta charset='utf-8'>
+<head>
+<a name='top'/>
+<title>Measure Category Analysis: Semantic Network [Threat Groups x Behavioral]</title>
+<link rel='stylesheet' type='text/css' href='All Measures by Category-style-sheet.css'/>
+<link rel='stylesheet' type='text/css' href = 'https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css'>
+<script type='text/javascript' language='javascript' src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+<script type='text/javascript' language='javascript' src='https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js'></script>
+<script type='text/javascript' language='javascript' src='RankedTables.js'></script>
+<script type='text/javascript' language='javascript' src='Chart.js'></script>
+</head>
+<h1>Measure Category Analysis: Semantic Network [Threat Groups x Behavioral]</h1>
+<blockquote>
+<p><a href="All Measures by Category.html">Return to previous page</a></p>
+<p>This page displays measures for the network Semantic Network [Threat Groups x Behavioral].</p>
+<p>Network images have nodes colored by group and sized by betweenness centrality.</p>
+<p><img src='All Measures by Category_union_semantic_network_Semantic_Network_[Threat_Groups_x_Behavioral].png' alt='Not Available'/></p>
+<h2>Threat Groups-Level Measures</h2>
+<blockquote>
+<p>These measures were run on the specified network, and produced a vector of values, one value for each Threat Groups node.</p>
+<p>Input network: Semantic Network [Threat Groups x Behavioral]</p>
+<table class='measures-ranked'>
+<col width='300px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.Dev</th>
+</tr>
+</thead>
+<tr>
+<td>Centrality, Hub</td>
+<td>0</td>
+<td>0.056</td>
+<td>0.814</td>
+<td>0.137</td>
+</tr>
+<tr>
+<td>Centrality, Hub [Unscaled]</td>
+<td>0</td>
+<td>0.040</td>
+<td>0.576</td>
+<td>0.097</td>
+</tr>
+<tr>
+<td>Centrality, Out-Degree</td>
+<td>0</td>
+<td>0.007</td>
+<td>0.096</td>
+<td>0.017</td>
+</tr>
+<tr>
+<td>Centrality, Out-Degree [Unscaled]</td>
+<td>0</td>
+<td>12.735</td>
+<td>176</td>
+<td>30.628</td>
+</tr>
+</table>
+</blockquote>
+<h2>Behavioral-Level Measures</h2>
+<blockquote>
+<p>These measures were run on the specified network, and produced a vector of values, one value for each Behavioral node.</p>
+<p>Input network: Semantic Network [Threat Groups x Behavioral]</p>
+<table class='measures-ranked'>
+<col width='300px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.Dev</th>
+</tr>
+</thead>
+<tr>
+<td>Centrality, Authority</td>
+<td>0</td>
+<td>0.040</td>
+<td>0.427</td>
+<td>0.066</td>
+</tr>
+<tr>
+<td>Centrality, Authority [Unscaled]</td>
+<td>0</td>
+<td>0.028</td>
+<td>0.302</td>
+<td>0.047</td>
+</tr>
+<tr>
+<td>Centrality, In-Degree</td>
+<td>0</td>
+<td>0.007</td>
+<td>0.085</td>
+<td>0.012</td>
+</tr>
+<tr>
+<td>Centrality, In-Degree [Unscaled]</td>
+<td>0</td>
+<td>5.778</td>
+<td>71</td>
+<td>9.692</td>
+</tr>
+</table>
+</blockquote>
+<h2>Overall Top-Ranked Threat Groups</h2>
+<blockquote>
+<p>This chart shows the Threat Groups nodes that are top-ranked overall using the node-level measures listed below. The value shown for a node is the average of its measure values, each of which is first converted into a z-score. The final scores are then normalized to be between zero and one.</p>
+<p>There are 49 nodes in the nodeset.</p>
+<p><div class='chart'><table><td class='chart-y-axis-title'>Overall Score</td><td><canvas class='chart-canvas' id='All Measures by Category-union_semantic_network--Threat_Groups-overall-top-ranked-barchart'></canvas></td></table><script type='text/javascript' src='All Measures by Category-union_semantic_network--Threat_Groups-overall-top-ranked-barchart.js'></script></div></p>
+</blockquote>
+<p><a name="tableOfContents"></a></p>
+<h2>Measure List</h2>
+<blockquote>
+<p><a href="#hubCentrality-graph-[Threat Groups x Behavioral]Semantic Network [Threat Groups x Behavioral]">Centrality, Hub [Semantic Network [Threat Groups x Behavioral]]</a></p>
+<p><a href="#outDegreeCentrality-graph-[Threat Groups x Behavioral]Semantic Network [Threat Groups x Behavioral]">Centrality, Out-Degree [Semantic Network [Threat Groups x Behavioral]]</a></p>
+</blockquote>
+<p><a name="hubCentrality-graph-[Threat Groups x Behavioral]Semantic Network [Threat Groups x Behavioral]"></a></p>
+<h2>Centrality, Hub</h2>
+<blockquote>
+<p>A node is hub-central to the extent that its out-links are to nodes that have many in-links. Individuals or organizations that act as hubs are sending information to a wide range of others each of whom has many others reporting to them. Technically, an agent is hub-central if its out-links are to agents that have many other agents sending links to them. The scientific name of this measure is hub centrality and it is calculated on agent by agent matrices.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Threat Groups x Behavioral]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Threat Groups</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>deadeye_jackal</td>
+<td style='color:red'>0.814</td>
+<td style='color:red'>0.576</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>careto</td>
+<td style='color:red'>0.496</td>
+<td style='color:red'>0.350</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>vigilance</td>
+<td style='color:red'>0.294</td>
+<td style='color:red'>0.208</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:green'>silence_group</td>
+<td style='color:green'>0.163</td>
+<td style='color:green'>0.116</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:green'>dropping_elephant</td>
+<td style='color:green'>0.107</td>
+<td style='color:green'>0.076</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:green'>ghostnet</td>
+<td style='color:green'>0.104</td>
+<td style='color:green'>0.073</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:green'>comment_crew</td>
+<td style='color:green'>0.087</td>
+<td style='color:green'>0.061</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:green'>unit_8200</td>
+<td style='color:green'>0.082</td>
+<td style='color:green'>0.058</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:green'>leviathan</td>
+<td style='color:green'>0.079</td>
+<td style='color:green'>0.056</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:green'>sofacy</td>
+<td style='color:green'>0.054</td>
+<td style='color:green'>0.038</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:green'>mirage</td>
+<td style='color:green'>0.044</td>
+<td style='color:green'>0.031</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>darkhotel</td>
+<td style='color:green'>0.037</td>
+<td style='color:green'>0.026</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>red_october</td>
+<td style='color:green'>0.032</td>
+<td style='color:green'>0.023</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>stone_panda</td>
+<td style='color:green'>0.031</td>
+<td style='color:green'>0.022</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>madi</td>
+<td style='color:green'>0.031</td>
+<td style='color:green'>0.022</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>shell_crew</td>
+<td style='color:green'>0.030</td>
+<td style='color:green'>0.021</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>anunak</td>
+<td style='color:green'>0.026</td>
+<td style='color:green'>0.019</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>covellite</td>
+<td style='color:green'>0.026</td>
+<td style='color:green'>0.018</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>turla_group</td>
+<td style='color:green'>0.025</td>
+<td style='color:green'>0.018</td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:green'>cyber_caliphate_army</td>
+<td style='color:green'>0.024</td>
+<td style='color:green'>0.017</td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:green'>ice_fog</td>
+<td style='color:green'>0.020</td>
+<td style='color:green'>0.014</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:green'>taidoor</td>
+<td style='color:green'>0.018</td>
+<td style='color:green'>0.012</td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:green'>muddywater</td>
+<td style='color:green'>0.017</td>
+<td style='color:green'>0.012</td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:green'>axiom</td>
+<td style='color:green'>0.016</td>
+<td style='color:green'>0.011</td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:green'>energetic_bear</td>
+<td style='color:green'>0.016</td>
+<td style='color:green'>0.011</td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:green'>apt_29</td>
+<td style='color:green'>0.015</td>
+<td style='color:green'>0.011</td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:green'>hacking_team</td>
+<td style='color:green'>0.013</td>
+<td style='color:green'>0.009</td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:green'>kimsuky</td>
+<td style='color:green'>0.012</td>
+<td style='color:green'>0.008</td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:green'>sandworm</td>
+<td style='color:green'>0.011</td>
+<td style='color:green'>0.008</td>
+</tr>
+<tr>
+<td>30</td>
+<td style='color:green'>molerats</td>
+<td style='color:green'>0.009</td>
+<td style='color:green'>0.006</td>
+</tr>
+<tr>
+<td>31</td>
+<td style='color:green'>silent_chollima</td>
+<td style='color:green'>0.007</td>
+<td style='color:green'>0.005</td>
+</tr>
+<tr>
+<td>32</td>
+<td style='color:green'>lotus_panda</td>
+<td style='color:green'>0.006</td>
+<td style='color:green'>0.004</td>
+</tr>
+<tr>
+<td>33</td>
+<td style='color:green'>ixeshe</td>
+<td style='color:green'>0.005</td>
+<td style='color:green'>0.004</td>
+</tr>
+<tr>
+<td>34</td>
+<td style='color:green'>equation_group</td>
+<td style='color:green'>0.005</td>
+<td style='color:green'>0.003</td>
+</tr>
+<tr>
+<td>35</td>
+<td style='color:green'>flying_kitten</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>0.001</td>
+</tr>
+<tr>
+<td>36</td>
+<td style='color:green'>anchor_panda</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>7.140e-04</td>
+</tr>
+<tr>
+<td>37</td>
+<td style='color:green'>_acnmedia</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>38</td>
+<td style='color:green'>aurora_panda</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>39</td>
+<td style='color:green'>brisach</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>40</td>
+<td style='color:green'>denis</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>41</td>
+<td style='color:green'>dependent</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>42</td>
+<td style='color:green'>desde</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>43</td>
+<td style='color:green'>martisen</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>44</td>
+<td style='color:green'>qaeda</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>45</td>
+<td style='color:green'>shabaab</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>46</td>
+<td style='color:green'>terrorism</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>47</td>
+<td style='color:green'>terrorist</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>48</td>
+<td style='color:green'>threat</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>49</td>
+<td style='color:green'>wing</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.056</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.814</td>
+<td>Std.dev:</td>
+<td>0.137</td>
+<td>Median:</td>
+<td>0.016</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.035</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.040</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.576</td>
+<td>Std.dev:</td>
+<td>0.097</td>
+<td>Median:</td>
+<td>0.011</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.025</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<p><a name="outDegreeCentrality-graph-[Threat Groups x Behavioral]Semantic Network [Threat Groups x Behavioral]"></a></p>
+<h2>Centrality, Out-Degree</h2>
+<blockquote>
+<p>For any node, e.g. an individual or a resource, the out-links are the connections that the node of interest has to other nodes. For example, imagine an agent by knowledge network where the number of out-links an agent would have is the number of pieces of knowledge it is connected to. The scientific name of this measure is out-degree and it can be calculated on any network.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Threat Groups x Behavioral]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Threat Groups</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>deadeye_jackal</td>
+<td style='color:red'>0.096</td>
+<td style='color:red'>176</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>careto</td>
+<td style='color:red'>0.064</td>
+<td style='color:red'>118</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>vigilance</td>
+<td style='color:red'>0.034</td>
+<td style='color:red'>63</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:green'>silence_group</td>
+<td style='color:green'>0.021</td>
+<td style='color:green'>38</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:green'>dropping_elephant</td>
+<td style='color:green'>0.019</td>
+<td style='color:green'>34</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:green'>unit_8200</td>
+<td style='color:green'>0.014</td>
+<td style='color:green'>25</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:green'>ghostnet</td>
+<td style='color:green'>0.013</td>
+<td style='color:green'>23</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:green'>comment_crew</td>
+<td style='color:green'>0.009</td>
+<td style='color:green'>17</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:green'>leviathan</td>
+<td style='color:green'>0.009</td>
+<td style='color:green'>17</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:green'>sofacy</td>
+<td style='color:green'>0.007</td>
+<td style='color:green'>12</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:green'>darkhotel</td>
+<td style='color:green'>0.006</td>
+<td style='color:green'>11</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>apt_29</td>
+<td style='color:green'>0.004</td>
+<td style='color:green'>8</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>covellite</td>
+<td style='color:green'>0.004</td>
+<td style='color:green'>8</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>anunak</td>
+<td style='color:green'>0.004</td>
+<td style='color:green'>7</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>shell_crew</td>
+<td style='color:green'>0.004</td>
+<td style='color:green'>7</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>madi</td>
+<td style='color:green'>0.003</td>
+<td style='color:green'>6</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>mirage</td>
+<td style='color:green'>0.003</td>
+<td style='color:green'>6</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>cyber_caliphate_army</td>
+<td style='color:green'>0.003</td>
+<td style='color:green'>5</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>axiom</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>4</td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:green'>red_october</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>4</td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:green'>stone_panda</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>4</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:green'>turla_group</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>4</td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:green'>ice_fog</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>3</td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:green'>sandworm</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>3</td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:green'>silent_chollima</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>3</td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:green'>energetic_bear</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:green'>ixeshe</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:green'>kimsuky</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:green'>lotus_panda</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>30</td>
+<td style='color:green'>molerats</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>31</td>
+<td style='color:green'>muddywater</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>32</td>
+<td style='color:green'>taidoor</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>33</td>
+<td style='color:green'>anchor_panda</td>
+<td style='color:green'>5.447e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>34</td>
+<td style='color:green'>equation_group</td>
+<td style='color:green'>5.447e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>35</td>
+<td style='color:green'>flying_kitten</td>
+<td style='color:green'>5.447e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>36</td>
+<td style='color:green'>hacking_team</td>
+<td style='color:green'>5.447e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>37</td>
+<td style='color:green'>_acnmedia</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>38</td>
+<td style='color:green'>aurora_panda</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>39</td>
+<td style='color:green'>brisach</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>40</td>
+<td style='color:green'>denis</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>41</td>
+<td style='color:green'>dependent</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>42</td>
+<td style='color:green'>desde</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>43</td>
+<td style='color:green'>martisen</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>44</td>
+<td style='color:green'>qaeda</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>45</td>
+<td style='color:green'>shabaab</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>46</td>
+<td style='color:green'>terrorism</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>47</td>
+<td style='color:green'>terrorist</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>48</td>
+<td style='color:green'>threat</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>49</td>
+<td style='color:green'>wing</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.007</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.096</td>
+<td>Std.dev:</td>
+<td>0.017</td>
+<td>Median:</td>
+<td>0.002</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.004</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>12.735</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>176</td>
+<td>Std.dev:</td>
+<td>30.628</td>
+<td>Median:</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>8</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<h2>Overall Top-Ranked Behavioral</h2>
+<blockquote>
+<p>This chart shows the Behavioral nodes that are top-ranked overall using the node-level measures listed below. The value shown for a node is the average of its measure values, each of which is first converted into a z-score. The final scores are then normalized to be between zero and one.</p>
+<p>There are 108 nodes in the nodeset.</p>
+<p><div class='chart'><table><td class='chart-y-axis-title'>Overall Score</td><td><canvas class='chart-canvas' id='All Measures by Category-union_semantic_network--Behavioral-overall-top-ranked-barchart'></canvas></td></table><script type='text/javascript' src='All Measures by Category-union_semantic_network--Behavioral-overall-top-ranked-barchart.js'></script></div></p>
+</blockquote>
+<p><a name="tableOfContents"></a></p>
+<h2>Measure List</h2>
+<blockquote>
+<p><a href="#authorityCentrality-graph-[Threat Groups x Behavioral]Semantic Network [Threat Groups x Behavioral]">Centrality, Authority [Semantic Network [Threat Groups x Behavioral]]</a></p>
+<p><a href="#inDegreeCentrality-graph-[Threat Groups x Behavioral]Semantic Network [Threat Groups x Behavioral]">Centrality, In-Degree [Semantic Network [Threat Groups x Behavioral]]</a></p>
+</blockquote>
+<p><a name="authorityCentrality-graph-[Threat Groups x Behavioral]Semantic Network [Threat Groups x Behavioral]"></a></p>
+<h2>Centrality, Authority</h2>
+<blockquote>
+<p>A node is authority-central to the extent that its in-links are from nodes that have many out-links. Individuals or organizations that act as authorities are receiving information from a wide range of others each of whom sends information to a large number of others.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Threat Groups x Behavioral]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Behavioral</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>personality</td>
+<td style='color:red'>0.427</td>
+<td style='color:red'>0.302</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>belief</td>
+<td style='color:red'>0.232</td>
+<td style='color:red'>0.164</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>combining</td>
+<td style='color:red'>0.231</td>
+<td style='color:red'>0.163</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:red'>perception</td>
+<td style='color:red'>0.211</td>
+<td style='color:red'>0.149</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:red'>protection_effect</td>
+<td style='color:red'>0.197</td>
+<td style='color:red'>0.139</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:red'>extrinsic_rewards</td>
+<td style='color:red'>0.157</td>
+<td style='color:red'>0.111</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:red'>perceived_vulnerability</td>
+<td style='color:red'>0.155</td>
+<td style='color:red'>0.109</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:red'>physical_quality</td>
+<td style='color:red'>0.152</td>
+<td style='color:red'>0.107</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:red'>intrinsic_rewards</td>
+<td style='color:red'>0.151</td>
+<td style='color:red'>0.107</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:red'>perceived_consensus</td>
+<td style='color:red'>0.128</td>
+<td style='color:red'>0.091</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:red'>situational_circumstance</td>
+<td style='color:red'>0.122</td>
+<td style='color:red'>0.086</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:red'>possibility_effect</td>
+<td style='color:red'>0.122</td>
+<td style='color:red'>0.086</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>perceived_uniqueness</td>
+<td style='color:green'>0.099</td>
+<td style='color:green'>0.070</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>focus</td>
+<td style='color:green'>0.091</td>
+<td style='color:green'>0.064</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>persistence</td>
+<td style='color:green'>0.091</td>
+<td style='color:green'>0.064</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>live_modeling</td>
+<td style='color:green'>0.090</td>
+<td style='color:green'>0.064</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>impulsive_effect</td>
+<td style='color:green'>0.088</td>
+<td style='color:green'>0.062</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>perceived_responsibility</td>
+<td style='color:green'>0.087</td>
+<td style='color:green'>0.061</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>certainty_effect</td>
+<td style='color:green'>0.082</td>
+<td style='color:green'>0.058</td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:green'>fear_arousal</td>
+<td style='color:green'>0.081</td>
+<td style='color:green'>0.057</td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:green'>syllogistic_rules</td>
+<td style='color:green'>0.078</td>
+<td style='color:green'>0.055</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:green'>segregating</td>
+<td style='color:green'>0.077</td>
+<td style='color:green'>0.055</td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:green'>intelligence</td>
+<td style='color:green'>0.074</td>
+<td style='color:green'>0.053</td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:green'>evaluating</td>
+<td style='color:green'>0.063</td>
+<td style='color:green'>0.045</td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:green'>process</td>
+<td style='color:green'>0.061</td>
+<td style='color:green'>0.043</td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:green'>experiential_awareness</td>
+<td style='color:green'>0.058</td>
+<td style='color:green'>0.041</td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:green'>behavior_control-ability</td>
+<td style='color:green'>0.057</td>
+<td style='color:green'>0.041</td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:green'>action</td>
+<td style='color:green'>0.053</td>
+<td style='color:green'>0.037</td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:green'>learning</td>
+<td style='color:green'>0.051</td>
+<td style='color:green'>0.036</td>
+</tr>
+<tr>
+<td>30</td>
+<td style='color:green'>mental_calculation</td>
+<td style='color:green'>0.050</td>
+<td style='color:green'>0.035</td>
+</tr>
+<tr>
+<td>31</td>
+<td style='color:green'>knowledge</td>
+<td style='color:green'>0.048</td>
+<td style='color:green'>0.034</td>
+</tr>
+<tr>
+<td>32</td>
+<td style='color:green'>participant_modeling</td>
+<td style='color:green'>0.046</td>
+<td style='color:green'>0.032</td>
+</tr>
+<tr>
+<td>33</td>
+<td style='color:green'>collection</td>
+<td style='color:green'>0.042</td>
+<td style='color:green'>0.030</td>
+</tr>
+<tr>
+<td>34</td>
+<td style='color:green'>behavior</td>
+<td style='color:green'>0.039</td>
+<td style='color:green'>0.028</td>
+</tr>
+<tr>
+<td>35</td>
+<td style='color:green'>internalization</td>
+<td style='color:green'>0.039</td>
+<td style='color:green'>0.027</td>
+</tr>
+<tr>
+<td>36</td>
+<td style='color:green'>appraisal</td>
+<td style='color:green'>0.038</td>
+<td style='color:green'>0.027</td>
+</tr>
+<tr>
+<td>37</td>
+<td style='color:green'>imagination</td>
+<td style='color:green'>0.038</td>
+<td style='color:green'>0.027</td>
+</tr>
+<tr>
+<td>38</td>
+<td style='color:green'>intentionality</td>
+<td style='color:green'>0.035</td>
+<td style='color:green'>0.025</td>
+</tr>
+<tr>
+<td>39</td>
+<td style='color:green'>isolation_effect</td>
+<td style='color:green'>0.033</td>
+<td style='color:green'>0.024</td>
+</tr>
+<tr>
+<td>40</td>
+<td style='color:green'>mastery_experience</td>
+<td style='color:green'>0.033</td>
+<td style='color:green'>0.023</td>
+</tr>
+<tr>
+<td>41</td>
+<td style='color:green'>activity</td>
+<td style='color:green'>0.029</td>
+<td style='color:green'>0.021</td>
+</tr>
+<tr>
+<td>42</td>
+<td style='color:green'>constraint</td>
+<td style='color:green'>0.029</td>
+<td style='color:green'>0.021</td>
+</tr>
+<tr>
+<td>43</td>
+<td style='color:green'>prospect</td>
+<td style='color:green'>0.029</td>
+<td style='color:green'>0.021</td>
+</tr>
+<tr>
+<td>44</td>
+<td style='color:green'>modeling</td>
+<td style='color:green'>0.025</td>
+<td style='color:green'>0.018</td>
+</tr>
+<tr>
+<td>45</td>
+<td style='color:green'>self-efficacy</td>
+<td style='color:green'>0.025</td>
+<td style='color:green'>0.017</td>
+</tr>
+<tr>
+<td>46</td>
+<td style='color:green'>satisfaction_of_needs</td>
+<td style='color:green'>0.023</td>
+<td style='color:green'>0.016</td>
+</tr>
+<tr>
+<td>47</td>
+<td style='color:green'>frustration_of_needs</td>
+<td style='color:green'>0.023</td>
+<td style='color:green'>0.016</td>
+</tr>
+<tr>
+<td>48</td>
+<td style='color:green'>function</td>
+<td style='color:green'>0.020</td>
+<td style='color:green'>0.014</td>
+</tr>
+<tr>
+<td>49</td>
+<td style='color:green'>motivation</td>
+<td style='color:green'>0.016</td>
+<td style='color:green'>0.012</td>
+</tr>
+<tr>
+<td>50</td>
+<td style='color:green'>vicarious_experience</td>
+<td style='color:green'>0.015</td>
+<td style='color:green'>0.010</td>
+</tr>
+<tr>
+<td>51</td>
+<td style='color:green'>circumstances</td>
+<td style='color:green'>0.015</td>
+<td style='color:green'>0.010</td>
+</tr>
+<tr>
+<td>52</td>
+<td style='color:green'>symbolic_modeling</td>
+<td style='color:green'>0.010</td>
+<td style='color:green'>0.007</td>
+</tr>
+<tr>
+<td>53</td>
+<td style='color:green'>forethought_capability</td>
+<td style='color:green'>0.009</td>
+<td style='color:green'>0.006</td>
+</tr>
+<tr>
+<td>54</td>
+<td style='color:green'>alertness</td>
+<td style='color:green'>0.005</td>
+<td style='color:green'>0.004</td>
+</tr>
+<tr>
+<td>55</td>
+<td style='color:green'>norms</td>
+<td style='color:green'>0.004</td>
+<td style='color:green'>0.003</td>
+</tr>
+<tr>
+<td>56</td>
+<td style='color:green'>history</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>0.002</td>
+</tr>
+<tr>
+<td>57</td>
+<td style='color:green'>coding</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>0.001</td>
+</tr>
+<tr>
+<td>58</td>
+<td style='color:green'>comply_effect</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>0.001</td>
+</tr>
+<tr>
+<td>59</td>
+<td style='color:green'>a_memory</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>9.995e-04</td>
+</tr>
+<tr>
+<td>60</td>
+<td style='color:green'>emotional_intelligence</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>9.995e-04</td>
+</tr>
+<tr>
+<td>61</td>
+<td style='color:green'>experience</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>8.477e-04</td>
+</tr>
+<tr>
+<td>62</td>
+<td style='color:green'>_do</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>63</td>
+<td style='color:green'>_hate1</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>64</td>
+<td style='color:green'>_hate2</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>65</td>
+<td style='color:green'>_suicide1</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>66</td>
+<td style='color:green'>_suicide2</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>67</td>
+<td style='color:green'>active</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>68</td>
+<td style='color:green'>adaptive</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>69</td>
+<td style='color:green'>adaptive_response</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>70</td>
+<td style='color:green'>agreeableness</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>71</td>
+<td style='color:green'>amotivation</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>72</td>
+<td style='color:green'>amplification</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>73</td>
+<td style='color:green'>arousal</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>74</td>
+<td style='color:green'>awareness</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>75</td>
+<td style='color:green'>cognitive_process</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>76</td>
+<td style='color:green'>completeness</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>77</td>
+<td style='color:green'>conscientiousness</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>78</td>
+<td style='color:green'>control</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>79</td>
+<td style='color:green'>coping_appraisal</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>80</td>
+<td style='color:green'>descriptive_norm</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>81</td>
+<td style='color:green'>descriptive_norms</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>82</td>
+<td style='color:green'>disposition</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>83</td>
+<td style='color:green'>empowerment</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>84</td>
+<td style='color:green'>extraversion</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>85</td>
+<td style='color:green'>extrinsic_motivation</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>86</td>
+<td style='color:green'>general</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>87</td>
+<td style='color:green'>generalizing</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>88</td>
+<td style='color:green'>group</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>89</td>
+<td style='color:green'>group_norms</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>90</td>
+<td style='color:green'>injunctive_norm</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>91</td>
+<td style='color:green'>injunctive_norms</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>92</td>
+<td style='color:green'>intrinsic_motivation</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>93</td>
+<td style='color:green'>introversion</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>94</td>
+<td style='color:green'>neuroticism</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>95</td>
+<td style='color:green'>organized</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>96</td>
+<td style='color:green'>perceived_behavioral_control</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>97</td>
+<td style='color:green'>perceived_efficacy</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>98</td>
+<td style='color:green'>personality_trait</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>99</td>
+<td style='color:green'>physical</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>100</td>
+<td style='color:green'>profit</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.040</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.427</td>
+<td>Std.dev:</td>
+<td>0.066</td>
+<td>Median:</td>
+<td>0.005</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.055</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.028</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.302</td>
+<td>Std.dev:</td>
+<td>0.047</td>
+<td>Median:</td>
+<td>0.003</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.039</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<p><a name="inDegreeCentrality-graph-[Threat Groups x Behavioral]Semantic Network [Threat Groups x Behavioral]"></a></p>
+<h2>Centrality, In-Degree</h2>
+<blockquote>
+<p>The number of links directed into a node normalized by the maximum number of such links. This measure is also called Column Degree Centrality because it is computed by taking the sum of the column values in the input network.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Threat Groups x Behavioral]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Behavioral</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>personality</td>
+<td style='color:red'>0.085</td>
+<td style='color:red'>71</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>perceived_vulnerability</td>
+<td style='color:red'>0.038</td>
+<td style='color:red'>32</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>perception</td>
+<td style='color:red'>0.036</td>
+<td style='color:red'>30</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:red'>belief</td>
+<td style='color:red'>0.035</td>
+<td style='color:red'>29</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:red'>combining</td>
+<td style='color:red'>0.030</td>
+<td style='color:red'>25</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:red'>protection_effect</td>
+<td style='color:red'>0.029</td>
+<td style='color:red'>24</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:red'>intelligence</td>
+<td style='color:red'>0.028</td>
+<td style='color:red'>23</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:red'>extrinsic_rewards</td>
+<td style='color:red'>0.025</td>
+<td style='color:red'>21</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:red'>intrinsic_rewards</td>
+<td style='color:red'>0.023</td>
+<td style='color:red'>19</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:red'>physical_quality</td>
+<td style='color:red'>0.020</td>
+<td style='color:red'>17</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:red'>possibility_effect</td>
+<td style='color:red'>0.019</td>
+<td style='color:red'>16</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>perceived_consensus</td>
+<td style='color:green'>0.018</td>
+<td style='color:green'>15</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>impulsive_effect</td>
+<td style='color:green'>0.017</td>
+<td style='color:green'>14</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>persistence</td>
+<td style='color:green'>0.017</td>
+<td style='color:green'>14</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>focus</td>
+<td style='color:green'>0.016</td>
+<td style='color:green'>13</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>situational_circumstance</td>
+<td style='color:green'>0.016</td>
+<td style='color:green'>13</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>syllogistic_rules</td>
+<td style='color:green'>0.016</td>
+<td style='color:green'>13</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>perceived_responsibility</td>
+<td style='color:green'>0.014</td>
+<td style='color:green'>12</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>perceived_uniqueness</td>
+<td style='color:green'>0.014</td>
+<td style='color:green'>12</td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:green'>fear_arousal</td>
+<td style='color:green'>0.013</td>
+<td style='color:green'>11</td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:green'>appraisal</td>
+<td style='color:green'>0.012</td>
+<td style='color:green'>10</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:green'>learning</td>
+<td style='color:green'>0.012</td>
+<td style='color:green'>10</td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:green'>certainty_effect</td>
+<td style='color:green'>0.011</td>
+<td style='color:green'>9</td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:green'>experiential_awareness</td>
+<td style='color:green'>0.011</td>
+<td style='color:green'>9</td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:green'>process</td>
+<td style='color:green'>0.011</td>
+<td style='color:green'>9</td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:green'>behavior</td>
+<td style='color:green'>0.010</td>
+<td style='color:green'>8</td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:green'>behavior_control-ability</td>
+<td style='color:green'>0.010</td>
+<td style='color:green'>8</td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:green'>internalization</td>
+<td style='color:green'>0.010</td>
+<td style='color:green'>8</td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:green'>isolation_effect</td>
+<td style='color:green'>0.010</td>
+<td style='color:green'>8</td>
+</tr>
+<tr>
+<td>30</td>
+<td style='color:green'>knowledge</td>
+<td style='color:green'>0.010</td>
+<td style='color:green'>8</td>
+</tr>
+<tr>
+<td>31</td>
+<td style='color:green'>live_modeling</td>
+<td style='color:green'>0.010</td>
+<td style='color:green'>8</td>
+</tr>
+<tr>
+<td>32</td>
+<td style='color:green'>segregating</td>
+<td style='color:green'>0.010</td>
+<td style='color:green'>8</td>
+</tr>
+<tr>
+<td>33</td>
+<td style='color:green'>activity</td>
+<td style='color:green'>0.008</td>
+<td style='color:green'>7</td>
+</tr>
+<tr>
+<td>34</td>
+<td style='color:green'>collection</td>
+<td style='color:green'>0.008</td>
+<td style='color:green'>7</td>
+</tr>
+<tr>
+<td>35</td>
+<td style='color:green'>mental_calculation</td>
+<td style='color:green'>0.008</td>
+<td style='color:green'>7</td>
+</tr>
+<tr>
+<td>36</td>
+<td style='color:green'>evaluating</td>
+<td style='color:green'>0.007</td>
+<td style='color:green'>6</td>
+</tr>
+<tr>
+<td>37</td>
+<td style='color:green'>participant_modeling</td>
+<td style='color:green'>0.007</td>
+<td style='color:green'>6</td>
+</tr>
+<tr>
+<td>38</td>
+<td style='color:green'>satisfaction_of_needs</td>
+<td style='color:green'>0.007</td>
+<td style='color:green'>6</td>
+</tr>
+<tr>
+<td>39</td>
+<td style='color:green'>action</td>
+<td style='color:green'>0.006</td>
+<td style='color:green'>5</td>
+</tr>
+<tr>
+<td>40</td>
+<td style='color:green'>mastery_experience</td>
+<td style='color:green'>0.006</td>
+<td style='color:green'>5</td>
+</tr>
+<tr>
+<td>41</td>
+<td style='color:green'>vicarious_experience</td>
+<td style='color:green'>0.006</td>
+<td style='color:green'>5</td>
+</tr>
+<tr>
+<td>42</td>
+<td style='color:green'>imagination</td>
+<td style='color:green'>0.005</td>
+<td style='color:green'>4</td>
+</tr>
+<tr>
+<td>43</td>
+<td style='color:green'>intentionality</td>
+<td style='color:green'>0.005</td>
+<td style='color:green'>4</td>
+</tr>
+<tr>
+<td>44</td>
+<td style='color:green'>self-efficacy</td>
+<td style='color:green'>0.005</td>
+<td style='color:green'>4</td>
+</tr>
+<tr>
+<td>45</td>
+<td style='color:green'>frustration_of_needs</td>
+<td style='color:green'>0.004</td>
+<td style='color:green'>3</td>
+</tr>
+<tr>
+<td>46</td>
+<td style='color:green'>function</td>
+<td style='color:green'>0.004</td>
+<td style='color:green'>3</td>
+</tr>
+<tr>
+<td>47</td>
+<td style='color:green'>modeling</td>
+<td style='color:green'>0.004</td>
+<td style='color:green'>3</td>
+</tr>
+<tr>
+<td>48</td>
+<td style='color:green'>comply_effect</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>49</td>
+<td style='color:green'>constraint</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>50</td>
+<td style='color:green'>experience</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>51</td>
+<td style='color:green'>history</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>52</td>
+<td style='color:green'>motivation</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>53</td>
+<td style='color:green'>norms</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>54</td>
+<td style='color:green'>prospect</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>55</td>
+<td style='color:green'>symbolic_modeling</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>2</td>
+</tr>
+<tr>
+<td>56</td>
+<td style='color:green'>a_memory</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>57</td>
+<td style='color:green'>alertness</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>58</td>
+<td style='color:green'>circumstances</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>59</td>
+<td style='color:green'>coding</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>60</td>
+<td style='color:green'>emotional_intelligence</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>61</td>
+<td style='color:green'>forethought_capability</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>62</td>
+<td style='color:green'>_do</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>63</td>
+<td style='color:green'>_hate1</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>64</td>
+<td style='color:green'>_hate2</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>65</td>
+<td style='color:green'>_suicide1</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>66</td>
+<td style='color:green'>_suicide2</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>67</td>
+<td style='color:green'>active</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>68</td>
+<td style='color:green'>adaptive</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>69</td>
+<td style='color:green'>adaptive_response</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>70</td>
+<td style='color:green'>agreeableness</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>71</td>
+<td style='color:green'>amotivation</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>72</td>
+<td style='color:green'>amplification</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>73</td>
+<td style='color:green'>arousal</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>74</td>
+<td style='color:green'>awareness</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>75</td>
+<td style='color:green'>cognitive_process</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>76</td>
+<td style='color:green'>completeness</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>77</td>
+<td style='color:green'>conscientiousness</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>78</td>
+<td style='color:green'>control</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>79</td>
+<td style='color:green'>coping_appraisal</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>80</td>
+<td style='color:green'>descriptive_norm</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>81</td>
+<td style='color:green'>descriptive_norms</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>82</td>
+<td style='color:green'>disposition</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>83</td>
+<td style='color:green'>empowerment</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>84</td>
+<td style='color:green'>extraversion</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>85</td>
+<td style='color:green'>extrinsic_motivation</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>86</td>
+<td style='color:green'>general</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>87</td>
+<td style='color:green'>generalizing</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>88</td>
+<td style='color:green'>group</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>89</td>
+<td style='color:green'>group_norms</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>90</td>
+<td style='color:green'>injunctive_norm</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>91</td>
+<td style='color:green'>injunctive_norms</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>92</td>
+<td style='color:green'>intrinsic_motivation</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>93</td>
+<td style='color:green'>introversion</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>94</td>
+<td style='color:green'>neuroticism</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>95</td>
+<td style='color:green'>organized</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>96</td>
+<td style='color:green'>perceived_behavioral_control</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>97</td>
+<td style='color:green'>perceived_efficacy</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>98</td>
+<td style='color:green'>personality_trait</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>99</td>
+<td style='color:green'>physical</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>100</td>
+<td style='color:green'>profit</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.007</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.085</td>
+<td>Std.dev:</td>
+<td>0.012</td>
+<td>Median:</td>
+<td>0.002</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.010</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>5.778</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>71</td>
+<td>Std.dev:</td>
+<td>9.692</td>
+<td>Median:</td>
+<td>2</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>8</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+</blockquote>
+<p><a href="All Measures by Category.html">Return to previous page</a></p>
+</html>

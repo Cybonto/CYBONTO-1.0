@@ -1,0 +1,1062 @@
+<html><meta charset='utf-8'>
+<head>
+<a name='top'/>
+<title>Measure Category Analysis: Semantic Network [Situational x Assets]</title>
+<link rel='stylesheet' type='text/css' href='All Measures by Category-style-sheet.css'/>
+<link rel='stylesheet' type='text/css' href = 'https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css'>
+<script type='text/javascript' language='javascript' src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+<script type='text/javascript' language='javascript' src='https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js'></script>
+<script type='text/javascript' language='javascript' src='RankedTables.js'></script>
+<script type='text/javascript' language='javascript' src='Chart.js'></script>
+</head>
+<h1>Measure Category Analysis: Semantic Network [Situational x Assets]</h1>
+<blockquote>
+<p><a href="All Measures by Category.html">Return to previous page</a></p>
+<p>This page displays measures for the network Semantic Network [Situational x Assets].</p>
+<p>Network images have nodes colored by group and sized by betweenness centrality.</p>
+<p><img src='All Measures by Category_union_semantic_network_Semantic_Network_[Situational_x_Assets].png' alt='Not Available'/></p>
+<h2>Situational-Level Measures</h2>
+<blockquote>
+<p>These measures were run on the specified network, and produced a vector of values, one value for each Situational node.</p>
+<p>Input network: Semantic Network [Situational x Assets]</p>
+<table class='measures-ranked'>
+<col width='300px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.Dev</th>
+</tr>
+</thead>
+<tr>
+<td>Centrality, Hub</td>
+<td>0</td>
+<td>0.033</td>
+<td>0.307</td>
+<td>0.079</td>
+</tr>
+<tr>
+<td>Centrality, Hub [Unscaled]</td>
+<td>0</td>
+<td>0.023</td>
+<td>0.217</td>
+<td>0.056</td>
+</tr>
+<tr>
+<td>Centrality, Out-Degree</td>
+<td>0</td>
+<td>0.011</td>
+<td>0.100</td>
+<td>0.026</td>
+</tr>
+<tr>
+<td>Centrality, Out-Degree [Unscaled]</td>
+<td>0</td>
+<td>24.421</td>
+<td>232</td>
+<td>59.453</td>
+</tr>
+</table>
+</blockquote>
+<h2>Assets-Level Measures</h2>
+<blockquote>
+<p>These measures were run on the specified network, and produced a vector of values, one value for each Assets node.</p>
+<p>Input network: Semantic Network [Situational x Assets]</p>
+<table class='measures-ranked'>
+<col width='300px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.Dev</th>
+</tr>
+</thead>
+<tr>
+<td>Centrality, Authority</td>
+<td>0</td>
+<td>0.025</td>
+<td>0.248</td>
+<td>0.066</td>
+</tr>
+<tr>
+<td>Centrality, Authority [Unscaled]</td>
+<td>0</td>
+<td>0.018</td>
+<td>0.176</td>
+<td>0.047</td>
+</tr>
+<tr>
+<td>Centrality, In-Degree</td>
+<td>0</td>
+<td>0.011</td>
+<td>0.105</td>
+<td>0.028</td>
+</tr>
+<tr>
+<td>Centrality, In-Degree [Unscaled]</td>
+<td>0</td>
+<td>17.185</td>
+<td>172</td>
+<td>45.120</td>
+</tr>
+</table>
+</blockquote>
+<h2>Overall Top-Ranked Situational</h2>
+<blockquote>
+<p>This chart shows the Situational nodes that are top-ranked overall using the node-level measures listed below. The value shown for a node is the average of its measure values, each of which is first converted into a z-score. The final scores are then normalized to be between zero and one.</p>
+<p>There are 19 nodes in the nodeset.</p>
+<p><div class='chart'><table><td class='chart-y-axis-title'>Overall Score</td><td><canvas class='chart-canvas' id='All Measures by Category-union_semantic_network--Situational-overall-top-ranked-barchart'></canvas></td></table><script type='text/javascript' src='All Measures by Category-union_semantic_network--Situational-overall-top-ranked-barchart.js'></script></div></p>
+</blockquote>
+<p><a name="tableOfContents"></a></p>
+<h2>Measure List</h2>
+<blockquote>
+<p><a href="#hubCentrality-graph-[Situational x Assets]Semantic Network [Situational x Assets]">Centrality, Hub [Semantic Network [Situational x Assets]]</a></p>
+<p><a href="#outDegreeCentrality-graph-[Situational x Assets]Semantic Network [Situational x Assets]">Centrality, Out-Degree [Semantic Network [Situational x Assets]]</a></p>
+</blockquote>
+<p><a name="hubCentrality-graph-[Situational x Assets]Semantic Network [Situational x Assets]"></a></p>
+<h2>Centrality, Hub</h2>
+<blockquote>
+<p>A node is hub-central to the extent that its out-links are to nodes that have many in-links. Individuals or organizations that act as hubs are sending information to a wide range of others each of whom has many others reporting to them. Technically, an agent is hub-central if its out-links are to agents that have many other agents sending links to them. The scientific name of this measure is hub centrality and it is calculated on agent by agent matrices.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Situational x Assets]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Situational</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>impact</td>
+<td style='color:red'>0.307</td>
+<td style='color:red'>0.217</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>vulnerabilities</td>
+<td style='color:red'>0.158</td>
+<td style='color:red'>0.112</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>opportunity_for_criminal_acts</td>
+<td style='color:red'>0.138</td>
+<td style='color:red'>0.098</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:green'>trap</td>
+<td style='color:green'>0.014</td>
+<td style='color:green'>0.010</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:green'>parent-child_experience</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>0.001</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:green'>alarm</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:green'>commercial</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:green'>crime</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:green'>days</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:green'>deployment</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:green'>free</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>harm</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>investigation</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>party</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>social</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>sponsored</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>supervised</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>technical</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>war</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.033</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.307</td>
+<td>Std.dev:</td>
+<td>0.079</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.002</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.023</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.217</td>
+<td>Std.dev:</td>
+<td>0.056</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.001</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<p><a name="outDegreeCentrality-graph-[Situational x Assets]Semantic Network [Situational x Assets]"></a></p>
+<h2>Centrality, Out-Degree</h2>
+<blockquote>
+<p>For any node, e.g. an individual or a resource, the out-links are the connections that the node of interest has to other nodes. For example, imagine an agent by knowledge network where the number of out-links an agent would have is the number of pieces of knowledge it is connected to. The scientific name of this measure is out-degree and it can be calculated on any network.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Situational x Assets]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Situational</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>impact</td>
+<td style='color:red'>0.100</td>
+<td style='color:red'>232</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>vulnerabilities</td>
+<td style='color:red'>0.051</td>
+<td style='color:red'>119</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>opportunity_for_criminal_acts</td>
+<td style='color:red'>0.044</td>
+<td style='color:red'>102</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:green'>trap</td>
+<td style='color:green'>0.004</td>
+<td style='color:green'>10</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:green'>parent-child_experience</td>
+<td style='color:green'>4.307e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:green'>alarm</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:green'>commercial</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:green'>crime</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:green'>days</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:green'>deployment</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:green'>free</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>harm</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>investigation</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>party</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>social</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>sponsored</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>supervised</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>technical</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>war</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.011</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.100</td>
+<td>Std.dev:</td>
+<td>0.026</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>4.307e-04</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>24.421</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>232</td>
+<td>Std.dev:</td>
+<td>59.453</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>1</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<h2>Overall Top-Ranked Assets</h2>
+<blockquote>
+<p>This chart shows the Assets nodes that are top-ranked overall using the node-level measures listed below. The value shown for a node is the average of its measure values, each of which is first converted into a z-score. The final scores are then normalized to be between zero and one.</p>
+<p>There are 27 nodes in the nodeset.</p>
+<p><div class='chart'><table><td class='chart-y-axis-title'>Overall Score</td><td><canvas class='chart-canvas' id='All Measures by Category-union_semantic_network--Assets-overall-top-ranked-barchart'></canvas></td></table><script type='text/javascript' src='All Measures by Category-union_semantic_network--Assets-overall-top-ranked-barchart.js'></script></div></p>
+</blockquote>
+<p><a name="tableOfContents"></a></p>
+<h2>Measure List</h2>
+<blockquote>
+<p><a href="#authorityCentrality-graph-[Situational x Assets]Semantic Network [Situational x Assets]">Centrality, Authority [Semantic Network [Situational x Assets]]</a></p>
+<p><a href="#inDegreeCentrality-graph-[Situational x Assets]Semantic Network [Situational x Assets]">Centrality, In-Degree [Semantic Network [Situational x Assets]]</a></p>
+</blockquote>
+<p><a name="authorityCentrality-graph-[Situational x Assets]Semantic Network [Situational x Assets]"></a></p>
+<h2>Centrality, Authority</h2>
+<blockquote>
+<p>A node is authority-central to the extent that its in-links are from nodes that have many out-links. Individuals or organizations that act as authorities are receiving information from a wide range of others each of whom sends information to a large number of others.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Situational x Assets]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Assets</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>loss</td>
+<td style='color:red'>0.248</td>
+<td style='color:red'>0.176</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>gain</td>
+<td style='color:red'>0.246</td>
+<td style='color:red'>0.174</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>policy</td>
+<td style='color:red'>0.093</td>
+<td style='color:red'>0.066</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:green'>source</td>
+<td style='color:green'>0.051</td>
+<td style='color:green'>0.036</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:green'>resource</td>
+<td style='color:green'>0.033</td>
+<td style='color:green'>0.023</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:green'>rewards</td>
+<td style='color:green'>0.009</td>
+<td style='color:green'>0.006</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:green'>hypervisor</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>7.288e-04</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:green'>air</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:green'>airline</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:green'>airport</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:green'>baggage</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>communication_link</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>domain_generation_algorithms</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>facilities</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>firewalls</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>house</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>label</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>labels</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>list</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:green'>news</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:green'>product</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:green'>remote_access_tools</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:green'>report</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:green'>rundll32</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:green'>space</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:green'>time</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:green'>toc</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.025</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.248</td>
+<td>Std.dev:</td>
+<td>0.066</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.001</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.018</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.176</td>
+<td>Std.dev:</td>
+<td>0.047</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>7.288e-04</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<p><a name="inDegreeCentrality-graph-[Situational x Assets]Semantic Network [Situational x Assets]"></a></p>
+<h2>Centrality, In-Degree</h2>
+<blockquote>
+<p>The number of links directed into a node normalized by the maximum number of such links. This measure is also called Column Degree Centrality because it is computed by taking the sum of the column values in the input network.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Situational x Assets]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Assets</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>gain</td>
+<td style='color:red'>0.105</td>
+<td style='color:red'>172</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>loss</td>
+<td style='color:red'>0.102</td>
+<td style='color:red'>167</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:green'>policy</td>
+<td style='color:green'>0.036</td>
+<td style='color:green'>59</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:green'>source</td>
+<td style='color:green'>0.024</td>
+<td style='color:green'>39</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:green'>resource</td>
+<td style='color:green'>0.013</td>
+<td style='color:green'>21</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:green'>rewards</td>
+<td style='color:green'>0.003</td>
+<td style='color:green'>5</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:green'>hypervisor</td>
+<td style='color:green'>6.120e-04</td>
+<td style='color:green'>1</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:green'>air</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:green'>airline</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:green'>airport</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:green'>baggage</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>communication_link</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>domain_generation_algorithms</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>facilities</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>firewalls</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>house</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>label</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>labels</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>list</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:green'>news</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:green'>product</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:green'>remote_access_tools</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:green'>report</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:green'>rundll32</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:green'>space</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:green'>time</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:green'>toc</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.011</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.105</td>
+<td>Std.dev:</td>
+<td>0.028</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>6.120e-04</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>17.185</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>172</td>
+<td>Std.dev:</td>
+<td>45.120</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>1</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+</blockquote>
+<p><a href="All Measures by Category.html">Return to previous page</a></p>
+</html>

@@ -1,0 +1,1183 @@
+<html><meta charset='utf-8'>
+<head>
+<a name='top'/>
+<title>Measure Category Analysis: Semantic Network [Concept x Organization]</title>
+<link rel='stylesheet' type='text/css' href='All Measures by Category-style-sheet.css'/>
+<link rel='stylesheet' type='text/css' href = 'https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css'>
+<script type='text/javascript' language='javascript' src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+<script type='text/javascript' language='javascript' src='https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js'></script>
+<script type='text/javascript' language='javascript' src='RankedTables.js'></script>
+<script type='text/javascript' language='javascript' src='Chart.js'></script>
+</head>
+<h1>Measure Category Analysis: Semantic Network [Concept x Organization]</h1>
+<blockquote>
+<p><a href="All Measures by Category.html">Return to previous page</a></p>
+<p>This page displays measures for the network Semantic Network [Concept x Organization].</p>
+<p>Network images have nodes colored by group and sized by betweenness centrality.</p>
+<p><img src='All Measures by Category_union_semantic_network_Semantic_Network_[Concept_x_Organization].png' alt='Not Available'/></p>
+<h2>Concept-Level Measures</h2>
+<blockquote>
+<p>These measures were run on the specified network, and produced a vector of values, one value for each Concept node.</p>
+<p>Input network: Semantic Network [Concept x Organization]</p>
+<table class='measures-ranked'>
+<col width='300px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.Dev</th>
+</tr>
+</thead>
+<tr>
+<td>Centrality, Hub</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Centrality, Hub [Unscaled]</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Centrality, Out-Degree</td>
+<td>0</td>
+<td>0.001</td>
+<td>0.057</td>
+<td>0.007</td>
+</tr>
+<tr>
+<td>Centrality, Out-Degree [Unscaled]</td>
+<td>0</td>
+<td>0.088</td>
+<td>5</td>
+<td>0.612</td>
+</tr>
+</table>
+</blockquote>
+<h2>Organization-Level Measures</h2>
+<blockquote>
+<p>These measures were run on the specified network, and produced a vector of values, one value for each Organization node.</p>
+<p>Input network: Semantic Network [Concept x Organization]</p>
+<table class='measures-ranked'>
+<col width='300px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.Dev</th>
+</tr>
+</thead>
+<tr>
+<td>Centrality, Authority</td>
+<td>0</td>
+<td>0.008</td>
+<td>0.132</td>
+<td>0.026</td>
+</tr>
+<tr>
+<td>Centrality, Authority [Unscaled]</td>
+<td>0</td>
+<td>0.005</td>
+<td>0.094</td>
+<td>0.018</td>
+</tr>
+<tr>
+<td>Centrality, In-Degree</td>
+<td>0</td>
+<td>0.001</td>
+<td>0.015</td>
+<td>0.003</td>
+</tr>
+<tr>
+<td>Centrality, In-Degree [Unscaled]</td>
+<td>0</td>
+<td>0.207</td>
+<td>3</td>
+<td>0.609</td>
+</tr>
+</table>
+</blockquote>
+<h2>Overall Top-Ranked Concept</h2>
+<blockquote>
+<p>This chart shows the Concept nodes that are top-ranked overall using the node-level measures listed below. The value shown for a node is the average of its measure values, each of which is first converted into a z-score. The final scores are then normalized to be between zero and one.</p>
+<p>There are 68 nodes in the nodeset.</p>
+<p><div class='chart'><table><td class='chart-y-axis-title'>Overall Score</td><td><canvas class='chart-canvas' id='All Measures by Category-union_semantic_network--Concept-overall-top-ranked-barchart'></canvas></td></table><script type='text/javascript' src='All Measures by Category-union_semantic_network--Concept-overall-top-ranked-barchart.js'></script></div></p>
+</blockquote>
+<p><a name="tableOfContents"></a></p>
+<h2>Measure List</h2>
+<blockquote>
+<p><a href="#hubCentrality-graph-[Concept x Organization]Semantic Network [Concept x Organization]">Centrality, Hub [Semantic Network [Concept x Organization]]</a></p>
+<p><a href="#outDegreeCentrality-graph-[Concept x Organization]Semantic Network [Concept x Organization]">Centrality, Out-Degree [Semantic Network [Concept x Organization]]</a></p>
+</blockquote>
+<p><a name="hubCentrality-graph-[Concept x Organization]Semantic Network [Concept x Organization]"></a></p>
+<h2>Centrality, Hub</h2>
+<blockquote>
+<p>A node is hub-central to the extent that its out-links are to nodes that have many in-links. Individuals or organizations that act as hubs are sending information to a wide range of others each of whom has many others reporting to them. Technically, an agent is hub-central if its out-links are to agents that have many other agents sending links to them. The scientific name of this measure is hub centrality and it is calculated on agent by agent matrices.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Concept x Organization]</p>
+<p>All nodes have a score of zero.</p>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<p><a name="outDegreeCentrality-graph-[Concept x Organization]Semantic Network [Concept x Organization]"></a></p>
+<h2>Centrality, Out-Degree</h2>
+<blockquote>
+<p>For any node, e.g. an individual or a resource, the out-links are the connections that the node of interest has to other nodes. For example, imagine an agent by knowledge network where the number of out-links an agent would have is the number of pieces of knowledge it is connected to. The scientific name of this measure is out-degree and it can be calculated on any network.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Concept x Organization]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Concept</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>wanting</td>
+<td style='color:red'>0.057</td>
+<td style='color:red'>5</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>rootkit</td>
+<td style='color:red'>0.011</td>
+<td style='color:red'>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:green'>___level</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:green'>___others</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:green'>_love2</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:green'>_toc496765173</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:green'>based</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:green'>bit</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:green'>byod</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:green'>called</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:green'>centric</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>cleaver</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>coded</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>coder</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>complete</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>content</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>critical</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>day</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>defence</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:green'>defense</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:green'>defined</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:green'>digital</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:green'>driven</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:green'>enabled</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:green'>enter</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:green'>facilitated</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:green'>factor</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:green'>feb</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:green'>global</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>30</td>
+<td style='color:green'>going</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>31</td>
+<td style='color:green'>gram</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>32</td>
+<td style='color:green'>high</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>33</td>
+<td style='color:green'>hooking</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>34</td>
+<td style='color:green'>interested</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>35</td>
+<td style='color:green'>large</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>36</td>
+<td style='color:green'>led</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>37</td>
+<td style='color:green'>level</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>38</td>
+<td style='color:green'>making</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>39</td>
+<td style='color:green'>malicious</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>40</td>
+<td style='color:green'>management</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>41</td>
+<td style='color:green'>mandated</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>42</td>
+<td style='color:green'>mediated</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>43</td>
+<td style='color:green'>n-phenylacrylamide</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>44</td>
+<td style='color:green'>nitro</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>45</td>
+<td style='color:green'>oct</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>46</td>
+<td style='color:green'>opioid</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>47</td>
+<td style='color:green'>oriented</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>48</td>
+<td style='color:green'>owned</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>49</td>
+<td style='color:green'>powershell</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>50</td>
+<td style='color:green'>provide</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>51</td>
+<td style='color:green'>scada</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>52</td>
+<td style='color:green'>scale</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>53</td>
+<td style='color:green'>screening</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>54</td>
+<td style='color:green'>security</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>55</td>
+<td style='color:green'>separated</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>56</td>
+<td style='color:green'>set</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>57</td>
+<td style='color:green'>side</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>58</td>
+<td style='color:green'>sir</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>59</td>
+<td style='color:green'>software</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>60</td>
+<td style='color:green'>solve</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>61</td>
+<td style='color:green'>strong</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>62</td>
+<td style='color:green'>style</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>63</td>
+<td style='color:green'>t3</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>64</td>
+<td style='color:green'>term</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>65</td>
+<td style='color:green'>tolerant</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>66</td>
+<td style='color:green'>type</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>67</td>
+<td style='color:green'>variant</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>68</td>
+<td style='color:green'>year</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.001</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.057</td>
+<td>Std.dev:</td>
+<td>0.007</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.088</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>5</td>
+<td>Std.dev:</td>
+<td>0.612</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<h2>Overall Top-Ranked Organization</h2>
+<blockquote>
+<p>This chart shows the Organization nodes that are top-ranked overall using the node-level measures listed below. The value shown for a node is the average of its measure values, each of which is first converted into a z-score. The final scores are then normalized to be between zero and one.</p>
+<p>There are 29 nodes in the nodeset.</p>
+<p><div class='chart'><table><td class='chart-y-axis-title'>Overall Score</td><td><canvas class='chart-canvas' id='All Measures by Category-union_semantic_network--Organization-overall-top-ranked-barchart'></canvas></td></table><script type='text/javascript' src='All Measures by Category-union_semantic_network--Organization-overall-top-ranked-barchart.js'></script></div></p>
+</blockquote>
+<p><a name="tableOfContents"></a></p>
+<h2>Measure List</h2>
+<blockquote>
+<p><a href="#authorityCentrality-graph-[Concept x Organization]Semantic Network [Concept x Organization]">Centrality, Authority [Semantic Network [Concept x Organization]]</a></p>
+<p><a href="#inDegreeCentrality-graph-[Concept x Organization]Semantic Network [Concept x Organization]">Centrality, In-Degree [Semantic Network [Concept x Organization]]</a></p>
+</blockquote>
+<p><a name="authorityCentrality-graph-[Concept x Organization]Semantic Network [Concept x Organization]"></a></p>
+<h2>Centrality, Authority</h2>
+<blockquote>
+<p>A node is authority-central to the extent that its in-links are from nodes that have many out-links. Individuals or organizations that act as authorities are receiving information from a wide range of others each of whom sends information to a large number of others.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Concept x Organization]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Organization</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>organization</td>
+<td style='color:red'>0.132</td>
+<td style='color:red'>0.094</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>exposure</td>
+<td style='color:red'>0.044</td>
+<td style='color:red'>0.031</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>task</td>
+<td style='color:red'>0.044</td>
+<td style='color:red'>0.031</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:green'>__data</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:green'>_enron1</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:green'>_news</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:green'>authority</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:green'>capability</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:green'>china</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:green'>division</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:green'>goal</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>government_organization</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>governmental</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>international</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>iranian</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>israeli</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>mail</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>member</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>military</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:green'>national</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:green'>ownership</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:green'>passenger</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:green'>planning</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:green'>preference</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:green'>role</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:green'>skill</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:green'>thinking</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:green'>user</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:green'>work</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.008</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.132</td>
+<td>Std.dev:</td>
+<td>0.026</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.005</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.094</td>
+<td>Std.dev:</td>
+<td>0.018</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<p><a name="inDegreeCentrality-graph-[Concept x Organization]Semantic Network [Concept x Organization]"></a></p>
+<h2>Centrality, In-Degree</h2>
+<blockquote>
+<p>The number of links directed into a node normalized by the maximum number of such links. This measure is also called Column Degree Centrality because it is computed by taking the sum of the column values in the input network.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Semantic Network [Concept x Organization]</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='300px'/>
+<col width='80px'/>
+<col width='80px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Organization</th>
+<th>Value</th>
+<th>Unscaled</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>organization</td>
+<td style='color:red'>0.015</td>
+<td style='color:red'>3</td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>exposure</td>
+<td style='color:red'>0.005</td>
+<td style='color:red'>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>goal</td>
+<td style='color:red'>0.005</td>
+<td style='color:red'>1</td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:red'>task</td>
+<td style='color:red'>0.005</td>
+<td style='color:red'>1</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:green'>__data</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:green'>_enron1</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:green'>_news</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:green'>authority</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:green'>capability</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:green'>china</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:green'>division</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:green'>government_organization</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:green'>governmental</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:green'>international</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:green'>iranian</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:green'>israeli</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:green'>mail</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:green'>member</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:green'>military</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:green'>national</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:green'>ownership</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:green'>passenger</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:green'>planning</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:green'>preference</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:green'>role</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:green'>skill</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:green'>thinking</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:green'>user</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:green'>work</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.001</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.015</td>
+<td>Std.dev:</td>
+<td>0.003</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0</td>
+</tr>
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Unscaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.207</td>
+<td>Lower quartile:</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>3</td>
+<td>Std.dev:</td>
+<td>0.609</td>
+<td>Median:</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+</blockquote>
+<p><a href="All Measures by Category.html">Return to previous page</a></p>
+</html>
